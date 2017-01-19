@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="httpserver_title" maxwidth="">"Trådløs filoverføring til PC"</string>
+    <string name="httpserver_start" maxwidth="">"Start"</string>
+    <string name="httpserver_stop" maxwidth="">"Stopp"</string>
+    <string name="httpserver_need_saf" maxwidth="">"Hvis du vil administrere ekstern lagring fra PC-en, må du gi tillatelse."</string>
+    <string name="httpserver_description" maxwidth="">"Start tjenesten for å koble den mobile enheten til PC-en."</string>
+    <string name="httpserver_instruction" maxwidth="">"Tast inn denne adressen i nettleseren på PC-en:"</string>
+    <string name="httpserver_no_network" maxwidth="">"Koble enheten til samme Wi-Fi-nettverk"</string>
+    <string name="httpserver_no_permission_title" maxwidth="">"Start trådløs filoverføring"</string>
+    <string name="httpserver_no_permission_message" maxwidth="">"Du vil ikke kunne skrive til ekstern lagring uten tillatelse. Vil du fortsette?"</string>
+    <string name="httpserver_acquire_permission_message" maxwidth="">"HTTP-filserveren vil lukkes, og operasjoner kan bli avbrutt. Vil du fortsette?"</string>
+    <string name="category_title_tools">"Verktøy"</string>
+    <string name="tools_file_transfer">"PC-filoverføring"</string>
+    <string name="tools_clean_master">"Tøm søppel"</string>
+    <string name="retention_notification_large_file">"Du har lagt til %1$s store filer. Se dem nå."</string>
+    <string name="retention_notification_recent_file">"Dine nylige filer tar %1$s plass. Se dem nå."</string>
+    <string name="recommend_clean_master_msg">"Verdens mest pålitelige Android-app for optimalisering, hastighetsøkning, batterisparing og gratis antivirus. \nLaste ned nå?"</string>
+    <string name="recommend_clean_master_title">"App-anbefaling"</string>
+    <string name="tools_tip_animation">"Dra opp for verktøy!"</string>
+</resources>

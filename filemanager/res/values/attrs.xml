@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <declare-styleable name="RoundedImageView">
+    <attr name="riv_corner_radius" format="dimension" />
+    <attr name="riv_corner_radius_top_left" format="dimension" />
+    <attr name="riv_corner_radius_top_right" format="dimension" />
+    <attr name="riv_corner_radius_bottom_left" format="dimension" />
+    <attr name="riv_corner_radius_bottom_right" format="dimension" />
+    <attr name="riv_border_width" format="dimension" />
+    <attr name="riv_border_color" format="color" />
+    <attr name="riv_mutate_background" format="boolean" />
+    <attr name="riv_oval" format="boolean" />
+    <attr name="android:scaleType" />
+    <attr name="riv_tile_mode">
+      <enum name="clamp" value="0" />
+      <enum name="repeat" value="1" />
+      <enum name="mirror" value="2" />
+    </attr>
+    <attr name="riv_tile_mode_x">
+      <enum name="clamp" value="0" />
+      <enum name="repeat" value="1" />
+      <enum name="mirror" value="2" />
+    </attr>
+    <attr name="riv_tile_mode_y">
+      <enum name="clamp" value="0" />
+      <enum name="repeat" value="1" />
+      <enum name="mirror" value="2" />
+    </attr>
+  </declare-styleable>
+
+  <declare-styleable name="CircleChartView">
+    <attr name="textHintColor" format="color" />
+    <attr name="progressHintColor" format="color" />
+    <attr name="circleStartDegree" format="integer" />
+    <attr name="circleBaseColor" format="color" />
+    <attr name="circleFadeOutColor" format="color" />
+    <attr name="animationMaskColor" format="color" />
+    <attr name="showAnimationMask" format="boolean" />
+  </declare-styleable>
+
+  <declare-styleable name="CircleLabelTextView">
+    <attr name="circleLabelColor" format="color" />
+  </declare-styleable>
+
+  <declare-styleable name="KeyboardButtonView">
+  	<attr name="lp_keyboard_button_text" format="string" />
+  </declare-styleable>
+
+  <declare-styleable name="PasswordTextView">
+    <attr name="scaledTextSize" format="integer" />
+  </declare-styleable>
+
+  <attr name="theme_name" format="string" />
+  <attr name="cardview_background_color" format="color" />
+  <attr name="normal_background_color" format="color" />
+  <attr name="category_image_font_color" format="color" />
+  <attr name="category_text_color" format="color" />
+  <attr name="text_color" format="color" />
+  <attr name="title_color" format="color" />
+  <attr name="subtitle_color" format="color" />
+  <attr name="divider_color" format="color" />
+  <attr name="caplet_color" format="reference" />
+  <attr name="card_bg" format="reference" />
+  <attr name="card_whole_bg" format="reference" />
+  <attr name="search_drawable" format="reference" />
+  <attr name="analyzer_cardbase_title_color" format="color" />
+  <attr name="analyzer_cardbase_subtitle_color" format="color" />
+  <attr name="analyzer_cardbase_size_color" format="color" />
+  <attr name="analyzer_rect_label_video" format="reference" />
+  <attr name="actionmode_menu_icon" format="reference" />
+  <attr name="filelist_item_name_color" format="color" />
+  <attr name="filelist_divider_color" format="color" />
+  <attr name="filelist_pathcontainer_divider_color" format="color" />
+  <attr name="menuitem_selector" format="reference" />
+  <attr name="iteminfo_background_color" format="color" />
+  <attr name="httpserver_background_image" format="reference" />
+  <attr name="actionmode_style" format="reference" />
+  <attr name="edittext_background" format="reference" />
+  <attr name="bg_album" format="reference" />
+  <attr name="checkbox" format="reference" />
+  <attr name="keyboard_textcolor" format="reference" />
+  <attr name="dialog_backgroundColor" format="color" />
+  <attr name="toolbar_textstyle" format="reference" />
+</resources>

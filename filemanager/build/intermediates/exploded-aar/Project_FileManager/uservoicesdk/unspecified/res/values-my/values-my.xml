@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="uf_sdk_number_of_subscribers_format">
+        <item quantity="one">%1$s သည် ဤအကြောင်းအရာကို နှစ်သက်သည်</item>
+        <item quantity="other">%1$s သည် ဤအကြောင်းအရာကို နှစ်သက်သည်</item>
+    </plurals>
+    <plurals name="uf_sdk_topics">
+        <item quantity="one">အကြောင်းအရာ</item>
+        <item quantity="other">အကြောင်းအရာများ</item>
+    </plurals>
+    <plurals name="uv_comments">
+        <item quantity="one">မှတ်ချက်</item>
+        <item quantity="other">မှတ်ချက်များ</item>
+    </plurals>
+    <plurals name="uv_number_of_subscribers_format">
+        <item quantity="one">%1$s က ဤစိတ်ကူးကို လိုချင်သည်</item>
+        <item quantity="other">%1$s က ဤစိတ်ကူးကို လိုချင်သည်</item>
+    </plurals>
+    <plurals name="uv_people">
+        <item quantity="one">လူ</item>
+        <item quantity="other">လူများ</item>
+    </plurals>
+    <plurals name="uv_subscribers">
+        <item quantity="one">စာရင်းသွင်းသူ</item>
+        <item quantity="other">စာရင်းသွင်းသူများ</item>
+    </plurals>
+    <string description="label for trending searches" maxwidth="-1" name="trending_searches">"ရေပန်းစားနေသည်ကို ရှာဖွေမှုများ"</string>
+    <string name="uf_sdk_already_give_5star">ကြယ် ၅ ပွင့်အဆင့် ပေးထားပြီးဖြစ်သည်</string>
+    <string description="%d is a number, don&apos;t translate" name="uf_sdk_article_read_count">"ကြည့်ရှုမှု %d ခု"</string>
+    <string name="uf_sdk_attachment_format_warning">Wrong file format. Only image file can be attached</string>
+    <string name="uf_sdk_attachment_total_size">"စုစုပေါင်း"</string>
+    <string name="uf_sdk_attachment_warning">"ပူးတွဲအရွယ်အစားသည် ခွင့်ပြုနိုင်သည့်ကန့်သတ်ချက်ထက် ကျော်နေသည်"</string>
+    <string maxwidth="-1" name="uf_sdk_cancel_btn_content">"ပယ်ဖျက်ပါ"</string>
+    <string name="uf_sdk_choosertitle_sharevia">မှ မျှဝေသည်</string>
+    <string name="uf_sdk_connection_error_msg">ကွန်နက်ရှင်ကို ဆာဗာမှ ရပ်ဆိုင်းထားပါသည်။ ကျေးဇူးပြုပြီး နောက်မှ ပြန်ကြိုးစားပါ။</string>
+    <string name="uf_sdk_connection_error_title">ကွန်နက်ရှင် မှားယွင်းမှု</string>
+    <string name="uf_sdk_discard">"ဖျက်ပစ်ပါ"</string>
+    <string name="uf_sdk_email_illigal">အီးမေးလ်လိပ်စာသည် အသုံးပြုပြီးသား ဖြစ်ပါသည်</string>
+    <string maxwidth="-1" name="uf_sdk_empty_notification">"ဘာမှ မရှိ :)"</string>
+    <string name="uf_sdk_faq">မကြာခဏမေးသောမေးခွန်း</string>
+    <string name="uf_sdk_feedback_and_help">တုံ့ပြန်မှု နှင့် အကူအညီ</string>
+    <string name="uf_sdk_forum_description">သင်၏ဖြေရှင်းချက်များကို ရှာရန်နှင့် ဝေမျှရန် ASUS အသုံးပြုသူများနှင့် အပြန်အလှန်ပြောဆိုခြင်းသို့ ဆက်သွယ်ပါ။</string>
+    <string maxwidth="-1" name="uf_sdk_grant_permission_title">"အတွက် ခွင့်ပြုပေးပါ"</string>
+    <string name="uf_sdk_help">အကူအညီ</string>
+    <string name="uf_sdk_instant_answer_question">ဤ FAQ သည် အကူအညီပေးပါသလား။</string>
+    <string name="uf_sdk_like">အကြိုက်</string>
+    <string maxwidth="-1" name="uf_sdk_message">"သတိပေးချက်များ"</string>
+    <string name="uf_sdk_msg_bad_email_format">အီးမေးလ်လိပ်စာမမှန်ပါ၊ ကျေးဇူးပြု၍ ထပ်ကြိုးစားပါ။</string>
+    <string name="uf_sdk_msg_confirm_discard_topic">သင်၏အကြမ်းကို သိမ်းလိမ့်မည် မဟုတ်ပါ။ ၎င်းကို မည်သို့ဖြစ်ဖြစ် ဖျက်လိုသလား။</string>
+    <string name="uf_sdk_msg_confirm_discard_topic_title">ပို့စ်ကို ဖျက်မလား။</string>
+    <string name="uf_sdk_msg_subscribe">မှာယူအသုံးပြုခြင်း အကြောင်းအရာ အခြေအနေ သတိပေးချက်ကို သင့်ထံသို့ အီးမေးလ်ဖြင့် ပေးပို့လိမ့်မည်။</string>
+    <string name="uf_sdk_msg_subscribe_success">မှာယူအသုံးပြုခြင်း အောင်မြင်သည်</string>
+    <string name="uf_sdk_msg_ticket_created">သင့်တုံ့ပြန်မှုကို ASUS သို့ အောင်မြင်စွာ ပို့ပြီးပြီ။</string>
+    <string name="uf_sdk_msg_topic_created">အောင်မြင်စွာ အများသိစေရန် ဖော်ပြပြီး</string>
+    <string name="uf_sdk_msg_unsubscribe">မှာယူအသုံးပြုခြင်း မအောင်မြင်ပါ</string>
+    <string name="uf_sdk_name_hint">သင့်အမည်ကို ထည့်ပါ</string>
+    <string name="uf_sdk_name_illigal">အသုံးပြုသူအမည်ကို အသုံးပြုပြီး ဖြစ်ပါသည်။</string>
+    <string name="uf_sdk_network_error">အင်တာနက် ချိတ်ဆက်မှု မရှိ၊ ကျေးဇူးပြု၍ သင့်ကွန်ရက်ဆက်တင်များကို စစ်ဆေးပါ။</string>
+    <string description="zenui news" maxwidth="" name="uf_sdk_news">သတင်း</string>
+    <string name="uf_sdk_no_network_connection_content">ဒေတာပြင်ဆင်ရန်မဖြစ်နိုင်ပါ ကျေးဇူးပြုပြီး သင့်ကွန်ရက်ဆက်တင်များကို စစ်ဆေးပါ။</string>
+    <string name="uf_sdk_no_network_connection_title">ကွန်ရက်ဆက်သွယ်ခြင်းမရှိပါ</string>
+    <string name="uf_sdk_nothing_found">ဘာမှ မတွေ့ပါ</string>
+    <string name="uf_sdk_notice">အသိပေးချက်</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category1">"ကြေငြာချက်များ"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category2">"ကျူတိုရီယယ်နှင့် အကြံပြုချက်များ"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category3">"မြှင့်တင်ရေးများ"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category4">"ဖြစ်ရပ်များ"</string>
+    <string name="uf_sdk_publish_an_topic">အကြောင်းအရာအသစ်ကို အများသိစေရန် ဖော်ပြပါ</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_rate_now">ယခု အမှတ်ပေးပါ</string>
+    <string description="%s is AP name, don&apos;t translate" maxWidth="" name="uf_sdk_rate_us_detail">"%s ကို သုံးစွဲ၍ သင်ပျော်ရွှင်ရပါက Play Store တွင် ကျွန်ုပ်တို့ကို ကြယ် ၅ ပွင့် နှုန်းသတ်မှတ်ပေးပါ။"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_detail_new">"ကြယ် ၅ ပွင့်နှင့် သင့်ပံ့ပိုးမှုသည် ကျွန်ုပ်တို့အလုပ်ကို ဆက်လက်လုပ်ဆောင်ရန် ကျွန်ုပ်တို့အား စိတ်ဓာတ်တက်ကြွစေမည်။"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_rating">"ကြယ် ၅ ပွင့် နှုန်းသတ်မှတ်ခြင်း"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title">"ကျွန်ုပ်တို့ကို နှုန်းသတ်မှတ်ပေးပါ"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title_new">"ကျွန်ုပ်တို့ကို အားပေးပါ"</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_scroll_up_toast">"အမှတ်ပေးရန် အပေါ်သို့ ဆွဲယူပါ"</string>
+    <string name="uf_sdk_search_hint">ရှာဖွေခြင်း</string>
+    <string name="uf_sdk_select_common_bug">အများစုအမှားကိုရွေးပါ</string>
+    <string name="uf_sdk_send_feedback">တုံ့ပြန်မှု ပြန်ပို့ပါ</string>
+    <string name="uf_sdk_send_feedback_help">သင့်တုံ့ပြန်မှုနှင့် အီးမေးလ်လိပ်စာကို ASUS သို့ ပို့လိမ့်မည်။ ဝန်ဆောင်မှုအဖွဲ့သည် သင့်အား အီးမေးလ်ဖြင့် ဆက်သွယ်လိမ့်မည်။</string>
+    <string maxwidth="-1" name="uf_sdk_setting_btn_content">"ဆက်တင်များ"</string>
+    <string description="recommend title" maxwidth="" name="uf_sdk_settings_encourage_us_title">ကျွန်ုပ်တို့ကို အားပေးပါ</string>
+    <string maxwidth="-1" name="uf_sdk_storage_permission_description">"မာတီမီဒီယာဖိုင်များကို ရယူသုံးစွဲရန် ဤလုပ်ဆောင်ချက်က သိုလှောင်ခန်းခွင့်ပြုချက်ကို ရယူရန်လိုသည်။ \n\nဤလုပ်ဆောင်ချက်ကို ဖွင့်လိုလျှင် ၏ ဆက်တင်စာမျက်နှာသို့ သွားရန် ဆက်တင်ခလုတ်ကိုနှိပ်ပါ၊ ပြီးနောက် ခွင့်ပြုချက်ပေးရန် \"အက်ပ်အချက်အလက်\" > \"ခွင့်ပြုချက်များ\" ကို သတ်မှတ်ပါ။\n"</string>
+    <string name="uf_sdk_submit_topic">အများသိစေရန် ဖော်ပြပါ</string>
+    <string name="uf_sdk_subscribe_dialog_title">ဤအကြောင်းအရာသို့ မှာယူအသုံးပြုပါ</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_answered">"ဖြေပြီး"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_completed">"ပြီးစီး"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_declined">"မအောင်မြင်"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_implemented">"တည်ဆောက်ပြီး"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_planned">"စီစဉ်ထား"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_under_review">"စစ်ဆေးဆဲ"</string>
+    <string name="uf_sdk_thanks_for_your_feedback">သင့်တုံ့ပြန်မှုအတွက် ကျေးဇူးတင်ပါတယ်။</string>
+    <string description="%s is a application name, don&apos;t translate" name="uf_sdk_ticket_hint">%s အတွက် အဝင် တုံ့ပြန်မှုများ</string>
+    <string name="uf_sdk_title_topic">အကြောင်းအရာ</string>
+    <string name="uf_sdk_topic">အကြောင်းအရာ</string>
+    <string name="uf_sdk_topic_description_heading">ဖော်ပြချက်</string>
+    <string name="uf_sdk_topic_description_hint">သင့်အကြောင်းအရာ အသေးစိတ်ကို ဖော်ပြပါ</string>
+    <string name="uf_sdk_topic_filter">အကြောင်းအရာများ</string>
+    <string name="uf_sdk_topic_form_help">အသုံးပြုသူဖိုရမ်တွင် အကြောင်းအရာတစ်ခုကို အများသိစေရန် ဖော်ပြသောအခါ အခြားအသုံးပြုသူများသည် ၎င်းကို မှာယူအသုံးပြုပြီး ထင်မြင်ချက်ပေးနိုင်သည်။ ASUS ဖွံ့ဖြိုးတိုးတက်ရေးအဖွဲ့သည် အကြောင်းအရာကို တုံ့ပြန်သောအခါ သင့်အား အီးမေးလ်ဖြင့် အသိပေးလိမ့်မည်…</string>
+    <string name="uf_sdk_topic_form_title">အကြောင်းအရာအသစ်ကို အများသိစေရန် ဖော်ပြပါ</string>
+    <string name="uf_sdk_topic_text_heading">ဖိုရမ်</string>
+    <string name="uf_sdk_topic_text_hint">သင့်အကြောင်းအရာခေါင်းစဉ်ကို ရိုက်ထည့်ပါ</string>
+    <string name="uf_sdk_topic_title">ခေါင်းစဉ်</string>
+    <string name="uf_sdk_translation_10117605">"ဘာသာပြန် ထုတ်ပြန်မှု"</string>
+    <string name="uf_sdk_translation_117562">တုံ့ပြန်မှုအမျိုးအစား</string>
+    <string name="uf_sdk_translation_2529543">အမှားဖြစ်ပွားမှု အစီရင်ခံစာ</string>
+    <string name="uf_sdk_translation_2529544">အခြား</string>
+    <string name="uf_sdk_translation_2530478">အကြံပြုချက်</string>
+    <string name="uf_sdk_unhelpful_article_message_question">တုံ့ပြန်မှုကို ASUS ဖွံ့ဖြိုးတိုးတက်ရေးအဖွဲ့သို့ ပို့မလား။</string>
+    <string name="uf_sdk_user_forum">သုံးစွဲသူ ဖိုရမ်</string>
+    <string name="uf_sdk_warning">သတိပေးချက်</string>
+    <string name="uf_sdk_wifi_settings">Wi-Fi ဆက်တင်များ</string>
+    <string name="uf_sdk_wlan_settings">WLAN ဆက်တင်များ</string>
+    <string name="uf_sdk_write_your_feedback">အဝင် တုံ့ပြန်မှုများ ဒီမှာ</string>
+    <string name="uf_sdk_your_draft_will_be_discarded">သင်၏ စာကြမ်းကို ဖယ်ထုတ်ပစ်လိမ့်မည်။</string>
+    <string description="description for empty search result" maxwidth="-1" name="unable_to_find_artlcles">"\u0022%s\u0022 နှင့်ဆက်စပ်နေသော ဆောင်းပါးများကို ရှာမတွေ့ပါ"</string>
+    <string name="uv_admin_response_format">စီမံသူ တုန့်ပြန်ချက်- %1$s</string>
+    <string name="uv_all_articles">ဆောင်းပါးအားလုံး</string>
+    <string name="uv_all_results_filter">အားလုံး</string>
+    <string name="uv_android_sdk">Android SDK</string>
+    <string name="uv_article_browse_question">ဤဆောင်းပါးသည် အကူအညီဖြစ်ပါသလာ?</string>
+    <string name="uv_article_instant_answer_question">ဤ FAQ သည် အကူအညီပေးပါသလာ?</string>
+    <string name="uv_cancel">ပယ်ဖျက်ပါ</string>
+    <string name="uv_category">အမျိုးအစား</string>
+    <string name="uv_close">ပိတ်ပါ</string>
+    <string name="uv_comment_hint">သင့်မှတ်ချက်ကို ထည့်သွင်းပါ</string>
+    <string name="uv_confirm">အတည်ပြုပါ</string>
+    <string name="uv_contact_continue_button">မက်ဆေ့ချ်တစ်စောင် ပေးပို့လိုသေးသည်</string>
+    <string name="uv_contact_hint">"သင့်မေးခွန်း (သို့) တုန့်ပြန်အကြံပြုချက်ကို ထည့်သွင်းပါ"</string>
+    <string name="uv_contact_us">ကျွန်ုပ်တို့ကို ဆက်သွယ်ပါ</string>
+    <string name="uv_display_name">ပြသသော အမည်</string>
+    <string name="uv_email_address">အီးမေးလ်လိပ်စာ</string>
+    <string name="uv_email_address_hint">your@email.com (လိုအပ်သည်)</string>
+    <string name="uv_error">အမှား</string>
+    <string name="uv_failed_signin_error">အီးမေးလ် (သို့) စကားဝှက် မမှန်ကန်ပါ</string>
+    <string name="uv_forgot_password">စကားဝှက်မေ့သွားသည်</string>
+    <string name="uv_helpful_article_message_question">မက်ဆေ့ချ်ကို သင်ရွေးချယ်လိုပါသေးသလာ?</string>
+    <string name="uv_i_want_this">ဒါကို ကျွန်ုပ် လိုချင်တယ်။</string>
+    <string name="uv_idea_description_heading">သင့်စိတ်ကူးကို အသေးစိတ်ကျကျ ပုံဖော်ပါ</string>
+    <string name="uv_idea_description_hint">(ရွေးနိုင်)</string>
+    <string name="uv_idea_text_heading">သင့်အား အကြံပြုသည်မှာ...</string>
+    <string name="uv_loading">ဖွင့်နေသည်...</string>
+    <string name="uv_matching_articles">ကိုက်ညီသော ဆောင်းပါးများ</string>
+    <string name="uv_matching_articles_and_ideas">ကိုက်ညီသော ဆောင်းပါးများနှင့် စိတ်ကူးများ</string>
+    <string name="uv_menu_attach">ပူးတွဲပြီး</string>
+    <string name="uv_menu_search">"ရွာပါ"</string>
+    <string name="uv_msg_bad_email_format">မှန်ကန်သည့် အီးမေးလ်လိပ်စာ ထည့်သွင်းပါ။</string>
+    <string name="uv_msg_comment_posted">သင့်မှတ်ချက်ကို တင်ပြီးပါပြီ</string>
+    <string name="uv_msg_confirm_discard_message">မက်ဆေ့ချ်ကို ဖယ်ထုတ်လိုသည်မှာ သေချာပါသလာ?</string>
+    <string name="uv_msg_custom_fields_validation">လိုအပ်သည့် အကွက်အားလုံးကို ဖြည့်ပေးပါ။</string>
+    <string name="uv_msg_forgot_password">စကားဝှက် မေ့သွားကြောင်း အီးမေးလ်ပို့ပြီး</string>
+    <string name="uv_msg_idea_created">သင့်စိတ်ကူးကို ဖန်တီးပြီးပါပြီ</string>
+    <string name="uv_msg_ticket_created">သင့်မက်ဆေ့ချ်ကို ပို့ပြီးပါပြီ</string>
+    <string name="uv_msg_user_identity_validation">သင့်အီးမေးလ်လိပ်စာ ထည့်သွင်းပါ</string>
+    <string name="uv_name_hint">အမည်မဖေါ်လိုသူ</string>
+    <string name="uv_network_error">UserVoiceနှင့်ချိတ်ဆက်စဉ် မှားယွင်းမှုတစ်ခု ဖြစ်သွားသည်</string>
+    <string name="uv_nevermind">ကိစ္စမရှိပါဘူး</string>
+    <string name="uv_new_comment">မှတ်ချက်အသစ်</string>
+    <string name="uv_next">နောက်ထပ်</string>
+    <string name="uv_no">မဟုတ်</string>
+    <string name="uv_none_of_these_help">တစ်ခုမှ အကူအညီမဖြစ်ပါ</string>
+    <string name="uv_password">စကားဝှက်</string>
+    <string name="uv_password_dialog_title">သင့်စကားဝှက်ကို ထည့်သွင်းပါ</string>
+    <string name="uv_portal_title">အကူအညီ</string>
+    <string name="uv_post_a_comment">မှတ်ချက် တင်ပါ</string>
+    <string name="uv_post_comment">မှတ်ချက်ကို ပို့စ်တင်ရန်</string>
+    <string name="uv_posted_by_format">%1$s က %2$s တွင် တင်ထားသည်</string>
+    <string name="uv_powered_by_uservoice">UserVoice မှ ပံ့ပိုးပေးထားသည်</string>
+    <string name="uv_ranked">%1$s အဖြစ် အဆင့်ပေးထားသည်</string>
+    <string name="uv_remove_votes">ဆန္ဒမဲများကို ဖယ်ရှားပါ</string>
+    <string name="uv_select_none">(တစ်ခုမှမဟုတ်)</string>
+    <string name="uv_select_one">တစ်ခု ရွေးပါ</string>
+    <string name="uv_send_message">မက်ဆေ့ချ်ပို့ပါ</string>
+    <string name="uv_signin_dialog_ok">ဝင်ရောက်ရန်</string>
+    <string name="uv_signin_dialog_title">ဝင်ရောက်ရန်</string>
+    <string name="uv_status_format">အခြေအနေ- %1$s</string>
+    <string name="uv_submit_idea">စိတ်ကူးကို တင်ပြပါ</string>
+    <string name="uv_subscribe">စာရင်းသွင်းပါ</string>
+    <string name="uv_subscribe_dialog_title">ဤစိတ်ကူးတွင် စာရင်းသွင်းပါ</string>
+    <string name="uv_suggestion_instant_answer_question">ဤစိတ်ကူးသည် အကူအညီဖြစ်ပါသလာ?</string>
+    <string name="uv_thanks">ကျေးဇူးများစွာ တင်ပါသည်။</string>
+    <string name="uv_unhelpful_article_message_question">ကျွန်ုပ်တို့ကို မက်ဆေ့ချ် ပို့စေလိုပါသလာ?</string>
+    <string name="uv_value">တန်ဖိုး</string>
+    <string name="uv_very_yes">ဟုတ်!</string>
+    <string name="uv_yes">ဟုတ်</string>
+    <string name="uv_your_email_address">သင့် အီးမေးလ်လိပ်စာ</string>
+    <string name="uv_your_name">သင့်အမည်</string>
+</resources>

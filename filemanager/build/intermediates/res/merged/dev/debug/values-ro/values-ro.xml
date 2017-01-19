@@ -1,0 +1,1293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="alarm_set">
+        <item msgid="6450913786084215050">"Alarmă setată peste mai puţin de 1 minut din acest moment."</item>
+        <item msgid="6002066367368421848">"Alarmă setată peste <ns1:g id="DAYS">%1$s</ns1:g> din acest moment."</item>
+        <item msgid="8824719306247973774">"Alarmă setată peste <ns1:g id="HOURS">%2$s</ns1:g> din acest moment."</item>
+        <item msgid="8182406852935468862">"Alarmă setată peste <ns1:g id="DAYS">%1$s</ns1:g> şi <ns1:g id="HOURS">%2$s</ns1:g> din acest moment."</item>
+        <item msgid="2532279224777213194">"Alarmă setată peste <ns1:g id="MINUTES">%3$s</ns1:g> din acest moment."</item>
+        <item msgid="5936557894247187717">"Alarmă setată peste <ns1:g id="DAYS">%1$s</ns1:g> şi <ns1:g id="MINUTES">%3$s</ns1:g> din acest moment."</item>
+        <item msgid="9115697840826129603">"Alarmă setată peste <ns1:g id="HOURS">%2$s</ns1:g> şi <ns1:g id="MINUTES">%3$s</ns1:g> din acest moment."</item>
+        <item msgid="2332583385137381060">"Alarmă setată peste <ns1:g id="DAYS">%1$s</ns1:g>, <ns1:g id="HOURS">%2$s</ns1:g> şi <ns1:g id="MINUTES">%3$s</ns1:g> din acest moment."</item>
+    </string-array>
+    <string-array name="charset_array">
+        <item>"Latină-1 (ISO-8859-1)"</item>
+        <item>"Unicod (UTF-8)"</item>
+        <item>"Chineză (GBK)"</item>
+        <item>"Chineză (Big5)"</item>
+        <item>"Japoneză (ISO-2022-JP)"</item>
+        <item>"Japoneză (SHIFT_JIS)"</item>
+        <item>"Japoneză (EUC-JP)"</item>
+        <item>"Coreeană (EUC-KR)"</item>
+    </string-array>
+    <string-array name="country_names">
+        <item>Aruba</item>
+        <item>Afghanistan (جمهوری اسلامی افغانستان)</item>
+        <item>Angola (Repblica de Angola)</item>
+        <item>Anguilla</item>
+        <item>Albania (Shqipri)</item>
+        <item>Andorra (Principat d\'Andorra)</item>
+        <item>Netherlands Antilles</item>
+        <item>United Arab Emirates (دولة الإمارات العربية المتحدة)</item>
+        <item>Argentina (Repblica Argentina)</item>
+        <item>Armenia (Hayastan)</item>
+        <item>American Samoa</item>
+        <item>Antarctica</item>
+        <item>French Southern Territories</item>
+        <item>Antigua and Barbuda</item>
+        <item>Australia (Australia)</item>
+        <item>Austria (sterreich)</item>
+        <item>Azerbaijan</item>
+        <item>Burundi</item>
+        <item>Belgium (Belgi)</item>
+        <item>Benin</item>
+        <item>Burkina Faso</item>
+        <item>Bangladesh (বাংলাদেশ)</item>
+        <item>Bulgaria (България / Balgariya)</item>
+        <item>Bahrain (مملكة البحرين)</item>
+        <item>Bahamas</item>
+        <item>Bosnia/Herzegowina (Bosna i Hercegovina)</item>
+        <item>Belarus (Беларусь)</item>
+        <item>Belize</item>
+        <item>Bermuda</item>
+        <item>Bolivia</item>
+        <item>Brazil</item>
+        <item>Barbados</item>
+        <item>Brunei Darussalam (بروني دارالسلام)</item>
+        <item>Bhutan</item>
+        <item>Bouvet Island</item>
+        <item>Botswana (Lefatshe la Botswana)</item>
+        <item>Central African Republic (Rpublique centrafricaine)</item>
+        <item>Canada</item>
+        <item>Cocos (Keeling) Islands</item>
+        <item>Switzerland (Suisse)</item>
+        <item>Chile</item>
+        <item>China (中國)</item>
+        <item>Cote D\'Ivoire</item>
+        <item>Cameroon</item>
+        <item>Congo</item>
+        <item>Cook Islands</item>
+        <item>Colombia</item>
+        <item>Comoros</item>
+        <item>Cape Verde</item>
+        <item>Costa Rica</item>
+        <item>Cuba</item>
+        <item>Christmas Island</item>
+        <item>Cayman Islands</item>
+        <item>Cyprus (Euro)</item>
+        <item>Czech Republic (Česk republika)</item>
+        <item>Germany (Deutschland)</item>
+        <item>Djibouti</item>
+        <item>Dominica</item>
+        <item>Denmark (Danmark)</item>
+        <item>Dominican Republic</item>
+        <item>Algeria</item>
+        <item>Ecuador</item>
+        <item>Egypt (مصر)</item>
+        <item>Eritrea</item>
+        <item>Western Sahara</item>
+        <item>Spain (Espaa)</item>
+        <item>Estonia (Eesti)</item>
+        <item>Ethiopia</item>
+        <item>Finland (Suomi)</item>
+        <item>Fiji</item>
+        <item>Falkland Islands</item>
+        <item>France (France)</item>
+        <item>Belgium (Belgique)</item>
+        <item>Faroe Islands</item>
+        <item>Micronesia</item>
+        <item>Gabon</item>
+        <item>United Kingdom (United Kingdom)</item>
+        <item>Georgia (საქართველო)</item>
+        <item>Ghana</item>
+        <item>Gibraltar</item>
+        <item>Guinea</item>
+        <item>Guadeloupe</item>
+        <item>Gambia</item>
+        <item>Guinea-Bissau</item>
+        <item>Equatorial Guinea</item>
+        <item>Greece (Ελλάδα)</item>
+        <item>Grenada</item>
+        <item>Greenland</item>
+        <item>Guatemala</item>
+        <item>French Guiana</item>
+        <item>Guam</item>
+        <item>Guyana</item>
+        <item>Hong Kong (香港)</item>
+        <item>Heard and Mc Donald Islands</item>
+        <item>Honduras</item>
+        <item>Croatia (Hrvatska)</item>
+        <item>Haiti</item>
+        <item>Hungary (Magyarorszg)</item>
+        <item>Indonesia Republik Indonesia)</item>
+        <item>India (भारत गणराज्य )</item>
+        <item>British Indian Ocean Territory</item>
+        <item>Ireland (Ireland)</item>
+        <item>Iran (ایران)</item>
+        <item>Iraq (العراق)</item>
+        <item>Iceland (sland)</item>
+        <item>Israel (מְדִינַת יִשְׂרָאֵל  /  دَوْلَةُ إِسْرَائِيلَ)</item>
+        <item>Italy (Italia)</item>
+        <item>Jamaica</item>
+        <item>Jordan (L\'rdnn)</item>
+        <item>Japan (日本国)</item>
+        <item>Kazakhstan</item>
+        <item>Kenya (Jamhuri ya Kenya)</item>
+        <item>Kyrgyzstan</item>
+        <item>Cambodia (कम्बोजदेश)</item>
+        <item>Kiribati</item>
+        <item>Saint Kitts and Nevis</item>
+        <item>Korea, Republic of (대한민국)</item>
+        <item>Kuwait (دولة الكويت)</item>
+        <item>Lao People`s Democratic Republic</item>
+        <item>Lebanon (اَلْجُمْهُورِيَّة اَللُّبْنَانِيَّة)</item>
+        <item>Liberia</item>
+        <item>Libyan Arab Jamahiriya</item>
+        <item>Saint Lucia</item>
+        <item>Liechtenstein (Liechtenstein)</item>
+        <item>Sri Lanka (இலங்கை ஜனநாயக சமத்துவ)</item>
+        <item>Lesotho</item>
+        <item>Lithuania (Lietuva)</item>
+        <item>Luxembourg (Ltzebuerg)</item>
+        <item>Latvia (Latvija)</item>
+        <item>Macau</item>
+        <item>Morocco</item>
+        <item>Monaco (Monaco)</item>
+        <item>Moldova (Moldova)</item>
+        <item>Madagascar</item>
+        <item>Maldives</item>
+        <item>Mexico</item>
+        <item>Marshall Islands</item>
+        <item>Macedonia</item>
+        <item>Mali</item>
+        <item>Malta (Malta)</item>
+        <item>Myanmar (Pyidaunzu Thanmăda Myăma Nainngandaw)</item>
+        <item>Mongolia</item>
+        <item>Northern Mariana Islands</item>
+        <item>Mozambique</item>
+        <item>Mauritania</item>
+        <item>Montserrat</item>
+        <item>Martinique (Martinique)</item>
+        <item>Mauritius (Republik Moris)</item>
+        <item>Malawi</item>
+        <item>Malaysia (Persekutuan Malaysia)</item>
+        <item>Mayotte</item>
+        <item>Namibia</item>
+        <item>New Caledonia (Nouvelle-Caldonie)</item>
+        <item>Niger</item>
+        <item>Norfolk Island (Norfuk Ailen)</item>
+        <item>Nigeria (Republik Nijeriya)</item>
+        <item>Nicaragua</item>
+        <item>Niue</item>
+        <item>Netherlands (Nederland)</item>
+        <item>Norway (Norge)</item>
+        <item>Nepal (सङ्घीय लोकतान्त्रिक गणतन्त्र नेपाल)</item>
+        <item>Nauru</item>
+        <item>New Zealand (New Zealand)</item>
+        <item>Oman (لطنة عمان)</item>
+        <item>Pakistan (پاکِستان)</item>
+        <item>Panama</item>
+        <item>Pitcairn</item>
+        <item>Peru</item>
+        <item>Philippines (Pilipinas)</item>
+        <item>Palau</item>
+        <item>Papua New Guinea</item>
+        <item>Poland (Polska)</item>
+        <item>Puerto Rico</item>
+        <item>Korea, Democratic People`s Republic of</item>
+        <item>Portugal (Portugal)</item>
+        <item>Paraguay</item>
+        <item>French Polynesia</item>
+        <item>Qatar</item>
+        <item>Reunion</item>
+        <item>Romania (Romnia)</item>
+        <item>Russia (Россия)</item>
+        <item>Rwanda</item>
+        <item>Saudi Arabia (المملكة العربية السعودية)</item>
+        <item>Serbia and Montenegro</item>
+        <item>Sudan (جمهورية السودان)</item>
+        <item>Senegal</item>
+        <item>Singapore (Singapore)</item>
+        <item>South Georgia and the South Sandwich Islands</item>
+        <item>St. Helena</item>
+        <item>Svalbard and Jan Mayen Islands</item>
+        <item>Solomon Islands (Solomon Islands)</item>
+        <item>Sierra Leone</item>
+        <item>El Salvador</item>
+        <item>San Marino (San Marino)</item>
+        <item>Somalia</item>
+        <item>St. Pierre and Miquelon (St. Pierre and Miquelon)</item>
+        <item>Sao Tome and Principe</item>
+        <item>Suriname</item>
+        <item>Slovakia (Slovensko)</item>
+        <item>Slovenia (Slovenija)</item>
+        <item>Sweden (Sverige)</item>
+        <item>Swaziland (Swatini)</item>
+        <item>Seychelles</item>
+        <item>Syrian Arab Republic (جمهورية العربية السورية)</item>
+        <item>Turks and Caicos Islands</item>
+        <item>Chad</item>
+        <item>Togo</item>
+        <item>Thailand (ราชอาณาจักรไทย)</item>
+        <item>Tajikistan</item>
+        <item>Tokelau</item>
+        <item>Turkmenistan</item>
+        <item>East Timor</item>
+        <item>Tonga</item>
+        <item>Trinidad and Tobago</item>
+        <item>Tunisia</item>
+        <item>Turkey (Trkiye)</item>
+        <item>Tuvalu</item>
+        <item>TAIWAN, ROC (台灣)</item>
+        <item>Tanzania</item>
+        <item>Uganda (Jamhuri ya Uganda)</item>
+        <item>Ukraine (Україна)</item>
+        <item>United States Minor Outlying Islands</item>
+        <item>Uruguay</item>
+        <item>United States</item>
+        <item>Uzbekistan</item>
+        <item>Holy See (Stato della Citt del Vaticano)</item>
+        <item>Saint Vincent and the Grenadines</item>
+        <item>Venezuela</item>
+        <item>Virgin Islands (British)</item>
+        <item>Virgin Islands (British)</item>
+        <item>Viet Nam (Việt Nam)</item>
+        <item>Vanuatu</item>
+        <item>Wallis and Futuna Islands</item>
+        <item>Samoa</item>
+        <item>Yemen</item>
+        <item>South Africa (Republiek van Suid-Afrika)</item>
+        <item>Zaire</item>
+        <item>Zambia</item>
+        <item>Zimbabwe (Simudzai Mureza wedu WeZimbabwe)</item>
+    </string-array>
+    <plurals name="dialog_unzip_preview_size_text">
+        <item quantity="one">Total: %1$d fişier, %2$s</item>
+        <item quantity="other">Total: %1$d fişiere, %2$s</item>
+    </plurals>
+    <plurals name="drag_items">
+        <item quantity="one">Tragere element</item>
+        <item quantity="other">Tragere elemente</item>
+    </plurals>
+    <plurals name="number_search_items">
+        <item quantity="one">"%d fişier găsit"</item>
+        <item quantity="other">"%d fişiere găsite"</item>
+    </plurals>
+    <plurals name="number_selected_items">
+        <item quantity="one">%d element selectat</item>
+        <item quantity="other">%d elemente selectate</item>
+    </plurals>
+    <plurals name="uf_sdk_number_of_subscribers_format">
+        <item quantity="one">"%1$s apreciază acest subiect"</item>
+        <item quantity="other">"%1$s apreciază acest subiect"</item>
+    </plurals>
+    <plurals name="uf_sdk_topics">
+        <item quantity="one">"subiect"</item>
+        <item quantity="other">"subiecte"</item>
+    </plurals>
+    <plurals name="uv_comments">
+        <item quantity="one">"comentariu"</item>
+        <item quantity="other">"comentarii"</item>
+    </plurals>
+    <plurals name="uv_number_of_subscribers_format">
+        <item quantity="one">"%1$s le place această idee"</item>
+        <item quantity="other">"%1$s le place această idee"</item>
+    </plurals>
+    <plurals name="uv_people">
+        <item quantity="one">"persoană"</item>
+        <item quantity="other">"persoane"</item>
+    </plurals>
+    <plurals name="uv_subscribers">
+        <item quantity="one">"abonat"</item>
+        <item quantity="other">"abonaţi"</item>
+    </plurals>
+    <string name="AsusWebstroage">AsusWebstorage</string>
+    <string name="AuCloud">AuCloud</string>
+    <string name="BaiDuPCS">BaiDuPCS</string>
+    <string name="Default">Implicit</string>
+    <string name="Dropbox">Dropbox</string>
+    <string name="Google_Drive">Google Drive</string>
+    <string name="HomeCloud">HomeCloud</string>
+    <string name="OneDrive">OneDrive</string>
+    <string name="Yandex">Yandex</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Navigați la ecranul de pornire"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Navigați în sus"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Mai multe opțiuni"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Terminat"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Afișați-le pe toate"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Alegeți o aplicație"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"DEZACTIVAȚI"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ACTIVAȚI"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Căutați…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Ștergeți interogarea"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Interogare de căutare"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Căutați"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Trimiteți interogarea"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Căutare vocală"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Trimiteți la"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Trimiteți la %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Restrângeți"</string>
+    <string name="about">"Despre"</string>
+    <string name="account_asus">ASUS</string>
+    <string maxwidth="-1" name="action">Conectați-vă</string>
+    <string description="cutstom action bar view title for about" maxwidth="-1" name="action_about">Despre</string>
+    <string description="action add files" maxwidth="-1" name="action_add">Adăugaţi</string>
+    <string description="cutstom action bar view title for add folder" maxwidth="-1" name="action_add_folder">Adăugare folder</string>
+    <string description="View title of custom action bar, apply to multiple selected files" maxwidth="-1" name="action_apply_selected_file">Aplicare</string>
+    <string description="action cancel" maxwidth="-1" name="action_cancel">Anulaţi</string>
+    <string maxwidth="-1" name="action_clean">"Curăţare"</string>
+    <string maxwidth="-1" name="action_clean_all">"Curăţare toate"</string>
+    <string description="cutstom action bar view title for clear search history" maxwidth="" name="action_clear_history">Golire istoric căutare</string>
+    <string description="cutstom action bar view title for edit" maxwidth="" name="action_edit">"Editare"</string>
+    <string maxwidth="" name="action_hidden_zone">"Mutare în Folder ascuns"</string>
+    <string description="cutstom action bar view title for hinde system file" maxwidth="-1" name="action_hind_system_file">Ascundere fişiere sistem</string>
+    <string name="action_loading">"Se înc..."</string>
+    <string description="cutstom action bar view title for open with" maxwidth="" name="action_open_with">"Deschidere cu..."</string>
+    <string name="action_refresh_cloudfile">"Reîmprospătare"</string>
+    <string maxwidth="-1" name="action_restore">"Restaurare"</string>
+    <string maxwidth="-1" name="action_restore_all">"Restaurare toate"</string>
+    <string description="cutstom action bar view title for search" maxwidth="" name="action_search">Căutaţi</string>
+    <string description="cutstom action bar view title for set as" maxwidth="" name="action_set_as">"Setare imagine ca"</string>
+    <string description="menu title for setting" maxwidth="-1" name="action_settings">"Setări"</string>
+    <string description="cutstom action bar view title for sharing" maxwidth="-1" name="action_share">Partajare</string>
+    <string description="String for asking for the rule of sorting" maxwidth="-1" name="action_sort_by">Sortați după</string>
+    <string description="cutstom action bar view title for zip" maxwidth="" name="action_zip">Comprim</string>
+    <string description="Dialog title: Add cloud storage" maxwidth="-1" name="add_cloud_storage_dialog_title">Adăugați spațiu de stocare în Cloud</string>
+    <string name="add_favorite">Adăugare la preferinţe</string>
+    <string name="add_favorite_folder">"Adăugare folder preferat"</string>
+    <string name="add_favorite_success">Salvare în preferinţe</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="add_progress">Se creează...</string>
+    <string description="Don&apos;t remind me again" maxwidth="-1" name="alert_cb_msg">Nu mi se reamintește</string>
+    <string description="ASUS ZenUI Services is not support, need update ASUS ZenUI Services" maxwidth="-1" name="alert_msg_azs_update">%1$s necesită cea mai recentă versiune a serviciilor ASUS ZenUI. Instalaţi acum cea mai recentă versiune.</string>
+    <string description="Client app is not support, need update client app" maxwidth="-1" name="alert_msg_client_update">Este disponibilă o versiune nouă pentru %1$s. Instalaţi acum această versiune.</string>
+    <string description="Client app version is compatible with ASUS ZenUI Services" maxwidth="-1" name="alert_msg_compatible">Versiunea %1$s este compatibilă cu ASUS ZenUI Services.</string>
+    <string description="Client app version is match with ASUS ZenUI Services" maxwidth="-1" name="alert_msg_match">Versiunea %1$s se potrivește cu ASUS ZenUI Services.</string>
+    <string description="ASUS ZenUI Services is not found on device" maxwidth="-1" name="alert_msg_not_found">Serviciile ASUS ZenUI nu au fost instalate!\n\nMergeţi la secţiunea de descărcări pentru a le instala?</string>
+    <string description="Dialog title" maxwidth="-1" name="alert_title">Notă</string>
+    <string description="Dialog title" maxwidth="-1" name="alert_title_update">Actualizare recomandată</string>
+    <string name="app_cloudstorage_name">StocareCloud</string>
+    <string name="app_upload_complete">"Încărcare finalizată %s"</string>
+    <string description="" name="article_one">Sunt de acord cu <u>Termenii de utilizare</u> și <u>Politica de confidențialitate</u>ASUS, precum și cu <u>Termenii de utilizare</u> și <u>Politica de confidențialitate</u> ASUS WebStorage.</string>
+    <string description="" name="article_two">Doresc să primesc, prin sistem eDMS (sistem de gestionare electronică a documentelor), știri, actualizări software și informații despre cele mai recente produse și servicii ASUS.</string>
+    <string description="Text for create asus account button." maxwidth="" name="asus_account_create_button">Creați-vă un cont nou</string>
+    <string name="asus_account_integrate_dialog_content">Doriți să integrați serviciul de stocare Cloud oferit de ASUS În contul dvs. ASUS? \n\n După efectuarea integrării, toate serviciile ASUS vor putea fi folosite cu același cont.</string>
+    <string name="asus_account_integrate_dialog_skip">Omiteți</string>
+    <string name="asus_account_integrate_dialog_title">Integrați serviciile ASUS</string>
+    <string name="asus_account_integrate_dialog_yes">Da</string>
+    <string description="Text for asus account content 1st." maxwidth="" name="asus_account_msg_content_1">serviciul de asistență personalizată ASUS și de prelungirea garanției pentru produsele Înregistrate,</string>
+    <string description="Text for asus account content 2nd." maxwidth="" name="asus_account_msg_content_2">5 GB de spațiu de stocare prin serviciul Cloud În mod gratuit,</string>
+    <string description="Text for asus account content 3rd." maxwidth="" name="asus_account_msg_content_3">cele mai recente informații despre accesorii și produse recondiționate.</string>
+    <string description="Text for asus account content title." maxwidth="" name="asus_account_msg_title">Creați-vă un cont ASUS pentru a beneficia de:</string>
+    <string name="asus_account_only_one_alert">"Puteţi adăuga un singur cont ASUS. Trebui să ştergeţi contul existent înainte de a-l înlocui cu un cont nou."</string>
+    <string name="asus_account_prefc">"Setări"</string>
+    <string name="asus_account_prefc_advc">"Setări complexe"</string>
+    <string name="asus_account_registe_country_error">Selectați o țară sau o regiune!</string>
+    <string name="asus_account_registe_id_error">Eroare de e-mail</string>
+    <string name="asus_account_registe_policy_error">Pentru a vă putea crea un cont ASUS, este necesar să fiți de acord cu politicile ASUS!</string>
+    <string name="asus_account_registe_pw_error_1">CÂmpul pentru parolă nu poate rămÂne necompletat!</string>
+    <string name="asus_account_registe_pw_error_2">CÂmpul pentru confirmarea parolei nu poate rămÂne necompletat!</string>
+    <string name="asus_account_registe_pw_error_3">Parola și confirmarea parolei trebuie să fie identice!</string>
+    <string name="asus_account_registe_pw_error_4">"Parola trebuie să conţină între 8 şi 25 de caractere."</string>
+    <string name="asus_account_removeaccount_dialog_content">"Integrarea contului a reuşit. Conectaţi-vă din nou utilizând noul cont."</string>
+    <string name="asus_account_removeaccount_dialog_title">"Integrarea contului ASUS a reuşit"</string>
+    <string name="asus_commonui_activity_chooser_view_see_all">"Afişaţi-le pe toate"</string>
+    <string name="asus_commonui_activity_resolver_use_always">"Întotdeauna"</string>
+    <string name="asus_commonui_activity_resolver_use_once">"Numai o dată"</string>
+    <string name="asus_commonui_activitychooserview_choose_application">"Alegeţi o aplicaţie"</string>
+    <string name="asus_commonui_activitychooserview_choose_application_error">
+        "Nu s-a putut lansa <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string name="asus_commonui_cancel_label">"Anulaţi"</string>
+    <string name="asus_commonui_chooseActivity">"Alegeţi o acţiune"</string>
+    <string msgid="3968620852217927702" name="asus_commonui_day_picker_description">"Afișare pe luni"</string>
+    <string msgid="6908431551612331381" name="asus_commonui_deleted_key">"<ns1:g id="KEY">%1$s</ns1:g> a fost șters"</string>
+    <string name="asus_commonui_done_label">"OK"</string>
+    <string msgid="7586639618712934060" name="asus_commonui_hour_picker_description">"Indicator circular ore"</string>
+    <string msgid="2674929164900463786" name="asus_commonui_item_is_selected">"<ns1:g id="ITEM">%1$s</ns1:g> selectat"</string>
+    <string msgid="6024811202872705251" name="asus_commonui_minute_picker_description">"Indicator circular minute"</string>
+    <string name="asus_commonui_noApplications">"Această acţiune nu poate fi efectuată de nicio aplicaţie."</string>
+    <string name="asus_commonui_no_url_handler">Nu a fost găsită o aplicaţie care să deschidă adresa URL</string>
+    <string name="asus_commonui_privacy_policy">Politică privind confidenţialitatea</string>
+    <string name="asus_commonui_privacy_policy_url">http://www.asus.com/RO/Terms_of_Use_Notice_Privacy_Policy/Privacy_Policy</string>
+    <string msgid="3973338219107019769" name="asus_commonui_select_day">"Selectați luna și ziua"</string>
+    <string msgid="7651068754188418859" name="asus_commonui_select_hours">"Selectați orele"</string>
+    <string msgid="8327182090226828481" name="asus_commonui_select_minutes">"Selectați minutele"</string>
+    <string msgid="2603330600102539372" name="asus_commonui_select_year">"Selectați anul"</string>
+    <string name="asus_commonui_shareactionprovider_share_with">"Permiteţi accesul pentru"</string>
+    <string name="asus_commonui_shareactionprovider_share_with_application">
+        "Permiteţi accesul pentru <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string name="asus_commonui_terms_of_use_notice">Notă cu privire la condiţiile de utilizare</string>
+    <string name="asus_commonui_terms_of_use_notice_url">http://www.asus.com/RO/Terms_of_Use_Notice_Privacy_Policy/Official_Site/</string>
+    <string name="asus_commonui_whichApplication">"Finalizare acţiune utilizând"</string>
+    <string name="asus_commonui_whichHomeApplication">"Selectați o aplicație de pe ecranul de pornire"</string>
+    <string msgid="6963340404644587098" name="asus_commonui_year_picker_description">"Listă de ani"</string>
+    <string name="asus_feedback_and_help">Feedback şi ajutor</string>
+    <string name="asus_registe_success_title">"Înregistrarea contului ASUS a reuşit"</string>
+    <string name="asus_response_resultdata">"Acest cont a fost înregistrat deja."</string>
+    <string name="asusaccount_app_name">Cont ASUS</string>
+    <string maxwidth="-1" name="attribution_notice">"Notă de atribuire"</string>
+    <string maxwidth="-1" name="attribution_notice_content">
+    "    \nAcest produs conţine programele open source listate mai jos:
+\n\nuservoice-android-sdk, licenţiat sub Apache, versiune 2.0. Licenţa poate fi descărcată de la http://www.apache.org/licenses/LICENSE-2.0.html .
+        \n\nangular-filemanager, licenţiat MIT. Licenţa poate fi descărcată de la https://github.com/joni2back/angular-filemanager/blob/master/LICENSE .
+        \n\nprogressbar, licenţiat MIT. Licenţa poate fi descărcată de la https://github.com/kimmobrunfeldt/progressbar.js/blob/master/LICENSE .
+        \n\ntoastr, Drepturi de autor (c) 2012-2015 John Papa, Tim Ferrell, Hans Fjällemark\nPrin aceasta se acordă permisiunea gratuită oricărei persoane care obţine o copie a acestui software sau fişierelor asociate acestuia ("Software-ul"), să intervină în Software fără restricţii, inclusiv dar fără a se limita la drepturile asupra utilizării, copierii, modificării, îmbinării, publicării, distribuirii, sublicenţierii şi/sau vânzării de copii a Software-ului, şi să acorde persoanelor la care este livrat Software-ul să procedeze similar, cu respectarea condiţiilor următoare:
+        Notificările de mai sus despre drepturile de autor şi permisiuni vor fi incluse în toate copiile sau părţile importante ale Software-ului. SOFTWARE-UL ESTE FURNIZAT "AȘA CUM ESTE", FĂRĂ NICIUN FEL DE GARANŢIE, EXPLICITĂ SAU IMPLICITĂ, INCLUZÂND, DAR FĂRĂ A SE LIMITA LA GARANŢIILE PRIVIND CALITATEA COMERCIALĂ, POTRIVIREA PENTRU UN ANUMIT SCOP SAU NEÎNCĂLCAREA CLAUZELOR. AUTORII SAU DEŢINĂTORII DREPTURILOR DE AUTOR NU VOR FI CONSIDERAŢI RESPONSABILI, ÎN NICIUN CAZ, PENTRU PLÂNGERI, PREJUDICII SAU ORICE FEL DE RĂSPUNDERE, CONTRACTUALĂ SAU DELICTUALĂ SAU DE ORICE ALTĂ NATURĂ, CARE REIESE DIN, APARE ÎN URMA UTILIZĂRII SAU ÎN CONEXIUNE CU SOFTWARE-UL."
+    </string>
+    <string name="aucloud_account_only_one_alert">"Puteţi adăuga un singur cont cloud. Trebui să ştergeţi contul existent înainte de a-l înlocui cu un cont nou."</string>
+    <string description="string indicating how camera shooting feature is used" maxwidth="-1" name="auto">Automat</string>
+    <string maxwidth="-1" name="aws_install_contnet">WebStorage nu este instalat. Doriți să descărcați aplicația din Play Store și să o instalați?</string>
+    <string maxwidth="" name="aws_install_title">WebStorage nu este instalat</string>
+    <string description="button text." maxwidth="-1" name="back_button_label">Înapoi</string>
+    <string name="baidu_alert_info">"Conform platformei Baidu, acest dispozitiv poate să acceseze numai datele din "My Application Data\\asus\\" (Datele mele de aplicaţie\asus\)."</string>
+    <string name="baidu_alert_title">"Stocare cloud Baidu"</string>
+    <string name="baidu_storage_title">"百度云"</string>
+    <string name="baidupcs_account_only_one_alert">"Puteţi adăuga un singur cont Baidu pentru ASUS. Trebui să ştergeţi contul existent înainte de a-l înlocui cu un cont nou."</string>
+    <string name="btn_OK">OK</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="calculate_progress">"În desfăşurare..."</string>
+    <string description="Toast: can not open in hidden zone" maxwidth="-1" name="can_not_open_in_hidden_zone">"Nu se poate deschide în Folder ascuns"</string>
+    <string description="Dialog Button: cancel for dialog" maxwidth="" name="cancel">Anulare</string>
+    <string name="cancle">Revocare</string>
+    <string name="category_apk">Aplicaţii</string>
+    <string maxwidth="11" name="category_app1">"Aplicații"</string>
+    <string name="category_compress">"Comprimat"</string>
+    <string maxwidth="11" name="category_compressed1">"Comprimate"</string>
+    <string name="category_count">"%s"</string>
+    <string maxwidth="11" name="category_document1">"Documente"</string>
+    <string name="category_documents">"Documente"</string>
+    <string name="category_download">Descărcare</string>
+    <string maxwidth="11" name="category_download1">"Descărcări"</string>
+    <string name="category_favorite">Preferinţe</string>
+    <string maxwidth="11" name="category_favorite1">"Preferințe"</string>
+    <string name="category_game">"Jocuri"</string>
+    <string name="category_image">Imagine</string>
+    <string maxwidth="11" name="category_image1">"Imagini"</string>
+    <string maxwidth="11" name="category_large_file1">"Fișiere mari"</string>
+    <string name="category_music">Muzică</string>
+    <string maxwidth="11" name="category_music1">"Muzică"</string>
+    <string name="category_name_app_wallpaper">"Imagine de fundal live"</string>
+    <string name="category_name_app_widgets">"Widgeturi"</string>
+    <string name="category_name_books_and_reference">"Cărţi şi lucrări de referinţă"</string>
+    <string name="category_name_business">"Afacere"</string>
+    <string name="category_name_comics">"Benzi desenate"</string>
+    <string name="category_name_communication">"Comunicare"</string>
+    <string name="category_name_education">"Educaţie"</string>
+    <string name="category_name_entertainment">"Divertisment"</string>
+    <string name="category_name_finance">"Finanţe"</string>
+    <string name="category_name_game">"Jocuri"</string>
+    <string name="category_name_game_action">"Acţiune"</string>
+    <string name="category_name_game_adventure">"Aventură"</string>
+    <string name="category_name_game_arcade">"Arcade"</string>
+    <string name="category_name_game_board">"Jocuri pe tablă"</string>
+    <string name="category_name_game_card">"Cărţi de joc"</string>
+    <string name="category_name_game_casino">"Cazinou"</string>
+    <string name="category_name_game_casual">"Jocuri obişnuite"</string>
+    <string name="category_name_game_educational">"Educaţionale"</string>
+    <string name="category_name_game_family">"Familie"</string>
+    <string name="category_name_game_music">"Muzică"</string>
+    <string name="category_name_game_puzzle">"Puzzle"</string>
+    <string name="category_name_game_racing">"Curse de maşini"</string>
+    <string name="category_name_game_role_playing">"Jocuri de rol"</string>
+    <string name="category_name_game_simulation">"Simulare"</string>
+    <string name="category_name_game_sports">"Sport"</string>
+    <string name="category_name_game_strategy">"Strategie"</string>
+    <string name="category_name_game_trivia">"Cultură generală"</string>
+    <string name="category_name_game_word">"Cuvinte"</string>
+    <string name="category_name_health_and_fitness">"Sănătate şi fitness"</string>
+    <string name="category_name_libraries_and_demo">"Biblioteci de software și demo"</string>
+    <string name="category_name_lifestyle">"Stil de viaţă"</string>
+    <string name="category_name_media_and_video">"Media şi video"</string>
+    <string name="category_name_medical">"Domeniul medical"</string>
+    <string name="category_name_music_and_audio">"Muzică şi conţinut audio"</string>
+    <string name="category_name_news_and_magazines">"Știri şi reviste"</string>
+    <string name="category_name_personalization">"Personalizare"</string>
+    <string name="category_name_photography">"Fotografie"</string>
+    <string name="category_name_productivity">"Productivitate"</string>
+    <string name="category_name_shopping">"Cumpărături"</string>
+    <string name="category_name_social">"Social"</string>
+    <string name="category_name_sports">"Sport"</string>
+    <string name="category_name_tools">"Instrumente"</string>
+    <string name="category_name_transportation">"Transport"</string>
+    <string name="category_name_travel_and_local">"Călătorii şi informaţii locale"</string>
+    <string name="category_name_weather">"Meteo"</string>
+    <string name="category_others">"Altele"</string>
+    <string maxwidth="11" name="category_recent1">"Recente"</string>
+    <string name="category_recent_files">"Adăugate recent"</string>
+    <string name="category_sorting_summary">"Selectați elemente care se afișează în panoul de categorii"</string>
+    <string name="category_title_category">Categorie</string>
+    <string name="category_title_local_storage">Stocare locală</string>
+    <string name="category_title_tools">"Instrumente"</string>
+    <string name="category_toast_invalid_item_size_6_or_9">"Selectați 6 sau 9 elemente"</string>
+    <string name="category_toast_invalid_item_size_9">"Selectați 9 elemente"</string>
+    <string name="category_toast_invalid_remove">"Acest element nu poate fi eliminat"</string>
+    <string name="category_toast_max_item_size">"Selectați maximum 9 elemente"</string>
+    <string name="category_video">Video</string>
+    <string maxwidth="11" name="category_video1">"Clipuri video"</string>
+    <string name="clear_account_info">Se uită toate conturile</string>
+    <string description="Menu Option: clear all checkbox" maxwidth="" name="clear_all">Golire tot</string>
+    <string name="click_plus_to_add_favorite_folder">"Atingeți + pentru a adăuga un folder preferat"</string>
+    <string description="Toast: The size is over the limit and cannot be uploaded" maxwidth="-1" name="cloud_download_flie_limit_space">Dimensiunea depăşeşte limita şi nu se poate încărca</string>
+    <string description="Toast: The name of the file uploaded is not supported by cloud server" maxwidth="-1" name="cloud_flie_name_not_supported">"Operaţiunea nu se poate finaliza deoarece numele de fişier nu este recunoscut de serverul cloud."</string>
+    <string description="home cloud get available devices fail" name="cloud_homebox_get_devices_fail">Nu s-a putut scana pentru detectarea dispozitivelor HomeCloud</string>
+    <string description="home cloud has no available devices" name="cloud_homebox_no_available_devices">Nu există dispozitive HomeCloud disponibile</string>
+    <string description="home cloud device is sleep" name="cloud_homebox_status__info_Sleep">Inactivitate</string>
+    <string description="home cloud device is offline" name="cloud_homebox_status__info_offline">Deconectat</string>
+    <string description="home cloud device is online" name="cloud_homebox_status__info_online">Conectat</string>
+    <string description="home cloud device is offline" name="cloud_homebox_status_offline">Dispozitivul este deconectat.</string>
+    <string description="diaglog cloud background paste" name="cloud_paste_backgroud">Fundal</string>
+    <string description="diaglog cloud  now is copy files" name="cloud_paste_copying">Se copiază...</string>
+    <string description="diaglog cloud  current" name="cloud_paste_current">Actual</string>
+    <string description="diaglog cloud  now is delete source files" name="cloud_paste_deleting">Se șterg fișierele sursă...</string>
+    <string description="diaglog cloud  paste" name="cloud_paste_downloading">Se descarcă fișierele...</string>
+    <string description="diaglog cloud  total" name="cloud_paste_total">Total</string>
+    <string description="diaglog cloud  paste uploading" name="cloud_paste_uploading">Se încarcă fișierele...</string>
+    <string description="Toast: cloud preview action" maxwidth="-1" name="cloud_preview_action_fail">Previzualizarea fișierelor din Cloud a eșuat.</string>
+    <string description="Toast: cloud share action" maxwidth="-1" name="cloud_share_action_fail">Partajarea fișierelor din Cloud a eșuat.</string>
+    <string description=">Do you want to remove" maxwidth="-1" name="cloud_storage_remove_hint">"Doriţi să deconectaţi contul \"%s\"?"</string>
+    <string description="Dialog title: Remove cloud storage" maxwidth="-1" name="cloud_storage_remove_hint_title">Deconectare</string>
+    <string description=">Do you want to signin" maxwidth="-1" name="cloud_storage_sign_in">Conectare prin utilizarea următorului cont:</string>
+    <string description="Dialog title: Signin cloud storage" maxwidth="-1" name="cloud_storage_sign_in_title">Conectare %s</string>
+    <string description=">Do you want to signout" maxwidth="-1" name="cloud_storage_sign_out">Sigur doriţi să vă deconectaţi?</string>
+    <string description="Dialog title: Signout cloud storage" maxwidth="-1" name="cloud_storage_sign_out_title">Deconectare</string>
+    <string description="Add more cloud storage" maxwidth="-1" name="cloud_storage_title">Adăugați mai mult spațiu de stocare în Cloud</string>
+    <string description="diaglog cloud  token is invalidate" name="cloud_token_invalidate">Codul nu mai este valid. Conectați-vă din nou!</string>
+    <string description="Toast: The size is over the limit and cannot be uploaded" maxwidth="-1" name="cloud_upload_flie_limit_space">Dimensiunea depăşeşte limita şi nu se poate încărca</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Activați"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> nu va funcționa decât dacă activați serviciile Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Activați serviciile Google Play"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Instalați"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> nu va rula fără serviciile Google Play, care lipsesc de pe dispozitivul dvs."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Descărcați serviciile Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Eroare a serviciilor Google Play"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> întâmpină probleme privind serviciile Google Play. Încercați din nou."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> nu va rula fără serviciile Google Play, care nu sunt acceptate de dispozitivul dvs."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Actualizați"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> nu va rula decât dacă actualizați serviciile Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Actualizați serviciile Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> nu va rula fără serviciile Google Play, care momentan se actualizează."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Este necesară o nouă versiune a serviciilor Google Play. Se vor actualiza automat în curând."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Deschideți pe telefon"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Conectați-vă"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Conectați-vă cu Google"</string>
+    <string name="confirm">"Confirmare"</string>
+    <string maxwidth="-1" name="confirm_ok">OK</string>
+    <string description="confirm password textview title" name="confirm_password">Confirmaţi parola</string>
+    <string description="ask user to enter password again to confirm" name="confirm_password_edit">Reintroduceți parola</string>
+    <string description="content" maxwidth="-1" name="content">Utilizarea acestui software face obiectul termenilor şi condiţiilor de pe site-ul Web ASUS: \nhttp://www.asus.com</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="copy">Cop.</string>
+    <string description="Toast: copy ready" maxwidth="-1" name="copy_ready_more">Fişierele selectate au fost copiate şi sunt pregătite pentru lipire.</string>
+    <string description="Toast: copy ready. %s is variable string." maxwidth="-1" name="copy_ready_one">"\"%s\" a fost copiat şi este pregătit pentru lipire."</string>
+    <string name="copy_to">Copiere în</string>
+    <string description="country region textview title" name="country_region">Țară/Regiune</string>
+    <string description="ack user to select on country" name="country_region_select">Selectați-vă regiunea</string>
+    <string name="create_shortcut">"Creare comandă rapidă"</string>
+    <string name="create_shortcut_dialog">"Creare comandă rapidă în Launcher (Program de lansare)"</string>
+    <string name="create_shortcut_toast">"Crearea comenzii rapide în Launcher (Program de lansare) s-a finalizat"</string>
+    <string name="cta_agree">"Permitere"</string>
+    <string name="cta_check_title">"Memorare"</string>
+    <string name="cta_dialog_content"><b>Manager fişiere</b> încearcă să utilizeze reţeaua, în funcţie de abonamente, se pot genera alte costuri.</string>
+    <string name="cta_dialog_title">"Utilizare reţea"</string>
+    <string name="cta_disagree">"Refuz"</string>
+    <string name="cta_show_menu">"Permisiune reţea"</string>
+    <string name="current_folder">"Folder curent"</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="cut">Decup.</string>
+    <string description="Toast: cut ready" maxwidth="-1" name="cut_ready_more">Fişierele selectate au fost decupate şi sunt pregătite pentru lipire.</string>
+    <string description="Toast: cut ready. %s is variable string." maxwidth="-1" name="cut_ready_one">"\"%s\" a fost decupat şi este pregătit pentru lipire."</string>
+    <string description="button text for sort file by date" maxwidth="-1" name="date">Dată</string>
+    <string description="button text for sort file by date ascending" maxwidth="-1" name="date_ascending">Dată (cele mai vechi - cele mai recente)</string>
+    <string description="button text for sort file by date descending" maxwidth="-1" name="date_descending">Dată (cele mai recente - cele mai vechi)</string>
+    <string msgid="7984755014526510295" name="day">"1 zi"</string>
+    <string msgid="2070509222727852210" name="days">"<ns1:g id="DAYS">%s</ns1:g> (de) zile"</string>
+    <string maxwidth="-1" name="dbx_install_contnet">Dropbox nu este instalat. Doriți să descărcați aplicația din Play Store și să o instalați?</string>
+    <string maxwidth="" name="dbx_install_title">Dropbox nu este instalat</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="delete">Ştergere</string>
+    <string description="Dialog Title: delete dialog title" maxwidth="" name="delete_dialog">Şterg. fişiere</string>
+    <string description="Toast: delete fails" maxwidth="-1" name="delete_fail">Ştergerea fişierului a eşuat.</string>
+    <string description="Dialog Content: text in dialog. %d is variable number." maxwidth="" name="delete_more_files">Doriţi să ştergeţi cele %d elemente?</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="delete_one_directory">Doriţi să ştergeţi directorul?</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="delete_one_files">Doriţi să ştergeţi fişierul?</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="delete_progress">Se şterge...</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="delete_size">"Dim.: "</string>
+    <string description="Toast: delete success" maxwidth="-1" name="delete_success_more">Fişierele selectate au fost şterse.</string>
+    <string description="Toast: delete success. %s is variable string." maxwidth="-1" name="delete_success_one">"\"%s\" a fost şters."</string>
+    <string description="cutstom action bar view title for deselect all checkbox" maxwidth="" name="deselect_all">Deselect tot</string>
+    <string name="device_root_path">rădăcină</string>
+    <string description="compress dialog title" maxwidth="-1" name="dialog_create_zip_title">Introduceţi numele arhivei</string>
+    <string description="extract zip file dialog title. %s is a dynamic string. It is zip file name." maxwidth="-1" name="dialog_extract_zip_title">Extragere %s în:</string>
+    <string name="dialog_load_stream_url_info">Preluare informaţii necesare de pe server</string>
+    <string name="dialog_msg_market_login_account">"Conectați-vă la contul dvs. Google pentru a descărca aplicația"</string>
+    <string description="text encoding dialog title" maxwidth="-1" name="dialog_text_encoding_title">Codificare text</string>
+    <string name="dialog_title_market_login_account">"Adăugare cont"</string>
+    <string description="show zip info dialog title. %s is a dynamic string. Is is a zip file name" maxwidth="-1" name="dialog_unzip_preview_title">Extragere %s</string>
+    <string description="Dialog Title: Directory information dialog title" maxwidth="-1" name="dir_info_dialog_title">Informaţii director</string>
+    <string name="display">"Afişare ca"</string>
+    <string name="display_hint">"Calculatorul meu, poate fi gol"</string>
+    <string name="dm_openfile">"Deschide fişier"</string>
+    <string name="do_not_show_again">"Nu se mai afişează."</string>
+    <string name="domain">"Domeniu:"</string>
+    <string name="domain_hint">"Nu poate fi gol"</string>
+    <string name="download_fail">descărcare nereușită!</string>
+    <string name="drag_items_one">Tragere element</string>
+    <string name="drag_items_other">Tragere elemente</string>
+    <string name="drawer_close">"Închidere cutie de navigare"</string>
+    <string name="drawer_home">Acasă</string>
+    <string name="drawer_open">"Deschidere cutie de navigare"</string>
+    <string description="Hint: the operation is incorrect" maxwidth="-1" name="drop_incorrect_hint">Operaţie incorectă</string>
+    <string description="Hint: the target folder which you want to do something" maxwidth="-1" name="drop_target_to">Destinaţie:</string>
+    <string name="dumdownloadfrom">Descărcare de la</string>
+    <string name="dumuploadto">Încărcare în</string>
+    <string name="duplicate_files">"Fişiere duplicat"</string>
+    <string name="duplicate_files_content_hint">"Găsire şi ştergere fişiere duplicat cu permisiunea dvs."</string>
+    <string name="edit_toast_name_too_long">S-a atins numărul maxim de caractere</string>
+    <string name="edit_toast_special_char">Nu pot fi incluse caractere speciale</string>
+    <string name="editcategory_hint">"Atingeţi butonul de editare pentru a personaliza panoul Categorie."</string>
+    <string description="describe the empty folder" maxwidth="-1" name="empty_folder_title">"Niciun fişier"</string>
+    <string description="Dialog Button: click to open the encoding list dialog" maxwidth="-1" name="encode">Codificare text</string>
+    <string description="ask user to enter password" maxwidth="-1" name="enter_password">"Introducere parolă"</string>
+    <string name="eula_content_description">
+        \nAcest acord de licenţă pentru utilizatorul final (“EULA”) constituie un acord valid şi care creează obligaţii între ASUSTeK Computer Inc. (“ASUS“) şi dumneavoastră, în calitate de utilizator, legat de utilizarea aplicaţiilor software ASUS (“Software”) definite ca mai jos. Prin instalarea şi utilizarea în continuare a aplicaţiilor software CONFIRMAŢI ÎN MOD EXPLICIT CĂ AŢI CITIT, AŢI ÎNŢELES ŞI SUNTEŢI DE ACORD SĂ RESPECTAŢI TERMENII ACESTUI ACORD ŞI AI VERSIUNILOR ULTERIOARE. 
+\n\n1.SOFTWARE înseamnă aplicaţiile software ASUS oferite în sau cu produsul ASUS aplicabil, incluzând dar fără a se limita la viitoarele actualizări cu remedieri de programare, upgrade-uri şi versiuni modificate.
+\nSoftware-ul poate fi însoţit de alte aplicaţii software create de ASUS sau terţe părţi, licenţiate sub una sau mai multe licenţe gratuite Open Source, aşa cum sunt listate pe www.opensource.org/licenses. Un astfel de software gratuit Open Source vă este oferit doar în condiţiile stipulate în cadrul acordurilor de licenţiere respective sau în notificările privind drepturile de autor adiacente sau în fişierul de licenţiere FOSS ce însoţeşte aplicaţia software. Termenii acestui acord EULA NU se aplică pentru un astfel de software gratuit Open Source.
+\n\n2.LICENŢA Cu respectarea termenilor acestui acord EULA, ASUS vă acordă prin prezenta o licenţă limitată, personală, necomercială, non-exclusivă pentru utilizarea Software-ului aşa cum este acesta încorporat în produsele ASUS. Puteţi să faceţi o copie a software-ului în formă citibilă de maşină doar în scopul creării unei copii de rezervă; cu condiţia ca respectiva copie de rezervă să conţină toate informările privind drepturile de autor conţinute în original. Această licenţă nu va fi sub-licenţiată şi nu este transferabilă, cu excepţia unei persoane sau entităţi către care transferaţi drepturile de proprietate ale produselor ASUS complete ce conţin software-ul, condiţionat de transferul permanent al tuturor drepturilor stipulate în acest EULA şi nu reţineţi niciun fel de copie, completă sau parţială a acestui software, iar beneficiarul este de acord cu termenii acestui acord EULA.
+\n\n3.RESTRICŢII PRIVIND DECOMPILAREA Nu veţi decompila, decripta sau dezasambla software-ul şi nu veţi permite sau provoca cele menţionate anterior, excepţie fac situaţiile în care legile direct aplicabile interzic executarea celor menţionate anterior.
+\n\n4.CONFIDENŢIALITATEA Aveţi datoria de a proteja şi de a nu dezvălui, integral sau parţial, informaţii confidenţiale despre software, inclusiv dar fără a se limita la secrete comerciale, materiale protejate sub orice formă de legea drepturilor de autor unor terţe părţi.
+\n\n5.DREPTURI de proprietate intelectuală(“Drepturi PI”) Luaţi la cunoştinţă şi sunteţi de acord cu faptul că toate Drepturile PI, titlul de proprietate şi interesele generate de software sunt şi rămân proprietatea exclusivă ale ASUS sau ale licenţiatorului său. În acest acord EULA nu există nicio prevedere prin care se intenţionează transferul unor astfel de Drepturi PI către dumneavoastră. Orice utilizare neautorizată a Drepturilor PI este o încălcare a acestui acord EULA precum şi o încălcare a legilor privind proprietatea intelectuală, inclusiv dar fără a se limita la legile privind drepturile de autor şi legile comerciale.
+\nPrin trimiterea oricăror informaţii, materiale, idei, concepte sau tehnici, excepţie făcând informaţiile personale către ASUS prin intermediul software-ului (“Feedback”), confirmaţi şi sunteţi de acord cu următoarele: (i) Feedbackul dvs. nu va conţine informaţii confidenţiale sau proprietare; (ii) ASUS nu are obligaţia de a păstra confidenţialitatea, expresă sau implicită, privitoare la Feedback; (iii)ASUS are dreptul de a utiliza sau dezvălui, la discreţia sa, Feedbackul primit în orice scop, în orice mod, oriunde în lume; (iv) Feedbackul oferit de dvs. devine proprietatea ASUS, fără niciun fel de obligaţii pentru ASUS către dumneavoastră; şi (v) Nu sunteţi îndreptăţit la niciun fel de compensaţie sau rambursare a unei sume ca urmare a acestui feedback.
+\n\n6.TERMENE ŞI ÎNCETAREA CONTRACTULUI Acest acord EULA devine efectiv la data la care dvs. instalaţi software-ul. Puteţi termina această licenţiere în orice moment prin încetarea utilizării software-ului şi ştergerea acestuia de pe produsul ASUS. Drepturile dvs. vor fi reziliate de către ASUS, fără o notificare prealabilă, dacă credem că aţi încălcat vreo prevedere a acestui acord.
+\n\n7.Declaraţie de declinare a responsabilităţii şi limitare a răspunderii LUAŢI LA CUNOŞTINŢĂ CĂ SOFTWARE-UL ESTE FURNIZAT “AŞA CUM ESTE”. ÎNTREGUL RISC PRIVIND CALITATEA ŞI PERFORMANŢA ACESTUI SOFTWARE ESTE LA DVS., INCLUSIV DAR FĂRĂ A SE LIMITA LA COSTURILE ASOCIATE CU TOATE OPERAŢIILE DE SERVICE ŞI REPARAŢII NECESARE. ÎN MĂSURA PERMISĂ DE LEGE, ASUS NU ACORDĂ GARANŢII, EXPLICITE SAU IMPLICITE, CU PRIVIRE LA ACEST SOFTWARE SAU ORICE ALTE INFORMAŢII SAU DOCUMENTAŢII OFERITE SUB PREVEDERILE ACESTUI ACORD SAU PENTRU ACEST SOFTWARE, INCLUSIV DAR FĂRĂ A SE LIMITA LA NICIUN FEL DE GARANŢII DE VANDABILITATE SAU POTRIVIRE PENTRU UN ANUMIT SCOP SAU CONTRA ORICĂROR ÎNCĂLCĂRI, SAU NICIUN FEL DE GARANŢII DECURGÂND DIN LIPSA DE UTILIZARE SAU LIPSA DE PERFORMANŢĂ. DE ASEMENEA, ASUS NU ACORDĂ NICIUN FEL DE GARANŢII PRIVIND REZULTATELE CE POT FI OBŢINUTE DIN UTILIZAREA ACESTUI SOFTWARE SAU PRIVIND ACURATEŢEA SAU FIABILITATEA INFORMAŢIILOR OBŢINUTE PRIN ACEST SOFTWARE. ANUMITE JURISDICŢII NU PERMIT EXCLUDEREA ANUMITOR GARANŢII SAU LIMITAREA SAU EXCLUDEREA RĂSPUNDERII PENTRU ANUMITE DAUNE. ÎN CONSECINŢĂ, ANUMITE AFIRMAŢII DINTRE CELE DE MAI SUS POT SĂ NU FIE VALABILE ÎN CAZUL DVS.
+\nÎNTREGUL RISC CE DECURGE DIN UTILIZAREA ŞI/SAU PERFORMANŢA ACESTUI SOFTWARE RĂMÂNE CU DVS. ÎN NICIUN CAZ ASUS, LICENŢIATORII SĂI SAU ORICARE DINTRE AGENŢII, DIRECTORII, ANGAJAŢII SAU AFILIAŢII ACESTORA NU VOR FI RĂSPUNZĂTORI DE NICIUN FEL DE PAGUBE PE CALE DE CONSECINŢĂ, ACCIDENTALE, DIRECTE, INDIRECTE, SPECIALE, PUNITIVE SAU DE ORICE ALT FEL (INCLUSIV, DAR FĂRĂ A SE LIMITA LA, DAUNE PENTRU PIERDEREA DE PROFIT, INTRERUPEREA, PIERDEREA DE INFORMAŢII SAU ALTE DAUNE BĂNEŞTI) CE DECURG DIN SAU SUNT ASOCIATE CU ACEST ACORD SAU DIN UTILIZAREA SAU IMPOSIBILITATEA DE UTILIZARE A ACESTUI SOFTWARE SAU A ORICĂREI PĂRŢI DIN ACESTA, CHIAR DACĂ ASUS A FOST ÎNŞTIINŢAT DE POSIBILITATEA PRODUCERII UNOR ASTFEL DE DAUNE. ANUMITE JURISDICŢII NU PERMIT EXCLUDEREA ANUMITOR GARANŢII SAU LIMITAREA SAU EXCLUDEREA RESPONSABILITĂŢII PENTRU ANUMITE DAUNE. ÎN CONSECINŢĂ, ANUMITE AFIRMAŢII DINTRE CELE DE MAI SUS POT SĂ NU FIE VALABILE ÎN CAZUL DVS.
+\n\n8.Despăgubiri SUNTEŢI de acord să apăraţi, să garantaţi pentru şi să nu consideraţi vinovat ASUS şi afiliaţii săi, furnizorii de servicii, distribuitorii, licenţiatorii, agenţii, directorii şi angajaţii săi de şi împotriva oricăror pagube, daune, obligaţii şi cheltuieli ce decurg de pe urma oricărei pretenţii sau cereri (inclusiv cheltuieli de reprezentare juridică şi cheltuieli de judecată rezonabile), datorate pentru sau în asociere cu încălcarea de către DVS. a acestui acord EULA sau a oricăror legi sau reglementări sau drepturi ale unor terţe părţi.
+    </string>
+    <string name="eula_content_title">"Acord de licenţă pentru utilizatorul final"</string>
+    <string description="Do not translate ASUS" maxwidth="" name="eula_description">"Un contract juridic între aplicaţiile ASUS şi utilizatorii finali"</string>
+    <string maxwidth="" name="eula_title">"Acord de licenţă pentru utilizatorul final"</string>
+    <string name="example">"Exemplu:"</string>
+    <string description="Dialog Button: extract file for dialog" maxwidth="-1" name="extract">Extragere</string>
+    <string name="facebook_app_invite">"Agenda Facebook"</string>
+    <string name="fb_request_error_permissions">"Această aplicație nu beneficiază de permisiune pentru a face acest lucru. Încercați să vă conectați din nou la aplicație."</string>
+    <string name="fileList_Nofiles">Fără fişiere</string>
+    <string description="Dialog Title: File information dialog title" maxwidth="-1" name="file_info_dialog_title">Informaţii fişier</string>
+    <string description="Application Name shown on title" maxwidth="" name="file_manager">Manag fişiere</string>
+    <string description="string indicating camera flash is not used" maxwidth="-1" name="flash_off">Fără bliţ</string>
+    <string description="string indicating camera flash is fired" maxwidth="-1" name="flash_on">Bliţ declanşat</string>
+    <string description="click to retrieve password" maxwidth="-1" name="forget_password">"<u>Aţi uitat parola?</u>"</string>
+    <string name="fragment_analyzer_allfiles_used_hint">"Utilizaţi:"</string>
+    <string name="fragment_analyzer_chart_free_hint">"Disponibilă:"</string>
+    <string name="fragment_analyzer_chart_total_hint">"Total:"</string>
+    <string name="fragment_analyzer_chart_used_hint">"UTILIZAŢI"</string>
+    <string name="fragment_analyzer_more_hint">"mai multe"</string>
+    <string name="google_app_invite">"Agenda Google"</string>
+    <string name="group_title_installed">"Instalate"</string>
+    <string name="group_title_not_installed">"Neinstalate"</string>
+    <string name="group_title_others">"Altele"</string>
+    <string name="group_title_recommended">"Recomandate"</string>
+    <string name="hidden_zone_change_password">"Schimbare parolă"</string>
+    <string name="hidden_zone_confirm_password">"Confirmare cod PIN"</string>
+    <string name="hidden_zone_enter_password">"Introduceţi codul PIN"</string>
+    <string name="hidden_zone_fingerprint_to_unlock">"Amprentă pentru deblocare"</string>
+    <string name="hidden_zone_forget_password">"Parolă uitată"</string>
+    <string name="hidden_zone_introduction_description">"Ascundeţi fişierele private în Folderul ascuns. Este necesar un cod PIN pentru a deschide Folderul ascuns."</string>
+    <string name="hidden_zone_password_mismatch">"Codul PIN nu se potriveşte"</string>
+    <string name="hidden_zone_set_password_success">"Parola a fost creată cu succes"</string>
+    <string name="hidden_zone_setup_account">"Configurare cont"</string>
+    <string name="hidden_zone_setup_password">"Introduceţi un cod PIN de 4 cifre"</string>
+    <string name="hidden_zone_wrong_password">"Cod PIN greşit"</string>
+    <string description="Can’t connect to HomeCloud." maxwidth="-1" name="homecloud_access_error">Nu s-a putut realiza conectarea la HomeCloud. Asiguraţi-vă că serviciul HomeCloud este funcţional.</string>
+    <string name="homecloud_notice_1">ASUS HomeCloud este un software de server care se execută în sistemul Windows. Acest software este o bibliotecă de conţinut digital pentru acasă şi furnizează în prezent servicii de stocare în cloud şi servicii de redare în flux de conţinut multimedia, iar în viitor va fi extinsă cu servicii suplimentare.</string>
+    <string name="homecloud_notice_2">Descărcaţi şi utilizaţi acest software chiar acum. </string>
+    <string name="homecloud_notice_3">http://home.asuscloud.com/</string>
+    <string name="homecloud_toast_udp_unsupported">Reţea limitată. Contactaţi administratorul reţelei sau comutaţi la altă reţea.</string>
+    <string msgid="2546819039651509323" name="hour">"1 oră"</string>
+    <string msgid="2071487018566991613" name="hours">"<ns1:g id="HOURS">%s</ns1:g> (de) ore"</string>
+    <string maxwidth="" name="httpserver_acquire_permission_message">"Serverul HTTP de fișiere va fi închis și operațiunile pot fi întrerupte. Continuați?"</string>
+    <string maxwidth="" name="httpserver_connectwifiname">"Modul Wi-Fi AP conectat:"</string>
+    <string maxwidth="" name="httpserver_description">"Începeți serviciul pentru a vă conecta dispozitivul mobil la PC."</string>
+    <string maxwidth="" name="httpserver_instruction">"Introduceți această adrsă în browser pe PC:"</string>
+    <string maxwidth="" name="httpserver_need_saf">"Dacă vreți să gestionați stocarea externă de pe PC, trebuie să acordați permisiunea."</string>
+    <string maxwidth="" name="httpserver_no_network">"Conectați-vă dispozitivul la aceeași rețea Wi-Fi"</string>
+    <string maxwidth="" name="httpserver_no_permission_message">"Nu veți putea scrie în stocarea extern fără permisiunea corespunzătoare. Continuați?"</string>
+    <string maxwidth="" name="httpserver_no_permission_title">"Începere transfer de fișiere wireless"</string>
+    <string maxwidth="" name="httpserver_start">"Pornire"</string>
+    <string maxwidth="" name="httpserver_stop">"Oprire"</string>
+    <string maxwidth="" name="httpserver_title">"Transfer de fișiere către PC:"</string>
+    <string description="Context Menu: options of context menu" maxwidth="-1" name="info">Informaţii</string>
+    <string description="file info textview context" maxwidth="-1" name="info_aperture">"Apertură: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_datetime">"Data realizării: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_exposure_time">"Durată expunere: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_file_num">"Număr de fişiere: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_flash">"Bliţ: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_focal_length">"Distanţă focală: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_image_height">"Înălţime: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_image_width">"Lăţime"</string>
+    <string description="file info textview context" maxwidth="-1" name="info_image_x">" x "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_iso">"ISO: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_location">"Locaţie: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_maker">"Producător: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_model">"Model: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_modified">"Data modificării: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_name">"Nume: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_orientation">"Orientare: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_path">"Cale: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_permission">"Permisiune: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_type">Tip:</string>
+    <string description="file info textview context" maxwidth="-1" name="info_white_balance">"Balans de alb: "</string>
+    <string description="Do not translate ASUS" maxwidth="" name="inspire_asus_description">"Perm ASUS să colect date de utilizare, pt îmbunăt prod şi exp clienţilor"</string>
+    <string name="inspire_asus_title">"Inspiraţie pentru ASUS"</string>
+    <string name="install">"Instalare"</string>
+    <string description="storage label" maxwidth="-1" name="internal_storage_title">Stocare internă</string>
+    <string description="Toast: the account is invalid" maxwidth="-1" name="invalid_account">"Cont nevalid"</string>
+    <string description="Invalid directory path" maxwidth="-1" name="invalid_directory_path">Cale director nevalidă</string>
+    <string name="invalid_server_id">"ID server nevalid"</string>
+    <string name="invalid_xml">"Fişier XML nevalid"</string>
+    <string name="inviteContentTitle">%1$s vă invită să descărcaţi şi să instalaţi Managerului de fişiere ASUS.</string>
+    <string name="inviteContent_p1">Managerului de fişiere ASUS este aplicaţia ideală pentru gestionarea fişierelor din dispozitivul dvs. inteligent. Această aplicaţie de gestionare a fişierelor vă ajută să gestionaţi şi să sortaţi diversele fişiere stocate în memoria telefonului, pe cardul microSD, în reţeaua locală şi chiar în cloud.</string>
+    <string name="inviteContent_p2">Gestionaţi-vă fişierele în mod eficient şi uşor, cu Managerului de fişiere ASUS! Managerului de fişiere ASUS vă ajută să gestionaţi fişierele, fie că acestea se află în memoria dispozitivului, pe cardul microSD, în reţeaua locală şi chiar în conturile de stocare în cloud, precum ASUS HomeCloud şi Webstorage, dar şi alte servicii cloud, cum ar fi Dropbox, Google Drive, sau Microsoft OneDrive.</string>
+    <string name="inviteContent_p3">Îmi place foarte mult Managerului de fişiere ASUS. Încercaţi-l ACUM! :D</string>
+    <string description="sticker detail page button name" maxwidth="-1" name="invite_friends">"Invitare prieteni"</string>
+    <string name="item">articol</string>
+    <string name="items">articole</string>
+    <string name="keep">"Păstrare"</string>
+    <string name="kk_sd_permission_warning">Ca urmare a limitărilor din sistemul de operare Android 4.4, nu se permite aplicaţiilor terţe să modifice cardurile SD externe.</string>
+    <string name="large_files_content_hint">"Găseşte fişierele mari şi le şterge cu acceptul dvs."</string>
+    <string description="linked file is missing" maxwidth="-1" name="linked_file_missing">"Fişierul conectat lipseşte"</string>
+    <string description="text for progress bar" maxwidth="-1" name="loading">Se încarcă\u2026</string>
+    <string name="local">Local</string>
+    <string description="button text for sort file by date" maxwidth="-1" name="location">Locaţie</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="logging_cloud_storage">Se conectează...</string>
+    <string name="login_account_miss">"Aplicația Facebook nu a reușit să înregistreze Android Account Manager (Manager cont Android). Încercați să vă deconectați prin aplicația Facebook și apoi să vă conectați din nou."</string>
+    <string name="login_again_later">"Serverul nu este disponibil acum. Încercați din nou mai târziu."</string>
+    <string description="dialog title, key in the asus ID and PW to Login account" maxwidth="-1" name="login_asus_id">"Conectare la contul ASUS"</string>
+    <string description="Toast: login account fail" name="login_fail" width="-1">Conectarea a eșuat</string>
+    <string description="login account name" maxwidth="-1" name="login_id">"Nume cont/ID WebStorage"</string>
+    <string description="logout account" name="logout_account" width="-1">Deconectare</string>
+    <string name="low_storage_tutorial_description">Atingeţi şi menţineţi apăsat pentru a selecta fişierele, după care alegeţi „Mutare în” Google Drive.</string>
+    <string name="low_storage_tutorial_title">Mutare fişiere în Google Drive</string>
+    <string name="m_permission_dialog_message">"Atingeţi [Setări] pentru a activa permisiunea [%2$s] din [Info app.] > [Permisiuni], apoi restartaţi %1$s."</string>
+    <string name="m_permission_dialog_positive_button">"Setări"</string>
+    <string name="m_permission_setting_subtitle_files">"%1$s necesită acces la %2$s pentru a accesa fişierele de pe dispozitiv."</string>
+    <string name="m_permission_setting_title_cloud_storage">"Stocarea cloud nu se poate accesa"</string>
+    <string name="m_permission_setting_title_files">"Fişierele nu se pot accesa"</string>
+    <string name="m_permission_setting_turn_on">"Activare"</string>
+    <string description="string indicating how camera shooting feature is used" maxwidth="-1" name="manual">Manual</string>
+    <string name="market_app_error">"A apărut o eroare la aplicaţia din magazin instalată pe dispozitiv!"</string>
+    <string description="ask user to enter email address as account name" maxwidth="-1" name="member_id_hint">"Introducere adresă de e-mail"</string>
+    <string description="The title of a menu for General Preferences.Pressing the menu item lets user to view and edit his general settings" maxwidth="30" name="menu_general_preferences">"Setări generale"</string>
+    <string description="settings menu tutorial" maxwidth="-1" name="menu_tutorial">Tutorial</string>
+    <string msgid="2486157997434653710" name="minute">"1 minut"</string>
+    <string msgid="6115838729146292526" name="minutes">"<ns1:g id="MINUTES">%s</ns1:g> minute"</string>
+    <string description="Hint: move the items" maxwidth="-1" name="move">Mutare</string>
+    <string name="move_or_delete_msg">"Ştergeţi temporar elementele din coşul de reciclare?\n(Pentru le şterge permanent faceţi clic pe caseta de mai jos.)"</string>
+    <string name="move_to">Mutare în</string>
+    <string description="Toast: move to recycle bin fails" maxwidth="-1" name="move_to_hidden_zone_fail">"Mutare în Folder ascuns eşuată"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="move_to_hidden_zone_progress">"Se mută în Folder ascuns..."</string>
+    <string description="Toast: move to recycle bin success" maxwidth="-1" name="move_to_hidden_zone_success_more">"Fişierele selectate au fost mutate în Folder ascuns."</string>
+    <string description="Toast: move to recycle bin success. %s is variable string." maxwidth="-1" name="move_to_hidden_zone_success_one">"\"%s\" a fost mutat în Folder ascuns."</string>
+    <string description="Toast: move to recycle bin fails" maxwidth="-1" name="move_to_trash_fail">"Mutare în coşul de reciclare eşuată"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="move_to_trash_progress">"Se mută în coşul de reciclare..."</string>
+    <string description="Toast: move to recycle bin success" maxwidth="-1" name="move_to_trash_success_more">"Fişierele selectate au fost mutate în coşul de reciclare"</string>
+    <string description="Toast: move to recycle bin success. %s is variable string." maxwidth="-1" name="move_to_trash_success_one">"\"%s\" au fost mutate în coşul de reciclare"</string>
+    <string name="msg_too_big_to_recycle">"Elementele sunt prea mari pentru coşul de reciclare.\nDoriţi să le ştergeţi permanent?"</string>
+    <string name="multi_drm_file_forbidden_operation">Această acţiune este interzisă pentru că unele dintre fişierele selectate sunt protejate DRM.</string>
+    <string description="shortcut label" maxwidth="-1" name="my_camera_title">Cameră</string>
+    <string description="shortcut label" maxwidth="-1" name="my_download_title">Descărcare</string>
+    <string description="shortcut label" maxwidth="-1" name="my_music_title">Muzică</string>
+    <string description="shortcut label" maxwidth="-1" name="my_picture_title">Imagine</string>
+    <string description="storage label" maxwidth="-1" name="my_storage_title">Stocare personală</string>
+    <string description="button text for sort file by name" maxwidth="-1" name="name">Nume</string>
+    <string description="button text for sort file by name ascending" maxwidth="-1" name="name_ascending">Denumire (z-a)</string>
+    <string description="button text for sort file by name descending" maxwidth="-1" name="name_descending">Denumire (a-z)</string>
+    <string name="network_cta_hint">"Acceptaţi conectarea la reţea"</string>
+    <string name="network_invalid">"Conexiune nevalidă la reţea"</string>
+    <string name="network_invalid_info">"Conexiunea este nevalidă. Verificaţi-o din nou."</string>
+    <string name="network_not_available">"Nu s-a reuşit conectarea la reţea"</string>
+    <string description="Can’t connect to networkpalce" maxwidth="-1" name="networkplace_access_error">"Conexiune eşuată. Asiguraţi-vă că serverul este online."</string>
+    <string name="networkplace_storage_title">"Locație rețea"</string>
+    <string description="Dialog Title: create new folder" maxwidth="" name="new_folder_dialog">Creare folder nou</string>
+    <string description="Toast: new folder fails" maxwidth="-1" name="new_folder_fail">Crearea noului folder a eşuat.</string>
+    <string description="Toast: new folder success. %s is variable string." maxwidth="-1" name="new_folder_success">"Folderul \"%s\" a fost creat."</string>
+    <string maxwidth="" name="news_1">"<b>Panou de pornire particularizabil</b>: Acum puteți particulariza panoul de pornire cu diverse categorii și ierarhii."</string>
+    <string maxwidth="" name="news_2">"<b>Selector preferințe</b>: Adăugați folderul preferat direct din categoria preferințelor."</string>
+    <string maxwidth="" name="news_3"><b>Widget manager de fișiere</b>: Creați o comandă rapidă la folder în Launcher (Program de lansare).</string>
+    <string maxwidth="" name="news_mark1">"★  "</string>
+    <string maxwidth="" name="news_subtitle">"Iată actualizarea importantă pe care nu trebuie s-o ratați."</string>
+    <string maxwidth="" name="news_title">"Ce este nou"</string>
+    <string maxwidth="" name="news_v21"><b>Transfer de fișiere wireless către/de pe PC</b>: Transfer/gestionare fișiere către/de pe PC</string>
+    <string maxwidth="" name="news_v23">"Performanță îmbunătățită și erori remediate"</string>
+    <string maxwidth="" name="news_v31">"Analizorul stocare vă permite să aflaţi ce tipuri de fişiere vă ocupă spaţiul de stocare"</string>
+    <string maxwidth="" name="news_v32">"Categorie apl. recent-optimizate"</string>
+    <string name="news_v41">"Ascundeţi fişierele private în Folderul ascuns"</string>
+    <string name="news_v42">"Recuperaţi din Coşul de reciclare fişierele şterse"</string>
+    <string name="news_v43">"Îndepărtaţi fişierele duplicat cu Storage Analyzer"</string>
+    <string name="news_v44">"Funcţie nouă la afişare - Mod întunecat"</string>
+    <string name="news_v45">"Performanţă îmbunătăţită"</string>
+    <string name="news_v46">"Defecte corectate"</string>
+    <string name="newversion_description">"Acum este disponibilă o versiune nouă Manager fișiere. Doriți să actualizați acum?"</string>
+    <string name="newversion_title">"Versiune nouă"</string>
+    <string name="next">Următorul</string>
+    <string description="Dialog Button: no for dialog" maxwidth="" name="no">Nu</string>
+    <string name="no_device">"Nu există niciun dispozitiv"</string>
+    <string name="no_items">"Nu există niciun element"</string>
+    <string name="no_network">"Nu există conexiune la reţea"</string>
+    <string description="The description to inform users when there is no internet access" maxwidth="-1" name="no_network_connection_message">"Verificați conexiunea și încercați din nou."</string>
+    <string name="no_network_info">"Pentru accesarea aplicaţiei este necesară o conexiune la internet. Activaţi reţeaua de telefonie mobilă sau conexiunea Wi-Fi din Settings (Setări)."</string>
+    <string name="no_password">"Introduceţi parola"</string>
+    <string name="no_right">"Contul dvs. nu are drept de conectare."</string>
+    <string name="no_share_folder">Nu există niciun fişier partajat în acest dispozitiv</string>
+    <string description="Toast: No space to copy file and left on device" maxwidth="-1" name="no_space_fail">Stocare insuficientă</string>
+    <string name="no_user_exist">"Numele de utilizator nu există"</string>
+    <string name="no_username">"Introduceţi mai întâi numele de utilizator."</string>
+    <string name="notification_gdrive_redeem_content">"Obțineți-l ACUM din Google Drive. "</string>
+    <string name="notification_gdrive_redeem_title">"Spațiu de stocare gratuit de 100 GB!"</string>
+    <string name="occur_error_do_relogin">"Conectaţi-vă din nou la %s"</string>
+    <string description="Dialog Button: ok for dialog" maxwidth="" name="ok">OK</string>
+    <string name="onedrive_account_only_one_alert">"Puteţi adăuga un singur cont OneDrive pentru ASUS. Trebui să ştergeţi contul existent înainte de a-l înlocui cu un cont nou."</string>
+    <string name="open">Deschidere</string>
+    <string description="Toast: open file fails" maxwidth="-1" name="open_fail">Deschiderea fişierului a eşuat.</string>
+    <string maxwidth="" name="open_source_license_description">"Note cu privire la licenţele aferente software-ului open source"</string>
+    <string maxwidth="" name="open_source_license_title">"Licențe open source"</string>
+    <string name="othersforum_site_url">http://www.asus.com/ro/Terms_of_Use_Notice_Privacy_Policy/OthersForum_Site/</string>
+    <string name="password">Parolă</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="paste">Lipire</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="paste_exist_apply">Aplic pt tot</string>
+    <string description="Dialog Title: paste exist dialog title" maxwidth="" name="paste_exist_dialog">Nume fiş. identic</string>
+    <string description="Dialog Content: text in dialog. %s is variable string." maxwidth="" name="paste_exist_file">"Fişierul \"%s\" există deja."</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="paste_exist_replace">Doriţi să-l înlocuiţi cu cel nou?</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="paste_exist_to">În</string>
+    <string description="Toast: paste fails" maxwidth="-1" name="paste_fail">Lipirea fişierelor a eşuat.</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="paste_progress">Se lipeşte...</string>
+    <string name="paste_progress_title">Se execută altă activitate de copiere...</string>
+    <string description="Toast: paste success. %s is variable string." maxwidth="-1" name="paste_success">"Fişierele au fost adăugate în \"%s\"."</string>
+    <string name="permanently_delete">"Ştergere definitivă"</string>
+    <string description="Toast: operation permission deny" maxwidth="-1" name="permission_deny">Permisiunea a fost respinsă.</string>
+    <string name="permission_dialog_title">"Permisiune pentru aplicație"</string>
+    <string name="permission_essential">"Sunt necesare permisiuni. Faceți salt la Setări pentru a activa permisiunile!"</string>
+    <string name="permission_reason_contact">"Manager fișiere necesită acces la informațiile contului pentru a se conecta la spațiul de stocare în cloud."</string>
+    <string name="permission_reason_storage">"Manager fișiere necesită acces la spațiul de stocare al dispozitivului pentru a funcționa corespunzător"</string>
+    <string description="Toast: You may not select more than %s photos." maxwidth="-1" name="photo_selection_limit_number_toast">Selectaţi maximul %s fotografii</string>
+    <string description="This is the title of the screen for setting user preferences." maxwidth="-1" name="preferences_title">"Setări"</string>
+    <string name="previous_folder">"Folder precedent"</string>
+    <string maxwidth="" name="privacy_policy">"Politica de confidențialitate"</string>
+    <string name="privacy_policy_url">http://www.asus.com/us/Terms_of_Use_Notice_Privacy_Policy/Privacy_Policy/</string>
+    <string name="processing_picture">"Se procesează imagina"</string>
+    <string name="processing_video">"Se procesează clipul video"</string>
+    <string name="progressactivity_title">Transmission Manager</string>
+    <string name="promote_darkmode_message">"Modificaţi preferinţele în %s"</string>
+    <string name="promote_darkmode_title">"Funcţie nouă la afişare - Mod întunecat"</string>
+    <string name="promotion_notification_content">"Trebuie să încercați \"Transfer de fișiere Wireless\"!"</string>
+    <string name="promotion_notification_title">"Folosiți încă un cablu USB pentru transferul de fișiere?"</string>
+    <string name="publish">"Publicare"</string>
+    <string name="pullfreshlistview_footer_hint_normal">Încărcați mai multe</string>
+    <string name="pullfreshlistview_footer_hint_ready">Eliberați pentru a încărca mai multe</string>
+    <string name="pullfreshlistview_header_hint_loading">Se reîmprospătează...</string>
+    <string name="pullfreshlistview_header_hint_normal">Trageți în jos</string>
+    <string name="pullfreshlistview_header_hint_ready">Eliberaţi pentru a reîmprospăta</string>
+    <string name="pullfreshlistview_header_last_time">Data ultimei reîmprospătări:</string>
+    <string name="rate_later">"Mai târziu"</string>
+    <string name="rate_now">"Evaluați acum"</string>
+    <string description="rate us" maxwidth="-1" name="rate_us">Evaluați-ne</string>
+    <string name="rating_dialog_message_v3_1">"Vă place să utilizaţi %s? Evaluaţi-ne pe Google Play pentru a ne menţine inspiraţi!"</string>
+    <string name="rating_dialog_message_v3_2">"Pentru sugestii şi feedback, scrieţi-ne prin %s."</string>
+    <string name="recent_files_content_hint">"Găseşte fişierele recente şi le şterge cu acceptul dvs."</string>
+    <string description="shortcut title: recently used files" name="recently_used" width="-1">Recent</string>
+    <string name="recommend_clean_master_msg">"Aplicația cea mai de încredere din lume pentru optimizare Android, optimizare viteză, economisire baterie și de antivirus gratuită. \nDescărcați acum?"</string>
+    <string name="recommend_clean_master_title">"Recomandare aplicații"</string>
+    <string name="recommend_scan_qr_code">"Spuneţi-le prietenilor să descarce\n această aplicaţie scanând acest cod QR."</string>
+    <string description="recruit beta user" maxwidth="-1" name="recruit_beta_user">Descărcare versiune de prezentare</string>
+    <string name="recycle_bin_content_hint">"Conţine toate fişierele şi folderele şterse."</string>
+    <string description="dialog title, key in the asus ID and PW to Login account" maxwidth="-1" name="regist_asus_id">"Creare cont ASUS"</string>
+    <string description="ask user to enter email address to registe New Account" name="registe_id">Numele contului</string>
+    <string description="ask user to enter new password" name="registe_password">Introduceți Între 8-25 de caractere</string>
+    <string description="sign up registe action" name="registe_sign_up">"Înscrieți-vă"</string>
+    <string description="network is unavailable, please try again" maxwidth="-1" name="remote_connected_error_hint">"Reţeaua nu este disponibilă, încercaţi din nou"</string>
+    <string description="remote storage label" maxwidth="-1" name="remote_storage_title">"Stocare la distanţă"</string>
+    <string name="remove_favorite">Eliminare din preferinţe</string>
+    <string name="remove_favorite_notice_more">Sigur doriţi să eliminaţi cele %d (de) elemente din folderul preferat?</string>
+    <string name="remove_favorite_notice_one">"Sigur doriţi să eliminaţi „%s” din folderul preferat?"</string>
+    <string name="remove_favorite_success">Eliminare reuşită</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="rename">Redenumire</string>
+    <string description="Dialog Title: rename dialog title" maxwidth="" name="rename_dialog">Redenumire</string>
+    <string description="Toast: rename fails" maxwidth="-1" name="rename_fail">Redenumirea fişierului a eşuat.</string>
+    <string name="rename_favorite_folder">Redenumire folder preferat</string>
+    <string name="rename_favorite_notice">Există deja un folder cu acelaşi nume în folderul preferat, doriţi să îl redenumiţi?</string>
+    <string name="rename_favorite_success">Redenumire reuşită şi salvare în preferinţe</string>
+    <string description="Toast: rename success" maxwidth="-1" name="rename_success">Fișierul a fost redenumit.</string>
+    <string description="renaming file" name="renaming_file" width="-1">Redenumire</string>
+    <string name="replace">"Înlocuire"</string>
+    <string description="Toast: restore fails" maxwidth="-1" name="restore_fail">"Restaurare eşuată"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="restore_progress">"Restaurare..."</string>
+    <string description="Toast: restore success" maxwidth="-1" name="restore_success_more">"Fişierele selectate au fost restaurate"</string>
+    <string description="Toast: restore success. %s is variable string." maxwidth="-1" name="restore_success_one">"\"%s\" au fost restaurate"</string>
+    <string name="retention_notification_large_file">"Ați adăugat %1$s fișiere mari. Vizualizați-le acum."</string>
+    <string name="retention_notification_recent_file">"Fișierele recente consumă un spațiu de %1$s. Vizualizați-le acum."</string>
+    <string name="saf_permission_tutorial_content">ASUS File Manager solicită acces pentru a opera cartela SD. Doriţi să acordaţi drepturi de acces?</string>
+    <string name="saf_permission_tutorial_content_v2">"Trebuie să efectuaţi anumiţi paşi pentru a acorda drepturi de acces la %s."</string>
+    <string name="saf_permission_tutorial_dialog">"Pentru a acorda drepturi de acces la cartela SD; trebuie efectuată o procedură. Doriţi să continuaţi?"</string>
+    <string name="saf_permission_tutorial_title">Se solicită acces pentru a opera cartela SD</string>
+    <string name="saf_tutorial_step_one">Atingeţi uşor pictograma Meniu, apoi atingeţi uşor Afişare cartelă SD.</string>
+    <string name="saf_tutorial_step_three">Atingeţi uşor Selectare cartelă SD pentru a acorda drepturi de acces aplicaţiei Managerului de fişiere ASUS.</string>
+    <string name="saf_tutorial_step_three_v2">"Atingeţi Selectare %s pt. a acorda acces la Manager fişiere ASUS."</string>
+    <string name="saf_tutorial_step_two">Trageţi cu degetul pe marginea stângă a ecranului pentru a afişa sertarul, apoi atingeţi uşor cartela SD.</string>
+    <string name="saf_tutorial_step_two_v2">"Trageţi cu degetele pe ecran din stânga în dreapta pentru a afişa utilitarul de desenare, apoi atingeţi %s."</string>
+    <string name="saf_tutorial_title">Permisiune de a utiliza cardul SD</string>
+    <string name="saf_tutorial_title_v2">"Permisiune de a o opera %s"</string>
+    <string description="account config dialog remind message" maxwidth="-1" name="samba_client_config_check">Se rețin numele de utilizator și parola pentru conectare directă data viitoare</string>
+    <string name="samba_input_error">Câmpurile pentru numele de utilizator și parolă nu pot rămâne necompletate!</string>
+    <string name="samba_login_error">Aţi introdus în mod incorect numele de utilizator sau parola.</string>
+    <string name="samba_storage_add_title">"Loc NetWork"</string>
+    <string name="samba_storage_title">"SAMBA"</string>
+    <string name="scan_qr_code">"Scanaţi codul QR"</string>
+    <string description="rate now" maxwidth="" name="scroll_up_toast">Defilați în sus pentru a evalua</string>
+    <string maxwidth="-1" name="sd_label">OneDrive pentru ASUS</string>
+    <string name="search_action">"Căutare"</string>
+    <string description="search hint message" maxwidth="-1" name="search_hint">Introducere nume fişier</string>
+    <string description="cutstom action bar view title for search" maxwidth="-1" name="search_label">Căutare fişiere</string>
+    <string description="search dialog message" maxwidth="-1" name="search_progress">Se caută...</string>
+    <string description=" text for search result" formatted="false" maxwidth="-1" name="search_result_title">"Se caută %s în %s: "</string>
+    <string name="select_album">Selectare album</string>
+    <string description="Menu Option: select all checkbox" maxwidth="" name="select_all">Select tot</string>
+    <string description="Title: select the folder" maxwidth="-1" name="select_folder">Selectaţi folderul</string>
+    <string name="select_folder_by_ok_button">"Apăsați pe %1$s pentru a selecta acest folder"</string>
+    <string name="select_photo">Selectare fotografie</string>
+    <string name="server">"Server:"</string>
+    <string name="server_error">"Eroare server"</string>
+    <string name="server_hint">"172.0.0.1/ShareFolder"</string>
+    <string name="server_title">Server</string>
+    <string maxwidth="-1" name="service_not_available_in_your_country">"Acest element nu este disponibil în ţara dvs."</string>
+    <string name="set_password_title">"Creare cod PIN"</string>
+    <string name="set_ring">"Setare ca ton"</string>
+    <string name="setting_display_group">"Afişaj"</string>
+    <string name="setting_notification_group">"Notificare"</string>
+    <string name="setting_notification_large_files">"Notificare fişiere mari"</string>
+    <string name="setting_notification_recent_files">"Notificare fiş. recente"</string>
+    <string name="setting_notification_wireless_transfer">"Notificare transfer wireless"</string>
+    <string name="setting_view_group">"Vizualizare setări"</string>
+    <string name="setting_view_hide_files">"Ascunde fiş. de sistem"</string>
+    <string name="settings">"Setări"</string>
+    <string description="This is the title of cache size" maxwidth="-1" name="settings_cache_size_title">"Dimensiune cache"</string>
+    <string description="Remove all cache documents" maxwidth="-1" name="settings_clear_cache_info">"Elimină toate documentele cache"</string>
+    <string description="Clear the cache" maxwidth="-1" name="settings_clear_cache_title">"Golire cache"</string>
+    <string description="This is the title of clearing search history action for setting user preferences." maxwidth="-1" name="settings_clear_search_history">"Golire istoric căutare"</string>
+    <string name="settings_darkmode_message">"Aplicare Mod întunecat"</string>
+    <string name="settings_description">"Fişiere şi foldere locale"</string>
+    <string description="This is the title of documents cache" maxwidth="-1" name="settings_documents_cache">"Cache documente"</string>
+    <string description="recommend text" maxwidth="" name="settings_encourage_us_detail">Dacă vă place %s, acordaţi-ne 5 stele în Play Store. Ne-aţi încuraja foarte mult să continuăm să aducem îmbunătăţiri produsului!</string>
+    <string description="This is the title of hiding system files action for setting user preferences." maxwidth="-1" name="settings_hide_system_files">"Ascundere fişiere sistem"</string>
+    <string description="This is the title of moving to the trash can." maxwidth="-1" name="settings_moved_to_the_trash_can">"Mutat în Coş de gunoi"</string>
+    <string description="Remove account" maxwidth="-1" name="settings_remove_account">"Eliminare cont"</string>
+    <string description="Set the cache size to %s" maxwidth="-1" name="settings_set_cache_size">"Dimensiunea cache este setată la \"%s\""</string>
+    <string description="This is the title of space used for setting user preferences." maxwidth="-1" name="settings_space_used">"Spaţiu utilizat"</string>
+    <string description="This is the title of trash can information for setting user preferences." maxwidth="-1" name="settings_trash_can">"Coş de gunoi"</string>
+    <string description="This is the title of user name" maxwidth="-1" name="settings_user_name">"Nume utilizator"</string>
+    <string name="setup">"Configurare"</string>
+    <string name="setup_account_description">"Configuraţi un cont de e-mail pentru a recupera codul PIN"</string>
+    <string name="setup_account_no_internet_connection">"Nicio conexiune la internet"</string>
+    <string name="setup_account_skip">"Omitere"</string>
+    <string name="setup_account_title">"Recuperare cod PIN"</string>
+    <string name="setup_fingerprint_message">"Activaţi amprenta pentru deblocare? Folderul ascuns acceptă verificarea amprentei. Pentru a începe, scanaţi amprenta în Setări."</string>
+    <string name="setup_my_digital_code">"Configurare cod PIN"</string>
+    <string name="share_more">"Altele"</string>
+    <string name="share_with_friend">"Partajaţi această aplicaţie cu prietenii"</string>
+    <string description="Context Menu: options of context menu: share folder via Wi-Fi Direct" maxwidth="" name="shared_folder">"Partajare prin Wi-Fi Direct"</string>
+    <string description="shortcit title" maxwidth="-1" name="short_cuts_title">Comandă rapidă</string>
+    <string name="shortcut_hint">"Atingeţi lung o categorie sau un folder pentru a-i crea o comandă rapidă în Lansator."</string>
+    <string description="check if user want to show password" name="show_passwd">Afișare parolă</string>
+    <string description="show when sign in failed" maxwidth="-1" name="signin_failed">"Conectare nereuşită"</string>
+    <string description="signout account" name="signout_account" width="-1">Deconectare</string>
+    <string name="single_drm_file_forbidden_operation">Această acţiune este interzisă pentru că este protejată DRM.</string>
+    <string description="button text for sort file by size" maxwidth="-1" name="size">Dimensiune</string>
+    <string description="button text for sort file by size ascending" maxwidth="-1" name="size_ascending">Dimensiune (mare - mică)</string>
+    <string description="button text for sort file by size descending" maxwidth="-1" name="size_descending">Dimensiune (mică - mare)</string>
+    <string name="ssl_err_msg_info">"Imposibil de realizat o conexiune securizată la server. Doriţi să continuaţi?"</string>
+    <string name="ssl_err_msg_title">"Eroare conexiune SSL"</string>
+    <string description="shortcut title: my favorite files" name="starred" width="-1">"Cu stea"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"˃999"</string>
+    <string name="storage_type_cloud">Stocare în Cloud</string>
+    <string name="storage_type_cloud_att">"Stocare în rețea"</string>
+    <string name="storage_type_local">Stocare locală</string>
+    <string name="storage_type_shortcut">"Comandă rapidă"</string>
+    <string name="storagetype_add_account">Adăgare Google cont</string>
+    <string name="tap_to_exit">Atingeți ușor pentru ieșire</string>
+    <string name="target_directory_is_child_of_source">"Operaţiunea nu se poate finaliza deoarece directorul ţintă este subordonat directorului sursă."</string>
+    <string description="Toast: target file exists" maxwidth="-1" name="target_exist">Fişierul ţintă există.</string>
+    <string description="Toast: target folder exists. %s is variable string." maxwidth="-1" name="target_folder_exist">"Folderul \"%s\" există deja."</string>
+    <string description="" maxwidth="" name="tell_friend">Sp unui priet</string>
+    <string maxwidth="" name="terms_of_service">"Notă despre condiţiile de utilizare"</string>
+    <string maxwidth="" name="terms_of_service_url">http://www.asus.com/us/Terms_of_Use_Notice_Privacy_Policy/Official-Site/</string>
+    <string description="title" maxwidth="-1" name="title">Informaţii juridice:</string>
+    <string name="toast_auto_lock_notify_message">"Blocare Folder ascuns atunci când dispozitivul este blocat"</string>
+    <string description="Toast: The item(s) has been copied completely" maxwidth="-1" name="toast_drag_copied_items">Elementele au fost copiate complet</string>
+    <string description="Toast: The item(s) has been moved completely" maxwidth="-1" name="toast_drag_moved_items">Elementele au fost mutate complet</string>
+    <string description="Toast: Sorry, copy files complete but cut fail" maxwidth="-1" name="toast_warning_copy_comple_cut_fail">"Ne pare rău, copierea de fişiere a reuşit dar ştergerea fişierelor vechi a eşuat"</string>
+    <string description="Toast: Sorry, copy folders has not been supported" maxwidth="-1" name="toast_warning_copy_folders">"Ne pare rău, copierea de foldere nu este suportată"</string>
+    <string maxwidth="35" name="toolbar_item_title_encourage_us">Încurajați-ne</string>
+    <string name="tools_clean_master">"Ștergere junk"</string>
+    <string name="tools_file_transfer">"Transfer de fișiere pe PC"</string>
+    <string name="tools_hidden_zone">"Folder ascuns"</string>
+    <string name="tools_recycle_bin">"Coş de reciclare"</string>
+    <string name="tools_storage_analyzer">"Analizor stocare"</string>
+    <string name="tools_tip_animation">"Beneficiați de instrumente!"</string>
+    <string name="tools_zenui_instant_update">"Actualizare instant"</string>
+    <string description="shortcut title: trash can" name="trash_can" width="-1">"Coş de gunoi"</string>
+    <string maxwidth="-1" name="trash_info_deleted">"Dată ştergere: "</string>
+    <string maxwidth="-1" name="trash_info_path">"Cale originală: "</string>
+    <string description="label for trending searches" maxwidth="-1" name="trending_searches">"Tendinţe căutări"</string>
+    <string name="tutorial_analyzer_content">"Analizatorul de stocare vă informează ce fişiere vă ocupă spaţiul pe disc."</string>
+    <string name="tutorial_category_content">"Căutarea fişierelor nu a fost niciodată mai simplă cu Vizualizarea de categorii a Managerului de fişiere ASUS."</string>
+    <string name="tutorial_category_title">"Vizualizare categorii"</string>
+    <string name="tutorial_cloud_content">"Accesaţi fişiere de pe smartphone, PC şi spaţiul de stocare în cloud."</string>
+    <string name="tutorial_cloud_title">"Spaţiu de stocare în cloud"</string>
+    <string name="tutorial_done">Terminat</string>
+    <string name="tutorial_page_content_long_press">Atingeţi şi menţineţi apăsat pentru a selecta un articol, apoi atingeţi pictograma \"Meniu\" pentru a afişa alte acţiuni disponibile.</string>
+    <string name="tutorial_page_four_content">Setaţi un folder utilizat frecvent drept preferat pentru a accesa folderele rapid şi uşor.</string>
+    <string name="tutorial_page_four_title">Preferinţe</string>
+    <string name="tutorial_page_one_content">Managerului de fişiere ASUS vă permite să gestionaţi uşor fişierele stocate în memoria internă, în spaţiul de stocare extern, în reţeaua locală sau în cloud.</string>
+    <string name="tutorial_page_one_title">"Managerului de fişiere ASUS"</string>
+    <string name="tutorial_page_three_content">Trageţi cu degetul spre dreapta pentru a afişa acţiuni, cum ar fi Adăugare la preferinţe, Redenumire, Mutare în, Copiere în şi alte opţiuni de gestionare a fişierelor.</string>
+    <string name="tutorial_page_three_title">Listă de acţiuni la tragerea cu degetul spre dreapta</string>
+    <string name="tutorial_page_title_long_press">Afişare meniu acţiuni</string>
+    <string name="tutorial_page_two_content">Categorii uşor de utilizat care vă permit să accesaţi rapid fişierele din spaţiul de stocare local.</string>
+    <string name="tutorial_page_two_title">Pagină de pornire</string>
+    <string name="tutorial_skip">Omitere</string>
+    <string description="button text for sort file by type" maxwidth="-1" name="type">Tip</string>
+    <string description="document type" maxwidth="-1" name="type_abu">"Copie de rezervă apl. Asus"</string>
+    <string description="document type" maxwidth="-1" name="type_apk">"Apl. Android"</string>
+    <string description="document type" maxwidth="-1" name="type_audio">"Audio"</string>
+    <string description="document type" maxwidth="-1" name="type_book">"EBook"</string>
+    <string name="type_dialog_audio">Audio</string>
+    <string name="type_dialog_image">Imagine</string>
+    <string name="type_dialog_text">Text</string>
+    <string name="type_dialog_title">Deschidere ca</string>
+    <string name="type_dialog_video">Video</string>
+    <string description="document type" maxwidth="-1" name="type_directory">"Director"</string>
+    <string description="document type" maxwidth="-1" name="type_document">"Document"</string>
+    <string description="document type" maxwidth="-1" name="type_file">"Fişier"</string>
+    <string description="document type" maxwidth="-1" name="type_image">"Imagine"</string>
+    <string description="document type" maxwidth="-1" name="type_playlist">"Listă de redare"</string>
+    <string description="document type" maxwidth="-1" name="type_rar">"RAR"</string>
+    <string description="document type" maxwidth="-1" name="type_video">"Video"</string>
+    <string description="document type" maxwidth="-1" name="type_zip">"Zip"</string>
+    <string name="ud_sdk_all_app_update">"Toate aplicaţiile rulează versiunea curentă."</string>
+    <string name="ud_sdk_asus_app_slogan">aplicaţie utilă</string>
+    <string name="ud_sdk_downloads">Descărcări</string>
+    <string name="ud_sdk_free_download">Descărcare gratuită</string>
+    <string name="ud_sdk_important_remind_text">"Important"</string>
+    <string name="ud_sdk_install">Instalare</string>
+    <string name="ud_sdk_more_zen_family">Descoperiţi mai multe aplicaţii ZenUI</string>
+    <string name="ud_sdk_no_network_connection_content">Nu s-au putut actualiza datele. Verificaţi setările reţelei.</string>
+    <string name="ud_sdk_no_network_connection_title">Fără conexiune la reţea</string>
+    <string name="ud_sdk_open">Deschidere</string>
+    <string name="ud_sdk_update">Actualizare</string>
+    <string maxwidth="-1" name="ud_sdk_update_sdk">Familia ZenUI</string>
+    <string maxwidth="-1" name="ud_sdk_update_sdk_asus">Actualizare instantanee ZenUI</string>
+    <string name="ud_sdk_wifi_settings">Setări Wi-Fi</string>
+    <string name="uf_sdk_already_give_5star">"A dat deja o evaluare de 5 stele"</string>
+    <string description="%d is a number, don&apos;t translate" name="uf_sdk_article_read_count">"%d vizualizări"</string>
+    <string name="uf_sdk_attachment_format_warning">"Format fişier greşit. Se poate ataşa doar un fişier imagine"</string>
+    <string name="uf_sdk_attachment_total_size">"Total"</string>
+    <string name="uf_sdk_attachment_warning">"Dimensiunea fișierelor atașate depășește limita permisă"</string>
+    <string maxwidth="-1" name="uf_sdk_cancel_btn_content">"Anulare"</string>
+    <string name="uf_sdk_choosertitle_sharevia">"Distribuiţi prin"</string>
+    <string name="uf_sdk_connection_error_msg">"Conexiune abandonată de server. Încercaţi din nou mai târziu."</string>
+    <string name="uf_sdk_connection_error_title">"Eroare de conexiune"</string>
+    <string name="uf_sdk_discard">"Renunţare"</string>
+    <string name="uf_sdk_email_illigal">"Adresă de e-mail deja utilizată"</string>
+    <string maxwidth="-1" name="uf_sdk_empty_notification">"Goală :)"</string>
+    <string name="uf_sdk_faq">"Întrebări frecvente"</string>
+    <string name="uf_sdk_feedback_and_help">"Feedback şi ajutor"</string>
+    <string name="uf_sdk_forum_description">"Alăturaţi-vă conversaţiei cu utilizatorii ASUS pentru a afla soluţii şi pentru a partaja soluţiile găsite de dvs."</string>
+    <string maxwidth="-1" name="uf_sdk_grant_permission_title">"Acordaţi permisiune"</string>
+    <string name="uf_sdk_help">"Ajutor"</string>
+    <string name="uf_sdk_instant_answer_question">"Consideraţi utilă această secţiune de întrebări frecvente?"</string>
+    <string name="uf_sdk_like">"Apreciere"</string>
+    <string maxwidth="-1" name="uf_sdk_message">"Notificări"</string>
+    <string name="uf_sdk_msg_bad_email_format">"Adresa de e-mail nu este validă, încercaţi din nou."</string>
+    <string name="uf_sdk_msg_confirm_discard_topic">"Versiunea dvs. preliminară nu va fi salvată. Doriţi să ştergeţi chiar şi în aceste condiţii?"</string>
+    <string name="uf_sdk_msg_confirm_discard_topic_title">"Ştergeţi postarea?"</string>
+    <string name="uf_sdk_msg_subscribe">"Notificările cu privire la starea subiectului vă vor fi transmise prin e-mail în baza abonamentului."</string>
+    <string name="uf_sdk_msg_subscribe_success">"Abonare finalizată cu succes"</string>
+    <string name="uf_sdk_msg_ticket_created">"Feedbackul dvs. a fost trimis cu succes către ASUS"</string>
+    <string name="uf_sdk_msg_topic_created">"Publicare finalizată cu succes"</string>
+    <string name="uf_sdk_msg_unsubscribe">"Dezabonare finalizată cu succes"</string>
+    <string name="uf_sdk_name_hint">"Introduceţi numele dvs."</string>
+    <string name="uf_sdk_name_illigal">"Nume de utilizator deja utilizat"</string>
+    <string name="uf_sdk_network_error">"Nu aveţi o conexiune la reţea. Verificaţi setările reţelei."</string>
+    <string description="zenui news" maxwidth="" name="uf_sdk_news">"Ştiri"</string>
+    <string name="uf_sdk_no_network_connection_content">"Nu s-au putut actualiza datele. Verificaţi setările reţelei. "</string>
+    <string name="uf_sdk_no_network_connection_title">"Fără conexiune la reţea"</string>
+    <string name="uf_sdk_nothing_found">"Nu s-a găsit nimic"</string>
+    <string name="uf_sdk_notice">"Notă"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category1">"Anunţuri"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category2">"Demonstraţii şi sfaturi"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category3">"Promoţii"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category4">"Evenimente"</string>
+    <string name="uf_sdk_publish_an_topic">"Publicare subiect nou"</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_rate_now">"Evaluați acum"</string>
+    <string description="%s is AP name, don&apos;t translate" maxWidth="" name="uf_sdk_rate_us_detail">"Dacă vă place %s, acordați-ne 5 stele în Magazinul Play."</string>
+    <string maxWidth="" name="uf_sdk_rate_us_detail_new">"Susținerea dvs. printr-o evaluare cu 5 stele ne inspiră să ne continuăm activitatea!"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_rating">"Evaluare cu 5 stele"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title">"Evaluați-ne!"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title_new">"Încurajaţi-ne!"</string>
+    <string description="Menu item for userFeedback sdk" maxwidth="-1" name="uf_sdk_report_bug">Raportare eroare</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_scroll_up_toast">"Defilați în sus pentru a evalua"</string>
+    <string name="uf_sdk_search_hint">"Căutare"</string>
+    <string name="uf_sdk_select_common_bug">"Selectare eroare comună"</string>
+    <string name="uf_sdk_send_feedback">"Trimitere feedback"</string>
+    <string name="uf_sdk_send_feedback_help">"Feedback şi adresa dvs. de e-mail vor fi trimise către ASUS. Echipa de service vă va contacta prin e-mail."</string>
+    <string maxwidth="-1" name="uf_sdk_setting_btn_content">"Setări"</string>
+    <string description="recommend title" maxwidth="" name="uf_sdk_settings_encourage_us_title">"Încurajaţi-ne"</string>
+    <string maxwidth="-1" name="uf_sdk_storage_permission_description">"Pentru a accesa fişierele multimedia, această funcţionalitate necesită permisiune de acces la stocare. \n\nDacă doriţi să activaţi această funcţionalitate, atingeţi butonul Setări pentru a merge la pagina Setări a aplicaţiei, apoi setaţi \"Info apl.\" > \"Permisiuni\" pentru a acorda permisiunea.\n"</string>
+    <string name="uf_sdk_submit_topic">"Publicare"</string>
+    <string name="uf_sdk_subscribe_dialog_title">"Abonaţi-vă la acest subiect"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_answered">"S-a răspuns"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_completed">"Finalizat"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_declined">"Refuzat"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_implemented">"Implementat"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_planned">"Planificat"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_under_review">"În curs de examinare"</string>
+    <string name="uf_sdk_thanks_for_your_feedback">"Vă mulţumim pentru feedback!"</string>
+    <string description="%s is a application name, don&apos;t translate" name="uf_sdk_ticket_hint">"Introduceți feedback-uri pentru %s"</string>
+    <string name="uf_sdk_title_topic">"Subiect"</string>
+    <string name="uf_sdk_topic">"Subiect"</string>
+    <string name="uf_sdk_topic_description_heading">"Descriere"</string>
+    <string name="uf_sdk_topic_description_hint">"Descrieţi subiectul în detaliu"</string>
+    <string name="uf_sdk_topic_filter">"SUBIECTE"</string>
+    <string name="uf_sdk_topic_form_help">"Atunci când publicaţi un subiect pe un forum de utilizatori, alţi utilizatori se vor putea abona la acest subiect şi pot crea comentarii. Veţi fi notificat prin e-mail atunci când echipa ASUS oferă un răspuns la subiect."</string>
+    <string name="uf_sdk_topic_form_title">"Publicare subiect nou"</string>
+    <string name="uf_sdk_topic_text_heading">"Forum"</string>
+    <string name="uf_sdk_topic_text_hint">"Introduceţi titlul subiectului"</string>
+    <string name="uf_sdk_topic_title">"Titlu"</string>
+    <string name="uf_sdk_translation_10117605">"Problemă de traducere"</string>
+    <string name="uf_sdk_translation_117562">"Tip feedback"</string>
+    <string name="uf_sdk_translation_2529543">"Raport erori"</string>
+    <string name="uf_sdk_translation_2529544">"Altele"</string>
+    <string name="uf_sdk_translation_2530478">"Sugestie"</string>
+    <string name="uf_sdk_unhelpful_article_message_question">"Doriţi să trimiteţi feedback echipei de dezvoltare ASUS?"</string>
+    <string name="uf_sdk_user_forum">"Forum utilizatori"</string>
+    <string name="uf_sdk_warning">"Avertisment"</string>
+    <string name="uf_sdk_wifi_settings">"Setări Wi-Fi"</string>
+    <string name="uf_sdk_wlan_settings">"Setări WLAN"</string>
+    <string name="uf_sdk_write_your_feedback">"Introduceţi feedback-uri aici"</string>
+    <string name="uf_sdk_your_draft_will_be_discarded">"Schiţa dvs. va fi îndepărtată."</string>
+    <string description="description for empty search result" maxwidth="-1" name="unable_to_find_artlcles">"Nu se pot găsi articole asociate \u0022%s\u0022"</string>
+    <string description="string indicating the length units in milli-meters" maxwidth="-1" name="unit_mm">mm</string>
+    <string description="Context Menu: options of context menu: unshare folder" maxwidth="-1" name="unshared_folder">"Anulare partajare"</string>
+    <string name="unsupported_area">"Această secţiune nu este acceptată"</string>
+    <string description="toast message: extract files fail" maxwidth="-1" name="unzip_fail">Nu s-au putut extrage fişierele</string>
+    <string description="extract file dialog message" maxwidth="-1" name="unzip_progress_msg">Se extrage...</string>
+    <string description="toast message: extract files successly" maxwidth="-1" name="unzip_success">Fişierele au fost extrase cu succes</string>
+    <string name="update">"Actualizare"</string>
+    <string name="update_fb_app">"Versiunea aplicaţiei mobile Facebook nu este actuală.  Instalaţi cea mai recentă versiune din Google Play."</string>
+    <string name="upgrade_notification_content">Vizualizaţi fişierele în funcţie de tipul acestora, folosind noul nostru ecran principal.</string>
+    <string name="upgrade_notification_title">Încercaţi acum noul manager de fişiere!</string>
+    <string name="upload_complete">"Încărcare finalizată"</string>
+    <string name="upload_complete_dialog_message">"Încărcarea clipului video a reușit."</string>
+    <string name="upload_complete_dialog_title">"Finalizat"</string>
+    <string name="upload_fail">încărcare nereușită!</string>
+    <string name="upload_failed">"Încărcare nereușită"</string>
+    <string name="upload_picture_toast">"Imaginea dvs. va fi încărcată. Verificaţi progresul în fereastra pentru notificări."</string>
+    <string name="upload_toast">"Clipul dvs. video va fi încărcat. Verificați progresul în fereastra de notificări."</string>
+    <string name="uploading_picture">"Se încarcă imaginea"</string>
+    <string name="uploading_video">"Se încarcă clipul video..."</string>
+    <string name="user">Nume de utilizator</string>
+    <string name="user_hint">administrator</string>
+    <string name="uv_admin_response_format">"Răspuns administrator: %1$s"</string>
+    <string name="uv_all_articles">"Toate articolele"</string>
+    <string name="uv_all_results_filter">"TOATE"</string>
+    <string name="uv_android_sdk">Android SDK</string>
+    <string name="uv_article_browse_question">"A fost de ajutor acest articol?"</string>
+    <string name="uv_article_instant_answer_question">"Consideraţi utilă această secţiune de întrebări frecvente?"</string>
+    <string name="uv_cancel">"Anulare"</string>
+    <string name="uv_category">"Categorie"</string>
+    <string name="uv_close">"Închidere"</string>
+    <string name="uv_comment_hint">"Introduceţi comentariul"</string>
+    <string name="uv_confirm">"Confirmare"</string>
+    <string name="uv_contact_continue_button">"Încă vreau să trimit un mesaj"</string>
+    <string name="uv_contact_hint">"Introduceţi întrebarea sau feedbackul"</string>
+    <string name="uv_contact_us">"Contactaţi-ne"</string>
+    <string name="uv_display_name">"Nume afişare"</string>
+    <string name="uv_email_address">"Adresă e-mail"</string>
+    <string name="uv_email_address_hint">"adresadvs.@email.com (obligatorie)"</string>
+    <string name="uv_error">"Eroare"</string>
+    <string name="uv_failed_signin_error">"Parolă sau e-mail greşite"</string>
+    <string name="uv_forgot_password">"Aţi uitat parola"</string>
+    <string name="uv_helpful_article_message_question">"Doriţi totuşi să trimiteţi un mesaj?"</string>
+    <string name="uv_i_want_this">"Vreau asta!"</string>
+    <string name="uv_idea_description_heading">"Descrieţi mai detaliat ideea dvs."</string>
+    <string name="uv_idea_description_hint">"(opţional)"</string>
+    <string name="uv_idea_text_heading">"Vă sugerăm să..."</string>
+    <string name="uv_loading">"Încărcare…"</string>
+    <string name="uv_matching_articles">"Articole asemănătoare"</string>
+    <string name="uv_matching_articles_and_ideas">"Articole şi idei asemănătoare"</string>
+    <string name="uv_menu_attach">"Ataşare"</string>
+    <string name="uv_menu_search">"Căutare"</string>
+    <string name="uv_msg_bad_email_format">"Vă rugăm să introduceţi o adresă de e-mail validă."</string>
+    <string name="uv_msg_comment_posted">"Comentariul dvs. a fost publicat"</string>
+    <string name="uv_msg_confirm_discard_message">"Sigur doriţi să renunţaţi la mesaj?"</string>
+    <string name="uv_msg_custom_fields_validation">"Vă rugăm să completaţi toate câmpurile necesare."</string>
+    <string name="uv_msg_forgot_password">"E-mail trimis pentru parolă uitată"</string>
+    <string name="uv_msg_idea_created">"Ideea dvs. a fost creată"</string>
+    <string name="uv_msg_ticket_created">"Mesajul dvs. a fost trimis"</string>
+    <string name="uv_msg_user_identity_validation">"Vă rugăm să vă introduceţi adresa de e-mail"</string>
+    <string name="uv_name_hint">"Anonim"</string>
+    <string name="uv_network_error">"Conectarea la UserVoice a eşuat"</string>
+    <string name="uv_nevermind">"Nu mai contează"</string>
+    <string name="uv_new_comment">"Comentariu nou"</string>
+    <string name="uv_next">"Următorul"</string>
+    <string name="uv_no">"Nu"</string>
+    <string name="uv_none_of_these_help">"Nu ajută niciunul"</string>
+    <string name="uv_password">"Parolă"</string>
+    <string name="uv_password_dialog_title">"Vă rugăm să introduceţi parola"</string>
+    <string name="uv_portal_title">"Ajutor"</string>
+    <string name="uv_post_a_comment">"Publicaţi un comentariu"</string>
+    <string name="uv_post_comment">"Publicare comentariu"</string>
+    <string name="uv_posted_by_format">"Publicat de %1$s pe %2$s"</string>
+    <string name="uv_powered_by_uservoice">"Susţinut de UserVoice"</string>
+    <string name="uv_ranked">"Clasat %1$s"</string>
+    <string name="uv_remove_votes">"Eliminare voturi"</string>
+    <string name="uv_select_none">"(niciunul)"</string>
+    <string name="uv_select_one">"Selectaţi unul"</string>
+    <string name="uv_send_message">"Trimitere mesaj"</string>
+    <string name="uv_signin_dialog_ok">"Conectare"</string>
+    <string name="uv_signin_dialog_title">"Conectare"</string>
+    <string name="uv_status_format">"Stare: %1$s"</string>
+    <string name="uv_submit_idea">"Trimitere idee"</string>
+    <string name="uv_subscribe">"Abonare"</string>
+    <string name="uv_subscribe_dialog_title">"Abonare la această idee"</string>
+    <string name="uv_suggestion_instant_answer_question">"Consideraţi utilă această idee?"</string>
+    <string name="uv_thanks">"Vă mulţumim!"</string>
+    <string name="uv_unhelpful_article_message_question">"Doriţi să ne trimiteţi un mesaj?"</string>
+    <string name="uv_value">"Valoare"</string>
+    <string name="uv_very_yes">"Da!"</string>
+    <string name="uv_yes">"Da"</string>
+    <string name="uv_your_email_address">"Adresa dvs. de e-mail"</string>
+    <string name="uv_your_name">"Numele dvs."</string>
+    <string description="version" maxwidth="-1" name="version">Versiune</string>
+    <string name="version_text">versiunea</string>
+    <string name="wait">Aşteptaţi\u2026</string>
+    <string name="warning_stophttpserver">"Veți pierde conexiunea dintre dispozitivul mobil și PC. Vreți să ieșiți?"</string>
+    <string name="whats_new_label">Ce este nou</string>
+    <string description="message for request to connect Network" name="wifi_p2p_connection_msg" width="-1">Conectați-vă la o rețea pentru a folosi serviciile Cloud.</string>
+    <string description="title for request to connect Network" name="wifi_p2p_connection_title" width="-1">Conectați-vă la o rețea</string>
+    <string description="message for request to turn on Wi-Fi" name="wifi_p2p_turn_on_wifi_msg" width="-1">"Activaţi Wi-Fi pentru a utiliza serviciile Wi-Fi Direct. Activaţi Wi-Fi acum?"</string>
+    <string description="title for turn on WiFi dialog" name="wifi_p2p_turn_on_wifi_title" width="-1">"Activare Wi-Fi"</string>
+    <string description="search" maxwidth="-1" name="wifidirect_action_bar_scan">"Căutare"</string>
+    <string description="Available devices" maxwidth="-1" name="wifidirect_available_devices">"Dispozitive disponibile"</string>
+    <string description="Do you want to connect to device" maxwidth="-1" name="wifidirect_connect_hint">"Doriţi să vă conectaţi cu"</string>
+    <string description="Dialog title text: Invitation to connect" maxwidth="-1" name="wifidirect_connect_hint_title">"Invitaţie la conectare"</string>
+    <string description="Dialog title text: Wi-Fi Direct connecting" maxwidth="-1" name="wifidirect_connecting_hint_title">"Wi-Fi Direct se conectează..."</string>
+    <string description="connectted" maxwidth="-1" name="wifidirect_connectted">"Conectat"</string>
+    <string description=">Do you want to disconnect" maxwidth="-1" name="wifidirect_disconnect_hint">"Doriţi să vă deconectaţi de la"</string>
+    <string description="Disconnect Wi-Fi Direct" maxwidth="-1" name="wifidirect_disconnect_hint_title">"Dezactivare Wi-Fi Direct"</string>
+    <string description="peer devices infomation" maxwidth="-1" name="wifidirect_peer_device_info">"Pentru a primi o invitaţie Wi-Fi Direct, asiguraţi-vă că dispozitivul care se conectează este pe pagina \"Asociere dispozitive\" din Manager fişiere."</string>
+    <string description="peer devices title" maxwidth="-1" name="wifidirect_peer_device_title">"Asociere dispozitive"</string>
+    <string description="searching" maxwidth="-1" name="wifidirect_scanning">"Căutare..."</string>
+    <string description="Search Wi-Fi Direct device" maxwidth="-1" name="wifidirect_storage_title">"Căutare dispozitiv Wi-Fi Direct"</string>
+    <string description="click to connect" maxwidth="-1" name="wifidirect_touch_to_connect">"Faceţi clic pentru a vă conecta"</string>
+    <string name="yandex_account_only_one_alert">"Puteţi adăuga un singur cont Yandex. Trebui să ştergeţi contul existent înainte de a-l înlocui cu un cont nou."</string>
+    <string name="yes">Da</string>
+    <string name="zenui_update">"Actualizări instantanee ZenUI"</string>
+    <string description="toast message: Compress files fail" maxwidth="-1" name="zip_fail">Nu s-au putut comprima fişierele</string>
+    <string description="compress dialog message" maxwidth="-1" name="zip_progress_msg">Se procesează...</string>
+    <string description="toast message: Compress files successly" maxwidth="-1" name="zip_success">Fişierele au fost comprimate cu succes</string>
+</resources>

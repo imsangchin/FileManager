@@ -1,0 +1,1273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="alarm_set">
+        <item msgid="6450913786084215050">"Äratuseni on jäänud vähem kui 1 minut."</item>
+        <item msgid="6002066367368421848">"Äratuseni on jäänud <ns1:g id="DAYS">%1$s</ns1:g>."</item>
+        <item msgid="8824719306247973774">"Äratuseni on jäänud <ns1:g id="HOURS">%2$s</ns1:g>."</item>
+        <item msgid="8182406852935468862">"Äratuseni on jäänud <ns1:g id="DAYS">%1$s</ns1:g> ja <ns1:g id="HOURS">%2$s</ns1:g>."</item>
+        <item msgid="2532279224777213194">"Äratuseni on jäänud <ns1:g id="MINUTES">%3$s</ns1:g>."</item>
+        <item msgid="5936557894247187717">"Äratuseni on jäänud <ns1:g id="DAYS">%1$s</ns1:g> ja <ns1:g id="MINUTES">%3$s</ns1:g>."</item>
+        <item msgid="9115697840826129603">"Äratuseni on jäänud <ns1:g id="HOURS">%2$s</ns1:g> ja <ns1:g id="MINUTES">%3$s</ns1:g>."</item>
+        <item msgid="2332583385137381060">"Selle äratuseni on <ns1:g id="DAYS">%1$s</ns1:g>, <ns1:g id="HOURS">%2$s</ns1:g> ja <ns1:g id="MINUTES">%3$s</ns1:g>."</item>
+    </string-array>
+    <string-array name="charset_array">
+        <item>"Ladina-1 (ISO-8859-1)"</item>
+        <item>"Unicode (UTF-8)"</item>
+        <item>"Hiina (GBK)"</item>
+        <item>"Hiina (Big5)"</item>
+        <item>"Jaapani (ISO-2022-JP)"</item>
+        <item>"Jaapani (SHIFT_JIS)"</item>
+        <item>"Jaapani (EUC-JP)"</item>
+        <item>"Korea (EUC-KR)"</item>
+    </string-array>
+    <string-array name="country_names">
+        <item>Aruba</item>
+        <item>Afganistan (جمهوری اسلامی افغانستان)</item>
+        <item>Angoola (República de Angola)</item>
+        <item>Anguilla</item>
+        <item>Albaania (Shqipëri)</item>
+        <item>Andorra (Principat d\'Andorra)</item>
+        <item>Hollandi Antillid</item>
+        <item>Araabia Ühendemiraadid (دولة الإمارات العربية المتحدة‎)</item>
+        <item>Argentina (República Argentina)</item>
+        <item>Armeenia (Hayastan)</item>
+        <item>Ameerika Samoa</item>
+        <item>Antarktika</item>
+        <item> Prantsuse Lõunaalad</item>
+        <item>Antigua ja Barbuda</item>
+        <item>Austraalia (Australia)</item>
+        <item>Austria (Österreich)</item>
+        <item>Aserbaidžaan</item>
+        <item>Burundi</item>
+        <item>Belgia (België)</item>
+        <item>Benin</item>
+        <item>Burkina Faso</item>
+        <item>Bangladesh (বাংলাদেশ)</item>
+        <item>Bulgaaria (България / Balgariya)</item>
+        <item>Bahrein (مملكة البحرين)</item>
+        <item>Bahama</item>
+        <item>Bosnia/Herzegowina (Bosna i Hercegovina)</item>
+        <item>Valgevene (Беларусь)</item>
+        <item>Belize</item>
+        <item>Bermuda</item>
+        <item>Bolivia</item>
+        <item>Brasiilia</item>
+        <item>Barbados</item>
+        <item>Brunei (بروني دارالسلام)</item>
+        <item>Bhutan</item>
+        <item>Bouvet Island</item>
+        <item>Botswana (Lefatshe la Botswana)</item>
+        <item>Kesk-Aafrika Vabariik (République centrafricaine)</item>
+        <item>Kanada</item>
+        <item>Cocos (Keeling) Islands</item>
+        <item>Šveits (Suisse)</item>
+        <item>Tšiili</item>
+        <item>Hiina (中國)</item>
+        <item>Cote D\'Ivoire</item>
+        <item>Kamerun</item>
+        <item>Kongo</item>
+        <item>Cooki saared</item>
+        <item>Kolumbia</item>
+        <item>Comoros</item>
+        <item>Cape Verde</item>
+        <item>Costa Rica</item>
+        <item>Kuuba</item>
+        <item>Christmas Island</item>
+        <item>Kaimanisaared</item>
+        <item>Küpros (Euro)</item>
+        <item>Tšehhi Vabariik (Česká republika)</item>
+        <item>Saksamaa (Deutschland)</item>
+        <item>Djibouti</item>
+        <item>Dominica</item>
+        <item>Taani (Danmark)</item>
+        <item>Dominikaani Vabariik</item>
+        <item>Alžeeria</item>
+        <item>Ecuador</item>
+        <item>Egiptus (مصر‎)</item>
+        <item>Eritrea</item>
+        <item>Lääne-Sahara</item>
+        <item>Hispaania (España)</item>
+        <item>Eesti</item>
+        <item>Etioopia</item>
+        <item>Soome (Suomi)</item>
+        <item>Fiji</item>
+        <item>Falklandi saared</item>
+        <item>Prantsusmaa (France)</item>
+        <item>Belgia (Belgique)</item>
+        <item>Fääri saared</item>
+        <item>Mikroneesia</item>
+        <item>Gabon</item>
+        <item>Suurbritannia (United Kingdom)</item>
+        <item>Georgia (საქართველო)</item>
+        <item>Ghana</item>
+        <item>Gibraltar</item>
+        <item>Guinea</item>
+        <item>Guadeloupe</item>
+        <item>Gambia</item>
+        <item>Guinea-Bissau</item>
+        <item>Ekvatoriaal-Guinea</item>
+        <item>Kreeka (Ελλάδα)</item>
+        <item>Grenada</item>
+        <item>Gröönimaa</item>
+        <item>Guatemala</item>
+        <item>Prantsuse Guajaana</item>
+        <item>Guam</item>
+        <item>Guajaana</item>
+        <item>Hong Kong (香港)</item>
+        <item>Heardi ja McDonaldi saared</item>
+        <item>Honduras</item>
+        <item>Horvaatia (Hrvatska)</item>
+        <item>Haiti</item>
+        <item>Ungari (Magyarország)</item>
+        <item>Indoneesia (Republik Indonesia)</item>
+        <item>India (भारत गणराज्य )</item>
+        <item>British Indian Ocean Territory</item>
+        <item>Iirimaa (Ireland)</item>
+        <item>Iraan (ایران)</item>
+        <item>Iraak (العراق)</item>
+        <item>Island (Ísland)</item>
+        <item>Israel (מְדִינַת יִשְׂרָאֵל  /  دَوْلَةُ إِسْرَائِيلَ)</item>
+        <item>Itaalia (Italia)</item>
+        <item>Jamaica</item>
+        <item>Joraania (L\'Ürdünn)</item>
+        <item>Jaapan (日本国)</item>
+        <item>Kasahstan</item>
+        <item>Keenia (Jamhuri ya Kenya)</item>
+        <item>Kõrgõzstan</item>
+        <item>Kambodža (कम्बोजदेश)</item>
+        <item>Kiribati</item>
+        <item>Saint Kitts ja Nevis</item>
+        <item>Korea Vabariik (대한민국)</item>
+        <item>Kuveit (دولة الكويت)</item>
+        <item>Laose Rahvademokraatlik Vabariik</item>
+        <item>Liibanon (اَلْجُمْهُورِيَّة اَللُّبْنَانِيَّة)</item>
+        <item>Libeeria</item>
+        <item>Libyan Arab Jamahiriya</item>
+        <item>Saint Lucia</item>
+        <item>Liechtenstein (Liechtenstein)</item>
+        <item>Sri Lanka (இலங்கை ஜனநாயக சமத்துவ)</item>
+        <item>Lesotho</item>
+        <item>Leedu (Lietuva)</item>
+        <item>Luxembourg (Lëtzebuerg)</item>
+        <item>Läti (Latvija)</item>
+        <item>Macao</item>
+        <item>Maroko</item>
+        <item>Monaco (Monaco)</item>
+        <item>Moldova (Moldova)</item>
+        <item>Madagaskar</item>
+        <item>Maldiivid</item>
+        <item>Mehhiko</item>
+        <item>Marshalli saared</item>
+        <item>Makedoonia</item>
+        <item>Mali</item>
+        <item>Malta (Malta)</item>
+        <item>Myanmar (Pyidaunzu Thanmăda Myăma Nainngandaw)</item>
+        <item>Mongoolia</item>
+        <item>Põhja-Mariaanid</item>
+        <item>Mosambiik</item>
+        <item>Mauritaania</item>
+        <item>Montserrat</item>
+        <item>Martinique (Martinique)</item>
+        <item>Mauritius (Republik Moris)</item>
+        <item>Malawi</item>
+        <item>Malaisia (Persekutuan Malaysia)</item>
+        <item>Mayotte</item>
+        <item>Namiibia</item>
+        <item>Uus-Kaledoonia (Nouvelle-Calédonie)</item>
+        <item>Niger</item>
+        <item>Norfolk Island (Norfuk Ailen)</item>
+        <item>Nigeeria (Republik Nijeriya)</item>
+        <item>Nicaragua</item>
+        <item>Niue</item>
+        <item>Holland (Nederland)</item>
+        <item>Norra (Norge)</item>
+        <item>Nepal (सङ्घीय लोकतान्त्रिक गणतन्त्र नेपाल)</item>
+        <item>Nauru</item>
+        <item>Uus-Meremaa (New Zealand)</item>
+        <item>Oman (لطنة عمان)</item>
+        <item>Pakistan (پاکِستان)</item>
+        <item>Panama</item>
+        <item>Pitcairn</item>
+        <item>Peru</item>
+        <item>Filipiinid (Pilipinas)</item>
+        <item>Palau</item>
+        <item>Paapua Uus-Guinea</item>
+        <item>Poola (Polska)</item>
+        <item>Puerto Rico</item>
+        <item>Korea Rahvademokraatlik Vabariik</item>
+        <item>Portugal (Portugal)</item>
+        <item>Paraguay</item>
+        <item>Prantsuse Polüneesia</item>
+        <item>Katar</item>
+        <item>Reunion</item>
+        <item>Rumeenia (România)</item>
+        <item>Venemaa (Россия)</item>
+        <item>Rwanda</item>
+        <item>Saudi Araabia (المملكة العربية السعودية)</item>
+        <item>Serbia ja Montenegro</item>
+        <item>Sudaan (جمهورية السودان)</item>
+        <item>Senegal</item>
+        <item>Singapur (Singapore)</item>
+        <item>Lõuna-Georgia ja Lõuna-Sandwichi saared</item>
+        <item>St Helena</item>
+        <item>Svalbard ja Jan Mayeni saared</item>
+        <item>Saalomoni Saared (Solomon Islands)</item>
+        <item>Sierra Leone</item>
+        <item>El Salvador</item>
+        <item>San Marino (San Marino)</item>
+        <item>Somaalia</item>
+        <item>St. Pierre and Miquelon (St. Pierre and Miquelon)</item>
+        <item>Sao Tome ja Principe</item>
+        <item>Suriname</item>
+        <item>Slovakkia (Slovensko)</item>
+        <item>Sloveenia (Slovenija)</item>
+        <item>Rootsi (Sverige)</item>
+        <item>Svaasimaa (Swatini)</item>
+        <item>Seišellid</item>
+        <item>Süüria Araabia Vabariik (جمهورية العربية السورية)</item>
+        <item>Turks ja Caicos</item>
+        <item>Tšaad</item>
+        <item>Togo</item>
+        <item>Tai (ราชอาณาจักรไทย)</item>
+        <item>Tadžikistan</item>
+        <item>Tokelau</item>
+        <item>Turkmenistan</item>
+        <item>East Timor</item>
+        <item>Tonga</item>
+        <item>Trinidad ja Tobago</item>
+        <item>Tuneesia</item>
+        <item>Türgi (Türkiye)</item>
+        <item>Tuvalu</item>
+        <item>TAIWAN, ROC (台灣)</item>
+        <item>Tansaania</item>
+        <item>Uganda (Jamhuri ya Uganda)</item>
+        <item>Ukraina (Україна)</item>
+        <item>USA hajasaared</item>
+        <item>Uruguay</item>
+        <item>USA</item>
+        <item>Usbekistan</item>
+        <item>Püha Tool (Stato della Città del Vaticano)</item>
+        <item>Saint Vincent ja Grenadiinid</item>
+        <item>Venetsueela</item>
+        <item>Neitsisaared (Briti)</item>
+        <item>Neitsisaared (USA)</item>
+        <item>Vietnam (Việt Nam)</item>
+        <item>Vanuatu</item>
+        <item>Wallis ja Futuna</item>
+        <item>Samoa</item>
+        <item>Jeemen</item>
+        <item>Lõuna-Aafrika (Republiek van Suid-Afrika)</item>
+        <item>Zaire</item>
+        <item>Sambia</item>
+        <item>Zimbabwe (Simudzai Mureza wedu WeZimbabwe)</item>
+    </string-array>
+    <plurals name="dialog_unzip_preview_size_text">
+        <item quantity="one">Kokku: %1$d fail, %2$s</item>
+        <item quantity="other">Kokku: %1$d faili, %2$s</item>
+    </plurals>
+    <plurals name="drag_items">
+        <item quantity="one">Lohistage üksus</item>
+        <item quantity="other">Lohistage üksused</item>
+    </plurals>
+    <plurals name="number_search_items">
+        <item quantity="one">"Leiti %d fail"</item>
+        <item quantity="other">"Leiti %d faili"</item>
+    </plurals>
+    <plurals name="number_selected_items">
+        <item quantity="one">%d üksus valitud</item>
+        <item quantity="other">%d üksust valitud</item>
+    </plurals>
+    <plurals name="uf_sdk_number_of_subscribers_format">
+        <item quantity="one">"%1$s meeldib see teema"</item>
+        <item quantity="other">"%1$s meeldib see teema"</item>
+    </plurals>
+    <plurals name="uf_sdk_topics">
+        <item quantity="one">"teema"</item>
+        <item quantity="other">"teemad"</item>
+    </plurals>
+    <plurals name="uv_comments">
+        <item quantity="one">"kommentaar"</item>
+        <item quantity="other">"kommentaarid"</item>
+    </plurals>
+    <plurals name="uv_number_of_subscribers_format">
+        <item quantity="one">"%1$s tahab seda ideed"</item>
+        <item quantity="other">"%1$s tahavad seda ideed"</item>
+    </plurals>
+    <plurals name="uv_people">
+        <item quantity="one">"inimene"</item>
+        <item quantity="other">"inimesed"</item>
+    </plurals>
+    <plurals name="uv_subscribers">
+        <item quantity="one">"tellija"</item>
+        <item quantity="other">"tellijad"</item>
+    </plurals>
+    <string name="AsusWebstroage">AsusWebstorage</string>
+    <string name="AuCloud">AuCloud</string>
+    <string name="BaiDuPCS">BaiDuPCS</string>
+    <string name="Default">Vaikimisi</string>
+    <string name="Dropbox">Dropbox</string>
+    <string name="Google_Drive">Google Drive</string>
+    <string name="HomeCloud">HomeCloud</string>
+    <string name="OneDrive">OneDrive</string>
+    <string name="Yandex">Yandex</string>
+    <string name="about">"Teave"</string>
+    <string name="account_asus">ASUS</string>
+    <string maxwidth="-1" name="action">Logi sisse</string>
+    <string description="cutstom action bar view title for about" maxwidth="-1" name="action_about">Täpsemalt</string>
+    <string description="action add files" maxwidth="-1" name="action_add">Lisa</string>
+    <string description="cutstom action bar view title for add folder" maxwidth="-1" name="action_add_folder">Lisa kaust</string>
+    <string description="View title of custom action bar, apply to multiple selected files" maxwidth="-1" name="action_apply_selected_file">Rakenda</string>
+    <string description="action cancel" maxwidth="-1" name="action_cancel">Tühista</string>
+    <string maxwidth="-1" name="action_clean">"Eemalda"</string>
+    <string maxwidth="-1" name="action_clean_all">"Eemalda kõik"</string>
+    <string description="cutstom action bar view title for clear search history" maxwidth="" name="action_clear_history">Tühjenda otsimise ajalugu</string>
+    <string description="cutstom action bar view title for edit" maxwidth="" name="action_edit">"Redigeeri"</string>
+    <string maxwidth="" name="action_hidden_zone">"Teisalda salaruumi"</string>
+    <string description="cutstom action bar view title for hinde system file" maxwidth="-1" name="action_hind_system_file">Peida süsteemi failid</string>
+    <string name="action_loading">"Laadimine..."</string>
+    <string description="cutstom action bar view title for open with" maxwidth="" name="action_open_with">"Ava ..."</string>
+    <string name="action_refresh_cloudfile">"Värskenda"</string>
+    <string maxwidth="-1" name="action_restore">"Taasta"</string>
+    <string maxwidth="-1" name="action_restore_all">"Taasta kõik"</string>
+    <string description="cutstom action bar view title for search" maxwidth="" name="action_search">Otsing</string>
+    <string description="cutstom action bar view title for set as" maxwidth="" name="action_set_as">"Sea pilt kui"</string>
+    <string description="menu title for setting" maxwidth="-1" name="action_settings">"Sätted"</string>
+    <string description="cutstom action bar view title for sharing" maxwidth="-1" name="action_share">Jaga</string>
+    <string description="String for asking for the rule of sorting" maxwidth="-1" name="action_sort_by">Sortimine</string>
+    <string description="cutstom action bar view title for zip" maxwidth="" name="action_zip">Tihenda</string>
+    <string description="Dialog title: Add cloud storage" maxwidth="-1" name="add_cloud_storage_dialog_title">Lisa pilvesalvestus</string>
+    <string name="add_favorite">Lisa lemmikutesse</string>
+    <string name="add_favorite_folder">"Lisa lemmikkaust"</string>
+    <string name="add_favorite_success">Salvesta lemmikutesse</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="add_progress">Loomine...</string>
+    <string description="Don&apos;t remind me again" maxwidth="-1" name="alert_cb_msg">Ära edaspidi enam meelde tuleta</string>
+    <string description="ASUS ZenUI Services is not support, need update ASUS ZenUI Services" maxwidth="-1" name="alert_msg_azs_update">%1$s nõuab rakenduse ASUS ZenUI Services viimast versiooni, palun installige see kohe.</string>
+    <string description="Client app is not support, need update client app" maxwidth="-1" name="alert_msg_client_update">Saadaval on üksuse %1$s uus versioon, installige see.</string>
+    <string description="Client app version is compatible with ASUS ZenUI Services" maxwidth="-1" name="alert_msg_compatible">%1$s versioon ühildub ASUS ZenUI Services.</string>
+    <string description="Client app version is match with ASUS ZenUI Services" maxwidth="-1" name="alert_msg_match">%1$s versioon sobib ASUS ZenUI Services.</string>
+    <string description="ASUS ZenUI Services is not found on device" maxwidth="-1" name="alert_msg_not_found">ASUS ZenUI teenuseid pole installitud!\n\nKas laadin alla ja installin selle?</string>
+    <string description="Dialog title" maxwidth="-1" name="alert_title">Märkus:</string>
+    <string description="Dialog title" maxwidth="-1" name="alert_title_update">Soovitatav on hankida värskendus</string>
+    <string name="app_cloudstorage_name">Pilvesalvestus</string>
+    <string name="app_upload_complete">"%s üleslaadimine lõpetatud"</string>
+    <string description="" name="article_one">Nõustun ASUSe \"<u>Kasutustingimustega</u>\", ASUSe \"<u>Privaatsuspoliitikaga</u>\", ASUS WebStorage\'i \"<u>Kasutustingimuste märkusega</u>\", ASUS WebStorage\'i \"<u>Privaatsuspoliitikga</u>\".</string>
+    <string description="" name="article_two">Hoidke mind palun kursis eDM-de abil ASUSe uudiste, tarkvarauuenduste ning värskeima toote- ja teenuseinfoga.</string>
+    <string description="Text for create asus account button." maxwidth="" name="asus_account_create_button">Loo uus</string>
+    <string name="asus_account_integrate_dialog_content">Kas soovite integreerida ASUSe pilveteenuse oma ASUSe kontoga? \n\n Pärast integreerimist saab kõiki ASUSe teenuseid kasutada sama konto alt.</string>
+    <string name="asus_account_integrate_dialog_skip">Jäta vahele</string>
+    <string name="asus_account_integrate_dialog_title">ASUSe teenuste integreerimine</string>
+    <string name="asus_account_integrate_dialog_yes">Jah</string>
+    <string description="Text for asus account content 1st." maxwidth="" name="asus_account_msg_content_1">Isiklik juurdepääs ASUSe tugiteenusele ja registreeritud toodete lisagarantiile.</string>
+    <string description="Text for asus account content 2nd." maxwidth="" name="asus_account_msg_content_2">Tasuta 5 GB andmemahtu pilves.</string>
+    <string description="Text for asus account content 3rd." maxwidth="" name="asus_account_msg_content_3">Värskeim teave tarvikutest ja taastatud toodetest.</string>
+    <string description="Text for asus account content title." maxwidth="" name="asus_account_msg_title">ASUSe konto loomine annab teile järgmised eelised.</string>
+    <string name="asus_account_only_one_alert">"Lisada saab vaid ühe ASUSe konto. Enne uue konto registreerimist peate praeguse konto kustutama."</string>
+    <string name="asus_account_prefc">"Sätted"</string>
+    <string name="asus_account_prefc_advc">"Lisasätted"</string>
+    <string name="asus_account_registe_country_error">Valige üks riigi piirkond.</string>
+    <string name="asus_account_registe_id_error">Vigane e-posti aadress</string>
+    <string name="asus_account_registe_policy_error">ASUSe konto registreerimiseks peate nõustuma ASUSe lepingutingimustega.</string>
+    <string name="asus_account_registe_pw_error_1">Parool ei või jääda tühjaks.</string>
+    <string name="asus_account_registe_pw_error_2">Parooli korduse lahter ei või jääda tühjaks.</string>
+    <string name="asus_account_registe_pw_error_3">Parool tuleb sisestada kaks korda ühtmoodi.</string>
+    <string name="asus_account_registe_pw_error_4">"Parool peab olema vahemikus 8 kuni 25 tähemärki."</string>
+    <string name="asus_account_removeaccount_dialog_content">"Konto liitmine õnnestus. Logige uuesti sisse uut kontot kasutades."</string>
+    <string name="asus_account_removeaccount_dialog_title">"ASUSe kontode liitmine õnnestus"</string>
+    <string name="asus_commonui_activity_chooser_view_see_all">"Kuva kõik"</string>
+    <string name="asus_commonui_activity_resolver_use_always">"Alati"</string>
+    <string name="asus_commonui_activity_resolver_use_once">"Ainult üks kord"</string>
+    <string name="asus_commonui_activitychooserview_choose_application">"Valige rakendus"</string>
+    <string name="asus_commonui_activitychooserview_choose_application_error">
+        "Jaga rakendusega <ns1:g id="APPLICATION_NAME">%s</ns1:g>"
+    </string>
+    <string name="asus_commonui_cancel_label">"Tühista"</string>
+    <string name="asus_commonui_chooseActivity">"Toimingu valimine"</string>
+    <string msgid="3968620852217927702" name="asus_commonui_day_picker_description">"Päevad kuu ruudustikus"</string>
+    <string msgid="6908431551612331381" name="asus_commonui_deleted_key">"<ns1:g id="KEY">%1$s</ns1:g> on kustutatud"</string>
+    <string name="asus_commonui_done_label">"OK"</string>
+    <string msgid="7586639618712934060" name="asus_commonui_hour_picker_description">"Ringikujuline tunniliugur"</string>
+    <string msgid="2674929164900463786" name="asus_commonui_item_is_selected">"<ns1:g id="ITEM">%1$s</ns1:g> on valitud"</string>
+    <string msgid="6024811202872705251" name="asus_commonui_minute_picker_description">"Ringikujuline minutiliugur"</string>
+    <string name="asus_commonui_noApplications">"Ükski rakendus ei saa seda toimingut teostada."</string>
+    <string name="asus_commonui_no_url_handler">URL-i avamiseks vajalikku rakendust ei leitud</string>
+    <string name="asus_commonui_privacy_policy">Privaatsuspoliitika</string>
+    <string msgid="3973338219107019769" name="asus_commonui_select_day">"Valige kuu ja päev"</string>
+    <string msgid="7651068754188418859" name="asus_commonui_select_hours">"Tundide valimine"</string>
+    <string msgid="8327182090226828481" name="asus_commonui_select_minutes">"Minutite valimine"</string>
+    <string msgid="2603330600102539372" name="asus_commonui_select_year">"Valige aasta"</string>
+    <string name="asus_commonui_shareactionprovider_share_with">"Jaga:"</string>
+    <string name="asus_commonui_shareactionprovider_share_with_application">
+        "Jaga rakendusega <ns1:g id="APPLICATION_NAME">%s</ns1:g>"
+    </string>
+    <string name="asus_commonui_terms_of_use_notice">Kasutustingimuste teatis</string>
+    <string name="asus_commonui_whichApplication">"Lõpetage toiming rakendusega"</string>
+    <string name="asus_commonui_whichHomeApplication">Avalehe rakenduse valimine</string>
+    <string msgid="6963340404644587098" name="asus_commonui_year_picker_description">"Aastate loend"</string>
+    <string name="asus_feedback_and_help">Tagasiside ja spikker</string>
+    <string name="asus_registe_success_title">"ASUSe konto registreerimine õnnestus"</string>
+    <string name="asus_response_resultdata">"See konto on juba registreeritud."</string>
+    <string name="asusaccount_app_name">ASUSe konto</string>
+    <string maxwidth="-1" name="attribution_notice">"Kinnitus"</string>
+    <string maxwidth="-1" name="attribution_notice_content">
+    "\nSee toode sisaldab all loetletud avatud lähtekoode.
+\n\nuservoice-android-sdk, mis on litsentsitud litsentsi Apache License Version 2.0 alusel. Litsentsi saab alla laadida aadressilt http://www.apache.org/licenses/LICENSE-2.0.html.
+        \n\nangular-filemanager, mis on litsentsitud litsentsi MIT alusel. Litsentsi saab alla laadida aadressilt https://github.com/joni2back/angular-filemanager/blob/master/LICENSE.
+        \n\nprogressbar, mis on litsentsitud litsentsi MIT alusel. Litsentsi saab alla laadida aadressilt https://github.com/kimmobrunfeldt/progressbar.js/blob/master/LICENSE.
+        \n\ntoastr, autoriõigus (c) 2012-2015 John Papa, Tim Ferrell, Hans Fjällemark\nKäesolevaga on selle tarkvaratoote ja seotud dokumendifailide (edaspidi: tarkvara) kasutajail õigus tarkvara tasuta kasutada mis tahes eesmärgil ilma piiranguteta, sh levitada, kopeerida, muuta, kasutada muu tarkvara koosseisus, all-litsentsida ja müüa ning lubada isikutel, kellele see tarkvara edastatakse, teha sama järgnevatel tingimustel.
+        Käesolev autorikaitseteade ja loateade tuleb muutmata kujul säilitada kõigi selle tarkvara koopiate juures. TARKVARA PAKUTAKSE OLEMASOLEVAL KUJUL, ILMA MINGI GARANTIITA, EI OTSESE EGA KAUDSETA, SH GARANTIID KAUBASTATAVUSE, KINDLAKS OTSTARBEKS SOBIVUSE JA TINGIMUSTE MITTERIKKUMISE KOHTA. MITTE MINGIL JUHUL EI VASTUTA AUTORID EGA AUTORIÕIGUSE VALDAJAD MINGI NÕUDE, KAHJU EGA MUU KOHUSTUSE EES, OLGU SEE SEOTUD LEPINGU, LEPINGUVÄLISE VÕI MUUGA, TULENEDES TARKVARAST VÕI TARKVARA KASUTAMISEST VÕI MUUDEST TARKVARAGA SEOTUD TEGEVUSTEST."
+    </string>
+    <string name="aucloud_account_only_one_alert">"ASUSe kontole saate lisada vaid ühe Pilve. Enne uue konto registreerimist peate praeguse konto kustutama."</string>
+    <string description="string indicating how camera shooting feature is used" maxwidth="-1" name="auto">Automaatne</string>
+    <string maxwidth="-1" name="aws_install_contnet">WebStorage ei ole installitud. Kas soovite selle Play-poest alla laadida ja installida?</string>
+    <string maxwidth="" name="aws_install_title">WebStorage ei ole installitud</string>
+    <string description="button text." maxwidth="-1" name="back_button_label">Tagasi</string>
+    <string name="baidu_alert_info">"Põhineb Baidu platvormil, see seade saab juurdepääsu ainult kaustale "Minu rakendused\\asus\\"."</string>
+    <string name="baidu_alert_title">"Baidu pilvesalvesti"</string>
+    <string name="baidu_storage_title">"百度云"</string>
+    <string name="baidupcs_account_only_one_alert">"ASUSe kontole saate lisada vaid ühe Baidu. Enne uue konto registreerimist peate praeguse konto kustutama."</string>
+    <string name="btn_OK">OK</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="calculate_progress">"Pooleli..."</string>
+    <string description="Toast: can not open in hidden zone" maxwidth="-1" name="can_not_open_in_hidden_zone">"Ei saa avada salaruumis"</string>
+    <string description="Dialog Button: cancel for dialog" maxwidth="" name="cancel">Tühista</string>
+    <string name="cancle">Tühista</string>
+    <string name="category_apk">Rakendused</string>
+    <string maxwidth="11" name="category_app1">"Rakendused"</string>
+    <string name="category_compress">"Tihendatud"</string>
+    <string maxwidth="11" name="category_compressed1">"Tihendatud"</string>
+    <string name="category_count">"%s"</string>
+    <string maxwidth="11" name="category_document1">"Dokumendid"</string>
+    <string name="category_documents">"Dokumendid"</string>
+    <string name="category_download">Laadi alla</string>
+    <string maxwidth="11" name="category_download1">"Allalaadim."</string>
+    <string name="category_favorite">Lemmikud</string>
+    <string maxwidth="11" name="category_favorite1">"Lemmikud"</string>
+    <string name="category_game">"Mängud"</string>
+    <string name="category_image">Image (Pilt)</string>
+    <string maxwidth="11" name="category_image1">"Pildid"</string>
+    <string maxwidth="11" name="category_large_file1">"Suurfailid"</string>
+    <string name="category_music">Muusika</string>
+    <string maxwidth="11" name="category_music1">"Muusika"</string>
+    <string name="category_name_app_wallpaper">"Liikuvad taustapildid"</string>
+    <string name="category_name_app_widgets">"Vidinad"</string>
+    <string name="category_name_books_and_reference">"Raamatud ja viited"</string>
+    <string name="category_name_business">"Äri"</string>
+    <string name="category_name_comics">"Koomiksid"</string>
+    <string name="category_name_communication">"Side"</string>
+    <string name="category_name_education">"Haridus"</string>
+    <string name="category_name_entertainment">"Meelelahutus"</string>
+    <string name="category_name_finance">"Finants"</string>
+    <string name="category_name_game">"Mängud"</string>
+    <string name="category_name_game_action">"Märulimängud"</string>
+    <string name="category_name_game_adventure">"Seiklusmängud"</string>
+    <string name="category_name_game_arcade">"Arkaadmängud"</string>
+    <string name="category_name_game_board">"Lauamängud"</string>
+    <string name="category_name_game_card">"Kaardimängud"</string>
+    <string name="category_name_game_casino">"Kasiino"</string>
+    <string name="category_name_game_casual">"Vabaajamängud"</string>
+    <string name="category_name_game_educational">"Õppemängud"</string>
+    <string name="category_name_game_family">"Pere"</string>
+    <string name="category_name_game_music">"Muusika"</string>
+    <string name="category_name_game_puzzle">"Mõistatusmängud"</string>
+    <string name="category_name_game_racing">"Võidusõit"</string>
+    <string name="category_name_game_role_playing">"Rollimängud"</string>
+    <string name="category_name_game_simulation">"Simulatsioonmängud"</string>
+    <string name="category_name_game_sports">"Spordimängud"</string>
+    <string name="category_name_game_strategy">"Strateegia"</string>
+    <string name="category_name_game_trivia">"Viktoriinimängud"</string>
+    <string name="category_name_game_word">"Sõnamängud"</string>
+    <string name="category_name_health_and_fitness">"Tervis ja sport"</string>
+    <string name="category_name_libraries_and_demo">"Tarkvarakogud ja demosisu"</string>
+    <string name="category_name_lifestyle">"Elustiil"</string>
+    <string name="category_name_media_and_video">"Meedia ja video"</string>
+    <string name="category_name_medical">"Meditsiiniline"</string>
+    <string name="category_name_music_and_audio">"Muusika ja heli"</string>
+    <string name="category_name_news_and_magazines">"Uudised ja ajakirjad"</string>
+    <string name="category_name_personalization">"Isikupärastamine"</string>
+    <string name="category_name_photography">"Fotograafia"</string>
+    <string name="category_name_productivity">"Produktiivsus"</string>
+    <string name="category_name_shopping">"Ostud"</string>
+    <string name="category_name_social">"Suhtlus"</string>
+    <string name="category_name_sports">"Sport"</string>
+    <string name="category_name_tools">"Tööriistad"</string>
+    <string name="category_name_transportation">"Transport"</string>
+    <string name="category_name_travel_and_local">"Reisimine ja kohalik"</string>
+    <string name="category_name_weather">"Ilm"</string>
+    <string name="category_others">"Muud"</string>
+    <string maxwidth="11" name="category_recent1">"Viimatised"</string>
+    <string name="category_recent_files">"Hiljuti lisatud"</string>
+    <string name="category_sorting_summary">"Valige üksused, mis on kuvatud lategooria paneelil"</string>
+    <string name="category_title_category">Klass</string>
+    <string name="category_title_local_storage">Kohalik hoiustamine</string>
+    <string name="category_title_tools">"Töövahendid"</string>
+    <string name="category_toast_invalid_item_size_6_or_9">"Palun valige 6 või 9 üksust"</string>
+    <string name="category_toast_invalid_item_size_9">"Palun valige 9 üksust"</string>
+    <string name="category_toast_invalid_remove">"Seda üksust ei saa eemaldada"</string>
+    <string name="category_toast_max_item_size">"Valige maksimaalselt 9 üksust"</string>
+    <string name="category_video">Video</string>
+    <string maxwidth="11" name="category_video1">"Videod"</string>
+    <string name="clear_account_info">Unusta kõik sõnumid</string>
+    <string description="Menu Option: clear all checkbox" maxwidth="" name="clear_all">Tühjenda kõik</string>
+    <string name="click_plus_to_add_favorite_folder">"Koputage ikooni +, et lisada lemmikkaust"</string>
+    <string description="Toast: The size is over the limit and cannot be uploaded" maxwidth="-1" name="cloud_download_flie_limit_space">Fail ületab mahupiirangu ja seda ei saa üles laadida</string>
+    <string description="Toast: The name of the file uploaded is not supported by cloud server" maxwidth="-1" name="cloud_flie_name_not_supported">"Toimingut ei saanud lõpule viia, kuna pilveserver ei toeta seda failinime."</string>
+    <string description="home cloud get available devices fail" name="cloud_homebox_get_devices_fail">HomeCloud seadmete skaneerimine ebaõnnestus</string>
+    <string description="home cloud has no available devices" name="cloud_homebox_no_available_devices">Ühtegi HomeCloud seadet pole saadaval</string>
+    <string description="home cloud device is sleep" name="cloud_homebox_status__info_Sleep">Unerežiim</string>
+    <string description="home cloud device is offline" name="cloud_homebox_status__info_offline">Oflain</string>
+    <string description="home cloud device is online" name="cloud_homebox_status__info_online">Onlain</string>
+    <string description="home cloud device is offline" name="cloud_homebox_status_offline">Seade on oflainis</string>
+    <string description="diaglog cloud background paste" name="cloud_paste_backgroud">Taust</string>
+    <string description="diaglog cloud  now is copy files" name="cloud_paste_copying">Kopeerimine...</string>
+    <string description="diaglog cloud  current" name="cloud_paste_current">Praegused</string>
+    <string description="diaglog cloud  now is delete source files" name="cloud_paste_deleting">Lähtefailide kustutamine...</string>
+    <string description="diaglog cloud  paste" name="cloud_paste_downloading">Failide allalaadimine</string>
+    <string description="diaglog cloud  total" name="cloud_paste_total">Kokku</string>
+    <string description="diaglog cloud  paste uploading" name="cloud_paste_uploading">Failide üleslaadimine</string>
+    <string description="Toast: cloud preview action" maxwidth="-1" name="cloud_preview_action_fail">Pilves olevate failide eelvaade nurjus.</string>
+    <string description="Toast: cloud share action" maxwidth="-1" name="cloud_share_action_fail">Pilves olevate failide jagamine nurjus.</string>
+    <string description=">Do you want to remove" maxwidth="-1" name="cloud_storage_remove_hint">"Kas soovite kontolt „%s“ välja logida?"</string>
+    <string description="Dialog title: Remove cloud storage" maxwidth="-1" name="cloud_storage_remove_hint_title">Välja logimine</string>
+    <string description=">Do you want to signin" maxwidth="-1" name="cloud_storage_sign_in">Loo ühendus, kasutades järgmist kontot:</string>
+    <string description="Dialog title: Signin cloud storage" maxwidth="-1" name="cloud_storage_sign_in_title">Loo ühendus %s-iga</string>
+    <string description=">Do you want to signout" maxwidth="-1" name="cloud_storage_sign_out">Kas soovite kindlasti välja logida?</string>
+    <string description="Dialog title: Signout cloud storage" maxwidth="-1" name="cloud_storage_sign_out_title">Ühenda lahti</string>
+    <string description="Add more cloud storage" maxwidth="-1" name="cloud_storage_title">Lisa pilvesalvestust</string>
+    <string description="diaglog cloud  token is invalidate" name="cloud_token_invalidate">Luba muutus kehtetuks. Logige uuesti sisse.</string>
+    <string description="Toast: The size is over the limit and cannot be uploaded" maxwidth="-1" name="cloud_upload_flie_limit_space">Fail ületab mahupiirangu ja seda ei saa üles laadida</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Lubamine"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"Rakendus <ns1:g id="APP_NAME">%1$s</ns1:g> töötab ainult siis, kui lubate Google Play teenused."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Google Play teenuste lubamine"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Installi"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"Rakendus <ns1:g id="APP_NAME">%1$s</ns1:g> töötab ainult koos Google Play teenustega, mida teie seadmes pole."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Google Play teenuste hankimine"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Viga Google Play teenustes"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"Rakendusel <ns1:g id="APP_NAME">%1$s</ns1:g> on probleeme Google Play teenustega. Proovige uuesti."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"Rakendus <ns1:g id="APP_NAME">%1$s</ns1:g> töötab ainult koos Google Play teenustega, mida teie seadmes ei toetata."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Värskenda"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"Rakenduse <ns1:g id="APP_NAME">%1$s</ns1:g> töötamiseks peate värskendama Google Play teenuseid."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Google Play teenuste värskendamine"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"Rakendus <ns1:g id="APP_NAME">%1$s</ns1:g> töötab ainult koos Google Play teenustega, mida praegu värskendatakse."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Vajalik on Google Play teenuste uus versioon. See värskendab end peagi."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Ava telefonis"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Logi sisse"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Logi sisse Google\'i kontoga"</string>
+    <string name="confirm">"Kinnita"</string>
+    <string maxwidth="-1" name="confirm_ok">OK</string>
+    <string description="confirm password textview title" name="confirm_password">Sisestage parool uuesti</string>
+    <string description="ask user to enter password again to confirm" name="confirm_password_edit">Sisestage parool uuesti</string>
+    <string description="content" maxwidth="-1" name="content">Selle tarkvara kasutamisel kehtivad tingimused on esitatud ASUSe veebisaidil: \nhttp://www.asus.com</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="copy">Kopeeri</string>
+    <string description="Toast: copy ready" maxwidth="-1" name="copy_ready_more">Valitud failid on kopeeritud ja valmis kleepimiseks.</string>
+    <string description="Toast: copy ready. %s is variable string." maxwidth="-1" name="copy_ready_one">"\"%s\" on kopeeritud ja valmis kleepimiseks."</string>
+    <string name="copy_to">Kopeeri kausta</string>
+    <string description="country region textview title" name="country_region">Riigi piirkond</string>
+    <string description="ack user to select on country" name="country_region_select">Valige piirkond</string>
+    <string name="create_shortcut">"Loo otsetee"</string>
+    <string name="create_shortcut_dialog">"Loo otsetee Käivitis"</string>
+    <string name="create_shortcut_toast">"Otsetee loomine Käivitis on lõpule viidud"</string>
+    <string name="cta_agree">"Luba"</string>
+    <string name="cta_check_title">"Jäta meelde"</string>
+    <string name="cta_dialog_content"><b>Failihaldur</b> püüab võrku kasutada, see võib olenevalt teie tellimustest kaasa tuua muid kulusid.</string>
+    <string name="cta_dialog_title">"Võrgu kasutamine"</string>
+    <string name="cta_disagree">"Keeldu"</string>
+    <string name="cta_show_menu">"Võrguluba"</string>
+    <string name="current_folder">"Praegune kaust"</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="cut">Lõika</string>
+    <string description="Toast: cut ready" maxwidth="-1" name="cut_ready_more">Valitud failid on lõigatud ja valmis kleepimiseks.</string>
+    <string description="Toast: cut ready. %s is variable string." maxwidth="-1" name="cut_ready_one">"\"%s\" on lõigatud ja valmis kleepimiseks."</string>
+    <string description="button text for sort file by date" maxwidth="-1" name="date">Kuupäev</string>
+    <string description="button text for sort file by date ascending" maxwidth="-1" name="date_ascending">Kuupäev (vanim-värskeim)</string>
+    <string description="button text for sort file by date descending" maxwidth="-1" name="date_descending">Kuupäev (värskeim-vanim)</string>
+    <string msgid="7984755014526510295" name="day">"1 päev"</string>
+    <string msgid="2070509222727852210" name="days">"<ns1:g id="DAYS">%s</ns1:g> päeva"</string>
+    <string maxwidth="-1" name="dbx_install_contnet">Dropbox ei ole installitud. Kas soovite selle Play-poest alla laadida ja installida?</string>
+    <string maxwidth="" name="dbx_install_title">Dropbox ei ole installitud</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="delete">Kustuta</string>
+    <string description="Dialog Title: delete dialog title" maxwidth="" name="delete_dialog">Faili kustutamine</string>
+    <string description="Toast: delete fails" maxwidth="-1" name="delete_fail">Faili kustutamine nurjus.</string>
+    <string description="Dialog Content: text in dialog. %d is variable number." maxwidth="" name="delete_more_files">Kas soovite selle %d üksust kustutada?</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="delete_one_directory">Kas soovid kataloogi kustutada?</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="delete_one_files">Kas soovite selle faili kustutada?</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="delete_progress">Kustutamine...</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="delete_size">"Suurus: "</string>
+    <string description="Toast: delete success" maxwidth="-1" name="delete_success_more">Valitud failid on kustutatud.</string>
+    <string description="Toast: delete success. %s is variable string." maxwidth="-1" name="delete_success_one">"\"%s\" on kustutatud."</string>
+    <string description="cutstom action bar view title for deselect all checkbox" maxwidth="" name="deselect_all">Tühista kõik valikud</string>
+    <string name="device_root_path">juur</string>
+    <string description="compress dialog title" maxwidth="-1" name="dialog_create_zip_title">Sisestage arhiivi nimi</string>
+    <string description="extract zip file dialog title. %s is a dynamic string. It is zip file name." maxwidth="-1" name="dialog_extract_zip_title">Ekstrakti %s kohta:</string>
+    <string name="dialog_load_stream_url_info">Teabe otsimine serverist</string>
+    <string name="dialog_msg_market_login_account">"Logige sisse oma Google'i kontole, et rakendus alla laadida"</string>
+    <string description="text encoding dialog title" maxwidth="-1" name="dialog_text_encoding_title">Teksti kodeerimine</string>
+    <string name="dialog_title_market_login_account">"Lisa konto"</string>
+    <string description="show zip info dialog title. %s is a dynamic string. Is is a zip file name" maxwidth="-1" name="dialog_unzip_preview_title">Ekstrakti %s</string>
+    <string description="Dialog Title: Directory information dialog title" maxwidth="-1" name="dir_info_dialog_title">Teave kausta kohta</string>
+    <string name="display">"Kuvamine"</string>
+    <string name="display_hint">"Minu arvuti, võib olla tühi"</string>
+    <string name="dm_openfile">"Ava fail"</string>
+    <string name="do_not_show_again">"Ära näita seda uuesti"</string>
+    <string name="domain">"Domeen:"</string>
+    <string name="domain_hint">"Võib olla tühi"</string>
+    <string name="download_fail">allalaadimine nurjus.</string>
+    <string name="drag_items_one">Lohistage üksus</string>
+    <string name="drag_items_other">Lohistage üksused</string>
+    <string name="drawer_close">"Sulge navigeerimissahtel"</string>
+    <string name="drawer_home">Avaekraan</string>
+    <string name="drawer_open">"Ava navigeerimissahtel"</string>
+    <string description="Hint: the operation is incorrect" maxwidth="-1" name="drop_incorrect_hint">Ebaõige toiming</string>
+    <string description="Hint: the target folder which you want to do something" maxwidth="-1" name="drop_target_to">Sihtkoht:</string>
+    <string name="dumdownloadfrom">Allalaadimiskoht</string>
+    <string name="dumuploadto">Üleslaadimiskoht</string>
+    <string name="duplicate_files">"Duplikaatfailid"</string>
+    <string name="duplicate_files_content_hint">"Leia duplikaatfailid ja kustuta ilma luba küsimata."</string>
+    <string name="edit_toast_name_too_long">Olete jõudnud märkide maksimumarvuni.</string>
+    <string name="edit_toast_special_char">Ei saa erimÄrki lisada</string>
+    <string name="editcategory_hint">"Koputa redigeerimisnuppu, et kohandada paneeli Kategooria."</string>
+    <string description="describe the empty folder" maxwidth="-1" name="empty_folder_title">"Faile pole"</string>
+    <string description="Dialog Button: click to open the encoding list dialog" maxwidth="-1" name="encode">Teksti kodeerimine</string>
+    <string description="ask user to enter password" maxwidth="-1" name="enter_password">"Sisestage parool"</string>
+    <string name="eula_content_description">
+        \nKäesolev lõppkasutaja litsentsileping kehtestab kehtiva ja siduva lepingu ettevõtte ASUSTeK Computer Inc. (edaspidi: ASUS) ja teie kui kasutaja vahel ASUS-e tarkvara (edaspidi: tarkvara) kasutamiseks allpool kirjeldatud viisil. Installides tarkvara ja jätkates selle kasutamist, TUNNISTATE SELGESÕNALISELT, ET OLETE KÄESOLEVA LÕPPKASUTAJA LITSENTSILEPINGU LÄBI LUGENUD JA NÕUSTUTE SELLE NING SELLE UUTE VERSIOONIDE TINGIMUSTEGA. 
+\n\n1.TARKVARA tähendab ASUS-e tarkvara, mis sisaldub ASUS-e tootes või tuleb sellega kaasa, sealhulgas tulevased programmiparandused, värskendused ja muudetud versioonid.
+\nTarkvaraga võib kaasas olla muid ASUS-e või muude tootjate tarkvarasid, mis on litsentsitud ühe või enama tasuta avatud lähtekoodiga tarkvara litsentsi alusel, nagu loetletud veebisaidil www.opensource.org/licenses. Sellised tarkvarad antakse teile vaid vastava litsentsilepingu või kaasneva autoriõiguse teatise tingimuste alusel või tarkvaraga kaasas olevate FOSS-i litsentsifaili tingimuste alusel. Lõppkasutaja litsentsilepingu tingimused ei kohaldu sellistele tasuta avatud lähtekoodiga tarkvaradele.
+\n\n2.LITSENTS ASUS annab teile käesoleva lõppkasutaja litsentsilepinguga piiratud isikliku mittekaubandusliku lihtlitsentsi selle tarkvara kasutamiseks vaid ASUS-e toodetesse integreeritult. Võite tarkvarast teha ühe koopia masinloetaval kujul vaid varunduslikel eesmärkidel ja see varukoopia peab sisaldama kõiki autoriõiguslikke ja omandiõiguslikke teatisi, mis sisalduvad algses versioonis. Seda litsentsi ei tohi edasi litsenseerida ega edastada, välja arvatud isikule, kellele te annate kogu tarkavara sisaldava ASUS-e toote, eeldusel et edastate jäädavalt kõik käesolevas lõppkasutaja litsentsilepingus olevad õigused ega jäta endale terviklikke ega osalisi koopiaid tarkvarast ja et vastuvõtja nõustub käesoleva lõppkasutaja litsentsilepingu tingimustega.
+\n\n3.PÖÖRDOPERATSIOONIDE PIIRANG Te ei tohi tarkvara pöördprojekteerida, pöördkompileerida, dekrüptida, pöördtransleerida ega lubada ega soodustada eelmainitud tegevusi kehtiva seadusega määratud piires.
+\n\n4.KONFIDENTSIAALSUS Teil on kohustus kaitsta ja mitte avaldada ega anda võimalust avaldamiseks tarkvara konfidentsiaalset teavet ei terviklikult ega osaliselt, sealhulgas ärisaladusi ega autorikaitse all olevat materjali mis tahes kolmandale isikule.
+\n\n5.Intellektuaalomandi ÕIGUSED (edaspidi: IO õigused) Te tunnistate ja nõustute, et kõik IO õigused, pealkiri ja tarkvaraga seotud huvid on ASUS-e või selle litsentsiandja ainuomand. Mitte miski käesolevas lõppkasutaja litsentsilepingus ei anna neid IO õigusi teile. Igasugune IO õiguste volitamatu kasutamine rikub käesoleva lõppkasutaja litsentsilepingu tingimusi ja intellektuaalomandi seaduseid, sealhulgas autorikaitse- ja kaubamärgiseaduseid.
+\nSaates mis tahes teavet, materjali, ideid, kontseptsioone või tehnikaid isiklikuks kasutamiseks ASUS-ele tarkvara kaudu (edaspidi: tagasiside) tunnistate ja nõustute, et (i) teie tagasiside ei sisalda konfidentsiaalset ega omandiõiguslikku teavet; (ii) ASUS-el pole tagasisidega seonduvalt mingeid konfidentsiaalsusega seotud kohustusi, ei otseseid ega kaudseid; (iii) ASUS võib oma äranägemise järgi tagasisidet kasutada või avalikustada igal viisil üle kogu maailma; (iv) teie tagasiside muutub ASUS-e omandiks ilma, et ASUS-el oleks mingeid kohustusi teie suhtes; (v) teil pole õigusi mingisugustele hüvitistele ega korvamistele.
+\n\n6.KESTUS JA LÕPETAMINE Käesolev lõppkasutaja litsentsileping hakkab kehtima kuupäevast, mil te tarkvara installite. Võite käesoleva litsentsi suvalisel hetkel lõpetada, lõpetades tarkvara kasutamise ja eemaldades tarkvara ASUS-e tootest. Teie õigus lõppeb ilma ASUS-elt etteteatamise saamiseta, kui me arvame, et te rikute mõnd käesoleva lõppkasutaja litsentsilepingu sätet.
+\n\n7.Vastutusest loobumine ja piiratud vastutus TUNNISTATE, ET KÄESOLEV TARKVARA ANTAKSE TEILE OLEMASOLEVAL KUJUL. KOGU KÄESOLEVA TARKVARA KVALITEEDI JA SOORITUSEGA SEOTUD RISK ON TEIE KANDA, SEALHULGAS KOGU HOOLDUSE JA PARANDUSEGA SEOTUD KULUD. SEADUSEGA LUBATUD ULATUSES EI ANNA ASUS ÜHTEGI GARANTIID, EI OTSEST EGA KAUDSET, KÄESOLEVA TARKVARA , MUU TEABE EGA DOKUMENTATSIOONI SUHTES, MIS ON ANTUD KÄESOLEVA TARKVARA LÕPPKASUTAJA LITSENTSILEPINGU RAAMES, SEALHULGAS ÜHTEGI GARANTIID KAUBANDUSLIKU SOBIVUSE VÕI KINDLAKS EESMÄRGIKS SOBIVUSE VÕI RIKKUMISE SUHTES, EGA ÜHTEGI GARANTIID KASUTAMISE EGA SOORITUSE SUHTES. ASUS EI ANNA KA MINGIT GARANTIID TULEMUSTE SUHTES, MIS VÕIVAD SELLE TARKVARA KASUTAMISEST TULLA, EGA TARKVARA KAUDU SAADUD TEABE TÄPSUSE EGA USALDUSVÄÄRSUSE SUHTES. TEATUD JURISDIKTSIOONID EI LUBA TEATUD GARANTIIDE VÄLISTAMIST VÕI TEATUD VASTUTUSE PIIRAMIST VÕI SELLEST LOOBUMIST TEATUD KAHJUDE SUHTES. SEETÕTTU EI PRUUGI TEATUD EELMAINITUD VÄLISTUSED EGA PIIRATUD VASTUTUSED TEILE KEHTIDA.
+\nKOGU KÄESOLEVA TARKVARA KASUTAMISE JA/VÕI SOORITUSEGA SEOTUD RISK ON TEIE KANDA. MITTE MINGIL JUHUL EI VASTUTA ASUS, SELLE LITSENTSIANDJAD, EGA NENDE VASTAVAD JUHATUSE LIIKMED, JUHID, TÖÖTAJAD, ESINDAJAD EGA SISUSETTEVÕTTED MINGITE KAASNEVATE, JUHUSLIKE, OTSESTE, KAUDSETE, ERILISTE, KARISTUSLIKE EGA MUUDE KAHUDE EEST (SEALHULGAS KAHJUD KASUMITE KAOTUSEST, KATKESTUSTEST, TEABEKAOST EGA MUUDEST RAHALISTEST KADUDEST), MIS TULENEVAD KÄESOLEVA LÕPPKASUTAJA LITSENTSILEPINGUST VÕI SELLEGA SEONDUVALT VÕI VÕIMETUSEST SEDA TARKVARA VÕI SELLE OSA KASUTADA, ISEGI KUI ASUST ON HOIATATUD SELLISTE KAHJUDE TEKKIMISE VÕIMALUSEST. TEATUD JURISDIKTSIOONID EI LUBA TEATUD GARANTIIDE VÄLISTAMIST VÕI TEATUD VASTUTUSE PIIRAMIST VÕI SELLEST LOOBUMIST TEATUD KAHJUDE SUHTES. SEETÕTTU EI PRUUGI TEATUD EELMAINITUD VÄLISTUSED EGA PIIRATUD VASTUTUSED TEILE KEHTIDA.
+\n\n8.Hüvitus TE nõustute ASUS-t ja selle sidusettevõtteid, teenusepakkujaid, sündikaadi liikmeid, edasimüüjaid, litsentsiandjaid, juhatuse liikmeid, juhte ja töötajaid kaitsma ja neile hüvitama kõik kaod, kahjud, võlad ja kulud, mis tulenevad mis tahes nõudest (sealhulgas mõistlikud advokaaditasud), mis on seotud TEIEPOOLSE või teiega seotud lõppkasutaja litsentsilepingu või mis tahes kehtiva seaduse või määruse või kolmanda isiku õiguse rikkumisega.
+    </string>
+    <string name="eula_content_title">"Lõppkasutaja litsentsileping"</string>
+    <string description="Do not translate ASUS" maxwidth="" name="eula_description">Juriidiline leping ASUS rakenduste ja lõppkasutajate vahel</string>
+    <string maxwidth="" name="eula_title">"Lõppkasutaja litsentsileping"</string>
+    <string name="example">"Näide:"</string>
+    <string description="Dialog Button: extract file for dialog" maxwidth="-1" name="extract">Ekstrakti</string>
+    <string name="facebook_app_invite">"Facebooki'i kontaktid"</string>
+    <string name="fb_request_error_permissions">"Sellel rakendusel puudub selleks luba. Proovige uuesti rakendusse sisse logida."</string>
+    <string name="fileList_Nofiles">Faile pole</string>
+    <string description="Dialog Title: File information dialog title" maxwidth="-1" name="file_info_dialog_title">Teave faili kohta</string>
+    <string description="Application Name shown on title" maxwidth="" name="file_manager">Failihaldur</string>
+    <string description="string indicating camera flash is not used" maxwidth="-1" name="flash_off">Ilma välguta</string>
+    <string description="string indicating camera flash is fired" maxwidth="-1" name="flash_on">Välguga valgustatud</string>
+    <string description="click to retrieve password" maxwidth="-1" name="forget_password">"<u>Unustasite parooli?</u>"</string>
+    <string name="fragment_analyzer_allfiles_used_hint">"Kasutatud:"</string>
+    <string name="fragment_analyzer_chart_free_hint">"Vaba:"</string>
+    <string name="fragment_analyzer_chart_total_hint">"Kokku:"</string>
+    <string name="fragment_analyzer_chart_used_hint">"KASUTATUD"</string>
+    <string name="fragment_analyzer_more_hint">"veel"</string>
+    <string name="google_app_invite">"Google'i kontaktid"</string>
+    <string name="group_title_installed">"Installitud"</string>
+    <string name="group_title_not_installed">"Pole installitud"</string>
+    <string name="group_title_others">"Muud"</string>
+    <string name="group_title_recommended">"Soovitatud"</string>
+    <string name="hidden_zone_change_password">"Muuda parool"</string>
+    <string name="hidden_zone_confirm_password">"Kinnita PIN-kood"</string>
+    <string name="hidden_zone_enter_password">"Sisestage PIN-kood"</string>
+    <string name="hidden_zone_fingerprint_to_unlock">"Sõrmejälg lukustusest avamiseks"</string>
+    <string name="hidden_zone_forget_password">"Parooli unustamine"</string>
+    <string name="hidden_zone_introduction_description">"Peitke oma privaatsed failid salaruumi. Salaruumi avamiseks on vajalik PIN-kood."</string>
+    <string name="hidden_zone_password_mismatch">"PIN-kood ei ühti"</string>
+    <string name="hidden_zone_set_password_success">"Parooli määramine õnnestus"</string>
+    <string name="hidden_zone_setup_account">"Konto loomine"</string>
+    <string name="hidden_zone_setup_password">"Sisestage neljakohaline PIN-kood"</string>
+    <string name="hidden_zone_wrong_password">"Vale PIN-kood"</string>
+    <string description="Can’t connect to HomeCloud." maxwidth="-1" name="homecloud_access_error">"HomeCloud'iga ühenduse loomine ebaõnnestus Veenduge, et teenus HomeCloud on online."</string>
+    <string name="homecloud_notice_1">ASUS HomeCloud on Windowsi süsteemis töötav serveritarkvara. Asus HomeCloud on olemuselt kodune digitaalsisu teek, mis praegu pakub andmete pilve salvestamise ja pilvest voogedastuse teenuseid, kuid hiljem võib pakkuda ka muud.</string>
+    <string name="homecloud_notice_2">Võite selle kohe alla laadida ja seda proovida. </string>
+    <string name="homecloud_notice_3">http://home.asuscloud.com/</string>
+    <string name="homecloud_toast_udp_unsupported">Võrguühendus on piiratud. Pöörduge võrguülema poole või kasutage mõnda teist võrku.</string>
+    <string msgid="2546819039651509323" name="hour">"1 tund"</string>
+    <string msgid="2071487018566991613" name="hours">"<ns1:g id="HOURS">%s</ns1:g> tundi"</string>
+    <string maxwidth="" name="httpserver_acquire_permission_message">"HTTP faili server sulgub ja toiming võib katkeda. Soovite jätkata?"</string>
+    <string maxwidth="" name="httpserver_connectwifiname">"Ühendatud Wi-Fi AP:"</string>
+    <string maxwidth="" name="httpserver_description">"Käivitage teenus, et ühendada oma mobiilne seade arvutiga."</string>
+    <string maxwidth="" name="httpserver_instruction">"Sisestage oma arvuti brauserisse aadress:"</string>
+    <string maxwidth="" name="httpserver_need_saf">"Kui soovite hallata oma välismälu arvutist, peate andma selleks loa."</string>
+    <string maxwidth="" name="httpserver_no_network">"Ühendage oma seade samasse Wi-Fi-võrku"</string>
+    <string maxwidth="" name="httpserver_no_permission_message">"Ilma nõuetekohase loata ei saa välismällu kirjutada. Soovite jätkata?"</string>
+    <string maxwidth="" name="httpserver_no_permission_title">"Käivitage juhtmeta failiedastus"</string>
+    <string maxwidth="" name="httpserver_start">"Alusta"</string>
+    <string maxwidth="" name="httpserver_stop">"Seiska"</string>
+    <string maxwidth="" name="httpserver_title">"Juhtmeta faili edastamine arvutile"</string>
+    <string description="Context Menu: options of context menu" maxwidth="-1" name="info">Teave</string>
+    <string description="file info textview context" maxwidth="-1" name="info_aperture">"Ava: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_datetime">"Pildistamise aeg: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_exposure_time">"Säriaeg: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_file_num">"Failide arv: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_flash">"Välk: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_focal_length">"Fookuskaugus: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_image_height">"Kõrgus: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_image_width">"Laius"</string>
+    <string description="file info textview context" maxwidth="-1" name="info_image_x">" x "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_iso">"ISO: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_location">"Asukoht: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_maker">"Tootja: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_model">"Mudel: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_modified">"Muutmise kuupäev: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_name">"Nimi: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_orientation">"Paigutusviis: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_path">"Tee: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_permission">"Luba: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_type">Tüüp:</string>
+    <string description="file info textview context" maxwidth="-1" name="info_white_balance">"Värvustasakaal: "</string>
+    <string description="Do not translate ASUS" maxwidth="" name="inspire_asus_description">"Kogub kasutusandmeid ASUS'e jaoks, et täiustada tooteid ja kasutajakogemust"</string>
+    <string name="inspire_asus_title">"Inspireeri ASUS"</string>
+    <string name="install">"Installi"</string>
+    <string description="storage label" maxwidth="-1" name="internal_storage_title">Sisemälu</string>
+    <string description="Toast: the account is invalid" maxwidth="-1" name="invalid_account">"Kehtetu konto"</string>
+    <string description="Invalid directory path" maxwidth="-1" name="invalid_directory_path">Vigane failitee</string>
+    <string name="invalid_server_id">"Serveri ID on vale"</string>
+    <string name="invalid_xml">"Vigane xml"</string>
+    <string name="inviteContentTitle">"%1$s kutsub teid alla laadima ja installima rakendust ASUSe Failihaldur."</string>
+    <string name="inviteContent_p1">"ASUSe Failihaldur sobib ideaalset failide haldamiseks teie nutiseadmega. Failihalduse rakendus aitab käsitseda ja sortida erinevaid faile, mis on salvestatud teie telefoni mälus, microSD-kaardil, kohtvõrgus ja isegi pilves."</string>
+    <string name="inviteContent_p2">"Hallake oma faile efektiivselt ja mugavalt, kasutades rakendust ASUSe Failihaldur! ASUSe Failihaldur aitab teil käsitseda kõiki faile, mis on salvestatud telefoni mälus, microSD-kaardil, kohtvõrgus ja pilvesalvestuse kontodel nagu ASUS HomeCloud, Webstorage ja teised pilveteenused nagu Dropbox, Google Drive või Microsoft OneDrive."</string>
+    <string name="inviteContent_p3">"Veedan lõbusalt aega rakendusega ASUSe Failihaldur. Proovi seda KOHE! :D"</string>
+    <string description="sticker detail page button name" maxwidth="-1" name="invite_friends">"Kutsuge sõbrad"</string>
+    <string name="item">üksus</string>
+    <string name="items">üksused</string>
+    <string name="keep">"Hoia"</string>
+    <string name="kk_sd_permission_warning">Tulenevalt Androidi piirangust ei luba Android 4.4 kolmanda osapoole rakendustel väliseid SD-kaarte muuta.</string>
+    <string name="large_files_content_hint">"Leia suured failid ja kustuta need teie loal."</string>
+    <string description="linked file is missing" maxwidth="-1" name="linked_file_missing">"Lingitud fail puudub"</string>
+    <string description="text for progress bar" maxwidth="-1" name="loading">Laadimine\u2026</string>
+    <string name="local">Kohalik</string>
+    <string description="button text for sort file by date" maxwidth="-1" name="location">Asukoht</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="logging_cloud_storage">Sisselogimine...</string>
+    <string name="login_account_miss">"Facebooki rakendus ei saanud registreerida Androidi kontohaldurit. Proovige logida välja Facebooki rakenduse kaudu ja seejärel logige uuesti sisse."</string>
+    <string name="login_again_later">"Server ei ole praegu saadaval. Proovige hiljem uuesti."</string>
+    <string description="dialog title, key in the asus ID and PW to Login account" maxwidth="-1" name="login_asus_id">"ASUSe kontosse sisse logimine"</string>
+    <string description="Toast: login account fail" name="login_fail" width="-1">Sisselogimine nurjus</string>
+    <string description="login account name" maxwidth="-1" name="login_id">"Konto nimi/WebStorage ID"</string>
+    <string description="logout account" name="logout_account" width="-1">Välja logimine</string>
+    <string name="low_storage_tutorial_description">"Koputage ja hoidke failide valimiseks, seejärel valige suvand \"Teisalda\" Google Drive'ile"</string>
+    <string name="low_storage_tutorial_title">"Teisalda failid Google Drive'ile"</string>
+    <string name="m_permission_dialog_message">"Puudutage valikut [Sätted], et lülitada sisse luba [%2$s] asukohas [Rakenduseteave] > [Load], seejärel taaskäivitage %1$s."</string>
+    <string name="m_permission_dialog_positive_button">"Sätted"</string>
+    <string name="m_permission_setting_subtitle_files">"%1$s vajab %2$s luba ligipääsuks seadme failidele."</string>
+    <string name="m_permission_setting_title_cloud_storage">"Puudub ligipääs pilvele"</string>
+    <string name="m_permission_setting_title_files">"Puudub ligipääs failidele"</string>
+    <string name="m_permission_setting_turn_on">"Lülita sisse"</string>
+    <string description="string indicating how camera shooting feature is used" maxwidth="-1" name="manual">Käsitsi</string>
+    <string name="market_app_error">"Teie seadmesse installitud tururakenduses APP on viga!"</string>
+    <string description="ask user to enter email address as account name" maxwidth="-1" name="member_id_hint">"Sisestage e-posti aadress"</string>
+    <string description="The title of a menu for General Preferences.Pressing the menu item lets user to view and edit his general settings" maxwidth="30" name="menu_general_preferences">"Üldsätted"</string>
+    <string description="settings menu tutorial" maxwidth="-1" name="menu_tutorial">Juhend</string>
+    <string msgid="2486157997434653710" name="minute">"1 minut"</string>
+    <string msgid="6115838729146292526" name="minutes">"<ns1:g id="MINUTES">%s</ns1:g> minutit"</string>
+    <string description="Hint: move the items" maxwidth="-1" name="move">Teisalda</string>
+    <string name="move_or_delete_msg">"Kustutada üksused ajutiselt ehk teisaldada prügikasti?\n(Märkige allolev ruut, et kustutada üksused jäädavalt.)"</string>
+    <string name="move_to">Teisalda kausta</string>
+    <string description="Toast: move to recycle bin fails" maxwidth="-1" name="move_to_hidden_zone_fail">"Salaruumi teisaldamine nurjus"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="move_to_hidden_zone_progress">"Salaruumi teisaldamine..."</string>
+    <string description="Toast: move to recycle bin success" maxwidth="-1" name="move_to_hidden_zone_success_more">"Valitud failid on teisaldatud salaruumi."</string>
+    <string description="Toast: move to recycle bin success. %s is variable string." maxwidth="-1" name="move_to_hidden_zone_success_one">"\"%s\" on teisaldatud salaruumi."</string>
+    <string description="Toast: move to recycle bin fails" maxwidth="-1" name="move_to_trash_fail">"Prügikasti teisaldamine nurjus"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="move_to_trash_progress">"Teisaldamine prügikasti..."</string>
+    <string description="Toast: move to recycle bin success" maxwidth="-1" name="move_to_trash_success_more">"Valitud failid on teisaldatud prügikasti"</string>
+    <string description="Toast: move to recycle bin success. %s is variable string." maxwidth="-1" name="move_to_trash_success_one">"\"%s\" on teisaldatud prügikasti"</string>
+    <string name="msg_too_big_to_recycle">"Üksused on prügikasti teisaldamiseks liiga suured.\nKas soovite need jäädavalt kustutada?"</string>
+    <string name="multi_drm_file_forbidden_operation">Toiming on mõne valitud faili DRM-kaitse tõttu keelatud.</string>
+    <string description="shortcut label" maxwidth="-1" name="my_camera_title">Kaamera</string>
+    <string description="shortcut label" maxwidth="-1" name="my_download_title">Laadi alla</string>
+    <string description="shortcut label" maxwidth="-1" name="my_music_title">Muusika</string>
+    <string description="shortcut label" maxwidth="-1" name="my_picture_title">Pilt</string>
+    <string description="storage label" maxwidth="-1" name="my_storage_title">Minu salvesti</string>
+    <string description="button text for sort file by name" maxwidth="-1" name="name">Nimi</string>
+    <string description="button text for sort file by name ascending" maxwidth="-1" name="name_ascending">Nimi (z-a)</string>
+    <string description="button text for sort file by name descending" maxwidth="-1" name="name_descending">Nimi (a-z)</string>
+    <string name="network_cta_hint">"Võrguga ühenduse loomiseks aktsepteerige "</string>
+    <string name="network_invalid">"Võrguühendus on vigane"</string>
+    <string name="network_invalid_info">"Ühendus on vigane. Proovige uuesti."</string>
+    <string name="network_not_available">"Võrguühenduse tõrge"</string>
+    <string description="Can’t connect to networkpalce" maxwidth="-1" name="networkplace_access_error">"Ühendamine nurjus. Kontrollige, et server on võrguga ühendatud."</string>
+    <string name="networkplace_storage_title">"Võrgu koht"</string>
+    <string description="Dialog Title: create new folder" maxwidth="" name="new_folder_dialog">Uue kausta koostamine</string>
+    <string description="Toast: new folder fails" maxwidth="-1" name="new_folder_fail">Uue kausta koostamine nurjus.</string>
+    <string description="Toast: new folder success. %s is variable string." maxwidth="-1" name="new_folder_success">"Kaust \"%s\" on kustutatud."</string>
+    <string maxwidth="" name="news_1"><b>Kohandatav avapaneel</b>: Saate nüüd kohandada oma avapaneeli erinevate kategooriate ja tellimustega.</string>
+    <string maxwidth="" name="news_2"><b>Lemmikute valija</b>: Lisage lemmikkaust otse lemmikkategooriast.</string>
+    <string maxwidth="" name="news_3"><b>Failihalduri vidin</b>: Looge kausta otsetee Käivitis.</string>
+    <string maxwidth="" name="news_mark1">"★  "</string>
+    <string maxwidth="" name="news_subtitle">"Siin on suurem värskendus, mida te ei tohiks maha magada."</string>
+    <string maxwidth="" name="news_title">"Mis on uut?"</string>
+    <string maxwidth="" name="news_v21"><b>Juhtmeta failiedastus arvutisse või arvutist</b>: Edasta/halda faile arvutisse või arvutist</string>
+    <string maxwidth="" name="news_v23">"Tootluse parandamine ja vigade parandamine"</string>
+    <string maxwidth="" name="news_v31">"Talletusruumi analüüsija annab teada, millised failid hõivasid kogu talletusruumi"</string>
+    <string maxwidth="" name="news_v32">"Värskelt täiustatud rakendusekategooria"</string>
+    <string name="news_v41">"Peitke oma privaatsed failid salaruumi"</string>
+    <string name="news_v42">"Taastage kustutatud faile prügikastist"</string>
+    <string name="news_v43">"Eemaldage duplikaatfaile mäluruumi analüüsijast"</string>
+    <string name="news_v44">"Uus kuvafunktsioon: tume režiim"</string>
+    <string name="news_v45">"Suurem jõudlus"</string>
+    <string name="news_v46">"Parandatud vead"</string>
+    <string name="newversion_description">"Nüüd on saadaval rakenduse Failihaldur uus versioon. Kas soovite kohe värskendada?"</string>
+    <string name="newversion_title">"Uus versioon"</string>
+    <string name="next">"Järgmine"</string>
+    <string description="Dialog Button: no for dialog" maxwidth="" name="no">Ei</string>
+    <string name="no_device">"Seade puudub"</string>
+    <string name="no_items">"Üksusi pole"</string>
+    <string name="no_network">"Võrguühendus puudub"</string>
+    <string description="The description to inform users when there is no internet access" maxwidth="-1" name="no_network_connection_message">"Kontrollige ühendust ja proovige uuesti"</string>
+    <string name="no_network_info">"Selle rakenduse kasutamiseks on vajalik Interneti-ühendus. Aktiveerige sätetes mobiilivõrk või Wi-Fi".</string>
+    <string name="no_password">"Sisestage oma parool"</string>
+    <string name="no_right">"Teie kontol pole õigust sisse logida."</string>
+    <string name="no_share_folder">Ühtegi faili pole selles seadmes jagatud</string>
+    <string description="Toast: No space to copy file and left on device" maxwidth="-1" name="no_space_fail">Mälumahtu ei piisa</string>
+    <string name="no_user_exist">"Kasutajanimi puudub"</string>
+    <string name="no_username">"Sisestage esmalt oma kasutajanimi."</string>
+    <string name="notification_gdrive_redeem_content">"Laadige see rakendusest Google Drive."</string>
+    <string name="notification_gdrive_redeem_title">"100 GB tasuta salvestusruumi!"</string>
+    <string name="occur_error_do_relogin">"Logige %s-i uuesti sisse"</string>
+    <string description="Dialog Button: ok for dialog" maxwidth="" name="ok">Nõus</string>
+    <string name="onedrive_account_only_one_alert">"Lisada saab vaid ühe ASUSe OneDrive konto. Enne uue konto registreerimist peate praeguse konto kustutama."</string>
+    <string name="open">Ava</string>
+    <string description="Toast: open file fails" maxwidth="-1" name="open_fail">Faili avamine nurjus.</string>
+    <string maxwidth="" name="open_source_license_description">Litsentsi teatised avatud lähtekoodiga tarkvarale</string>
+    <string maxwidth="" name="open_source_license_title">"Avatud lähtekoodiga litsentsid"</string>
+    <string name="othersforum_site_url">http://www.asus.com/Terms_of_Use_Notice_Privacy_Policy/OthersForum_Site/</string>
+    <string name="password">Parool</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="paste">Kleebi</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="paste_exist_apply">Rakenda kõigile</string>
+    <string description="Dialog Title: paste exist dialog title" maxwidth="" name="paste_exist_dialog">Sama faili nimi</string>
+    <string description="Dialog Content: text in dialog. %s is variable string." maxwidth="" name="paste_exist_file">"Fail \"%s\" on juba olemas."</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="paste_exist_replace">Kas soovite selle asendada uuega?</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="paste_exist_to">Toiming</string>
+    <string description="Toast: paste fails" maxwidth="-1" name="paste_fail">Failide kleepimine nurjus.</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="paste_progress">Kleepimine...</string>
+    <string name="paste_progress_title">Muu kopeerimine on pooleli...</string>
+    <string description="Toast: paste success. %s is variable string." maxwidth="-1" name="paste_success">"Failid on lisatud kausta \"%s\"."</string>
+    <string name="permanently_delete">"Kustuta jäädavalt"</string>
+    <string description="Toast: operation permission deny" maxwidth="-1" name="permission_deny">Luba puudub.</string>
+    <string name="permission_dialog_title">"Rakenduse luba"</string>
+    <string name="permission_essential">"Nõutav on luba. Avage Sätted, et load aktiveerida!"</string>
+    <string name="permission_reason_contact">"Failihaldur vajab juurdepääsu teie konto teabele, et pilvemällu sisse logida."</string>
+    <string name="permission_reason_storage">"Failihaldur vajab juurdepääsu teie seadme mälule, et nõuetekohaselt toimida"</string>
+    <string description="Toast: You may not select more than %s photos." maxwidth="-1" name="photo_selection_limit_number_toast">Vali maksimaalselt %s fotot</string>
+    <string description="This is the title of the screen for setting user preferences." maxwidth="-1" name="preferences_title">"Sätted"</string>
+    <string name="previous_folder">"Eelmine kaust"</string>
+    <string maxwidth="" name="privacy_policy">Privaatsuspoliitika</string>
+    <string name="privacy_policy_url">http://www.asus.com/us/Terms_of_Use_Notice_Privacy_Policy/Privacy_Policy/</string>
+    <string name="processing_picture">"Pildi töötlemine"</string>
+    <string name="processing_video">"Video töötlemine"</string>
+    <string name="progressactivity_title">Transmission Manager</string>
+    <string name="promote_darkmode_message">"Oma eelistust saate muuta asukohas %s"</string>
+    <string name="promote_darkmode_title">"Uus kuvafunktsioon: tume režiim"</string>
+    <string name="promotion_notification_content">"Peaksite proovima funktsiooni \"Juhtmeta failide edastamine\"!"</string>
+    <string name="promotion_notification_title">"Kas kasutate siiani failide edastamiseks USB juhet?"</string>
+    <string name="publish">"Avalda"</string>
+    <string name="pullfreshlistview_footer_hint_normal">Lae veel</string>
+    <string name="pullfreshlistview_footer_hint_ready">Luba veel laadida</string>
+    <string name="pullfreshlistview_header_hint_loading">Värskendamine...</string>
+    <string name="pullfreshlistview_header_hint_normal">Tõmba alla</string>
+    <string name="pullfreshlistview_header_hint_ready">Vabasta värskendamiseks</string>
+    <string name="pullfreshlistview_header_last_time">Viimati värskendatud:</string>
+    <string name="rate_later">"Hiljem"</string>
+    <string name="rate_now">"Hinda kohe"</string>
+    <string description="rate us" maxwidth="-1" name="rate_us">Andke meile hinnang</string>
+    <string name="rating_dialog_message_v3_1">"Teile meeldib kasutada %s-i? Hinnake meid keskkonnas Google Play, et tunneksime ennast inspireerituna!"</string>
+    <string name="rating_dialog_message_v3_2">"Ettepanekute ja tagasiside edastamiseks kirjutage meile %s-i kaudu."</string>
+    <string name="recent_files_content_hint">"Leia hiljutised failid ja kustuta need teie loal."</string>
+    <string description="shortcut title: recently used files" name="recently_used" width="-1">Äsjane</string>
+    <string name="recommend_clean_master_msg">"Ülemaailmselt usaldust väärinud Androidi optimeerija, kiirendi, akusäästur ja tasuta viirusetõrje. \nLaadi kohe alla"</string>
+    <string name="recommend_clean_master_title">"Rakenduse soovitamine"</string>
+    <string name="recommend_scan_qr_code">"Laske oma sõpradel rakendus\n alla laadida selle QR-koodi skannimisega."</string>
+    <string description="recruit beta user" maxwidth="-1" name="recruit_beta_user">Võtke ülevaate versioon</string>
+    <string name="recycle_bin_content_hint">"Sisaldab kõiki kustutatud faile ja kaustu."</string>
+    <string description="dialog title, key in the asus ID and PW to Login account" maxwidth="-1" name="regist_asus_id">"ASUSe konto loomine"</string>
+    <string description="ask user to enter email address to registe New Account" name="registe_id">Konto nimi</string>
+    <string description="ask user to enter new password" name="registe_password">Sisestage 8~25 märki</string>
+    <string description="sign up registe action" name="registe_sign_up">Logi sisse</string>
+    <string description="network is unavailable, please try again" maxwidth="-1" name="remote_connected_error_hint">"Võrk pole saadaval, proovige uuesti"</string>
+    <string description="remote storage label" maxwidth="-1" name="remote_storage_title">"Kaugtalletus"</string>
+    <string name="remove_favorite">Eemalda lemmikutest</string>
+    <string name="remove_favorite_notice_more">Kas soovite kindlasti eemaldada lemmikute kaustast %d nime?</string>
+    <string name="remove_favorite_notice_one">Kas soovite kindlasti eemaldada lemmikute kaustast \"%s\"?</string>
+    <string name="remove_favorite_success">Edukalt eemaldatud</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="rename">Nimeta ümber</string>
+    <string description="Dialog Title: rename dialog title" maxwidth="" name="rename_dialog">Nimeta ümber</string>
+    <string description="Toast: rename fails" maxwidth="-1" name="rename_fail">Faili avamine nurjus.</string>
+    <string name="rename_favorite_folder">Nimeta lemmikute kaust ümber</string>
+    <string name="rename_favorite_notice">Sama nimega lemmikute kaust on olemas, kas soovite siiski kausta ümber nimetada?</string>
+    <string name="rename_favorite_success">Ümber nimetamine ja lemmiku salvestamine oli edukas</string>
+    <string description="Toast: rename success" maxwidth="-1" name="rename_success">Faili ümbernimetamine õnnestus.</string>
+    <string description="renaming file" name="renaming_file" width="-1">Ümbernimetamine</string>
+    <string name="replace">"Asenda"</string>
+    <string description="Toast: restore fails" maxwidth="-1" name="restore_fail">"Taastamine nurjus"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="restore_progress">"Taastamine..."</string>
+    <string description="Toast: restore success" maxwidth="-1" name="restore_success_more">"Valitud failid on taastatud"</string>
+    <string description="Toast: restore success. %s is variable string." maxwidth="-1" name="restore_success_one">"\"%s\" on taastatud"</string>
+    <string name="retention_notification_large_file">"Lisasite %1$s suurt faili. Vaadake neid kohe."</string>
+    <string name="retention_notification_recent_file">"Teie viimaste failide mälumaht on %1$s. Vaadake neid kohe."</string>
+    <string name="saf_permission_tutorial_content">ASUSe failihaldur küsib luba teie SD-kaardi poole pöördumiseks. Kas soovite anda pöördumiseks loa?</string>
+    <string name="saf_permission_tutorial_content_v2">"Peate täitma kindlad sammud, et anda üksusele %s pääsuõigused."</string>
+    <string name="saf_permission_tutorial_dialog">"Tehke SD-kaardile loa andmise protseduur. Kas soovite jätkata?"</string>
+    <string name="saf_permission_tutorial_title">Loa küsimine SD-kaardiga töötamiseks</string>
+    <string name="saf_tutorial_step_one">Koputage menüüikooni ja seejärel Näita SD-kaarti.</string>
+    <string name="saf_tutorial_step_three">Koputage Vali SD-kaart, et anda ASUSe failihaldurile pöördumisluba.</string>
+    <string name="saf_tutorial_step_three_v2">"ASUS-e failihaldurile juurdepääsu andmiseks puudutage valikut Vali %s."</string>
+    <string name="saf_tutorial_step_two">Tõmmake ekraanikuva vasakust servast, et kuvada kataloog ja koputage SD-kaarti.</string>
+    <string name="saf_tutorial_step_two_v2">"Koostaja kuvamiseks nipsake ekraani vasakust servast ja seejärel puudutage valikut %s."</string>
+    <string name="saf_tutorial_title">SD-kaardi kasutamise luba</string>
+    <string name="saf_tutorial_title_v2">"Luba kasutada üksust %s"</string>
+    <string description="account config dialog remind message" maxwidth="-1" name="samba_client_config_check">Jäta kasutajanimi ja parool meelde ning ühenda järgmisel korral otse</string>
+    <string name="samba_input_error">Kasutajanime või parooli väli ei või olla tühi.</string>
+    <string name="samba_login_error">Sisestatud kasutajanimi või parool ei ole õige.</string>
+    <string name="samba_storage_add_title">"Võrgukoht"</string>
+    <string name="samba_storage_title">"SAMBA"</string>
+    <string name="scan_qr_code">"Skannige QR-koodi"</string>
+    <string description="rate now" maxwidth="" name="scroll_up_toast">Hindamiseks kerige üles</string>
+    <string maxwidth="-1" name="sd_label">OneDrive ASUSele</string>
+    <string name="search_action">"Otsi"</string>
+    <string description="search hint message" maxwidth="-1" name="search_hint">Sisestage faili nimi</string>
+    <string description="cutstom action bar view title for search" maxwidth="-1" name="search_label">Failide otsimine</string>
+    <string description="search dialog message" maxwidth="-1" name="search_progress">Otsin...</string>
+    <string description=" text for search result" formatted="false" maxwidth="-1" name="search_result_title">Otsin %s kohas: %s %d faili leitud</string>
+    <string name="select_album">Valige album</string>
+    <string description="Menu Option: select all checkbox" maxwidth="" name="select_all">Vali kõik</string>
+    <string description="Title: select the folder" maxwidth="-1" name="select_folder">Valige kaust</string>
+    <string name="select_folder_by_ok_button">"Vajutage ikooni %1$s selle kausta valimiseks"</string>
+    <string name="select_photo">Valige foto</string>
+    <string name="server">"Server:"</string>
+    <string name="server_error">"Serveri tõrge"</string>
+    <string name="server_hint">"172.0.0.1/ShareFolder"</string>
+    <string name="server_title">Server</string>
+    <string maxwidth="-1" name="service_not_available_in_your_country">"See üksus pole teie riigis saadaval."</string>
+    <string name="set_password_title">"Loo PIN-kood"</string>
+    <string name="set_ring">"Määra helinaks"</string>
+    <string name="setting_display_group">"Kuva"</string>
+    <string name="setting_notification_group">"Teavitus"</string>
+    <string name="setting_notification_large_files">"Suur failiteavitus"</string>
+    <string name="setting_notification_recent_files">"Hiljutised failiteavitused"</string>
+    <string name="setting_notification_wireless_transfer">"Raadioedastuse teavitus"</string>
+    <string name="setting_view_group">"Kuva säte"</string>
+    <string name="setting_view_hide_files">"Peida süsteemifailid"</string>
+    <string name="settings">"Sätted"</string>
+    <string description="This is the title of cache size" maxwidth="-1" name="settings_cache_size_title">"Vahemälu suurus"</string>
+    <string description="Remove all cache documents" maxwidth="-1" name="settings_clear_cache_info">"Eemalda kõik vahemälus olevad dokumendid"</string>
+    <string description="Clear the cache" maxwidth="-1" name="settings_clear_cache_title">"Tühjenda vahemälu"</string>
+    <string description="This is the title of clearing search history action for setting user preferences." maxwidth="-1" name="settings_clear_search_history">"Tühjenda otsinguajalugu"</string>
+    <string name="settings_darkmode_message">"Rakenda tume režiim"</string>
+    <string name="settings_description">"Kohalikud kaustad ja failid"</string>
+    <string description="This is the title of documents cache" maxwidth="-1" name="settings_documents_cache">"Dokumentide vahemälu"</string>
+    <string description="recommend text" maxwidth="" name="settings_encourage_us_detail">Kui te naudite rakenduse %s, andke meile keskkonnas Play Store hindeks 5 tärni. See kannustaks meid jätkama toote täiustamist!</string>
+    <string description="This is the title of hiding system files action for setting user preferences." maxwidth="-1" name="settings_hide_system_files">"Peida süsteemifailid"</string>
+    <string description="This is the title of moving to the trash can." maxwidth="-1" name="settings_moved_to_the_trash_can">"Teisaldatud prügikasti"</string>
+    <string description="Remove account" maxwidth="-1" name="settings_remove_account">"Eemalda konto"</string>
+    <string description="Set the cache size to %s" maxwidth="-1" name="settings_set_cache_size">"Vahemälu suuruseks on määratud „%s“"</string>
+    <string description="This is the title of space used for setting user preferences." maxwidth="-1" name="settings_space_used">"Kasutatud ruum"</string>
+    <string description="This is the title of trash can information for setting user preferences." maxwidth="-1" name="settings_trash_can">"Prügikast"</string>
+    <string description="This is the title of user name" maxwidth="-1" name="settings_user_name">"Kasutajanimi"</string>
+    <string name="setup">"Häälestus"</string>
+    <string name="setup_account_description">"PIN-koodi hankimiseks seadistage meilikonto"</string>
+    <string name="setup_account_no_internet_connection">"Internetiühendust pole"</string>
+    <string name="setup_account_skip">"Jäta vahele"</string>
+    <string name="setup_account_title">"Hangi PIN-kood"</string>
+    <string name="setup_fingerprint_message">"Lubada sõrmejälg lukustusest avamiseks? Salaruum toetab sõrmejälje kontrolli. Alustamiseks skannige oma sõrmejälg sätetes."</string>
+    <string name="setup_my_digital_code">"Loo PIN-kood"</string>
+    <string name="share_more">"Muud"</string>
+    <string name="share_with_friend">"Jagage seda rakendust oma sõpradega"</string>
+    <string description="Context Menu: options of context menu: share folder via Wi-Fi Direct" maxwidth="" name="shared_folder">"Jagamine Wi-Fi-otsevõrgu kaudu"</string>
+    <string description="shortcit title" maxwidth="-1" name="short_cuts_title">Otsetee</string>
+    <string name="shortcut_hint">"Koputage ja hoidke kategoorial või kaustal, et luua Käiviti otsetee."</string>
+    <string description="check if user want to show password" name="show_passwd">Näita parooli</string>
+    <string description="show when sign in failed" maxwidth="-1" name="signin_failed">"Sisse logimine nurjus"</string>
+    <string description="signout account" name="signout_account" width="-1">Ühenda lahti</string>
+    <string name="single_drm_file_forbidden_operation">Toiming on DRM-kaitse tõttu keelatud.</string>
+    <string description="button text for sort file by size" maxwidth="-1" name="size">Mõõt</string>
+    <string description="button text for sort file by size ascending" maxwidth="-1" name="size_ascending">Suurus (väike-suur)</string>
+    <string description="button text for sort file by size descending" maxwidth="-1" name="size_descending">Suurus (suur-väike)</string>
+    <string name="ssl_err_msg_info">"Ei saa luua serveriga kindlat ühendust. Kas soovite jätkata?"</string>
+    <string name="ssl_err_msg_title">"SSL-ühenduse viga"</string>
+    <string description="shortcut title: my favorite files" name="starred" width="-1">"Tähistatud"</string>
+    <string name="storage_type_cloud">Pilvesalvestus</string>
+    <string name="storage_type_cloud_att">"Võrgusalvesti"</string>
+    <string name="storage_type_local">Kohalik salvestus</string>
+    <string name="storage_type_shortcut">"Otsetee"</string>
+    <string name="storagetype_add_account">Lisa Google konto</string>
+    <string name="tap_to_exit">Väljumiseks koputage uuesti</string>
+    <string name="target_directory_is_child_of_source">"Toimingut ei saanud lõpule viia, kuna sihtkataloog on lähtekataloogi tütar."</string>
+    <string description="Toast: target file exists" maxwidth="-1" name="target_exist">Sihtfail on olemas.</string>
+    <string description="Toast: target folder exists. %s is variable string." maxwidth="-1" name="target_folder_exist">"Kaust \"%s\" on juba olemas."</string>
+    <string description="" maxwidth="" name="tell_friend">Rääkige sõbrale</string>
+    <string maxwidth="" name="terms_of_service">Kasutustingimuste teatis</string>
+    <string maxwidth="" name="terms_of_service_url">http://www.asus.com/us/Terms_of_Use_Notice_Privacy_Policy/Official-Site/</string>
+    <string description="title" maxwidth="-1" name="title">Juriidiline teave:</string>
+    <string name="toast_auto_lock_notify_message">"Lukusta salaruum, kui seade on lukustatud"</string>
+    <string description="Toast: The item(s) has been copied completely" maxwidth="-1" name="toast_drag_copied_items">Üksus(ed) on täielikult kopeeritud</string>
+    <string description="Toast: The item(s) has been moved completely" maxwidth="-1" name="toast_drag_moved_items">Üksus(ed) on täielikult kustutatud</string>
+    <string description="Toast: Sorry, copy files complete but cut fail" maxwidth="-1" name="toast_warning_copy_comple_cut_fail">"Vabandust, failide kopeerimine on lõpule viidud, aga vanade failide kustutamine nurjus"</string>
+    <string description="Toast: Sorry, copy folders has not been supported" maxwidth="-1" name="toast_warning_copy_folders">"Vabandust, kaustade kopeerimine pole toetatud"</string>
+    <string maxwidth="35" name="toolbar_item_title_encourage_us">Ergutage meid</string>
+    <string name="tools_clean_master">"Tühjenda rämpsust"</string>
+    <string name="tools_file_transfer">"Arvuti failiedastus"</string>
+    <string name="tools_hidden_zone">"Salaruum"</string>
+    <string name="tools_recycle_bin">"Prügikast"</string>
+    <string name="tools_storage_analyzer">"Talletusruumi analüüsija"</string>
+    <string name="tools_tip_animation">"Tõmmake üles, et tööriistad avada!"</string>
+    <string name="tools_zenui_instant_update">"Silmapilkne värskendus"</string>
+    <string description="shortcut title: trash can" name="trash_can" width="-1">"Prügikast"</string>
+    <string maxwidth="-1" name="trash_info_deleted">"Kustutuskuupäev: "</string>
+    <string maxwidth="-1" name="trash_info_path">"Algne tee: "</string>
+    <string description="label for trending searches" maxwidth="-1" name="trending_searches">"Populaarsed otsingud"</string>
+    <string name="tutorial_analyzer_content">"Salvestusruumi analüsaator annab teada, millised failid hõivavad kettaruumi."</string>
+    <string name="tutorial_category_content">"Failide otsimine pole kunagi lihtsam olnud kui ASUS-e failihalduri kategooriavaatega."</string>
+    <string name="tutorial_category_title">"Kategooriavaade"</string>
+    <string name="tutorial_cloud_content">"Juurdepääs failidele nutitelefoni, arvuti ja pilvesalvestusruumide kaudu."</string>
+    <string name="tutorial_cloud_title">"Pilvesalvestusruum"</string>
+    <string name="tutorial_done">Valmis</string>
+    <string name="tutorial_page_content_long_press">Koputage ja hoidke üksust, seejärel koputage ikooni \"Menüü\", et kuvada muude toimingute suvandid.</string>
+    <string name="tutorial_page_four_content">Seadke enda sagedamini kasutatav kaust lemmikuks, et juurdepääs kaustadele oleks kiire ja lihtne.</string>
+    <string name="tutorial_page_four_title">Lemmikud</string>
+    <string name="tutorial_page_one_content">ASUSe Failihaldur võimaldab teil hõlpsalt hallata oma andmeid sisemälus, välismälus, kohtvõrgus ja pilveserverites.</string>
+    <string name="tutorial_page_one_title">ASUSe Failihaldur</string>
+    <string name="tutorial_page_three_content">Tõmmake näpuga paremale, et kuvada toimingud, näiteks Lisa lemmikutesse, Nimeta ümber, Teisalda kausta, Kopeeri ja muid failide haldamise suvandeid.</string>
+    <string name="tutorial_page_three_title">Paremtõmbe toimingute loend</string>
+    <string name="tutorial_page_title_long_press">Kuva toimingute menüü</string>
+    <string name="tutorial_page_two_content">Hõlpsalt kasutatavad klassid, mis võimaldavad teil oma sisemälus failidele kiiresti juurde pääseda.</string>
+    <string name="tutorial_page_two_title">Koduleht</string>
+    <string name="tutorial_skip">Jäta vahele</string>
+    <string description="button text for sort file by type" maxwidth="-1" name="type">Tüüp</string>
+    <string description="document type" maxwidth="-1" name="type_abu">"Asuse rakenduse varundus"</string>
+    <string description="document type" maxwidth="-1" name="type_apk">"Androidi rakendus"</string>
+    <string description="document type" maxwidth="-1" name="type_audio">"Heli"</string>
+    <string description="document type" maxwidth="-1" name="type_book">"E-raamat"</string>
+    <string name="type_dialog_audio">Heli</string>
+    <string name="type_dialog_image">Pilt</string>
+    <string name="type_dialog_text">Tekst</string>
+    <string name="type_dialog_title">Ava kui</string>
+    <string name="type_dialog_video">Video</string>
+    <string description="document type" maxwidth="-1" name="type_directory">"Kataloog"</string>
+    <string description="document type" maxwidth="-1" name="type_document">"Dokument"</string>
+    <string description="document type" maxwidth="-1" name="type_file">"Fail"</string>
+    <string description="document type" maxwidth="-1" name="type_image">"Pilt"</string>
+    <string description="document type" maxwidth="-1" name="type_playlist">"Esitusloend"</string>
+    <string description="document type" maxwidth="-1" name="type_rar">"RAR"</string>
+    <string description="document type" maxwidth="-1" name="type_video">"Video"</string>
+    <string description="document type" maxwidth="-1" name="type_zip">"Zip"</string>
+    <string name="ud_sdk_all_app_update">"Kõik rakendused töötavad oma ajakohase versiooniga"</string>
+    <string name="ud_sdk_asus_app_slogan">kasulik rakendus</string>
+    <string name="ud_sdk_downloads">Allalaadimised</string>
+    <string name="ud_sdk_free_download">Tasuta allalaadimine</string>
+    <string name="ud_sdk_important_remind_text">"Oluline"</string>
+    <string name="ud_sdk_install">Installi</string>
+    <string name="ud_sdk_more_zen_family">Avastage veel ZenUI rakendusi</string>
+    <string name="ud_sdk_no_network_connection_content">Ei saa andmeid värskendada. Palun kontrollige oma võrgu sätteid.</string>
+    <string name="ud_sdk_no_network_connection_title">Võrguühendus puudub</string>
+    <string name="ud_sdk_open">Ava</string>
+    <string name="ud_sdk_update">Värskenda</string>
+    <string maxwidth="-1" name="ud_sdk_update_sdk">ZenUI perekond</string>
+    <string maxwidth="-1" name="ud_sdk_update_sdk_asus">ZenUI kiirvärskendus</string>
+    <string name="ud_sdk_wifi_settings">Wi-Fi sätted</string>
+    <string name="uf_sdk_already_give_5star">"Juba andsite hindeks 5 tärni"</string>
+    <string description="%d is a number, don&apos;t translate" name="uf_sdk_article_read_count">"%d vaadet"</string>
+    <string name="uf_sdk_attachment_format_warning">"Vale failivorming. Manustada saab vaid pildifaili"</string>
+    <string name="uf_sdk_attachment_total_size">"Kokku"</string>
+    <string name="uf_sdk_attachment_warning">"Manuse suurus ületab lubatud piiri"</string>
+    <string maxwidth="-1" name="uf_sdk_cancel_btn_content">"Tühista"</string>
+    <string name="uf_sdk_choosertitle_sharevia">"Jaga üksusega"</string>
+    <string name="uf_sdk_connection_error_msg">"Server katkestas ühenduse. Proovige hiljem."</string>
+    <string name="uf_sdk_connection_error_title">"Ühendusviga"</string>
+    <string name="uf_sdk_discard">"Hülga"</string>
+    <string name="uf_sdk_email_illigal">"Meiliaadress on juba kasutusel"</string>
+    <string maxwidth="-1" name="uf_sdk_empty_notification">"Tühi :)"</string>
+    <string name="uf_sdk_faq">"KKK"</string>
+    <string name="uf_sdk_feedback_and_help">"Tagasiside ja spikker"</string>
+    <string name="uf_sdk_forum_description">"Liituge ASUS-e kasutajate vestlusega lahenduste leidmiseks ja jagamiseks"</string>
+    <string maxwidth="-1" name="uf_sdk_grant_permission_title">"Loa andmine rakendusele"</string>
+    <string name="uf_sdk_help">"Spikker"</string>
+    <string name="uf_sdk_instant_answer_question">"Kas sellest KKK-st on abi?"</string>
+    <string name="uf_sdk_like">"Meeldib"</string>
+    <string maxwidth="-1" name="uf_sdk_message">"Teavitused"</string>
+    <string name="uf_sdk_msg_bad_email_format">"Meiliaadress pole kehtiv, proovige uuesti."</string>
+    <string name="uf_sdk_msg_confirm_discard_topic">"Teie mustandit ei salvestata. Kas soovite selle ikkagi kustutada?"</string>
+    <string name="uf_sdk_msg_confirm_discard_topic_title">"Kustutada postitus?"</string>
+    <string name="uf_sdk_msg_subscribe">"Teema olekuteavituse tellimus saadetakse teile meiliga."</string>
+    <string name="uf_sdk_msg_subscribe_success">"Tellimine õnnestus"</string>
+    <string name="uf_sdk_msg_ticket_created">"Teie tagasiside on edukalt ASUS-ele saadetud"</string>
+    <string name="uf_sdk_msg_topic_created">"Edukalt avaldatud"</string>
+    <string name="uf_sdk_msg_unsubscribe">"Tellimuse tühistamine õnnestus"</string>
+    <string name="uf_sdk_name_hint">"Sisestage oma nimi"</string>
+    <string name="uf_sdk_name_illigal">"Kasutajanimi on juba võetud"</string>
+    <string name="uf_sdk_network_error">"Internetiühendust pole, kontrollige võrgusätteid."</string>
+    <string description="zenui news" maxwidth="" name="uf_sdk_news">"Uudised"</string>
+    <string name="uf_sdk_no_network_connection_content">"Server katkestas ühenduse. Proovige hiljem"</string>
+    <string name="uf_sdk_no_network_connection_title">"Ühendustõrge"</string>
+    <string name="uf_sdk_nothing_found">"Midagi ei leitud"</string>
+    <string name="uf_sdk_notice">"Teade"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category1">"Teadaanded"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category2">"Õpikud ja näpunäited"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category3">"Kampaaniad"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category4">"Sündmused"</string>
+    <string name="uf_sdk_publish_an_topic">"Avalda uus teema"</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_rate_now">"Hinnake kohe"</string>
+    <string description="%s is AP name, don&apos;t translate" maxWidth="" name="uf_sdk_rate_us_detail">"Kui te naudite rakenduse %s kasutamist, hinnake meid Play Store'is 5 tärniga."</string>
+    <string maxWidth="" name="uf_sdk_rate_us_detail_new">"Kui toetate meid 5 tärniga, saame jõudu oma töö jätkamiseks!"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_rating">"5-tärni hinnang"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title">"Andke meile hinnang!"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title_new">"Julgustage meid!"</string>
+    <string description="Menu item for userFeedback sdk" maxwidth="-1" name="uf_sdk_report_bug">Teata veast</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_scroll_up_toast">"Hindamiseks kerige üles"</string>
+    <string name="uf_sdk_search_hint">"Otsi spikrist"</string>
+    <string name="uf_sdk_select_common_bug">"Valige levinud programmiviga"</string>
+    <string name="uf_sdk_send_feedback">"Saada tagasiside"</string>
+    <string name="uf_sdk_send_feedback_help">"Teie tagasiside ja meiliaadress saadetakse ASUS-ele. Klienditeeninduse meeskond võtab teiega meili kaudu ühendust."</string>
+    <string maxwidth="-1" name="uf_sdk_setting_btn_content">"Sätted"</string>
+    <string description="recommend title" maxwidth="" name="uf_sdk_settings_encourage_us_title">"Julgustage meid"</string>
+    <string maxwidth="-1" name="uf_sdk_storage_permission_description">"Antud funktsionaalsus vajab hoiustamise õigust, et pääseda ligi multimeedia failidele. \n\nKui soovid antud funktsionaalsuse aktiveerida, siis koputa sätete nuppu ja mine rakenduse sätete lehele, seejärel määra \"Rakenduse info\" > \"Volitused\" vastava õiguse andmiseks.\n"</string>
+    <string name="uf_sdk_submit_topic">"Avalda"</string>
+    <string name="uf_sdk_subscribe_dialog_title">"Telli see teema"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_answered">"Vastatud"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_completed">"Lõpetatud"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_declined">"Tagasi lükatud"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_implemented">"Rakendatud"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_planned">"Plaanitud"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_under_review">"Läbivaatamisel"</string>
+    <string name="uf_sdk_thanks_for_your_feedback">"Aitäh tagasiside eest!"</string>
+    <string description="%s is a application name, don&apos;t translate" name="uf_sdk_ticket_hint">"Sisestage tagasiside rakendusele %s"</string>
+    <string name="uf_sdk_title_topic">"Teema"</string>
+    <string name="uf_sdk_topic">"Teema"</string>
+    <string name="uf_sdk_topic_description_heading">"Kirjeldus"</string>
+    <string name="uf_sdk_topic_description_hint">"Kirjeldage oma teemat üksikasjalikult"</string>
+    <string name="uf_sdk_topic_filter">"TEEMAD"</string>
+    <string name="uf_sdk_topic_form_help">"Kui avaldate teema meie kasutajafoorumis, saavad teised selle tellida ja seda kommenteerida. Ja kui ASUS-e arendusmeeskond reageerib teemale, teavitatakse teid meiliga."</string>
+    <string name="uf_sdk_topic_form_title">"Avalda uus teema"</string>
+    <string name="uf_sdk_topic_text_heading">"Foorum"</string>
+    <string name="uf_sdk_topic_text_hint">"Tippige oma teema pealkiri"</string>
+    <string name="uf_sdk_topic_title">"Pealkiri"</string>
+    <string name="uf_sdk_translation_10117605">"Tõlkimisprobleem"</string>
+    <string name="uf_sdk_translation_117562">"Tagasiside tüüp"</string>
+    <string name="uf_sdk_translation_2529543">"Veaaruanne"</string>
+    <string name="uf_sdk_translation_2529544">"Muu"</string>
+    <string name="uf_sdk_translation_2530478">"Soovitus"</string>
+    <string name="uf_sdk_unhelpful_article_message_question">"Kas soovite saata tagasisidet ASUS-e arendusmeeskonnale?"</string>
+    <string name="uf_sdk_user_forum">"Kasutajafoorum"</string>
+    <string name="uf_sdk_warning">"Hoiatus"</string>
+    <string name="uf_sdk_wifi_settings">"Wi-Fi-sätted"</string>
+    <string name="uf_sdk_wlan_settings">"WLAN-i sätted"</string>
+    <string name="uf_sdk_write_your_feedback">"Sisestage tagasiside siin"</string>
+    <string name="uf_sdk_your_draft_will_be_discarded">"Teie mustand hüljatakse."</string>
+    <string description="description for empty search result" maxwidth="-1" name="unable_to_find_artlcles">"Otsisõnaga „%s“ seotud artikleid ei leita"</string>
+    <string description="string indicating the length units in milli-meters" maxwidth="-1" name="unit_mm">mm</string>
+    <string description="Context Menu: options of context menu: unshare folder" maxwidth="-1" name="unshared_folder">"Mittejagamine"</string>
+    <string name="unsupported_area">"Seda piirkonda ei toetata"</string>
+    <string description="toast message: extract files fail" maxwidth="-1" name="unzip_fail">Faili importimine nurjus</string>
+    <string description="extract file dialog message" maxwidth="-1" name="unzip_progress_msg">Ekstraktimine...</string>
+    <string description="toast message: extract files successly" maxwidth="-1" name="unzip_success">Faili eksportimine õnnestus</string>
+    <string name="update">"Värskenda"</string>
+    <string name="update_fb_app">"Facebooki mobiilrakenduse versioon ei ole värske.  Installige uusim versioon keskkonnast Google Play."</string>
+    <string name="upgrade_notification_content">Kuvage failid tüübi järgi meie uhiuuelt avaekraanilt.</string>
+    <string name="upgrade_notification_title">Proovige kohe uut failihaldurit!</string>
+    <string name="upload_complete">"Üleslaadimine lõpetatud"</string>
+    <string name="upload_complete_dialog_message">"Video üleslaadimine õnnestus."</string>
+    <string name="upload_complete_dialog_title">"Lõpetatud"</string>
+    <string name="upload_fail">üleslaadimine nurjus.</string>
+    <string name="upload_failed">"Üleslaadimine ebaõnnestus"</string>
+    <string name="upload_picture_toast">"Teie oilt laaditakse üles. Kontrollige edenemist teateaknas."</string>
+    <string name="upload_toast">"Teie video laaditakse üles. Kontrollige edenemist teateaknas."</string>
+    <string name="uploading_picture">"Pildi üleslaadimine"</string>
+    <string name="uploading_video">"Video üleslaadimine..."</string>
+    <string name="user">Kasutajanimi</string>
+    <string name="user_hint">administraator</string>
+    <string name="uv_admin_response_format">"Administraatori vastus: %1$s"</string>
+    <string name="uv_all_articles">"Kõik artiklid"</string>
+    <string name="uv_all_results_filter">"KÕIK"</string>
+    <string name="uv_android_sdk">Android SDK</string>
+    <string name="uv_article_browse_question">"Kas sellest artiklist oli abi?"</string>
+    <string name="uv_article_instant_answer_question">"Kas sellest KKK-st on abi?"</string>
+    <string name="uv_cancel">"Tühista"</string>
+    <string name="uv_category">"Kategooria"</string>
+    <string name="uv_close">"Sulge"</string>
+    <string name="uv_comment_hint">"Sisestage oma kommentaar"</string>
+    <string name="uv_confirm">"Kinnita"</string>
+    <string name="uv_contact_continue_button">"Tahan ikkagi sõnumit saata"</string>
+    <string name="uv_contact_hint">"Sisestage oma küsimus või tagasiside"</string>
+    <string name="uv_contact_us">"Võtke meiega ühendust"</string>
+    <string name="uv_display_name">"Kuvatav nimi"</string>
+    <string name="uv_email_address">"Meiliaadress"</string>
+    <string name="uv_email_address_hint">"teie@meiliaadress.ee (nõutud)"</string>
+    <string name="uv_error">"Tõrge"</string>
+    <string name="uv_failed_signin_error">"Vale meiliaadress või parool"</string>
+    <string name="uv_forgot_password">"Parool on ununenud"</string>
+    <string name="uv_helpful_article_message_question">"Kas soovite ikkagi sõnumi saata?"</string>
+    <string name="uv_i_want_this">"Tahan seda!"</string>
+    <string name="uv_idea_description_heading">"Kirjeldage oma ideed täpsemalt"</string>
+    <string name="uv_idea_description_hint">"(valikuline)"</string>
+    <string name="uv_idea_text_heading">"Ma soovitan, et te..."</string>
+    <string name="uv_loading">"Laadimine…"</string>
+    <string name="uv_matching_articles">"Ühtivad artiklid"</string>
+    <string name="uv_matching_articles_and_ideas">"Ühtivad artiklid ja ideed"</string>
+    <string name="uv_menu_attach">"Manusta"</string>
+    <string name="uv_menu_search">"Otsi"</string>
+    <string name="uv_msg_bad_email_format">"Sisestage kehtiv meiliaadress."</string>
+    <string name="uv_msg_comment_posted">"Teie kommentaar on postitatud"</string>
+    <string name="uv_msg_confirm_discard_message">"Kas olete kindel, et tahate sõnumi hüljata?"</string>
+    <string name="uv_msg_custom_fields_validation">"Täitke kõik nõutud väljad."</string>
+    <string name="uv_msg_forgot_password">"Unustatud parooli meil on saadetud"</string>
+    <string name="uv_msg_idea_created">"Teie idee on loodud"</string>
+    <string name="uv_msg_ticket_created">"Teie sõnum on saadetud"</string>
+    <string name="uv_msg_user_identity_validation">"Sisestage oma meiliaadress"</string>
+    <string name="uv_name_hint">"„Anonüümne“"</string>
+    <string name="uv_network_error">"UserVoice'iga ühenduse loomisel ilmnes tõrge"</string>
+    <string name="uv_nevermind">"Loobu"</string>
+    <string name="uv_new_comment">"Uus kommentaar"</string>
+    <string name="uv_next">"Järgmine"</string>
+    <string name="uv_no">"Ei"</string>
+    <string name="uv_none_of_these_help">"Ühestki neist pole abi"</string>
+    <string name="uv_password">"Parool"</string>
+    <string name="uv_password_dialog_title">"Sisestage oma parool"</string>
+    <string name="uv_portal_title">"Spikker"</string>
+    <string name="uv_post_a_comment">"Postita kommentaar"</string>
+    <string name="uv_post_comment">"Postita kommentaar"</string>
+    <string name="uv_posted_by_format">"Postitas %1$s %2$s"</string>
+    <string name="uv_powered_by_uservoice">"Platvorm UserVoice"</string>
+    <string name="uv_ranked">"Hindeks antud %1$s"</string>
+    <string name="uv_remove_votes">"Eemalda hääled"</string>
+    <string name="uv_select_none">"(mitte ühtki)"</string>
+    <string name="uv_select_one">"Valige üks"</string>
+    <string name="uv_send_message">"Saada sõnum"</string>
+    <string name="uv_signin_dialog_ok">"Logi sisse"</string>
+    <string name="uv_signin_dialog_title">"Sisselogimine"</string>
+    <string name="uv_status_format">"Olek: %1$s"</string>
+    <string name="uv_submit_idea">"Edasta idee"</string>
+    <string name="uv_subscribe">"Telli"</string>
+    <string name="uv_subscribe_dialog_title">"Telli see idee"</string>
+    <string name="uv_suggestion_instant_answer_question">"Kas sellest ideest on abi?"</string>
+    <string name="uv_thanks">"Aitäh!"</string>
+    <string name="uv_unhelpful_article_message_question">"Kas soovite meile sõnumi saata?"</string>
+    <string name="uv_value">"Väärtus"</string>
+    <string name="uv_very_yes">"Jah!"</string>
+    <string name="uv_yes">"Jah"</string>
+    <string name="uv_your_email_address">"Teie meiliaadress"</string>
+    <string name="uv_your_name">"Teie nimi"</string>
+    <string description="version" maxwidth="-1" name="version">Versioon</string>
+    <string name="version_text">versioon</string>
+    <string name="wait">Palun oodake\u2026</string>
+    <string name="warning_stophttpserver">"Jätkamisel kaotate ühenduse mobiilseadmete ja arvuti vahel. Kas soovite lahkuda?"</string>
+    <string name="whats_new_label">Mis on uut</string>
+    <string description="message for request to connect Network" name="wifi_p2p_connection_msg" width="-1">Pilveteenuste kasutamiseks looge võrguühendus.</string>
+    <string description="title for request to connect Network" name="wifi_p2p_connection_title" width="-1">Looge võrguühendus</string>
+    <string description="message for request to turn on Wi-Fi" name="wifi_p2p_turn_on_wifi_msg" width="-1">"Wi-Fi-otsevõrgu teenuste kasutamiseks lülitage Wi-Fi välja. Lülitada Wi-Fi kohe välja?"</string>
+    <string description="title for turn on WiFi dialog" name="wifi_p2p_turn_on_wifi_title" width="-1">"Lülita Wi-Fi välja"</string>
+    <string description="search" maxwidth="-1" name="wifidirect_action_bar_scan">"Otsi"</string>
+    <string description="Available devices" maxwidth="-1" name="wifidirect_available_devices">"Saadavalolevad seadmed"</string>
+    <string description="Do you want to connect to device" maxwidth="-1" name="wifidirect_connect_hint">"Kas soovite luua ühenduse:"</string>
+    <string description="Dialog title text: Invitation to connect" maxwidth="-1" name="wifidirect_connect_hint_title">"Kutse ühenduse loomiseks"</string>
+    <string description="Dialog title text: Wi-Fi Direct connecting" maxwidth="-1" name="wifidirect_connecting_hint_title">"Wi-Fi-otsevõrguga ühenduse loomine..."</string>
+    <string description="connectted" maxwidth="-1" name="wifidirect_connectted">"Ühendatud"</string>
+    <string description=">Do you want to disconnect" maxwidth="-1" name="wifidirect_disconnect_hint">"Kas soovite katkestada ühenduse:"</string>
+    <string description="Disconnect Wi-Fi Direct" maxwidth="-1" name="wifidirect_disconnect_hint_title">"Katkesta Wi-Fi-otsevõrgu ühendus"</string>
+    <string description="peer devices infomation" maxwidth="-1" name="wifidirect_peer_device_info">"Wi-Fi-otsevõrgu kutse saamiseks veenduge, et teie ühendust loov seade püsiks failihalduris lehel „Partnerseadmed“."</string>
+    <string description="peer devices title" maxwidth="-1" name="wifidirect_peer_device_title">"Partnerseadmed"</string>
+    <string description="searching" maxwidth="-1" name="wifidirect_scanning">"Otsimine..."</string>
+    <string description="Search Wi-Fi Direct device" maxwidth="-1" name="wifidirect_storage_title">"Otsi Wi-Fi-otsevõrgu seadet"</string>
+    <string description="click to connect" maxwidth="-1" name="wifidirect_touch_to_connect">"Klõpsake ühenduse loomiseks"</string>
+    <string name="yandex_account_only_one_alert">"ASUSe kontole saate lisada vaid ühe Yandexi. Enne uue konto registreerimist peate praeguse konto kustutama."</string>
+    <string name="yes">Jah</string>
+    <string name="zenui_update">"ZenUI kiirvärskendused"</string>
+    <string description="toast message: Compress files fail" maxwidth="-1" name="zip_fail">Failide pakkimine nurjus</string>
+    <string description="compress dialog message" maxwidth="-1" name="zip_progress_msg">Töötlemine...</string>
+    <string description="toast message: Compress files successly" maxwidth="-1" name="zip_success">Failide pakkimine oli edukas</string>
+</resources>

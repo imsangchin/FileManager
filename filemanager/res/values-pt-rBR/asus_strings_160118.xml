@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="httpserver_title" maxwidth="">"Transferência sem fio de arquivo para PC"</string>
+    <string name="httpserver_start" maxwidth="">"Iniciar"</string>
+    <string name="httpserver_stop" maxwidth="">"Parar"</string>
+    <string name="httpserver_need_saf" maxwidth="">"Se você deseja gerenciar seu armazenamento externo do PC, você deve conceder permissão."</string>
+    <string name="httpserver_description" maxwidth="">"Inicie o serviço para conectar seu dispositivo móvel ao PC."</string>
+    <string name="httpserver_instruction" maxwidth="">"Digite este endereço no navegador do seu PC:"</string>
+    <string name="httpserver_no_network" maxwidth="">"Conecte o dispositivo à mesma rede Wi-Fi"</string>
+    <string name="httpserver_no_permission_title" maxwidth="">"Inicie a transferência sem fio de arquivo"</string>
+    <string name="httpserver_no_permission_message" maxwidth="">"Você não será capaz de gravar no armazenamento externo sem autorização apropriada. Continuar?"</string>
+    <string name="httpserver_acquire_permission_message" maxwidth="">"Servidor de arquivos HTTP será fechado e as operações podem ser interrompidas. Continuar?"</string>
+    <string name="category_title_tools">"Ferramentas"</string>
+    <string name="tools_file_transfer">"Transferência de arquivo do PC"</string>
+    <string name="tools_clean_master">"Limpar lixo"</string>
+    <string name="retention_notification_large_file">"Você adicionou %1$s arquivos grandes. Visualize-os agora."</string>
+    <string name="retention_notification_recent_file">"Seus arquivos recentes consomem %1$s de espaço. Visualizá-los agora."</string>
+    <string name="recommend_clean_master_msg">"O mais confiável Otimizador Android do mundo, Aumentador de Velocidade, Economizador de Bateria e app grátis de Anti-vírus. \nBaixar agora?"</string>
+    <string name="recommend_clean_master_title">"Recomendação de aplicativo"</string>
+    <string name="tools_tip_animation">"Subir para ferramentas!"</string>
+</resources>

@@ -1,0 +1,1306 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="alarm_set">
+        <item msgid="6450913786084215050">"Будильник зазвонит менее чем через минуту."</item>
+        <item msgid="6002066367368421848">"Будильник зазвонит через <ns1:g id="DAYS">%1$s</ns1:g>"</item>
+        <item msgid="8824719306247973774">"Будильник зазвонит через <ns1:g id="HOURS">%2$s</ns1:g>"</item>
+        <item msgid="8182406852935468862">"Будильник зазвонит через <ns1:g id="DAYS">%1$s</ns1:g> и <ns1:g id="HOURS">%2$s</ns1:g>"</item>
+        <item msgid="2532279224777213194">"Будильник зазвонит через <ns1:g id="MINUTES">%3$s</ns1:g>"</item>
+        <item msgid="5936557894247187717">"Будильник зазвонит через <ns1:g id="DAYS">%1$s</ns1:g> и <ns1:g id="MINUTES">%3$s</ns1:g>"</item>
+        <item msgid="9115697840826129603">"Будильник зазвонит через <ns1:g id="HOURS">%2$s</ns1:g> и <ns1:g id="MINUTES">%3$s</ns1:g>"</item>
+        <item msgid="2332583385137381060">"Будильник зазвонит через <ns1:g id="DAYS">%1$s</ns1:g>, <ns1:g id="HOURS">%2$s</ns1:g> и <ns1:g id="MINUTES">%3$s</ns1:g>"</item>
+    </string-array>
+    <string-array name="charset_array">
+        <item>"Latin-1 (ISO-8859-1)"</item>
+        <item>"Unicode (UTF-8)"</item>
+        <item>"Китайская (GBK)"</item>
+        <item>"Китайская (Big5)"</item>
+        <item>"Японская (ISO-2022-JP)"</item>
+        <item>"Японская (SHIFT_JIS)"</item>
+        <item>"Японская (EUC-JP)"</item>
+        <item>"Корейская (EUC-KR)"</item>
+    </string-array>
+    <string-array name="country_names">
+        <item>Аруба</item>
+        <item>Афганистан (جمهوری اسلامی افغانستان)</item>
+        <item>Ангола (República de Angola)</item>
+        <item>Ангилья</item>
+        <item>Албания (Shqipëri)</item>
+        <item>Андорра (Principat d\'Andorra)</item>
+        <item>Нидерландские Антильские Острова</item>
+        <item>ОАЭ (دولة الإمارات العربية المتحدة‎)</item>
+        <item>Аргентина (República Argentina)</item>
+        <item>Армения (Hayastan)</item>
+        <item>Американское Самоа</item>
+        <item>Антарктида</item>
+        <item>Французские Южные Территории</item>
+        <item>Антигуа и Барбуда</item>
+        <item>Австралия (Australia)</item>
+        <item>Австрия (Österreich)</item>
+        <item>Азербайджан</item>
+        <item>Бурунди</item>
+        <item>Бельгия (België)</item>
+        <item>Бенин</item>
+        <item>Буркина Фасо</item>
+        <item>Бангладеш ()</item>
+        <item>Болгария (България / Balgariya)</item>
+        <item>Бахрейн (مملكة البحرين)</item>
+        <item>Багамские острова</item>
+        <item>Босния и Герцеговина (Bosna i Hercegovina)</item>
+        <item>Беларусь (Беларусь)</item>
+        <item>Белиз</item>
+        <item>Бермудские острова</item>
+        <item>Боливия</item>
+        <item>Бразилия</item>
+        <item>Барбадос</item>
+        <item>Бруней-Даруссалам (بروني دارالسلام)</item>
+        <item>Бутан</item>
+        <item>Остров Буве</item>
+        <item>Ботсвана (Lefatshe la Botswana)</item>
+        <item>Центральная Африканская Республика (République centrafricaine)</item>
+        <item>Канада</item>
+        <item>Кокосовые (Килинг) острова</item>
+        <item>Швейцария (Suisse)</item>
+        <item>Чили</item>
+        <item>Китай (中國)</item>
+        <item>Кот-д\'Ивуар</item>
+        <item>Камерун</item>
+        <item>Конго</item>
+        <item>Острова Кука</item>
+        <item>Колумбия</item>
+        <item>Коморские Острова</item>
+        <item>Кабо-Верде</item>
+        <item>Коста-Рика</item>
+        <item>Куба</item>
+        <item>Остров Рождества</item>
+        <item>Острова Кайман</item>
+        <item>Кипр (Euro)</item>
+        <item>Чешская Республика (Česká republika)</item>
+        <item>Германия (Deutschland)</item>
+        <item>Джибути</item>
+        <item>Доминика</item>
+        <item>Дания (Danmark)</item>
+        <item>Доминиканская Республика</item>
+        <item>Алжир</item>
+        <item>Эквадор</item>
+        <item>Египет (مصر‎)</item>
+        <item>Эритрея</item>
+        <item>Западная Сахара</item>
+        <item>Испания (España)</item>
+        <item>Эстония (Eesti)</item>
+        <item>Эфиопия</item>
+        <item>Финляндия (Suomi)</item>
+        <item>Фиджи</item>
+        <item>Фолклендские острова </item>
+        <item>Франция (France)</item>
+        <item>Бельгия (Belgique)</item>
+        <item>Фарерские острова </item>
+        <item>Микронезия</item>
+        <item>Габон</item>
+        <item>Великобритания (United Kingdom)</item>
+        <item>Грузия (საქართველო)</item>
+        <item>Гана</item>
+        <item>Гибралтар</item>
+        <item>Гвинея</item>
+        <item>Гваделупе</item>
+        <item>Гамбия</item>
+        <item>Гвинея-Бисау</item>
+        <item>Экваториальная Гвинея</item>
+        <item>Греция (Ελλάδα)</item>
+        <item>Гренада</item>
+        <item>Гренландия</item>
+        <item>Гватемала</item>
+        <item>Французская Гвиана</item>
+        <item>Гуам</item>
+        <item>Гайана</item>
+        <item>Гонконг (香港)</item>
+        <item>Остров Херд и острова МакДональд</item>
+        <item>Гондурас</item>
+        <item>Хорватия (Hrvatska)</item>
+        <item>Гаити</item>
+        <item>Венгрия (Magyarország)</item>
+        <item>Индонезия (Republik Indonesia)</item>
+        <item>Индия (भारत गणराज्य )</item>
+        <item>Британская территория в Индийском океане</item>
+        <item>Ирландия (Ireland)</item>
+        <item>Иран (ایران)</item>
+        <item>Ирак (العراق)</item>
+        <item>Исландия (Ísland)</item>
+        <item>Израиль (מְדִינַת יִשְׂרָאֵל  /  دَوْلَةُ إِسْرَائِيلَ)</item>
+        <item>Италия (Italia)</item>
+        <item>Ямайка</item>
+        <item>Иордания (L\'Ürdünn)</item>
+        <item>Япония (日本国)</item>
+        <item>Казахстан</item>
+        <item>Кения (Jamhuri ya Kenya)</item>
+        <item>Кыргызстан</item>
+        <item>Камбоджа (कम्बोजदेश)</item>
+        <item>Кирибати</item>
+        <item>Сент-Китс и Невис</item>
+        <item>Республика Корея (대한민국)</item>
+        <item>Кувейт (دولة الكويت)</item>
+        <item>Лаосская Народно-Демократическая Республика</item>
+        <item>Ливан (اَلْجُمْهُورِيَّة اَللُّبْنَانِيَّة)</item>
+        <item>Либерия</item>
+        <item>Ливийская Арабская Джамахирия</item>
+        <item>Сент-Люсия</item>
+        <item>Лихтенштейн (Liechtenstein)</item>
+        <item>Шри-Ланка (இலங்கை ஜனநாயக சமத்துவ)</item>
+        <item>Лесото</item>
+        <item>Литва (Lietuva)</item>
+        <item>Люксембург (Lëtzebuerg)</item>
+        <item>Латвия (Latvija)</item>
+        <item>Макао</item>
+        <item>Марокко</item>
+        <item>Монако (Monaco)</item>
+        <item>Молдова (Moldova)</item>
+        <item>Мадагаскар</item>
+        <item>Мальдивы</item>
+        <item>Мексика</item>
+        <item>Маршалловы острова </item>
+        <item>Македония</item>
+        <item>Мали</item>
+        <item>Мальта (Malta)</item>
+        <item>Мьянма (Pyidaunzu Thanmăda Myăma Nainngandaw)</item>
+        <item>Монголия</item>
+        <item>Северные Марианские острова</item>
+        <item>Мозамбик</item>
+        <item>Мавритания</item>
+        <item>Монтсеррат</item>
+        <item>Мартиника (Martinique)</item>
+        <item>Маврикий (Republik Moris)</item>
+        <item>Малави</item>
+        <item>Малайзия (Persekutuan Malaysia)</item>
+        <item>Майотта</item>
+        <item>Намибия</item>
+        <item>Новая Каледония (Nouvelle-Calédonie)</item>
+        <item>Нигер</item>
+        <item>Остров Норфолк (Norfuk Ailen)</item>
+        <item>Нигерия (Republik Nijeriya)</item>
+        <item>Никарагуа</item>
+        <item>Ниуэ</item>
+        <item>Нидерланды (Nederland)</item>
+        <item>Норвегия (Norge)</item>
+        <item>Непал (सङ्घीय लोकतान्त्रिक गणतन्त्र नेपाल)</item>
+        <item>Науру</item>
+        <item>Новая Зеландия (New Zealand)</item>
+        <item>Оман (لطنة عمان)</item>
+        <item>Пакистан (پاکِستان)</item>
+        <item>Панама</item>
+        <item>Питкэрн</item>
+        <item>Перу</item>
+        <item>Филиппины (Pilipinas)</item>
+        <item>Палау</item>
+        <item>Папуа-Новая Гвинея</item>
+        <item>Польша (Polska)</item>
+        <item>Пуэрто-Рико</item>
+        <item>Демократическая Республика Корея</item>
+        <item>Португалия (Portugal)</item>
+        <item>Парагвай</item>
+        <item>Французская Полинезия </item>
+        <item>Катар</item>
+        <item>Реюньон</item>
+        <item>Румыния (România)</item>
+        <item>Россия</item>
+        <item>Руанда</item>
+        <item>Саудовская Аравия (المملكة العربية السعودية)</item>
+        <item>Сербия и Черногория</item>
+        <item>Судан (جمهورية السودان)</item>
+        <item>Сенегал</item>
+        <item>Сингапур (Singapore)</item>
+        <item>Южная Георгия и Южные Сандвичевы острова</item>
+        <item>Остров Святой Елены</item>
+        <item>Архипелаг Шпицберген и остров Ян-Майен</item>
+        <item>Соломоновы Острова (Solomon Islands)</item>
+        <item>Сьерра-Леоне</item>
+        <item>Сальвадор</item>
+        <item>Сан-Марино (San Marino)</item>
+        <item>Сомали</item>
+        <item>Сен-Пьер и Микелон (St. Pierre and Miquelon)</item>
+        <item>Сан-Томе и Принсипи</item>
+        <item>Суринам</item>
+        <item>Словакия (Slovensko)</item>
+        <item>Словения (Slovenija)</item>
+        <item>Швеция (Sverige)</item>
+        <item>Свазиленд (Swatini)</item>
+        <item>Сейшельские Острова </item>
+        <item>Сирийская Арабская Республика (جمهورية العربية السورية)</item>
+        <item>Острова Теркс и Кайкос</item>
+        <item>Чад</item>
+        <item>Того</item>
+        <item>Таиланд (ราชอาณาจักรไทย)</item>
+        <item>Таджикистан</item>
+        <item>Токелау</item>
+        <item>Туркменистан</item>
+        <item>Восточный Тимор</item>
+        <item>Тонга</item>
+        <item>Тринидад и Тобаго</item>
+        <item>Тунис</item>
+        <item>Турция (Türkiye)</item>
+        <item>Острова Тувалу</item>
+        <item>ТАЙВАНЬ, КИТАЙСКАЯ РЕСПУБЛИКА (台灣)</item>
+        <item>Танзания</item>
+        <item>Уганда (Jamhuri ya Uganda)</item>
+        <item>Украина (Україна)</item>
+        <item>Внешние малые острова США</item>
+        <item>Уругвай</item>
+        <item>США</item>
+        <item>Узбекистан</item>
+        <item>Святой Престол (Stato della Città del Vaticano)</item>
+        <item>Сент-Винсент и Гренадины </item>
+        <item>Венесуэла</item>
+        <item>Виргинские острова (Британские)</item>
+        <item>Виргинские острова (США)</item>
+        <item>Вьетнам (Việt Nam)</item>
+        <item>Вануату</item>
+        <item>Острова Уоллис и Футуна</item>
+        <item>Самоа</item>
+        <item>Йемен</item>
+        <item>ЮАР (Republiek van Suid-Afrika)</item>
+        <item>Заир</item>
+        <item>Замбия</item>
+        <item>Зимбабве (Simudzai Mureza wedu WeZimbabwe)</item>
+    </string-array>
+    <plurals name="dialog_unzip_preview_size_text">
+        <item quantity="one">Всего: %1$d файл, %2$s</item>
+        <item quantity="other">Всего: %1$d файла(ов), %2$s</item>
+    </plurals>
+    <plurals name="drag_items">
+        <item quantity="one">Перетащите элемент</item>
+        <item quantity="other">Перетащите элементы</item>
+    </plurals>
+    <plurals name="number_search_items">
+        <item quantity="one">"%d файл найден"</item>
+        <item quantity="other">"%d файлов найдено"</item>
+    </plurals>
+    <plurals name="number_selected_items">
+        <item quantity="one">Выбран %d</item>
+        <item quantity="other">Выбран %d</item>
+    </plurals>
+    <plurals name="uf_sdk_number_of_subscribers_format">
+        <item quantity="one">"%1$s нравится эта тема"</item>
+        <item quantity="other">"%1$s нравится эта тема"</item>
+    </plurals>
+    <plurals name="uf_sdk_topics">
+        <item quantity="one">"тема"</item>
+        <item quantity="other">"темы"</item>
+    </plurals>
+    <plurals name="uv_comments">
+        <item quantity="one">"комментарий"</item>
+        <item quantity="other">"комментариев"</item>
+    </plurals>
+    <plurals name="uv_number_of_subscribers_format">
+        <item quantity="one">"%1$s интересуется этой идеей"</item>
+        <item quantity="other">"%1$s интересуются этой идеей"</item>
+    </plurals>
+    <plurals name="uv_people">
+        <item quantity="one">"пользователь"</item>
+        <item quantity="other">"пользователей"</item>
+    </plurals>
+    <plurals name="uv_subscribers">
+        <item quantity="one">"подписчик"</item>
+        <item quantity="other">"подписчиков"</item>
+    </plurals>
+    <string name="AsusWebstroage">AsusWebstorage</string>
+    <string name="AuCloud">AuCloud</string>
+    <string name="BaiDuPCS">BaiDuPCS</string>
+    <string name="Default">По умолчанию</string>
+    <string name="Dropbox">Dropbox</string>
+    <string name="Google_Drive">Google Drive</string>
+    <string name="HomeCloud">HomeCloud</string>
+    <string name="OneDrive">OneDrive</string>
+    <string name="Yandex">Yandex</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Перейти на главный экран"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Перейти вверх"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Другие параметры"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Готово"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Показать все"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Выбрать приложение"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"ОТКЛ."</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ВКЛ."</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Поиск"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Удалить запрос"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Поисковый запрос"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Поиск"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Отправить запрос"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Голосовой поиск"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Открыть доступ"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Открыть доступ пользователю %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Свернуть"</string>
+    <string name="about">Справка</string>
+    <string name="account_asus">ASUS</string>
+    <string maxwidth="-1" name="action">Войти</string>
+    <string description="cutstom action bar view title for about" maxwidth="-1" name="action_about">Справка</string>
+    <string description="action add files" maxwidth="-1" name="action_add">Добавить</string>
+    <string description="cutstom action bar view title for add folder" maxwidth="-1" name="action_add_folder">Добавить папку</string>
+    <string description="View title of custom action bar, apply to multiple selected files" maxwidth="-1" name="action_apply_selected_file">Применить</string>
+    <string description="action cancel" maxwidth="-1" name="action_cancel">Отмена</string>
+    <string maxwidth="-1" name="action_clean">"Очистить"</string>
+    <string maxwidth="-1" name="action_clean_all">"Очистить все"</string>
+    <string description="cutstom action bar view title for clear search history" maxwidth="" name="action_clear_history">Очистить историю поиска</string>
+    <string description="cutstom action bar view title for edit" maxwidth="" name="action_edit">"Редактировать"</string>
+    <string maxwidth="" name="action_hidden_zone">"Переместить в скрытый кабинет"</string>
+    <string description="cutstom action bar view title for hinde system file" maxwidth="-1" name="action_hind_system_file">Скрыть системные файлы</string>
+    <string name="action_loading">"Загрузка..."</string>
+    <string description="cutstom action bar view title for open with" maxwidth="" name="action_open_with">"Открыть с помощью..."</string>
+    <string name="action_refresh_cloudfile">Обновить</string>
+    <string maxwidth="-1" name="action_restore">"Восстановить"</string>
+    <string maxwidth="-1" name="action_restore_all">"Восстановить все"</string>
+    <string description="cutstom action bar view title for search" maxwidth="" name="action_search">Поиск</string>
+    <string description="cutstom action bar view title for set as" maxwidth="" name="action_set_as">"Задать фото как"</string>
+    <string description="menu title for setting" maxwidth="-1" name="action_settings">"Настройки"</string>
+    <string description="cutstom action bar view title for sharing" maxwidth="-1" name="action_share">Поделиться</string>
+    <string description="String for asking for the rule of sorting" maxwidth="-1" name="action_sort_by">Сортировать по</string>
+    <string description="cutstom action bar view title for zip" maxwidth="" name="action_zip">Сжать</string>
+    <string description="Dialog title: Add cloud storage" maxwidth="-1" name="add_cloud_storage_dialog_title">Добавить облачное хранилище</string>
+    <string name="add_favorite">Добавить в избранное</string>
+    <string name="add_favorite_folder">"Добавить избранную папку"</string>
+    <string name="add_favorite_success">Сохранить в избранное</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="add_progress">Создание...</string>
+    <string description="ASUS ZenUI Services is not support, need update ASUS ZenUI Services" maxwidth="-1" name="alert_msg_azs_update">\u0414\u043b\u044f %1$s \u0442\u0440\u0435\u0431\u0443\u0435\u0442\u0441\u044f \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u044f\u044f \u0432\u0435\u0440\u0441\u0438\u044f \u0441\u043b\u0443\u0436\u0431\u044b ASUS ZenUI, \u043f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0435\u0435.</string>
+    <string description="Client app is not support, need update client app" maxwidth="-1" name="alert_msg_client_update">\u0414\u043e\u0441\u0442\u0443\u043f\u043d\u0430 \u043d\u043e\u0432\u0430\u044f \u0432\u0435\u0440\u0441\u0438\u044f %1$s, \u043f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0435\u0435 \u0441\u0435\u0439\u0447\u0430\u0441.</string>
+    <string description="Dialog title" maxwidth="-1" name="alert_title_update">\u0420\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u0443\u0435\u0442\u0441\u044f \u043e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435 </string>
+    <string name="app_cloudstorage_name">Облачное хранилище</string>
+    <string name="app_upload_complete">"\u0417\u0430\u0433\u0440\u0443\u0437\u043a\u0430 %s \u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u0430"</string>
+    <string description="" name="article_one">Я согласен с <u>Условиями использования</u> и <u>Политикой конфиденциальности</u> ASUS и ASUS WebStorage.</string>
+    <string description="" name="article_two">Сообщать мне новости, информацию об обновлениях, продуктах и обслуживании ASUS.</string>
+    <string description="Text for create asus account button." maxwidth="" name="asus_account_create_button">Регистрация</string>
+    <string name="asus_account_integrate_dialog_content">Интегрировать службу облачного хранилища ASUS в учетную запись? \n\n После интеграции учетная запись может быть использована для всех служб ASUS.</string>
+    <string name="asus_account_integrate_dialog_skip">Пропустить</string>
+    <string name="asus_account_integrate_dialog_title">Интеграция служб ASUS</string>
+    <string name="asus_account_integrate_dialog_yes">Да</string>
+    <string description="Text for asus account content 1st." maxwidth="" name="asus_account_msg_content_1">Персональная служба поддержки ASUS и продление гарантии для зарегистрированных продуктов</string>
+    <string description="Text for asus account content 2nd." maxwidth="" name="asus_account_msg_content_2">5 ГБ места в облачном хранилище.</string>
+    <string description="Text for asus account content 3rd." maxwidth="" name="asus_account_msg_content_3">Свежая информация о новых продуктах и аксессуарах.</string>
+    <string description="Text for asus account content title." maxwidth="" name="asus_account_msg_title">Создайте учетную запись ASUS, чтобы получить:</string>
+    <string name="asus_account_only_one_alert">"Можно добавлять только одну учетную запись ASUS. Перед заменой на новую удалите текущую учетную запись."</string>
+    <string name="asus_account_prefc">"Параметры"</string>
+    <string name="asus_account_prefc_advc">"Дополнительные настройки"</string>
+    <string name="asus_account_registe_country_error">Выберите страну или регион!</string>
+    <string name="asus_account_registe_id_error">Неверный формат Email</string>
+    <string name="asus_account_registe_policy_error">Для регистрации учетной записи ASUS вам нужно согласиться с политикой ASUS!</string>
+    <string name="asus_account_registe_pw_error_1">Пароль не может быть пустым!</string>
+    <string name="asus_account_registe_pw_error_2">Подтвержденный пароль не может быть пустым!</string>
+    <string name="asus_account_registe_pw_error_3">Пароль и подтвержденный пароль должны быть одинаковыми!</string>
+    <string name="asus_account_registe_pw_error_4">"Пароль должен включать от 8 до 25 символов."</string>
+    <string name="asus_account_removeaccount_dialog_content">"Согласование учетной записи выполнено. Войдите в систему повторно с новой учетной записью."</string>
+    <string name="asus_account_removeaccount_dialog_title">"Согласование учетной записи ASUS выполнено"</string>
+    <string name="asus_commonui_activity_chooser_view_see_all">"Показать все"</string>
+    <string name="asus_commonui_activity_resolver_use_always">"Всегда"</string>
+    <string name="asus_commonui_activity_resolver_use_once">"Только сейчас"</string>
+    <string name="asus_commonui_activitychooserview_choose_application">"Выберите приложение"</string>
+    <string name="asus_commonui_activitychooserview_choose_application_error">
+        "Не удалось запустить приложение \"<ns1:g id="APPLICATION_NAME">%s</ns1:g>\""</string>
+    <string name="asus_commonui_cancel_label">"Отмена"</string>
+    <string name="asus_commonui_chooseActivity">"Выберите действие"</string>
+    <string msgid="3968620852217927702" name="asus_commonui_day_picker_description">"Окно выбора даты"</string>
+    <string msgid="6908431551612331381" name="asus_commonui_deleted_key">"Цифра <ns1:g id="KEY">%1$s</ns1:g> удалена"</string>
+    <string name="asus_commonui_done_label">"ОК"</string>
+    <string msgid="7586639618712934060" name="asus_commonui_hour_picker_description">"Выбор часов на циферблате"</string>
+    <string msgid="2674929164900463786" name="asus_commonui_item_is_selected">"Выбран элемент <ns1:g id="ITEM">%1$s</ns1:g>"</string>
+    <string msgid="6024811202872705251" name="asus_commonui_minute_picker_description">"Выбор минут на циферблате"</string>
+    <string name="asus_commonui_noApplications">"Действие не поддерживается ни в одном приложении."</string>
+    <string name="asus_commonui_no_url_handler">Невозможно открыть страницу</string>
+    <string name="asus_commonui_privacy_policy">Политика конфиденциальности</string>
+    <string name="asus_commonui_privacy_policy_url">http://www.asus.com/RU/Terms_of_Use_Notice_Privacy_Policy/Privacy_Policy</string>
+    <string msgid="3973338219107019769" name="asus_commonui_select_day">"Выберите месяц и день"</string>
+    <string msgid="7651068754188418859" name="asus_commonui_select_hours">"Выберите часы"</string>
+    <string msgid="8327182090226828481" name="asus_commonui_select_minutes">"Выберите минуты"</string>
+    <string msgid="2603330600102539372" name="asus_commonui_select_year">"Выберите год"</string>
+    <string name="asus_commonui_shareactionprovider_share_with">"Открыть доступ:"</string>
+    <string name="asus_commonui_shareactionprovider_share_with_application">
+        "Открыть доступ приложению \"<ns1:g id="APPLICATION_NAME">%s</ns1:g>\""</string>
+    <string name="asus_commonui_terms_of_use_notice">Условия использования</string>
+    <string name="asus_commonui_terms_of_use_notice_url">http://www.asus.com/RU/Terms_of_Use_Notice_Privacy_Policy/Official_Site/</string>
+    <string name="asus_commonui_whichApplication">"Что использовать?"</string>
+    <string name="asus_commonui_whichHomeApplication">"Выберите приложение"</string>
+    <string msgid="6963340404644587098" name="asus_commonui_year_picker_description">"Меню выбора года"</string>
+    <string name="asus_feedback_and_help">"Отзывы и справка"</string>
+    <string name="asus_registe_success_title">"Регистрация учетной записи ASUS выполнена"</string>
+    <string name="asus_response_resultdata">"Данная учетная запись уже зарегистрирована."</string>
+    <string name="asusaccount_app_name">Учетная запись ASUS</string>
+    <string maxwidth="-1" name="attribution_notice">"Пояснение"</string>
+    <string maxwidth="-1" name="attribution_notice_content">
+    "\nДанный продукт содержит открытый исходный код, указанный ниже:
+\n\nuservoice-android-sdk, лицензированный согласно Apache License Version 2.0. Лицензию можно загрузить по адресу http://www.apache.org/licenses/LICENSE-2.0.html .
+        \n\nangular-filemanager, лицензированный согласно MIT. Лицензию можно загрузить по адресу https://github.com/joni2back/angular-filemanager/blob/master/LICENSE .
+        \n\nprogressbar, лицензированный согласно MIT. Лицензию можно загрузить по адресу https://github.com/kimmobrunfeldt/progressbar.js/blob/master/LICENSE .
+        \n\ntoastr, (c) 2012-2015 John Papa, Tim Ferrell, Hans Fjällemark\nДанная лицензия разрешает лицам, получившим копию данного программного обеспечения и сопутствующей документации (в дальнейшем именуемыми "Программное Обеспечение"), безвозмездно использовать Программное Обеспечение без ограничений, включая неограниченное право на использование, копирование, изменение, слияние, публикацию, распространение, сублицензирование и/или продажу копий Программного Обеспечения, а также лицам, которым предоставляется данное Программное Обеспечение, при соблюдении следующих условий:
+Указанное выше уведомление об авторском праве и данные условия должны быть включены во все копии или значимые части данного Программного Обеспечения.
+ДАННОЕ ПРОГРАММНОЕ ОБЕСПЕЧЕНИЕ ПРЕДОСТАВЛЯЕТСЯ "КАК ЕСТЬ", БЕЗ КАКИХ-ЛИБО ГАРАНТИЙ, ЯВНО ВЫРАЖЕННЫХ ИЛИ ПОДРАЗУМЕВАЕМЫХ, ВКЛЮЧАЯ ГАРАНТИИ ТОВАРНОЙ ПРИГОДНОСТИ, СООТВЕТСТВИЯ ПО ЕГО КОНКРЕТНОМУ НАЗНАЧЕНИЮ И ОТСУТСТВИЯ НАРУШЕНИЙ, НО НЕ ОГРАНИЧИВАЯСЬ ИМИ. НИ В КАКОМ СЛУЧАЕ АВТОРЫ ИЛИ ПРАВООБЛАДАТЕЛИ НЕ НЕСУТ ОТВЕТСТВЕННОСТИ ПО КАКИМ-ЛИБО ИСКАМ, ЗА УЩЕРБ ИЛИ ПО ИНЫМ ТРЕБОВАНИЯМ, В ТОМ ЧИСЛЕ, ПРИ ДЕЙСТВИИ КОНТРАКТА, ДЕЛИКТЕ ИЛИ ИНОЙ СИТУАЦИИ, ВОЗНИКШИМ ИЗ-ЗА ИСПОЛЬЗОВАНИЯ ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ ИЛИ ИНЫХ ДЕЙСТВИЙ С ПРОГРАММНЫМ ОБЕСПЕЧЕНИЕМ."
+    </string>
+    <string name="aucloud_account_only_one_alert">"Можно добавлять только одну учетную запись для "облака". Перед заменой на новую удалите текущую учетную запись."</string>
+    <string description="string indicating how camera shooting feature is used" maxwidth="-1" name="auto">Авто</string>
+    <string maxwidth="-1" name="aws_install_contnet">Приложение WebStorage не установлено. Загрузить и установить его?</string>
+    <string maxwidth="" name="aws_install_title">Приложение WebStorage не установлено</string>
+    <string description="button text." maxwidth="-1" name="back_button_label">Назад</string>
+    <string name="baidu_alert_info">"На основе платформы Baidu данное устройство может получить только доступ к данным "My Application Data\\asus\\"."</string>
+    <string name="baidu_alert_title">"Сетевое хранилище Baidu"</string>
+    <string name="baidu_storage_title">"百度云"</string>
+    <string name="baidupcs_account_only_one_alert">"Можно добавлять только один Baidu для учетной записи ASUS. Перед заменой на новую удалите текущую учетную запись."</string>
+    <string name="btn_OK">OK</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="calculate_progress">"Выполняется..."</string>
+    <string description="Toast: can not open in hidden zone" maxwidth="-1" name="can_not_open_in_hidden_zone">"Невозможно открыть в скрытом кабинете"</string>
+    <string description="Dialog Button: cancel for dialog" maxwidth="" name="cancel">Отмена</string>
+    <string name="cancle">Отмена</string>
+    <string name="category_apk">Приложения</string>
+    <string maxwidth="11" name="category_app1">"Приложения"</string>
+    <string name="category_compress">"Сжатый"</string>
+    <string maxwidth="11" name="category_compressed1">"Сжатый"</string>
+    <string name="category_count">"%s"</string>
+    <string maxwidth="11" name="category_document1">"Документы"</string>
+    <string name="category_documents">"Документы"</string>
+    <string name="category_download">Загрузки</string>
+    <string maxwidth="11" name="category_download1">"Загрузки"</string>
+    <string name="category_favorite">Избранное</string>
+    <string maxwidth="11" name="category_favorite1">"Избранное"</string>
+    <string name="category_game">"Игры"</string>
+    <string name="category_image">Фото</string>
+    <string maxwidth="11" name="category_image1">"Фото"</string>
+    <string maxwidth="11" name="category_large_file1">"Большие"</string>
+    <string name="category_music">Музыка</string>
+    <string maxwidth="11" name="category_music1">"Музыка"</string>
+    <string name="category_name_app_wallpaper">"Живые обои"</string>
+    <string name="category_name_app_widgets">"Виджеты"</string>
+    <string name="category_name_books_and_reference">"Книги и справочники"</string>
+    <string name="category_name_business">"Бизнес"</string>
+    <string name="category_name_comics">"Комиксы"</string>
+    <string name="category_name_communication">"Связь"</string>
+    <string name="category_name_education">"Образование"</string>
+    <string name="category_name_entertainment">"Развлечения"</string>
+    <string name="category_name_finance">"Финансы"</string>
+    <string name="category_name_game">"Игры"</string>
+    <string name="category_name_game_action">"Экшен"</string>
+    <string name="category_name_game_adventure">"Приключения"</string>
+    <string name="category_name_game_arcade">"Аркады"</string>
+    <string name="category_name_game_board">"Настольные игры"</string>
+    <string name="category_name_game_card">"Карточные"</string>
+    <string name="category_name_game_casino">"Казино"</string>
+    <string name="category_name_game_casual">"Другое"</string>
+    <string name="category_name_game_educational">"Обучающие"</string>
+    <string name="category_name_game_family">"Семейные"</string>
+    <string name="category_name_game_music">"Музыка"</string>
+    <string name="category_name_game_puzzle">"Пазлы"</string>
+    <string name="category_name_game_racing">"Гонки"</string>
+    <string name="category_name_game_role_playing">"Ролевые"</string>
+    <string name="category_name_game_simulation">"Симуляторы"</string>
+    <string name="category_name_game_sports">"Спортивные игры"</string>
+    <string name="category_name_game_strategy">"Стратегии"</string>
+    <string name="category_name_game_trivia">"Викторины"</string>
+    <string name="category_name_game_word">"Словесные игры"</string>
+    <string name="category_name_health_and_fitness">"Здоровье и фитнес"</string>
+    <string name="category_name_libraries_and_demo">"Разное"</string>
+    <string name="category_name_lifestyle">"Стиль жизни"</string>
+    <string name="category_name_media_and_video">"Мультимедиа и видео"</string>
+    <string name="category_name_medical">"Медицина"</string>
+    <string name="category_name_music_and_audio">"Музыка и аудио"</string>
+    <string name="category_name_news_and_magazines">"Новости и журналы"</string>
+    <string name="category_name_personalization">"Персонализация"</string>
+    <string name="category_name_photography">"Фотография"</string>
+    <string name="category_name_productivity">"Работа"</string>
+    <string name="category_name_shopping">"Покупки"</string>
+    <string name="category_name_social">"Социальные"</string>
+    <string name="category_name_sports">"Спорт"</string>
+    <string name="category_name_tools">"Инструменты"</string>
+    <string name="category_name_transportation">"Транспорт"</string>
+    <string name="category_name_travel_and_local">"Путешествия"</string>
+    <string name="category_name_weather">"Погода"</string>
+    <string name="category_others">"Другое"</string>
+    <string maxwidth="11" name="category_recent1">"Последние"</string>
+    <string name="category_recent_files">"Недавно добавлены"</string>
+    <string name="category_sorting_summary">"Выберите элементы для отображения на панели категорий"</string>
+    <string name="category_title_category">Категория</string>
+    <string name="category_title_local_storage">Локальный накопитель</string>
+    <string name="category_title_tools">"Инструменты"</string>
+    <string name="category_toast_invalid_item_size_6_or_9">"Выберите 6 или 9 элементов"</string>
+    <string name="category_toast_invalid_item_size_9">"Выберите 9 элементов"</string>
+    <string name="category_toast_invalid_remove">"Данный элемент нельзя удалить"</string>
+    <string name="category_toast_max_item_size">"Выберите не более 9 элементов"</string>
+    <string name="category_video">Видео</string>
+    <string maxwidth="11" name="category_video1">"Видео"</string>
+    <string name="clear_account_info">Забыть все учетные записи</string>
+    <string description="Menu Option: clear all checkbox" maxwidth="" name="clear_all">Очистить все</string>
+    <string name="click_plus_to_add_favorite_folder">"Щелкните + для добавления избранной папки"</string>
+    <string description="Toast: The size is over the limit and cannot be uploaded" maxwidth="-1" name="cloud_download_flie_limit_space">Размер слишком большой и не может быть загружен</string>
+    <string description="Toast: The name of the file uploaded is not supported by cloud server" maxwidth="-1" name="cloud_flie_name_not_supported">"Невозможно выполнить операцию, поскольку имя файла не поддерживается облачным сервером."</string>
+    <string description="home cloud get available devices fail" name="cloud_homebox_get_devices_fail">Доступные устройства HomeCloud не найдены</string>
+    <string description="home cloud has no available devices" name="cloud_homebox_no_available_devices">Нет доступных устройств HomeCloud</string>
+    <string description="home cloud device is sleep" name="cloud_homebox_status__info_Sleep">Сон</string>
+    <string description="home cloud device is offline" name="cloud_homebox_status__info_offline">Не в сети</string>
+    <string description="home cloud device is online" name="cloud_homebox_status__info_online">В сети</string>
+    <string description="home cloud device is offline" name="cloud_homebox_status_offline">Устройство отключено от сети.</string>
+    <string description="diaglog cloud background paste" name="cloud_paste_backgroud">Фон</string>
+    <string description="diaglog cloud  now is copy files" name="cloud_paste_copying">Копирование...</string>
+    <string description="diaglog cloud  current" name="cloud_paste_current">Текущий</string>
+    <string description="diaglog cloud  now is delete source files" name="cloud_paste_deleting">Удаление исходных файлов...</string>
+    <string description="diaglog cloud  paste" name="cloud_paste_downloading">Скачивание файлов</string>
+    <string description="diaglog cloud  total" name="cloud_paste_total">Всего</string>
+    <string description="diaglog cloud  paste uploading" name="cloud_paste_uploading">Загрузка файлов</string>
+    <string description="Toast: cloud preview action" maxwidth="-1" name="cloud_preview_action_fail">Ошибка просмотра файлов в облаке.</string>
+    <string description="Toast: cloud share action" maxwidth="-1" name="cloud_share_action_fail">Ошибка общего доступа к файлам в облаке.</string>
+    <string description=">Do you want to remove" maxwidth="-1" name="cloud_storage_remove_hint">"Вы хотите выйти из \"%s\"?"</string>
+    <string description="Dialog title: Remove cloud storage" maxwidth="-1" name="cloud_storage_remove_hint_title">Выход</string>
+    <string description=">Do you want to signin" maxwidth="-1" name="cloud_storage_sign_in">Подключиться, используя следующую учетную запись:</string>
+    <string description="Dialog title: Signin cloud storage" maxwidth="-1" name="cloud_storage_sign_in_title">Подключение к %s</string>
+    <string description=">Do you want to signout" maxwidth="-1" name="cloud_storage_sign_out">Вы хотите выйти?</string>
+    <string description="Dialog title: Signout cloud storage" maxwidth="-1" name="cloud_storage_sign_out_title">Отключить</string>
+    <string description="Add more cloud storage" maxwidth="-1" name="cloud_storage_title">Добавить другое облачное хранилище</string>
+    <string description="diaglog cloud  token is invalidate" name="cloud_token_invalidate">Право доступа аннулировано. Войдите в систему заново!</string>
+    <string description="Toast: The size is over the limit and cannot be uploaded" maxwidth="-1" name="cloud_upload_flie_limit_space">Размер слишком большой и не может быть загружен</string>
+    <string name="com_facebook_image_download_unknown_error">При загрузке изображения возникла неожиданная ошибка.</string>
+    <string name="com_facebook_internet_permission_error_message">Для входа в WebView необходимо разрешение INTERNET</string>
+    <string name="com_facebook_internet_permission_error_title">Ошибка AndroidManifest</string>
+    <string name="com_facebook_like_button_liked">Понравилось</string>
+    <string name="com_facebook_like_button_not_liked">Нравится</string>
+    <string name="com_facebook_loading">Загрузка...</string>
+    <string name="com_facebook_loginview_cancel_action">Отменить</string>
+    <string name="com_facebook_loginview_log_in_button">Вход</string>
+    <string name="com_facebook_loginview_log_in_button_long">Вход через Facebook</string>
+    <string name="com_facebook_loginview_log_out_action">Выход</string>
+    <string name="com_facebook_loginview_log_out_button">Выход</string>
+    <string name="com_facebook_loginview_logged_in_as">Вы вошли как: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Выполнен вход с помощью Facebook</string>
+    <string name="com_facebook_send_button_text">Отправить</string>
+    <string name="com_facebook_share_button_text">Поделиться</string>
+    <string name="com_facebook_tooltip_default">Новинка! У вас все под контролем — выбирайте, какой информацией вы хотите поделиться с приложениями.</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Включить"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"Для работы приложения \"<ns1:g id="APP_NAME">%1$s</ns1:g>\" требуется включить сервисы Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Включите сервисы Google Play"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Установить"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"Для работы приложения \"<ns1:g id="APP_NAME">%1$s</ns1:g>\" требуется установить сервисы Google Play."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Установите сервисы Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Ошибка сервисов Google Play"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"Приложению \"<ns1:g id="APP_NAME">%1$s</ns1:g>\" не удается подключиться к сервисам Google Play. Повторите попытку."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"Для работы с приложением \"<ns1:g id="APP_NAME">%1$s</ns1:g>\" требуются сервисы Google Play. Они не поддерживаются на вашем устройстве."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Обновить"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"Чтобы запустить приложение \"<ns1:g id="APP_NAME">%1$s</ns1:g>\", обновите сервисы Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Обновите сервисы Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"Сервисы Google Play, необходимые для работы приложения \"<ns1:g id="APP_NAME">%1$s</ns1:g>\", в настоящий момент обновляются."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Версия сервисов Google Play устарела. Они автоматически обновятся в ближайшее время."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Открыть на телефоне"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Войти"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Войти через аккаунт Google"</string>
+    <string name="confirm">"Подтвердить"</string>
+    <string maxwidth="-1" name="confirm_ok">OK</string>
+    <string description="confirm password textview title" name="confirm_password">Подтвердите пароль</string>
+    <string description="ask user to enter password again to confirm" name="confirm_password_edit">Введите пароль еще раз</string>
+    <string description="content" maxwidth="-1" name="content">Использование данного программного обеспечения является предметом условий на сайте ASUS: \nhttp :/ / www.asus.com</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="copy">Копировать</string>
+    <string description="Toast: copy ready" maxwidth="-1" name="copy_ready_more">Выбранные файлы скопированы и готовы к вставке.</string>
+    <string description="Toast: copy ready. %s is variable string." maxwidth="-1" name="copy_ready_one">""%s"" скопирован и готов к вставке.</string>
+    <string name="copy_to">Копировать</string>
+    <string description="country region textview title" name="country_region">Страна/регион</string>
+    <string description="ack user to select on country" name="country_region_select">Выберите свой регион</string>
+    <string name="create_shortcut">"Создать ярлык"</string>
+    <string name="create_shortcut_dialog">"Создать ярлык Загрузчика"</string>
+    <string name="create_shortcut_toast">"Создание ярлыка Загрузчика завершено"</string>
+    <string name="cta_agree">"Разрешить"</string>
+    <string name="cta_check_title">"Запомнить"</string>
+    <string name="cta_dialog_content">"<b>Диспетчер файлов</b> пытается использовать сеть. В зависимости от ваших подписок могут взиматься другие платежи."</string>
+    <string name="cta_dialog_title">"Использование сети"</string>
+    <string name="cta_disagree">"Отказать"</string>
+    <string name="cta_show_menu">"Разрешение на использование сети"</string>
+    <string name="current_folder">"Текущая папка"</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="cut">Вырезать</string>
+    <string description="Toast: cut ready" maxwidth="-1" name="cut_ready_more">Выбранные файлы вырезаны и готовы к вставке.</string>
+    <string description="Toast: cut ready. %s is variable string." maxwidth="-1" name="cut_ready_one">""%s"" вырезан и готов к вставке.</string>
+    <string description="button text for sort file by date" maxwidth="-1" name="date">Дата</string>
+    <string description="button text for sort file by date ascending" maxwidth="-1" name="date_ascending">Дата (старые – новые)</string>
+    <string description="button text for sort file by date descending" maxwidth="-1" name="date_descending">Дата (новые – старые)</string>
+    <string msgid="7984755014526510295" name="day">"1 день"</string>
+    <string msgid="2070509222727852210" name="days">"<ns1:g id="DAYS">%s</ns1:g> дн."</string>
+    <string maxwidth="-1" name="dbx_install_contnet">Приложение Dropbox не установлено. Загрузить и установить его?</string>
+    <string maxwidth="" name="dbx_install_title">Приложение Dropbox не установлено</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="delete">Удалить</string>
+    <string description="Dialog Title: delete dialog title" maxwidth="" name="delete_dialog">Удалить файл</string>
+    <string description="Toast: delete fails" maxwidth="-1" name="delete_fail">Ошибка удаления файла.</string>
+    <string description="Dialog Content: text in dialog. %d is variable number." maxwidth="" name="delete_more_files">Элементов: %d. Удалить все?</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="delete_one_directory">Открыть как</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="delete_one_files">Вы хотите удалить файл?</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="delete_progress">Удаление...</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="delete_size">"Размер: "</string>
+    <string description="Toast: delete success" maxwidth="-1" name="delete_success_more">Выбранные файлы были удалены.</string>
+    <string description="Toast: delete success. %s is variable string." maxwidth="-1" name="delete_success_one">"%s" был удален.</string>
+    <string description="cutstom action bar view title for deselect all checkbox" maxwidth="" name="deselect_all">Снять выделение</string>
+    <string name="device_root_path">Корень файловой системы</string>
+    <string description="compress dialog title" maxwidth="-1" name="dialog_create_zip_title">Введите имя архива</string>
+    <string description="extract zip file dialog title. %s is a dynamic string. It is zip file name." maxwidth="-1" name="dialog_extract_zip_title">Извлечь %s в:</string>
+    <string name="dialog_load_stream_url_info">Получение необходимой информации с сервера</string>
+    <string name="dialog_msg_market_login_account">"\u0414\u043b\u044f \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f \u0432\u043e\u0439\u0434\u0438\u0442\u0435 \u0432 \u0441\u0432\u043e\u044e \u0443\u0447\u0435\u0442\u043d\u0443\u044e \u0437\u0430\u043f\u0438\u0441\u044c Google"</string>
+    <string description="text encoding dialog title" maxwidth="-1" name="dialog_text_encoding_title">"Кодировка текста"</string>
+    <string name="dialog_title_market_login_account">"\u0414\u043e\u0431\u0430\u0432\u0438\u0442\u044c \u0443\u0447\u0435\u0442\u043d\u0443\u044e \u0437\u0430\u043f\u0438\u0441\u044c"</string>
+    <string description="show zip info dialog title. %s is a dynamic string. Is is a zip file name" maxwidth="-1" name="dialog_unzip_preview_title">Извлечь %s</string>
+    <string description="Dialog Title: Directory information dialog title" maxwidth="-1" name="dir_info_dialog_title">Информация о директории</string>
+    <string name="display">Показать как</string>
+    <string name="display_hint">Мой компьютер, может быть пустым</string>
+    <string name="dm_openfile">"Открыть файл"</string>
+    <string name="do_not_show_again">"Больше не показывать"</string>
+    <string name="domain">Домен:</string>
+    <string name="domain_hint">Can be empty</string>
+    <string name="download_fail">Ошибка загрузки!</string>
+    <string name="drag_items_one">Перетащите элемент</string>
+    <string name="drag_items_other">Перетащите элементы</string>
+    <string name="drawer_close">Закрыть приложение navigation drawer</string>
+    <string name="drawer_home">Исходный экран</string>
+    <string name="drawer_open">Открыть приложение navigation drawer</string>
+    <string description="Hint: the operation is incorrect" maxwidth="-1" name="drop_incorrect_hint">Неверная операция</string>
+    <string description="Hint: the target folder which you want to do something" maxwidth="-1" name="drop_target_to">Целевая папка:</string>
+    <string name="dumdownloadfrom">Загрузить из</string>
+    <string name="dumuploadto">Отправить в</string>
+    <string name="duplicate_files">"Дублирующиеся файлы"</string>
+    <string name="duplicate_files_content_hint">"Поиск дублирующихся файлов и их удаление при разрешении."</string>
+    <string name="edit_toast_name_too_long">"Максимальное число символов достигнуто"</string>
+    <string name="edit_toast_special_char">Вы хотите удалить директорию?</string>
+    <string name="editcategory_hint">"Коснитесь кнопки редактирования для настройки панели Категорий."</string>
+    <string description="describe the empty folder" maxwidth="-1" name="empty_folder_title">"Нет файлов"</string>
+    <string description="Dialog Button: click to open the encoding list dialog" maxwidth="-1" name="encode">"Кодировка текста"</string>
+    <string description="ask user to enter password" maxwidth="-1" name="enter_password">"Введите пароль"</string>
+    <string name="eula_content_description">
+        \nДанное Лицензионное пользовательское соглашение (\"Соглашение\") является действительным и связывающим соглашением между ASUSTeK Computer Inc. (\"ASUS\") и Вами, как пользователем в отношении использования Программного обеспечения ASUS (\"Программное обеспечение\"), как описано далее. При установке и использовании программного обеспечения ВЫ ОТКРЫТО ПОДТВЕРЖДАЕТЕ, ЧТО ОЗНАКОМИЛИСЬ И ПРИНЯЛИ ДЛЯ СЕБЯ УСЛОВИЯ ДАННОГО СОГЛАШЕНИЯ И ЕГО ЛЮБЫЕ НОВЫЕ ВЕРСИИ. 
+\n\n1.ПРОГРАММНОЕ ОБЕСПЕЧЕНИЕ  обозначает программное обеспечение ASUS, предоставленное в применимом продукте ASUS или вместе с ним, включая, но не ограничиваясь любыми программными исправлениями, обновлениями, модернизациями и изменениями версий.
+\nК Программному обеспечению может прилагаться другое программное приложение компании ASUS или стороннего поставщика, лицензированное одной или несколькими лицензиями для программного обеспечения с открытым исходным кодом, как описано на веб-сайте www.opensource.org/licenses. Подобное Программное обеспечение с открытым исходным кодом предоставляется Вам в соответствии с условиями соответствующего Лицензионного соглашения или уведомления об авторских правах, прилагающихся к нему, либо в соответствии с лицензиями FOSS, прилагающихся к Программному обеспечению. Условия данного Лицензионного пользовательского соглашения  НЕ применяются к Программному обеспечению с открытым исходным кодом.
+\n\n2.ЛИЦЕНЗИЯ Согласно условиям данного Лицензионного пользовательского соглашения, ASUS предоставляет Вам ограниченную, личную, некоммерческую, неэксклюзивную лицензию на использование Программного обеспечения в форме машинного чтения только для целей резервирования при условии, что резервная копия содержит все авторские права и другие сведения о собственности, указанные в оригинале. Даная лицензия не может быть сублицензирована и передана, за исключением лиц или объектов, которым Вы передаете право владения всеми продуктами ASUS, содержащими Программное обеспечение, при условии, что Вы окончательно передаете все права в соответствии с данным Лицензионным пользовательским соглашением, не сохраняете полных или частичных копий Программного обеспечения, и получатель принимает условия данного Лицензионного пользовательского соглашения.
+\n\n3.ОГРАНИЧЕНИЕ НА РАЗБОРКУ Запрещается выполнять разборку самостоятельно, декомпилировать, дешифровать и дизассемблировать Программное обеспечение, за исключением случаев,которые разрешены действующим законом.
+\n\n4.КОНФИДЕНЦИАЛЬНОСТЬ Вы обязуетесь защищать и не раскрывать и не способствовать раскрытию третьим лицам всей или части конфиденциальной информации, содержащейся в Программном обеспечении, включая, но не ограничиваясь коммерческими тайнами, защищенным авторским правом в любой форме.
+\n\n5.ПРАВА ИНТЕЛЛЕКТУАЛЬНОЙ СОБСТВЕННОСТИ (“Права ИС”) Вы подтверждаете и соглашаетесь, что права на интеллектуальную собственность, правовые титулы и интересы на Программное обеспечение или возникающие в связи с ним, являются и будут являться эксклюзивной собственностью компании ASUS или ее лицензиаров. Ни один пункт Лицензионного соглашения с пользователем не предусматривает передачи Вам любого права на интеллектуальную собственность. Любое несанкционированное использование Прав интеллектуальной собственности является нарушением данного Лицензионного пользовательского соглашения, а также нарушением законов об интеллектуальной собственности, включая, но не ограничиваясь законами об авторских правах и торговых марках.
+\nПри отправке любой информации, материалов, идей, концепций или техник (кроме личной информации) в компанию ASUS с помощью Программного обеспечения (\"Отзывы\") Вы признаете и подтверждаете, что: (i) Ваш отзыв не содержит личной информации или информации о собственности; (ii) компания ASUS не несет ответственности за соблюдение конфиденциальности, явной или подразумеваемой, в отношении Отзывов; (iii) компания ASUS уполномочена использовать или раскрывать по личному усмотрению компании ASUS Отзывы для любых целей и любым образом по всему миру; (iv) Ваши Отзывы становятся собственностью компании ASUS без каких-либо обязательств компании ASUS перед Вами; (v) Вам не полагаются компенсации или возмещения в любой форме.
+\n\n6.УСЛОВИЯ РАСТОРЖЕНИЯ Данное Лицензионное пользовательское соглашение вступает в силу с даты установки Программного обеспечения. Вы можете расторгнуть данную Лицензию в любое время, прекратив использование Программного обеспечения и удалив его с продукта ASUS. Все ваши права будут отозваны без предварительного уведомления от компании ASUS, если мы посчитаем, что Вы нарушаете любой пункт данного Лицензионного пользовательского соглашения.
+\n\n7.ОТКАЗ ОТ ОТВЕТСТВЕЕНОСТИ И ОГРАНИЧЕНИЯ ОТВЕТСТВЕННОСТИ ВЫ ПРИЗНАЕТЕ, ЧТО ПРОГРАММНОЕ ОБЕСПЕЧЕНИЕ ПРЕДОСТАВЛЯЕТСЯ “КАК ЕСТЬ”. ВЫ НЕСЕТЕ ВЕСЬ РИСК, СВЯЗАННЫЙ С КАЧЕСТВОМ И ПРОИЗВОДИТЕЛЬНОСТЬЮ ДАННОГО ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ, ВКЛЮЧАЯ, НО НЕ ОГРАНИЧИВАЯСЬ РАСХОДАМИ НА ОБСЛУЖИВАНИЕ И РЕМОНТ. В СТЕПЕНИ, РАЗРШЕННОЙ ЗАКОНОМ, КОМПАНИЯ ASUS НЕ ДАЕТ НИКАКИХ ГАРАНТИЙ, ЯВНЫХ ИЛИ ПОДРАЗУМЕВАЕМЫХ, В ОТНОШЕНИИ ДАННОГО ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ, А ТАКЖЕ ДРУГОЙ ИНФОРМАЦИИ ИЛИ ДОКУМЕНТАЦИИ, ПРЕДОСТАВЛЕННОЙ В РАМКАХ ДАННОГО ЛИЦЕНЗИОННОГО СОГЛАШЕНИЯ С ПОЛЬЗОВАТЕЛЕМ ИЛИ ДЛЯ ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ, ВКЛЮЧАЯ, НО НЕ ОГРАНИЧИВАЯСЬ ГАРАНТИЕЙ ТОВАРНОГО СОСТОЯНИЯ, ПРИГОДНОСТИ ДЛЯ ИСПОЛЬЗОВАНИЯ ПО НАЗНАЧЕНИЮ, ПРАВА СОБСТВЕННОСТИ, СОБЛЮДЕНИЯ ПРАВ СОБСТВЕННОСТИ, А ТАКЖЕ ЛЮБЫМИ ГАРАНТИЯМИ, СВЯЗАННЫМИ С ИСПОЛЬЗОВАНИЕМ ИЛИ ВЫПОЛНЕНИЕМ ГАРАНТИЙНЫХ ОБЯЗАТЕЛЬСТВ. КОМПАНИЯ ASUS ТАКЖЕ НЕ ПРЕДОСТАВЛЯЕТ НИКАКИХ ГАРАНТИЙ В ОТНОШЕНИИ РЕЗУЛЬТАТОВ, КОТОРЫЕ МОГУТ БЫТЬ ПОЛУЧЕНЫ ПРИ ИСПОЛЬЗОВАНИИ ДАННОГО ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ ИЛИ ТОЧНОСТИ ЛИБО НАДЕЖНОСТИ ЛЮБОЙ ИНФОРМАЦИИ, ПОЛУЧЕННОЙ С ПОМОЩЬЮ ДАННОГО ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ. В НЕКОТОРЫХ ЮРИСДИКЦИЯХ ЗАПРЕЩЕНО ИСКЛЮЧЕНИЕ ОПРЕДЕЛЕННЫХ ГАРАНТИЙ ИЛИ ОГРАНИЧЕНИЙ ЛИБО ИСКЛЮЧЕНИЙ ОТВЕТСТВЕННОСТИ ЗА ОПРЕДЕЛЕННЫЕ УБЫТКИ. В ЭТОМ СЛУЧАЕ УКАЗАННЫЕ ВЫШЕ ОТКАЗЫ ОТ ОТВЕТСТВЕННОСТИ И ОГРАНИЧЕНИЯ ОТВЕТСТВЕННОСТИ МОГУТ БЫТЬ К ВАМ НЕПРИМЕНИМЫ.
+\nВЫ НЕСЕТЕ ВЕСЬ РИСК ЗА ИСПОЛЬЗОВАНИЕ И/ИЛИ ПРОИЗВОДИТЕЛЬНОСТЬ ДАННОГО ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ. НИ ПРИ КАКИХ ОБСТОЯТЕЛЬСТВАХ КОМПАНИЯ ASUS, ЕЕ ЛИЦЕНЗИАРЫ, А ТАКЖЕ СООТВЕТСТВУЮЩИЕ СОТРУДНИКИ, РУКОВОДИТЕЛИ, СЛУЖАЩИЕ, АГЕНТЫ ИЛИ ФИЛИАЛЫ НЕ НЕСУТ ОТВЕТСТВЕННОСТИ ЗА ЛЮБЫЕ ПОСЛЕДУЮЩИЕ, СЛУЧАЙНЫЕ, ПРЯМЫЕ, КОСВЕННЫЕ, ОСОБЫЕ, ШТРАФНЫЕ ИЛИ ДРУГИЕ УБЫТКИ (ВКЛЮЧАЯ БЕЗ ОГРАНИЧЕНИЙ ПОТЕРЮ ПРИБЫЛИ, ПЕРЕБОИ В РАБОТЕ, ПОТЕРЮ ИНФОРМАЦИИ ЛИБО ДРУГОЙ МАТЕРИАЛЬНЫЙ УЩЕРБ), СВЯЗАННЫЕ С ДАННЫМ ЛИЦЕНЗИОННЫМ ПОЛЬЗОВАТЕЛЬСКИМ СОГЛАШЕНИЕМ ЛИБО ИСПОЛЬЗОВАНИЕМ ИЛИ НЕВОЗМОЖНОСТЬЮ ИСПОЛЬЗОВАНИЯ ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ ИЛИ ЕГО ЧАСТИ, ДАЖЕ ЕСЛИ КОМПАНИЯ ASUS БЫЛА ПРЕДУПРЕЖДЕНА О ВОЗМОЖНОСТИ ТАКОГО УЩЕРБА. В НЕКОТОРЫХ ЮРИСДИКЦИЯХ ЗАПРЕЩЕНО ИСКЛЮЧЕНИЕ ОПРЕДЕЛЕННЫХ ГАРАНТИЙ ИЛИ ОГРАНИЧЕНИЙ ЛИБО ИСКЛЮЧЕНИЙ ОТВЕТСТВЕННОСТИ ЗА ОПРЕДЕЛЕННЫЕ УБЫТКИ. В ЭТОМ СЛУЧАЕ УКАЗАННЫЕ ВЫШЕ ОТКАЗЫ ОТ ОТВЕТСТВЕННОСТИ И ОГРАНИЧЕНИЯ ОТВЕТСТВЕННОСТИ МОГУТ БЫТЬ К ВАМ НЕПРИМЕНИМЫ.
+\n\n8.ВОЗМЕЩЕНИЕ Вы соглашаетесь защищать и обезопасить компанию ASUS, ее филиалов, поставщиков услуг, синдикатов, дистрибьюторов, лицензиаров, должностных лиц, директоров и сотрудников, от любых потерь, повреждений, обязательств и расходов, связанных с жалобами или разбирательствами (включая гонорары адвокатам "судебные издержки") в связи с нарушением ВАМИ данного Лицензионного пользовательского соглашения или любого действующего закона, либо норм, а также прав третьих сторон.
+    </string>
+    <string name="eula_content_title">"Лицензионное пользовательское соглашение"</string>
+    <string description="Do not translate ASUS" maxwidth="" name="eula_description">"Правовой договор между приложениями ASUS и пользователями"</string>
+    <string maxwidth="" name="eula_title">"Лицензионное пользовательское соглашение"</string>
+    <string name="example">Например:</string>
+    <string description="Dialog Button: extract file for dialog" maxwidth="-1" name="extract">Извлечь</string>
+    <string name="facebook_app_invite">"Контакты Facebook"</string>
+    <string name="fb_request_error_permissions">"\u0414\u0430\u043d\u043d\u043e\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u043d\u0435 \u0438\u043c\u0435\u0435\u0442 \u0434\u043e\u0441\u0442\u0443\u043f\u0430 \u0434\u043b\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u044d\u0442\u043e\u0433\u043e \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f. \u041f\u043e\u043f\u0440\u043e\u0431\u0443\u0439\u0442\u0435 \u0432\u043e\u0439\u0442\u0438 \u0432 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0435\u0449\u0435 \u0440\u0430\u0437."</string>
+    <string name="fileList_Nofiles">Нет файлов</string>
+    <string description="Dialog Title: File information dialog title" maxwidth="-1" name="file_info_dialog_title">Информация о файле</string>
+    <string description="Application Name shown on title" maxwidth="" name="file_manager">Диспетчер файлов</string>
+    <string description="string indicating camera flash is not used" maxwidth="-1" name="flash_off">Без вспышки</string>
+    <string description="string indicating camera flash is fired" maxwidth="-1" name="flash_on">Со вспышкой</string>
+    <string description="click to retrieve password" maxwidth="-1" name="forget_password">"<u>Забыли пароль?</u>"</string>
+    <string name="fragment_analyzer_allfiles_used_hint">"Использовано:"</string>
+    <string name="fragment_analyzer_chart_free_hint">"Свободно:"</string>
+    <string name="fragment_analyzer_chart_total_hint">"Всего:"</string>
+    <string name="fragment_analyzer_chart_used_hint">"ИСПОЛЬЗОВАНО"</string>
+    <string name="fragment_analyzer_more_hint">"еще"</string>
+    <string name="google_app_invite">"Контакты Google"</string>
+    <string name="group_title_installed">"Установлено"</string>
+    <string name="group_title_not_installed">"Не установлено"</string>
+    <string name="group_title_others">"Другое"</string>
+    <string name="group_title_recommended">"Рекомендуемые"</string>
+    <string name="hidden_zone_change_password">"Изменить пароль"</string>
+    <string name="hidden_zone_confirm_password">"Подтвердите PIN-код"</string>
+    <string name="hidden_zone_enter_password">"Введите PIN-код"</string>
+    <string name="hidden_zone_fingerprint_to_unlock">"Отпечаток пальца для разблокировки"</string>
+    <string name="hidden_zone_forget_password">"Забыли пароль?"</string>
+    <string name="hidden_zone_introduction_description">"Скройте личные файлы в скрытом кабинете. Для открытия скрытого кабинета требуется PIN-код."</string>
+    <string name="hidden_zone_password_mismatch">"PIN-код не совпадает"</string>
+    <string name="hidden_zone_set_password_success">"Пароль успешно установлен"</string>
+    <string name="hidden_zone_setup_account">"Настроить учетную запись"</string>
+    <string name="hidden_zone_setup_password">"Введите 4-цифровой PIN-код"</string>
+    <string name="hidden_zone_wrong_password">"Неверный PIN-код"</string>
+    <string description="Can’t connect to HomeCloud." maxwidth="-1" name="homecloud_access_error">Не удалось подключиться к HomeCloud. Пожалуйста, убедитесь, что служба HomeCloud на сайте.</string>
+    <string name="homecloud_notice_1">ASUS HomeCloud - это серверное программное обеспечение на базе операционной системы Windows. Сейчас оно имеет структуру библиотеки цифрового контента для домашнего пользования и предоставляет услуги хранения в облаке и передачи файлов мультимедиа. В будущем планируется расширение спектра услуг.</string>
+    <string name="homecloud_notice_2">Теперь вы сможете загрузить его и ознакомиться с основными функциями. </string>
+    <string name="homecloud_notice_3">http://home.asuscloud.com/</string>
+    <string name="homecloud_toast_udp_unsupported">Сеть с ограниченным доступом. Обратитесь к сетевому администратору или выберите другую сеть.</string>
+    <string msgid="2546819039651509323" name="hour">"1 ч."</string>
+    <string msgid="2071487018566991613" name="hours">"<ns1:g id="HOURS">%s</ns1:g> ч."</string>
+    <string maxwidth="" name="httpserver_acquire_permission_message">"Файл-сервер HTTP будет отключен и выполнение операций может прерваться. Продолжить?"</string>
+    <string maxwidth="" name="httpserver_connectwifiname">"Подключенная точка доступа Wi-Fi:"</string>
+    <string maxwidth="" name="httpserver_description">"Запустите данную службу для подключения мобильного устройства к ПК."</string>
+    <string maxwidth="" name="httpserver_instruction">"Введите этот адрес в браузер на вашем ПК:"</string>
+    <string maxwidth="" name="httpserver_need_saf">"Для управления внешней памятью с ПК следует предоставить соответствующие права доступа."</string>
+    <string maxwidth="" name="httpserver_no_network">"Подключите ваше устройство к этой же сети Wi-Fi"</string>
+    <string maxwidth="" name="httpserver_no_permission_message">"Запись на внешнее устройство памяти невозможна без предоставления соответствующих прав доступа. Продолжить?"</string>
+    <string maxwidth="" name="httpserver_no_permission_title">"Запуск беспроводной передачи файлов"</string>
+    <string maxwidth="" name="httpserver_start">"Пуск"</string>
+    <string maxwidth="" name="httpserver_stop">"Стоп"</string>
+    <string maxwidth="" name="httpserver_title">"Беспроводная передача файлов на ПК"</string>
+    <string description="Context Menu: options of context menu" maxwidth="-1" name="info">Информация</string>
+    <string description="file info textview context" maxwidth="-1" name="info_aperture">"Диафрагма: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_datetime">"Дата и время:"</string>
+    <string description="file info textview context" maxwidth="-1" name="info_exposure_time">"Выдержка: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_file_num">"Количество файлов: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_flash">"Вспышка: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_focal_length">"Фокус. расст.: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_image_height">"Высота: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_image_width">"Ширина"</string>
+    <string description="file info textview context" maxwidth="-1" name="info_image_x">" x "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_iso">"ISO: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_location">"Место съемки: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_maker">"Автор: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_model">"Модель: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_modified">"Поправка даты: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_name">"Имя: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_orientation">"Ориентация: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_path">"Путь: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_permission">"Разрешение: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_type">Тип:</string>
+    <string description="file info textview context" maxwidth="-1" name="info_white_balance">"Баланс белого: "</string>
+    <string description="Do not translate ASUS" maxwidth="" name="inspire_asus_description">Сбор данных об использовании поможет ASUS улучшить свои продукты</string>
+    <string name="inspire_asus_title">"Вдохновите ASUS"</string>
+    <string name="install">"Установить"</string>
+    <string description="storage label" maxwidth="-1" name="internal_storage_title">Внутренний накопитель</string>
+    <string description="Toast: the account is invalid" maxwidth="-1" name="invalid_account">"Неверная учетная запись"</string>
+    <string description="Invalid directory path" maxwidth="-1" name="invalid_directory_path">Недопустимый путь</string>
+    <string name="invalid_server_id">"Недопустимый ID сервера"</string>
+    <string name="invalid_xml">"Недопустимый xml"</string>
+    <string name="inviteContentTitle">%1$s предлагает вам загрузить и установить Диспетчер файлов ASUS.</string>
+    <string name="inviteContent_p1">Диспетчер файлов ASUS является идеальным способом для управления файлами с помощью смарт-устройства. Это приложение для управления файлами помогает вам приводить в порядок и сортировать различные файлы, хранящиеся в памяти телефона, на карте microSD, в локальной сети и даже в облачном хранилище.</string>
+    <string name="inviteContent_p2">Диспетчер файлов ASUS управляет файлами легко и эффективно. Диспетчер файлов ASUS помогает вам приводить в порядок все ваши файлы, где бы они ни находились: в памяти вашего устройства, на карте microSD, в локальной сети и на учетных записях облачных хранилищ, таких как наши фирменные хранилища ASUS HomeCloud и Webstorage, а также в других облачных сервисах, например Dropbox, Google Drive или Microsoft OneDrive.</string>
+    <string name="inviteContent_p3">Я с удовольствием работаю с Диспетчером файлов ASUS. Попробуйте поработать с ним прямо сейчас! :D</string>
+    <string description="sticker detail page button name" maxwidth="-1" name="invite_friends">"Пригласить друзей"</string>
+    <string name="item">элемент</string>
+    <string name="items">элементы</string>
+    <string name="keep">"Хранить"</string>
+    <string name="kk_sd_permission_warning">В целях безопасности в Android 4.4 не разрешается сторонним приложениям изменять файлы на SD-картах.</string>
+    <string name="large_files_content_hint">"Найти большие файлы и удалить их при разрешении."</string>
+    <string description="linked file is missing" maxwidth="-1" name="linked_file_missing">"Связанный файл пропущен"</string>
+    <string description="text for progress bar" maxwidth="-1" name="loading">Загрузка</string>
+    <string name="local">\u041b\u043e\u043a\u0430\u043b\u044c\u043d\u044b\u0439</string>
+    <string description="button text for sort file by date" maxwidth="-1" name="location">Местоположение</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="logging_cloud_storage">Вход...</string>
+    <string name="login_account_miss">"\u041f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 Facebook \u043d\u0435 \u043c\u043e\u0436\u0435\u0442 \u0437\u0430\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u0442\u044c Android Account Manager. \u041f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u043f\u043e\u043f\u0440\u043e\u0431\u0443\u0439\u0442\u0435 \u0432\u044b\u0439\u0442\u0438 \u0438\u0437 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f \u0438 \u0432\u043e\u0439\u0442\u0438 \u0441\u043d\u043e\u0432\u0430."</string>
+    <string name="login_again_later">"\u0421\u0435\u0440\u0432\u0435\u0440 \u043d\u0435\u0434\u043e\u0441\u0442\u0443\u043f\u0435\u043d, \u043f\u043e\u0432\u0442\u043e\u0440\u0438\u0442\u0435 \u043f\u043e\u043f\u044b\u0442\u043a\u0443 \u043f\u043e\u0437\u0436\u0435"</string>
+    <string description="dialog title, key in the asus ID and PW to Login account" maxwidth="-1" name="login_asus_id">"Учетная запись ASUS для входа в систему"</string>
+    <string description="Toast: login account fail" name="login_fail" width="-1">Ошибка входа</string>
+    <string description="login account name" maxwidth="-1" name="login_id">"Имя учетной записи/WebStorage ID"</string>
+    <string description="logout account" name="logout_account" width="-1">Выход</string>
+    <string name="low_storage_tutorial_description">Коснитесь файла и, удерживая его, переместите в Google Диск</string>
+    <string name="low_storage_tutorial_title">Передать файлы в Google Диск</string>
+    <string name="m_permission_dialog_message">"Нажмите [Настройки] для включения разрешения [%2$s] в [Информация приложения] > [Разрешения], затем перезапустите %1$s."</string>
+    <string name="m_permission_dialog_positive_button">"Настройки"</string>
+    <string name="m_permission_setting_subtitle_files">"%1$s требуется разрешение %2$s для доступа к файлам на устройстве."</string>
+    <string name="m_permission_setting_title_cloud_storage">"Нет доступа к облачному хранилищу"</string>
+    <string name="m_permission_setting_title_files">"Нет доступа к файлам"</string>
+    <string name="m_permission_setting_turn_on">"Включить"</string>
+    <string description="string indicating how camera shooting feature is used" maxwidth="-1" name="manual">Вручную</string>
+    <string name="market_app_error">"Ошибка применения приложения, установленного на вашем устройстве!"</string>
+    <string description="ask user to enter email address as account name" maxwidth="-1" name="member_id_hint">"Введите адрес электронной почты"</string>
+    <string description="The title of a menu for General Preferences.Pressing the menu item lets user to view and edit his general settings" maxwidth="30" name="menu_general_preferences">Общие настройки</string>
+    <string description="settings menu tutorial" maxwidth="-1" name="menu_tutorial">Учебное руководство</string>
+    <string name="messenger_send_button_text">Отпр</string>
+    <string msgid="2486157997434653710" name="minute">"1 мин."</string>
+    <string msgid="6115838729146292526" name="minutes">"<ns1:g id="MINUTES">%s</ns1:g> мин."</string>
+    <string description="Hint: move the items" maxwidth="-1" name="move">Переместить</string>
+    <string name="move_or_delete_msg">"Удалить временно элементы в корзину?\n(Установите флажок ниже, чтобы окончательно удалить элементы.)"</string>
+    <string name="move_to">Переместить</string>
+    <string description="Toast: move to recycle bin fails" maxwidth="-1" name="move_to_hidden_zone_fail">"Сбой перемещения в скрытый кабинет"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="move_to_hidden_zone_progress">"Перемещение в скрытый кабинет..."</string>
+    <string description="Toast: move to recycle bin success" maxwidth="-1" name="move_to_hidden_zone_success_more">"Выбранные файлы перемещены в скрытый кабинет."</string>
+    <string description="Toast: move to recycle bin success. %s is variable string." maxwidth="-1" name="move_to_hidden_zone_success_one">"\"%s\" перемещен в скрытый кабинет."</string>
+    <string description="Toast: move to recycle bin fails" maxwidth="-1" name="move_to_trash_fail">"Сбой перемещения в корзину"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="move_to_trash_progress">"Перемещение в корзину..."</string>
+    <string description="Toast: move to recycle bin success" maxwidth="-1" name="move_to_trash_success_more">"Выбранные файлы перемещены в корзину"</string>
+    <string description="Toast: move to recycle bin success. %s is variable string." maxwidth="-1" name="move_to_trash_success_one">"\"%s\" перемещено в корзину"</string>
+    <string name="msg_too_big_to_recycle">"Эти элементы слишком большие для перемещения в корзину.\nУдалить их окончательно?"</string>
+    <string name="multi_drm_file_forbidden_operation">Данное действие запрещено, т.к. часть выбранных файлов защищена DRM.</string>
+    <string description="shortcut label" maxwidth="-1" name="my_camera_title">Камера</string>
+    <string description="shortcut label" maxwidth="-1" name="my_download_title">Скачать</string>
+    <string description="shortcut label" maxwidth="-1" name="my_music_title">Музыка</string>
+    <string description="shortcut label" maxwidth="-1" name="my_picture_title">Картинка</string>
+    <string description="storage label" maxwidth="-1" name="my_storage_title">Мой накопитель</string>
+    <string description="button text for sort file by name" maxwidth="-1" name="name">Название</string>
+    <string description="button text for sort file by name ascending" maxwidth="-1" name="name_ascending">Имя (я – а)</string>
+    <string description="button text for sort file by name descending" maxwidth="-1" name="name_descending">Имя (а – я)</string>
+    <string name="network_cta_hint">пожалуйста, примите для подключения к сети</string>
+    <string name="network_invalid">"Недопустимое сетевое подключение"</string>
+    <string name="network_invalid_info">"Недопустимое подключение. Проверьте и повторите попытку."</string>
+    <string name="network_not_available">"Сбой сетевого подключения"</string>
+    <string description="Can’t connect to networkpalce" maxwidth="-1" name="networkplace_access_error">"Подключение не удалось. Проверьте работу сервера."</string>
+    <string name="networkplace_storage_title">"Место в сети"</string>
+    <string description="Dialog Title: create new folder" maxwidth="" name="new_folder_dialog">Создать новую папку</string>
+    <string description="Toast: new folder fails" maxwidth="-1" name="new_folder_fail">Ошибка создания новой папки.</string>
+    <string description="Toast: new folder success. %s is variable string." maxwidth="-1" name="new_folder_success">Папка ""%s"" создана.</string>
+    <string maxwidth="" name="news_1"><b>Настраиваемая домашняя панель</b>: Теперь вы можете настроить свою домашнюю панель, используя различные категории и порядок размещения.</string>
+    <string maxwidth="" name="news_2"><b>Выборщик избранного</b>: Добавление избранной папки прямо из избранной категории.</string>
+    <string maxwidth="" name="news_3"><b>Виджет диспетчера файлов</b>: Создание ярлыка папки Загрузчика.</string>
+    <string maxwidth="" name="news_mark1">"★  "</string>
+    <string maxwidth="" name="news_subtitle">"Не пропустите это важное обновление."</string>
+    <string maxwidth="" name="news_title">"Новости"</string>
+    <string maxwidth="" name="news_v21"><b>Беспроводная передача файлов на/с ПК</b>: Передача/обработка файлов на/с ПК</string>
+    <string maxwidth="" name="news_v23">"Повышение производительности и устранение ошибок"</string>
+    <string maxwidth="" name="news_v31">"Анализатор хранилища позволяет узнать тип файлов, которые занимают место"</string>
+    <string maxwidth="" name="news_v32">"Новые категории приложения"</string>
+    <string name="news_v41">"Скрыть частные файлы в скрытом кабинете"</string>
+    <string name="news_v42">"Восстановить удаленные файлы из корзины"</string>
+    <string name="news_v43">"Удалить дублирующиеся файлы из анализатора хранилища"</string>
+    <string name="news_v44">"Новая функция дисплея - Темный режим"</string>
+    <string name="news_v45">"Улучшенная производительность"</string>
+    <string name="news_v46">"Исправленные ошибки"</string>
+    <string name="newversion_description">"Доступна новая версия Диспетчера файлов. Обновить сейчас?"</string>
+    <string name="newversion_title">"Новая версия"</string>
+    <string name="next">Далее</string>
+    <string description="Dialog Button: no for dialog" maxwidth="" name="no">Нет</string>
+    <string name="no_device">"Нет устройства"</string>
+    <string name="no_items">"Нет элементов"</string>
+    <string name="no_network">"Нет сетевого подключения"</string>
+    <string description="The description to inform users when there is no internet access" maxwidth="-1" name="no_network_connection_message">"Проверьте подключение и повторите попытку"</string>
+    <string name="no_network_info">"Для доступа к данному приложению требуется подключение к Интернету. Включите мобильную сеть или WiFi в меню "Параметры"."</string>
+    <string name="no_password">"Введите пароль"</string>
+    <string name="no_right">"У вашей учетной записи нет прав для входа в систему."</string>
+    <string name="no_share_folder">На этом устройстве нет общих файлов</string>
+    <string description="Toast: No space to copy file and left on device" maxwidth="-1" name="no_space_fail">Недостаточно места</string>
+    <string name="no_user_exist">"Имя пользователя не существует"</string>
+    <string name="no_username">"Сначала введите имя пользователя."</string>
+    <string name="notification_gdrive_redeem_content">"Получить его СЕЙЧАС на Google Диск." "</string>
+    <string name="notification_gdrive_redeem_title">"Бесплатное хранилище на 100 ГБ!"</string>
+    <string name="occur_error_do_relogin">"Повторно войти в %s"</string>
+    <string description="Dialog Button: ok for dialog" maxwidth="" name="ok">OK</string>
+    <string name="onedrive_account_only_one_alert">"Можно добавлять только один OneDrive для учетной записи ASUS. Перед заменой на новую удалите текущую учетную запись."</string>
+    <string name="open">Открыть</string>
+    <string description="Toast: open file fails" maxwidth="-1" name="open_fail">Ошибка открытия файла.</string>
+    <string maxwidth="" name="open_source_license_description">"Сведения о лицензиях на ПО с открытым исходным кодом"</string>
+    <string maxwidth="" name="open_source_license_title">"Лицензии открытого исходного кода"</string>
+    <string name="othersforum_site_url">http://www.asus.com/ru/Terms_of_Use_Notice_Privacy_Policy/OthersForum_Site/</string>
+    <string name="password">Пароль</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="paste">Вставить</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="paste_exist_apply">Применить ко всем</string>
+    <string description="Dialog Title: paste exist dialog title" maxwidth="" name="paste_exist_dialog">Одинаковое имя файла</string>
+    <string description="Dialog Content: text in dialog. %s is variable string." maxwidth="" name="paste_exist_file">Файл  ""%s"" уже существует.</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="paste_exist_replace">Вы хотите заменить на новый?</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="paste_exist_to">на</string>
+    <string description="Toast: paste fails" maxwidth="-1" name="paste_fail">Ошибка вставки файлов.</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="paste_progress">Вставка...</string>
+    <string name="paste_progress_title">Выполняется другое задание копирования</string>
+    <string description="Toast: paste success. %s is variable string." maxwidth="-1" name="paste_success">Файлы были добавлены в ""%s"".</string>
+    <string name="permanently_delete">"Окончательно удалить"</string>
+    <string description="Toast: operation permission deny" maxwidth="-1" name="permission_deny">Доступ запрещен.</string>
+    <string name="permission_dialog_title">"Разрешение для приложения"</string>
+    <string name="permission_essential">"Требуются разрешения. Перейти в меню «Настройки», чтобы включить разрешения!"</string>
+    <string name="permission_reason_contact">"Для входа в облачное хранилище Диспетчеру файлов необходим доступ к данным вашей учетной записи."</string>
+    <string name="permission_reason_storage">"Для надлежащей работы Диспетчеру файлов необходим доступ к накопителю вашего устройства"</string>
+    <string description="Toast: You may not select more than %s photos." maxwidth="-1" name="photo_selection_limit_number_toast">Выбрать не более %s фотографий</string>
+    <string description="This is the title of the screen for setting user preferences." maxwidth="-1" name="preferences_title">Настройки</string>
+    <string name="previous_folder">"Предыдущая папка"</string>
+    <string maxwidth="" name="privacy_policy">"Политика конфиденциальности"</string>
+    <string name="privacy_policy_url">http://www.asus.com/us/Terms_of_Use_Notice_Privacy_Policy/Privacy_Policy/</string>
+    <string name="processing_picture">"\u041e\u0431\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u0438\u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u044f"</string>
+    <string name="processing_video">"\u041e\u0431\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u0432\u0438\u0434\u0435\u043e"</string>
+    <string name="progressactivity_title">Transmission Manager</string>
+    <string name="promote_darkmode_message">"Измените свойства в %s"</string>
+    <string name="promote_darkmode_title">"Новая функция дисплея - Темный режим"</string>
+    <string name="promotion_notification_content">"Попробуйте режим \"Беспроводная передача данных\"!"</string>
+    <string name="promotion_notification_title">"Используете USB-кабель для передачи файлов?"</string>
+    <string name="publish">"\u041e\u043f\u0443\u0431\u043b\u0438\u043a\u043e\u0432\u0430\u0442\u044c"</string>
+    <string name="pullfreshlistview_footer_hint_normal">Загрузить другое</string>
+    <string name="pullfreshlistview_footer_hint_ready">Отпустите, чтобы загрузить другое</string>
+    <string name="pullfreshlistview_header_hint_loading">Обновление...</string>
+    <string name="pullfreshlistview_header_hint_normal">Потянуть вниз</string>
+    <string name="pullfreshlistview_header_hint_ready">Отпустите для обновления</string>
+    <string name="pullfreshlistview_header_last_time">Время последнего обновления:</string>
+    <string name="rate_later">"Потом"</string>
+    <string name="rate_now">"Оценить сейчас"</string>
+    <string description="rate us" maxwidth="-1" name="rate_us">"Оценить нас"</string>
+    <string name="rating_dialog_message_v3_1">"Вам нравится %s? Оцените нас на Google Play, чтобы поддержать наше вдохновение!"</string>
+    <string name="rating_dialog_message_v3_2">"Свои предложения и отзывы отправляйте нам через %s."</string>
+    <string name="recent_files_content_hint">"Найти последние файлы и удалить их при разрешении."</string>
+    <string description="shortcut title: recently used files" name="recently_used" width="-1">Недавние</string>
+    <string name="recommend_clean_master_msg">"Самые надежные в мире приложения Android Optimizer, Speed Booster, Battery Saver и Free Anti-Virus. \nЗагрузить сейчас?"</string>
+    <string name="recommend_clean_master_title">"Рекомендованные приложения"</string>
+    <string name="recommend_scan_qr_code">"Расскажите друзьям о том, что\n это приложение можно загрузить, считав QR-код."</string>
+    <string description="recruit beta user" maxwidth="-1" name="recruit_beta_user">Получить демонстрационную версию</string>
+    <string name="recycle_bin_content_hint">"Содержит все удаленные файлы и папки."</string>
+    <string description="dialog title, key in the asus ID and PW to Login account" maxwidth="-1" name="regist_asus_id">"Создание учетной записи ASUS"</string>
+    <string description="ask user to enter email address to registe New Account" name="registe_id">Имя пользователя</string>
+    <string description="ask user to enter new password" name="registe_password">Введите 8~25 символов</string>
+    <string description="sign up registe action" name="registe_sign_up">Регистрация</string>
+    <string description="network is unavailable, please try again" maxwidth="-1" name="remote_connected_error_hint">Отсутствует подключение к сети, повторите попытку</string>
+    <string description="remote storage label" maxwidth="-1" name="remote_storage_title">Удаленное хранилище</string>
+    <string name="remove_favorite">Удалить из избранного</string>
+    <string name="remove_favorite_notice_more">Удалить %d элементов из папки "Избранное"?</string>
+    <string name="remove_favorite_notice_one">Удалить \"%s\" из папки "Избранное"?</string>
+    <string name="remove_favorite_success">Удаление выполнено успешно</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="rename">Переименовать</string>
+    <string description="Dialog Title: rename dialog title" maxwidth="" name="rename_dialog">Переименовать</string>
+    <string description="Toast: rename fails" maxwidth="-1" name="rename_fail">Ошибка переименования файла.</string>
+    <string name="rename_favorite_folder">Переименовать папку "Избранное"</string>
+    <string name="rename_favorite_notice">В "Избранном" папка с таким именем уже существует, переименовать?</string>
+    <string name="rename_favorite_success">Успешное переименование и сохранение в избранном</string>
+    <string description="Toast: rename success" maxwidth="-1" name="rename_success">Файл переименован.</string>
+    <string description="renaming file" name="renaming_file" width="-1">Переименование</string>
+    <string name="replace">"Заменить"</string>
+    <string description="Toast: restore fails" maxwidth="-1" name="restore_fail">"Сбой восстановления"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="restore_progress">"Восстановление..."</string>
+    <string description="Toast: restore success" maxwidth="-1" name="restore_success_more">"Выбранные файлы восстановлены"</string>
+    <string description="Toast: restore success. %s is variable string." maxwidth="-1" name="restore_success_one">"\"%s\" восстановлено"</string>
+    <string name="retention_notification_large_file">"Вы добавили %1$s больших файлов. Просмотрите их."</string>
+    <string name="retention_notification_recent_file">"Последние файлы занимают объем %1$s. Просмотрите их."</string>
+    <string name="saf_permission_tutorial_content">Диспетчер файлов ASUS запрашивает доступ к вашей SD-карте. Предоставить доступ?</string>
+    <string name="saf_permission_tutorial_content_v2">"Необходимо выполнить ряд действий для предоставления %s прав доступа."</string>
+    <string name="saf_permission_tutorial_dialog">"Процедура выполняется для предоставления прав доступа к карте памяти SD. Продолжить?"</string>
+    <string name="saf_permission_tutorial_title">Запросить доступ к SD-карте</string>
+    <string name="saf_tutorial_step_one">Коснитесь значка "Меню", затем "Показать SD-карту".</string>
+    <string name="saf_tutorial_step_three">Коснитесь "Выбрать SD-карту", чтобы предоставить доступ диспетчеру файлов ASUS.</string>
+    <string name="saf_tutorial_step_three_v2">"Нажмите "Выбрать %s" для предоставления доступа к Диспетчеру файлов ASUS."</string>
+    <string name="saf_tutorial_step_two">Сдвиньте пальцем левый край экрана, чтобы отобразить секцию, затем коснитесь SD-карты.</string>
+    <string name="saf_tutorial_step_two_v2">"Прокрутите слева от края экрана для отображения ящика, затем нажмите %s."</string>
+    <string name="saf_tutorial_title">Разрешить работу с SD-картой</string>
+    <string name="saf_tutorial_title_v2">"Разрешение на использование %s"</string>
+    <string description="account config dialog remind message" maxwidth="-1" name="samba_client_config_check">Запомнить имя пользователя и пароль, в следующий раз подключаться напрямую</string>
+    <string name="samba_input_error">Поле имени пользователя или пароля не должно быть пустым!</string>
+    <string name="samba_login_error">Неверное имя пользователя или пароль.</string>
+    <string name="samba_storage_add_title">В сетевое окружение</string>
+    <string name="samba_storage_title">"SAMBA"</string>
+    <string name="scan_qr_code">"Считать QR-код"</string>
+    <string description="rate now" maxwidth="" name="scroll_up_toast">Прокрутите для оценки</string>
+    <string maxwidth="-1" name="sd_label">OneDrive для ASUS</string>
+    <string name="search_action">Поиск</string>
+    <string description="search hint message" maxwidth="-1" name="search_hint">Введите имя файла</string>
+    <string description="cutstom action bar view title for search" maxwidth="-1" name="search_label">Поиск файлов</string>
+    <string description="search dialog message" maxwidth="-1" name="search_progress">Поиск...</string>
+    <string description=" text for search result" formatted="false" maxwidth="-1" name="search_result_title">Поиск %s в %s: обнаружено %d файлов</string>
+    <string name="select_album">Выбор альбома</string>
+    <string description="Menu Option: select all checkbox" maxwidth="" name="select_all">Выбрать все</string>
+    <string description="Title: select the folder" maxwidth="-1" name="select_folder">Выберите папку</string>
+    <string name="select_folder_by_ok_button">"Нажмите %1$s для выбора данной папки"</string>
+    <string name="select_photo">Выберите фото</string>
+    <string name="server">Сервер:</string>
+    <string name="server_error">"Ошибка сервера"</string>
+    <string name="server_hint">"172.0.0.1/ShareFolder"</string>
+    <string name="server_title">Сервер</string>
+    <string maxwidth="-1" name="service_not_available_in_your_country">"Данный элемент недоступен для вашей страны."</string>
+    <string name="set_password_title">"Создать PIN-код"</string>
+    <string name="set_ring">"Установить как кольцо"</string>
+    <string name="setting_display_group">"Дисплей"</string>
+    <string name="setting_notification_group">"Уведомление"</string>
+    <string name="setting_notification_large_files">"Уведомление о большом файле"</string>
+    <string name="setting_notification_recent_files">"Уведомление о последних файлах"</string>
+    <string name="setting_notification_wireless_transfer">"Уведомление о беспроводной передаче"</string>
+    <string name="setting_view_group">"Настройка просмотра"</string>
+    <string name="setting_view_hide_files">"Скрыть системные файлы"</string>
+    <string name="settings">"Параметры"</string>
+    <string description="This is the title of cache size" maxwidth="-1" name="settings_cache_size_title">Размер кэша</string>
+    <string description="Remove all cache documents" maxwidth="-1" name="settings_clear_cache_info">Извлеките все документы кэша</string>
+    <string description="Clear the cache" maxwidth="-1" name="settings_clear_cache_title">Очистить кэш</string>
+    <string description="This is the title of clearing search history action for setting user preferences." maxwidth="-1" name="settings_clear_search_history">Очистить историю поиска</string>
+    <string name="settings_darkmode_message">"Применить темный режим"</string>
+    <string name="settings_description">"Локальные папки и файлы"</string>
+    <string description="This is the title of documents cache" maxwidth="-1" name="settings_documents_cache">Документы Кэш</string>
+    <string description="recommend text" maxwidth="" name="settings_encourage_us_detail">Если вам понравился %s, пожалуйста, оцените его по 5-балльной шкале в Play Store. Это будет стимулом для усовершенствования продукта!</string>
+    <string description="This is the title of hiding system files action for setting user preferences." maxwidth="-1" name="settings_hide_system_files">Скрыть системные файлы</string>
+    <string description="This is the title of moving to the trash can." maxwidth="-1" name="settings_moved_to_the_trash_can">Переехал в мусорное ведро</string>
+    <string description="Remove account" maxwidth="-1" name="settings_remove_account">Удалить учетную запись</string>
+    <string description="Set the cache size to %s" maxwidth="-1" name="settings_set_cache_size">"Объем кэш-памяти установлен в положение \"%s\""</string>
+    <string description="This is the title of space used for setting user preferences." maxwidth="-1" name="settings_space_used">Используется места</string>
+    <string description="This is the title of trash can information for setting user preferences." maxwidth="-1" name="settings_trash_can">Мусорное ведро</string>
+    <string description="This is the title of user name" maxwidth="-1" name="settings_user_name">Имя пользователя</string>
+    <string name="setup">"Настройка"</string>
+    <string name="setup_account_description">"Настройте учетную запись электронной почты для извлечения PIN-кода"</string>
+    <string name="setup_account_no_internet_connection">"Нет интернет-подключения"</string>
+    <string name="setup_account_skip">"Пропустить"</string>
+    <string name="setup_account_title">"Извлечь PIN-код"</string>
+    <string name="setup_fingerprint_message">"Активировать отпечаток пальца для разблокировки? Скрытый кабинет поддерживает проверку отпечатка пальца. Просканируйте отпечаток пальца в настройках для начала работы."</string>
+    <string name="setup_my_digital_code">"Настроить PIN-код"</string>
+    <string name="share_more">"Прочее"</string>
+    <string name="share_with_friend">"Откройте доступ к приложению своим друзьям"</string>
+    <string description="Context Menu: options of context menu: share folder via Wi-Fi Direct" maxwidth="" name="shared_folder">Совместное пользование файлами через Wi-Fi Direct</string>
+    <string description="shortcit title" maxwidth="-1" name="short_cuts_title">Ярлык</string>
+    <string name="shortcut_hint">"Коснитесь и удерживайте категорию или папку для создания ярлыка в программе запуска приложений."</string>
+    <string description="check if user want to show password" name="show_passwd">Показать пароль</string>
+    <string description="show when sign in failed" maxwidth="-1" name="signin_failed">"Вход в систему не удался"</string>
+    <string description="signout account" name="signout_account" width="-1">Отключить</string>
+    <string name="single_drm_file_forbidden_operation">Данное действие запрещено, т.к. оно защищено DRM.</string>
+    <string description="button text for sort file by size" maxwidth="-1" name="size">Размер</string>
+    <string description="button text for sort file by size ascending" maxwidth="-1" name="size_ascending">Размер (большой – маленький)</string>
+    <string description="button text for sort file by size descending" maxwidth="-1" name="size_descending">Размер (маленький – большой)</string>
+    <string name="ssl_err_msg_info">"Невозможно установить безопасное соединение с сервером. Продолжить?"</string>
+    <string name="ssl_err_msg_title">"Ошибка SSL-подключения"</string>
+    <string description="shortcut title: my favorite files" name="starred" width="-1">Избранные</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">">999"</string>
+    <string name="storage_type_cloud">Облачное хранилище</string>
+    <string name="storage_type_cloud_att">"Сетевое хранилище"</string>
+    <string name="storage_type_local">Локальный накопитель</string>
+    <string name="storage_type_shortcut">"Ярлык"</string>
+    <string name="storagetype_add_account">Добавить учетную запись</string>
+    <string name="tap_to_exit">Повторите касание для выхода</string>
+    <string name="target_directory_is_child_of_source">"Невозможно выполнить операцию, поскольку целевой каталог является дочерним исходного каталога."</string>
+    <string description="Toast: target file exists" maxwidth="-1" name="target_exist">Целевой файл существует.</string>
+    <string description="Toast: target folder exists. %s is variable string." maxwidth="-1" name="target_folder_exist">"Папка: \"%s\" уже существует."</string>
+    <string description="" maxwidth="" name="tell_friend">Рассказать другу</string>
+    <string maxwidth="" name="terms_of_service">"Условия использования"</string>
+    <string maxwidth="" name="terms_of_service_url">http://www.asus.com/us/Terms_of_Use_Notice_Privacy_Policy/Official-Site/</string>
+    <string description="title" maxwidth="-1" name="title">Правовая информация:</string>
+    <string name="toast_auto_lock_notify_message">"Заблокировать скрытый кабинет при блокировке устройства"</string>
+    <string description="Toast: The item(s) has been copied completely" maxwidth="-1" name="toast_drag_copied_items">Элемент(ы) скопированы</string>
+    <string description="Toast: The item(s) has been moved completely" maxwidth="-1" name="toast_drag_moved_items">Элемент(ы) перемещены</string>
+    <string description="Toast: Sorry, copy files complete but cut fail" maxwidth="-1" name="toast_warning_copy_comple_cut_fail">К сожалению, скопируйте файлы уже завершена, но удалить старые файлы неудачу</string>
+    <string description="Toast: Sorry, copy folders has not been supported" maxwidth="-1" name="toast_warning_copy_folders">К сожалению, папки копирования не поддерживается</string>
+    <string maxwidth="35" name="toolbar_item_title_encourage_us">Поддержите нас</string>
+    <string name="tools_clean_master">"Очистить остаточные файлы"</string>
+    <string name="tools_file_transfer">"Передача файлов ПК"</string>
+    <string name="tools_hidden_zone">"Скрытый кабинет"</string>
+    <string name="tools_recycle_bin">"Корзина"</string>
+    <string name="tools_storage_analyzer">"Анализатор хранилища"</string>
+    <string name="tools_tip_animation">"Потяните для доступа к инструментам!"</string>
+    <string name="tools_zenui_instant_update">"Мгновенное обновление"</string>
+    <string description="shortcut title: trash can" name="trash_can" width="-1">Мусорное ведро</string>
+    <string maxwidth="-1" name="trash_info_deleted">"Дата удаления: "</string>
+    <string maxwidth="-1" name="trash_info_path">"Исходный путь: "</string>
+    <string description="label for trending searches" maxwidth="-1" name="trending_searches">"Популярные запросы"</string>
+    <string name="tutorial_analyzer_content">"Анализатор хранилища позволяет вам узнать, какие файлы занимают больше всего места."</string>
+    <string name="tutorial_category_content">"Поиск файлов еще никогда не был так удобен с видом категории Диспетчера файлов ASUS."</string>
+    <string name="tutorial_category_title">"Вид категории"</string>
+    <string name="tutorial_cloud_content">"Доступ к файлам со смартфона, ПК или облачных хранилищ."</string>
+    <string name="tutorial_cloud_title">"Облачное хранение"</string>
+    <string name="tutorial_done">Готово</string>
+    <string name="tutorial_page_content_long_press">Нажмите и удерживайте элемент, затем щелкните значок \"Меню\" для отображения других доступных операций.</string>
+    <string name="tutorial_page_four_content">Для удобства и быстрого доступа задайте в качестве папки "Избранное" часто используемую папку.</string>
+    <string name="tutorial_page_four_title">Избранное</string>
+    <string name="tutorial_page_one_content">Диспетчер файлов ASUS позволяет легко управлять вашими файлами, хранящимися на внешних и внутренних хранилищах, а также на ресурсах локальной сети или облака.</string>
+    <string name="tutorial_page_one_title">Диспетчер файлов ASUS</string>
+    <string name="tutorial_page_three_content">Сдвиньте пальцем элемент вправо, чтобы отобразить действия управления файлами, такие как "Добавить в избранное", "Переименовать", "Переместить", "Копировать" и другие.</string>
+    <string name="tutorial_page_three_title">Сдвиньте вправо список действий</string>
+    <string name="tutorial_page_title_long_press">Отобразить меню операций</string>
+    <string name="tutorial_page_two_content">Удобная разбивка по категориям облегчает и ускоряет работу с файлами на локальном накопителе.</string>
+    <string name="tutorial_page_two_title">Домашняя страница</string>
+    <string name="tutorial_skip">Пропустить</string>
+    <string description="button text for sort file by type" maxwidth="-1" name="type">Тип</string>
+    <string description="document type" maxwidth="-1" name="type_abu">"Asus App Backup"</string>
+    <string description="document type" maxwidth="-1" name="type_apk">Программа для Android</string>
+    <string description="document type" maxwidth="-1" name="type_audio">Аудио</string>
+    <string description="document type" maxwidth="-1" name="type_book">Электронная книга</string>
+    <string name="type_dialog_audio">Аудио</string>
+    <string name="type_dialog_image">Изображение</string>
+    <string name="type_dialog_text">Текст</string>
+    <string name="type_dialog_title">открыть как</string>
+    <string name="type_dialog_video">Видео</string>
+    <string description="document type" maxwidth="-1" name="type_directory">Директория</string>
+    <string description="document type" maxwidth="-1" name="type_document">Документ</string>
+    <string description="document type" maxwidth="-1" name="type_file">"файл"</string>
+    <string description="document type" maxwidth="-1" name="type_image">Изображения</string>
+    <string description="document type" maxwidth="-1" name="type_playlist">Плейлист</string>
+    <string description="document type" maxwidth="-1" name="type_rar">"RAR"</string>
+    <string description="document type" maxwidth="-1" name="type_video">Видео</string>
+    <string description="document type" maxwidth="-1" name="type_zip">Zip</string>
+    <string name="ud_sdk_all_app_update">"Все приложения выполняются в соответствии со своими текущими версиями."</string>
+    <string name="ud_sdk_asus_app_slogan">полезное приложение</string>
+    <string name="ud_sdk_downloads">Загрузки</string>
+    <string name="ud_sdk_free_download">Бесплатная загрузка</string>
+    <string name="ud_sdk_important_remind_text">"Важно!"</string>
+    <string name="ud_sdk_install">Установить</string>
+    <string name="ud_sdk_more_zen_family">Открыть другие приложения ZenUI</string>
+    <string name="ud_sdk_no_network_connection_content">Невозможно обновить данные. Проверьте параметры сети.</string>
+    <string name="ud_sdk_no_network_connection_title">Сеть не подключена</string>
+    <string name="ud_sdk_open">Открыть</string>
+    <string name="ud_sdk_update">Обновить</string>
+    <string maxwidth="-1" name="ud_sdk_update_sdk">Семейство ZenUI</string>
+    <string maxwidth="-1" name="ud_sdk_update_sdk_asus">Быстрое обновление ZenUI</string>
+    <string name="ud_sdk_wifi_settings">Настройки Wi-Fi</string>
+    <string name="uf_sdk_already_give_5star">"Уже оценили в 5 звезд"</string>
+    <string description="%d is a number, don&apos;t translate" name="uf_sdk_article_read_count">"%d просмотров"</string>
+    <string name="uf_sdk_attachment_format_warning">"Неверный формат файла. Можно прикрепить только изображения"</string>
+    <string name="uf_sdk_attachment_total_size">"Всего"</string>
+    <string name="uf_sdk_attachment_warning">"Размер вложения превышает допустимый предел"</string>
+    <string maxwidth="-1" name="uf_sdk_cancel_btn_content">"Отмена"</string>
+    <string name="uf_sdk_choosertitle_sharevia">"Способ отправки"</string>
+    <string name="uf_sdk_connection_error_msg">"Подключение прервано сервером. Повторите попытку позже."</string>
+    <string name="uf_sdk_connection_error_title">"Ошибка подключения"</string>
+    <string name="uf_sdk_discard">"Отменить"</string>
+    <string name="uf_sdk_email_illigal">"Адрес эл. почты уже используется"</string>
+    <string maxwidth="-1" name="uf_sdk_empty_notification">"Пусто :)"</string>
+    <string name="uf_sdk_faq">"Вопросы и ответы"</string>
+    <string name="uf_sdk_feedback_and_help">"Обратная связь и помощь"</string>
+    <string name="uf_sdk_forum_description">"Присоединяйтесь к обсуждению с другими пользователями ASUS для совместного поиска решений"</string>
+    <string maxwidth="-1" name="uf_sdk_grant_permission_title">"Предоставить разрешения"</string>
+    <string name="uf_sdk_help">"Справка"</string>
+    <string name="uf_sdk_instant_answer_question">"Эти Вопросы и ответы полезны?"</string>
+    <string name="uf_sdk_like">"Нравится"</string>
+    <string maxwidth="-1" name="uf_sdk_message">"Уведомления"</string>
+    <string name="uf_sdk_msg_bad_email_format">"Недействительный адрес электронной почты. Пожалуйста, попробуйте еще раз."</string>
+    <string name="uf_sdk_msg_confirm_discard_topic">"Черновик не сохраняется. Все равно удалить?"</string>
+    <string name="uf_sdk_msg_confirm_discard_topic_title">"Удалить сообщение?"</string>
+    <string name="uf_sdk_msg_subscribe">"Система будет уведомлять вас об изменениях в теме по электронной почте."</string>
+    <string name="uf_sdk_msg_subscribe_success">"Подписка выполнена успешно"</string>
+    <string name="uf_sdk_msg_ticket_created">"Ваш отзыв успешно отправлен в ASUS"</string>
+    <string name="uf_sdk_msg_topic_created">"Успешно опубликовано"</string>
+    <string name="uf_sdk_msg_unsubscribe">"Отказ от подписки произведен успешно"</string>
+    <string name="uf_sdk_name_hint">"Введите ваше имя"</string>
+    <string name="uf_sdk_name_illigal">"Имя пользователя уже используется"</string>
+    <string name="uf_sdk_network_error">"Нет подключения к сети Интернет, пожалуйста, проверьте настройки сети."</string>
+    <string description="zenui news" maxwidth="" name="uf_sdk_news">"Новости"</string>
+    <string name="uf_sdk_no_network_connection_content">"Подключение прервано сервером. Пожалуйста, повторите попытку позже."</string>
+    <string name="uf_sdk_no_network_connection_title">"Нет подключения к сети"</string>
+    <string name="uf_sdk_nothing_found">"Ничего не найдено"</string>
+    <string name="uf_sdk_notice">"Обратите внимание"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category1">"Извещения"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category2">"Учебные руководства и советы"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category3">"Предложения"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category4">"События"</string>
+    <string name="uf_sdk_publish_an_topic">"Опубликовать новую тему"</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_rate_now">"Оценить сейчас"</string>
+    <string description="%s is AP name, don&apos;t translate" maxWidth="" name="uf_sdk_rate_us_detail">"Если вам понравился %s, поставьте нам 5 звезд в Play Store."</string>
+    <string maxWidth="" name="uf_sdk_rate_us_detail_new">"Ваша оценка в 5 звезд вдохновит нас на продолжение нашей работы!"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_rating">"5-звездочный рейтинг"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title">"Оцените нас!"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title_new">"Поощрите нас!"</string>
+    <string description="Menu item for userFeedback sdk" maxwidth="-1" name="uf_sdk_report_bug">"Отчет об ошибке"</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_scroll_up_toast">"Прокрутите для оценки"</string>
+    <string name="uf_sdk_search_hint">"Поиск справки"</string>
+    <string name="uf_sdk_select_common_bug">"Выберите общую ошибку"</string>
+    <string name="uf_sdk_send_feedback">"Отправить отзыв"</string>
+    <string name="uf_sdk_send_feedback_help">"Ваши отзыв и адрес электронной почты будут отправлены ASUS. Отдел обслуживания свяжется с Вами по электронной почте."</string>
+    <string maxwidth="-1" name="uf_sdk_setting_btn_content">"Настройки"</string>
+    <string description="recommend title" maxwidth="" name="uf_sdk_settings_encourage_us_title">"Поощрите нас"</string>
+    <string maxwidth="-1" name="uf_sdk_storage_permission_description">"Данная функция требует разрешения к хранилищу для доступа к файлам мультимедиа. \n\nЕсли вы хотите включить данную функцию, нажмите кнопку Настройки для перехода на страницу Настройки, затем выберите \"Информация приложения\" > \"Разрешения\" для предоставления разрешения.\n"</string>
+    <string name="uf_sdk_submit_topic">"Опубликовать"</string>
+    <string name="uf_sdk_subscribe_dialog_title">"Подписаться на эту тему"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_answered">"Отвечено"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_completed">"выполнено"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_declined">"отклонено"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_implemented">"Исполнено"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_planned">"планируется"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_under_review">"рассматривается"</string>
+    <string name="uf_sdk_thanks_for_your_feedback">"Спасибо за ваш отзыв!"</string>
+    <string description="%s is a application name, don&apos;t translate" name="uf_sdk_ticket_hint">"Введите отзыв для %s"</string>
+    <string name="uf_sdk_title_topic">"Тема"</string>
+    <string name="uf_sdk_topic">"Тема"</string>
+    <string name="uf_sdk_topic_description_heading">"Описание"</string>
+    <string name="uf_sdk_topic_description_hint">"Подробно опишите тему"</string>
+    <string name="uf_sdk_topic_filter">"ТЕМЫ"</string>
+    <string name="uf_sdk_topic_form_help">"При публикации темы на форуме другие пользователи смогут подписаться на нее и комментировать. Если разработчики ASUS ответят в этой теме, вы получите уведомление по электронной почте."</string>
+    <string name="uf_sdk_topic_form_title">"Опубликовать новую тему"</string>
+    <string name="uf_sdk_topic_text_heading">"Форум"</string>
+    <string name="uf_sdk_topic_text_hint">"Введите название темы"</string>
+    <string name="uf_sdk_topic_title">"Название"</string>
+    <string name="uf_sdk_translation_10117605">"Вопрос перевода"</string>
+    <string name="uf_sdk_translation_117562">"Тип обратной связи"</string>
+    <string name="uf_sdk_translation_2529543">"Отчет об ошибках"</string>
+    <string name="uf_sdk_translation_2529544">"Другое"</string>
+    <string name="uf_sdk_translation_2530478">"Предложение"</string>
+    <string name="uf_sdk_unhelpful_article_message_question">"Хотите отправить отзыв разработчикам ASUS?"</string>
+    <string name="uf_sdk_user_forum">"Форум пользователей"</string>
+    <string name="uf_sdk_warning">"Внимание"</string>
+    <string name="uf_sdk_wifi_settings">"Настройки Wi-Fi"</string>
+    <string name="uf_sdk_wlan_settings">"Настройки WLAN"</string>
+    <string name="uf_sdk_write_your_feedback">"Введите отзыв здесь"</string>
+    <string name="uf_sdk_your_draft_will_be_discarded">"Ваш черновик будет удален".</string>
+    <string description="description for empty search result" maxwidth="-1" name="unable_to_find_artlcles">"Не удалось найти статьи, относящиеся к \u0022%s\u0022"</string>
+    <string description="string indicating the length units in milli-meters" maxwidth="-1" name="unit_mm">мм</string>
+    <string description="Context Menu: options of context menu: unshare folder" maxwidth="-1" name="unshared_folder">Отключить общий доступ</string>
+    <string name="unsupported_area">"Данный регион не поддерживается"</string>
+    <string description="toast message: extract files fail" maxwidth="-1" name="unzip_fail">Ошибка извлечения файлов</string>
+    <string description="extract file dialog message" maxwidth="-1" name="unzip_progress_msg">Извлечение...</string>
+    <string description="toast message: extract files successly" maxwidth="-1" name="unzip_success">Файлы успешно извлечены</string>
+    <string name="update">"\u041e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435"</string>
+    <string name="update_fb_app">"\u041c\u043e\u0431\u0438\u043b\u044c\u043d\u043e\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0434\u043b\u044f Facebook \u043d\u0435 \u043e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u043e. \u041f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u044e\u044e \u0432\u0435\u0440\u0441\u0438\u044e \u0438\u0437 Google Play."</string>
+    <string name="upgrade_notification_content">Просмотрите файлы, упорядоченные по типу, на нашем новом главном экране.</string>
+    <string name="upgrade_notification_title">Испытайте Диспетчер файлов в работе прямо сейчас!</string>
+    <string name="upload_complete">"\u0417\u0430\u0433\u0440\u0443\u0437\u043a\u0430 \u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u0430"</string>
+    <string name="upload_complete_dialog_message">"\u0412\u0438\u0434\u0435\u043e \u0443\u0441\u043f\u0435\u0448\u043d\u043e \u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043d\u043e"</string>
+    <string name="upload_complete_dialog_title">"\u0417\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u043e"</string>
+    <string name="upload_fail">Ошибка отправки!</string>
+    <string name="upload_failed">"\u041e\u0448\u0438\u0431\u043a\u0430 \u043f\u0440\u0438 \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0435"</string>
+    <string name="upload_picture_toast">"\u0418\u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u0435 \u0431\u0443\u0434\u0435\u0442 \u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043d\u043e. \u041f\u0440\u043e\u0433\u0440\u0435\u0441\u0441 \u043e\u0442\u043e\u0431\u0440\u0430\u0436\u0430\u0435\u0442\u0441\u044f \u0432 \u043e\u043a\u043d\u0435 \u0443\u0432\u0435\u0434\u043e\u043c\u043b\u0435\u043d\u0438\u0439"</string>
+    <string name="upload_toast">"\u0412\u0430\u0448\u0435 \u0432\u0438\u0434\u0435\u043e \u0431\u0443\u0434\u0435\u0442 \u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043d\u043e. \u0421\u043c\u043e\u0442\u0440\u0438\u0442\u0435 \u043f\u0440\u043e\u0433\u0440\u0435\u0441\u0441 \u0432 \u043e\u043a\u043d\u0435 \u0443\u0432\u0435\u0434\u043e\u043c\u043b\u0435\u043d\u0438\u0439."</string>
+    <string name="uploading_picture">"\u0417\u0430\u0433\u0440\u0443\u0437\u043a\u0430 \u0438\u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u044f"</string>
+    <string name="uploading_video">"\u0417\u0430\u0433\u0440\u0443\u0437\u043a\u0430 \u0432\u0438\u0434\u0435\u043e..."</string>
+    <string name="user">Имя пользователя</string>
+    <string name="user_hint">администратор</string>
+    <string name="uv_admin_response_format">"Ответ админа: %1$s"</string>
+    <string name="uv_all_articles">"Все статьи"</string>
+    <string name="uv_all_results_filter">"ВСЕ"</string>
+    <string name="uv_android_sdk">Android SDK</string>
+    <string name="uv_article_browse_question">"Полезна ли эта статья?"</string>
+    <string name="uv_article_instant_answer_question">"Полезны ли эти Вопросы и ответы?"</string>
+    <string name="uv_cancel">"Отмена"</string>
+    <string name="uv_category">"Категория"</string>
+    <string name="uv_close">"Закрыть"</string>
+    <string name="uv_comment_hint">"Введите ваш комментарий"</string>
+    <string name="uv_confirm">"Подтвердить"</string>
+    <string name="uv_contact_continue_button">"Я все еще хочу отправить сообщение"</string>
+    <string name="uv_contact_hint">"Введите ваш вопрос или отзыв"</string>
+    <string name="uv_contact_us">"Контакты"</string>
+    <string name="uv_display_name">"Отображаемое имя"</string>
+    <string name="uv_email_address">"Адрес электронной почты"</string>
+    <string name="uv_email_address_hint">"Ваша эл. почта (обязательно)"</string>
+    <string name="uv_error">"Ошибка"</string>
+    <string name="uv_failed_signin_error">"Неверная эл. почта или пароль"</string>
+    <string name="uv_forgot_password">"Забыли пароль?"</string>
+    <string name="uv_helpful_article_message_question">"Вы все еще хотите отправить сообщение?"</string>
+    <string name="uv_i_want_this">"Я хочу это!"</string>
+    <string name="uv_idea_description_heading">"Опишите вашу идею более подробно"</string>
+    <string name="uv_idea_description_hint">"(опция)"</string>
+    <string name="uv_idea_text_heading">"Я предлагаю вам..."</string>
+    <string name="uv_loading">"Загрузка..."</string>
+    <string name="uv_matching_articles">"Совпадающие статьи"</string>
+    <string name="uv_matching_articles_and_ideas">"Совпадающие статьи и идеи"</string>
+    <string name="uv_menu_attach">"Прикрепить"</string>
+    <string name="uv_menu_search">"Поиск"</string>
+    <string name="uv_msg_bad_email_format">"Пожалуйста, введите правильный адрес эл. почты."</string>
+    <string name="uv_msg_comment_posted">"Ваш комментарий был добавлен"</string>
+    <string name="uv_msg_confirm_discard_message">"Вы уверены, что хотите отменить свое сообщение?"</string>
+    <string name="uv_msg_custom_fields_validation">"Пожалуйста, заполните все обязательные поля."</string>
+    <string name="uv_msg_forgot_password">"Отправлено эл. сообщение для восстановления пароля"</string>
+    <string name="uv_msg_idea_created">"Ваша идея была создана"</string>
+    <string name="uv_msg_ticket_created">"Ваше сообщение было отправлено"</string>
+    <string name="uv_msg_user_identity_validation">"Пожалуйста, введите ваш адрес электронной почты"</string>
+    <string name="uv_name_hint">"Анонимно"</string>
+    <string name="uv_network_error">"Ошибка при подключении к UserVoice"</string>
+    <string name="uv_nevermind">"Неважно"</string>
+    <string name="uv_new_comment">"Новый комментарий"</string>
+    <string name="uv_next">"Далее"</string>
+    <string name="uv_no">"Нет"</string>
+    <string name="uv_none_of_these_help">"Ничего из этого не помогает"</string>
+    <string name="uv_password">"Пароль"</string>
+    <string name="uv_password_dialog_title">"Пожалуйста введите пароль"</string>
+    <string name="uv_portal_title">"Справка"</string>
+    <string name="uv_post_a_comment">"Добавить комментарий"</string>
+    <string name="uv_post_comment">"Добавить комментарий"</string>
+    <string name="uv_posted_by_format">"Сообщение от %1$s за %2$s"</string>
+    <string name="uv_powered_by_uservoice">"Сделано в UserVoice"</string>
+    <string name="uv_ranked">"Оценка %1$s"</string>
+    <string name="uv_remove_votes">"Удалить голоса"</string>
+    <string name="uv_select_none">"(нет)"</string>
+    <string name="uv_select_one">"Выберите"</string>
+    <string name="uv_send_message">"Отправить сообщение"</string>
+    <string name="uv_signin_dialog_ok">"Войти"</string>
+    <string name="uv_signin_dialog_title">"Войти"</string>
+    <string name="uv_status_format">"Состояние: %1$s"</string>
+    <string name="uv_submit_idea">"Отправить идею"</string>
+    <string name="uv_subscribe">"Подписаться"</string>
+    <string name="uv_subscribe_dialog_title">"Подписаться на эту идею"</string>
+    <string name="uv_suggestion_instant_answer_question">"Полезна ли эта идея?"</string>
+    <string name="uv_thanks">"Спасибо!"</string>
+    <string name="uv_unhelpful_article_message_question">"Вы хотите отправить нам сообщение?"</string>
+    <string name="uv_value">"Значение"</string>
+    <string name="uv_very_yes">"Да!"</string>
+    <string name="uv_yes">"Да"</string>
+    <string name="uv_your_email_address">"Ваш адрес эл. почты"</string>
+    <string name="uv_your_name">"Ваше имя"</string>
+    <string description="version" maxwidth="-1" name="version">Версия</string>
+    <string name="version_text">версия</string>
+    <string name="wait">Пожалуйста, подождите</string>
+    <string name="warning_stophttpserver">"Будет нарушено подключение между мобильным устройством и ПК. Выйти?"</string>
+    <string name="whats_new_label">Что новенького?</string>
+    <string description="message for request to connect Network" name="wifi_p2p_connection_msg" width="-1">Для работы с облачными службами установите подключение к сети.</string>
+    <string description="title for request to connect Network" name="wifi_p2p_connection_title" width="-1">Установить подключение к сети</string>
+    <string description="message for request to turn on Wi-Fi" name="wifi_p2p_turn_on_wifi_msg" width="-1">Включить Wi-Fi для использования службы Wi-Fi Direct. Включить Wi-Fi сейчас?</string>
+    <string description="title for turn on WiFi dialog" name="wifi_p2p_turn_on_wifi_title" width="-1">Включить Wi-Fi</string>
+    <string description="search" maxwidth="-1" name="wifidirect_action_bar_scan">Поиск</string>
+    <string description="Available devices" maxwidth="-1" name="wifidirect_available_devices">Список</string>
+    <string description="Do you want to connect to device" maxwidth="-1" name="wifidirect_connect_hint">Подключиться к</string>
+    <string description="Dialog title text: Invitation to connect" maxwidth="-1" name="wifidirect_connect_hint_title">Приглашение к подключению</string>
+    <string description="Dialog title text: Wi-Fi Direct connecting" maxwidth="-1" name="wifidirect_connecting_hint_title">Выполняется подключение к Wi-Fi Direct...</string>
+    <string description="connectted" maxwidth="-1" name="wifidirect_connectted">Подключен</string>
+    <string description=">Do you want to disconnect" maxwidth="-1" name="wifidirect_disconnect_hint">"Отключиться от"</string>
+    <string description="Disconnect Wi-Fi Direct" maxwidth="-1" name="wifidirect_disconnect_hint_title">Отключить Wi-Fi Direct</string>
+    <string description="peer devices infomation" maxwidth="-1" name="wifidirect_peer_device_info">Чтобы получить приглашение в Wi-Fi Direct, убедитесь в том, что соединительное устройство находится на странице Диспетчер файлов > "Равноправные устройства".</string>
+    <string description="peer devices title" maxwidth="-1" name="wifidirect_peer_device_title">Обнаруженные устройства</string>
+    <string description="searching" maxwidth="-1" name="wifidirect_scanning">Поиск...</string>
+    <string description="Search Wi-Fi Direct device" maxwidth="-1" name="wifidirect_storage_title">Поиск устройства Wi-Fi Direct</string>
+    <string description="click to connect" maxwidth="-1" name="wifidirect_touch_to_connect">Нажмите для подключения</string>
+    <string name="yandex_account_only_one_alert">"Можно добавлять только одну учетную запись Yandex. Перед заменой на новую удалите текущую учетную запись."</string>
+    <string name="yes">"Да"</string>
+    <string name="zenui_update">"Мгновенные обновления ZenUI"</string>
+    <string description="toast message: Compress files fail" maxwidth="-1" name="zip_fail">Ошибка при сжатии файлов</string>
+    <string description="compress dialog message" maxwidth="-1" name="zip_progress_msg">Прогресс...</string>
+    <string description="toast message: Compress files successly" maxwidth="-1" name="zip_success">Сжатие файлов выполнено успешно</string>
+</resources>

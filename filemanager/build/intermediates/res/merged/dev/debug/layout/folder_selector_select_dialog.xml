@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:focusable="true"
+    android:focusableInTouchMode="true"
+    >
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dip"
+        >
+        <ImageButton
+            android:id="@+id/folder_select_backbtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/asus_ep_ic_path_back"
+            android:layout_alignParentLeft="true">
+        </ImageButton>
+        <HorizontalScrollView
+            android:layout_width="@dimen/folder_selector_select_path_width"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dip">
+            <TextView
+                android:id="@+id/select_file_path"
+                android:layout_width="wrap_content"
+                android:layout_height="50dip"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:gravity="center_vertical"
+                android:textSize="20sp"
+                android:singleLine="true"
+                android:textColor="#6699ff">
+            </TextView>
+        </HorizontalScrollView>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/folder_selector_select_path_height">
+
+        <ProgressBar android:id="@+id/folder_selection_progress"
+            style="?android:attr/progressBarStyleLarge"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"/>
+
+        <ListView
+            android:id="@+id/folder_select_list"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/dialog_layout_margin_bottom"
+            android:visibility="invisible">
+        </ListView>
+    </RelativeLayout>
+</LinearLayout>

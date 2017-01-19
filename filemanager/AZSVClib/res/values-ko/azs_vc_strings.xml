@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="alert_title" description="Dialog title" maxwidth="-1">참고</string>
+    <string name="alert_title_update" description="Dialog title" maxwidth="-1">업데이트 권장</string>
+
+    <string name="alert_msg_not_found" description="ASUS ZenUI Services is not found on device" maxwidth="-1">ASUS ZenUI Services가 설치되지 않았습니다!\n\n다운로드 받아 설치하시겠습니까?</string>
+    <string name="alert_msg_client_update" description="Client app is not support, need update client app" maxwidth="-1">새 버전 %1$s이(가) 있습니다. 지금 설치하십시오.</string>
+    <string name="alert_msg_azs_update" description="ASUS ZenUI Services is not support, need update ASUS ZenUI Services" maxwidth="-1">%1$s가 ASUS ZenUI 서비스의 최신 버전을 필요로합니다. 지금 설치하십시오.</string>
+    <string name="alert_msg_compatible" description="Client app version is compatible with ASUS ZenUI Services" maxwidth="-1">%1$s 버전은 ASUS ZenUI Services와 호환되지 않습니다.</string>
+    <string name="alert_msg_match" description="Client app version is match with ASUS ZenUI Services" maxwidth="-1">%1$s 버전이 ASUS ZenUI Services와 일치합니다.</string>
+
+    <string name="alert_cb_msg" description="Don't remind me again" maxwidth="-1">다시 묻지 않음.</string>
+
+</resources>

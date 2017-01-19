@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Should enlarge for diffent display size -->
+    <dimen name="hidden_zone_introduction_margin_left_and_right">141dp</dimen>
+    <dimen name="lockscreen_password_underline_width">36dp</dimen>
+    <dimen name="lockscreen_padding_left_and_right">80dp</dimen>
+    <dimen name="setup_account_margin_left_and_right">141dp</dimen>
+
+    <!-- Landscape only -->
+    <dimen name="hidden_zone_introduction_margin_in_center">84dp</dimen>
+    <dimen name="hidden_zone_introduction_margin_top_and_bottom">171dp</dimen>
+    <dimen name="lockscreen_password_margin_top_and_bottom">105dp</dimen>
+    <dimen name="lockscreen_margin_in_center">132dp</dimen>
+    <dimen name="setup_account_margin_in_center">37dp</dimen>
+    <dimen name="setup_account_margin_top_and_bottom">59dp</dimen>
+</resources>

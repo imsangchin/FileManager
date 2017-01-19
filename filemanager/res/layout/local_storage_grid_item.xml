@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:android_custom="http://schemas.android.com/apk/res/com.asus.filemanager"
+    android:id="@+id/local_storage_grid_item"
+	android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <RelativeLayout android:id="@+id/storage_list_item_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+		android:minHeight="@dimen/category_local_storage_grid_item_height"
+        android:descendantFocusability="blocksDescendants"
+        >
+
+        <com.asus.filemanager.ui.AutoResizeTextView
+            android:id="@+id/storage_list_item_name"
+	        android:layout_width="wrap_content"
+            android:layout_height="@dimen/category_title_height"
+			android:layout_marginTop="0dp"
+            android:layout_marginLeft="13dp"
+            android:layout_marginRight="13dp"
+	        android:textSize="@dimen/category_local_storage_name_font_size"
+	        android:textColor="@color/category_local_storage_name_font_color"
+	        android:fontFamily="sans-serif"
+	        android:singleLine="true"
+	        android:gravity="center"
+	        android:layout_centerHorizontal="true"
+	        android:focusable="false"
+	        android:clickable="false"
+	        />
+
+        <View
+            android:id="@+id/title_divider"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dividerHeight"
+            android:layout_centerInParent="true"
+            android:layout_marginLeft="13dp"
+            android:layout_marginRight="13dp"
+            android:background="?divider_color"
+            android:layout_below="@id/storage_list_item_name"/>
+
+        <com.asus.filemanager.ui.RoundProgressBar android:id="@+id/roundProgressBar"
+                                                  android:layout_width="@dimen/category_local_storage_grid_item_round_progress_bar_height"
+                                                  android:layout_height="@dimen/category_local_storage_grid_item_round_progress_bar_height"
+                                                  android:layout_marginTop="13dp"
+                                                  android:layout_marginBottom="13dp"
+                                                  android:layout_centerHorizontal="true"
+                                                  android:background="@drawable/oval_bg"
+                                                  android:layout_below="@id/title_divider"
+	        />
+
+    </RelativeLayout>
+</LinearLayout>

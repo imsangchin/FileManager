@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="uf_sdk_number_of_subscribers_format">
+        <item quantity="one">"%1$s se líbí toto téma"</item>
+        <item quantity="other">"%1$s se líbí toto téma"</item>
+    </plurals>
+    <plurals name="uf_sdk_topics">
+        <item quantity="one">"téma"</item>
+        <item quantity="other">"témata"</item>
+    </plurals>
+    <plurals name="uv_comments">
+        <item quantity="one">"komentář"</item>
+        <item quantity="other">"komentářů"</item>
+    </plurals>
+    <plurals name="uv_number_of_subscribers_format">
+        <item quantity="one">"%1$s chce tento nápad"</item>
+        <item quantity="other">"%1$s chtějí tento nápad"</item>
+    </plurals>
+    <plurals name="uv_people">
+        <item quantity="one">"osoba"</item>
+        <item quantity="other">"lidé"</item>
+    </plurals>
+    <plurals name="uv_subscribers">
+        <item quantity="one">"odběratel"</item>
+        <item quantity="other">"odběratelů"</item>
+    </plurals>
+    <string description="label for trending searches" maxwidth="-1" name="trending_searches">"Oblíbené hledání"</string>
+    <string name="uf_sdk_already_give_5star">"Již ohodnoceno 5 hvězdičkami"</string>
+    <string description="%d is a number, don&apos;t translate" name="uf_sdk_article_read_count">"%d zobrazení"</string>
+    <string name="uf_sdk_attachment_format_warning">"Nesprávný formát souboru. Lze připojit pouze soubor obrázku"</string>
+    <string name="uf_sdk_attachment_total_size">"Celkem"</string>
+    <string name="uf_sdk_attachment_warning">"Velikost přílohy přesahuje povolený limit"</string>
+    <string maxwidth="-1" name="uf_sdk_cancel_btn_content">"Storno"</string>
+    <string name="uf_sdk_choosertitle_sharevia">"Sdílet pomocí"</string>
+    <string name="uf_sdk_connection_error_msg">"Připojení přerušeno serverem. Prosím opakujte akci."</string>
+    <string name="uf_sdk_connection_error_title">"Chyba připojení"</string>
+    <string name="uf_sdk_discard">"Odstranit"</string>
+    <string name="uf_sdk_email_illigal">"E-mailová adresa se již používá"</string>
+    <string maxwidth="-1" name="uf_sdk_empty_notification">"Prázdné :)"</string>
+    <string name="uf_sdk_faq">"Nejčastější dotazy"</string>
+    <string name="uf_sdk_feedback_and_help">"Zpětná vazba a nápověda"</string>
+    <string name="uf_sdk_forum_description">"Připojte se konverzaci s uživateli ASUS a vyhledávejte a sdílejte řešení"</string>
+    <string maxwidth="-1" name="uf_sdk_grant_permission_title">"Zadejte oprávnění"</string>
+    <string name="uf_sdk_help">"Nápověda"</string>
+    <string name="uf_sdk_instant_answer_question">"Jsou tyto odpovědi na nejčastější dotazy užitečné?"</string>
+    <string name="uf_sdk_like">"To se mi líbí"</string>
+    <string maxwidth="-1" name="uf_sdk_message">"Oznámení"</string>
+    <string name="uf_sdk_msg_bad_email_format">"Neplatná e-mailová adresa, zkuste to prosím znovu."</string>
+    <string name="uf_sdk_msg_confirm_discard_topic">"Váš koncept nebude uložen. Chcete jej přesto odstranit?"</string>
+    <string name="uf_sdk_msg_confirm_discard_topic_title">"Odstranit příspěvek?"</string>
+    <string name="uf_sdk_msg_subscribe">"Přihlášení k odběru oznámení o stavu tématu vám bude doručeno e-mailem."</string>
+    <string name="uf_sdk_msg_subscribe_success">"Přihlášení k odběru bylo úspěšné"</string>
+    <string name="uf_sdk_msg_ticket_created">"Váš názor byl úspěšně odeslán společnosti ASUS"</string>
+    <string name="uf_sdk_msg_topic_created">"Úspěšně zveřejněno"</string>
+    <string name="uf_sdk_msg_unsubscribe">"Zrušení přihlášení k odběru bylo úspěšné"</string>
+    <string name="uf_sdk_name_hint">"Zadejte svoje jméno"</string>
+    <string name="uf_sdk_name_illigal">"Uživatelské jméno se již používá"</string>
+    <string name="uf_sdk_network_error">"Žádné připojení k Internetu. Prosím zkontrolujte nastavení sítě."</string>
+    <string description="zenui news" maxwidth="" name="uf_sdk_news">"Novinky"</string>
+    <string name="uf_sdk_no_network_connection_content">"Připojení bylo přerušeno serverem. Prosím opakujte akci."</string>
+    <string name="uf_sdk_no_network_connection_title">"Žádné síťové připojení"</string>
+    <string name="uf_sdk_nothing_found">"Nepodařilo se nic najít"</string>
+    <string name="uf_sdk_notice">"Upozornění"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category1">"Oznámení"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category2">"Výukové programy &amp; tipy"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category3">"Propagace"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category4">"Události"</string>
+    <string name="uf_sdk_publish_an_topic">"Zveřejnit nové téma"</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_rate_now">"Ohodnotit"</string>
+    <string description="%s is AP name, don&apos;t translate" maxWidth="" name="uf_sdk_rate_us_detail">"Pokud se vám aplikace %s líbí, ohodnoťte nás 5 hvězdičkami na webu Play Store."</string>
+    <string maxWidth="" name="uf_sdk_rate_us_detail_new">"Vaše 5hvězdičkové hodnocení nás inspiruje k další práci!"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_rating">"5hvězdičkové hodnocení"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title">"Ohodnoťte nás!"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title_new">"Podpořte nás!"</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_scroll_up_toast">"Prosím přejděte nahoru a ohodnoťte nás"</string>
+    <string name="uf_sdk_search_hint">"Hledat"</string>
+    <string name="uf_sdk_select_common_bug">"Vyberte běžnou chybu"</string>
+    <string name="uf_sdk_send_feedback">"Odeslat zpětnou vazbu"</string>
+    <string name="uf_sdk_send_feedback_help">"Vaše zpětná vazba a adresa budou odeslány společnosti ASUS. Servisní tým vás bude kontaktovat e-mailem."</string>
+    <string maxwidth="-1" name="uf_sdk_setting_btn_content">"Nastavení"</string>
+    <string description="recommend title" maxwidth="" name="uf_sdk_settings_encourage_us_title">"Podpořte nás"</string>
+    <string maxwidth="-1" name="uf_sdk_storage_permission_description">"Tato funkce vyžaduje oprávnění úložiště pro přístup k multimediálním souborům. \n\nPokud chcete tuto funkci povolit, přejděte prosím klepnutím na tlačítko Nastavení na stránku Nastavení. Poté v části \"Informace o aplikaci\" > \"Oprávnění\" zadejte oprávnění.\n"</string>
+    <string name="uf_sdk_submit_topic">"Zveřejnit"</string>
+    <string name="uf_sdk_subscribe_dialog_title">"Přihlásit se k odběru tohoto tématu"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_answered">"Zodpovězeno"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_completed">"Dokončeno"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_declined">"Odmítnuto"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_implemented">"Implementováno"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_planned">"Naplánováno"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_under_review">"Revidováno"</string>
+    <string name="uf_sdk_thanks_for_your_feedback">"Děkujeme vám za hodnocení!"</string>
+    <string description="%s is a application name, don&apos;t translate" name="uf_sdk_ticket_hint">"Vložte hodnocení pro %s"</string>
+    <string name="uf_sdk_title_topic">"Téma"</string>
+    <string name="uf_sdk_topic">"Téma"</string>
+    <string name="uf_sdk_topic_description_heading">"Popis"</string>
+    <string name="uf_sdk_topic_description_hint">"Popište své téma podobně"</string>
+    <string name="uf_sdk_topic_filter">"TÉMATA"</string>
+    <string name="uf_sdk_topic_form_help">"Po zveřejnění tématu na uživatelském fóru se mohou ostatní uživatelé přihlásit k odběru tématu a komentovat jej. Když tým vývojářů ASUS odpoví na vaše téma, budete informováni e-mailem."</string>
+    <string name="uf_sdk_topic_form_title">"Zveřejnit nové téma"</string>
+    <string name="uf_sdk_topic_text_heading">"Fórum"</string>
+    <string name="uf_sdk_topic_text_hint">"Zadejte název tématu"</string>
+    <string name="uf_sdk_topic_title">"Název"</string>
+    <string name="uf_sdk_translation_10117605">"Problém s překladem"</string>
+    <string name="uf_sdk_translation_117562">"Typ zpětné vazby"</string>
+    <string name="uf_sdk_translation_2529543">"Hlášení o chybě"</string>
+    <string name="uf_sdk_translation_2529544">"Jiné"</string>
+    <string name="uf_sdk_translation_2530478">"Návrh"</string>
+    <string name="uf_sdk_unhelpful_article_message_question">"Chcete odeslat názor týmu vývojářů ASUS?"</string>
+    <string name="uf_sdk_user_forum">"Uživatelské fórum"</string>
+    <string name="uf_sdk_warning">"Varování"</string>
+    <string name="uf_sdk_wifi_settings">"Nastavení Wi-Fi"</string>
+    <string name="uf_sdk_wlan_settings">"Nastavení WLAN"</string>
+    <string name="uf_sdk_write_your_feedback">"Hodnocení vkládejte sem"</string>
+    <string name="uf_sdk_your_draft_will_be_discarded">"Váš návrh bude odstraněn."</string>
+    <string description="description for empty search result" maxwidth="-1" name="unable_to_find_artlcles">"Nelze najít \u0022%s\u0022 související články"</string>
+    <string name="uv_admin_response_format">"Odpověď správce: %1$s"</string>
+    <string name="uv_all_articles">"Všechny články"</string>
+    <string name="uv_all_results_filter">"VŠE"</string>
+    <string name="uv_android_sdk">Android SDK</string>
+    <string name="uv_article_browse_question">"Byl tento článek užitečný?"</string>
+    <string name="uv_article_instant_answer_question">"Je tento článek užitečný?"</string>
+    <string name="uv_cancel">"Zrušit"</string>
+    <string name="uv_category">"Kategorie"</string>
+    <string name="uv_close">"Zavřít"</string>
+    <string name="uv_comment_hint">"Vložte svůj komentář"</string>
+    <string name="uv_confirm">"Potvrdit"</string>
+    <string name="uv_contact_continue_button">"Opravdu chci odeslat zprávu"</string>
+    <string name="uv_contact_hint">"Zadejte váš dotaz nebo názor"</string>
+    <string name="uv_contact_us">"Kontaktujte nás"</string>
+    <string name="uv_display_name">"Uživatelské jméno"</string>
+    <string name="uv_email_address">"E-mailová adresa"</string>
+    <string name="uv_email_address_hint">"vas@email.com (povinné)"</string>
+    <string name="uv_error">"Chyba"</string>
+    <string name="uv_failed_signin_error">"Nesprávný e-mail nebo heslo"</string>
+    <string name="uv_forgot_password">"Zapomenuté heslo"</string>
+    <string name="uv_helpful_article_message_question">"Opravdu chcete odeslat zprávu?"</string>
+    <string name="uv_i_want_this">"To chci!"</string>
+    <string name="uv_idea_description_heading">"Popište podrobněji svůj nápad"</string>
+    <string name="uv_idea_description_hint">"(volitelně)"</string>
+    <string name="uv_idea_text_heading">"Doporučuji vám…"</string>
+    <string name="uv_loading">"Načítání…"</string>
+    <string name="uv_matching_articles">"Shodné články"</string>
+    <string name="uv_matching_articles_and_ideas">"Shodné články a nápady"</string>
+    <string name="uv_menu_attach">"Připojit"</string>
+    <string name="uv_menu_search">"Hledat"</string>
+    <string name="uv_msg_bad_email_format">"Prosím zadejte platnou e-mailovou adresu."</string>
+    <string name="uv_msg_comment_posted">"Váš komentář byl zveřejněn"</string>
+    <string name="uv_msg_confirm_discard_message">"Opravdu chcete odstranit svoji zprávu?"</string>
+    <string name="uv_msg_custom_fields_validation">"Prosím vyplňte všechna požadovaná pole."</string>
+    <string name="uv_msg_forgot_password">"Byl odeslán e-mail pro zapomenuté heslo"</string>
+    <string name="uv_msg_idea_created">"Váš nápad byl vytvořen"</string>
+    <string name="uv_msg_ticket_created">"Vaše zpráva byla odeslána"</string>
+    <string name="uv_msg_user_identity_validation">"Prosím zadejte svoji e-mailovou adresu"</string>
+    <string name="uv_name_hint">"Anonym"</string>
+    <string name="uv_network_error">"Při připojování k UserVoice došlo k chybě"</string>
+    <string name="uv_nevermind">"Nevadí"</string>
+    <string name="uv_new_comment">"Nový komentář"</string>
+    <string name="uv_next">"Další"</string>
+    <string name="uv_no">"Ne"</string>
+    <string name="uv_none_of_these_help">"Ani jeden nebyl užitečný"</string>
+    <string name="uv_password">"Heslo"</string>
+    <string name="uv_password_dialog_title">"Zadejte prosím heslo"</string>
+    <string name="uv_portal_title">"Nápověda"</string>
+    <string name="uv_post_a_comment">"Zveřejnit komentář"</string>
+    <string name="uv_post_comment">"Zveřejnit komentář"</string>
+    <string name="uv_posted_by_format">"Zveřejnil/a %1$s %2$s"</string>
+    <string name="uv_powered_by_uservoice">"Využívá technologii UserVoice"</string>
+    <string name="uv_ranked">"Ohodnoceno %1$s"</string>
+    <string name="uv_remove_votes">"Odebrat hlasy"</string>
+    <string name="uv_select_none">"(žádné)"</string>
+    <string name="uv_select_one">"Vyberte jednu možnost"</string>
+    <string name="uv_send_message">"Poslat zprávu"</string>
+    <string name="uv_signin_dialog_ok">"Přihlásit"</string>
+    <string name="uv_signin_dialog_title">"Přihlásit"</string>
+    <string name="uv_status_format">"Stav: %1$s"</string>
+    <string name="uv_submit_idea">"Poskytnout nápad"</string>
+    <string name="uv_subscribe">"Přihlásit se k odběru"</string>
+    <string name="uv_subscribe_dialog_title">"Přihlásit se k odběru tohoto nápadu"</string>
+    <string name="uv_suggestion_instant_answer_question">"Je tento nápad užitečný?"</string>
+    <string name="uv_thanks">"Děkujeme!"</string>
+    <string name="uv_unhelpful_article_message_question">"Chcete, abychom odeslali zprávu?"</string>
+    <string name="uv_value">"Hodnota"</string>
+    <string name="uv_very_yes">"Ano!"</string>
+    <string name="uv_yes">"Ano"</string>
+    <string name="uv_your_email_address">"Vaše e-mailová adresa"</string>
+    <string name="uv_your_name">"Vaše jméno"</string>
+</resources>

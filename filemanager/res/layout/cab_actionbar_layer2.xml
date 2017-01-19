@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="wrap_content"
+android:layout_height="fill_parent"
+android:orientation="horizontal"
+android:clickable="true"
+android:focusable="false"
+android:focusableInTouchMode="false" >
+
+        <TextView
+            android:textSize="20dip"
+            android:layout_marginLeft="@dimen/actionbar_text_marginleft"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:layout_centerVertical="true"
+            android:text="@string/select_target_folder"
+            style="?actionmode_style" />
+
+</RelativeLayout>

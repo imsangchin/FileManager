@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Sylvia Cheng, 2016/03/22, Setting page -->
+    <string name="action_settings" description="menu title for setting" maxwidth="-1">"設定"</string>
+    <string name="setting_view_group">"表示設定"</string>
+    <string name="setting_view_hide_files">"システムファイルを非表示"</string>
+    <string name="setting_notification_group">"通知"</string>
+    <string name="setting_notification_large_files">"大容量ファイルの通知"</string>
+    <string name="setting_notification_recent_files">"最新ファイルの通知"</string>
+    <string name="setting_notification_wireless_transfer">"ワイヤレス転送の通知"</string>
+    <string name="setting_display_group">"表示"</string>
+    <string name="tools_storage_analyzer">"ストレージとアナライザー"</string>
+    <string name="tools_zenui_instant_update">"インスタントアップデート"</string>
+    <string name="category_others">"その他"</string>
+    <string name="large_files_content_hint">"アクセス許可を使用して大容量ファイルを検索し削除します。"</string>
+    <string name="recent_files_content_hint">"アクセス許可を使用して最近使用したファイルを検索し削除します。"</string>
+    <string name="fragment_analyzer_more_hint">"詳細"</string>
+    <string name="fragment_analyzer_chart_total_hint">"合計："</string>
+    <string name="fragment_analyzer_chart_free_hint">"空き容量："</string>
+    <string name="fragment_analyzer_chart_used_hint">"使用済み"</string>
+    <string name="fragment_analyzer_allfiles_used_hint">"使用済み："</string>
+    <string name="news_v31" maxwidth="">"ストレージアナライザーはすべてのストレージ領域を占領するファイルのタイプを知らせます"</string>
+    <string name="news_v32" maxwidth="">"新しく強化されたアプリカテゴリー"</string>
+</resources>

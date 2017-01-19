@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!--Text for trash-->
+    <string name="permanently_delete">"Перманентно изтриване"</string>
+    <string name="tools_recycle_bin">"Кошче"</string>
+    <!--string name="move_or_delete">Move or delete</string-->
+    <string name="move_or_delete_msg">"Ще изтриете ли временно елементите в кошчето?\n(Отметнете полето по-долу, за да изтриете елементите перманентно.)"</string>
+    <string name="move_to_trash_progress" description="Progress Content: text in progress dialog" maxwidth="">"Преместване в кошчето..."</string>
+    <string name="move_to_trash_success_one" description="Toast: move to recycle bin success. %s is variable string." maxwidth="-1">"\"%s\" беше преместено в кошчето"</string>
+    <string name="move_to_trash_success_more" description="Toast: move to recycle bin success" maxwidth="-1">"Избраните файлове бяха преместени в кошчето"</string>
+    <string name="move_to_trash_fail" description="Toast: move to recycle bin fails" maxwidth="-1">"Неуспешно преместване в кошчето"</string>
+    <string name="trash_info_deleted" maxwidth="-1">"Дата на изтриване: "</string>
+    <string name="trash_info_path" maxwidth="-1">"Оригинална пътека: "</string>
+    <string name="action_clean_all" maxwidth="-1">"Изчистване на всички"</string>
+    <string name="action_restore_all" maxwidth="-1">"Възстановяване на всички"</string>
+    <string name="action_clean" maxwidth="-1">"Изчистване"</string>
+    <string name="action_restore" maxwidth="-1">"Възстановяване"</string>
+    <string name="restore_success_one" description="Toast: restore success. %s is variable string." maxwidth="-1">"\"%s\" беше възстановено"</string>
+    <string name="restore_success_more" description="Toast: restore success" maxwidth="-1">"Избраните файлове бяха възстановени"</string>
+    <string name="restore_fail" description="Toast: restore fails" maxwidth="-1">"Неуспешно възстановяване"</string>
+    <string name="restore_progress" description="Progress Content: text in progress dialog" maxwidth="">"Възстановяване..."</string>
+    <string name="calculate_progress" description="Progress Content: text in progress dialog" maxwidth="">"В процес..."</string>
+    <string name="msg_too_big_to_recycle">"Елементите са твърде големи за рециклиране.\nИскате ли да ги изтриете перманентно?"</string>
+    <string name="duplicate_files">"Дублирани файлове"</string>
+    <string name="duplicate_files_content_hint">"Намерете дублираните файлове и ги изтрийте с позволение."</string>
+</resources>

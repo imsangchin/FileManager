@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" >
+    <LinearLayout
+    android:id="@+id/cab_bar_base"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="bottom|center"
+    android:layout_marginBottom="20dp"
+    android:paddingTop="10dp"
+    android:paddingBottom="10dp"
+    android:background="@drawable/round_button" >
+
+    <ImageView
+        android:id="@+id/cab_move_to"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:scaleType="centerInside"
+        android:background="@drawable/category_circle"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="5dp"
+        android:src="@drawable/asus_ic_cut_d" />
+
+    <ImageView
+        android:id="@+id/cab_copy_to"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:scaleType="centerInside"
+        android:background="@drawable/category_circle"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="5dp"
+        android:src="@drawable/asus_ic_copy_d" />
+
+    <ImageView
+        android:id="@+id/cab_share"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:scaleType="centerInside"
+        android:background="@drawable/category_circle"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="5dp"
+        android:src="@drawable/asus_ep_ic_share" />
+
+    <ImageView
+        android:id="@+id/cab_delete"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:scaleType="centerInside"
+        android:background="@drawable/category_circle"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:src="@drawable/asus_ep_ic_delete_light" />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/cab_number_of_select"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:background="@drawable/category_circle"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:gravity="center"/>
+</LinearLayout>

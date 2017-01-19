@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="alert_title" description="Dialog title" maxwidth="-1">Σημείωση</string>
+    <string name="alert_title_update" description="Dialog title" maxwidth="-1">Συνίσταται ενημέρωση</string>
+
+    <string name="alert_msg_not_found" description="ASUS ZenUI Services is not found on device" maxwidth="-1">Οι Υπηρεσίες ASUS ZenUI Services δεν έχουν εγκατασταθεί!\n\nΜετάβαση σε λήψη και να εγκατασταθεί;</string>
+    <string name="alert_msg_client_update" description="Client app is not support, need update client app" maxwidth="-1">Διατίθεται νέα έκδοση %1$s, εγκαταστήστε την τώρα.</string>
+    <string name="alert_msg_azs_update" description="ASUS ZenUI Services is not support, need update ASUS ZenUI Services" maxwidth="-1">Το %1$s απαιτεί την τελευταία έκδοση των Υπηρεσιών ASUS ZenUI Services, εγκαταστήστε την τώρα.</string>
+    <string name="alert_msg_compatible" description="Client app version is compatible with ASUS ZenUI Services" maxwidth="-1">Η έκδοση %1$s είναι συμβατή με το ASUS ZenUI Services.</string>
+    <string name="alert_msg_match" description="Client app version is match with ASUS ZenUI Services" maxwidth="-1">Η έκδοση %1$s ταιριάζει στο ASUS ZenUI Services.</string>
+
+    <string name="alert_cb_msg" description="Don't remind me again" maxwidth="-1">Να μη μου γίνει υπενθύμιση ξανά</string>
+
+</resources>

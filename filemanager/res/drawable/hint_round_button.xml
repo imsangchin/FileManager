@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="false"
+        android:color="@color/white">
+        <shape android:shape="rectangle" >
+            <solid android:color="@android:color/transparent" />
+            <corners android:radius="@dimen/asus_mainpage_round_button_radius" />
+            <stroke android:width="2px" android:color="@color/white" />
+        </shape>
+    </item>
+    <item android:state_pressed="true"
+        android:color="@color/black">
+        <shape android:shape="rectangle">
+            <solid android:color="#007fa0" />
+            <corners android:radius="@dimen/asus_mainpage_round_button_radius" />
+        </shape>
+    </item>
+</selector>

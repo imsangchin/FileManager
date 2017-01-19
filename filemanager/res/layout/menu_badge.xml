@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/Ep.ActionButton"
+    android:layout_width="46dp"
+    android:layout_height="46dp"
+    android:clickable="true"
+    android:focusable="true"
+    android:gravity="center"
+    android:id="@+id/menuitem_more">
+
+    <ImageButton
+        android:id="@+id/menu_badge_icon"
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:layout_gravity="center"
+        android:clickable="false"
+        android:focusable="false"
+        android:scaleType="fitXY"
+        android:background="?actionmode_menu_icon" />
+
+    <ImageView
+        android:id="@+id/ImgView_badge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_gravity="top|right"
+        android:layout_marginRight="0dp"
+        android:layout_marginTop="0dp"
+        android:clickable="false"
+        android:focusable="false"
+        android:visibility="gone"
+        android:src="@drawable/asus_new_feature_icon" />
+
+</FrameLayout>

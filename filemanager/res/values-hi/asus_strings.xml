@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="file_manager" description="Application Name shown on title" maxwidth="">फ़ाइल मैनेजर</string>
+    <string name="ok" description="Dialog Button: ok for dialog" maxwidth="">ठीक</string>
+    <string name="no" description="Dialog Button: no for dialog" maxwidth="">नहीं</string>
+    <string name="cancel" description="Dialog Button: cancel for dialog" maxwidth="">रद्द करें</string>
+    <string name="select_all" description="Menu Option: select all checkbox" maxwidth="">सभी को चुनें</string>
+    <string name="clear_all" description="Menu Option: clear all checkbox" maxwidth="">सभी को खाली करें</string>
+    <string name="open_fail" description="Toast: open file fails" maxwidth="-1">फ़ाइल खोलना विफल।</string>
+    <string name="permission_deny" description="Toast: operation permission deny" maxwidth="-1">अनुमति अस्वीकृत।</string>
+    <string name="target_exist" description="Toast: target file exists" maxwidth="-1">लक्ष्य फ़ाइल मौजूद है।</string>
+    <string name="target_folder_exist" description="Toast: target folder exists. %s is variable string." maxwidth="-1">फ़ोल्डर \"%s\" पहले से मौजूद है।</string>
+    <string name="rename" description="Context Menu: options of context menu" maxwidth="">नाम बदलें</string>
+    <string name="rename_dialog" description="Dialog Title: rename dialog title" maxwidth="">नाम बदलें</string>
+    <string name="rename_fail" description="Toast: rename fails" maxwidth="-1">फ़ाइल का नाम बदलना विफल।</string>
+    <string name="delete" description="Context Menu: options of context menu" maxwidth="">हटाएं</string>
+    <string name="delete_dialog" description="Dialog Title: delete dialog title" maxwidth="">फ़ाइल हटाएं</string>
+    <string name="delete_one_files" description="Dialog Content: text in dialog" maxwidth="">क्या आप फ़ाइल हटाना चाहते हैं?</string>
+    <string name="delete_more_files" description="Dialog Content: text in dialog. %d is variable number." maxwidth="">क्या आप %d आइटम हटाना चाहते हैं?</string>
+    <string name="delete_size" description="Dialog Content: text in dialog" maxwidth="">"आकार: "</string>
+    <string name="delete_progress" description="Progress Content: text in progress dialog" maxwidth="">हटा रहा है...</string>
+    <string name="delete_fail" description="Toast: delete fails" maxwidth="-1">फ़ाइल हटाना विफल।</string>
+    <string name="delete_success_one" description="Toast: delete success. %s is variable string." maxwidth="-1">\"%s\" हटा दिया गया है।</string>
+    <string name="delete_success_more" description="Toast: delete success" maxwidth="-1">चयनित फ़ाइलें हटा दी गई हैं।</string>
+    <string name="new_folder_dialog" description="Dialog Title: create new folder" maxwidth="">नया फ़ोल्डर बनाएं</string>
+    <string name="new_folder_fail" description="Toast: new folder fails" maxwidth="-1">नया फ़ोल्डर बनाना विफल।</string>
+    <string name="new_folder_success" description="Toast: new folder success. %s is variable string." maxwidth="-1">फ़ोल्डर \"%s\" बना दिया गया है।</string>
+    <string name="copy" description="Context Menu: options of context menu" maxwidth="">कॉपी करें</string>
+    <string name="copy_ready_one" description="Toast: copy ready. %s is variable string." maxwidth="-1">\"%s\" कॉपी कर लिया गया है और पेस्ट होने के लिए तैयार है।</string>
+    <string name="copy_ready_more" description="Toast: copy ready" maxwidth="-1">चयनित फ़ाइलें कॉपी कर ली गई हैं और पेस्ट होने के लिए तैयार हैं।</string>
+    <string name="cut" description="Context Menu: options of context menu" maxwidth="">कट करें</string>
+    <string name="cut_ready_one" description="Toast: cut ready. %s is variable string." maxwidth="-1">\"%s\" कट कर लिया गया है और पेस्ट होने के लिए तैयार है।</string>
+    <string name="cut_ready_more" description="Toast: cut ready" maxwidth="-1">चयनित फ़ाइलें कट कर ली गई हैं और पेस्ट होने के लिए तैयार हैं।</string>
+    <string name="paste" description="Context Menu: options of context menu" maxwidth="">पेस्ट करें</string>
+    <string name="paste_exist_dialog" description="Dialog Title: paste exist dialog title" maxwidth="">समान फ़ाइल नाम</string>
+    <string name="paste_exist_file" description="Dialog Content: text in dialog. %s is variable string." maxwidth="">फ़ाइल \"%s\" पहले से मौजूद है।</string>
+    <string name="paste_exist_replace" description="Dialog Content: text in dialog" maxwidth="">क्या नए के साथ बदलना चाहते हैं?</string>
+    <string name="paste_exist_to" description="Dialog Content: text in dialog" maxwidth="">प्रति</string>
+    <string name="paste_exist_apply" description="Dialog Content: text in dialog" maxwidth="">सभी के लिए लागू करें</string>
+    <string name="paste_progress" description="Progress Content: text in progress dialog" maxwidth="">पेस्ट कर रहा है...</string>
+    <string name="paste_fail" description="Toast: paste fails" maxwidth="-1">फ़ाइलें पेस्ट करना विफल।</string>
+    <string name="paste_success" description="Toast: paste success. %s is variable string." maxwidth="-1">फ़ाइलें \"%s\" में जोड़ दी गई हैं।</string>
+    <!-- Guoliang_Lin, 2011/04/01, UI required, new feature -->
+    <string name="no_space_fail" description="Toast: No space to copy file and left on device" maxwidth="-1">अपर्याप्त स्टोरेज</string>
+    <!-- Guoliang Lin, 2011/04/27, UI required, new feature -->
+    <string name="action_add_folder" description="cutstom action bar view title for add folder" maxwidth="-1">फ़ोल्डर जोड़ें</string>
+    <string name="action_hind_system_file" description="cutstom action bar view title for hinde system file" maxwidth="-1">सिस्टम फ़ाइलें छिपाएं</string>
+    <string name="deselect_all" description="cutstom action bar view title for deselect all checkbox" maxwidth="">सभी का चयन हटाएं</string>
+    <!-- Guoliang Lin, 2011/05/11, UI required, new feature -->
+    <string name="file_info_dialog_title" description="Dialog Title: File information dialog title" maxwidth="-1">फ़ाइल जानकारी</string>
+    <string name="dir_info_dialog_title" description="Dialog Title: Directory information dialog title" maxwidth="-1">डायरेक्ट्री जानकारी</string>
+    <string name="info" description="Context Menu: options of context menu" maxwidth="-1">सूचना</string>
+    <string name="info_name" description="file info textview context" maxwidth="-1">"नाम: "</string>
+    <string name="info_file_num" description="file info textview context" maxwidth="-1">"फ़ाइल: "</string>
+    <string name="info_permission" description="file info textview context" maxwidth="-1">"अनुमति: "</string>
+    <string name="info_modified" description="file info textview context" maxwidth="-1">"संशोधन तिथि: "</string>
+    <!-- Guoliang Lin, 2011/05/27, UI required, new feature -->
+    <string name="action_about" description="cutstom action bar view title for about" maxwidth="-1">संक्षिप्त विवरण</string>
+    <!-- Johnson Chen, 2011/08/05, UI required, new feature -->
+    <string name="select_folder" description="Title: select the folder" maxwidth="-1">फ़ोल्डर चुनें</string>
+    <string name="invalid_directory_path" description="Invalid directory path" maxwidth="-1">अमान्य डायरेक्ट्री पथ</string>
+    <string name="short_cuts_title" description="shortcit title" maxwidth="-1">शॉर्टकट</string>
+    <string name="type" description="button text for sort file by type" maxwidth="-1">प्रकार</string>
+    <string name="name" description="button text for sort file by name" maxwidth="-1">नाम</string>
+    <string name="size" description="button text for sort file by size" maxwidth="-1">आकार</string>
+    <string name="date" description="button text for sort file by date" maxwidth="-1">तिथि</string>
+    <string name="name_ascending" description="button text for sort file by name ascending" maxwidth="-1">नाम (z-a)</string>
+    <string name="name_descending" description="button text for sort file by name descending" maxwidth="-1">नाम (a-z)</string>
+    <string name="size_ascending" description="button text for sort file by size ascending" maxwidth="-1">आकार (बड़ा-छोटा)</string>
+    <string name="size_descending" description="button text for sort file by size descending" maxwidth="-1">आकार (छोटा-बड़ा)</string>
+    <string name="date_ascending" description="button text for sort file by date ascending" maxwidth="-1">तिथि (सबसे पुराना-नवीनतम)</string>
+    <string name="date_descending" description="button text for sort file by date descending" maxwidth="-1">तिथि (नवीनतम-सबसे पुराना)</string>
+    <string name="my_storage_title" description="storage label" maxwidth="-1">मेरा स्टोरेज</string>
+    <string name="internal_storage_title" description="storage label" maxwidth="-1">आंतरिक स्टोरेज</string>
+    <string name="my_picture_title" description="shortcut label" maxwidth="-1">चित्र</string>
+    <string name="my_camera_title" description="shortcut label" maxwidth="-1">कैमरा</string>
+    <string name="my_music_title" description="shortcut label" maxwidth="-1">संगीत</string>
+    <string name="my_download_title" description="shortcut label" maxwidth="-1">डाउनलोड</string>
+    <string name="dialog_create_zip_title" description="compress dialog title" maxwidth="-1">संग्रह नाम प्रविष्ट करें</string>
+    <string name="zip_progress_msg" description="compress dialog message" maxwidth="-1">जारी है...</string>
+    <string name="zip_fail" description="toast message: Compress files fail" maxwidth="-1">फ़ाइलें सम्पीड़ित करने में विफल</string>
+    <string name="zip_success" description="toast message: Compress files successly" maxwidth="-1">फ़ाइलें सफलतापूर्वक सम्पीड़ित</string>
+    <string name="search_label" description="cutstom action bar view title for search" maxwidth="-1">फ़ाइलें खोजें</string>
+    <string name="search_progress" description="search dialog message" maxwidth="-1">खोज रहा है...</string>
+    <string name="location" description="button text for sort file by date" maxwidth="-1">स्थान</string>
+    <plurals name="number_search_items">
+        <item quantity="one">"%d फ़ाइल मिली"</item>
+        <item quantity="other">"%d फ़ाइलें मिलीं"</item>
+    </plurals>
+    <string name="search_result_title" description=" text for search result" formatted="false" maxwidth="-1">%s में %s खोज रहा है: %d फ़ाइलें मिलीं</string>
+    <string name="dialog_extract_zip_title" description="extract zip file dialog title. %s is a dynamic string. It is zip file name." maxwidth="-1">%s को निम्न में निकालें:</string>
+    <string name="unzip_progress_msg" description="extract file dialog message" maxwidth="-1">निकाल रहा है...</string>
+    <string name="unzip_fail" description="toast message: extract files fail" maxwidth="-1">फ़ाइलें निकालने में विफल</string>
+    <string name="unzip_success" description="toast message: extract files successly" maxwidth="-1">फ़ाइलें सफलतापूर्वक निकाली गईं</string>
+    <string name="action_clear_history" description="cutstom action bar view title for clear search history" maxwidth="">खोज इतिहास खाली करें</string>
+    <plurals name="drag_items">
+        <item quantity="one">आइटम को खींचें</item>
+        <item quantity="other">आइटमों को खींचें</item>
+    </plurals>
+    <string name="drag_items_one">आइटम को खींचें</string>
+    <string name="drag_items_other">आइटमों को खींचें</string>
+    <string name="toast_drag_copied_items" description="Toast: The item(s) has been copied completely" maxwidth="-1">आइटम(आइटमों) को पूरी तरह से कॉपी कर लिया गया है</string>
+    <string name="toast_warning_copy_folders" description="Toast: Sorry, copy folders has not been supported" maxwidth="-1">क्षमा करें, फ़ोल्डर कॉपी करना समर्थित नहीं है</string>
+    <string name="toast_warning_copy_comple_cut_fail" description="Toast: Sorry, copy files complete but cut fail" maxwidth="-1">क्षमा करें, फ़ाइलें कॉपी करना पूर्ण लेकिन पुरानी फ़ाइलें हटाना विफल</string>
+    <string name="toast_drag_moved_items" description="Toast: The item(s) has been moved completely" maxwidth="-1">आइटम(आइटमों) को पूरी तरह से स्थानांतरित कर दिया गया है</string>
+    <string name="move" description="Hint: move the items" maxwidth="-1">स्थानांतरित करें</string>
+    <string name="drop_target_to" description="Hint: the target folder which you want to do something" maxwidth="-1">लक्ष्य:</string>
+    <string name="drop_incorrect_hint" description="Hint: the operation is incorrect" maxwidth="-1">गलत कार्यवाही</string>
+    <!-- Willie Huang, 2012/01/20, UI required, new feature -->
+    <string name="dialog_unzip_preview_title" description="show zip info dialog title. %s is a dynamic string. Is is a zip file name" maxwidth="-1">%s को निकालें</string>
+    <string name="extract" description="Dialog Button: extract file for dialog" maxwidth="-1">निकालें</string>
+    <plurals name="dialog_unzip_preview_size_text">
+        <item quantity="one">कुल: %1$d फ़ाइल, %2$s</item>
+        <item quantity="other">कुल: %1$d फ़ाइलें, %2$s</item>
+    </plurals>
+    <string name="encode" description="Dialog Button: click to open the encoding list dialog" maxwidth="-1">पाठ इन्कोडिंग</string>
+    <string name="dialog_text_encoding_title" description="text encoding dialog title" maxwidth="-1">पाठ इन्कोडिंग</string>
+    <string-array name="charset_array">
+        <item>"लातिन-1 (ISO-8859-1)"</item>
+        <item>"यूनिकोड (UTF-8)"</item>
+        <item>"चीनी (GBK)"</item>
+        <item>"चीनी (Big5)"</item>
+        <item>"जापानी (ISO-2022-JP)"</item>
+        <item>"जापानी (SHIFT_JIS)"</item>
+        <item>"जापानी (EUC-JP)"</item>
+        <item>"कोरियाई (EUC-KR)"</item>
+    </string-array>
+    <!-- Willie Huang, 2012/03/28, UI required, new feature -->
+    <string name="info_aperture" description="file info textview context" maxwidth="-1">"एपर्चर: "</string>
+    <string name="info_datetime" description="file info textview context" maxwidth="-1">"खींचने की तिथि: "</string>
+    <string name="info_exposure_time" description="file info textview context" maxwidth="-1">"एक्सपोज़र समय: "</string>
+    <string name="info_flash" description="file info textview context" maxwidth="-1">"फ़्लैश: "</string>
+    <string name="info_focal_length" description="file info textview context" maxwidth="-1">"फ़ोकल लंबाई: "</string>
+    <string name="info_image_height" description="file info textview context" maxwidth="-1">"ऊंचाई: "</string>
+    <string name="info_image_x" description="file info textview context" maxwidth="-1">" x "</string>
+    <string name="info_image_width" description="file info textview context" maxwidth="-1">"चौड़ाई"</string>
+    <string name="info_iso" description="file info textview context" maxwidth="-1">"ISO: "</string>
+    <string name="info_location" description="file info textview context" maxwidth="-1">"स्थान: "</string>
+    <string name="info_maker" description="file info textview context" maxwidth="-1">"निर्माता: "</string>
+    <string name="info_model" description="file info textview context" maxwidth="-1">"मॉडल: "</string>
+    <string name="info_orientation" description="file info textview context" maxwidth="-1">"अभिविन्यास: "</string>
+    <string name="info_white_balance" description="file info textview context" maxwidth="-1">"श्वेत संतुलन: "</string>
+    <string name="flash_on" description="string indicating camera flash is fired" maxwidth="-1">फ़्लैश चमकाया गया</string>
+    <string name="flash_off" description="string indicating camera flash is not used" maxwidth="-1">कोई फ़्लैश नहीं</string>
+    <string name="unit_mm" description="string indicating the length units in milli-meters" maxwidth="-1">मिमी</string>
+    <string name="manual" description="string indicating how camera shooting feature is used" maxwidth="-1">मैन्युअल</string>
+    <string name="auto" description="string indicating how camera shooting feature is used" maxwidth="-1">स्वतः</string>
+    <!-- Guoliang_Lin, 2012/03/20, UI required, new feature -->
+    <string name="wait">कृपया प्रतीक्षा करें\u2026</string>
+    <!-- Johnson Chen, 2012/04/13, UI required, new feature -->
+    <string name="select_album">एल्बम चुनें</string>
+    <string name="select_photo">फ़ोटो चुनें</string>
+    <string name="back_button_label" description="button text." maxwidth="-1">वापस जाएं</string>
+    <!-- Willie Huang, 2012/05/18, UI required, new feature -->
+    <string name="action_apply_selected_file" description="View title of custom action bar, apply to multiple selected files" maxwidth="-1">लागू करें</string>
+    <!-- Willie Huang, 2013/01/03, UI required, new feature -->
+    <string name="loading" description="text for progress bar" maxwidth="-1">लोड किया जा रहा है\u2026</string>
+    <string name="version" description="version" maxwidth="-1">संस्करण</string>
+    <string name="title" description="title" maxwidth="-1">कानूनी जानकारी:</string>
+    <string name="content" description="content" maxwidth="-1">इस सॉफ़्टवेयर का उपयोग ASUS वेबसाइट पर मौजूद नियम और शर्तों के अधीन है: \nhttp://www.asus.com</string>
+    <string name="action_share" description="cutstom action bar view title for sharing" maxwidth="-1">साझा करें</string>
+    <!-- Johnson Chen, 2012/05/18, UI required, new feature-->
+    <string name="photo_selection_limit_number_toast" description="Toast: You may not select more than %s photos." maxwidth="-1">अधिकतम %s फ़ोटो चुनें</string>
+    <!-- Alex6 Lin, -->
+    <string name="action_sort_by" description="String for asking for the rule of sorting" maxwidth="-1">निम्न द्वारा छांटें</string>
+    <plurals name="number_selected_items">
+        <item quantity="one">%d चयनित</item>
+        <item quantity="other">%d चयनित</item>
+    </plurals>
+    <string name="info_type" description="file info textview context" maxwidth="-1">"प्रकार: "</string>
+    <string name="type_document" description="document type" maxwidth="-1">दस्तावेज़</string>
+    <string name="type_audio" description="document type" maxwidth="-1">ऑडियो</string>
+    <string name="type_video" description="document type" maxwidth="-1">वीडियो</string>
+    <string name="type_playlist" description="document type" maxwidth="-1">प्लेलिस्ट</string>
+    <string name="type_image" description="document type" maxwidth="-1">छवि</string>
+    <string name="type_book" description="document type" maxwidth="-1">EBook</string>
+    <string name="type_zip" description="document type" maxwidth="-1">जिप</string>
+    <string name="type_apk" description="document type" maxwidth="-1">Android एप्लिकेशन</string>
+    <string name="type_abu" description="document type" maxwidth="-1">Asus एप्लिकेशन बैकअप</string>
+    <string name="type_file" description="document type" maxwidth="-1">फ़ाइल</string>
+    <string name="type_directory" description="document type" maxwidth="-1">डायरेक्ट्री</string>
+    <string name="search_action">खोजें</string>
+    <string name="fileList_Nofiles">कोई फ़ाइलें नहीं</string>
+    <!-- Johnson Chen, 2012/05/18, UI required, new feature-->
+    <string name="wifidirect_available_devices" description="Available devices" maxwidth="-1">उपलब्ध डिवाइस</string>
+    <string name="wifidirect_connect_hint_title" description="Dialog title text: Invitation to connect" maxwidth="-1">कनेक्ट करने के लिए आमंत्रण</string>
+    <string name="wifidirect_connect_hint" description="Do you want to connect to device" maxwidth="-1">क्या आप निम्न के साथ कनेक्ट करना चाहते हैं</string>
+    <string name="wifidirect_connecting_hint_title" description="Dialog title text: Wi-Fi Direct connecting" maxwidth="-1">Wi-Fi डायरेक्ट कनेक्ट हो रहा है...</string>
+    <string name="wifidirect_disconnect_hint" description=">Do you want to disconnect" maxwidth="-1">क्या आप निम्न के साथ कनेक्शन समाप्त करना चाहते हैं</string>
+    <string name="shared_folder" description="Context Menu: options of context menu: share folder via Wi-Fi Direct" maxwidth="">Wi-Fi डायरेक्ट द्वारा साझा करें</string>
+    <string name="unshared_folder" description="Context Menu: options of context menu: unshare folder" maxwidth="-1">साझा करना बंद करें</string>
+    <string name="remote_storage_title" description="remote storage label" maxwidth="-1">रिमोट स्टोरेज</string>
+    <string name="remote_connected_error_hint" description="network is unavailable, please try again" maxwidth="-1">नेटवर्क अनुलब्ध है, कृपया पुनः प्रयास करें</string>
+    <string name="wifidirect_peer_device_title" description="peer devices title" maxwidth="-1">पीयर डिवाइस</string>
+    <string name="wifidirect_scanning" description="searching" maxwidth="-1">खोज रहा है...</string>
+    <string name="wifidirect_touch_to_connect" description="click to connect" maxwidth="-1">कनेक्ट करने के लिए क्लिक करें</string>
+    <string name="wifidirect_connectted" description="connectted" maxwidth="-1">कनेक्ट हुआ है</string>
+    <string name="wifidirect_action_bar_scan" description="search" maxwidth="-1">खोजें</string>
+    <string name="wifidirect_storage_title" description="Search Wi-Fi Direct device" maxwidth="-1">Wi-Fi डायरेक्ट डिवाइस खोजें</string>
+    <string name="wifidirect_peer_device_info" description="peer devices infomation" maxwidth="-1">"Wi-Fi डायरेक्ट आमंत्रण प्राप्त करने के लिए, सुनिश्चित करें कि आपका कनेक्ट होने वाला डिवाइस फ़ाइल मैनेजर में \"पीयर डिवाइस\" पृष्ठ पर रहे।"</string>
+    <string name="wifidirect_disconnect_hint_title" description="Disconnect Wi-Fi Direct" maxwidth="-1">Wi-Fi डायरेक्ट का कनेक्शन समाप्त करें</string>
+    <string name="wifi_p2p_turn_on_wifi_title" description="title for turn on WiFi dialog" width="-1">Wi-Fi डायरेक्ट चालू करें</string>
+    <string name="wifi_p2p_turn_on_wifi_msg" description="message for request to turn on Wi-Fi" width="-1">Wi-Fi डायेरक्ट सेवाओं का उपयोग करने के लिए Wi-Fi चालू करें। अभी Wi-Fi चालू करें?</string>
+    <!-- Johnson Chen, 2013/03/22, UI required, new feature-->
+    <string name="cloud_storage_title" description="Add more cloud storage" maxwidth="-1">और अधिक क्लाउड स्टोरेज जोड़ें</string>
+    <string name="add_cloud_storage_dialog_title" description="Dialog title: Add cloud storage" maxwidth="-1">क्लाउड स्टोरेज जोड़ें</string>
+    <string name="cloud_storage_remove_hint" description=">Do you want to remove" maxwidth="-1">क्या आप \"%s\" खाते से लॉगआउट करना चाहते हैं?</string>
+    <string name="cloud_storage_remove_hint_title" description="Dialog title: Remove cloud storage" maxwidth="-1">लॉगआउट करें</string>
+    <string name="add_progress" description="Progress Content: text in progress dialog" maxwidth="">बना रहा है...</string>
+    <string name="logging_cloud_storage" description="Progress Content: text in progress dialog" maxwidth="">लॉग कर रहा है...</string>
+    <string name="wifi_p2p_connection_msg" description="message for request to connect Network" width="-1">कृपया क्लाउड स्टोरेज का उपयोग करने के लिए एक नेटवर्क कनेक्शन स्थापित करें।</string>
+    <string name="wifi_p2p_connection_title" description="title for request to connect Network" width="-1">एक नेटवर्क कनेक्शन स्थापित करें</string>
+    <string name="logout_account" description="logout account" width="-1">लॉगआउट करें</string>
+    <string name="renaming_file" description="renaming file" width="-1">नाम बदल रहा है</string>
+    <string name="rename_success" description="Toast: rename success" maxwidth="-1">फ़ाइल का नाम बदलना सफल।</string>
+    <string name="login_fail" description="Toast: login account fail" width="-1">लॉगिन विफल</string>
+    <string name="starred" description="shortcut title: my favorite files" width="-1">तारांकित</string>
+    <string name="recently_used" description="shortcut title: recently used files" width="-1">हाल का</string>
+    <string name="trash_can" description="shortcut title: trash can" width="-1">कूड़ेदान</string>
+    <!-- Settings Page -->
+    <string name="menu_general_preferences" description="The title of a menu for General Preferences.Pressing the menu item lets user to view and edit his general settings" maxwidth="30">सामान्य सेटिंग</string>
+    <string name="preferences_title" description="This is the title of the screen for setting user preferences." maxwidth="-1">सेटिंग</string>
+    <string name="settings_space_used" description="This is the title of space used for setting user preferences." maxwidth="-1">प्रयुक्त स्थान</string>
+    <string name="settings_clear_search_history" description="This is the title of clearing search history action for setting user preferences." maxwidth="-1">खोज इतिहास खाली करें</string>
+    <string name="settings_hide_system_files" description="This is the title of hiding system files action for setting user preferences." maxwidth="-1">सिस्टम फ़ाइलें छिपाएं</string>
+    <string name="settings_trash_can" description="This is the title of trash can information for setting user preferences." maxwidth="-1">कूड़ेदान</string>
+    <string name="settings_moved_to_the_trash_can" description="This is the title of moving to the trash can." maxwidth="-1">कूड़ेदान में ले जाएं</string>
+    <string name="settings_user_name" description="This is the title of user name" maxwidth="-1">उपयोगकर्ता नाम</string>
+    <string name="settings_documents_cache" description="This is the title of documents cache" maxwidth="-1">दस्तावेज कैश</string>
+    <string name="settings_cache_size_title" description="This is the title of cache size" maxwidth="-1">कैश आकार</string>
+    <string name="settings_set_cache_size" description="Set the cache size to %s" maxwidth="-1">कैश आकार \"%s\" पर सेट है</string>
+    <string name="settings_clear_cache_title" description="Clear the cache" maxwidth="-1">कैश खाली करें</string>
+    <string name="settings_clear_cache_info" description="Remove all cache documents" maxwidth="-1">सभी कैश दस्तावेज हटाएं</string>
+    <string name="settings_remove_account" description="Remove account" maxwidth="-1">खाता हटाएं</string>
+    <string name="drawer_open">नेवीगेशन ड्रॉअर को खोलें</string>
+    <string name="drawer_close">नेवीगेशन ड्रॉअर को बंद करें</string>
+    <!-- begin add new server -->
+    <string name="samba_storage_title">"SAMBA"</string>
+    <string name="samba_storage_add_title">नेटवर्क स्थान</string>
+    <string name="server_title">सर्वर</string>
+    <string name="domain">डोमेन:</string>
+    <string name="domain_hint">खाली हो सकता है</string>
+    <string name="server">सर्वर:</string>
+    <string name="server_hint">"172.0.0.1/ShareFolder"</string>
+    <string name="example">उदाहरण:</string>
+    <string name="user">उपयोगकर्ता नाम</string>
+    <string name="user_hint">व्यवस्थापक</string>
+    <string name="password">पासवर्ड</string>
+    <string name="display">निम्न के रूप में प्रदर्शित करें</string>
+    <string name="display_hint">मेरा कंप्यूटर,खाली हो सकता है</string>
+    <string name="samba_input_error">उपयोगकर्ता नाम या पासवर्ड खाली नहीं हो सकता!</string>
+    <string name="samba_client_config_check" description="account config dialog remind message" maxwidth="-1">उपयोगकर्ता नाम और पासवर्ड याद रखें, अगली बार सीधे कनेक्ट होगा</string>
+    <string name="pullfreshlistview_header_hint_normal">नीचे खींचें</string>
+    <string name="pullfreshlistview_header_hint_ready">रीफ़्रेश करने के लिए छोड़ें</string>
+    <string name="pullfreshlistview_header_hint_loading">रीफ़्रेश कर रहा है...</string>
+    <string name="pullfreshlistview_header_last_time">पिछला रीफ़्रेश समय:</string>
+    <string name="pullfreshlistview_footer_hint_normal">और अधिक लोड करें</string>
+    <string name="pullfreshlistview_footer_hint_ready">और अधिक लोड करने के लिए छोड़ें</string>
+    <string name="cloud_preview_action_fail" description="Toast: cloud preview action" maxwidth="-1">क्लाउड फ़ाइलों का पूर्वावलोकन विफल।</string>
+    <string name="cloud_share_action_fail" description="Toast: cloud share action" maxwidth="-1">क्लाउड फ़ाइलों को साझा करना विफल।</string>
+    <string name="cloud_paste_backgroud" description="diaglog cloud background paste">पृष्ठभूमि</string>
+    <string name="cloud_paste_uploading" description="diaglog cloud  paste uploading">फ़ाइलें अपलोड कर रहा है</string>
+    <string name="cloud_paste_downloading" description="diaglog cloud  paste">फ़ाइलें डाउनलोड कर रहा है</string>
+    <string name="cloud_paste_total" description="diaglog cloud  total">कुल</string>
+    <string name="cloud_paste_current" description="diaglog cloud  current">वर्तमान</string>
+    <string name="cloud_paste_copying" description="diaglog cloud  now is copy files">कॉपी कर रहा है...</string>
+    <string name="cloud_paste_deleting" description="diaglog cloud  now is delete source files">स्रोत फ़ाइलें हटा रहा है...</string>
+    <string name="cloud_token_invalidate" description="diaglog cloud  token is invalidate">टोकन अमान्य हो गया,कृपया पुनः लॉगिन करें!</string>
+    <string name="cloud_homebox_status_offline" description="home cloud device is offline">डिवाइस ऑफ़लाइन है</string>
+    <string name="cloud_homebox_status__info_offline" description="home cloud device is offline">ऑफ़लाइन</string>
+    <string name="cloud_homebox_status__info_online" description="home cloud device is online">ऑनलाइन</string>
+    <string name="cloud_homebox_status__info_Sleep" description="home cloud device is sleep">स्लीप</string>
+    <string name="cloud_homebox_no_available_devices" description="home cloud has no available devices">कोई HomeCloud डिवाइस उपलब्ध नहीं है</string>
+    <string name="cloud_homebox_get_devices_fail" description="home cloud get available devices fail">उपलब्ध HomeCloud डिवाइस के लिए स्कैन करने में विफल</string>
+<!--  <string name="cloud_paste_string_format"  description="diaglog cloud  paste string format" maxwidth="-1">%d / %d</string>-->
+    <string name="storage_type_cloud">क्लाउड स्टोरेज</string>
+    <string name="storage_type_local">स्थानीय स्टोरेज</string>
+    <string name="storagetype_add_account">Google खाता जोड़ें</string>
+    <string name="network_cta_hint">कृपया नेटवर्क से कनेक्ट करने के लिए स्वीकार करें</string>
+ <string name="action_refresh_cloudfile">Refresh (रीफ़्रेश करें)</string>
+ <string name="baidu_storage_title">"百度云"</string>
+ <string name="dialog_load_stream_url_info">सर्वर से जरूरी जानकारी पुनः प्राप्त कर रहा है</string>
+ <string name="paste_progress_title">अन्य कॉपी कार्य चल रहा है...</string>
+ <string name="single_drm_file_forbidden_operation">इसके DRM संरक्षित होने के कारण यह कार्यवाही प्रतिबंधित है।</string>
+ <string name="multi_drm_file_forbidden_operation">कुछ चयनित फ़ाइलों के DRM संरक्षित होने के कारण यह कार्यवाही प्रतिबंधित है।</string>
+ <string name="samba_login_error">आपके द्वारा प्रविष्ट उपयोगकर्ता नाम और पासवर्ड गलत है।</string>
+     <string name="action_search" description="cutstom action bar view title for search" maxwidth="">खोजें</string>
+ <string name="cloud_upload_flie_limit_space" description="Toast: The size is over the limit and cannot be uploaded" maxwidth="-1">फ़ाइल अपलोड करने में विफल। फ़ाइल का आकार अधिकतम सीमा से अधिक है।</string>
+ <string name="cloud_download_flie_limit_space" description="Toast: The size is over the limit and cannot be uploaded" maxwidth="-1">फ़ाइल डाउनलोड करने में विफल। फ़ाइल का आकार अधिकतम सीमा से अधिक है।</string>
+ <string name="invalid_account" description="Toast: the account is invalid" maxwidth="-1">आमान्य खाता</string>
+ <string name="homecloud_access_error" description="Can’t connect to HomeCloud." maxwidth="-1">HomeCloud से कनेक्ट करने में विफल। कृपया सुनिश्चित करें कि HomeCloud सेवा ऑनलाइन है।</string>
+ <string name="cloud_flie_name_not_supported" description="Toast: The name of the file uploaded is not supported by cloud server" maxwidth="-1">कार्यवाही पूरी नहीं की जा सकी क्योंकि फ़ाइल का नाम क्लाउड सर्वर द्वारा समर्थित नहीं है।</string>
+ <string name="action_cancel" description="action cancel" maxwidth="-1">रद्द करें</string>
+ <string name="action_add" description="action add files" maxwidth="-1">जोड़ें</string>
+ <string name="no_share_folder">इस डिवाइस में कोई फ़ाइल साझा नहीं हुआ है</string>
+ <string name="edit_toast_special_char">विशेष अक्षर शामिल नहीं कर सकते</string>
+ <string name="delete_one_directory" description="Dialog Content: text in dialog" maxwidth="">क्या आप डायरेक्ट्री को हटाना चाहते हैं?</string>
+ <string name="type_dialog_title">निम्न के रूप में खोलें</string>
+ <string name="type_dialog_text">पाठ</string>
+ <string name="type_dialog_image">छवि</string>
+ <string name="type_dialog_audio">ऑडियो</string>
+ <string name="type_dialog_video">वीडियो</string>
+ <string name="target_directory_is_child_of_source">कार्यवाही पूरी नहीं की जा सकी क्योंकि लक्ष्य डायरेक्ट्री स्रोत डायरेक्ट्री की चाइल्ड है।</string>
+ <string name="edit_toast_name_too_long">अक्षरों की अधिकतम संख्या प्राप्त हो गई</string>
+ <string name="settings_description">"स्थानीय फ़ोल्डर और फ़ाइलें"</string>
+ <string name="clear_account_info">सभी खातों को भूल जाएँ</string>
+ <string name="type_rar" description="document type" maxwidth="-1">"RAR"</string>
+ <string name="set_ring">"रिंग के रूप में सेट करें"</string>
+    <string name="action_zip" description="cutstom action bar view title for zip" maxwidth="">सम्पीड़ित करें</string>
+    <string name="signout_account" description="signout account" width="-1">कनेक्शन हटा दें</string>
+    <string name="cloud_storage_sign_out" description=">Do you want to signout" maxwidth="-1">क्या आप साइन आउट करना चाहते हैं?</string>
+    <string name="cloud_storage_sign_out_title" description="Dialog title: Signout cloud storage" maxwidth="-1">कनेक्शन हटा दें</string>
+    <string name="cloud_storage_sign_in" description=">Do you want to signin" maxwidth="-1">निम्नलिखित खाते का उपयोग करके कनेक्ट करें:</string>
+    <string name="cloud_storage_sign_in_title" description="Dialog title: Signin cloud storage" maxwidth="-1">%s कनेक्ट करें</string>
+    <!-- start add for CTA check  -->
+    <string name="cta_dialog_title">"नेटवर्क का उपयोग करना"</string>
+    <string name="cta_dialog_content"><b>फ़ाइल प्रबंधक</b> नेटवर्क का उपयोग करने का प्रयास करता है, इससे आपकी सदस्यता के आधार पर अन्य शुल्क लागू हो सकते हैं।</string>
+    <string name="cta_check_title">"याद रखें"</string>
+    <string name="cta_agree">"अनुमति दें"</string>
+    <string name="cta_disagree">"इनकार करें"</string>
+    <string name="cta_show_menu">"नेटवर्क अनुमतियाँ"</string>
+    <!-- end add for CTA check  -->
+    <string name="move_to">निम्न पर स्थानांतरित करें</string>
+    <string name="copy_to">निम्न पर कॉपी करें</string>
+    <string name="category_title_category">श्रेणी</string>
+    <string name="category_title_local_storage">स्थानीय स्टोरेज</string>
+    <string name="category_image">छवि</string>
+    <string name="category_music">संगीत</string>
+    <string name="category_video">वीडियो</string>
+    <string name="category_apk">एप्लिकेशन</string>
+    <string name="category_download">डाउनलोड करें</string>
+    <string name="category_favorite">पसंदीदा</string>
+    <string name="category_count">"%s"</string>
+    <string name="open">चालू करें</string>
+    <string name="add_favorite">पसंदीदा में जोड़ें</string>
+    <string name="remove_favorite">पसंदीदा से हटाएँ</string>
+    <string name="add_favorite_success">पसंदीदा में सहेजें</string>
+    <string name="rename_favorite_folder">पसंदीदा फ़ोल्डर का नाम बदलें</string>
+    <string name="rename_favorite_success">नाम सफलतापूर्वक परिवर्तित और पसंदीदा में सहेजा गया</string>
+    <string name="rename_favorite_notice">इसी नाम का एक फ़ोल्डर पसंदीदा फ़ोल्डर में पहले से मौजूद है, क्या आप इसका नाम बदलना चाहते हैं?</string>
+    <string name="remove_favorite_notice_one">क्या आप वाकई पसंदीदा फ़ोल्डर से \"%s\" हटाना चाहते हैं?</string>
+    <string name="remove_favorite_notice_more">क्या आप वाकई पसंदीदा फ़ोल्डर से %d आइटम हटाना चाहते हैं?</string>
+    <string name="remove_favorite_success">सफलतापूर्वक हटाया गया</string>
+    <string name="tutorial_skip">छोड़ें</string>
+    <string name="tutorial_done">संपन्न</string>
+    <string name="tutorial_page_one_title">ASUS फ़ाइल मैनेजर</string>
+    <string name="tutorial_page_one_content">ASUS फ़ाइल मैनेजर आपको आपके आंतरिक, बाहरी, लोकल एरिया नेटवर्क, या क्लाउड संग्रहणों में संग्रहीत आपकी फ़ाइलों को आसानी से प्रबंधित करने देता है।</string>
+    <string name="tutorial_page_two_title">होम पेज</string>
+    <string name="tutorial_page_two_content">उपयोग-में-आसान श्रेणियाँ जो आपको आपके स्थानीय स्टोरेज में संग्रहीत आपकी फ़ाइलों तक आसानी से पहुँचने देती हैं।</string>
+    <string name="tutorial_page_three_title">कार्य सूची को दाएँ स्वाइप करें</string>
+    <string name="tutorial_page_three_content">किसी आइटम को दाएँ स्वाइप करके पसंदीदा में जोड़ें, नाम बदलें, निम्न पर स्थानांतरित करें, निम्न पर कॉपी करें जैसे कार्य और अन्य फ़ाइल प्रबंधन विकल्प प्रदर्शित करें।</string>
+    <string name="tutorial_page_four_title">पसंदीदा</string>
+    <string name="tutorial_page_four_content">अकसर प्रयोग होने वाले फ़ोल्डर को पसंदीदा के रूप में सेट करें ताकि उस फ़ोल्डर तक तेज़ी और आसानी से पहुँच सकें।</string>
+    <string name="saf_permission_tutorial_title">SD कार्ड संचालित करने हेतु पहुँच का अनुरोध करें</string>
+    <string name="saf_permission_tutorial_content">ASUS फ़ाइल मैनेजर आपका SD कार्ड संचालित करने हेतु पहुँच अनुमति का अनुरोध कर रहा है। क्या आप पहुँच प्रदान करना चाहते हैं?</string>
+    <string name="saf_tutorial_step_one">मेनू आइकन टैप करें फिर SD कार्ड दिखाएँ टैप करें।</string>
+    <string name="saf_tutorial_step_two">ड्रॉअर प्रदर्शित करने के लिए स्क्रीन के बाएँ किनारे की तरफ स्वाइप करें फिर SD कार्ड टैप करें।</string>
+    <string name="saf_tutorial_step_three">ASUS फ़ाइल मैनेजर को पहुँच अनुमति प्रदान करने के लिए SD कार्ड चुनें टैप करें।</string>
+    <string name="device_root_path">रूट</string>
+    <string name="tap_to_exit">बाहर निकलने के लिए फिर से टैप करें</string>
+    <string name="info_path" description="file info textview context" maxwidth="-1">"पथ: "</string>
+    <string name="recruit_beta_user" description="recruit beta user" maxwidth="-1">पूर्वावलोकन संस्करण पाएँ</string>
+    <string name="rate_us" description="rate us" maxwidth="-1">हमें रेट करें</string>
+    <string name="scroll_up_toast" description="rate now" maxwidth="">कृपया रेट करने के लिए ऊपर स्क्रॉल करें</string>
+    <string name="settings_encourage_us_detail" description="recommend text" maxwidth="">यदि आपको %s ा का उपयोग करने में आनंद आता है, तो कृपया हमें Play Store में रेट करते समय 5-स्टार दें। यह हमारे लिए अपने उत्पाद को और अधिक बेहतर बनाना जारी रखने के लिए बड़ा प्रोत्साहन होगा!</string>
+    <string name="yes">हाँ</string>
+    <string name="menu_tutorial" description="settings menu tutorial" maxwidth="-1">टूटोरियल</string>
+    <string name="about">"परिचय"</string>
+    <string name="version_text">संस्‍करण</string>
+    <string name="tell_friend" description="" maxwidth="">किसी मित्र को बताएँ</string>
+    <string name="toolbar_item_title_encourage_us" maxwidth="35">हमें प्रोत्साहित करें</string>
+    <string name="zenui_update">"ZenUI त्वरित अद्यतन"</string>
+    <string name="whats_new_label">नया क्या है</string>
+    <string name="next">अगला</string>
+    <string name="invite_friends" description="sticker detail page button name" maxwidth="-1">"मित्रों को आमंत्रित करें"</string>
+    <string name="news_mark1" maxwidth="">"★  "</string>
+</resources>

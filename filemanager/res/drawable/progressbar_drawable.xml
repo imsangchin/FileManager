@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@android:id/background">
+        <shape>
+            <corners android:radius="5.0dp" />
+            <gradient android:startColor="@color/category_local_storage_progress_background"
+                android:centerColor="@color/category_local_storage_progress_background"
+                android:endColor="@color/category_local_storage_progress_background"
+                android:angle="0"/>
+        </shape>
+    </item>
+    <item android:id="@android:id/progress">
+        <clip>
+            <shape>
+                <corners android:radius="5.0dp" />
+                <gradient android:startColor="@color/category_local_storage_progress"
+                    android:centerColor="@color/category_local_storage_progress"
+                    android:endColor="@color/category_local_storage_progress" android:angle="0"/>
+            </shape>
+        </clip>
+    </item>
+</layer-list>

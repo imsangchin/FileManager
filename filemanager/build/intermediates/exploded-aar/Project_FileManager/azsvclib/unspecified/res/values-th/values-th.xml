@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string description="Don&apos;t remind me again" maxwidth="-1" name="alert_cb_msg">ไม่ต้องแจ้งเตือนอีก</string>
+    <string description="ASUS ZenUI Services is not support, need update ASUS ZenUI Services" maxwidth="-1" name="alert_msg_azs_update">%1$s ต้องการเวอร์ชันล่าสุดของ ASUS ZenUI Services กรุณาติดตั้งตอนนี้</string>
+    <string description="Client app is not support, need update client app" maxwidth="-1" name="alert_msg_client_update">เวอร์ชันใหม่ของ %1$s สามารถใช้ได้แล้ว กรุณาติดตั้งตอนนี้</string>
+    <string description="Client app version is compatible with ASUS ZenUI Services" maxwidth="-1" name="alert_msg_compatible">เวอร์ชัน %1$s สามารถเข้ากันได้กับ ASUS ZenUI Services </string>
+    <string description="Client app version is match with ASUS ZenUI Services" maxwidth="-1" name="alert_msg_match">เวอร์ชัน %1$s ตรงตาม ASUS ZenUI Services </string>
+    <string description="ASUS ZenUI Services is not found on device" maxwidth="-1" name="alert_msg_not_found">ASUS ZenUI Services ยังไม่ได้รับการติดตั้ง!\n\nดำเนินการดาวน์โหลดและติดตั้งหรือไม่</string>
+    <string description="Dialog title" maxwidth="-1" name="alert_title">หมายเหตุ</string>
+    <string description="Dialog title" maxwidth="-1" name="alert_title_update">การอัปเดตที่แนะนำ</string>
+</resources>

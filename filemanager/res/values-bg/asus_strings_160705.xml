@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="tools_hidden_zone">"Скрит шкаф"</string>
+    <string name="action_hidden_zone" maxwidth="">"Преместване в скрит шкаф"</string>
+    <string name="move_to_hidden_zone_progress" description="Progress Content: text in progress dialog" maxwidth="">"Преместване в скрит шкаф..."</string>
+    <string name="move_to_hidden_zone_success_one" description="Toast: move to recycle bin success. %s is variable string." maxwidth="-1">"Файл \"%s\" е преместен в скрит шкаф."</string>
+    <string name="move_to_hidden_zone_success_more" description="Toast: move to recycle bin success" maxwidth="-1">"Избраните файлове бяха преместени в скрит шкаф."</string>
+    <string name="move_to_hidden_zone_fail" description="Toast: move to recycle bin fails" maxwidth="-1">"Неуспешно преместване в скрит шкаф"</string>
+    <string name="can_not_open_in_hidden_zone" description="Toast: can not open in hidden zone" maxwidth="-1">"Невъзможно отваряне в скрития шкаф"</string>
+    <string name="hidden_zone_setup_password">"Въведете 4-цифрен PIN код"</string>
+    <string name="hidden_zone_setup_account">"Настройка на акаунт"</string>
+    <string name="hidden_zone_forget_password">"Забрави парола"</string>
+    <string name="hidden_zone_wrong_password">"Грешен PIN код"</string>
+    <string name="hidden_zone_change_password">"Промяна на парола"</string>
+    <string name="hidden_zone_confirm_password">"Потвърждаване на PIN код"</string>
+    <string name="hidden_zone_set_password_success">"Паролата е зададена успешно"</string>
+    <string name="hidden_zone_fingerprint_to_unlock">"Пръстов отпечатък за отключване"</string>
+    <string name="hidden_zone_password_mismatch">"PIN кодът не съвпада"</string>
+    <string name="hidden_zone_introduction_description">"Скриване на вашите лични файлове в скрития шкаф. За отваряне на скрития шкаф е нужен PIN код."</string>
+    <string name="hidden_zone_enter_password">"Въведете своя PIN код"</string>
+    <string name="setup">"Настройка"</string>
+    <string name="set_password_title">"Създаване на PIN код"</string>
+    <string name="setup_account_title">"Получаване на PIN код"</string>
+    <string name="setup_account_description">"Задайте имейл акаунт, за да получите своя PIN код"</string>
+    <string name="setup_account_no_internet_connection">"Няма връзка към интернет"</string>
+    <string name="setup_account_skip">"Пропускане"</string>
+    <string name="setup_my_digital_code">"Задаване на PIN код"</string>
+    <string name="setup_fingerprint_message">"Разрешаване на пръстов отпечатък за отключване? Скритият шкаф поддържа проверка на пръстов отпечатък. Сканирайте своя пръстов отпечатък от Настройки, за да започнете."</string>
+    <string name="toast_auto_lock_notify_message">"Заключване на скрития шкаф, когато устройството е заключено"</string>
+</resources>

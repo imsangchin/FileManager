@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<account-authenticator xmlns:android="http://schemas.android.com/apk/res/android"
+    android:accountType="com.asus.account.ydcloud"
+    android:icon="@drawable/ic_ydcloud"
+    android:label="@string/yd_label"
+    android:customTokens="true"
+    android:smallIcon="@drawable/ic_ydcloud" />

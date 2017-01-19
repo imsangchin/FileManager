@@ -1,0 +1,1007 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:2:1-578:12
+	package
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:4:5-35
+		INJECTED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml
+		INJECTED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:6:5-48
+		INJECTED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml
+		INJECTED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:3:5-51
+	android:versionCode
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:5:5-37
+	xmlns:android
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:8:5-11:53
+MERGED from [Project_FileManager:asusui:unspecified] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\Project_FileManager\asusui\unspecified\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:multidex:1.0.1] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\AndroidManifest.xml:18:5-42
+MERGED from [Project_FileManager:azsvclib:unspecified] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\Project_FileManager\azsvclib\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [Project_FileManager:facebookenginelite:unspecified] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\Project_FileManager\facebookenginelite\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [Project_FileManager:cloudfacebooksdk:unspecified] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\Project_FileManager\cloudfacebooksdk\unspecified\AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:support-v4:24.0.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\AndroidManifest.xml:21:5-23:54
+MERGED from [Project_FileManager:uservoicesdk:unspecified] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\Project_FileManager\uservoicesdk\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:recyclerview-v7:24.0.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0\AndroidManifest.xml:20:5-43
+MERGED from [Project_FileManager:cloudstorage:unspecified] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\Project_FileManager\cloudstorage\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [Project_FileManager:asusaccount:unspecified] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\Project_FileManager\asusaccount\unspecified\AndroidManifest.xml:7:5-44
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-analytics:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-auth:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-auth-base:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.8.0\AndroidManifest.xml:4:5-42
+MERGED from [Project_FileManager:asusupdatesdk:unspecified] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\Project_FileManager\asusupdatesdk\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-crash:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.8.0\AndroidManifest.xml:20:5-42
+MERGED from [com.google.firebase:firebase-iid:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-common:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-invites:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.firebase\firebase-invites\9.8.0\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:design:24.0.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.android.support\design\24.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.0.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-vector-drawable:24.0.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.firebase\firebase-core\9.8.0\AndroidManifest.xml:4:5-42
+	tools:overrideLibrary
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:11:9-50
+	android:targetSdkVersion
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:10:9-38
+		INJECTED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml
+		INJECTED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:9:9-35
+		INJECTED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml
+		INJECTED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml
+permission#com.asus.filemanager.provider.OpenFileProvider.PERMISSION.READ
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:13:5-16:47
+	android:label
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:15:9-48
+	android:protectionLevel
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:16:9-44
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:14:9-86
+permission#com.asus.filemanager.provider.OpenFileProvider.PERMISSION.WRITE
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:17:5-20:44
+	android:label
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:19:9-49
+	android:protectionLevel
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:20:9-41
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:18:9-87
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:22:5-84
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:22:22-81
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:23:22-78
+uses-permission#android.permission.WAKE_LOCK
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-analytics:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.8.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.8.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-iid:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\AndroidManifest.xml:22:5-67
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:24:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:25:5-79
+MERGED from [Project_FileManager:uservoicesdk:unspecified] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\Project_FileManager\uservoicesdk\unspecified\AndroidManifest.xml:12:5-79
+MERGED from [com.google.android.gms:play-services-analytics:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.8.0\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.8.0\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\AndroidManifest.xml:21:5-78
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:25:22-76
+uses-permission#com.android.email.permission.READ_ATTACHMENT
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:26:5-84
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:26:22-81
+uses-permission#android.permission.EXPAND_STATUS_BAR
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:27:5-76
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:27:22-73
+uses-permission#android.permission.INTERACT_ACROSS_USERS
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:28:5-80
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:28:22-77
+uses-permission#android.permission.MANAGE_USERS
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:29:5-71
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:29:22-68
+uses-permission#android.permission.INTERNET
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:30:5-67
+MERGED from [Project_FileManager:uservoicesdk:unspecified] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\Project_FileManager\uservoicesdk\unspecified\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-analytics:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.8.0\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.8.0\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-crash:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.8.0\AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-iid:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.8.0\AndroidManifest.xml:18:5-66
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:30:22-64
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:31:5-71
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:31:22-68
+uses-permission#com.android.gallery3d.permission.READ_PICASA
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:32:5-84
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:32:22-81
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:33:5-76
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:33:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:34:5-76
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:34:22-73
+uses-permission#android.permission.GET_TASKS
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:35:5-68
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:35:22-65
+uses-permission#android.permission.MANAGE_ACCOUNTS
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:36:5-74
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:36:22-71
+uses-permission#android.permission.AUTHENTICATE_ACCOUNTS
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:37:5-80
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:37:22-77
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:38:5-74
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:38:22-71
+uses-permission#android.permission.WRITE_MEDIA_STORAGE
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:39:5-78
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:39:22-75
+uses-permission#com.android.launcher.permission.INSTALL_SHORTCUT
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:40:5-88
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:40:22-85
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:41:5-74
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:41:22-71
+uses-permission#com.asus.filemanager.provider.OpenFileProvider.PERMISSION.READ
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:42:5-102
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:42:22-99
+uses-permission#com.asus.filemanager.provider.OpenFileProvider.PERMISSION.WRITE
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:43:5-103
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:43:22-100
+uses-permission#com.asus.vzwhelp.provider.permission
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:44:5-76
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:44:22-73
+android:uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:46:5-83
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:46:30-80
+android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:47:5-88
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:47:30-85
+application
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:59:5-576:19
+MERGED from [Project_FileManager:facebookenginelite:unspecified] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\Project_FileManager\facebookenginelite\unspecified\AndroidManifest.xml:11:5-14:19
+MERGED from [Project_FileManager:cloudfacebooksdk:unspecified] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\Project_FileManager\cloudfacebooksdk\unspecified\AndroidManifest.xml:28:5-20
+MERGED from [com.android.support:support-v4:24.0.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\AndroidManifest.xml:25:5-20
+MERGED from [Project_FileManager:uservoicesdk:unspecified] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\Project_FileManager\uservoicesdk\unspecified\AndroidManifest.xml:14:5-30:19
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-base:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-analytics:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.8.0\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.8.0\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-auth:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.0\AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.firebase:firebase-crash:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.8.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-iid:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-invites:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.firebase\firebase-invites\9.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.8.0\AndroidManifest.xml:19:5-26:19
+MERGED from [com.android.support:design:24.0.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.android.support\design\24.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:24.0.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:24.0.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-core:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.firebase\firebase-core\9.8.0\AndroidManifest.xml:5:5-20
+	android:label
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:64:9-45
+	android:hardwareAccelerated
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:62:9-43
+	android:allowBackup
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:61:9-36
+		REJECTED from [Project_FileManager:facebookenginelite:unspecified] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\Project_FileManager\facebookenginelite\unspecified\AndroidManifest.xml:11:18-44
+		REJECTED from [Project_FileManager:uservoicesdk:unspecified] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\Project_FileManager\uservoicesdk\unspecified\AndroidManifest.xml:14:18-45
+	android:icon
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:63:9-48
+	android:theme
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:65:9-79
+	tools:replace
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:66:9-61
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:60:9-56
+activity#com.asus.filemanager.activity.FileManagerActivity
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:67:9-116:20
+	android:label
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:70:13-49
+	android:launchMode
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:71:13-43
+	android:configChanges
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:69:13-91
+	android:theme
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:72:13-65
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:68:13-57
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT+android.intent.category.LAUNCHER
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:73:13-78:29
+action#android.intent.action.MAIN
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:74:17-69
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:74:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:76:17-77
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:76:27-74
+category#android.intent.category.DEFAULT
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:77:17-76
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:77:27-73
+intent-filter#android.intent.action.SEARCH
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:79:13-81:29
+action#android.intent.action.SEARCH
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:80:17-71
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:80:25-68
+meta-data#android.app.searchable
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:83:13-85:60
+MERGED from [Project_FileManager:uservoicesdk:unspecified] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\Project_FileManager\uservoicesdk\unspecified\AndroidManifest.xml:19:13-21:61
+	android:resource
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:85:17-57
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:84:17-54
+intent-filter#android.intent.action.VIEW+android.intent.category.DEFAULT
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:87:13-94:29
+action#android.intent.action.VIEW
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:88:17-69
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:88:25-66
+data
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:92:17-47
+	android:scheme
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:92:23-44
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:103:13-110:29
+category#android.intent.category.BROWSABLE
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:107:17-78
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:107:27-75
+intent-filter#android.intent.action.CREATE_SHORTCUT+android.intent.category.DEFAULT
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:111:13-115:29
+action#android.intent.action.CREATE_SHORTCUT
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:112:17-80
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:112:25-77
+activity#com.asus.filemanager.activity.FileManagerGetContent
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:117:9-134:20
+	android:label
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:119:13-49
+	android:theme
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:120:13-65
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:118:13-59
+intent-filter#android.intent.category.DEFAULT+com.asus.filemanager.action.MULTIPLE_SELECTION
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:121:13-125:29
+action#com.asus.filemanager.action.MULTIPLE_SELECTION
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:122:17-89
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:122:25-86
+intent-filter#android.intent.action.GET_CONTENT+android.intent.category.DEFAULT+android.intent.category.OPENABLE
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:126:13-133:29
+action#android.intent.action.GET_CONTENT
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:127:17-76
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:127:25-73
+category#android.intent.category.OPENABLE
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:130:17-77
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:130:27-74
+activity#com.asus.filemanager.activity.TutorialActivity
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:135:9-137:61
+	android:label
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:137:13-49
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:136:13-54
+activity#com.asus.filemanager.activity.HttpServerActivity
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:138:9-142:66
+	android:label
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:141:13-45
+	android:configChanges
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:140:13-59
+	android:theme
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:142:13-54
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:139:13-56
+activity#com.asus.filemanager.activity.LowStorageTutorialActivity
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:143:9-146:66
+	android:label
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:145:13-49
+	android:theme
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:146:13-54
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:144:13-64
+activity#com.asus.filemanager.dialog.FolderSelection
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:147:9-162:20
+	android:label
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:150:13-49
+	android:configChanges
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:149:13-72
+	android:theme
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:152:13-64
+	android:taskAffinity
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:151:13-36
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:148:13-51
+intent-filter#android.intent.category.DEFAULT
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:153:13-155:29
+intent-filter#android.intent.action.MEDIA_MOUNTED+android.intent.action.MEDIA_UNMOUNTED
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:156:13-161:29
+action#android.intent.action.MEDIA_MOUNTED
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:157:17-78
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:157:25-75
+action#android.intent.action.MEDIA_UNMOUNTED
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:158:17-80
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:158:25-77
+activity#com.asus.filemanager.dialog.AlbumPicker
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:163:9-178:20
+	android:label
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:166:13-49
+	android:configChanges
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:165:13-72
+	android:theme
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:168:13-63
+	android:taskAffinity
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:167:13-36
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:164:13-47
+activity#com.asus.filemanager.dialog.PhotoPicker
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:179:9-194:20
+	android:label
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:182:13-49
+	android:configChanges
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:181:13-72
+	android:theme
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:184:13-63
+	android:taskAffinity
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:183:13-36
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:180:13-47
+activity#com.asus.filemanager.activity.StorageAnalyzerActivity
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:195:9-198:66
+	android:configChanges
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:197:13-59
+	android:theme
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:198:13-54
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:196:13-61
+activity#com.asus.filemanager.activity.AnalyzerAllFilesActivity
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:199:9-202:77
+	android:configChanges
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:201:13-59
+	android:theme
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:202:13-65
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:200:13-62
+activity#com.asus.filemanager.activity.AnalyzerDupFilesActivity
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:203:9-206:71
+	android:configChanges
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:205:13-59
+	android:theme
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:206:13-59
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:204:13-62
+provider#com.asus.filemanager.provider.FileManagerProvider
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:208:9-211:39
+	android:authorities
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:210:13-64
+	android:exported
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:211:13-36
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:209:13-57
+provider#com.asus.filemanager.provider.SuggestionsProvider
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:212:9-215:39
+	android:authorities
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:214:13-75
+	android:exported
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:215:13-36
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:213:13-57
+provider#com.asus.filemanager.samba.provider.PCAccountInfoProvider
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:216:9-219:40
+	android:authorities
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:218:13-83
+	android:syncable
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:219:13-37
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:217:13-65
+provider#com.asus.filemanager.provider.SearchHistoryProvider
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:220:9-223:39
+	android:authorities
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:222:13-77
+	android:exported
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:223:13-36
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:221:13-59
+provider#com.asus.filemanager.provider.OpenFileProvider
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:224:9-232:20
+	android:readPermission
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:229:13-100
+	android:authorities
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:226:13-72
+	android:grantUriPermissions
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:228:13-48
+	android:exported
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:227:13-36
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:225:13-54
+	android:writePermission
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:230:13-102
+grant-uri-permission
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:231:13-64
+	android:pathPrefix
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:231:35-61
+activity#com.asus.filemanager.activity.HandleSearchIntentActivity
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:246:9-264:20
+	android:launchMode
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:248:13-43
+	android:theme
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:249:13-55
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:247:13-64
+intent-filter#android.intent.action.SEARCH+android.intent.category.DEFAULT
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:250:13-254:29
+activity#com.uservoice.uservoicesdk.activity.PortalActivity
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:265:9-276:20
+MERGED from [Project_FileManager:uservoicesdk:unspecified] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\Project_FileManager\uservoicesdk\unspecified\AndroidManifest.xml:15:9-26:20
+	android:launchMode
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:268:13-43
+	android:configChanges
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:267:13-74
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:266:13-78
+service#com.asus.filemanager.service.RemoteServiceMessenger
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:278:9-75
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:278:18-64
+receiver#com.asus.filemanager.receiver.FeedbackReceiver
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:280:9-284:20
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:280:19-60
+intent-filter#com.asus.filemanager.intent.action.USERFEEDBACK
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:281:13-283:29
+action#com.asus.filemanager.intent.action.USERFEEDBACK
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:282:17-97
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:282:25-87
+activity#com.asus.service.asuscloud.ASUSAccountLoginActivity
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:286:9-291:67
+	android:excludeFromRecents
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:289:13-46
+	android:windowSoftInputMode
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:291:13-55
+	android:configChanges
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:288:13-59
+	android:theme
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:290:13-66
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:287:13-79
+activity#com.asus.service.asuscloud.AccountIntegrateActivity
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:292:9-299:54
+	android:label
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:296:13-57
+	android:launchMode
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:297:13-48
+	android:exported
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:295:13-36
+	android:configChanges
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:294:13-59
+	android:theme
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:298:13-55
+	tools:replace
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:299:13-42
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:293:13-79
+activity#com.asus.service.DropboxAuthenticator.DbxLoginActivity
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:302:9-317:20
+	android:label
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:306:13-57
+	android:excludeFromRecents
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:304:13-46
+	android:launchMode
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:307:13-44
+	android:exported
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:305:13-36
+	android:theme
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:308:13-55
+	tools:replace
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:309:13-42
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:303:13-82
+activity#com.asus.service.OneDriveAuthenticator.SDAuthenticatorActivity
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:320:9-323:67
+	android:windowSoftInputMode
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:323:13-55
+	android:configChanges
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:322:13-74
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:321:13-90
+activity#com.asus.service.BaiduPCS.BaiduAuthenticatorActivity
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:326:9-329:67
+	android:windowSoftInputMode
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:329:13-55
+	android:configChanges
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:328:13-74
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:327:13-80
+activity#com.asus.service.yandex.YandexAuthenticatorActivity
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:332:9-335:67
+	android:windowSoftInputMode
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:335:13-55
+	android:configChanges
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:334:13-74
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:333:13-79
+activity#com.asus.service.AccountAuthenticator.helper.TokenHelperActivity
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:338:9-344:54
+	android:label
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:342:13-57
+	android:excludeFromRecents
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:341:13-46
+	android:configChanges
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:340:13-59
+	android:theme
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:343:13-55
+	tools:replace
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:344:13-42
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:339:13-92
+service#com.asus.service.AccountAuthenticator.helper.TokenHelperService
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:347:9-349:47
+	android:exported
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:349:13-36
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:348:13-91
+service#com.asus.service.cloudstorage.CloudStorageService
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:359:9-369:19
+	android:enabled
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:362:13-35
+	android:exported
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:363:13-36
+	android:configChanges
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:361:13-74
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:360:13-77
+intent-filter#android.intent.action.UPADTE_ACCOUNTS+android.intent.category.DEFAULT
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:364:13-368:29
+action#android.intent.action.UPADTE_ACCOUNTS
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:365:17-80
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:365:25-77
+activity#com.asus.service.cloudstorage.googleDrive.GoogleDriveAuthentication
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:372:9-375:67
+	android:configChanges
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:374:13-59
+	android:theme
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:375:13-55
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:373:13-95
+receiver#com.asus.service.cloudstorage.AccountsChangedReceiver
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:377:9-381:20
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:377:19-87
+intent-filter#android.accounts.LOGIN_ACCOUNTS_CHANGED
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:378:13-380:29
+action#android.accounts.LOGIN_ACCOUNTS_CHANGED
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:379:17-82
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:379:25-79
+activity#com.asus.service.cloudstorage.dumgr.ProgressInfoActivity
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:383:9-386:64
+	android:launchMode
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:385:13-48
+	android:theme
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:386:13-61
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:384:13-84
+activity#com.asus.filemanager.activity.FileManagerAboutActivity
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:387:9-389:62
+	android:theme
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:389:13-59
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:388:13-62
+activity#com.asus.filemanager.activity.AddCloudAccountActivity
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:390:9-392:72
+	android:theme
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:392:13-69
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:391:13-61
+activity#com.asus.filemanager.activity.CategorySortingActivity
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:393:9-395:62
+	android:theme
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:395:13-59
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:394:13-61
+activity#com.asus.filemanager.activity.FileManagerEULATemplActivity
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:396:9-398:62
+	android:theme
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:398:13-59
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:397:13-66
+activity#com.asus.filemanager.activity.ViewPagerActivity
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:399:9-402:63
+	android:configChanges
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:401:13-59
+	android:theme
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:402:13-60
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:400:13-55
+activity#com.asus.filemanager.activity.FileManagerInviteActivity
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:404:9-406:62
+	android:theme
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:406:13-59
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:405:13-63
+activity#com.asus.filemanager.activity.FileManagerSettingActivity
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:407:9-409:62
+	android:theme
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:409:13-59
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:408:13-64
+receiver#com.google.android.gms.analytics.AnalyticsReceiver
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:411:9-417:20
+	android:enabled
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:413:13-35
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:412:13-78
+intent-filter#com.google.android.gms.analytics.ANALYTICS_DISPATCH
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:414:13-416:29
+action#com.google.android.gms.analytics.ANALYTICS_DISPATCH
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:415:17-94
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:415:25-91
+service#com.google.android.gms.analytics.AnalyticsService
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:419:9-422:40
+	android:enabled
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:421:13-35
+	android:exported
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:422:13-37
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:420:13-77
+receiver#com.google.android.gms.analytics.CampaignTrackingReceiver
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:428:9-434:20
+	android:exported
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:430:13-36
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:429:13-85
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:431:13-433:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:432:17-79
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:432:25-76
+service#com.google.android.gms.analytics.CampaignTrackingService
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:436:9-92
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:436:18-89
+receiver#com.asus.updatesdk.analytic.CheckAppUpdateReceiver
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:438:9-87
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:438:19-84
+activity#com.asus.updatesdk.activity.ZenFamilyActivity
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:440:9-442:55
+	android:launchMode
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:442:13-43
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:441:13-73
+receiver#com.asus.updatesdk.ZenFamilyUpdateReceiver
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:444:9-450:20
+	android:exported
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:446:13-36
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:445:13-70
+intent-filter#com.asus.zenuifamily.action.UPDATE
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:447:13-449:29
+action#com.asus.zenuifamily.action.UPDATE
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:448:17-77
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:448:25-74
+receiver#com.asus.updatesdk.ZenFamilyShareReceiver
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:451:9-455:20
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:451:19-75
+intent-filter#com.asus.zenuifamily.action.REQUEST_MASTER
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:452:13-454:29
+action#com.asus.zenuifamily.action.REQUEST_MASTER
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:453:17-85
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:453:25-82
+meta-data#com.asus.updatesdk.cache.CacheGlideModule
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:457:9-459:43
+	android:value
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:459:13-40
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:458:13-69
+meta-data#com.google.android.gms.version
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:460:9-462:69
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:462:13-66
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:461:13-58
+receiver#com.asus.filemanager.receiver.UpgradeBroadcastReceiver
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:464:9-480:20
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:464:19-68
+intent-filter#android.intent.action.PACKAGE_REMOVED
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:465:13-469:29
+action#android.intent.action.PACKAGE_REMOVED
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:466:17-80
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:466:25-77
+intent-filter#android.intent.action.PACKAGE_REPLACED
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:470:13-474:29
+action#android.intent.action.PACKAGE_REPLACED
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:471:17-81
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:471:25-78
+intent-filter#android.intent.action.PACKAGE_ADDED
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:475:13-479:29
+action#android.intent.action.PACKAGE_ADDED
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:476:17-78
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:476:25-75
+receiver#com.asus.filemanager.receiver.MediaScannerBroadcastReceiver
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:481:9-489:20
+	android:enabled
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:483:13-35
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:482:13-67
+intent-filter#com.asus.filemanager.check_large_file
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:484:13-488:29
+action#com.asus.filemanager.check_large_file
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:485:17-80
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:485:25-77
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:491:9-493:55
+	android:value
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:493:13-52
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:492:13-58
+activity#com.facebook.FacebookActivity
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:495:9-499:75
+	android:label
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:498:13-49
+	android:configChanges
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:497:13-96
+	android:theme
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:499:13-72
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:496:13-57
+provider#com.asus.filemanager.provider.GameAppProvider
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:532:9-535:49
+	android:authorities
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:534:13-79
+	android:exported
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:535:13-37
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:533:13-53
+receiver#com.asus.filemanager.adapter.grouper.categoryparser.AppInstallReceiver
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:537:9-545:20
+	android:enabled
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:539:13-36
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:538:13-78
+activity#com.asus.filemanager.hiddenzone.activity.HiddenZoneIntroActivity
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:547:9-550:71
+	android:label
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:549:13-54
+	android:theme
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:550:13-59
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:548:13-72
+activity#com.asus.filemanager.hiddenzone.activity.SetupPasswordActivity
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:551:9-554:81
+	android:label
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:553:13-54
+	android:theme
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:554:13-69
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:552:13-70
+activity#com.asus.filemanager.hiddenzone.activity.UnlockActivity
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:555:9-558:81
+	android:label
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:557:13-54
+	android:theme
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:558:13-69
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:556:13-63
+activity#com.asus.filemanager.hiddenzone.activity.SetupAccountActivity
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:559:9-562:71
+	android:label
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:561:13-54
+	android:theme
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:562:13-59
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:560:13-69
+meta-data#firebase_analytics_collection_enabled
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:569:9-571:37
+	android:value
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:571:13-34
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:570:13-65
+activity#com.asus.filemanager.activity.ShoppingCartDetailActivity
+ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:573:9-575:84
+	android:label
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:575:13-72
+	android:name
+		ADDED from E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\AndroidManifest.xml:574:13-64
+uses-permission#android.permission.VIBRATE
+ADDED from [Project_FileManager:asusui:unspecified] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\Project_FileManager\asusui\unspecified\AndroidManifest.xml:26:5-66
+	android:name
+		ADDED from [Project_FileManager:asusui:unspecified] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\Project_FileManager\asusui\unspecified\AndroidManifest.xml:26:22-63
+activity#com.asus.lite.facebook.ui.PostVideoActivity
+ADDED from [Project_FileManager:facebookenginelite:unspecified] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\Project_FileManager\facebookenginelite\unspecified\AndroidManifest.xml:12:9-13:20
+	android:name
+		ADDED from [Project_FileManager:facebookenginelite:unspecified] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\Project_FileManager\facebookenginelite\unspecified\AndroidManifest.xml:12:19-77
+activity#com.uservoice.uservoicesdk.activity.SingleArticleActivity
+ADDED from [Project_FileManager:uservoicesdk:unspecified] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\Project_FileManager\uservoicesdk\unspecified\AndroidManifest.xml:27:9-29:77
+	android:configChanges
+		ADDED from [Project_FileManager:uservoicesdk:unspecified] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\Project_FileManager\uservoicesdk\unspecified\AndroidManifest.xml:29:13-74
+	android:name
+		ADDED from [Project_FileManager:uservoicesdk:unspecified] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\Project_FileManager\uservoicesdk\unspecified\AndroidManifest.xml:28:13-85
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\AndroidManifest.xml:19:19-85
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.0\AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.0\AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.0\AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.0\AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.0\AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.0\AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.0\AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.0\AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.0\AndroidManifest.xml:24:18-63
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:44:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:45:13-47:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:45:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:46:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:46:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\AndroidManifest.xml:6:9-175
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\AndroidManifest.xml:6:125-149
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\AndroidManifest.xml:6:150-173
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\AndroidManifest.xml:6:79-124
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:27:17-104
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:32:16-87
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.8.0\AndroidManifest.xml:20:9-25:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.8.0\AndroidManifest.xml:20:51-74
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.8.0\AndroidManifest.xml:20:75-121
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.8.0\AndroidManifest.xml:20:19-50
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.8.0\AndroidManifest.xml:21:13-24:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.8.0\AndroidManifest.xml:22:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.8.0] E:\WorkFiles\AndroidProject\FileManager\Project_FileManager\filemanager\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.8.0\AndroidManifest.xml:22:25-87

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!--Text for trash-->
+    <string name="permanently_delete">"永久刪除"</string>
+    <string name="tools_recycle_bin">"資源回收筒"</string>
+    <!--string name="move_or_delete">Move or delete</string-->
+    <string name="move_or_delete_msg">"將檔案暫時移至資源回收筒？\n(或選擇永久刪除檔案)"</string>
+    <string name="move_to_trash_progress" description="Progress Content: text in progress dialog" maxwidth="">"移至資源回收筒中..."</string>
+    <string name="move_to_trash_success_one" description="Toast: move to recycle bin success. %s is variable string." maxwidth="-1">"\"%s\"已移至資源回收筒"</string>
+    <string name="move_to_trash_success_more" description="Toast: move to recycle bin success" maxwidth="-1">"您選擇的檔案已移至資源回收筒"</string>
+    <string name="move_to_trash_fail" description="Toast: move to recycle bin fails" maxwidth="-1">"移至資源回收筒失敗"</string>
+    <string name="trash_info_deleted" maxwidth="-1">"刪除日期："</string>
+    <string name="trash_info_path" maxwidth="-1">"原始位置："</string>
+    <string name="action_clean_all" maxwidth="-1">"清空資源回收筒"</string>
+    <string name="action_restore_all" maxwidth="-1">"還原所有檔案"</string>
+    <string name="action_clean" maxwidth="-1">"清除檔案"</string>
+    <string name="action_restore" maxwidth="-1">"還原檔案"</string>
+    <string name="restore_success_one" description="Toast: restore success. %s is variable string." maxwidth="-1">"\"%s\"已還原"</string>
+    <string name="restore_success_more" description="Toast: restore success" maxwidth="-1">"您選擇的檔案已還原"</string>
+    <string name="restore_fail" description="Toast: restore fails" maxwidth="-1">"還原失敗"</string>
+    <string name="restore_progress" description="Progress Content: text in progress dialog" maxwidth="">"還原中..."</string>
+    <string name="calculate_progress" description="Progress Content: text in progress dialog" maxwidth="">"處理中..."</string>
+    <string name="msg_too_big_to_recycle">"檔案太大無法放入資源回收筒\n是否要永久刪除？"</string>
+    <string name="duplicate_files">"重複檔案"</string>
+    <string name="duplicate_files_content_hint">"找出重複檔案，然後您可以再確認一下這些檔案是否需要刪除。"</string>
+</resources>

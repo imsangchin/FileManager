@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Sylvia Cheng, 2016/03/22, Setting page -->
+    <string name="action_settings" description="menu title for setting" maxwidth="-1">"Ρυθμίσεις"</string>
+    <string name="setting_view_group">"Ρύθμιση προβολής"</string>
+    <string name="setting_view_hide_files">"Απόκρυψη αρχείων συστήματος"</string>
+    <string name="setting_notification_group">"Ειδοποίηση"</string>
+    <string name="setting_notification_large_files">"Ειδοποίηση για μεγάλα αρχεία"</string>
+    <string name="setting_notification_recent_files">"Ειδοποίηση για πρόσφατα αρχεία"</string>
+    <string name="setting_notification_wireless_transfer">"Ειδοποίηση για ασύρματη μεταφορά"</string>
+    <string name="setting_display_group">"Οθόνη"</string>
+    <string name="tools_storage_analyzer">"Αναλυτής χώρου αποθήκευσης"</string>
+    <string name="tools_zenui_instant_update">"Άμεση ενημέρωση"</string>
+    <string name="category_others">"Άλλα"</string>
+    <string name="large_files_content_hint">"Εύρεση μεγάλων αρχείων και διαγραφή τους με την άδειά σας."</string>
+    <string name="recent_files_content_hint">"Εύρεση πρόσφατων αρχείων και διαγραφή τους με την άδειά σας."</string>
+    <string name="fragment_analyzer_more_hint">"περισσότερα"</string>
+    <string name="fragment_analyzer_chart_total_hint">"Σύνολο:"</string>
+    <string name="fragment_analyzer_chart_free_hint">"Ελεύθερα:"</string>
+    <string name="fragment_analyzer_chart_used_hint">"ΣΕ ΧΡΗΣΗ"</string>
+    <string name="fragment_analyzer_allfiles_used_hint">"Σε χρήση:"</string>
+    <string name="news_v31" maxwidth="">"Ο Αναλυτής χώρου αποθήκευσης σας ενημερώνει για τους τύπους των αρχείων που κατανάλωσαν όλο τον χώρο αποθήκευσης"</string>
+    <string name="news_v32" maxwidth="">"Πρόσφατα βελτιωμένη κατηγορία εφαρμογών"</string>
+</resources>

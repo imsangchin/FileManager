@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Sylvia Cheng, 2016/03/22, Setting page -->
+    <string name="action_settings" description="menu title for setting" maxwidth="-1">"Einstellungen"</string>
+    <string name="setting_view_group">"Einstellung anzeigen"</string>
+    <string name="setting_view_hide_files">"Systemdateien ausblenden"</string>
+    <string name="setting_notification_group">"Benachrichtigung"</string>
+    <string name="setting_notification_large_files">"Benachrichtigung zu großer Datei"</string>
+    <string name="setting_notification_recent_files">"Kürzliche Dateibenachrichtigungen"</string>
+    <string name="setting_notification_wireless_transfer">"Benachrichtigung zu Wireless-Übertragung"</string>
+    <string name="setting_display_group">"Anzeige"</string>
+    <string name="tools_storage_analyzer">"Speicheranalyse"</string>
+    <string name="tools_zenui_instant_update">"Sofortige Aktualisierung"</string>
+    <string name="category_others">"Sonstige"</string>
+    <string name="large_files_content_hint">"Finden Sie große Dateien und löschen Sie diese mit Ihrer Genehmigung."</string>
+    <string name="recent_files_content_hint">"Finden Sie kürzlich verwendete Dateien und löschen Sie diese mit Ihrer Genehmigung."</string>
+    <string name="fragment_analyzer_more_hint">"Weitere"</string>
+    <string name="fragment_analyzer_chart_total_hint">"Gesamt:"</string>
+    <string name="fragment_analyzer_chart_free_hint">"Frei:"</string>
+    <string name="fragment_analyzer_chart_used_hint">"VERWENDET"</string>
+    <string name="fragment_analyzer_allfiles_used_hint">"Verwendet:"</string>
+    <string name="news_v31" maxwidth="">"Mit der Speicheranalyse erfahren Sie mehr über die Dateitypen, die all diesen Speicherplatz belegen"</string>
+    <string name="news_v32" maxwidth="">"Neu erweiterte App-Kategorie"</string>
+</resources>

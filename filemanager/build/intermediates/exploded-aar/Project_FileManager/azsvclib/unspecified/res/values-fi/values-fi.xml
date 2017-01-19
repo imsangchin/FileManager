@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string description="Don&apos;t remind me again" maxwidth="-1" name="alert_cb_msg">Älä muistuta uudelleen</string>
+    <string description="ASUS ZenUI Services is not support, need update ASUS ZenUI Services" maxwidth="-1" name="alert_msg_azs_update">%1$s vaatii ASUS ZenUI -palveluiden uusimman version. Asenna se nyt.</string>
+    <string description="Client app is not support, need update client app" maxwidth="-1" name="alert_msg_client_update">%1$s:n uusi versio on käytettävissä. Asenna se nyt.</string>
+    <string description="Client app version is compatible with ASUS ZenUI Services" maxwidth="-1" name="alert_msg_compatible">%1$s-versio on yhteensopiva ASUS ZenUI -palveluiden kanssa.</string>
+    <string description="Client app version is match with ASUS ZenUI Services" maxwidth="-1" name="alert_msg_match">%1$s-versio vastaa ASUS ZenUI -palveluita.</string>
+    <string description="ASUS ZenUI Services is not found on device" maxwidth="-1" name="alert_msg_not_found">ASUS ZenUI -palveluja ei ole asennettu!\n\nSiirry lataamaan ja asentamaan ne?</string>
+    <string description="Dialog title" maxwidth="-1" name="alert_title">Huomautus</string>
+    <string description="Dialog title" maxwidth="-1" name="alert_title_update">Päivitä suositeltu</string>
+</resources>

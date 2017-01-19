@@ -1,0 +1,68 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="?cardview_background_color"
+    >
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="?cardview_background_color"
+        >
+
+        <LinearLayout
+            android:id="@+id/activity_storage_analyzer_chart_container"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            >
+
+        </LinearLayout>
+
+        <fragment
+            android:id="@+id/activity_storage_analyzer_fragment_large_files"
+            android:name="com.asus.filemanager.activity.AnalyzerLargeFilesFragment"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/activity_storage_analyzer_margin"
+            android:layout_marginRight="@dimen/activity_storage_analyzer_margin"
+			android:layout_marginStart="@dimen/activity_storage_analyzer_margin"
+			android:layout_marginEnd="@dimen/activity_storage_analyzer_margin"
+            android:layout_marginTop="@dimen/activity_storage_analyzer_margin"
+            />
+
+        <fragment
+            android:id="@+id/activity_storage_analyzer_fragment_recent_files"
+            android:name="com.asus.filemanager.activity.AnalyzerRecentFilesFragment"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/activity_storage_analyzer_margin"
+            android:layout_marginRight="@dimen/activity_storage_analyzer_margin"
+			android:layout_marginStart="@dimen/activity_storage_analyzer_margin"
+			android:layout_marginEnd="@dimen/activity_storage_analyzer_margin"
+            android:layout_marginTop="@dimen/activity_storage_analyzer_margin"
+            />
+
+        <fragment
+            android:id="@+id/activity_storage_analyzer_fragment_duplicate_files"
+            android:name="com.asus.filemanager.activity.AnalyzerDupFilesCardFragment"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/activity_storage_analyzer_margin"
+            android:layout_marginRight="@dimen/activity_storage_analyzer_margin"
+            android:layout_marginStart="@dimen/activity_storage_analyzer_margin"
+            android:layout_marginEnd="@dimen/activity_storage_analyzer_margin"
+            android:layout_marginTop="@dimen/activity_storage_analyzer_margin"
+            />
+
+        <fragment
+            android:id="@+id/activity_storage_analyzer_fragment_recycle_bin"
+            android:name="com.asus.filemanager.activity.AnalyzerRecycleBinFragment"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/activity_storage_analyzer_margin"
+            />
+    </LinearLayout>
+</ScrollView>

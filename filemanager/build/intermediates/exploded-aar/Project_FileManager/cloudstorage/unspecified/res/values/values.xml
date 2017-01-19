@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="actionbar_color">#3e5776</color>
+    <color name="actionmode_bg">#353535</color>
+    <color name="file_list_item_name_grey">#323232</color>
+    <color name="statusbar_color">#3e5776</color>
+    <color name="transmission_divider_gray">#3e5776</color>
+    <color name="white">#FFFFFF</color>
+    <string name="AsusWebstroage">AsusWebstorage</string>
+    <string name="AuCloud">AuCloud</string>
+    <string name="BaiDuPCS">BaiDuPCS</string>
+    <string name="Default">Default</string>
+    <string name="Dropbox">Dropbox</string>
+    <string name="Google_Drive">Google Drive</string>
+    <string name="HomeCloud">HomeCloud</string>
+    <string name="OneDrive">OneDrive</string>
+    <string name="Yandex">Yandex</string>
+    <string name="app_cloudstorage_name">CloudStorage</string>
+    <string name="btn_OK">OK</string>
+    <string name="cancle">Cancel</string>
+    <string name="download_fail">download failed!</string>
+    <string name="dumdownloadfrom">Download from</string>
+    <string name="dumuploadto">Upload to</string>
+    <string name="file_manager">File Manager</string>
+    <string name="homecloud_notice_1">ASUS HomeCloud is a piece of server software running on Windows system. It is designed as a library of digital contents for home and provides cloud-storage services and multimedia streaming services now, and could extend more services in the future.</string>
+    <string name="homecloud_notice_2">You can download and experience it now. </string>
+    <string name="homecloud_notice_3">http://home.asuscloud.com/</string>
+    <string name="homecloud_toast_udp_unsupported">Limited network, please contact with your network administrator or switch to other network.</string>
+    <string name="local">Local</string>
+    <string name="no_wifi_when_wifionly">Wi-Fi only, please turn on Wi-Fi</string>
+    <string name="progressactivity_title">Transmission Manager</string>
+    <string name="provider_authority_key">com.asus.service.cloudstorage.dataprovider.testcase</string>
+    <string name="tunnelconnection_notice_1">ASUS TunnelConnection is a piece of application software running on Android system. It provides tunnel connection services for ASUS HomeCloud.</string>
+    <string name="tunnelconnection_notice_2">To visit ASUS HomeCloud, You need download it now. </string>
+    <string name="tunnelconnection_notice_3">https://play.google.com/store/</string>
+    <string name="upload_fail">upload failed!</string>
+    <style name="ActionBarStyle" parent="@android:style/Widget.DeviceDefault.Light.ActionBar.Solid.Inverse">
+        <item name="android:titleTextStyle">@style/ActionBarTitleTextStyle</item>
+    </style>
+    <style name="ActionBarTitleTextStyle" parent="@android:style/TextAppearance.DeviceDefault.Widget.ActionBar.Title.Inverse">
+        <item name="android:textSize">23sp</item>
+    </style>
+    <style name="ActionModeStyle" parent="android:style/Widget.DeviceDefault.ActionMode">
+        <item name="android:titleTextStyle">@style/WhiteTextStyle.Medium</item>
+    </style>
+    <style name="AlertDailogStyle" parent="@android:style/Theme.DeviceDefault.Light.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+    <style name="ProgressInfoActivityStyle" parent="@android:Theme.DeviceDefault.Light.DarkActionBar">
+        <item name="android:homeAsUpIndicator">@drawable/asus_back</item>
+        <item name="android:actionBarStyle">@style/ActionBarStyle</item>
+        <item name="android:actionModeStyle">@style/ActionModeStyle</item>
+        <item name="android:actionModeBackground">@color/actionmode_bg</item> 
+        <item name="android:height">48dip</item>  
+        <item name="android:textSize">23dip</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="WhiteTextStyle.Medium" parent="witeTextStyle">
+        <item name="android:textSize">18sp</item>
+    </style>
+    <style name="witeTextStyle">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:ellipsize">end</item>
+    </style>
+</resources>

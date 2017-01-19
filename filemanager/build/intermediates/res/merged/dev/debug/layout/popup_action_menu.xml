@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@color/error_red">
+    <TextView
+        android:id="@+id/popview_content"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#FFFFFFFF"
+        android:gravity="center_vertical"
+        android:maxWidth="200dp"
+        android:text="Test"
+        android:textSize="16sp"/>
+</LinearLayout>
+

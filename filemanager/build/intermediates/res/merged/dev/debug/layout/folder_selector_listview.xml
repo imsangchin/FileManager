@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+    <LinearLayout
+        android:id="@+id/folder_selector_container"
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:focusable="true"
+        android:clickable="true"
+        android:background="@drawable/list_selector_holo_dark"
+        >
+        <ImageView
+            android:id="@+id/select_list_img"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:src="@drawable/asus_ep_folder_selection_file"
+            android:paddingLeft="15dip">
+        </ImageView>
+
+        <TextView
+            android:id="@+id/select_list_file_name"
+            android:layout_width="wrap_content"
+            android:layout_height="50dip"
+            android:textSize="17sp"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:paddingLeft="15dip"
+            android:textColor="#FFFFFFFF">
+        </TextView>
+    </LinearLayout>
+
+    <RadioButton
+         android:id="@+id/folder_list_select"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:focusable="true"
+         android:clickable="true"
+         android:focusableInTouchMode="false"
+         android:layout_gravity="center_vertical"
+         android:checkMark="?android:attr/listChoiceIndicatorSingle">
+    </RadioButton>
+</LinearLayout>

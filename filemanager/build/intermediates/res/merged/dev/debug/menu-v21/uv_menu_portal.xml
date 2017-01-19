@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <item
+        android:id="@+id/uv_action_search"
+        android:icon="@drawable/uf_sdk_ic_search_light"
+        android:showAsAction="always|collapseActionView"
+        android:title="@string/uv_menu_search"/>
+    <item
+        android:id="@+id/uv_action_contact"
+        android:icon="@drawable/uv_contact_light"
+        android:showAsAction="always"
+        android:title="@string/uf_sdk_send_feedback"/>
+
+</menu>

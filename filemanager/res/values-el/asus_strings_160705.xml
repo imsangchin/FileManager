@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="tools_hidden_zone">"Κρυφή βιβλιοθήκη"</string>
+    <string name="action_hidden_zone" maxwidth="">"Μεταφορά στην Κρυφή βιβλιοθήκη"</string>
+    <string name="move_to_hidden_zone_progress" description="Progress Content: text in progress dialog" maxwidth="">"Γίνεται μεταφορά στην Κρυφή βιβλιοθήκη..."</string>
+    <string name="move_to_hidden_zone_success_one" description="Toast: move to recycle bin success. %s is variable string." maxwidth="-1">"Το \"%s\" μεταφέρθηκε στην Κρυφή Βιβλιοθήκη."</string>
+    <string name="move_to_hidden_zone_success_more" description="Toast: move to recycle bin success" maxwidth="-1">"Τα επιλεγμένα αρχεία μεταφέρθηκαν στην Κρυφή βιβλιοθήκη."</string>
+    <string name="move_to_hidden_zone_fail" description="Toast: move to recycle bin fails" maxwidth="-1">"Αποτυχία μεταφοράς στην Κρυφή βιβλιοθήκη"</string>
+    <string name="can_not_open_in_hidden_zone" description="Toast: can not open in hidden zone" maxwidth="-1">"Αδυναμία ανοίγματος στην Κρυφή βιβλιοθήκη"</string>
+    <string name="hidden_zone_setup_password">"Εισάγετε έναν 4ψήφιο κωδικό PIN"</string>
+    <string name="hidden_zone_setup_account">"Διαμόρφωση λογαριασμού"</string>
+    <string name="hidden_zone_forget_password">"Ξέχασα τον κωδικό πρόσβασης"</string>
+    <string name="hidden_zone_wrong_password">"Λανθασμένος κωδικός PIN"</string>
+    <string name="hidden_zone_change_password">"Αλλαγή κωδικού πρόσβασης"</string>
+    <string name="hidden_zone_confirm_password">"Επιβεβαίωση κωδικού PIN"</string>
+    <string name="hidden_zone_set_password_success">"Επιτυχής καθορισμός του κωδικού πρόσβασης"</string>
+    <string name="hidden_zone_fingerprint_to_unlock">"Δακτυλικό αποτύπωμα για ξεκλείδωμα"</string>
+    <string name="hidden_zone_password_mismatch">"Ο κωδικός PIN δεν ταιριάζει"</string>
+    <string name="hidden_zone_introduction_description">"Κρύψτε τα ιδιωτικά αρχεία σας στην Κρυφή βιβλιοθήκη. Για το άνοιγμα της Κρυφής βιβλιοθήκης απαιτείται κωδικός PIN."</string>
+    <string name="hidden_zone_enter_password">"Εισάγετε τον προσωπικό σας κωδικό PIN"</string>
+    <string name="setup">"Διαμόρφωση"</string>
+    <string name="set_password_title">"Δημιουργία κωδικού PIN"</string>
+    <string name="setup_account_title">"Ανάκτηση κωδικού PIN"</string>
+    <string name="setup_account_description">"Διαμορφώστε έναν λογαριασμό email για να ανακτήσετε τον προσωπικό σας κωδικό PIN"</string>
+    <string name="setup_account_no_internet_connection">"Δεν υπάρχει σύνδεση στο Internet"</string>
+    <string name="setup_account_skip">"Παράλειψη"</string>
+    <string name="setup_my_digital_code">"Διαμόρφωση κωδικού PIN"</string>
+    <string name="setup_fingerprint_message">"Ενεργοποίηση ξεκλειδώματος με δακτυλικό αποτύπωμα; Η Κρυφή βιβλιοθήκη υποστηρίζει επαλήθευση δακτυλικού αποτυπώματος. Για να ξεκινήσετε, σαρώστε το δακτυλικό αποτύπωμά σας στις Ρυθμίσεις."</string>
+    <string name="toast_auto_lock_notify_message">"Κλείδωμα Κρυφής βιβλιοθήκης όταν κλειδώνεται η συσκευή"</string>
+</resources>

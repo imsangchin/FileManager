@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+	android:paddingLeft="32dp"
+	android:paddingTop="8dp"
+	android:paddingRight="32dp"
+	android:paddingBottom="8dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+	<LinearLayout
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:orientation="vertical"
+		android:gravity="center">
+		<TextView android:id="@+id/mount_hint"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_gravity="left"
+			android:textSize="18dp"
+			android:textColor="?text_color" />
+		<ListView
+			android:id="@+id/listview"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:dividerHeight="1dp"
+			android:divider="?filelist_divider_color" />
+
+		<LinearLayout android:id="@+id/add_account_linearlayout"
+			android:orientation="vertical"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:descendantFocusability="blocksDescendants"
+			android:visibility="gone">
+			<View android:id="@+id/add_google_account_divider"
+				android:layout_width="match_parent"
+				android:layout_height="1dp"
+				android:background="?filelist_pathcontainer_divider_color" />
+
+			<LinearLayout android:id="@+id/add_google_account_container"
+				android:orientation="horizontal"
+				android:layout_width="match_parent"
+				android:layout_height="@dimen/file_list_height"
+				android:descendantFocusability="blocksDescendants"
+				android:gravity="center"
+				android:background="?android:attr/selectableItemBackground">
+				<ImageView android:id="@+id/add_google_account_icon"
+					android:src="@drawable/asus_ic_add_google"
+					android:layout_height="wrap_content"
+					android:layout_width="wrap_content"
+					android:layout_marginStart="25dp"
+					android:layout_marginLeft="25dp"
+					android:scaleType="center"
+					android:focusable="false"
+					android:clickable="false"/>
+				<TextView android:id="@+id/add_google_account_text"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:textSize="18dp"
+					android:text="@string/storagetype_add_account"
+					android:singleLine="true"
+					android:gravity="start"
+					android:layout_marginStart="15dp"
+					android:layout_marginLeft="15dp"
+					android:focusable="false"
+					android:clickable="false"
+					android:textColor="?text_color" />
+			</LinearLayout>
+		</LinearLayout>
+	</LinearLayout>
+</ScrollView>

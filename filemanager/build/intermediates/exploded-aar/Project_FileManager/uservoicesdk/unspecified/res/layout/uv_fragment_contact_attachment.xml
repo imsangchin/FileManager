@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="5dip" >
+
+    <FrameLayout
+        android:layout_width="75dip"
+        android:layout_height="75dip"
+        android:layout_weight="1" >
+
+        <ImageView
+            android:id="@+id/uv_attachment_image"
+            android:layout_width="70dip"
+            android:layout_height="70dip"
+            android:layout_gravity="left|bottom"
+            android:scaleType="centerCrop"/>
+        
+        <ImageButton
+            android:id="@+id/uv_attachment_remove"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="top|right"
+            android:background="@null"
+            android:src="@drawable/uf_sdk_delete" />
+    </FrameLayout>
+
+</RelativeLayout>

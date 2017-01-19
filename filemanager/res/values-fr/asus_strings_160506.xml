@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!--Text for trash-->
+    <string name="permanently_delete">"Supprimer définitivement"</string>
+    <string name="tools_recycle_bin">"Corbeille"</string>
+    <!--string name="move_or_delete">Move or delete</string-->
+    <string name="move_or_delete_msg">"Supprimer maintenant et temporairement les éléments dans la corbeille?\n(Cochez la case ci-dessous pour supprimer définitivement les éléments.)"</string>
+    <string name="move_to_trash_progress" description="Progress Content: text in progress dialog" maxwidth="">"Déplacement dans la corbeille en cours..."</string>
+    <string name="move_to_trash_success_one" description="Toast: move to recycle bin success. %s is variable string." maxwidth="-1">"\"%s\" a été déplacé dans la corbeille."</string>
+    <string name="move_to_trash_success_more" description="Toast: move to recycle bin success" maxwidth="-1">"Les fichiers sélectionnés ont été déplacés dans la corbeille."</string>
+    <string name="move_to_trash_fail" description="Toast: move to recycle bin fails" maxwidth="-1">"Échec du déplacement dans la corbeille"</string>
+    <string name="trash_info_deleted" maxwidth="-1">"Date de suppression : "</string>
+    <string name="trash_info_path" maxwidth="-1">"Chemin d'accès d'origine : "</string>
+    <string name="action_clean_all" maxwidth="-1">"Tout nettoyer"</string>
+    <string name="action_restore_all" maxwidth="-1">"Tout restaurer"</string>
+    <string name="action_clean" maxwidth="-1">"Nettoyer"</string>
+    <string name="action_restore" maxwidth="-1">"Restaurer"</string>
+    <string name="restore_success_one" description="Toast: restore success. %s is variable string." maxwidth="-1">"\"%s\" a été restauré."</string>
+    <string name="restore_success_more" description="Toast: restore success" maxwidth="-1">"Les fichiers sélectionnés ont été restaurés."</string>
+    <string name="restore_fail" description="Toast: restore fails" maxwidth="-1">"Échec de la restauration"</string>
+    <string name="restore_progress" description="Progress Content: text in progress dialog" maxwidth="">"Restauration en cours..."</string>
+    <string name="calculate_progress" description="Progress Content: text in progress dialog" maxwidth="">"En cours..."</string>
+    <string name="msg_too_big_to_recycle">"Les éléments sont trop volumineux pour la corbeille.\nVoulez-vous les supprimer définitivement ?"</string>
+    <string name="duplicate_files">"Fichiers en double"</string>
+    <string name="duplicate_files_content_hint">"Rechercher les fichiers en double et les supprimer avec votre autorisation."</string>
+</resources>

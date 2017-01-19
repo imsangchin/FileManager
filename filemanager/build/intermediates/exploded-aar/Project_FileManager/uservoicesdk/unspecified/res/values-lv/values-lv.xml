@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="uf_sdk_number_of_subscribers_format">
+        <item quantity="one">"%1$s patīk šī tēma"</item>
+        <item quantity="other">"%1$s patīk šī tēma"</item>
+    </plurals>
+    <plurals name="uf_sdk_topics">
+        <item quantity="one">"tēma"</item>
+        <item quantity="other">"tēmas"</item>
+    </plurals>
+    <plurals name="uv_comments">
+        <item quantity="one">"komentārs"</item>
+        <item quantity="other">"komentāri"</item>
+    </plurals>
+    <plurals name="uv_number_of_subscribers_format">
+        <item quantity="one">"%1$s vēlas šo ideju"</item>
+        <item quantity="other">"%1$s vēlas šo ideju"</item>
+    </plurals>
+    <plurals name="uv_people">
+        <item quantity="one">"persona"</item>
+        <item quantity="other">"personas"</item>
+    </plurals>
+    <plurals name="uv_subscribers">
+        <item quantity="one">"abonents"</item>
+        <item quantity="other">"abonenti"</item>
+    </plurals>
+    <string description="label for trending searches" maxwidth="-1" name="trending_searches">"Tendenču meklējumi"</string>
+    <string name="uf_sdk_already_give_5star">"Jau novērtēju ar 5 zvaigznēm"</string>
+    <string description="%d is a number, don&apos;t translate" name="uf_sdk_article_read_count">"%d skatījumi"</string>
+    <string name="uf_sdk_attachment_format_warning">"Nepareizs faila formāts. Var pievienot tikai attēlu"</string>
+    <string name="uf_sdk_attachment_total_size">"Kopā"</string>
+    <string name="uf_sdk_attachment_warning">"Pielikuma lielums pārsniedz pieejamo limitu"</string>
+    <string maxwidth="-1" name="uf_sdk_cancel_btn_content">"Atcelt"</string>
+    <string name="uf_sdk_choosertitle_sharevia">"Kopīgot, izmantojot"</string>
+    <string name="uf_sdk_connection_error_msg">"Savienojumu priekšlaicīgi pārtrauca serveris. Lūdzu, mēģiniet vēlreiz."</string>
+    <string name="uf_sdk_connection_error_title">"Savienojuma kļūda"</string>
+    <string name="uf_sdk_discard">"Atmest"</string>
+    <string name="uf_sdk_email_illigal">"E-pasta adrese jau tiek lietota"</string>
+    <string maxwidth="-1" name="uf_sdk_empty_notification">"Tukšs :)"</string>
+    <string name="uf_sdk_faq">"Bieži uzdotie jautājumi"</string>
+    <string name="uf_sdk_feedback_and_help">"Atsauksmes un palīdzība"</string>
+    <string name="uf_sdk_forum_description">"Pievienojieties sarunai ar ASUS lietotājiem, lai atrastu un kopīgotu savus risinājumus."</string>
+    <string maxwidth="-1" name="uf_sdk_grant_permission_title">"Piešķirt piekļuves atļauju"</string>
+    <string name="uf_sdk_help">"Palīdzība"</string>
+    <string name="uf_sdk_instant_answer_question">"Vai šis bieži uzdoto jautājumu saraksts ir noderīgs?"</string>
+    <string name="uf_sdk_like">"Patīk"</string>
+    <string maxwidth="-1" name="uf_sdk_message">"Paziņojumi"</string>
+    <string name="uf_sdk_msg_bad_email_format">"E-pasta adrese nav derīga. Lūdzu, mēģiniet vēlreiz!"</string>
+    <string name="uf_sdk_msg_confirm_discard_topic">"Jūsu melnraksts netiks saglabāts. Vai tomēr vēlaties to izdzēst?"</string>
+    <string name="uf_sdk_msg_confirm_discard_topic_title">"Vai izdzēst ziņu?"</string>
+    <string name="uf_sdk_msg_subscribe">"Tēmas statusa paziņojuma abonements tiks nosūtīts uz jūsu e-pasta adresi."</string>
+    <string name="uf_sdk_msg_subscribe_success">"Abonēšana veiksmīgi uzsākta"</string>
+    <string name="uf_sdk_msg_ticket_created">"Jūsu atsauksmes tika sekmīgi nosūtītas uzņēmumam ASUS"</string>
+    <string name="uf_sdk_msg_topic_created">"Sekmīgi publicēta"</string>
+    <string name="uf_sdk_msg_unsubscribe">"Abonēšana ir sekmīgi atcelta"</string>
+    <string name="uf_sdk_name_hint">"Ievadiet savu vārdu"</string>
+    <string name="uf_sdk_name_illigal">"Lietotājvārds jau tiek lietots"</string>
+    <string name="uf_sdk_network_error">"Nav interneta savienojuma. Lūdzu, pārbaudiet tīkla iestatījumus."</string>
+    <string description="zenui news" maxwidth="" name="uf_sdk_news">"Jaunumi"</string>
+    <string name="uf_sdk_no_network_connection_content">"Nevar atjaunināt datus. Lūdzu, pārbaudiet tīkla iestatījumus."</string>
+    <string name="uf_sdk_no_network_connection_title">"Nav tīkla savienojuma"</string>
+    <string name="uf_sdk_nothing_found">"Nekas nav atrasts"</string>
+    <string name="uf_sdk_notice">"Paziņojums"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category1">"Paziņojumi"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category2">"Apmācības un padomi"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category3">"Reklāmas"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category4">"Notikumi"</string>
+    <string name="uf_sdk_publish_an_topic">"Publicēt jaunu tēmu"</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_rate_now">"Novērtēt tūlīt"</string>
+    <string description="%s is AP name, don&apos;t translate" maxWidth="" name="uf_sdk_rate_us_detail">"Ja jums patīk lietot %s, novērtējiet to pakalpojumā Play Store ar 5 zvaigznēm."</string>
+    <string maxWidth="" name="uf_sdk_rate_us_detail_new">"Jūsu atbalsts ar 5 zvaigžņu novērtējumu iedrošina mūs strādāt!"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_rating">"Novērtējums ar 5 zvaigznēm"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title">"Novērtējiet mūs!"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title_new">"Novērtējiet mūs!"</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_scroll_up_toast">"Lūdzu ritiniet augšup, lai novērtētu"</string>
+    <string name="uf_sdk_search_hint">"Meklēšanas palīdzība"</string>
+    <string name="uf_sdk_select_common_bug">"Izvēlēties bieži sastopamu kļūdu"</string>
+    <string name="uf_sdk_send_feedback">"Sūtīt atsauksmes"</string>
+    <string name="uf_sdk_send_feedback_help">"Uzņēmumam ASUS tiks nosūtīta jūsu atsauksme un e-pasta adrese. Atbalsta komanda sazināsies ar jums, izmantojot e-pastu."</string>
+    <string maxwidth="-1" name="uf_sdk_setting_btn_content">"Iestatījumi"</string>
+    <string description="recommend title" maxwidth="" name="uf_sdk_settings_encourage_us_title">"Novērtējiet mūs"</string>
+    <string maxwidth="-1" name="uf_sdk_storage_permission_description">"Šai funkcijai nepieciešams iegūt piekļuves atļaujas krātuvei, lai piekļūtu multivides failiem. \n\nJa vēlaties iespējot šo funkciju, pieskarieties pogai Iestatījumi, lai atvērtu iestatījumu lapu. Pēc tam iestatiet \"Lietotnes informācija\" > \"Atļaujas\", lai piešķirtu atļauju.\n"</string>
+    <string name="uf_sdk_submit_topic">"Publicēt"</string>
+    <string name="uf_sdk_subscribe_dialog_title">"Abonēt šo tēmu"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_answered">"Atbildēts"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_completed">"Pabeigts"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_declined">"Noraidīts"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_implemented">"Ieviests"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_planned">"Plānots"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_under_review">"Tiek pārskatīts"</string>
+    <string name="uf_sdk_thanks_for_your_feedback">"Paldies par atsauksmi!"</string>
+    <string description="%s is a application name, don&apos;t translate" name="uf_sdk_ticket_hint">"Ievadiet atsauksmes par %s"</string>
+    <string name="uf_sdk_title_topic">"Tēma"</string>
+    <string name="uf_sdk_topic">"Tēma"</string>
+    <string name="uf_sdk_topic_description_heading">"Apraksts"</string>
+    <string name="uf_sdk_topic_description_hint">"Detalizēti aprakstiet savu tēmu"</string>
+    <string name="uf_sdk_topic_filter">"TĒMAS"</string>
+    <string name="uf_sdk_topic_form_help">"Kad publicējat kādu tēmu lietotāju forumā, citi lietotāji var to abonēt un komentēt. Turklāt, kad ASUS izstrādātāju komanda atbildēs uz jūsu tēmu, jūs saņemsit e-pasta paziņojumu."</string>
+    <string name="uf_sdk_topic_form_title">"Publicēt jaunu tēmu"</string>
+    <string name="uf_sdk_topic_text_heading">"Forums"</string>
+    <string name="uf_sdk_topic_text_hint">"Ievadiet tēmas nosaukumu"</string>
+    <string name="uf_sdk_topic_title">"Nosaukums"</string>
+    <string name="uf_sdk_translation_10117605">"Tulkojuma problēma"</string>
+    <string name="uf_sdk_translation_117562">"Atsauksmes veids"</string>
+    <string name="uf_sdk_translation_2529543">"Ziņojums par kļūdu"</string>
+    <string name="uf_sdk_translation_2529544">"Citi"</string>
+    <string name="uf_sdk_translation_2530478">"Ieteikums"</string>
+    <string name="uf_sdk_unhelpful_article_message_question">"Vai vēlaties nosūtīt atsauksmi ASUS izstrādātāju komandai?"</string>
+    <string name="uf_sdk_user_forum">"Lietotāju forums"</string>
+    <string name="uf_sdk_warning">"Brīdinājums"</string>
+    <string name="uf_sdk_wifi_settings">"Wi-Fi iestatījumi"</string>
+    <string name="uf_sdk_wlan_settings">"WLAN iestatījumi"</string>
+    <string name="uf_sdk_write_your_feedback">"Ievadiet atsauksmes šeit"</string>
+    <string name="uf_sdk_your_draft_will_be_discarded">"Jūsu melnraksts tiks atmests."</string>
+    <string description="description for empty search result" maxwidth="-1" name="unable_to_find_artlcles">"Nevar atrast \u0022%s\u0022 saistītos rakstus"</string>
+    <string name="uv_admin_response_format">"Administratora atbilde: %1$s"</string>
+    <string name="uv_all_articles">"Visi raksti"</string>
+    <string name="uv_all_results_filter">"VISS"</string>
+    <string name="uv_android_sdk">Android SDK</string>
+    <string name="uv_article_browse_question">"Vai šis raksts bija noderīgs?"</string>
+    <string name="uv_article_instant_answer_question">"Vai šis bieži uzdoto jautājumu saraksts ir noderīgs?"</string>
+    <string name="uv_cancel">"Atcelt"</string>
+    <string name="uv_category">"Kategorija"</string>
+    <string name="uv_close">"Aizvērt"</string>
+    <string name="uv_comment_hint">"Ievadiet savu komentāru"</string>
+    <string name="uv_confirm">"Apstiprināt"</string>
+    <string name="uv_contact_continue_button">"Es tomēr vēlos nosūtīt ziņu"</string>
+    <string name="uv_contact_hint">"Ievadiet savu jautājumu vai atsauksmi"</string>
+    <string name="uv_contact_us">"Sazinieties ar mums"</string>
+    <string name="uv_display_name">"Parādāmais vārds"</string>
+    <string name="uv_email_address">"E-pasta adrese"</string>
+    <string name="uv_email_address_hint">"jūsu@epasts.com (obligāts)"</string>
+    <string name="uv_error">"Kļūda"</string>
+    <string name="uv_failed_signin_error">"Nepareiza e-pasta adrese vai parole"</string>
+    <string name="uv_forgot_password">"Aizmirsta parole"</string>
+    <string name="uv_helpful_article_message_question">"Vai tomēr vēlaties nosūtīt ziņu?"</string>
+    <string name="uv_i_want_this">"Es to vēlos!"</string>
+    <string name="uv_idea_description_heading">"Aprakstiet savu ideju detalizētāk"</string>
+    <string name="uv_idea_description_hint">"(papildiespēja)"</string>
+    <string name="uv_idea_text_heading">"Es jums iesaku..."</string>
+    <string name="uv_loading">"Ielādē..."</string>
+    <string name="uv_matching_articles">"Līdzīgi raksti"</string>
+    <string name="uv_matching_articles_and_ideas">"Līdzīgi raksti un idejas"</string>
+    <string name="uv_menu_attach">"Pievienot"</string>
+    <string name="uv_menu_search">"Meklēt"</string>
+    <string name="uv_msg_bad_email_format">"Lūdzu, ievadiet derīgu e-pasta adresi."</string>
+    <string name="uv_msg_comment_posted">"Jūsu komentārs ir publicēts"</string>
+    <string name="uv_msg_confirm_discard_message">"Vai tiešām vēlaties atmest savu ziņu?"</string>
+    <string name="uv_msg_custom_fields_validation">"Lūdzu, aizpildiet obligātos failus."</string>
+    <string name="uv_msg_forgot_password">"Paroles atgādināšanas e-pasta ziņa ir nosūtīta."</string>
+    <string name="uv_msg_idea_created">"Jūsu ideja ir izveidota."</string>
+    <string name="uv_msg_ticket_created">"Jūsu ziņa ir nosūtīta."</string>
+    <string name="uv_msg_user_identity_validation">"Lūdzu, ievadiet savu e-pasta adresi"</string>
+    <string name="uv_name_hint">"Anonīms"</string>
+    <string name="uv_network_error">"Veidojot savienojumu ar UserVoice, radās kļūda."</string>
+    <string name="uv_nevermind">"Neņemt vērā"</string>
+    <string name="uv_new_comment">"Jauns komentārs"</string>
+    <string name="uv_next">"Tālāk"</string>
+    <string name="uv_no">"Nē"</string>
+    <string name="uv_none_of_these_help">"Nekas no tā nelīdzēja"</string>
+    <string name="uv_password">"Parole"</string>
+    <string name="uv_password_dialog_title">"Lūdzu, ievadiet savu paroli"</string>
+    <string name="uv_portal_title">"Palīdzība"</string>
+    <string name="uv_post_a_comment">"Publicēt komentāru"</string>
+    <string name="uv_post_comment">"Publicēt komentāru"</string>
+    <string name="uv_posted_by_format">"Publicēja %1$s, %2$s"</string>
+    <string name="uv_powered_by_uservoice">"Nodrošina UserVoice"</string>
+    <string name="uv_ranked">"Reitings: %1$s"</string>
+    <string name="uv_remove_votes">"Noņemt balsis"</string>
+    <string name="uv_select_none">"(nav)"</string>
+    <string name="uv_select_one">"Izvēlieties vienu"</string>
+    <string name="uv_send_message">"Sūtīt ziņu"</string>
+    <string name="uv_signin_dialog_ok">"Pierakstīties"</string>
+    <string name="uv_signin_dialog_title">"Pierakstīties"</string>
+    <string name="uv_status_format">"Statuss: %1$s"</string>
+    <string name="uv_submit_idea">"Iesniegt ideju"</string>
+    <string name="uv_subscribe">"Abonēt"</string>
+    <string name="uv_subscribe_dialog_title">"Abonēt šo ideju"</string>
+    <string name="uv_suggestion_instant_answer_question">"Vai šī ideja ir noderīga?"</string>
+    <string name="uv_thanks">"Paldies!"</string>
+    <string name="uv_unhelpful_article_message_question">"Vai vēlaties nosūtīt mums ziņu?"</string>
+    <string name="uv_value">"Vērtība"</string>
+    <string name="uv_very_yes">"Jā!"</string>
+    <string name="uv_yes">"Jā"</string>
+    <string name="uv_your_email_address">"Jūsu e-pasta adrese"</string>
+    <string name="uv_your_name">"Jūsu vārds"</string>
+</resources>

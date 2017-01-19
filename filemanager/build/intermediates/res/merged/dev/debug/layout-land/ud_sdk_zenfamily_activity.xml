@@ -1,0 +1,47 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             android:id="@+id/ud_sdk_background"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             android:background="@color/ud_sdk_background_white"
+             android:fitsSystemWindows="true">
+
+    <FrameLayout
+            android:id="@+id/ud_sdk_sync_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/ud_sdk_sync_layout_background_color"
+            android:orientation="vertical">
+
+        <ProgressBar
+                android:id="@+id/ud_sdk_sync_icon"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:clickable="false"
+                android:focusable="false" />
+    </FrameLayout>
+
+    <RelativeLayout
+            android:id="@+id/ud_sdk_content_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/ud_sdk_land_content_layout_background_color"
+            android:orientation="vertical">
+
+        <ListView
+                android:id="@+id/ud_sdk_list_view"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:divider="@color/ud_sdk_list_view_divider_color"
+                android:dividerHeight="@dimen/ud_sdk_list_view_dividerHeight"
+                android:background="@color/ud_sdk_list_view_background_color"
+                android:layout_marginStart="@dimen/ud_sdk_land_list_view_layout_marginStart"
+                android:layout_marginEnd="@dimen/ud_sdk_land_list_view_layout_marginEnd"
+                android:layout_marginTop="@dimen/ud_sdk_land_list_view_layout_marginTop"
+                android:paddingStart="@dimen/ud_sdk_land_list_view_paddingStart"
+                android:paddingEnd="@dimen/ud_sdk_land_list_view_paddingEnd"
+                android:orientation="vertical"
+                android:scrollbarStyle="outsideOverlay"/>
+    </RelativeLayout>
+
+</FrameLayout>

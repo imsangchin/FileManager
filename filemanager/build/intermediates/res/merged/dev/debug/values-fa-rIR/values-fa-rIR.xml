@@ -1,0 +1,846 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="charset_array">
+        <item>"لاتین-1 (ISO-8859-1)"</item>
+        <item>"رمزگذاری (UTF-8)"</item>
+        <item>"چینی (GBK)"</item>
+        <item>"چینی (Big5)"</item>
+        <item>"ژاپنی (ISO-2022-JP)"</item>
+        <item>"ژاپنی (SHIFT_JIS)"</item>
+        <item>"ژاپنی (EUC-JP)"</item>
+        <item>"کره ای (EUC-KR)"</item>
+    </string-array>
+    <plurals name="dialog_unzip_preview_size_text">
+        <item quantity="one">"مقدار کل: %1$d فایل، %2$s"</item>
+        <item quantity="other">"مقدار کل: %1$d فایل، %2$s"</item>
+    </plurals>
+    <plurals name="drag_items">
+        <item quantity="one">"مورد را بکشید"</item>
+        <item quantity="other">"موارد را بکشید"</item>
+    </plurals>
+    <plurals name="number_search_items">
+        <item quantity="one">"%d فایل پیدا شد"</item>
+        <item quantity="other">"%d فایل پیدا شد"</item>
+    </plurals>
+    <plurals name="number_selected_items">
+        <item quantity="one">"%d انتخاب شد"</item>
+        <item quantity="other">"%d انتخاب شد"</item>
+    </plurals>
+    <plurals name="uf_sdk_number_of_subscribers_format">
+        <item quantity="one">"%1$s این موضوع را دوست دارد"</item>
+        <item quantity="other">"%1$s این موضوع را دوست دارند"</item>
+    </plurals>
+    <plurals name="uf_sdk_topics">
+        <item quantity="one">"موضوع"</item>
+        <item quantity="other">"موضوع"</item>
+    </plurals>
+    <plurals name="uv_comments">
+        <item quantity="one">"نظر"</item>
+        <item quantity="other">"نظرات"</item>
+    </plurals>
+    <plurals name="uv_number_of_subscribers_format">
+        <item quantity="one">"%1$s این ایده را می خواهد"</item>
+        <item quantity="other">"%1$s این ایده را می خواهند"</item>
+    </plurals>
+    <plurals name="uv_people">
+        <item quantity="one">"شخص"</item>
+        <item quantity="other">"افراد"</item>
+    </plurals>
+    <plurals name="uv_subscribers">
+        <item quantity="one">"مشترک"</item>
+        <item quantity="other">"مشترکین"</item>
+    </plurals>
+    <string name="about">"دربارهout"</string>
+    <string description="cutstom action bar view title for about" maxwidth="-1" name="action_about">"دربارهout"</string>
+    <string description="action add files" maxwidth="-1" name="action_add">"افزودن"</string>
+    <string description="cutstom action bar view title for add folder" maxwidth="-1" name="action_add_folder">"افزودن پوشه"</string>
+    <string description="View title of custom action bar, apply to multiple selected files" maxwidth="-1" name="action_apply_selected_file">"اجرا"</string>
+    <string description="action cancel" maxwidth="-1" name="action_cancel">"لغو"</string>
+    <string maxwidth="-1" name="action_clean">"پاک کردن"</string>
+    <string maxwidth="-1" name="action_clean_all">"پاک کردن همه"</string>
+    <string description="cutstom action bar view title for clear search history" maxwidth="" name="action_clear_history">"پاک کردن تاریخچه جستجو"</string>
+    <string description="cutstom action bar view title for edit" maxwidth="" name="action_edit">"ویرایش"</string>
+    <string maxwidth="" name="action_hidden_zone">"انتقال به محفظه مخفی"</string>
+    <string description="cutstom action bar view title for hinde system file" maxwidth="-1" name="action_hind_system_file">"پنهان کردن فایل های سیستم"</string>
+    <string description="cutstom action bar view title for open with" maxwidth="" name="action_open_with">"باز کردن با..."</string>
+    <string name="action_refresh_cloudfile">"تازه سازی"</string>
+    <string maxwidth="-1" name="action_restore">"بازیابی"</string>
+    <string maxwidth="-1" name="action_restore_all">"بازیابی همه"</string>
+    <string description="cutstom action bar view title for search" maxwidth="" name="action_search">"جستجو"</string>
+    <string description="cutstom action bar view title for set as" maxwidth="" name="action_set_as">"قرار دادن تصویر به عنوان"</string>
+    <string description="menu title for setting" maxwidth="-1" name="action_settings">"تنظیمات"</string>
+    <string description="cutstom action bar view title for sharing" maxwidth="-1" name="action_share">"اشتراک‌گذاری"</string>
+    <string description="String for asking for the rule of sorting" maxwidth="-1" name="action_sort_by">"مرتب سازی بر اساس"</string>
+    <string description="cutstom action bar view title for zip" maxwidth="" name="action_zip">"فشرده سازی"</string>
+    <string description="Dialog title: Add cloud storage" maxwidth="-1" name="add_cloud_storage_dialog_title">"افزودن فضای ذخیره سازی اینترنتی"</string>
+    <string name="add_favorite">"افزودن به علاقه مندیها"</string>
+    <string name="add_favorite_folder">"افزودن پوشه علاقه مندیها"</string>
+    <string name="add_favorite_success">"ذخیره در علاقه مندیها"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="add_progress">"در حال ایجاد کردن..."</string>
+    <string name="asus_feedback_and_help">"بازخورد و راهنمایی"</string>
+    <string maxwidth="-1" name="attribution_notice">"اعلامیه مشخصه"</string>
+    <string maxwidth="-1" name="attribution_notice_content">
+    "\nاین محصول دارای منابع باز زیر می باشد:
+\n\nuservoice-android-sdk، که تحت مجوز Apache License نسخه 2.0 است. این مجوز را می توان از آدرس روبرو دانلود کرد: http://www.apache.org/licenses/LICENSE-2.0.html.
+        \n\nangular-filemanager، که تحت مجوز MIT است. این مجوز را می توان از آدرس https://github.com/joni2back/angular-filemanager/blob/master/LICENSE دانلود کرد.
+        \n\nangular-filemanager، که تحت مجوز MIT است. این مجوز را می توان از آدرس https://github.com/joni2back/angular-filemanager/blob/master/LICENSE دانلود کرد.
+        \n\nprogressbar، که تحت مجوز MIT است. این مجوز را می توان از آدرس https://github.com/kimmobrunfeldt/progressbar.js/blob/master/LICENSE دانلود کرد.
+        \n\ntoastr, Copyright (c) 2012-2015 John Papa, Tim Ferrell, Hans Fjällemark\nاین مجوز بدین وسیله بدون هیچ هزینه ای به فردی که نسخه ای از این نرم افزار و فایل های اسنادی همراه آن («نرم افزار») را دریافت می کند اعطا می گردد تا بدون هیچ گونه محدودیتی در نرم افزار به فعالیت بپردازد، از جمله حق استفاده، نسخه برداری، تغییر، ادغام، انتشار، توزیع، اعطای مجوز فرعی، و/یا فروش نسخه های این نرم افزار، و همچنین دادن اجازه انجام موارد مذکور به افرادی که نرم افزار در اختیار آنها قرار می گیرد؛ چنین اجازه ای منوط به شرایط زیر است:
+        اطلاعیه حق نسخه برداری و مجوز فوق لازم است در تمامی نسخه ها یا قسمت های عمده نرم افزار قرار داده شود. این نرم افزار «همین گونه که هست» ارائه می شود و هیچ گونه تضمینی، چه صریح و چه ضمنی، در ارتباط با آن صورت نمی گیرد؛ از جمله تضمینی نسبت به قابلیت بازاریابی، مناسب بودن آن برای هدفی خاص و عدم تخلف. برنامه نویسان یا دارندگان حق نسخه برداری به هیچ وجه در قبال هرگونه ادعا، خسارت یا سایر تعهدات که در ارتباط با این نرم افزار یا بکارگیری آن یا هرگونه تعامل دیگر با آن رخ داده باشد، مسئولیتی نخواهد داشت؛ خواه در جریان عمل به قرارداد بوده باشد، و یا قصور در انجام آن یا هر شکل دیگر."
+    </string>
+    <string description="string indicating how camera shooting feature is used" maxwidth="-1" name="auto">"خودکار"</string>
+    <string description="button text." maxwidth="-1" name="back_button_label">"بازگشت"</string>
+    <string name="baidu_storage_title">"百度云"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="calculate_progress">"در حال پیشرفت..."</string>
+    <string description="Toast: can not open in hidden zone" maxwidth="-1" name="can_not_open_in_hidden_zone">"در محفظه مخفی باز نمی شود"</string>
+    <string description="Dialog Button: cancel for dialog" maxwidth="" name="cancel">"لغو"</string>
+    <string name="category_apk">"برنامه ها"</string>
+    <string maxwidth="11" name="category_app1">"برنامه ها"</string>
+    <string name="category_compress">"فشرده"</string>
+    <string maxwidth="11" name="category_compressed1">"فشرده"</string>
+    <string name="category_count">"%s"</string>
+    <string maxwidth="11" name="category_document1">"اسناد"</string>
+    <string name="category_documents">"اسناد"</string>
+    <string name="category_download">"دانلودها"</string>
+    <string maxwidth="11" name="category_download1">"دانلودها"</string>
+    <string name="category_favorite">"علاقه مندیها"</string>
+    <string maxwidth="11" name="category_favorite1">"علاقه مندیها"</string>
+    <string name="category_game">"بازی ها"</string>
+    <string name="category_image">"تصاویر"</string>
+    <string maxwidth="11" name="category_image1">"تصاویر"</string>
+    <string maxwidth="11" name="category_large_file1">"فایل های بزرگ"</string>
+    <string name="category_music">"موسیقی"</string>
+    <string maxwidth="11" name="category_music1">"موسیقی"</string>
+    <string name="category_name_app_wallpaper">"تصویر زمینه زنده"</string>
+    <string name="category_name_app_widgets">"ویجت ها"</string>
+    <string name="category_name_books_and_reference">"کتاب و مرجع"</string>
+    <string name="category_name_business">"تجارت"</string>
+    <string name="category_name_comics">"کمدی"</string>
+    <string name="category_name_communication">"ارتباطات"</string>
+    <string name="category_name_education">"آموزشی"</string>
+    <string name="category_name_entertainment">"سرگرمی"</string>
+    <string name="category_name_finance">"مالی"</string>
+    <string name="category_name_game">"بازی ها"</string>
+    <string name="category_name_game_action">"اکشن"</string>
+    <string name="category_name_game_adventure">"ماجراجویی"</string>
+    <string name="category_name_game_arcade">"آرکید"</string>
+    <string name="category_name_game_board">"تخته"</string>
+    <string name="category_name_game_card">"کارت بازی"</string>
+    <string name="category_name_game_casino">"کازینو"</string>
+    <string name="category_name_game_casual">"نامرتب"</string>
+    <string name="category_name_game_educational">"آموزشی"</string>
+    <string name="category_name_game_family">"خانوادگی"</string>
+    <string name="category_name_game_music">"موسیقی"</string>
+    <string name="category_name_game_puzzle">"پازل"</string>
+    <string name="category_name_game_racing">"مسابقه ای"</string>
+    <string name="category_name_game_role_playing">"نقش آفرینی"</string>
+    <string name="category_name_game_simulation">"شبیه ساز"</string>
+    <string name="category_name_game_sports">"ورزشی"</string>
+    <string name="category_name_game_strategy">"استراتژیک"</string>
+    <string name="category_name_game_trivia">"تراویا"</string>
+    <string name="category_name_game_word">"کلمه"</string>
+    <string name="category_name_health_and_fitness">"سلامتی و تناسب"</string>
+    <string name="category_name_libraries_and_demo">"کتابخانه و دمو"</string>
+    <string name="category_name_lifestyle">"سبک زندگی"</string>
+    <string name="category_name_media_and_video">"رسانه و فیلم"</string>
+    <string name="category_name_medical">"پزشکی"</string>
+    <string name="category_name_music_and_audio">"موسیقی و صدا"</string>
+    <string name="category_name_news_and_magazines">"اخبار و مجله"</string>
+    <string name="category_name_personalization">"شخصی سازی"</string>
+    <string name="category_name_photography">"عکاسی"</string>
+    <string name="category_name_productivity">"تولید"</string>
+    <string name="category_name_shopping">"خرید"</string>
+    <string name="category_name_social">"اجتماعی"</string>
+    <string name="category_name_sports">"ورزشی"</string>
+    <string name="category_name_tools">"ابزارها"</string>
+    <string name="category_name_transportation">"حمل و نقل"</string>
+    <string name="category_name_travel_and_local">"سفر &amp; محلی"</string>
+    <string name="category_name_weather">"آب و هوا"</string>
+    <string name="category_others">"سایر موارد"</string>
+    <string maxwidth="11" name="category_recent1">"اخیر"</string>
+    <string name="category_recent_files">"اضافه شده های اخیر"</string>
+    <string name="category_sorting_summary">"آیتم هایی که می خواهید در پانل دسته ها نمایش داده شود را انتخاب نمایید"</string>
+    <string name="category_title_category">"مقوله"</string>
+    <string name="category_title_local_storage">"محل ذخیره سازی محلی"</string>
+    <string name="category_title_tools">"ابزارها"</string>
+    <string name="category_toast_invalid_item_size_6_or_9">"لطفاً 6 یا 9 آیتم انتخاب کنید"</string>
+    <string name="category_toast_invalid_item_size_9">"لطفاً 9 آیتم انتخاب کنید"</string>
+    <string name="category_toast_invalid_remove">"این آیتم قابل حذف نیست"</string>
+    <string name="category_toast_max_item_size">"حداکثر 9 آیتم انتخاب کنید"</string>
+    <string name="category_video">"ویدئوها"</string>
+    <string maxwidth="11" name="category_video1">"ویدئوها"</string>
+    <string name="clear_account_info">"هیچکدام از حساب ها ذخیره نشود"</string>
+    <string description="Menu Option: clear all checkbox" maxwidth="" name="clear_all">"پاک کردن همه"</string>
+    <string name="click_plus_to_add_favorite_folder">"برای افزودن یک پوشه علاقه مندی، + را فشار دهید"</string>
+    <string description="Toast: The size is over the limit and cannot be uploaded" maxwidth="-1" name="cloud_download_flie_limit_space">"فایل دانلود نشد. اندازه فایل بیشتر از حداکثر مجاز است."</string>
+    <string description="Toast: The name of the file uploaded is not supported by cloud server" maxwidth="-1" name="cloud_flie_name_not_supported">"عملکرد کامل نشد زیرا نام فایل توسط سرور اینترنتی پشتیبانی نمی شود."</string>
+    <string description="home cloud get available devices fail" name="cloud_homebox_get_devices_fail">"دستگاه های HomeCloud موجود اسکن نشدند"</string>
+    <string description="home cloud has no available devices" name="cloud_homebox_no_available_devices">"دستگاه های HomeCloud در دسترس نیستند"</string>
+    <string description="home cloud device is sleep" name="cloud_homebox_status__info_Sleep">"خاموشی صفحه"</string>
+    <string description="home cloud device is offline" name="cloud_homebox_status__info_offline">"آفلاین"</string>
+    <string description="home cloud device is online" name="cloud_homebox_status__info_online">"آنلاین"</string>
+    <string description="home cloud device is offline" name="cloud_homebox_status_offline">"دستگاه آفلاین است"</string>
+    <string description="diaglog cloud background paste" name="cloud_paste_backgroud">"پس زمینه"</string>
+    <string description="diaglog cloud  now is copy files" name="cloud_paste_copying">"در حال کپی..."</string>
+    <string description="diaglog cloud  current" name="cloud_paste_current">"فعلی"</string>
+    <string description="diaglog cloud  now is delete source files" name="cloud_paste_deleting">"در حال حذف فایل های منبع..."</string>
+    <string description="diaglog cloud  paste" name="cloud_paste_downloading">"دانلود فایل ها"</string>
+    <string description="diaglog cloud  total" name="cloud_paste_total">"کل"</string>
+    <string description="diaglog cloud  paste uploading" name="cloud_paste_uploading">"آپلود فایل ها"</string>
+    <string description="Toast: cloud preview action" maxwidth="-1" name="cloud_preview_action_fail">"پیش نمایش فایل های اینترنتی پخش نشد."</string>
+    <string description="Toast: cloud share action" maxwidth="-1" name="cloud_share_action_fail">"فایل های اینترنتی به اشتراک گذاشته نشدند."</string>
+    <string description=">Do you want to remove" maxwidth="-1" name="cloud_storage_remove_hint">"می خواهید از حساب \"%s\" خارج شوید؟"</string>
+    <string description="Dialog title: Remove cloud storage" maxwidth="-1" name="cloud_storage_remove_hint_title">"خروج از سیستم"</string>
+    <string description=">Do you want to signin" maxwidth="-1" name="cloud_storage_sign_in">"با استفاده از این حساب وصل شوید:"</string>
+    <string description="Dialog title: Signin cloud storage" maxwidth="-1" name="cloud_storage_sign_in_title">"اتصال به %s"</string>
+    <string description=">Do you want to signout" maxwidth="-1" name="cloud_storage_sign_out">"مطمئن هستید می خواهید اتصال \"%s\" را قطع کنید؟"</string>
+    <string description="Dialog title: Signout cloud storage" maxwidth="-1" name="cloud_storage_sign_out_title">"قطع اتصال"</string>
+    <string description="Add more cloud storage" maxwidth="-1" name="cloud_storage_title">"افزودن فضای ذخیره سازی اینترنتی"</string>
+    <string description="diaglog cloud  token is invalidate" name="cloud_token_invalidate">"توکن نامعتبر است، لطفاً دوباره وارد سیستم شوید!"</string>
+    <string description="Toast: The size is over the limit and cannot be uploaded" maxwidth="-1" name="cloud_upload_flie_limit_space">"فایل آپلود نشد. اندازه فایل بیشتر از حداکثر مجاز است."</string>
+    <string description="content" maxwidth="-1" name="content">"از این نرم افزار بر اساس شرایط و مقررات عنوان شده در وب سایت ASUS در این آدرس http://www.asus.com استفاده کنید."</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="copy">"کپی"</string>
+    <string description="Toast: copy ready" maxwidth="-1" name="copy_ready_more">"فایل های انتخابی کپی شدند و آماده جایگذاری هستند."</string>
+    <string description="Toast: copy ready. %s is variable string." maxwidth="-1" name="copy_ready_one">"\"%s\" کپی شد و آماده جای گذاری است."</string>
+    <string name="copy_to">"کپی کردن در"</string>
+    <string name="create_shortcut">"ایجاد میانبر"</string>
+    <string name="create_shortcut_dialog">"ایجاد میانبر در لانچر"</string>
+    <string name="create_shortcut_toast">"ایجاد میانبر در لانچر انجام شد"</string>
+    <string name="cta_agree">"اجازه"</string>
+    <string name="cta_check_title">"به خاطر بسپار"</string>
+    <string name="cta_dialog_content">"مدیر فایل تلاش می کند از شبکه استفاده کند، بسته به اشتراک هایتان ممکن است تغییرات دیگری نیز اعمال کند."</string>
+    <string name="cta_dialog_title">"استفاده از شبکه"</string>
+    <string name="cta_disagree">"رد کردن"</string>
+    <string name="cta_show_menu">"اجازه شبکه"</string>
+    <string name="current_folder">"پوشه فعلی"</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="cut">"برش"</string>
+    <string description="Toast: cut ready" maxwidth="-1" name="cut_ready_more">"فایل های انتخای بریده شدند و آماده جایگذاری هستند."</string>
+    <string description="Toast: cut ready. %s is variable string." maxwidth="-1" name="cut_ready_one">"\"%s\" بریده شد و آماده جایگذاری است."</string>
+    <string description="button text for sort file by date" maxwidth="-1" name="date">"تاریخ"</string>
+    <string description="button text for sort file by date ascending" maxwidth="-1" name="date_ascending">"تاریخ (قدیمی ترین-جدیدترین)"</string>
+    <string description="button text for sort file by date descending" maxwidth="-1" name="date_descending">"تاریخ (جدیدترین-قدیمی ترین)"</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="delete">"حذف"</string>
+    <string description="Dialog Title: delete dialog title" maxwidth="" name="delete_dialog">"حذف فایل"</string>
+    <string description="Toast: delete fails" maxwidth="-1" name="delete_fail">"فایل حذف نشد."</string>
+    <string description="Dialog Content: text in dialog. %d is variable number." maxwidth="" name="delete_more_files">"می خواهید %d مورد را حذف کنید؟"</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="delete_one_directory">"می خواهید دایرکتوری را حذف کنید؟"</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="delete_one_files">"می خواهید فایل را حذف کنید؟"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="delete_progress">"در حال حذف..."</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="delete_size">"اندازه:"</string>
+    <string description="Toast: delete success" maxwidth="-1" name="delete_success_more">"فایل انتخابی حذف شد."</string>
+    <string description="Toast: delete success. %s is variable string." maxwidth="-1" name="delete_success_one">"\"%s\" حذف شد."</string>
+    <string description="cutstom action bar view title for deselect all checkbox" maxwidth="" name="deselect_all">"لغو انتخاب همه"</string>
+    <string name="device_root_path">"روت"</string>
+    <string description="compress dialog title" maxwidth="-1" name="dialog_create_zip_title">"نام بایگانی را وارد کنید"</string>
+    <string description="extract zip file dialog title. %s is a dynamic string. It is zip file name." maxwidth="-1" name="dialog_extract_zip_title">"باز کردن %s در :"</string>
+    <string name="dialog_load_stream_url_info">"در حال دریافت اطلاعات ضروری از سرور"</string>
+    <string description="text encoding dialog title" maxwidth="-1" name="dialog_text_encoding_title">"رمزگذاری متن"</string>
+    <string description="show zip info dialog title. %s is a dynamic string. Is is a zip file name" maxwidth="-1" name="dialog_unzip_preview_title">"باز کردن %s"</string>
+    <string description="Dialog Title: Directory information dialog title" maxwidth="-1" name="dir_info_dialog_title">"اطلاعات دایرکتوری"</string>
+    <string name="display">"نمایش بعنوان"</string>
+    <string name="display_hint">"کامپیوتر من، می تواند خالی باشد"</string>
+    <string name="dm_openfile">"باز کردن فایل"</string>
+    <string name="do_not_show_again">"دوباره نشان داده نشود"</string>
+    <string name="domain">"دامنه:"</string>
+    <string name="domain_hint">"می تواند خالی باشد"</string>
+    <string name="drag_items_one">"مورد را بکشید"</string>
+    <string name="drag_items_other">"موارد را بکشید"</string>
+    <string name="drawer_close">"بستن کشوی پیمایش"</string>
+    <string name="drawer_home">"خانه"</string>
+    <string name="drawer_open">"باز کردن کشوی پیمایش"</string>
+    <string description="Hint: the operation is incorrect" maxwidth="-1" name="drop_incorrect_hint">"عملکرد اشتباه"</string>
+    <string description="Hint: the target folder which you want to do something" maxwidth="-1" name="drop_target_to">"هدف:"</string>
+    <string name="duplicate_files">"کپی فایل ها"</string>
+    <string name="duplicate_files_content_hint">"فایل های تکراری را بیابید و آنها را با اجازه خود حذف کنید."</string>
+    <string name="edit_toast_name_too_long">"به حداکثر تعداد نویسه ها رسیدید"</string>
+    <string name="edit_toast_special_char">"نویسه خاص اضافه نمی شود"</string>
+    <string name="editcategory_hint">"برای سفارشی سازی پانل دسته ها، روی دکمه ویرایش ضربه بزنید."</string>
+    <string description="describe the empty folder" maxwidth="-1" name="empty_folder_title">"فایلی وجود ندارد"</string>
+    <string description="Dialog Button: click to open the encoding list dialog" maxwidth="-1" name="encode">"رمزگذاری متن"</string>
+    <string name="eula_content_description">
+        \n  این «توافقنامه مجوز کاربر نهایی» («EULA») شامل توافقی معتبر و لازم‌الاجرا است که میان شرکت ASUSTeK Computer («ASUS») و شما، به عنوان کاربر، جهت استفاده از نرم‌افزار ASUS («نرم‌افزار») منعقد می‌گردد که به قرار زیر است. با بکارگیری و تداوم استفاده از این نرم‌افزار، شما صریحاً تصدیق می‌نمایید که ضوابط این توافقنامه و نسخه‌های جدید متعلق به آن را مطالعه و درک کرده‌اید، و می‌پذیرید که خود را ملزم به رعایت آن نمایید. 
+\n\n1.نرم‌افزار به معنای نرم‌افزار ASUS است که درون محصول ASUS مربوطه یا همراه آن ارائه گردیده است، از جمله هرگونه رفع عیب نرم‌افزاری، به‌ روزرسانی و نسخه‌های اصلاحی که در آینده منتشر شود.
+\n این نرم ‌افزار ممکن است همراه با سایر نرم ‌افزارهای ASUS یا نرم‌ افزارهای محصول شرکت‌های ثالث عرضه شود که تحت مجوز یا مجوزهای «نرم‌افزار منبع باز رایگان» در وب‌سایت www.opensource.org/licenses است. نرم‌افزار منبع باز رایگان مذکور منحصراً تحت ضوابط توافقنامه مجوز مربوطه یا اطلاعیه حق نسخه‌برداریِ همراه آن یا ضوابط مندرج در فایل مجوزهای «نرم‌افزار منبع باز رایگان» می‌باشد که همراه نرم‌ افزار ارائه می‌گردد. ضوابط توافقنامه جاری در مورد آن نرم ‌افزار منبع باز رایگان قابل اعمال نیست.
+
+\n\n2.مجوز شرکت ASUS با عنایت به ضوابط توافقنامه جاری بدین وسیله مجوزی محدود، شخصی، غیرتجاری و غیرانحصاری جهت استفاده از نرم‌افزاری که صرفاً همراه با محصولات ASUS عرضه شده است به شما اعطا می‌نماید. شما می‌توانید صرفاً جهت داشتن نسخه پشتیبان، نسخه‌ای از این نرم‌افزار را در قالبی که قابل خوانش توسط رایانه باشد ایجاد کنید، مشروط بر اینکه نسخه پشتیبان باید کلیه اطلاعیه‌های حق نسخه‌برداری یا سایر اطلاعیه‌های مرتبط با حق مالکانه‌ای که در نسخه اصلی وجود دارد را شامل شود. ارائه مجوز فرعی بر اساس این مجوز امکان‌پذیر نبوده، و این مجوز نیز قابل انتقال به غیر نمی‌باشد، مگر به شخص یا نهادی که مالکیت کل محصولات ASUS که حاوی نرم ‌افزار است را واگذار کرده باشید، مشروط بر اینکه کلیه حقوق ناشی از توافقنامه جاری را به طور دائم منتقل نموده و هیچ‌گونه نسخه‌ای از کل یا جزئی از نرم‌افزار را نزد خود نگاه ندارید و ذینفع نیز ضوابط توافقنامه جاری را بپذیرد.
+\n\n3.محدودیت معکوس شما مجاز به انجام مهندسی معکوس، استخراج کد، رمزگشایی یا تجزیه نرم‌افزار یا دادن اجازه به شخصی دیگر یا ترغیب او به انجام موارد مذکور نیستید، مگر تا حدی که بنا به قوانین مستقیماً ذی ربط، اعمال محدودیت‌های مذکور ممنوع شده باشد.
+\n\n4.محرمانگی شما موظف به حفاظت و عدم افشا یا عدم تسبیب افشای اطلاعات محرمانه نرم‌افزار به صورت کلی یا جزئی می‌باشید. برخی از این اطلاعات عبارتند از اسرار تجاری، و مطالب دارای حق نسخه‌برداری در هر قالبی برای هر شخص ثالث.
+\n\n5.حقوق مالکیت معنوی شما تصدیق و موافقت می‌کنید که کلیه حقوق مالکیت معنوی، عنوان مالکیت، و منافع مربوط به نرم‌افزار یا ناشی از آن همواره تحت مالکیت انحصاری ASUS یا نهاد اعطاکننده مجوز آن خواهد بود. چیزی در توافقنامه جاری به قصد انتقال هیچ‌یک از حقوق مالکیت معنوی به شما ذکر نشده است. هرگونه استفاده غیرمجاز از حقوق مالکیت معنوی به منزله تخطی از قوانین این توافقنامه و تخطی از قوانین حقوق معنوی است، که برخی از آنها عبارتند از قوانین حق نسخه‌برداری و قوانین نشان تجاری. \n
+\n شما با ارسال هرگونه اطلاعات، مطالب، ایده‌ها، مفاهیم یا تکنیک‌ها به ASUS از طریق نرم‌افزار («بازخورد»)، به استثنای اطلاعات شخصی، موارد زیر را تصدیق نموده و آنها را می‌پذیرید: (الف) بازخوردهای شما نباید حاوی اطلاعات محرمانه یا مربوط به مالکیت باشد؛ (ب) شرکت ASUS هیچ‌گونه تعهدی نسبت به محرمانه نگاه داشتن بازخوردها ندارد، چه ضمنی و چه صریح؛ (ج) شرکت ASUS از حق استفاده یا افشای بازخوردها در سراسر جهان به صلاحدید شخصی خود برای هر هدفی و به هرشکلی برخوردار است؛ (د) بازخوردهای شما بدون اینکه ASUS تعهدی نسبت به شما پیدا کند در تصاحب ASUS قرار خواهد گرفت؛ و (هـ) شما از حق هیچ‌گونه جبران خسارت یا بازپرداختی برخوردار نخواهید بود.
+\n\n6.مدت اعتبار و زمان انقضا این توافقنامه از روزی که نرم‌افزار را نصب کنید قابل اجرا خواهد بود. شما می‌توانید با خاتمه دادن کلی به استفاده از نرم‌افزار و حذف آن از محصول ASUS، اعتبار این مجوز را منقضی کنید. چنانچه احساس کنیم در رعایت مفاد این توافقنامه قصور ورزیده‌اید، حق شما بدون اطلاع قبلی از طرف شرکت ASUS از اعتبار ساقط خواهد شد.
+\n\n7.بیانیه اعراض از ضمانت و محدودیت مسئولیت شما تصدیق می‌کنید که نرم‌افزار «با ماهیت کنونی» ارائه شده است. کل خطر مرتبط با کیفیت و عملکرد این نرم‌افزار بر عهده خود شماست؛ برخی از این خطرها عبارتند از هزینه مربوطه کلیه خدمات و تعمیرات ضروری. تا اندازه‌ای که قانون مجاز شمرده باشد، شرکت ASUS نسبت به این نرم‌افزار یا سایر اطلاعات یا اسنادی که بر اساس توافقنامه جاری یا برای این نرم‌افزار ارائه شده است، هیچ‌گونه ضمانتی، چه صریح و چه ضمنی، نمی‌کند؛ از جمله ضمانت نسبت به قابلیت فروش آن یا تناسب آن برای هدفی خاص یا در مقابل تخلف، یا هرگونه ضمانت ناشی از استفاده یا دوره عملکرد. شرکت ASUS همچنین نسبت به نتایجی که ممکن است با بکارگیری این نرم‌افزار حاصل گردد یا نسبت به صحت یا قابلیت اطمینان اطلاعات حاصل از این نرم‌افزار تضمینی ارائه نمی‌دهد. بعضی از حوزه‌های قضایی اجازه حذف برخی ضمانت‌ها و یا محدودسازی یا حذف مسئولیت در قبال خسارات خاصی را نمی‌دهند. به همین ترتیب، بعضی از بیانیه‌های اعراض و محدودیت‌های مسئولیت که در بالا قید شد ممکن است در مورد شما اعمال نگردد.
+\n  کل خطر ناشی از استفاده و/یا عملکرد این نرم‌افزار همواره بر عهده خود شما باقی می‌ماند. در هیچ شرایطی شرکت ASUS، نهاد اعطاکننده مجوز آن، یا هیچ‌یک از افسران، مدیران، کارمندان، عاملان یا شرکت‌های وابسته آن در قبال هرگونه خسارات تبعی، جنبی، مستقیم، غیرمستقیم، خاص، جزائی یا هرگونه خسارت دیگر (از جمله خسارات ناشی از از دست دادن سود، اختلال، از دست رفتن اطلاعات، یا سایر خسارات مالی) که از این توافقنامه یا در ارتباط با آن، یا به دلیل استفاده یا ناتوانی در استفاده صحیح از این نرم‌افزار یا بخشی از آن ناشی شود مسئول نخواهد بود، حتی اگر ASUS از احتمال وقوع چنین خساراتی مطلع شده باشد. بعضی از حوزه‌های قضایی اجازه حذف برخی ضمانت‌ها و یا محدودسازی یا حذف مسئولیت در قبال خسارات خاصی را نمی‌دهند. به همین ترتیب، بعضی از بیانیه‌های اعراض و محدودیت‌های مسئولیت که در بالا قید شد ممکن است در مورد شما اعمال نگردد.
+\n\n8.جبران خسارت شما می‌پذیرید که در صورت بروز هرگونه ادعا یا مطالبه‌ای که به دلیل یا در ارتباط با تخطی شما از قوانین مندرج در توافقنامه جاری یا هرگونه قانون یا مقررات ذیربط، یا حق شخص ثالث ناشی شده باشد، شرکت ASUS و وابستگان آن، ارائه‌دهندگان خدمات، سندیکاها، توزیع‌کنندگان، اعطاکنندگان مجوز، افسران، مدیران و کارمندان آن را از تمامی خسارات، آسیب‌ها، مسئولیت‌ها، و مخارج وارده (از جمله حق‌الوکاله و هزینه‌های دادگاه در حد معقول) مصون نگاه دارید، در این رابطه مدافع آنها باشید و خسارات وارده را جبران نمایید.
+    t
+    </string>
+    <string name="eula_content_title">";قرارداد مجوز کاربر نهایی"</string>
+    <string description="Do not translate ASUS" maxwidth="" name="eula_description">"قرارداد حقوقی بین برنامه های ASUS و کاربران نهایی"</string>
+    <string maxwidth="" name="eula_title">"قرارداد مجوز کاربر نهایی"</string>
+    <string name="example">"مثال:"</string>
+    <string description="Dialog Button: extract file for dialog" maxwidth="-1" name="extract">"باز کردن"</string>
+    <string name="facebook_app_invite">"مخاطبین فیسبوک"</string>
+    <string name="fileList_Nofiles">"فایلی وجود ندارد"</string>
+    <string description="Dialog Title: File information dialog title" maxwidth="-1" name="file_info_dialog_title">"اطلاعات فایل"</string>
+    <string description="Application Name shown on title" maxwidth="" name="file_manager">"مدیر فایل"</string>
+    <string description="string indicating camera flash is not used" maxwidth="-1" name="flash_off">"فلش وجود ندارد"</string>
+    <string description="string indicating camera flash is fired" maxwidth="-1" name="flash_on">"فلش روشن شد"</string>
+    <string name="fragment_analyzer_allfiles_used_hint">"مصرف شده:"</string>
+    <string name="fragment_analyzer_chart_free_hint">"فضای موجود:"</string>
+    <string name="fragment_analyzer_chart_total_hint">"مجموع:"</string>
+    <string name="fragment_analyzer_chart_used_hint">"مصرف شده"</string>
+    <string name="fragment_analyzer_more_hint">"موارد بیشتر"</string>
+    <string name="google_app_invite">"مخاطبین Google"</string>
+    <string name="group_title_installed">"نصب شد"</string>
+    <string name="group_title_not_installed">"نصب نشده"</string>
+    <string name="group_title_others">"سایر موارد"</string>
+    <string name="group_title_recommended">"توصیه می شود"</string>
+    <string name="hidden_zone_change_password">"تغییر رمز عبور"</string>
+    <string name="hidden_zone_confirm_password">"تأیید کد پین"</string>
+    <string name="hidden_zone_enter_password">"کد پین را وارد کنید"</string>
+    <string name="hidden_zone_fingerprint_to_unlock">"اثر انگشت برای باز کردن قفل"</string>
+    <string name="hidden_zone_forget_password">"رمز عبور را فراموش کردید"</string>
+    <string name="hidden_zone_introduction_description">"فایل های خصوصی خود را در محفظه مخفی پنهان کنید. برای باز کردن محفظه مخفی، کد پین مورد نیاز است."</string>
+    <string name="hidden_zone_password_mismatch">"کد پین مطابقت ندارد"</string>
+    <string name="hidden_zone_set_password_success">"رمز عبور با موفقیت تنظیم شد"</string>
+    <string name="hidden_zone_setup_account">"تنظیم حساب"</string>
+    <string name="hidden_zone_setup_password">"کد پین 4 رقمی را وارد کنید"</string>
+    <string name="hidden_zone_wrong_password">"کد پین اشتباه است"</string>
+    <string description="Can’t connect to HomeCloud." maxwidth="-1" name="homecloud_access_error">"به HomeCloud متصل نشدید. بررسی کنید سرویس HomeCloud آنلاین باشد."</string>
+    <string maxwidth="" name="httpserver_acquire_permission_message">"سرور فایل HTTP بسته خواهد شد و عملیات ممکن است با اختلال روبرو شود. ادامه می دهید؟"</string>
+    <string maxwidth="" name="httpserver_connectwifiname">"به نقطه دسترسی Wi-Fi متصل شد:"</string>
+    <string maxwidth="" name="httpserver_description">"سرویس را اجرا کنید تا دستگاه همراهتان به رایانه متصل شود."</string>
+    <string maxwidth="" name="httpserver_instruction">"آدرس زیر را در مرورگر رایانه خود وارد کنید:"</string>
+    <string maxwidth="" name="httpserver_need_saf">"اگر مایل به مدیریت حافظه خارجی خود با رایانه هستید، باید اجازه لازم را اعطا کنید."</string>
+    <string maxwidth="" name="httpserver_no_network">"دستگاهتان را به شبکه Wi-Fi یکسانی متصل کنید"</string>
+    <string maxwidth="" name="httpserver_no_permission_message">"بدون مجوز لازم قادر به نوشتن روی حافظه خارجی نخواهید بود. ادامه می دهید؟"</string>
+    <string maxwidth="" name="httpserver_no_permission_title">"شروع فرآیند انتقال فایل با شبکه بی سیم"</string>
+    <string maxwidth="" name="httpserver_start">"شروع"</string>
+    <string maxwidth="" name="httpserver_stop">"توقف"</string>
+    <string maxwidth="" name="httpserver_title">"انتقال فایل به رایانه با شبکه بی سیم"</string>
+    <string description="Context Menu: options of context menu" maxwidth="-1" name="info">"اطلاعات"</string>
+    <string description="file info textview context" maxwidth="-1" name="info_aperture">"دریچه لنز: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_datetime">"تاریخ ثبت: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_exposure_time">"زمان نوردهی: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_file_num">"فایل ها:"</string>
+    <string description="file info textview context" maxwidth="-1" name="info_flash">"فلش: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_focal_length">"فاصله کانونی: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_image_height">"طول: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_image_width">"عرض"</string>
+    <string description="file info textview context" maxwidth="-1" name="info_image_x">" x "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_iso">"ISO: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_location">"مکان:"</string>
+    <string description="file info textview context" maxwidth="-1" name="info_maker">"سازنده: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_model">"مدل: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_modified">"تاریخ اصلاح شده:"</string>
+    <string description="file info textview context" maxwidth="-1" name="info_name">"نام:"</string>
+    <string description="file info textview context" maxwidth="-1" name="info_orientation">"جهت: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_path">"مسیر:"</string>
+    <string description="file info textview context" maxwidth="-1" name="info_permission">"اجازه:"</string>
+    <string description="file info textview context" maxwidth="-1" name="info_type">"نوع: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_white_balance">"توازن سفیدی: "</string>
+    <string description="Do not translate ASUS" maxwidth="" name="inspire_asus_description">"داده های مربوط به کار با این دستگاه برای ASUS جمع آوری می گردد تا به بهبود محصولات و تجربه کاربری کمک شود"</string>
+    <string name="inspire_asus_title">"الهام بخش ASUS باشید"</string>
+    <string name="install">"نصب"</string>
+    <string description="storage label" maxwidth="-1" name="internal_storage_title">"حافظه داخلی"</string>
+    <string description="Toast: the account is invalid" maxwidth="-1" name="invalid_account">"حساب نامعتبر"</string>
+    <string description="Invalid directory path" maxwidth="-1" name="invalid_directory_path">"مسیر دایرکتوری نامعتبر"</string>
+    <string name="inviteContentTitle">"%1$s شما را دعوت کرده است که برنامه مدیریت فایل ASUS را دانلود و نصب کنید."</string>
+    <string name="inviteContent_p1">"مدیریت فایل ASUS راهی است ایده آل برای مدیریت فایل ها در تلفن هوشمند شما. این برنامه مدیریت فایل به شما کمک می کند فایل های مختلف روی حافظه تلفن خود، کارت میکروSD، شبکه محلی و حتی شبکه ابری را اداره و مرتب سازی کنید."</string>
+    <string name="inviteContent_p2">"با برنامه مدیریت فایل ASUS می توانید ضمن دسترسی آسان به فایل ها، فایل های روی شبکه ابری را نیز جابجا، کپی یا حذف کنید. مدیریت فایل ASUS با تعدادی از ارائه دهندگان فضای حافظه ابری همکاری دارد، از جمله WebStorage خود ASUS و HomeCloud؛ و همچنین دراپ باکس، گوگل درایو، و مایکروسافت وان درایو."</string>
+    <string name="inviteContent_p3">"من از کار با مدیریت فایل ASUS لذت برده ام. همین الان آن را امتحان کنید! :D"</string>
+    <string description="sticker detail page button name" maxwidth="-1" name="invite_friends">"دعوت دوستان"</string>
+    <string name="item">"آیتم"</string>
+    <string name="items">"آیتم ها"</string>
+    <string name="keep">"نگه داشتن"</string>
+    <string name="kk_sd_permission_warning">"به دلیل محدودیت اندروید، اندروید 4.4 به برنامه های شخص ثالث اجازه نمی دهد تغییری در کارت های SD خارجی ایجاد کنند."</string>
+    <string name="large_files_content_hint">"فایل های بزرگ را بیابید و آنها را با اجازه خود حذف نمایید."</string>
+    <string description="linked file is missing" maxwidth="-1" name="linked_file_missing">"فایل پیوند دار وجود ندارد"</string>
+    <string description="text for progress bar" maxwidth="-1" name="loading">"در حال بارگیری\u2026"</string>
+    <string description="button text for sort file by date" maxwidth="-1" name="location">"مکان"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="logging_cloud_storage">"در حال ثبت کردن..."</string>
+    <string description="Toast: login account fail" name="login_fail" width="-1">"وارد سیستم نشدید"</string>
+    <string description="logout account" name="logout_account" width="-1">"خروج از سیستم"</string>
+    <string name="low_storage_tutorial_description">"برای انتخاب فایل ها، ضربه بزنید و نگه دارید و سپس گزینه  \"انتقال به\" Google Drive را انتخاب نمایید"</string>
+    <string name="low_storage_tutorial_title">"انتقال فایل ها به Google Drive"</string>
+    <string name="m_permission_dialog_message">"برای فعال کردن مجوز [%2$s] در [اطلاعات برنامه] > [مجوزها] روی [تنظیمات] ضربه بزنید، سپس %1$s را مجدداً راه اندازی کنید."</string>
+    <string name="m_permission_dialog_positive_button">"تنظیمات"</string>
+    <string name="m_permission_setting_subtitle_files">"%1$s برای دسترسی به فایل های شما در دستگاه، مجوز %2$s را درخواست می کند."</string>
+    <string name="m_permission_setting_title_cloud_storage">"دسترسی به حافظه ابری امکان پذیر نیست"</string>
+    <string name="m_permission_setting_title_files">"دسترسی به فایلها امکان پذیر نیست"</string>
+    <string name="m_permission_setting_turn_on">"فعال کردن"</string>
+    <string description="string indicating how camera shooting feature is used" maxwidth="-1" name="manual">"دستی"</string>
+    <string description="The title of a menu for General Preferences.Pressing the menu item lets user to view and edit his general settings" maxwidth="30" name="menu_general_preferences">"تنظیمات کلی"</string>
+    <string description="settings menu tutorial" maxwidth="-1" name="menu_tutorial">"خودآموز"</string>
+    <string description="Hint: move the items" maxwidth="-1" name="move">"انتقال"</string>
+    <string name="move_or_delete_msg">"اکنون موارد به طور موقت به سطل زباله منتقل شوند؟\n(برای حذف دائم موارد کادر زیر را تیک بزنید.)"</string>
+    <string name="move_to">"انتقال به"</string>
+    <string description="Toast: move to recycle bin fails" maxwidth="-1" name="move_to_hidden_zone_fail">"انتقال به محفظه مخفی ناموفق بود"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="move_to_hidden_zone_progress">"در حال انتقال به محفظه مخفی..."</string>
+    <string description="Toast: move to recycle bin success" maxwidth="-1" name="move_to_hidden_zone_success_more">"فایل های انتخاب شده به محفظه مخفی منتقل شدند."</string>
+    <string description="Toast: move to recycle bin success. %s is variable string." maxwidth="-1" name="move_to_hidden_zone_success_one">"\"%s\" به محفظه مخفی انتقال یافت."</string>
+    <string description="Toast: move to recycle bin fails" maxwidth="-1" name="move_to_trash_fail">"انتقال به سطل زباله ناموفق بود"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="move_to_trash_progress">"در حال انتقال به سطل زباله..."</string>
+    <string description="Toast: move to recycle bin success" maxwidth="-1" name="move_to_trash_success_more">"فایل های انتخاب شده به سطل زباله منتقل شدند"</string>
+    <string description="Toast: move to recycle bin success. %s is variable string." maxwidth="-1" name="move_to_trash_success_one">"\"%s\" به سطل زباله منتقل شد"</string>
+    <string name="msg_too_big_to_recycle">"موارد برای انتقال به سطل زباله خیلی بزرگ هستند.\nمی خواهید آنها را به طور دائم حذف کنید؟"</string>
+    <string name="multi_drm_file_forbidden_operation">"به دلیل اینکه بعضی از فایل ها با DRM محافظت می شوند، این کار ممنوع است."</string>
+    <string description="shortcut label" maxwidth="-1" name="my_camera_title">"دوربین"</string>
+    <string description="shortcut label" maxwidth="-1" name="my_download_title">"دانلود"</string>
+    <string description="shortcut label" maxwidth="-1" name="my_music_title">"موسیقی"</string>
+    <string description="shortcut label" maxwidth="-1" name="my_picture_title">"عکس"</string>
+    <string description="storage label" maxwidth="-1" name="my_storage_title">"فضای ذخیره سازی من"</string>
+    <string description="button text for sort file by name" maxwidth="-1" name="name">"نام"</string>
+    <string description="button text for sort file by name ascending" maxwidth="-1" name="name_ascending">"نام (z-a)"</string>
+    <string description="button text for sort file by name descending" maxwidth="-1" name="name_descending">"نام (a-z)"</string>
+    <string name="network_cta_hint">"لطفاً بپذیرید تا به شبکه وصل شوید"</string>
+    <string description="Can’t connect to networkpalce" maxwidth="-1" name="networkplace_access_error">"اتصال ناموفق بود. لطفاً از آنلاین بودن سرور اطمینان حاصل کنید."</string>
+    <string name="networkplace_storage_title">"محل شبکه"</string>
+    <string description="Dialog Title: create new folder" maxwidth="" name="new_folder_dialog">"ایجاد پوشه جدید"</string>
+    <string description="Toast: new folder fails" maxwidth="-1" name="new_folder_fail">"پوشه جدید ایجاد نشد."</string>
+    <string description="Toast: new folder success. %s is variable string." maxwidth="-1" name="new_folder_success">"پوشه \"%s\" ایجاد شد."</string>
+    <string maxwidth="" name="news_1"><b>پانل خانه با قابلیت شخصی سازی</b>: اکنون این امکان را دارید که پانل خانه را با دسته ها و سفارش های مختلف شخصی سازی کنید.</string>
+    <string maxwidth="" name="news_2"><b>انتخابگر علاقه مندیها</b>: پوشه علاقه مندیها را مستقیماً از دسته مورد علاقه تان اضافه کنید.</string>
+    <string maxwidth="" name="news_3"><b>ویجت مدیریت فایل</b>: میانبری را برای پوشه در لانچر بسازید.</string>
+    <string maxwidth="" name="news_mark1">"★  "</string>
+    <string maxwidth="" name="news_subtitle">"این نسخه بروزرسانی را از دست ندهید."</string>
+    <string maxwidth="" name="news_title">"تازه ها"</string>
+    <string maxwidth="" name="news_v21"><b>انتقال فایل با شبکه بی سیم به/از روی رایانه</b>:  فایل ها از مدیریت کنید و آنها را از/به روی رایانه انتقال دهید</string>
+    <string maxwidth="" name="news_v23">"بهبود عملکرد و رفع اشکالات نرم افزاری"</string>
+    <string maxwidth="" name="news_v31">"با تحلیلگر فضای حافظه می توانید نوع فایل هایی که فضای حافظه را بسیار اشغال کرده است بشناسید"</string>
+    <string maxwidth="" name="news_v32">"دسته برنامه های جدیداً ارتقایافته"</string>
+    <string name="news_v41">"فایل های خصوصی خود را در محفظه مخفی پنهان کنید"</string>
+    <string name="news_v42">"بازیابی فایل های حذف شده از سطل زباله"</string>
+    <string name="news_v43">"حذف فایل های تکراری از برنامه تحلیل حافظه"</string>
+    <string name="news_v44">"ویژگی نمایش جدید - حالت تیره"</string>
+    <string name="news_v45">"عملکرد بهبود یافته"</string>
+    <string name="news_v46">"اشکالات تصحیح شده"</string>
+    <string name="newversion_description">"نسخه جدیدی از برنامه «مدیریت فایل» اکنون موجود است. آیا می خواهید اکنون بروزرسانی کنید؟"</string>
+    <string name="newversion_title">"نسخه جدید"</string>
+    <string name="next">"بعدی"</string>
+    <string description="Dialog Button: no for dialog" maxwidth="" name="no">"خیر"</string>
+    <string name="no_items">"آیتمی وجود ندارد"</string>
+    <string description="The description to inform users when there is no internet access" maxwidth="-1" name="no_network_connection_message">"لطفاً اتصال را بررسی کرده و دوباره سعی کنید"</string>
+    <string name="no_share_folder">"هیچ فایلی در این دستگاه به اشتراک گذاشته نشده است"</string>
+    <string description="Toast: No space to copy file and left on device" maxwidth="-1" name="no_space_fail">"فضای ذخیره سازی کافی نیست"</string>
+    <string name="notification_gdrive_redeem_content">"آن را همین الان از گوگل درایو دریافت کنید"</string>
+    <string name="notification_gdrive_redeem_title">"100گیگابایت حافظه رایگان!"</string>
+    <string description="Dialog Button: ok for dialog" maxwidth="" name="ok">"تأیید"</string>
+    <string name="open">"باز کردن"</string>
+    <string description="Toast: open file fails" maxwidth="-1" name="open_fail">"باز کردن فایل ناموفق بود."</string>
+    <string maxwidth="" name="open_source_license_description">"اعلامیه های مجوز برای نرم افزار منبع آزاد"</string>
+    <string maxwidth="" name="open_source_license_title">"مجوزهای منبع باز"</string>
+    <string name="password">"رمز عبور"</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="paste">"جایگذاری"</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="paste_exist_apply">"اعمال روی همه"</string>
+    <string description="Dialog Title: paste exist dialog title" maxwidth="" name="paste_exist_dialog">"نام فایل یکسان"</string>
+    <string description="Dialog Content: text in dialog. %s is variable string." maxwidth="" name="paste_exist_file">"فایل \"%s\" از قبل موجود است."</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="paste_exist_replace">"می خواهید با مورد جدید جایگزین کنید؟"</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="paste_exist_to">"به"</string>
+    <string description="Toast: paste fails" maxwidth="-1" name="paste_fail">"فایل ها جایگذاری نشدند."</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="paste_progress">"در حال جایگذاری..."</string>
+    <string name="paste_progress_title">"یک کپی دیگر در حال انجام است..."</string>
+    <string description="Toast: paste success. %s is variable string." maxwidth="-1" name="paste_success">"فایل ها به \"%s\" اضافه شدند."</string>
+    <string name="permanently_delete">"به طور دائم حذف شد"</string>
+    <string description="Toast: operation permission deny" maxwidth="-1" name="permission_deny">"اجازه رد شد."</string>
+    <string name="permission_dialog_title">"مجوز برنامه"</string>
+    <string name="permission_essential">"نیازمند مجوزهایی است. برای فعال کردن مجوزها، به قسمت تنظیمات بروید!"</string>
+    <string name="permission_reason_contact">"برنامه مدیریت فایل برای وارد شدن به حافظه ابری نیاز به دسترسی به اطلاعات حساب شما دارد."</string>
+    <string name="permission_reason_storage">"برنامه مدیریت فایل برای اینکه به درستی کار کند نیاز به دسترسی به حافظه دستگاه شما دارد"</string>
+    <string description="Toast: You may not select more than %s photos." maxwidth="-1" name="photo_selection_limit_number_toast">"انتخاب حداکثر %s عکس"</string>
+    <string description="This is the title of the screen for setting user preferences." maxwidth="-1" name="preferences_title">"تنظیمات"</string>
+    <string name="previous_folder">"پوشه قبلی"</string>
+    <string maxwidth="" name="privacy_policy">"سیاست حریم خصوصی"</string>
+    <string name="privacy_policy_url">http://www.asus.com/us/Terms_of_Use_Notice_Privacy_Policy/Privacy_Policy/</string>
+    <string name="promote_darkmode_message">"تغییر اولویت خود در %s"</string>
+    <string name="promote_darkmode_title">"ویژگی نمایش جدید - حالت تیره"</string>
+    <string name="promotion_notification_content">"\"انتقال فایل با شبکه بی سیم\" را حتما امتحان کنید!"</string>
+    <string name="promotion_notification_title">"هنوز هم برای انتقال فایل ها از کابل USB استفاده می کنید؟"</string>
+    <string name="pullfreshlistview_footer_hint_normal">"بارگیری بیشتر"</string>
+    <string name="pullfreshlistview_footer_hint_ready">"برای بارگیری بیشتر، رها کنید"</string>
+    <string name="pullfreshlistview_header_hint_loading">"در حال تازه سازی..."</string>
+    <string name="pullfreshlistview_header_hint_normal">"به پایین بکشید"</string>
+    <string name="pullfreshlistview_header_hint_ready">"برای تازه سازی رها کنید"</string>
+    <string name="pullfreshlistview_header_last_time">"آخرین زمان تازه سازی:"</string>
+    <string name="rate_later">"بعداً"</string>
+    <string name="rate_now">"اکنون امتیاز بدهید"</string>
+    <string description="rate us" maxwidth="-1" name="rate_us">"به ما امتیاز دهید"</string>
+    <string name="rating_dialog_message_v3_1">"کار با %s را دوست دارید؟ به ما در Google Play رتبه دهید تا همواره الهام بخش ما باشید!"</string>
+    <string name="rating_dialog_message_v3_2">"برای ارائه پیشنهادات و بازخوردها، از طریق %s با ما مکاتبه کنید."</string>
+    <string name="recent_files_content_hint">"فایل های اخیر را بیابید و آنها را با اجازه خود حذف نمایید."</string>
+    <string description="shortcut title: recently used files" name="recently_used" width="-1">"اخیر"</string>
+    <string name="recommend_clean_master_msg">"بااعتماد ترین بهینه ساز اندروید، ارتقادهنده سرعت، کاهنده مصرف باتری و ویروس کش رایگان. \nاکنون دانلود می کنید؟"</string>
+    <string name="recommend_clean_master_title">"توصیه برنامه"</string>
+    <string name="recommend_scan_qr_code">"به دوستانتان بگویید که \nاین برنامه را با اسکن کردن این کد QR دانلود کنند."</string>
+    <string description="recruit beta user" maxwidth="-1" name="recruit_beta_user">"دریافت نسخه پیش نمایش"</string>
+    <string name="recycle_bin_content_hint">"شامل تمام فایل ها و پوشه های حذف شده است."</string>
+    <string description="network is unavailable, please try again" maxwidth="-1" name="remote_connected_error_hint">"شبکه در دسترس نیست، لطفاً دوباره امتحان کنید"</string>
+    <string description="remote storage label" maxwidth="-1" name="remote_storage_title">"محل ذخیره سازی از راه دور"</string>
+    <string name="remove_favorite">"حذف از علاقه مندیها"</string>
+    <string name="remove_favorite_notice_more">"آیا مطمئن هستید که می خواهید آیتم های %d را از پوشه علاقه مندیها حذف کنید؟"</string>
+    <string name="remove_favorite_notice_one">"آیا مطمئن هستید که می خواهید \"%s\" را از پوشه علاقه مندیها حذف کنید؟"</string>
+    <string name="remove_favorite_success">"با موفقیت حذف شد"</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="rename">"تغییر نام"</string>
+    <string description="Dialog Title: rename dialog title" maxwidth="" name="rename_dialog">"تغییر نام"</string>
+    <string description="Toast: rename fails" maxwidth="-1" name="rename_fail">"نام تغییر نکرد."</string>
+    <string name="rename_favorite_folder">"تغییر نام پوشه علاقه مندیها"</string>
+    <string name="rename_favorite_notice">"پوشه ای با همین نام در پوشه علاقه مندیها وجود دارد؛ آیا می خواهید نام آن را تغییر دهید؟"</string>
+    <string name="rename_favorite_success">"نام با موفقیت تغییر یافت و در علاقه مندیها ذخیره شد"</string>
+    <string description="Toast: rename success" maxwidth="-1" name="rename_success">"نام فایل تغییر کرد."</string>
+    <string description="renaming file" name="renaming_file" width="-1">"باقیمانده"</string>
+    <string name="replace">"جایگزین کردن"</string>
+    <string description="Toast: restore fails" maxwidth="-1" name="restore_fail">"بازیابی ناموفق بود"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="restore_progress">"در حال بازیابی..."</string>
+    <string description="Toast: restore success" maxwidth="-1" name="restore_success_more">"فایل های انتخاب شده بازیابی شدند"</string>
+    <string description="Toast: restore success. %s is variable string." maxwidth="-1" name="restore_success_one">"\"%s\" بازیابی شده است"</string>
+    <string name="retention_notification_large_file">"شما %1$s فایل بزرگ را اضافه کرده اید. آنها را هم اکنون مشاهده کنید."</string>
+    <string name="retention_notification_recent_file">"فایل های اخیر شما %1$s از فضا را اشغال کرده است. اکنون آنها را مشاهده کنید."</string>
+    <string name="saf_permission_tutorial_content">"لطفاً مراحل زیر را انجام دهید تا اجازه دسترسی به کارت SD را اعطا نمایید."</string>
+    <string name="saf_permission_tutorial_content_v2">"برای اعطای حقوق دسترسی به %s، لازم است مراحل خاصی را دنبال کنید."</string>
+    <string name="saf_permission_tutorial_dialog">"برای اعطای اجاه دسترسی به کارت SD، فرآیندی باید طی شود. آیا می خواهید ادامه دهید؟"</string>
+    <string name="saf_permission_tutorial_title">"درخواست دسترسی برای کار با کارت SD"</string>
+    <string name="saf_tutorial_step_one">"روی نماد منو و سپس روی «نمایش کارت SD» ضربه بزنید."</string>
+    <string name="saf_tutorial_step_three">"روی «انتخاب کارت SD» ضربه بزنید تا به برنامه مدیریت فایل ASUS اجازه لازم اعطا شود."</string>
+    <string name="saf_tutorial_step_three_v2">"برای اعطای اجازه دسترسی به برنامه مدیریت فایل ASUS، روی «انتخاب %s» ضربه بزنید."</string>
+    <string name="saf_tutorial_step_two">"لبه سمت چپ صفحه را بکشید تا کشو نمایش داده شود؛ سپس روی گزینه کارت SD ضربه بزنید."</string>
+    <string name="saf_tutorial_step_two_v2">"انگشت خود را از سمت چپ صفحه به طرف راست بگیرید تا کشو نمایش داده شود، سپس روی %s ضربه بزنید."</string>
+    <string name="saf_tutorial_title">"اجازه کار با کارت SD"</string>
+    <string name="saf_tutorial_title_v2">"اجازه کار با %s"</string>
+    <string description="account config dialog remind message" maxwidth="-1" name="samba_client_config_check">"نام کاربر و رمز عبور ذخیره شود، دفعه بعد مستقیماً وصل شود"</string>
+    <string name="samba_input_error">"نام کاربر و رمز عبور نباید خالی باشد!"</string>
+    <string name="samba_login_error">"نام کاربر یا رمز عبوری که وارد کردید اشتباه است."</string>
+    <string name="samba_storage_add_title">"محل شبکه"</string>
+    <string name="samba_storage_title">"SAMBA"</string>
+    <string name="scan_qr_code">"اسکن کردن کد QR"</string>
+    <string description="rate now" maxwidth="" name="scroll_up_toast">"لطفاً برای امتیاز دادن به سمت بالا بروید"</string>
+    <string name="search_action">"جستجو"</string>
+    <string description="search hint message" maxwidth="-1" name="search_hint">"نام فایل را وارد کنید"</string>
+    <string description="cutstom action bar view title for search" maxwidth="-1" name="search_label">"جستجوی فایل ها"</string>
+    <string description="search dialog message" maxwidth="-1" name="search_progress">"در حال جستجو..."</string>
+    <string description=" text for search result" formatted="false" maxwidth="-1" name="search_result_title">"جستجوی %s در %s:"</string>
+    <string name="select_album">"انتخاب آلبوم"</string>
+    <string description="Menu Option: select all checkbox" maxwidth="" name="select_all">"انتخاب همه"</string>
+    <string description="Title: select the folder" maxwidth="-1" name="select_folder">"انتخاب پوشه"</string>
+    <string name="select_folder_by_ok_button">"برای انتخاب این پوشه، %1$s را فشار دهید"</string>
+    <string name="select_photo">"انتخاب عکس"</string>
+    <string name="server">"سرور:"</string>
+    <string name="server_hint">"172.0.0.1/ShareFolder"</string>
+    <string name="server_title">"سرور"</string>
+    <string maxwidth="-1" name="service_not_available_in_your_country">"این آیتم در کشور شما قابل دسترس نمی باشد."</string>
+    <string name="set_password_title">"ایجاد کد پین"</string>
+    <string name="set_ring">"تنظیم به عنوان زنگ"</string>
+    <string name="setting_display_group">"نمایش"</string>
+    <string name="setting_notification_group">"اعلان"</string>
+    <string name="setting_notification_large_files">"اعلان بزرگ بودن فایل"</string>
+    <string name="setting_notification_recent_files">"اعلان فایل های اخیر"</string>
+    <string name="setting_notification_wireless_transfer">"اعلان انتقال با شبکه بی سیم"</string>
+    <string name="setting_view_group">"مشاهده تنظیمات"</string>
+    <string name="setting_view_hide_files">"پنهان کردن فایل های سیستم"</string>
+    <string description="This is the title of cache size" maxwidth="-1" name="settings_cache_size_title">"اندازه حافظه پنهان"</string>
+    <string description="Remove all cache documents" maxwidth="-1" name="settings_clear_cache_info">"حذف کل اسناد در حافظه پنهان"</string>
+    <string description="Clear the cache" maxwidth="-1" name="settings_clear_cache_title">"پاک کردن حافظه پنهان"</string>
+    <string description="This is the title of clearing search history action for setting user preferences." maxwidth="-1" name="settings_clear_search_history">"پاک کردن تاریخچه جستجو"</string>
+    <string name="settings_darkmode_message">"اعمال حالت تیره"</string>
+    <string name="settings_description">"پوشه ها و فایل ها محلی"</string>
+    <string description="This is the title of documents cache" maxwidth="-1" name="settings_documents_cache">"حافظه پنهان اسناد"</string>
+    <string description="recommend text" maxwidth="" name="settings_encourage_us_detail">"اگر از استفاده از راه انداز  لذت می برید، لطفاً در فروشگاه Play، 5  ستاره به ما بدهید. این یک دلگرمی بزرگ است و ما به بهبود محصولاتمان ادامه می دهیم."</string>
+    <string description="This is the title of hiding system files action for setting user preferences." maxwidth="-1" name="settings_hide_system_files">"پنهان کردن فایل های سیستم"</string>
+    <string description="This is the title of moving to the trash can." maxwidth="-1" name="settings_moved_to_the_trash_can">"به سطل زباله منتقل شد"</string>
+    <string description="Remove account" maxwidth="-1" name="settings_remove_account">"حذف حساب"</string>
+    <string description="Set the cache size to %s" maxwidth="-1" name="settings_set_cache_size">"اندازه حافظه پنهان روی \"%s\" تنظیم شد"</string>
+    <string description="This is the title of space used for setting user preferences." maxwidth="-1" name="settings_space_used">"فضای استفاده شده"</string>
+    <string description="This is the title of trash can information for setting user preferences." maxwidth="-1" name="settings_trash_can">"سطل زباله"</string>
+    <string description="This is the title of user name" maxwidth="-1" name="settings_user_name">"نام کاربری"</string>
+    <string name="setup">"تنظیم"</string>
+    <string name="setup_account_description">"لطفاً یک حساب ایمیل برای بازیابی کد پین خود تنظیم کنید"</string>
+    <string name="setup_account_no_internet_connection">"اتصال اینترنت برقرار نیست"</string>
+    <string name="setup_account_skip">"پرش"</string>
+    <string name="setup_account_title">"بازیابی کد پین"</string>
+    <string name="setup_fingerprint_message">"اثر انگشت برای باز کردن قفل فعال شود؟ محفظه مخفی از تأیید اثر انگشت پشتیبانی می کند. برای شروع، اثر انگشت خود را در تنظیمات اسکن کنید."</string>
+    <string name="setup_my_digital_code">"تنظیم کد پین"</string>
+    <string name="share_more">"سایر موارد"</string>
+    <string name="share_with_friend">"این برنامه را با دوستانتان به اشتراک بگذارید"</string>
+    <string description="Context Menu: options of context menu: share folder via Wi-Fi Direct" maxwidth="" name="shared_folder">"اشتراک گذاری از طریق Wi-Fi Direct"</string>
+    <string description="shortcit title" maxwidth="-1" name="short_cuts_title">"میان‌بر"</string>
+    <string name="shortcut_hint">"برای ایجاد میانبر در لانچر، روی پوشه یا دسته ای ضربه بزنید و نگه دارید."</string>
+    <string description="signout account" name="signout_account" width="-1">"قطع اتصال"</string>
+    <string name="single_drm_file_forbidden_operation">"به دلیل محافظت DRM این کار ممنوع است."</string>
+    <string description="button text for sort file by size" maxwidth="-1" name="size">"اندازه"</string>
+    <string description="button text for sort file by size ascending" maxwidth="-1" name="size_ascending">"اندازه (بزرگ-کوچک)"</string>
+    <string description="button text for sort file by size descending" maxwidth="-1" name="size_descending">"اندازه (کوچک-بزرگ)"</string>
+    <string description="shortcut title: my favorite files" name="starred" width="-1">"شروع شد"</string>
+    <string name="storage_type_cloud">"محل ذخیره سازی اینترنتی"</string>
+    <string name="storage_type_cloud_att">"محل ذخیره سازی شبکه"</string>
+    <string name="storage_type_local">"محل ذخیره سازی محلی"</string>
+    <string name="storage_type_shortcut">"میان‌بر"</string>
+    <string name="storagetype_add_account">"افزودن حساب Google"</string>
+    <string name="tap_to_exit">"برای خروج دوباره ضربه بزنید"</string>
+    <string name="target_directory_is_child_of_source">"این کار کامل نشد زیرا دایرکتوری هدف، دایرکتوری فرعی از دایرکتوری اصلی است."</string>
+    <string description="Toast: target file exists" maxwidth="-1" name="target_exist">"فایل مقصد موجود است."</string>
+    <string description="Toast: target folder exists. %s is variable string." maxwidth="-1" name="target_folder_exist">"پوشه \"%s\" از قبل موجود است."</string>
+    <string description="" maxwidth="" name="tell_friend">"به دوست خود بگویید"</string>
+    <string maxwidth="" name="terms_of_service">"اعلامیه شرایط استفاده"</string>
+    <string maxwidth="" name="terms_of_service_url">http://www.asus.com/us/Terms_of_Use_Notice_Privacy_Policy/Official-Site/</string>
+    <string description="title" maxwidth="-1" name="title">"اطلاعات حقوقی:"</string>
+    <string name="toast_auto_lock_notify_message">"وقتی دستگاه قفل است محفظه مخفی را قفل کنید"</string>
+    <string description="Toast: The item(s) has been copied completely" maxwidth="-1" name="toast_drag_copied_items">"این مورد(موارد) به طور کامل کپی شدند"</string>
+    <string description="Toast: The item(s) has been moved completely" maxwidth="-1" name="toast_drag_moved_items">"مورد(موارد) به طور کامل منتقل شدند"</string>
+    <string description="Toast: Sorry, copy files complete but cut fail" maxwidth="-1" name="toast_warning_copy_comple_cut_fail">"متأسفیم، فایل ها کپی شدند اما فایل های قدیمی حذف نشدند"</string>
+    <string description="Toast: Sorry, copy folders has not been supported" maxwidth="-1" name="toast_warning_copy_folders">"متأسفیم، عملکرد کپی از پوشه ها پشتیبانی نمی شود"</string>
+    <string maxwidth="35" name="toolbar_item_title_encourage_us">"ما را تشویق کنید"</string>
+    <string name="tools_clean_master">"پاک کردن فایل های هرز"</string>
+    <string name="tools_file_transfer">"انتقال فایل به رایانه"</string>
+    <string name="tools_hidden_zone">"محفظه مخفی"</string>
+    <string name="tools_recycle_bin">"سطل زباله"</string>
+    <string name="tools_storage_analyzer">"تحلیلگر فضای حافظه"</string>
+    <string name="tools_tip_animation">"برای مشاهده ابزارها، به بالا بکشید!"</string>
+    <string name="tools_zenui_instant_update">"به روزرسانی فوری"</string>
+    <string description="shortcut title: trash can" name="trash_can" width="-1">"سطل زباله"</string>
+    <string maxwidth="-1" name="trash_info_deleted">"تاریخ حذف: "</string>
+    <string maxwidth="-1" name="trash_info_path">"مسیر اصلی: "</string>
+    <string description="label for trending searches" maxwidth="-1" name="trending_searches">"جستجوهای داغ"</string>
+    <string name="tutorial_analyzer_content">"برنامه آنالیز کارت حافظه به شما اطلاع می دهد که چه فایل هایی فضای دیسک شما را اشغال کرده اند."</string>
+    <string name="tutorial_category_content">"جستجوی فایل ها با نمای مقوله مدیریت فایل ASUS هیچ وقت به این آسانی نبوده است."</string>
+    <string name="tutorial_category_title">"نمای مقوله"</string>
+    <string name="tutorial_cloud_content">"از تلفن هوشمند، رایانه و حافظه های ابری به فایل ها دسترسی پیدا کنید."</string>
+    <string name="tutorial_cloud_title">"حافظه ابری"</string>
+    <string name="tutorial_done">"انجام شد"</string>
+    <string name="tutorial_page_content_long_press">"ابتدا برای انتخاب یک آیتم ضربه بزنید و نگه دارید، و سپس روی نماد \"منو\" بزنید تا سایر گزینه های عملیاتی نمایش داده شود."</string>
+    <string name="tutorial_page_four_content">"پوشه پراستفاده ای را به عنوان علاقه مندیها تعیین کنید تا دسترسی سریع و آسانی به پوشه ها داشته باشید."</string>
+    <string name="tutorial_page_four_title">"علاقه مندیها"</string>
+    <string name="tutorial_page_one_content">"مدیریت فایل ASUS امکان مدیریت آسان فایل های روی حافظه های داخلی، خارجی، شبکه محلی یا شبکه های ابری را برایتان فراهم می کند."</string>
+    <string name="tutorial_page_one_title">"مدیریت فایل ASUS"</string>
+    <string name="tutorial_page_three_content">"برای نمایش عمل هایی مثل «افزودن به علاقه مندیها»، «تغییر نام»، «انتقال به»، «کپی کردن در»، و سایر گزینه های مدیریت فایل، آیتمی را به طرفین بکشید."</string>
+    <string name="tutorial_page_three_title">"عمل کشیدن انگشت روی صفحه"</string>
+    <string name="tutorial_page_title_long_press">"نمایش منوی عملیات"</string>
+    <string name="tutorial_page_two_content">"دسته هایی با کاربری آسان که امکان دسترسی سریع به فایل های حافظه محلی تان را به شما می دهد."</string>
+    <string name="tutorial_page_two_title">"صفحه اصلی"</string>
+    <string name="tutorial_skip">"پرش"</string>
+    <string description="button text for sort file by type" maxwidth="-1" name="type">"نوع"</string>
+    <string description="document type" maxwidth="-1" name="type_abu">"پشتیبان برنامه Asus"</string>
+    <string description="document type" maxwidth="-1" name="type_apk">"برنامه Android"</string>
+    <string description="document type" maxwidth="-1" name="type_audio">"صدا"</string>
+    <string description="document type" maxwidth="-1" name="type_book">"کتاب الکترونیکی"</string>
+    <string name="type_dialog_audio">"صدا"</string>
+    <string name="type_dialog_image">"تصویر"</string>
+    <string name="type_dialog_text">"متن"</string>
+    <string name="type_dialog_title">"باز کردن به عنوان"</string>
+    <string name="type_dialog_video">"ویدئو"</string>
+    <string description="document type" maxwidth="-1" name="type_directory">"دایرکتوری"</string>
+    <string description="document type" maxwidth="-1" name="type_document">"سند"</string>
+    <string description="document type" maxwidth="-1" name="type_file">"فایل"</string>
+    <string description="document type" maxwidth="-1" name="type_image">"تصویر"</string>
+    <string description="document type" maxwidth="-1" name="type_playlist">"لیست پخش"</string>
+    <string description="document type" maxwidth="-1" name="type_rar">"RAR"</string>
+    <string description="document type" maxwidth="-1" name="type_video">"ویدئو"</string>
+    <string description="document type" maxwidth="-1" name="type_zip">"زیپ"</string>
+    <string name="ud_sdk_all_app_update">"تمام برنامه ها در نسخه فعلی اجرا می شوند."</string>
+    <string name="ud_sdk_asus_app_slogan">"برنامه مفید"</string>
+    <string name="ud_sdk_downloads">"دانلودها"</string>
+    <string name="ud_sdk_free_download">"دانلود رایگان"</string>
+    <string name="ud_sdk_important_remind_text">"مهم"</string>
+    <string name="ud_sdk_install">"نصب"</string>
+    <string name="ud_sdk_more_zen_family">"جستجوی برنامه های ZenUI بیشتر"</string>
+    <string name="ud_sdk_no_network_connection_content">"به روزرسانی داده ممکن نیست. لطفاً تنظیمات شبکه خود را بررسی کنید." </string>
+    <string name="ud_sdk_no_network_connection_title">"اتصال شبکه برقرار نیست"</string>
+    <string name="ud_sdk_open">"باز کردن"</string>
+    <string name="ud_sdk_update">"به روزرسانی"</string>
+    <string maxwidth="-1" name="ud_sdk_update_sdk">"خانواده ZenUI"</string>
+    <string maxwidth="-1" name="ud_sdk_update_sdk_asus">"به روزرسانی هاﯼ فوری ZenUI"</string>
+    <string name="ud_sdk_wifi_settings">"تنظیمات Wi-Fi"</string>
+    <string name="uf_sdk_already_give_5star">"از قبل رتبه 5 ستاره داده شده است"</string>
+    <string description="%d is a number, don&apos;t translate" name="uf_sdk_article_read_count">"%d مشاهده"</string>
+    <string name="uf_sdk_attachment_format_warning">"فرمت فایل نادرست است. فقط فایل تصویری پیوست می شود"</string>
+    <string name="uf_sdk_attachment_total_size">"مجموع"</string>
+    <string name="uf_sdk_attachment_warning">"حجم پیوست بیش از محدودیت مجاز است"</string>
+    <string maxwidth="-1" name="uf_sdk_cancel_btn_content">"لغو"</string>
+    <string name="uf_sdk_choosertitle_sharevia">"اشتراک گذاری از طریق"</string>
+    <string name="uf_sdk_connection_error_msg">"اتصال از طرف سرور قطع شد. بعداً دوباره تلاش کنید."</string>
+    <string name="uf_sdk_connection_error_title">"خطای اتصال"</string>
+    <string name="uf_sdk_discard">"کنار گذاشتن"</string>
+    <string name="uf_sdk_email_illigal">"آدرس ایمیل در حال حاضر وجود دارد"</string>
+    <string maxwidth="-1" name="uf_sdk_empty_notification">"خالی :)"</string>
+    <string name="uf_sdk_faq">"سوالات متداول"</string>
+    <string name="uf_sdk_feedback_and_help">"بازخورد &amp; راهنمایی"</string>
+    <string name="uf_sdk_forum_description">"به بحث و گفتگو با کاربران ASUS بپیوندید تا راه حل های خود را بیابید و به اشتراک بگذارید"</string>
+    <string maxwidth="-1" name="uf_sdk_grant_permission_title">"اعطای مجوز برای"</string>
+    <string name="uf_sdk_help">"راهنمایی"</string>
+    <string name="uf_sdk_instant_answer_question">"این سوالات متداول مفیدند؟"</string>
+    <string name="uf_sdk_like">"پسندیدن"</string>
+    <string maxwidth="-1" name="uf_sdk_message">"اعلان ها"</string>
+    <string name="uf_sdk_msg_bad_email_format">"آدرس ایمیل معتبر نیست، لطفاً دوباره سعی کنید."</string>
+    <string name="uf_sdk_msg_confirm_discard_topic">"پیش نویس شما ذخیره نشد. می خواهید آن را حذف کنید؟"</string>
+    <string name="uf_sdk_msg_confirm_discard_topic_title">"پست حذف شود؟"</string>
+    <string name="uf_sdk_msg_subscribe">"اشتراک اعلان وضعیت موضوع از طریق ایمیل به شما تحویل داده می شود."</string>
+    <string name="uf_sdk_msg_subscribe_success">"با موفقیت به اشتراک گذاشته شد"</string>
+    <string name="uf_sdk_msg_ticket_created">"بازخورد شما با موفقیت به ASUS ارسال شد"</string>
+    <string name="uf_sdk_msg_topic_created">"با موفقیت منتشر شد"</string>
+    <string name="uf_sdk_msg_unsubscribe">"لغو اشتراک با موفقیت انجام شد"</string>
+    <string name="uf_sdk_name_hint">"نام خود را وارد کنید"</string>
+    <string name="uf_sdk_name_illigal">"نام کاربری از قبل وارد شده است"</string>
+    <string name="uf_sdk_network_error">"اتصال اینترنت برقرار نیست. لطفاً تنظیمات شبکه را بررسی کنید."</string>
+    <string description="zenui news" maxwidth="" name="uf_sdk_news">"اخبار"</string>
+    <string name="uf_sdk_no_network_connection_content">"اتصال از طرف سرور قطع شد. بعداً دوباره تلاش کنید."</string>
+    <string name="uf_sdk_no_network_connection_title">"خطای اتصال"</string>
+    <string name="uf_sdk_nothing_found">"چیزی یافت نشد"</string>
+    <string name="uf_sdk_notice">"اعلامیه"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category1">"اعلامیه ها"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category2">"بخش های آموزشی و راهنما"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category3">"تبلیغات"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category4">"رویدادها"</string>
+    <string name="uf_sdk_publish_an_topic">"انتشار موضوع جدید"</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_rate_now">"اکنون امتیاز بدهید"</string>
+    <string description="%s is AP name, don&apos;t translate" maxWidth="" name="uf_sdk_rate_us_detail">"اگر از کار با %s لذت می برید، در فروشگاه Play ، 5 ستاره به ما بدهید."</string>
+    <string maxWidth="" name="uf_sdk_rate_us_detail_new">"پشتیبانی شما با رتبه 5 ستاره به ما انگیزه می دهد تا به کار خود ادامه دهیم!"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_rating">"امتیاز 5 ستاره"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title">"به ما امتیاز دهید"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title_new">"ما را تشویق کنید!"</string>
+    <string description="Menu item for userFeedback sdk" maxwidth="-1" name="uf_sdk_report_bug">"گزارش اشکال نرم افزاری"</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_scroll_up_toast">"لطفاً برای امتیاز دادن به سمت بالا بروید"</string>
+    <string name="uf_sdk_search_hint">"راهنمای جستجو"</string>
+    <string name="uf_sdk_select_common_bug">"انتخاب اشکال رایج"</string>
+    <string name="uf_sdk_send_feedback">"ارسال بازخورد"</string>
+    <string name="uf_sdk_send_feedback_help">"بازخورد و آدرس ایمیل شما برای ASUS ارسال می شود. تیم خدمات از طریق ایمیل با شما در تماس است."</string>
+    <string maxwidth="-1" name="uf_sdk_setting_btn_content">"تنظیمات"</string>
+    <string description="recommend title" maxwidth="" name="uf_sdk_settings_encourage_us_title">"ما را تشویق کنید"</string>
+    <string maxwidth="-1" name="uf_sdk_storage_permission_description">"This functionality needs to obtain the storage permission to access the multimedia files. \n\nIf you want to enable this functionality, please tap the Settings button to go to Settings page, then set 『Permissions』 to grant the permission.\n""این عملکرد برای دسترسی به فایل های چندرسانه ای، مجوز حافظه را درخواست می کند. \n\nاگر می خواهید این عملکرد را فعال کنید، روی دکمه تنظیمات ضربه بزنید تا به صفحه تنظیمات  بروید، سپس جهت اعطای مجوز، \"اطلاعات برنامه\" > \"مجوزها\" را تعیین کنید.\n"</string>
+    <string name="uf_sdk_submit_topic">"انتشار"</string>
+    <string name="uf_sdk_subscribe_dialog_title">"اشتراک گذاری در این موضوع"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_answered">"پاسخ داده شده"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_completed">"کامل شده"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_declined">"رد شده"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_implemented">"اجرا شده"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_planned">"برنامه ریزی شده"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_under_review">"تحت بررسی"</string>
+    <string name="uf_sdk_thanks_for_your_feedback">"از بازخورد شما متشکریم!"</string>
+    <string description="%s is a application name, don&apos;t translate" name="uf_sdk_ticket_hint">"وارد کردن بازخوردها برای %s"</string>
+    <string name="uf_sdk_title_topic">"موضوع"</string>
+    <string name="uf_sdk_topic">"موضوع"</string>
+    <string name="uf_sdk_topic_description_heading">"شرح"</string>
+    <string name="uf_sdk_topic_description_hint">"موضوع خود را کامل توضیح دهید"</string>
+    <string name="uf_sdk_topic_filter">"موضوع"</string>
+    <string name="uf_sdk_topic_form_help">"وقتی موضوعی را در فروم کاربر منتشر می کنید، کاربران دیگر می توانند آن را به اشتراک گذاشته و در مورد آن نظر دهند. علاوه بر این، وقتی تیم توسعه ASUS به موضوع پاسخ می دهد، از طریق ایمیل به شما اطلاع داده می شود."</string>
+    <string name="uf_sdk_topic_form_title">"انتشار موضوع جدید"</string>
+    <string name="uf_sdk_topic_text_heading">"فروم"</string>
+    <string name="uf_sdk_topic_text_hint">"عنوان موضوع خود را تایپ کنید"</string>
+    <string name="uf_sdk_topic_title">"عنوان"</string>
+    <string name="uf_sdk_translation_10117605">"مشکل ترجمه"</string>
+    <string name="uf_sdk_translation_117562">"نوع بازخورد"</string>
+    <string name="uf_sdk_translation_2529543">"گزارش اشکال"</string>
+    <string name="uf_sdk_translation_2529544">"سایر موارد"</string>
+    <string name="uf_sdk_translation_2530478">"پیشنهاد"</string>
+    <string name="uf_sdk_unhelpful_article_message_question">"تمایل دارید بازخورد را به تیم توسعه ASUS ارسال کنید؟"</string>
+    <string name="uf_sdk_user_forum">"فروم کاربر"</string>
+    <string name="uf_sdk_warning">"هشدار"</string>
+    <string name="uf_sdk_wifi_settings">"تنظیمات Wi-Fi"</string>
+    <string name="uf_sdk_wlan_settings">"تنظیمات WLAN"</string>
+    <string name="uf_sdk_write_your_feedback">"بازخوردها را در این قسمت وارد کنید"</string>
+    <string name="uf_sdk_your_draft_will_be_discarded">"از پیش نویس شما صرف نظر می شود."</string>
+    <string description="description for empty search result" maxwidth="-1" name="unable_to_find_artlcles">"یافتن عناوین مرتبط با \u0022%s\u0022 ممکن نیست"</string>
+    <string description="string indicating the length units in milli-meters" maxwidth="-1" name="unit_mm">"میلی متر"</string>
+    <string description="Context Menu: options of context menu: unshare folder" maxwidth="-1" name="unshared_folder">"لغو اشتراک گذاری"</string>
+    <string description="toast message: extract files fail" maxwidth="-1" name="unzip_fail">"فایل ها باز نشدند"</string>
+    <string description="extract file dialog message" maxwidth="-1" name="unzip_progress_msg">"در باز کردن..."</string>
+    <string description="toast message: extract files successly" maxwidth="-1" name="unzip_success">"فایل ها باز شدند"</string>
+    <string name="upgrade_notification_content">"در صفحه اصلی جدید ما، فایل ها را بر اساس نوع مشاهده کنید."</string>
+    <string name="upgrade_notification_title">"برنامه جدید مدیریت فایل را هم اکنون امتحان کنید!"</string>
+    <string name="user">"نام کاربری"</string>
+    <string name="user_hint">"سرپرست"</string>
+    <string name="uv_admin_response_format">"پاسخ سرپرست: %1$s"</string>
+    <string name="uv_all_articles">"همه مقاله ها"</string>
+    <string name="uv_all_results_filter">"همه موارد"</string>
+    <string name="uv_android_sdk">Android SDK</string>
+    <string name="uv_article_browse_question">"این مقاله مفید بود؟"</string>
+    <string name="uv_article_instant_answer_question">"این سوالات متداول مفیدند؟"</string>
+    <string name="uv_cancel">"لغو"</string>
+    <string name="uv_category">"دسته"</string>
+    <string name="uv_close">"بستن"</string>
+    <string name="uv_comment_hint">"نظر خود را وارد کنید"</string>
+    <string name="uv_confirm">"تأیید"</string>
+    <string name="uv_contact_continue_button">"هنوز می خواهم پیام را ارسال کنم"</string>
+    <string name="uv_contact_hint">"سوال یا بازخورد خود را وارد کنید"</string>
+    <string name="uv_contact_us">"با ما تماس بگیرید"</string>
+    <string name="uv_display_name">"نمایش نام"</string>
+    <string name="uv_email_address">"آدرس ایمیل"</string>
+    <string name="uv_email_address_hint">"your@email.com (الزامی)"</string>
+    <string name="uv_error">"خطا"</string>
+    <string name="uv_failed_signin_error">"ایمیل یا رمز عبور نادرست است"</string>
+    <string name="uv_forgot_password">"رمز عبور فراموش شد"</string>
+    <string name="uv_helpful_article_message_question">"آیا هنوز می خواهید پیام را ارسال کنید؟"</string>
+    <string name="uv_i_want_this">"این را می خواهم!"</string>
+    <string name="uv_idea_description_heading">"ایده خود را به طور کامل توضیح دهید"</string>
+    <string name="uv_idea_description_hint">"(اختیاری)"</string>
+    <string name="uv_idea_text_heading">"پیشنهاد می دهم..."</string>
+    <string name="uv_loading">"در حال بارگیری..."</string>
+    <string name="uv_matching_articles">"مقاله های مشابه"</string>
+    <string name="uv_matching_articles_and_ideas">"مقاله ها و ایده های مشابه"</string>
+    <string name="uv_menu_attach">"پیوست"</string>
+    <string name="uv_menu_search">"جستجو"</string>
+    <string name="uv_msg_bad_email_format">"لطفاً یک آدرس ایمیل معتبر وارد کنید."</string>
+    <string name="uv_msg_comment_posted">"نظر شما پست شد"</string>
+    <string name="uv_msg_confirm_discard_message">"مطمئن هستید که می خواهید از پیام خود صرف نظر کنید؟"</string>
+    <string name="uv_msg_custom_fields_validation">"لطفاً تمام قسمت های لازم را پر کنید."</string>
+    <string name="uv_msg_forgot_password">"ایمیل رمز عبور فراموش شد ارسال شد"</string>
+    <string name="uv_msg_idea_created">"ایده شما ایجاد شده است"</string>
+    <string name="uv_msg_ticket_created">"پیام شما ارسال شد"</string>
+    <string name="uv_msg_user_identity_validation">"لطفاً آدرس ایمیل خود را وارد کنید"</string>
+    <string name="uv_name_hint">"ناشناس"</string>
+    <string name="uv_network_error">"خطایی برای اتصال به UserVoice وجود دارد"</string>
+    <string name="uv_nevermind">"مهم نیست"</string>
+    <string name="uv_new_comment">"نظر جدید"</string>
+    <string name="uv_next">"بعدی"</string>
+    <string name="uv_no">"خیر"</string>
+    <string name="uv_none_of_these_help">"هیچکدام از این راهنمایی ها"</string>
+    <string name="uv_password">"رمز عبور"</string>
+    <string name="uv_password_dialog_title">"لطفاً رمز عبور خود را وارد کنید"</string>
+    <string name="uv_portal_title">"راهنمایی"</string>
+    <string name="uv_post_a_comment">"پست کردن نظر"</string>
+    <string name="uv_post_comment">"پست کردن نظر"</string>
+    <string name="uv_posted_by_format">"از طریق %1$s در %2$s پست شد"</string>
+    <string name="uv_powered_by_uservoice">"کاری از UserVoice"</string>
+    <string name="uv_ranked">"%1$s رتبه بندی شد"</string>
+    <string name="uv_remove_votes">"حذف رای ها"</string>
+    <string name="uv_select_none">"(هیچکدام)"</string>
+    <string name="uv_select_one">"یکی را انتخاب کنید"</string>
+    <string name="uv_send_message">"ارسال پیام"</string>
+    <string name="uv_signin_dialog_ok">"ورود به سیستم"</string>
+    <string name="uv_signin_dialog_title">"ورود به سیستم"</string>
+    <string name="uv_status_format">"وضعیت: %1$s"</string>
+    <string name="uv_submit_idea">"ارائه ایده"</string>
+    <string name="uv_subscribe">"اشتراک"</string>
+    <string name="uv_subscribe_dialog_title">"اشتراک در این ایده"</string>
+    <string name="uv_suggestion_instant_answer_question">"آیا این ایده مفید است؟"</string>
+    <string name="uv_thanks">"متشکرم!"</string>
+    <string name="uv_unhelpful_article_message_question">"دوست دارید پیامی برای ما ارسال کنید؟"</string>
+    <string name="uv_value">"مقدار"</string>
+    <string name="uv_very_yes">"بله!"</string>
+    <string name="uv_yes">"بله"</string>
+    <string name="uv_your_email_address">"آدرس ایمیل شما"</string>
+    <string name="uv_your_name">"نام شما"</string>
+    <string description="version" maxwidth="-1" name="version">"نسخه"</string>
+    <string name="version_text">"نسخه"</string>
+    <string name="wait">"لطفاً صبر کنید\u2026"</string>
+    <string name="warning_stophttpserver">"اتصال بین دستگاه همراه و رایانه شما قطع خواهد شد. آیا می خواهید خارج شوید؟"</string>
+    <string name="whats_new_label">"تازه ها"</string>
+    <string description="message for request to connect Network" name="wifi_p2p_connection_msg" width="-1">"برای استفاده از سرویس های اینترنتی لطفاً یک اتصال شبکه ایجاد کنید."</string>
+    <string description="title for request to connect Network" name="wifi_p2p_connection_title" width="-1">"یک اتصال شبکه ایجاد کنید"</string>
+    <string description="message for request to turn on Wi-Fi" name="wifi_p2p_turn_on_wifi_msg" width="-1">"برای استفاده از سرویس های Wi-Fi Direct، Wi-Fi را فعال کنید. اکنون Wi-Fi را فعال می کنید؟"</string>
+    <string description="title for turn on WiFi dialog" name="wifi_p2p_turn_on_wifi_title" width="-1">"روشن کردن Wi-Fi"</string>
+    <string description="search" maxwidth="-1" name="wifidirect_action_bar_scan">"جستجو"</string>
+    <string description="Available devices" maxwidth="-1" name="wifidirect_available_devices">"دستگاه های قابل دسترسی"</string>
+    <string description="Do you want to connect to device" maxwidth="-1" name="wifidirect_connect_hint">"می خواهید متصل شوید با"</string>
+    <string description="Dialog title text: Invitation to connect" maxwidth="-1" name="wifidirect_connect_hint_title">"دعوت برای اتصال"</string>
+    <string description="Dialog title text: Wi-Fi Direct connecting" maxwidth="-1" name="wifidirect_connecting_hint_title">"در حال اتصال Wi-Fi Direct..."</string>
+    <string description="connectted" maxwidth="-1" name="wifidirect_connectted">"متصل"</string>
+    <string description=">Do you want to disconnect" maxwidth="-1" name="wifidirect_disconnect_hint">"می خواهید اتصالتان را قطع کنید از"</string>
+    <string description="Disconnect Wi-Fi Direct" maxwidth="-1" name="wifidirect_disconnect_hint_title">"قطع اتصال Wi-Fi Direct"</string>
+    <string description="peer devices infomation" maxwidth="-1" name="wifidirect_peer_device_info">"برای دریافت دعوت Wi-Fi Direct، بررسی کنید دستگاهتان در صفحه \"دستگاه های مشابه\" در مدیر فایل باشد."</string>
+    <string description="peer devices title" maxwidth="-1" name="wifidirect_peer_device_title">"دستگاه های همتا"</string>
+    <string description="searching" maxwidth="-1" name="wifidirect_scanning">"در حال جستجو..."</string>
+    <string description="Search Wi-Fi Direct device" maxwidth="-1" name="wifidirect_storage_title">"جستجوی دستگاه Wi-Fi Direct"</string>
+    <string description="click to connect" maxwidth="-1" name="wifidirect_touch_to_connect">"برای اتصال، کلیک کنید"</string>
+    <string name="yes">"بله"</string>
+    <string name="zenui_update">"به روز رسانی سریع واسط کاربری ZenUI"</string>
+    <string description="toast message: Compress files fail" maxwidth="-1" name="zip_fail">"فایل ها فشرده نشدند"</string>
+    <string description="compress dialog message" maxwidth="-1" name="zip_progress_msg">"در حال پردازش..."</string>
+    <string description="toast message: Compress files successly" maxwidth="-1" name="zip_success">"فایل ها با موفقیت فشرده شدند"</string>
+</resources>

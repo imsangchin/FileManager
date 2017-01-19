@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="?normal_background_color" >
+
+    <RelativeLayout
+        android:id="@+id/bottom_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="@dimen/tutorial_margin_left"
+        android:layout_marginRight="@dimen/tutorial_margin_left"
+        android:descendantFocusability="blocksDescendants"
+        android:gravity="center_vertical">
+
+        <!--
+            <Button android:id="@+id/skip"
+            android:text="@string/tutorial_skip"
+            android:layout_width="@dimen/tutorial_skip_width"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_centerVertical="true"
+            />
+        -->
+
+        <View
+            android:id="@+id/separator"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#E6E6E6" />
+
+        <RelativeLayout
+            android:id="@+id/skip_container"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/separator"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true">
+
+            <Button
+                android:id="@+id/previous"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:drawablePadding="10dp"
+                android:layout_marginLeft="3dp"
+                android:layout_marginStart="3dp"
+                android:background="@null"
+                android:fontFamily="sans-serif"
+                android:gravity="start|center_vertical"
+                android:text="@string/tutorial_skip"
+                android:textSize="@dimen/tutorial_page_content_font_size"
+                android:textColor="?text_color" />
+
+            <LinearLayout
+                android:id="@+id/progress_point"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:gravity="center">
+
+                <ImageView
+                    android:id="@+id/progress_image1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/asus_tutorial_indicator_off"
+                    android:contentDescription="@null"/>
+
+                <ImageView
+                    android:id="@+id/progress_image2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/tutorial_progress_point_marginleft"
+                    android:layout_marginStart="@dimen/tutorial_progress_point_marginleft"
+                    android:src="@drawable/asus_tutorial_indicator_off"
+                    android:contentDescription="@null"/>
+
+                <ImageView
+                    android:id="@+id/progress_image3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/tutorial_progress_point_marginleft"
+                    android:layout_marginStart="@dimen/tutorial_progress_point_marginleft"
+                    android:src="@drawable/asus_tutorial_indicator_off"
+                    android:contentDescription="@null"/>
+
+                <ImageView
+                    android:id="@+id/progress_image4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/tutorial_progress_point_marginleft"
+                    android:layout_marginStart="@dimen/tutorial_progress_point_marginleft"
+                    android:src="@drawable/asus_tutorial_indicator_off"
+                    android:contentDescription="@null"/>
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/next"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_toRightOf="@id/progress_point"
+                android:layout_toEndOf="@id/progress_point"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true"
+                android:drawablePadding="10dp"
+                android:layout_marginRight="3dp"
+                android:layout_marginEnd="3dp"
+                android:background="@null"
+                android:fontFamily="sans-serif"
+                android:gravity="end|center_vertical"
+                android:maxLines="1"
+                android:ellipsize="end"
+                android:text="@string/next"
+                android:textSize="@dimen/tutorial_page_content_font_size"
+                android:textColor="?text_color" />
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+    <CheckBox
+        android:id="@+id/tutorial_activity_dont_show_checkbox"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/bottom_container"
+        android:layout_marginEnd="@dimen/tutorial_page_content_top"
+        android:layout_marginLeft="@dimen/tutorial_margin_left"
+        android:layout_marginRight="@dimen/tutorial_margin_left"
+        android:layout_marginTop="@dimen/tutorial_page_checkbox_margin"
+        android:layout_marginBottom="@dimen/tutorial_page_checkbox_margin"
+        android:checked="true"
+        android:text="@string/do_not_show_again"
+        android:visibility="gone"
+        style="?checkbox" />
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/tutorial_viewpager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/tutorial_activity_dont_show_checkbox"/>
+
+</RelativeLayout>

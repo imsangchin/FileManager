@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="file_manager" description="Application Name shown on title" maxwidth="">Filbehandling</string>
+    <string name="ok" description="Dialog Button: ok for dialog" maxwidth="">OK</string>
+    <string name="no" description="Dialog Button: no for dialog" maxwidth="">Nr.</string>
+    <string name="cancel" description="Dialog Button: cancel for dialog" maxwidth="">Avbryt</string>
+    <string name="select_all" description="Menu Option: select all checkbox" maxwidth="">Merk alt</string>
+    <string name="clear_all" description="Menu Option: clear all checkbox" maxwidth="">Tøm alle</string>
+    <string name="open_fail" description="Toast: open file fails" maxwidth="-1">Filåpning mislyktes.</string>
+    <string name="permission_deny" description="Toast: operation permission deny" maxwidth="-1">Ingen tillatelse.</string>
+    <string name="target_exist" description="Toast: target file exists" maxwidth="-1">Målfil eksisterer.</string>
+    <string name="target_folder_exist" description="Toast: target folder exists. %s is variable string." maxwidth="-1">Mappen: \"%s\" finnes allerede.</string>
+    <string name="rename" description="Context Menu: options of context menu" maxwidth="">Gi nytt navn</string>
+    <string name="rename_dialog" description="Dialog Title: rename dialog title" maxwidth="">Gi nytt navn</string>
+    <string name="rename_fail" description="Toast: rename fails" maxwidth="-1">Endring av navn på fil mislyktes.</string>
+    <string name="delete" description="Context Menu: options of context menu" maxwidth="">Slett</string>
+    <string name="delete_dialog" description="Dialog Title: delete dialog title" maxwidth="">Filsletting</string>
+    <string name="delete_one_files" description="Dialog Content: text in dialog" maxwidth="">Vil du slette filen?</string>
+    <string name="delete_more_files" description="Dialog Content: text in dialog. %d is variable number." maxwidth="">Vil du slette %d-elementene?</string>
+    <string name="delete_size" description="Dialog Content: text in dialog" maxwidth="">"Størrelse: "</string>
+    <string name="delete_progress" description="Progress Content: text in progress dialog" maxwidth="">Sletter ...</string>
+    <string name="delete_fail" description="Toast: delete fails" maxwidth="-1">Sletting av fil mislyktes.</string>
+    <string name="delete_success_one" description="Toast: delete success. %s is variable string." maxwidth="-1">\"%s\" er blitt slettet.</string>
+    <string name="delete_success_more" description="Toast: delete success" maxwidth="-1">De valgte filene er blitt slettet.</string>
+    <string name="new_folder_dialog" description="Dialog Title: create new folder" maxwidth="">Lag ny mappe</string>
+    <string name="new_folder_fail" description="Toast: new folder fails" maxwidth="-1">Oppretting av ny mappe mislykkes.</string>
+    <string name="new_folder_success" description="Toast: new folder success. %s is variable string." maxwidth="-1">Mappen \"%s\" er opprettet.</string>
+    <string name="copy" description="Context Menu: options of context menu" maxwidth="">Kopier</string>
+    <string name="copy_ready_one" description="Toast: copy ready. %s is variable string." maxwidth="-1">\"%s\" er blitt kopiert og kan limes inn.</string>
+    <string name="copy_ready_more" description="Toast: copy ready" maxwidth="-1">De valgte filene er blitt kopiert og er klare for innliming.</string>
+    <string name="cut" description="Context Menu: options of context menu" maxwidth="">Klipp ut</string>
+    <string name="cut_ready_one" description="Toast: cut ready. %s is variable string." maxwidth="-1">\"%s\" er blitt klippet ut og kan limes inn.</string>
+    <string name="cut_ready_more" description="Toast: cut ready" maxwidth="-1">De valgte filene er blitt klippet ut og er klare for innliming.</string>
+    <string name="paste" description="Context Menu: options of context menu" maxwidth="">Lim inn</string>
+    <string name="paste_exist_dialog" description="Dialog Title: paste exist dialog title" maxwidth="">Samme filnavn</string>
+    <string name="paste_exist_file" description="Dialog Content: text in dialog. %s is variable string." maxwidth="">Filen \"%s\" finnes allerede.</string>
+    <string name="paste_exist_replace" description="Dialog Content: text in dialog" maxwidth="">Vil du erstatte med den nye?</string>
+    <string name="paste_exist_to" description="Dialog Content: text in dialog" maxwidth="">For å</string>
+    <string name="paste_exist_apply" description="Dialog Content: text in dialog" maxwidth="">Bruk på alle</string>
+    <string name="paste_progress" description="Progress Content: text in progress dialog" maxwidth="">Limer inn ...</string>
+    <string name="paste_fail" description="Toast: paste fails" maxwidth="-1">Innliming av filer mislyktes.</string>
+    <string name="paste_success" description="Toast: paste success. %s is variable string." maxwidth="-1">Filene har blitt lagt inn til \"%s\".</string>
+    <!-- Guoliang_Lin, 2011/04/01, UI required, new feature -->
+    <string name="no_space_fail" description="Toast: No space to copy file and left on device" maxwidth="-1">Utilstrekkelig lagerplass</string>
+    <!-- Guoliang Lin, 2011/04/27, UI required, new feature -->
+    <string name="action_add_folder" description="cutstom action bar view title for add folder" maxwidth="-1">Legg til mappe</string>
+    <string name="action_hind_system_file" description="cutstom action bar view title for hinde system file" maxwidth="-1">Skjul systemfiler</string>
+    <string name="deselect_all" description="cutstom action bar view title for deselect all checkbox" maxwidth="">Opphev alle valg</string>
+    <!-- Guoliang Lin, 2011/05/11, UI required, new feature -->
+    <string name="file_info_dialog_title" description="Dialog Title: File information dialog title" maxwidth="-1">Filinformasjon</string>
+    <string name="dir_info_dialog_title" description="Dialog Title: Directory information dialog title" maxwidth="-1">Kataloginformasjon</string>
+    <string name="info" description="Context Menu: options of context menu" maxwidth="-1">Informasjon</string>
+    <string name="info_name" description="file info textview context" maxwidth="-1">"Navn: "</string>
+    <string name="info_file_num" description="file info textview context" maxwidth="-1">"Antall filer: "</string>
+    <string name="info_permission" description="file info textview context" maxwidth="-1">"Tillatelse: "</string>
+    <string name="info_modified" description="file info textview context" maxwidth="-1">"Endringsdato: "</string>
+    <!-- Guoliang Lin, 2011/05/27, UI required, new feature -->
+    <string name="action_about" description="cutstom action bar view title for about" maxwidth="-1">Om</string>
+    <!-- Johnson Chen, 2011/08/05, UI required, new feature -->
+    <string name="select_folder" description="Title: select the folder" maxwidth="-1">Velg mappen</string>
+    <string name="invalid_directory_path" description="Invalid directory path" maxwidth="-1">Ugyldig bane</string>
+    <string name="short_cuts_title" description="shortcit title" maxwidth="-1">Snarvei</string>
+    <string name="type" description="button text for sort file by type" maxwidth="-1">Type</string>
+    <string name="name" description="button text for sort file by name" maxwidth="-1">Navn</string>
+    <string name="size" description="button text for sort file by size" maxwidth="-1">Størrelse</string>
+    <string name="date" description="button text for sort file by date" maxwidth="-1">Dato</string>
+    <string name="name_ascending" description="button text for sort file by name ascending" maxwidth="-1">Navn (å–a)</string>
+    <string name="name_descending" description="button text for sort file by name descending" maxwidth="-1">Navn (a–å)</string>
+    <string name="size_ascending" description="button text for sort file by size ascending" maxwidth="-1">Størrelse (stor–liten)</string>
+    <string name="size_descending" description="button text for sort file by size descending" maxwidth="-1">Størrelse (liten–stor)</string>
+    <string name="date_ascending" description="button text for sort file by date ascending" maxwidth="-1">Dato (eldst–nyest)</string>
+    <string name="date_descending" description="button text for sort file by date descending" maxwidth="-1">Dato (nyest–eldst)</string>
+    <string name="my_storage_title" description="storage label" maxwidth="-1">Min oppbevaring</string>
+    <string name="internal_storage_title" description="storage label" maxwidth="-1">Intern oppbevaring</string>
+    <string name="my_picture_title" description="shortcut label" maxwidth="-1">Bilde</string>
+    <string name="my_camera_title" description="shortcut label" maxwidth="-1">Kamera</string>
+    <string name="my_music_title" description="shortcut label" maxwidth="-1">Musikk</string>
+    <string name="my_download_title" description="shortcut label" maxwidth="-1">Laste ned</string>
+    <string name="dialog_create_zip_title" description="compress dialog title" maxwidth="-1">Skriv inn arkivnavnet</string>
+    <string name="zip_progress_msg" description="compress dialog message" maxwidth="-1">Går fremover ...</string>
+    <string name="zip_fail" description="toast message: Compress files fail" maxwidth="-1">Mislykket i å komprimere filer</string>
+    <string name="zip_success" description="toast message: Compress files successly" maxwidth="-1">Filene ble vellykket komprimert</string>
+    <string name="search_label" description="cutstom action bar view title for search" maxwidth="-1">Søk etter filer</string>
+    <string name="search_progress" description="search dialog message" maxwidth="-1">Søker ...</string>
+    <string name="location" description="button text for sort file by date" maxwidth="-1">"Plassering"</string>
+    <plurals name="number_search_items">
+        <item quantity="one">"%d fil funnet"</item>
+        <item quantity="other">"%d filer funnet"</item>
+    </plurals>
+    <string name="search_result_title" description=" text for search result" formatted="false" maxwidth="-1">Søger %s i %s: %d filer fundet</string>
+    <string name="dialog_extract_zip_title" description="extract zip file dialog title. %s is a dynamic string. It is zip file name." maxwidth="-1">ekstraher %s til:</string>
+    <string name="unzip_progress_msg" description="extract file dialog message" maxwidth="-1">Ekstraherer ...</string>
+    <string name="unzip_fail" description="toast message: extract files fail" maxwidth="-1">Mislyktes i å ekstrahere filen.</string>
+    <string name="unzip_success" description="toast message: extract files successly" maxwidth="-1">Filene ble vellykket ekstrahert</string>
+    <string name="action_clear_history" description="cutstom action bar view title for clear search history" maxwidth="">Slett søkehistorikk</string>
+    <plurals name="drag_items">
+        <item quantity="one">Dra element</item>
+        <item quantity="other">Dra elementer</item>
+    </plurals>
+    <string name="drag_items_one">Dra element</string>
+    <string name="drag_items_other">Dra elementer</string>
+    <string name="toast_drag_copied_items" description="Toast: The item(s) has been copied completely" maxwidth="-1">Elementene er vellykket kopiert.</string>
+    <string name="toast_warning_copy_folders" description="Toast: Sorry, copy folders has not been supported" maxwidth="-1">"Beklager, kopiering av filer støttes ikke"</string>
+    <string name="toast_warning_copy_comple_cut_fail" description="Toast: Sorry, copy files complete but cut fail" maxwidth="-1">"Beklager, kopiering av filer ble fullført, men sletting av gamle filer mislyktes"</string>
+    <string name="toast_drag_moved_items" description="Toast: The item(s) has been moved completely" maxwidth="-1">Elementene er vellykket flyttet.</string>
+    <string name="move" description="Hint: move the items" maxwidth="-1">Flytt</string>
+    <string name="drop_target_to" description="Hint: the target folder which you want to do something" maxwidth="-1">Mål til:</string>
+    <string name="drop_incorrect_hint" description="Hint: the operation is incorrect" maxwidth="-1">Feil operasjon</string>
+    <!-- Willie Huang, 2012/01/20, UI required, new feature -->
+    <string name="dialog_unzip_preview_title" description="show zip info dialog title. %s is a dynamic string. Is is a zip file name" maxwidth="-1">Ekstraher %s</string>
+    <string name="extract" description="Dialog Button: extract file for dialog" maxwidth="-1">Ekstraher</string>
+    <plurals name="dialog_unzip_preview_size_text">
+        <item quantity="one">Totalt: %1$d fil, %2$s</item>
+        <item quantity="other">Totalt: %1$d filer, %2$s</item>
+    </plurals>
+    <string name="encode" description="Dialog Button: click to open the encoding list dialog" maxwidth="-1">Tekstkoding</string>
+    <string name="dialog_text_encoding_title" description="text encoding dialog title" maxwidth="-1">Tekstkoding</string>
+    <string-array name="charset_array">
+        <item>"Latin-1 (ISO-8859-1)"</item>
+        <item>"Unicode (UTF-8)"</item>
+        <item>"Kinesisk (GBK)"</item>
+        <item>"Kinesisk (Big5)"</item>
+        <item>"Japansk (ISO-2022-JP)"</item>
+        <item>"Japansk (SHIFT_JIS)"</item>
+        <item>"Japansk (EUC-JP)"</item>
+        <item>"Koreansk (EUC-KR)"</item>
+    </string-array>
+    <!-- Willie Huang, 2012/03/28, UI required, new feature -->
+    <string name="info_aperture" description="file info textview context" maxwidth="-1">"Blender: "</string>
+    <string name="info_datetime" description="file info textview context" maxwidth="-1">"Dato tatt: "</string>
+    <string name="info_exposure_time" description="file info textview context" maxwidth="-1">"Eksponeringstid: "</string>
+    <string name="info_flash" description="file info textview context" maxwidth="-1">"Blits: "</string>
+    <string name="info_focal_length" description="file info textview context" maxwidth="-1">"Brennvidde: "</string>
+    <string name="info_image_height" description="file info textview context" maxwidth="-1">"Høyde: "</string>
+    <string name="info_image_x" description="file info textview context" maxwidth="-1">" x "</string>
+    <string name="info_image_width" description="file info textview context" maxwidth="-1">"Bredde"</string>
+    <string name="info_iso" description="file info textview context" maxwidth="-1">"ISO: "</string>
+    <string name="info_location" description="file info textview context" maxwidth="-1">"Sted: "</string>
+    <string name="info_maker" description="file info textview context" maxwidth="-1">"Skaper: "</string>
+    <string name="info_model" description="file info textview context" maxwidth="-1">"Modell: "</string>
+    <string name="info_orientation" description="file info textview context" maxwidth="-1">"Retning: "</string>
+    <string name="info_white_balance" description="file info textview context" maxwidth="-1">"Hvitbalanse: "</string>
+    <string name="flash_on" description="string indicating camera flash is fired" maxwidth="-1">Blits brukes</string>
+    <string name="flash_off" description="string indicating camera flash is not used" maxwidth="-1">Uten blits</string>
+    <string name="unit_mm" description="string indicating the length units in milli-meters" maxwidth="-1">mm</string>
+    <string name="manual" description="string indicating how camera shooting feature is used" maxwidth="-1">Manuelt</string>
+    <string name="auto" description="string indicating how camera shooting feature is used" maxwidth="-1">Auto</string>
+    <!-- Guoliang_Lin, 2012/03/20, UI required, new feature -->
+    <string name="wait">"Vent litt ..."</string>
+    <!-- Johnson Chen, 2012/04/13, UI required, new feature -->
+    <string name="select_album">Velg album</string>
+    <string name="select_photo">Velg bilde</string>
+    <string name="back_button_label" description="button text." maxwidth="-1">Tilbake</string>
+    <!-- Willie Huang, 2012/05/18, UI required, new feature -->
+    <string name="action_apply_selected_file" description="View title of custom action bar, apply to multiple selected files" maxwidth="-1">Bruk</string>
+    <!-- Willie Huang, 2013/01/03, UI required, new feature -->
+    <string name="loading" description="text for progress bar" maxwidth="-1">"Laster inn …"</string>
+    <string name="version" description="version" maxwidth="-1">"Versjon"</string>
+    <string name="title" description="title" maxwidth="-1">"Juridisk informasjon:"</string>
+    <string name="content" description="content" maxwidth="-1">"Bruk av denne programvaren er underlagt betingelsene på ASUS-nettsiden: \nhttp://www.asus.com"</string>
+    <string name="action_share" description="cutstom action bar view title for sharing" maxwidth="-1">"Del"</string>
+    <!-- Johnson Chen, 2012/05/18, UI required, new feature-->
+    <string name="photo_selection_limit_number_toast" description="Toast: You may not select more than %s photos." maxwidth="-1">Velg maksimalt %s bilder</string>
+    <!-- Alex6 Lin, -->
+    <string name="action_sort_by" description="String for asking for the rule of sorting" maxwidth="-1">Sorter etter</string>
+    <plurals name="number_selected_items">
+        <item quantity="one">%d element valgt</item>
+        <item quantity="other">%d elementer valgt</item>
+    </plurals>
+    <string name="info_type" description="file info textview context" maxwidth="-1">Type:</string>
+    <string name="type_document" description="document type" maxwidth="-1">"Dokument"</string>
+    <string name="type_audio" description="document type" maxwidth="-1">"Lyd"</string>
+    <string name="type_video" description="document type" maxwidth="-1">"Video"</string>
+    <string name="type_playlist" description="document type" maxwidth="-1">"Spilleliste"</string>
+    <string name="type_image" description="document type" maxwidth="-1">"Bilde"</string>
+    <string name="type_book" description="document type" maxwidth="-1">"E-bok"</string>
+    <string name="type_zip" description="document type" maxwidth="-1">"Zip"</string>
+    <string name="type_apk" description="document type" maxwidth="-1">"Android-app"</string>
+    <string name="type_abu" description="document type" maxwidth="-1">"Sikkerhetskopi av Asus-app"</string>
+    <string name="type_file" description="document type" maxwidth="-1">"Fil"</string>
+    <string name="type_directory" description="document type" maxwidth="-1">"Katalog"</string>
+    <string name="search_action">"Søk"</string>
+    <string name="fileList_Nofiles">Ingen filer</string>
+    <!-- Johnson Chen, 2012/05/18, UI required, new feature-->
+    <string name="wifidirect_available_devices" description="Available devices" maxwidth="-1">Tilgjengelige enheter</string>
+    <string name="wifidirect_connect_hint_title" description="Dialog title text: Invitation to connect" maxwidth="-1">Invitasjon til å koble til</string>
+    <string name="wifidirect_connect_hint" description="Do you want to connect to device" maxwidth="-1">Ønsker du å koble til med</string>
+    <string name="wifidirect_connecting_hint_title" description="Dialog title text: Wi-Fi Direct connecting" maxwidth="-1">Wi-Fi Direct kobler til …</string>
+    <string name="wifidirect_disconnect_hint" description=">Do you want to disconnect" maxwidth="-1">Ønsker du å koble fra med</string>
+    <string name="shared_folder" description="Context Menu: options of context menu: share folder via Wi-Fi Direct" maxwidth="">Del via Wi-Fi Direct</string>
+    <string name="unshared_folder" description="Context Menu: options of context menu: unshare folder" maxwidth="-1">Opphev deling</string>
+    <string name="remote_storage_title" description="remote storage label" maxwidth="-1">Ekstern lagring</string>
+    <string name="remote_connected_error_hint" description="network is unavailable, please try again" maxwidth="-1">Nettverk er ikke tilgjengelig, prøv igjen</string>
+    <string name="wifidirect_peer_device_title" description="peer devices title" maxwidth="-1">Noder</string>
+    <string name="wifidirect_scanning" description="searching" maxwidth="-1">Søker …</string>
+    <string name="wifidirect_touch_to_connect" description="click to connect" maxwidth="-1">Klikk for å koble til</string>
+    <string name="wifidirect_connectted" description="connectted" maxwidth="-1">Tilkoblet</string>
+    <string name="wifidirect_action_bar_scan" description="search" maxwidth="-1">Søk</string>
+    <string name="wifidirect_storage_title" description="Search Wi-Fi Direct device" maxwidth="-1">Søk etter Wi-Fi Direct-enhet</string>
+    <string name="wifidirect_peer_device_info" description="peer devices infomation" maxwidth="-1">For å motta en Wi-Fi Direct-invitasjon må den tilkoblende enheten være på siden med «Peer devices» (noder) i Filbehandling.</string>
+    <string name="wifidirect_disconnect_hint_title" description="Disconnect Wi-Fi Direct" maxwidth="-1">Koble fra Wi-Fi Direct</string>
+    <string name="wifi_p2p_turn_on_wifi_title" description="title for turn on WiFi dialog" width="-1">Slå på Wi-Fi</string>
+    <string name="wifi_p2p_turn_on_wifi_msg" description="message for request to turn on Wi-Fi" width="-1">Slå på Wi-Fi for å bruke Wi-Fi Direct-tjenester. Slå på Wi-Fi nå?</string>
+    <!-- Johnson Chen, 2013/03/22, UI required, new feature-->
+    <string name="cloud_storage_title" description="Add more cloud storage" maxwidth="-1">Legg til mer nettskylagring</string>
+    <string name="add_cloud_storage_dialog_title" description="Dialog title: Add cloud storage" maxwidth="-1">Legg til nettskylagring</string>
+    <string name="cloud_storage_remove_hint" description=">Do you want to remove" maxwidth="-1">"Vil du logge ut av \"%s\"-kontoen?"</string>
+    <string name="cloud_storage_remove_hint_title" description="Dialog title: Remove cloud storage" maxwidth="-1">Logg av</string>
+    <string name="add_progress" description="Progress Content: text in progress dialog" maxwidth="">Oppretter …</string>
+    <string name="logging_cloud_storage" description="Progress Content: text in progress dialog" maxwidth="">Logger på …</string>
+    <string name="wifi_p2p_connection_msg" description="message for request to connect Network" width="-1">Opprett en nettverkstilkobling for å bruke nettskytjenester.</string>
+    <string name="wifi_p2p_connection_title" description="title for request to connect Network" width="-1">Opprett en nettverkstilkobling</string>
+    <string name="logout_account" description="logout account" width="-1">Logg av</string>
+    <string name="renaming_file" description="renaming file" width="-1">Gi nytt navn</string>
+    <string name="rename_success" description="Toast: rename success" maxwidth="-1">Filen fikk nytt navn.</string>
+    <string name="login_fail" description="Toast: login account fail" width="-1">Pålogging mislyktes</string>
+    <string name="starred" description="shortcut title: my favorite files" width="-1">"Stjernemerket"</string>
+    <string name="recently_used" description="shortcut title: recently used files" width="-1">Nylig</string>
+    <string name="trash_can" description="shortcut title: trash can" width="-1">"Papirkurv"</string>
+    <!-- Settings Page -->
+    <string name="menu_general_preferences" description="The title of a menu for General Preferences.Pressing the menu item lets user to view and edit his general settings" maxwidth="30">"Generelle innstillinger"</string>
+    <string name="preferences_title" description="This is the title of the screen for setting user preferences." maxwidth="-1">"Innstillinger"</string>
+    <string name="settings_space_used" description="This is the title of space used for setting user preferences." maxwidth="-1">"Brukt plass"</string>
+    <string name="settings_clear_search_history" description="This is the title of clearing search history action for setting user preferences." maxwidth="-1">"Slett søkehistorikk"</string>
+    <string name="settings_hide_system_files" description="This is the title of hiding system files action for setting user preferences." maxwidth="-1">"Skjul systemfiler"</string>
+    <string name="settings_trash_can" description="This is the title of trash can information for setting user preferences." maxwidth="-1">"Papirkurv"</string>
+    <string name="settings_moved_to_the_trash_can" description="This is the title of moving to the trash can." maxwidth="-1">"Flyttet til Papirkurv"</string>
+    <string name="settings_user_name" description="This is the title of user name" maxwidth="-1">"Brukernavn"</string>
+    <string name="settings_documents_cache" description="This is the title of documents cache" maxwidth="-1">"Dokumentbuffer"</string>
+    <string name="settings_cache_size_title" description="This is the title of cache size" maxwidth="-1">"Bufferstørrelse"</string>
+    <string name="settings_set_cache_size" description="Set the cache size to %s" maxwidth="-1">"Bufferstørrelse angitt som \"%s\""</string>
+    <string name="settings_clear_cache_title" description="Clear the cache" maxwidth="-1">"Slett buffer"</string>
+    <string name="settings_clear_cache_info" description="Remove all cache documents" maxwidth="-1">"Fjern alle bufferdokumenter"</string>
+    <string name="settings_remove_account" description="Remove account" maxwidth="-1">"Fjern konto"</string>
+    <string name="drawer_open">"Åpne navigeringsskuff"</string>
+    <string name="drawer_close">"Lukk navigeringsskuff"</string>
+    <!-- begin add new server -->
+    <string name="samba_storage_title">"SAMBA"</string>
+    <string name="samba_storage_add_title">"NetWork-plass"</string>
+    <string name="server_title">Server</string>
+    <string name="domain">"Domene:"</string>
+    <string name="domain_hint">"Kan stå tomt"</string>
+    <string name="server">"Server:"</string>
+    <string name="server_hint">"172.0.0.1/ShareFolder"</string>
+    <string name="example">"Eksempel:"</string>
+    <string name="user">Brukernavn</string>
+    <string name="user_hint">administrator</string>
+    <string name="password">Passord</string>
+    <string name="display">"Vis som"</string>
+    <string name="display_hint">"Min datamaskin, kan stå tomt"</string>
+    <string name="samba_input_error">Brukernavn eller passord kan ikke være tomt!</string>
+    <string name="samba_client_config_check" description="account config dialog remind message" maxwidth="-1">Husk brukernavn og passord, og koble til direkte neste gang</string>
+    <string name="pullfreshlistview_header_hint_normal">Trekk ned</string>
+    <string name="pullfreshlistview_header_hint_ready">Slipp for å oppdatere</string>
+    <string name="pullfreshlistview_header_hint_loading">Oppdaterer …</string>
+    <string name="pullfreshlistview_header_last_time">Sist oppdatert:</string>
+    <string name="pullfreshlistview_footer_hint_normal">Last inn mer</string>
+    <string name="pullfreshlistview_footer_hint_ready">Slipp for å laste inn mer</string>
+    <string name="cloud_preview_action_fail" description="Toast: cloud preview action" maxwidth="-1">Forhåndsvisning at nettskyfiler mislyktes.</string>
+    <string name="cloud_share_action_fail" description="Toast: cloud share action" maxwidth="-1">Deling av nettskyfiler mislyktes.</string>
+    <string name="cloud_paste_backgroud" description="diaglog cloud background paste">Bakgrunn</string>
+    <string name="cloud_paste_uploading" description="diaglog cloud  paste uploading">Laster opp filer</string>
+    <string name="cloud_paste_downloading" description="diaglog cloud  paste">Laster ned filer</string>
+    <string name="cloud_paste_total" description="diaglog cloud  total">Sum</string>
+    <string name="cloud_paste_current" description="diaglog cloud  current">Gjeldende</string>
+    <string name="cloud_paste_copying" description="diaglog cloud  now is copy files">Kopierer …</string>
+    <string name="cloud_paste_deleting" description="diaglog cloud  now is delete source files">Sletter kildefiler …</string>
+    <string name="cloud_token_invalidate" description="diaglog cloud  token is invalidate">Token ugyldig. Logg inn på nytt!</string>
+    <string name="cloud_homebox_status_offline" description="home cloud device is offline">Enheten er frakoblet</string>
+    <string name="cloud_homebox_status__info_offline" description="home cloud device is offline">Frakoblet</string>
+    <string name="cloud_homebox_status__info_online" description="home cloud device is online">Tilkoblet</string>
+    <string name="cloud_homebox_status__info_Sleep" description="home cloud device is sleep">Hvile</string>
+    <string name="cloud_homebox_no_available_devices" description="home cloud has no available devices">Ingen tilgjengelige HomeCloud-enheter</string>
+    <string name="cloud_homebox_get_devices_fail" description="home cloud get available devices fail">Kunne ikke søke etter tilgjengelige HomeCloud-enheter</string>
+<!--  <string name="cloud_paste_string_format"  description="diaglog cloud  paste string format" maxwidth="-1">%d / %d</string>-->
+    <string name="storage_type_cloud">Nettskyoppbevaring</string>
+    <string name="storage_type_local">Lokal lagring</string>
+    <string name="storagetype_add_account">Legg til konto</string>
+    <string name="network_cta_hint">"Bekreft for å koble til nettverket"</string>
+ <string name="action_refresh_cloudfile">"Oppdater"</string>
+ <string name="baidu_storage_title">"百度云"</string>
+ <string name="dialog_load_stream_url_info">Dvendig informasjon fra serveren</string>
+ <string name="paste_progress_title">Annen kopioppgave kjører …</string>
+ <string name="single_drm_file_forbidden_operation">Handlingen er forbudt da den er DRM-beskyttet.</string>
+ <string name="multi_drm_file_forbidden_operation">Handlingen er forbudt da noen av de valgte filene er DRM-beskyttet.</string>
+ <string name="samba_login_error">Brukernavnet eller passordet du skrev inn er feil.</string>
+     <string name="action_search" description="cutstom action bar view title for search" maxwidth="">Ingen sanger</string>
+ <string name="cloud_upload_flie_limit_space" description="Toast: The size is over the limit and cannot be uploaded" maxwidth="-1">Filen er for stor, og kan ikke lastes opp</string>
+ <string name="cloud_download_flie_limit_space" description="Toast: The size is over the limit and cannot be uploaded" maxwidth="-1">Filen er for stor, og kan ikke lastes opp</string>
+ <string name="invalid_account" description="Toast: the account is invalid" maxwidth="-1">"Ugyldig konto"</string>
+ <string name="homecloud_access_error" description="Can’t connect to HomeCloud." maxwidth="-1">Kunne ikke koble til HomeCloud. Kontroller at HomeCloud-tjenesten er tilgjengelig.</string>
+ <string name="cloud_flie_name_not_supported" description="Toast: The name of the file uploaded is not supported by cloud server" maxwidth="-1">"Operasjonen kunne ikke fullføres fordi filnavnet ikke støttes på skyserveren."</string>
+ <string name="action_cancel" description="action cancel" maxwidth="-1">Avbryt</string>
+ <string name="action_add" description="action add files" maxwidth="-1">Legg til</string>
+ <string name="no_share_folder">Ingen fil delt i denne enheten</string>
+ <string name="edit_toast_special_char">Kan ikke inkludere spesialtegn</string>
+ <string name="delete_one_directory" description="Dialog Content: text in dialog" maxwidth="">Vil du slette mappen?</string>
+ <string name="type_dialog_title">Åpne som</string>
+ <string name="type_dialog_text">Tekst</string>
+ <string name="type_dialog_image">Bilde</string>
+ <string name="type_dialog_audio">Lyd</string>
+ <string name="type_dialog_video">Video</string>
+ <string name="target_directory_is_child_of_source">"Operasjonsn kunne ikke fullføres fordi målkatalogen er en undermappe i kildekatalogen."</string>
+ <string name="edit_toast_name_too_long">Maksimalt antall tegn er nådd</string>
+ <string name="settings_description">"Lokale mapper og filer"</string>
+ <string name="clear_account_info">Glem alle kontoer</string>
+ <string name="type_rar" description="document type" maxwidth="-1">"RAR"</string>
+ <string name="set_ring">"Angi som Ring"</string>
+    <string name="action_zip" description="cutstom action bar view title for zip" maxwidth="">Komprimer</string>
+    <string name="signout_account" description="signout account" width="-1">Koble fra</string>
+    <string name="cloud_storage_sign_out" description=">Do you want to signout" maxwidth="-1">Er du sikker på at du vil logge av?</string>
+    <string name="cloud_storage_sign_out_title" description="Dialog title: Signout cloud storage" maxwidth="-1">Koble fra</string>
+    <string name="cloud_storage_sign_in" description=">Do you want to signin" maxwidth="-1">Koble til med følgende konto:</string>
+    <string name="cloud_storage_sign_in_title" description="Dialog title: Signin cloud storage" maxwidth="-1">Koble til %s</string>
+    <!-- start add for CTA check  -->
+    <string name="cta_dialog_title">"Bruker nettverk"</string>
+    <string name="cta_dialog_content"><b>Filbehandling</b> vil bruke nettverket. Dette kan føre til ekstra kostnader, avhengig av abonnementet ditt.</string>
+    <string name="cta_check_title">"Husk"</string>
+    <string name="cta_agree">"Tillat"</string>
+    <string name="cta_disagree">"Nekt"</string>
+    <string name="cta_show_menu">"Nettverkstillatelse"</string>
+    <!-- end add for CTA check  -->
+    <string name="move_to">Flytt til</string>
+    <string name="copy_to">Kopier til</string>
+    <string name="category_title_category">Kategori</string>
+    <string name="category_title_local_storage">Lokal lagring</string>
+    <string name="category_image">Bilde</string>
+    <string name="category_music">Musikk</string>
+    <string name="category_video">Video</string>
+    <string name="category_apk">Apper</string>
+    <string name="category_download">Last ned</string>
+    <string name="category_favorite">Favoritt</string>
+    <string name="category_count">"%s"</string>
+    <string name="open">Åpne</string>
+    <string name="add_favorite">Legg til favoritt</string>
+    <string name="remove_favorite">Fjern fra favoritter</string>
+    <string name="add_favorite_success">Lagre som favoritt</string>
+    <string name="rename_favorite_folder">Gi nytt navn til favorittmappen</string>
+    <string name="rename_favorite_success">Nytt navn gitt og lagret som favoritt</string>
+    <string name="rename_favorite_notice">Det finnes allerede en mappe med samme navn i favorittmappen. Vil du gi nytt navn?</string>
+    <string name="remove_favorite_notice_one">Er du sikker på at du vil fjerne «%s» fra favorittmappen?</string>
+    <string name="remove_favorite_notice_more">Er du sikker på at du vil fjerne disse %d elementene fra favorittmappen?</string>
+    <string name="remove_favorite_success">Fjernet</string>
+    <string name="tutorial_skip">Hopp over</string>
+    <string name="tutorial_done">Ferdig</string>
+    <string name="tutorial_page_one_title">ASUS Filbehandling</string>
+    <string name="tutorial_page_one_content">ASUS Filbehandling lar deg enkelt administrere filene som du har lagret internt, eksternt, på lokalnett eller på nettskylagring.</string>
+    <string name="tutorial_page_two_title">Hjemmeside</string>
+    <string name="tutorial_page_two_content">Enkle kategorier som gir deg rask tilgang til filene på din lokale lagring.</string>
+    <string name="tutorial_page_three_title">Handlingsliste for høyresveip</string>
+    <string name="tutorial_page_three_content">Sveip et element til høyre for å vise handlinger som Legg til i favoritter, Endre navn, Flytt til, Kopier til og andre alternativer for administrasjon av filer.</string>
+    <string name="tutorial_page_four_title">Favoritter</string>
+    <string name="tutorial_page_four_content">Sett en hyppig brukt mappe som favoritt for å få tilgang til mappene raskt og enkelt.</string>
+    <string name="saf_permission_tutorial_title">Be om tilgang til SD-kort</string>
+    <string name="saf_permission_tutorial_content">ASUS Filbehandling ber om tilgang til SD-kortet. Vil du gi tilgang?</string>
+    <string name="saf_tutorial_step_one">Trykk Meny-ikonet, og trykk Vis SD-kort.</string>
+    <string name="saf_tutorial_step_two">Sveip venstre kant av skjermen for å vise skuffen, og trykk SD-kortet.</string>
+    <string name="saf_tutorial_step_three">Trykk Velg SD-kort for å gi tilgang til ASUS Filbehandling.</string>
+    <string name="device_root_path">root</string>
+    <string name="tap_to_exit">Trykk igjen for å avslutte</string>
+    <string name="info_path" description="file info textview context" maxwidth="-1">"Bane: "</string>
+    <string name="recruit_beta_user" description="recruit beta user" maxwidth="-1">"Hent testversjon"</string>
+    <string name="rate_us" description="rate us" maxwidth="-1">"Gi oss en vurdering"</string>
+    <string name="scroll_up_toast" description="rate now" maxwidth="">Bla opp for å gi en vurdering</string>
+    <string name="settings_encourage_us_detail" description="recommend text" maxwidth="">Hvis du liker å bruke %s, ber vi om at du gir oss 5 stjerner i Play-butikken. Det vil gi oss motivasjon til å fortsette med å forbedre produktet!</string>
+    <string name="yes">Ja</string>
+    <string name="menu_tutorial" description="settings menu tutorial" maxwidth="-1">Veiledning</string>
+    <string name="about">Om</string>
+    <string name="version_text">versjon</string>
+    <string name="tell_friend" description="" maxwidth="">Fortell en venn</string>
+    <string name="toolbar_item_title_encourage_us" maxwidth="35">Gi oss motivasjon</string>
+    <string name="zenui_update">"ZenUI øyeblikkelig oppdatering"</string>
+    <string name="whats_new_label">Hva er nytt</string>
+    <string name="next">Neste</string>
+    <string name="invite_friends" description="sticker detail page button name" maxwidth="-1">"Inviter venner"</string>
+    <string name="news_mark1" maxwidth="">"★  "</string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="httpserver_title" maxwidth="">"网页版档案管理员"</string>
+    <string name="httpserver_start" maxwidth="">"开启"</string>
+    <string name="httpserver_stop" maxwidth="">"停止"</string>
+    <string name="httpserver_need_saf" maxwidth="">"请提供存取权限才能从PC管理手机上的外接储存装置。"</string>
+    <string name="httpserver_description" maxwidth="">"从PC连接您的行动装置"</string>
+    <string name="httpserver_instruction" maxwidth="">"请在PC上的浏览器输入此位置"</string>
+    <string name="httpserver_no_network" maxwidth="">"请确认装置已连接至WLAN网路"</string>
+    <string name="httpserver_no_permission_title" maxwidth="">"开启无线档案传输"</string>
+    <string name="httpserver_no_permission_message" maxwidth="">"将无权限操作外部储存装置，是否继续执行？"</string>
+    <string name="httpserver_acquire_permission_message" maxwidth="">"需关闭http file server，正在执行的操作可能因此中断，是否继续执行？"</string>
+    <string name="category_title_tools">"工具""</string>
+    <string name="tools_file_transfer">"无线档案传输"</string>
+    <string name="tools_clean_master">"垃圾清理"</string>
+    <string name="retention_notification_large_file">"您已添加 %1$s 个大型文件。立即进行查看。"</string>
+    <string name="retention_notification_recent_file">"您最近新增的档案占据%1$s储存空间。"</string>
+    <string name="recommend_clean_master_msg">"最受用户信赖的安卓优化软体，在Google Play上已经被用户下载超过6亿次。帮助用户清理2 GB以上的垃圾档，阻止应用在後台反复重启丶异常消耗CPU，极致解决手机空间不足丶运行卡慢和发烫问题。\n下载安装?"</string>
+    <string name="recommend_clean_master_title">"推荐"</string>
+    <string name="tools_tip_animation">"向上滑动以显示工具！"</string>
+</resources>

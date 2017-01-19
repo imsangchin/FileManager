@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!--Text for trash-->
+    <string name="permanently_delete">"Eliminar permanentemente"</string>
+    <string name="tools_recycle_bin">"Reciclagem"</string>
+    <!--string name="move_or_delete">Move or delete</string-->
+    <string name="move_or_delete_msg">"Pretende eliminar temporariamente os itens para a reciclagem agora?\n(Marque a caixa abaixo para eliminar permanentemente os itens.)"</string>
+    <string name="move_to_trash_progress" description="Progress Content: text in progress dialog" maxwidth="">"A mover para a reciclagem..."</string>
+    <string name="move_to_trash_success_one" description="Toast: move to recycle bin success. %s is variable string." maxwidth="-1">"\"%s\" foi movido para a reciclagem"</string>
+    <string name="move_to_trash_success_more" description="Toast: move to recycle bin success" maxwidth="-1">"Os ficheiros selecionados foram movidos para a reciclagem"</string>
+    <string name="move_to_trash_fail" description="Toast: move to recycle bin fails" maxwidth="-1">"Falha ao mover para a reciclagem"</string>
+    <string name="trash_info_deleted" maxwidth="-1">"Data da eliminação: "</string>
+    <string name="trash_info_path" maxwidth="-1">"Caminho original: "</string>
+    <string name="action_clean_all" maxwidth="-1">"Apagar tudo"</string>
+    <string name="action_restore_all" maxwidth="-1">"Restaurar tudo"</string>
+    <string name="action_clean" maxwidth="-1">"Limpar"</string>
+    <string name="action_restore" maxwidth="-1">"Restaurar"</string>
+    <string name="restore_success_one" description="Toast: restore success. %s is variable string." maxwidth="-1">"\"%s\" foi restaurado"</string>
+    <string name="restore_success_more" description="Toast: restore success" maxwidth="-1">"Os ficheiros selecionados foram restaurados"</string>
+    <string name="restore_fail" description="Toast: restore fails" maxwidth="-1">"Falha no restauro"</string>
+    <string name="restore_progress" description="Progress Content: text in progress dialog" maxwidth="">"A restaurar..."</string>
+    <string name="calculate_progress" description="Progress Content: text in progress dialog" maxwidth="">"Em curso..."</string>
+    <string name="msg_too_big_to_recycle">"Os itens são demasiado grandes para reciclar.\nPretende eliminá-los permanentemente?"</string>
+    <string name="duplicate_files">"Duplicar ficheiros"</string>
+    <string name="duplicate_files_content_hint">"Encontrar ficheiros duplicados e eliminá-los com a sua permissão."</string>
+</resources>

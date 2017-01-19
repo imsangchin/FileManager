@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="tools_hidden_zone">"Skriveni pretinac"</string>
+    <string name="action_hidden_zone" maxwidth="">"Premjesti u Skriveni pretinac"</string>
+    <string name="move_to_hidden_zone_progress" description="Progress Content: text in progress dialog" maxwidth="">"Premještanje u Skriveni pretinac"</string>
+    <string name="move_to_hidden_zone_success_one" description="Toast: move to recycle bin success. %s is variable string." maxwidth="-1">"\"%s\" je premješten u Skriveni pretinac."</string>
+    <string name="move_to_hidden_zone_success_more" description="Toast: move to recycle bin success" maxwidth="-1">"Odabrane datoteke su premještane u Skriveni pretinac."</string>
+    <string name="move_to_hidden_zone_fail" description="Toast: move to recycle bin fails" maxwidth="-1">"Neuspjelo premještanje u Skriveni pretinac"</string>
+    <string name="can_not_open_in_hidden_zone" description="Toast: can not open in hidden zone" maxwidth="-1">"Ne može se otvoriti u Skrivenom pretincu"</string>
+    <string name="hidden_zone_setup_password">"Unesite 4-znamenkasti PIN kod"</string>
+    <string name="hidden_zone_setup_account">"Postavite račun"</string>
+    <string name="hidden_zone_forget_password">"Zaboravili ste zaporku"</string>
+    <string name="hidden_zone_wrong_password">"Pogrešan PIN kod"</string>
+    <string name="hidden_zone_change_password">"Promjeni zaporku"</string>
+    <string name="hidden_zone_confirm_password">"Potvrdi PIN kod"</string>
+    <string name="hidden_zone_set_password_success">"Zaporka je uspješno postavljena"</string>
+    <string name="hidden_zone_fingerprint_to_unlock">"Otisak prsta za otključavanje"</string>
+    <string name="hidden_zone_password_mismatch">"PIN kod ne odgovara"</string>
+    <string name="hidden_zone_introduction_description">"Sakrijte osobne datoteke u Skriveni pretinac. Za otvaranje Skrivenog pretinca potreban je PIN kod."</string>
+    <string name="hidden_zone_enter_password">"Upišite PIN kod"</string>
+    <string name="setup">"Postavljanje"</string>
+    <string name="set_password_title">"Izradite PIN kod"</string>
+    <string name="setup_account_title">"Dohvati PIN kod"</string>
+    <string name="setup_account_description">"Postavite račun e-pošte za dohvaćanje PIN-koda"</string>
+    <string name="setup_account_no_internet_connection">"Nema internetske veze"</string>
+    <string name="setup_account_skip">"Preskoči"</string>
+    <string name="setup_my_digital_code">"Postavi PIN kod"</string>
+    <string name="setup_fingerprint_message">"Omogućiti otisak prsta za otključavanje? Skriveni pretinac podržava verifikaciju otiska prsta. Skenirajte otisak prsta u Postavke za početak."</string>
+    <string name="toast_auto_lock_notify_message">"Zaključaj Skriveni pretinac kada je uređaj zaključan"</string>
+</resources>

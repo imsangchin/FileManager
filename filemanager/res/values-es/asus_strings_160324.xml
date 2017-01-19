@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Sylvia Cheng, 2016/03/22, Setting page -->
+    <string name="action_settings" description="menu title for setting" maxwidth="-1">"Ajustes"</string>
+    <string name="setting_view_group">"Ver ajuste"</string>
+    <string name="setting_view_hide_files">"Ocultar archivos del sistema"</string>
+    <string name="setting_notification_group">"Notificación"</string>
+    <string name="setting_notification_large_files">"Notificación de archivo grande"</string>
+    <string name="setting_notification_recent_files">"Notificación de archivo reciente"</string>
+    <string name="setting_notification_wireless_transfer">"Notificación de transferencia inalámbrica"</string>
+    <string name="setting_display_group">"Pantalla"</string>
+    <string name="tools_storage_analyzer">"Analizador de almacenamiento"</string>
+    <string name="tools_zenui_instant_update">"Actualización instantánea"</string>
+    <string name="category_others">"Otros"</string>
+    <string name="large_files_content_hint">"Busca archivos grandes y los elimina con su permiso."</string>
+    <string name="recent_files_content_hint">"Busca archivos recientes y los elimina con su permiso."</string>
+    <string name="fragment_analyzer_more_hint">"más"</string>
+    <string name="fragment_analyzer_chart_total_hint">"Total:"</string>
+    <string name="fragment_analyzer_chart_free_hint">"Libre:"</string>
+    <string name="fragment_analyzer_chart_used_hint">"USADO"</string>
+    <string name="fragment_analyzer_allfiles_used_hint">"Usado:"</string>
+    <string name="news_v31" maxwidth="">"El analizador de almacenamiento le permite conocer el tipo de archivo que ocupa todo el espacio de almacenamiento"</string>
+    <string name="news_v32" maxwidth="">"Categoría de aplicaciones de reciente mejora"</string>
+</resources>

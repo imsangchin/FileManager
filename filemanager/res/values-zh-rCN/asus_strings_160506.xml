@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!--Text for trash-->
+    <string name="permanently_delete">"永久删除"</string>
+    <string name="tools_recycle_bin">"回收站"</string>
+    <!--string name="move_or_delete">Move or delete</string-->
+    <string name="move_or_delete_msg">"将档案暂时移至回收站？\n(或选择永久删除档案)"</string>
+    <string name="move_to_trash_progress" description="Progress Content: text in progress dialog" maxwidth="">"移至回收站中..."</string>
+    <string name="move_to_trash_success_one" description="Toast: move to recycle bin success. %s is variable string." maxwidth="-1">"\"%s\"已移至回收站"</string>
+    <string name="move_to_trash_success_more" description="Toast: move to recycle bin success" maxwidth="-1">"您选择的档案已移至回收站"</string>
+    <string name="move_to_trash_fail" description="Toast: move to recycle bin fails" maxwidth="-1">"移至回收站失败"</string>
+    <string name="trash_info_deleted" maxwidth="-1">"删除日期："</string>
+    <string name="trash_info_path" maxwidth="-1">"原始位置："</string>
+    <string name="action_clean_all" maxwidth="-1">"清空回收站"</string>
+    <string name="action_restore_all" maxwidth="-1">"还原所有档案"</string>
+    <string name="action_clean" maxwidth="-1">"清除档案"</string>
+    <string name="action_restore" maxwidth="-1">"还原档案"</string>
+    <string name="restore_success_one" description="Toast: restore success. %s is variable string." maxwidth="-1">"\"%s\"已还原"</string>
+    <string name="restore_success_more" description="Toast: restore success" maxwidth="-1">"您选择的档案已还原"</string>
+    <string name="restore_fail" description="Toast: restore fails" maxwidth="-1">"还原失败"</string>
+    <string name="restore_progress" description="Progress Content: text in progress dialog" maxwidth="">"还原中..."</string>
+    <string name="calculate_progress" description="Progress Content: text in progress dialog" maxwidth="">"处理中..."</string>
+    <string name="msg_too_big_to_recycle">"档案太大无法放入回收站\n是否要永久删除？"</string>
+    <string name="duplicate_files">"重复档案"</string>
+    <string name="duplicate_files_content_hint">"查找重复档案, 并在您的许可下将其删除。"</string>
+</resources>

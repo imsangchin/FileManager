@@ -1,0 +1,77 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/hidden_zone_introduction_margin_top_and_bottom"
+    android:paddingLeft="@dimen/setup_account_margin_left_and_right"
+    android:paddingRight="@dimen/setup_account_margin_left_and_right"
+    android:paddingTop="@dimen/hidden_zone_introduction_margin_top_and_bottom"
+    android:gravity="center_vertical"
+    tools:context="${relativePackage}.${activityClass}"
+    android:background="?normal_background_color" >
+
+    <RelativeLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1" >
+
+        <ImageView
+            android:id="@+id/introduction_icon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:src="@drawable/asus_filemanager_securezone_introbn" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="@dimen/hidden_zone_introduction_margin_in_center"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <com.asus.filemanager.ui.AutoResizeTextView
+            android:id="@+id/introduction_title"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:fontFamily="Roboto Medium"
+            android:gravity="center_vertical"
+            android:text="@string/tools_hidden_zone"
+            android:textSize="@dimen/hidden_zone_introduction_title_font_size"
+            android:textColor="?title_color" />
+
+        <com.asus.filemanager.ui.AutoResizeTextView
+            android:id="@+id/introduction_description"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:fontFamily="Roboto Regular"
+            android:gravity="center_vertical"
+            android:text="@string/hidden_zone_introduction_description"
+            android:textSize="@dimen/hidden_zone_introduction_description_font_size"
+            android:textColor="?category_text_color" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:weightSum="10" >
+
+            <Button
+                android:id="@+id/button_setup_password"
+                android:layout_width="0dp"
+                android:layout_height="@dimen/hidden_zone_inner_button_height"
+                android:layout_weight="8"
+                android:background="@drawable/rounded_rectangle_button_primary"
+                android:fontFamily="Roboto Regular"
+                android:text="@string/setup_my_digital_code"
+                android:textColor="@android:color/white"
+                android:textSize="@dimen/hidden_zone_inner_button_font_size" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

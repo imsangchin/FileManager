@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="wrap_content"
+        android:id="@+id/item_text"
+        android:singleLine="true"
+        android:text="@string/internal_storage_title"
+        android:textColor="#ffffffff"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:textSize="16dp"
+        android:paddingLeft="9dp"
+        android:paddingRight="6dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="14dp"
+        android:gravity="center_vertical"
+/>

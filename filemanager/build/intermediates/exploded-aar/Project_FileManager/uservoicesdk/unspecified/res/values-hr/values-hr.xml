@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="uf_sdk_number_of_subscribers_format">
+        <item quantity="one">"%1$s izraza sviđanja za ovu temu"</item>
+        <item quantity="other">"%1$s izraz sviđanja za ovu temu"</item>
+    </plurals>
+    <plurals name="uf_sdk_topics">
+        <item quantity="one">"tema"</item>
+        <item quantity="other">"teme"</item>
+    </plurals>
+    <plurals name="uv_comments">
+        <item quantity="one">"komentar"</item>
+        <item quantity="other">"komentari"</item>
+    </plurals>
+    <plurals name="uv_number_of_subscribers_format">
+        <item quantity="one">"%1$s želi ovu ideju"</item>
+        <item quantity="other">"%1$s žele ovu ideju"</item>
+    </plurals>
+    <plurals name="uv_people">
+        <item quantity="one">"osoba"</item>
+        <item quantity="other">"ljudi"</item>
+    </plurals>
+    <plurals name="uv_subscribers">
+        <item quantity="one">"pretplatnik"</item>
+        <item quantity="other">"pretplatnici"</item>
+    </plurals>
+    <string description="label for trending searches" maxwidth="-1" name="trending_searches">"Pretraživanje trendiranja"</string>
+    <string name="uf_sdk_already_give_5star">"Već sam ocijenio s 5 zvjezdica"</string>
+    <string description="%d is a number, don&apos;t translate" name="uf_sdk_article_read_count">"%d prikaza"</string>
+    <string name="uf_sdk_attachment_format_warning">"Pogrešan format datoteke. Mogu se priložiti samo slike"</string>
+    <string name="uf_sdk_attachment_total_size">"Ukupno"</string>
+    <string name="uf_sdk_attachment_warning">"Veličina priloga prelazi dopušteno ograničenje"</string>
+    <string maxwidth="-1" name="uf_sdk_cancel_btn_content">"Poništi"</string>
+    <string name="uf_sdk_choosertitle_sharevia">"Dijeli putem"</string>
+    <string name="uf_sdk_connection_error_msg">"Vezu je prekinuo poslužitelj. Pokušajte opet kasnije."</string>
+    <string name="uf_sdk_connection_error_title">"Pogreška veze"</string>
+    <string name="uf_sdk_discard">"Odbaci"</string>
+    <string name="uf_sdk_email_illigal">"Adresa e-pošte već se koristiti"</string>
+    <string maxwidth="-1" name="uf_sdk_empty_notification">"Prazno :)"</string>
+    <string name="uf_sdk_faq">"Često postavljana pitanja"</string>
+    <string name="uf_sdk_feedback_and_help">"Povratne informacije i pomoć"</string>
+    <string name="uf_sdk_forum_description">"Pridružite se razgovoru s ASUS-ovim korisnicima i saznajte ili podijelite svoja rješenja"</string>
+    <string maxwidth="-1" name="uf_sdk_grant_permission_title">"Odobri dopuštenje"</string>
+    <string name="uf_sdk_help">"Pomoć"</string>
+    <string name="uf_sdk_instant_answer_question">"Jesu li vam ova česta pitanja pomogla?"</string>
+    <string name="uf_sdk_like">"Sviđa mi se"</string>
+    <string maxwidth="-1" name="uf_sdk_message">"Obavijesti"</string>
+    <string name="uf_sdk_msg_bad_email_format">"Adresa e-pošte nije ispravna, pokušajte ponovno."</string>
+    <string name="uf_sdk_msg_confirm_discard_topic">"Vaša skica neće se spremiti. Želite li ju svejedno izbrisati?"</string>
+    <string name="uf_sdk_msg_confirm_discard_topic_title">"Izbrisati objavu?"</string>
+    <string name="uf_sdk_msg_subscribe">"Obavijesti o statusu teme dobit ćete putem e-pošte."</string>
+    <string name="uf_sdk_msg_subscribe_success">"Uspješna aktivacija praćenja"</string>
+    <string name="uf_sdk_msg_ticket_created">"Vaše povratne informacije uspješno su poslane u ASUS"</string>
+    <string name="uf_sdk_msg_topic_created">"Uspješno objavljeno"</string>
+    <string name="uf_sdk_msg_unsubscribe">"Uspješni prekid praćenja"</string>
+    <string name="uf_sdk_name_hint">"Unesite svoje ime"</string>
+    <string name="uf_sdk_name_illigal">"Korisničko ime se već koristi"</string>
+    <string name="uf_sdk_network_error">"Nema veze s internetom, provjerite mrežne postavke."</string>
+    <string description="zenui news" maxwidth="" name="uf_sdk_news">"Napomene"</string>
+    <string name="uf_sdk_no_network_connection_content">"Ažuriranje podataka nije moguće. Provjerite mrežne postavke."</string>
+    <string name="uf_sdk_no_network_connection_title">"Nema mrežne veze"</string>
+    <string name="uf_sdk_nothing_found">"Ništa nije pronađeno"</string>
+    <string name="uf_sdk_notice">"Obavijest"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category1">"Najave"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category2">"Vodiči &amp; savjeti"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category3">"Promocije"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category4">"Događaji"</string>
+    <string name="uf_sdk_publish_an_topic">"Objavi novu temu"</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_rate_now">"Ocijeni sada"</string>
+    <string description="%s is AP name, don&apos;t translate" maxWidth="" name="uf_sdk_rate_us_detail">"Ako uživate koristeći %s, ocijenite nas s 5 zvjezdica na usluzi Play Store."</string>
+    <string maxWidth="" name="uf_sdk_rate_us_detail_new">"Vaša podrška s ocjenom 5 zvjezdica bit će nam poticaj da nastavimo naš rad!"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_rating">"Ocjena s 5 zvjezdica"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title">"Ocijenite nas!"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title_new">"Ohrabrite nas!"</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_scroll_up_toast">"Listajte gore za ocjenjivanje"</string>
+    <string name="uf_sdk_search_hint">"Potraži pomoć"</string>
+    <string name="uf_sdk_select_common_bug">"Odaberite uobičajenu pogrešku"</string>
+    <string name="uf_sdk_send_feedback">"Pošalji povratnu informaciju"</string>
+    <string name="uf_sdk_send_feedback_help">"Vaše povratne informacije i adresa e-pošte bit će poslani u ASUS. Servisni tim će vas kontaktirati putem e-pošte."</string>
+    <string maxwidth="-1" name="uf_sdk_setting_btn_content">"Postavke"</string>
+    <string description="recommend title" maxwidth="" name="uf_sdk_settings_encourage_us_title">"Ohrabrite nas!"</string>
+    <string maxwidth="-1" name="uf_sdk_storage_permission_description">"Ova funkcija zahtjeva odobrenje pohrane za pristup multimedijskim datotekama. \n\nAko želite omogućiti, ovu funkcionalnost, dotaknite gumb Postavke za posjet stranice Postavke, potom postavite \"Info o aplikaciji\" > \"Dopuštenja\" za odobrenja dopuštenja.\n"</string>
+    <string name="uf_sdk_submit_topic">"Objavi"</string>
+    <string name="uf_sdk_subscribe_dialog_title">"Prati ovu temu"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_answered">"Odgovoreno"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_completed">"završeno"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_declined">"odbijeno"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_implemented">"Provedeno"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_planned">"planirano"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_under_review">"pregledava se"</string>
+    <string name="uf_sdk_thanks_for_your_feedback">"Hvala Vam na povratnoj informaciji!"</string>
+    <string description="%s is a application name, don&apos;t translate" name="uf_sdk_ticket_hint">"Unos povratne informacije za %s"</string>
+    <string name="uf_sdk_title_topic">"Tema"</string>
+    <string name="uf_sdk_topic">"Tema"</string>
+    <string name="uf_sdk_topic_description_heading">"Opis"</string>
+    <string name="uf_sdk_topic_description_hint">"Detaljno opišite svoju temu"</string>
+    <string name="uf_sdk_topic_filter">"TEME"</string>
+    <string name="uf_sdk_topic_form_help">"Kada objavite temu na korisničkom forumu, ostali korisnici moći će ju pratiti i komentirati. Osim toga, kada član ASUS-ovog razvojnog tima odgovori na temu, dobit ćete obavijest putem e-pošte."</string>
+    <string name="uf_sdk_topic_form_title">"Objavi novu temu"</string>
+    <string name="uf_sdk_topic_text_heading">"Forum"</string>
+    <string name="uf_sdk_topic_text_hint">"Unesite naslov teme"</string>
+    <string name="uf_sdk_topic_title">"Naslov"</string>
+    <string name="uf_sdk_translation_10117605">"Problem s prijevodom"</string>
+    <string name="uf_sdk_translation_117562">"Vrsta povratne informacije"</string>
+    <string name="uf_sdk_translation_2529543">"Izvješće o pogrešci"</string>
+    <string name="uf_sdk_translation_2529544">"Drugo"</string>
+    <string name="uf_sdk_translation_2530478">"Prijedlog"</string>
+    <string name="uf_sdk_unhelpful_article_message_question">"Želite li poslati povratne informacije ASUS-ovom razvojnom timu?"</string>
+    <string name="uf_sdk_user_forum">"Korisnički forum"</string>
+    <string name="uf_sdk_warning">"Upozorenje"</string>
+    <string name="uf_sdk_wifi_settings">"Postavke bežične mreže"</string>
+    <string name="uf_sdk_wlan_settings">"WLAN postavke"</string>
+    <string name="uf_sdk_write_your_feedback">"Ovdje unesite povratne informacije"</string>
+    <string name="uf_sdk_your_draft_will_be_discarded">"Vaša skica bit će odbačena."</string>
+    <string description="description for empty search result" maxwidth="-1" name="unable_to_find_artlcles">"Nije mogu pronaći \u0022%s\u0022 vezane članke"</string>
+    <string name="uv_admin_response_format">"Odgovor administratora: %1$s"</string>
+    <string name="uv_all_articles">"Svi članci"</string>
+    <string name="uv_all_results_filter">"SVE"</string>
+    <string name="uv_android_sdk">Android SDK</string>
+    <string name="uv_article_browse_question">"Je li vam ovaj članak pomogao?"</string>
+    <string name="uv_article_instant_answer_question">"Jesu li vam ova česta pitanja pomogla?"</string>
+    <string name="uv_cancel">"Odustani"</string>
+    <string name="uv_category">"Kategorija"</string>
+    <string name="uv_close">"Zatvori"</string>
+    <string name="uv_comment_hint">"Unesite komentar"</string>
+    <string name="uv_confirm">"Potvrda"</string>
+    <string name="uv_contact_continue_button">"Svejedno želim poslati poruku"</string>
+    <string name="uv_contact_hint">"Unesite svoje pitanje ili povratne informacije"</string>
+    <string name="uv_contact_us">"Kontaktirajte nas"</string>
+    <string name="uv_display_name">"Prikazani naziv"</string>
+    <string name="uv_email_address">"Adresa e-pošte"</string>
+    <string name="uv_email_address_hint">"vaša@adresa.com (obvezno)"</string>
+    <string name="uv_error">"Pogreška"</string>
+    <string name="uv_failed_signin_error">"Netočna adresa e-pošte ili zaporka"</string>
+    <string name="uv_forgot_password">"Zaboravljena zaporka"</string>
+    <string name="uv_helpful_article_message_question">"Želite li svejedno poslati poruku?"</string>
+    <string name="uv_i_want_this">"Želim ovo!"</string>
+    <string name="uv_idea_description_heading">"Detaljnije opišite svoju ideju"</string>
+    <string name="uv_idea_description_hint">"(opcionalno)"</string>
+    <string name="uv_idea_text_heading">"Predlažem vam..."</string>
+    <string name="uv_loading">"Učitavanje…"</string>
+    <string name="uv_matching_articles">"Odgovarajući članci"</string>
+    <string name="uv_matching_articles_and_ideas">"Odgovarajući članci i ideje"</string>
+    <string name="uv_menu_attach">"Prilog"</string>
+    <string name="uv_menu_search">"Traži"</string>
+    <string name="uv_msg_bad_email_format">"Unesite ispravnu adresu e-pošte."</string>
+    <string name="uv_msg_comment_posted">"Vaš komentar je objavljen"</string>
+    <string name="uv_msg_confirm_discard_message">"Jeste li sigurni da želite odbaciti  poruku?"</string>
+    <string name="uv_msg_custom_fields_validation">"Ispunite sva obvezna polja."</string>
+    <string name="uv_msg_forgot_password">"Poslana je poruka e-pošte sa zaboravljenom zaporkom"</string>
+    <string name="uv_msg_idea_created">"Vaša ideja je kreirana"</string>
+    <string name="uv_msg_ticket_created">"Vaša je poruka poslana"</string>
+    <string name="uv_msg_user_identity_validation">"Unesite svoju adresu e-pošte"</string>
+    <string name="uv_name_hint">"Anonimno"</string>
+    <string name="uv_network_error">"Došlo je do pogreške prilikom povezivanja s uslugom UserVoice"</string>
+    <string name="uv_nevermind">"Nije važno"</string>
+    <string name="uv_new_comment">"Novi komentar"</string>
+    <string name="uv_next">"Dalje"</string>
+    <string name="uv_no">"Ne"</string>
+    <string name="uv_none_of_these_help">"Ništa od toga nije mi pomoglo"</string>
+    <string name="uv_password">"Zaporka"</string>
+    <string name="uv_password_dialog_title">"Upišite zaporku"</string>
+    <string name="uv_portal_title">"Pomoć"</string>
+    <string name="uv_post_a_comment">"Objavi komentar"</string>
+    <string name="uv_post_comment">"Komentar na objavu"</string>
+    <string name="uv_posted_by_format">"Objavio %1$s na %2$s"</string>
+    <string name="uv_powered_by_uservoice">"Omogućava UserVoice"</string>
+    <string name="uv_ranked">"Ocijenjeno %1$s"</string>
+    <string name="uv_remove_votes">"Daljinsko glasovanje"</string>
+    <string name="uv_select_none">"(ništa)"</string>
+    <string name="uv_select_one">"Odaberi jedno"</string>
+    <string name="uv_send_message">"Pošalji poruku"</string>
+    <string name="uv_signin_dialog_ok">"Prijava"</string>
+    <string name="uv_signin_dialog_title">"Prijava"</string>
+    <string name="uv_status_format">"Stanje: %1$s"</string>
+    <string name="uv_submit_idea">"Pošalji ideju"</string>
+    <string name="uv_subscribe">"Upiši se"</string>
+    <string name="uv_subscribe_dialog_title">"Prati ovu ideju"</string>
+    <string name="uv_suggestion_instant_answer_question">"Je li vam ova ideja pomogla?"</string>
+    <string name="uv_thanks">"Hvala!"</string>
+    <string name="uv_unhelpful_article_message_question">"Želite li nam poslati poruku?"</string>
+    <string name="uv_value">"Vrijednost"</string>
+    <string name="uv_very_yes">"Da!"</string>
+    <string name="uv_yes">"Da"</string>
+    <string name="uv_your_email_address">"Vaša adresa e-pošte"</string>
+    <string name="uv_your_name">"Vaše ime"</string>
+</resources>

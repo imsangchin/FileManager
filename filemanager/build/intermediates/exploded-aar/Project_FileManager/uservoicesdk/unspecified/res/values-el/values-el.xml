@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="uf_sdk_number_of_subscribers_format">
+        <item quantity="one">"Αυτό το θέμα αρέσει σε %1$s"</item>
+        <item quantity="other">"Αυτό το θέμα αρέσει σε %1$s"</item>
+    </plurals>
+    <plurals name="uf_sdk_topics">
+        <item quantity="one">"θέμα"</item>
+        <item quantity="other">"θέματα"</item>
+    </plurals>
+    <plurals name="uv_comments">
+        <item quantity="one">"σχόλιο"</item>
+        <item quantity="other">"σχόλια"</item>
+    </plurals>
+    <plurals name="uv_number_of_subscribers_format">
+        <item quantity="one">"%1$s θέλει αυτήν την ιδέα"</item>
+        <item quantity="other">"%1$s θέλουν αυτήν την ιδέα"</item>
+    </plurals>
+    <plurals name="uv_people">
+        <item quantity="one">"άτομο"</item>
+        <item quantity="other">"άνθρωποι"</item>
+    </plurals>
+    <plurals name="uv_subscribers">
+        <item quantity="one">"συνδρομητής"</item>
+        <item quantity="other">"συνδρομητές"</item>
+    </plurals>
+    <string description="label for trending searches" maxwidth="-1" name="trending_searches">"Δημοφιλείς αναζητήσεις"</string>
+    <string name="uf_sdk_already_give_5star">"Δώσατε ήδη βαθμολογία 5 αστέρων"</string>
+    <string description="%d is a number, don&apos;t translate" name="uf_sdk_article_read_count">"%d προβολές"</string>
+    <string name="uf_sdk_attachment_format_warning">"Λανθασμένη μορφή αρχείου. Μπορεί να επισυναφθεί μόνο αρχείο εικόνας."</string>
+    <string name="uf_sdk_attachment_total_size">"Σύνολο"</string>
+    <string name="uf_sdk_attachment_warning">"Το μέγεθος του συνημμένου υπερβαίνει το επιτρεπόμενο όριο"</string>
+    <string maxwidth="-1" name="uf_sdk_cancel_btn_content">"Άκυρο"</string>
+    <string name="uf_sdk_choosertitle_sharevia">"Κοινή χρήση μέσω"</string>
+    <string name="uf_sdk_connection_error_msg">"Η σύνδεση ματαιώθηκε από τον διακομιστή. Προσπαθήστε αργότερα."</string>
+    <string name="uf_sdk_connection_error_title">"Σφάλμα σύνδεσης"</string>
+    <string name="uf_sdk_discard">"Απόρριψη"</string>
+    <string name="uf_sdk_email_illigal">"Η διεύθυνση e-mail χρησιμοποιείται ήδη"</string>
+    <string maxwidth="-1" name="uf_sdk_empty_notification">"Κενό :)"</string>
+    <string name="uf_sdk_faq">"Συχνές ερωτήσεις (FAQ)"</string>
+    <string name="uf_sdk_feedback_and_help">"Σχόλια και βοήθεια"</string>
+    <string name="uf_sdk_forum_description">"Πάρτε μέρος στις συζητήσεις με χρήστες προϊόντων ASUS για να βρείτε λύσεις και να μοιραστείτε τις δικές σας"</string>
+    <string maxwidth="-1" name="uf_sdk_grant_permission_title">"Παραχώρηση άδειας"</string>
+    <string name="uf_sdk_help">"Βοήθεια"</string>
+    <string name="uf_sdk_instant_answer_question">"Σας βοήθησε αυτή η Ε&amp;Α;"</string>
+    <string name="uf_sdk_like">"Like"</string>
+    <string maxwidth="-1" name="uf_sdk_message">"Ειδοποιήσεις"</string>
+    <string name="uf_sdk_msg_bad_email_format">"Η διεύθυνση e-mail δεν είναι έγκυρη, προσπαθήστε ξανά."</string>
+    <string name="uf_sdk_msg_confirm_discard_topic">"Το πρόχειρο δεν θα αποθηκευτεί. Θέλετε να το διαγράψετε ούτως ή άλλως;"</string>
+    <string name="uf_sdk_msg_confirm_discard_topic_title">"Διαγραφή ανάρτησης;"</string>
+    <string name="uf_sdk_msg_subscribe">"Η εγγραφή για ενημέρωση σχετικά με την κατάσταση του θέματος θα σας αποσταλεί μέσω e-mail."</string>
+    <string name="uf_sdk_msg_subscribe_success">"Επιτυχής εγγραφή"</string>
+    <string name="uf_sdk_msg_ticket_created">"Το σχόλιό σας στάλθηκε με επιτυχία στην ASUS"</string>
+    <string name="uf_sdk_msg_topic_created">"Δημοσιεύτηκε με επιτυχία"</string>
+    <string name="uf_sdk_msg_unsubscribe">"Επιτυχής κατάργηση εγγραφής"</string>
+    <string name="uf_sdk_name_hint">"Εισάγετε το όνομά σας"</string>
+    <string name="uf_sdk_name_illigal">"Το όνομα χρήστη χρησιμοποιείται ήδη"</string>
+    <string name="uf_sdk_network_error">"Δεν υπάρχει σύνδεση στο Internet, ελέγξτε τις ρυθμίσεις δικτύου που χρησιμοποιείτε."</string>
+    <string description="zenui news" maxwidth="" name="uf_sdk_news">"Νέα"</string>
+    <string name="uf_sdk_no_network_connection_content">"Η σύνδεση ματαιώθηκε από τον διακομιστή. Προσπαθήστε αργότερα."</string>
+    <string name="uf_sdk_no_network_connection_title">"Σφάλμα σύνδεσης"</string>
+    <string name="uf_sdk_nothing_found">"Δεν βρέθηκε τίποτα"</string>
+    <string name="uf_sdk_notice">"Γνωστοποίηση"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category1">"Ανακοινώσεις"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category2">"Εκπαιδευτικά βοηθήματα και συμβουλές"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category3">"Προωθητικές ενέργειες"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category4">"Εκδηλώσεις"</string>
+    <string name="uf_sdk_publish_an_topic">"Δημοσίευση νέου θέματος"</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_rate_now">"Αξιολόγηση τώρα"</string>
+    <string description="%s is AP name, don&apos;t translate" maxWidth="" name="uf_sdk_rate_us_detail">"Αν σας αρέσει η χρήση του %s, αξιολογήστε μας με 5 αστέρια στο Play Store."</string>
+    <string maxWidth="" name="uf_sdk_rate_us_detail_new">"Η υποστήριξή σας με αξιολόγηση 5 αστέρων θα μας δώσει έμπνευση ώστε να συνεχίσουμε τη δουλειά μας!"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_rating">"Αξιολόγηση 5 αστέρων"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title">"Αξιολογήστε μας!"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title_new">"Ενθαρρύνετέ μας!"</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_scroll_up_toast">"Κάντε κύλιση προς τα επάνω για να αξιολογήσετε"</string>
+    <string name="uf_sdk_search_hint">"Αναζήτηση στη βοήθεια"</string>
+    <string name="uf_sdk_select_common_bug">"Επιλέξτε σύνηθες σφάλμα"</string>
+    <string name="uf_sdk_send_feedback">"Αποστολή σχολίων"</string>
+    <string name="uf_sdk_send_feedback_help">"Το σχόλιο και η διεύθυνση e-mail σας θα σταλούν στην ASUS. Η ομάδα εξυπηρέτησης θα επικοινωνήσει μαζί σας μέσω e-mail."</string>
+    <string maxwidth="-1" name="uf_sdk_setting_btn_content">"Ρυθμίσεις"</string>
+    <string description="recommend title" maxwidth="" name="uf_sdk_settings_encourage_us_title">"Ενθαρρύνετέ μας"</string>
+    <string maxwidth="-1" name="uf_sdk_storage_permission_description">"Αυτή η λειτουργικότητα χρειάζεται άδεια για τον χώρο αποθήκευσης ώστε να έχει πρόσβαση στα αρχεία πολυμέσων. \n\nΕάν θέλετε να ενεργοποιήσετε αυτήν τη λειτουργικότητα, πατήστε το κουμπί Ρυθμίσεις για να μεταβείτε στη σελίδα Ρυθμίσεις της εφαρμογής και κατόπιν κάντε τις κατάλληλες επιλογές στις \"Πληροφορίες εφαρμογής\" > \"Άδειες\" για να παραχωρήσετε την άδεια.\n"</string>
+    <string name="uf_sdk_submit_topic">"Δημοσίευση"</string>
+    <string name="uf_sdk_subscribe_dialog_title">"Εγγραφή σε αυτό το θέμα"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_answered">"Απαντήθηκε"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_completed">"ολοκληρώθηκε"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_declined">"απορρίφθηκε"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_implemented">"Υλοποιήθηκε"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_planned">"προγραμματίστηκε"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_under_review">"υπό εξέταση"</string>
+    <string name="uf_sdk_thanks_for_your_feedback">"Ευχαριστούμε για τα σχόλιά σας!"</string>
+    <string description="%s is a application name, don&apos;t translate" name="uf_sdk_ticket_hint">"Εισαγωγή σχολίων για το %s"</string>
+    <string name="uf_sdk_title_topic">"Θέμα"</string>
+    <string name="uf_sdk_topic">"Θέμα"</string>
+    <string name="uf_sdk_topic_description_heading">"Περιγραφή"</string>
+    <string name="uf_sdk_topic_description_hint">"Περιγράψτε με λεπτομέρειες το θέμα σας"</string>
+    <string name="uf_sdk_topic_filter">"ΘΕΜΑΤΑ"</string>
+    <string name="uf_sdk_topic_form_help">"Όταν δημοσιεύετε ένα θέμα στο φόρουμ χρηστών, άλλοι χρήστες θα μπορούν να εγγραφούν και να κάνουν σχόλια. Επιπλέον, όταν η ομάδα ανάπτυξης της ASUS απαντήσει στο θέμα, θα ενημερωθείτε μέσω e-mail."</string>
+    <string name="uf_sdk_topic_form_title">"Δημοσίευση νέου θέματος"</string>
+    <string name="uf_sdk_topic_text_heading">"Φόρουμ"</string>
+    <string name="uf_sdk_topic_text_hint">"Πληκτρολογήστε τον τίτλο του θέματος"</string>
+    <string name="uf_sdk_topic_title">"Τίτλος"</string>
+    <string name="uf_sdk_translation_10117605">"Θέμα μετάφρασης"</string>
+    <string name="uf_sdk_translation_117562">"Τύπος σχολίου"</string>
+    <string name="uf_sdk_translation_2529543">"Αναφορά σφάλματος"</string>
+    <string name="uf_sdk_translation_2529544">"Λοιπά"</string>
+    <string name="uf_sdk_translation_2530478">"Πρόταση"</string>
+    <string name="uf_sdk_unhelpful_article_message_question">"Θέλετε να στείλετε σχόλια στην ομάδα ανάπτυξης της ASUS;"</string>
+    <string name="uf_sdk_user_forum">"Φόρουμ χρηστών"</string>
+    <string name="uf_sdk_warning">"Προειδοποίηση"</string>
+    <string name="uf_sdk_wifi_settings">"Ρυθμίσεις Wi-Fi"</string>
+    <string name="uf_sdk_wlan_settings">"Ρυθμίσεις WLAN"</string>
+    <string name="uf_sdk_write_your_feedback">"Εισάγετε εδώ τα σχόλιά σας"</string>
+    <string name="uf_sdk_your_draft_will_be_discarded">"Το πρόχειρό σας θα απορριφθεί."</string>
+    <string description="description for empty search result" maxwidth="-1" name="unable_to_find_artlcles">"Αδυναμία εύρεσης άρθρων σχετιζόμενων με \u0022%s\u0022"</string>
+    <string name="uv_admin_response_format">"Απόκριση διαχειριστή: %1$s"</string>
+    <string name="uv_all_articles">"Όλα τα άρθρα"</string>
+    <string name="uv_all_results_filter">"ΟΛΑ"</string>
+    <string name="uv_android_sdk">Android SDK</string>
+    <string name="uv_article_browse_question">"Σας βοήθησε αυτό το άρθρο;"</string>
+    <string name="uv_article_instant_answer_question">"Σας βοήθησε αυτή η Ε&amp;Α;"</string>
+    <string name="uv_cancel">"Άκυρο"</string>
+    <string name="uv_category">"Κατηγορία"</string>
+    <string name="uv_close">"Κλείσιμο"</string>
+    <string name="uv_comment_hint">"Εισάγετε το σχόλιό σας"</string>
+    <string name="uv_confirm">"Επιβεβαίωση"</string>
+    <string name="uv_contact_continue_button">"Συνεχίζω να θέλω να στείλω ένα μήνυμα"</string>
+    <string name="uv_contact_hint">"Εισάγετε την ερώτηση ή τα σχόλιά σας"</string>
+    <string name="uv_contact_us">"Επικοινωνήστε μαζί μας"</string>
+    <string name="uv_display_name">"Εμφανιζόμενο όνομα"</string>
+    <string name="uv_email_address">"Διεύθυνση e-mail"</string>
+    <string name="uv_email_address_hint">"το@email-σας.com (απαιτείται)"</string>
+    <string name="uv_error">"Σφάλμα"</string>
+    <string name="uv_failed_signin_error">"Λανθασμένο e-mail ή κωδικός πρόσβασης"</string>
+    <string name="uv_forgot_password">"Ξεχάσατε τον κωδικό πρόσβασης;"</string>
+    <string name="uv_helpful_article_message_question">"Θέλετε ακόμη να στείλετε ένα μήνυμα;"</string>
+    <string name="uv_i_want_this">"Το θέλω!"</string>
+    <string name="uv_idea_description_heading">"Περιγράψτε την ιδέα σας με περισσότερη λεπτομέρεια"</string>
+    <string name="uv_idea_description_hint">"(προαιρετικά)"</string>
+    <string name="uv_idea_text_heading">"Σας συστήνω…"</string>
+    <string name="uv_loading">"Φόρτωση…"</string>
+    <string name="uv_matching_articles">"Άρθρα που ταιριάζουν"</string>
+    <string name="uv_matching_articles_and_ideas">"Άρθρα και ιδέες που ταιριάζουν"</string>
+    <string name="uv_menu_attach">"Επισύναψη"</string>
+    <string name="uv_menu_search">"Αναζήτηση"</string>
+    <string name="uv_msg_bad_email_format">"Εισάγετε μια έγκυρη διεύθυνση e-mail."</string>
+    <string name="uv_msg_comment_posted">"Το σχόλιό σας αναρτήθηκε"</string>
+    <string name="uv_msg_confirm_discard_message">"Είστε βέβαιοι ότι θέλετε να απορρίψετε το μήνυμά σας;"</string>
+    <string name="uv_msg_custom_fields_validation">"Συμπληρώστε όλα τα απαιτούμενα πεδία."</string>
+    <string name="uv_msg_forgot_password">"Απεστάλη e-mail για τον ξεχασμένο κωδικό πρόσβασης"</string>
+    <string name="uv_msg_idea_created">"Η ιδέα σας δημιουργήθηκε"</string>
+    <string name="uv_msg_ticket_created">"Το μήνυμά σας απεστάλη"</string>
+    <string name="uv_msg_user_identity_validation">"Εισάγετε τη διεύθυνση e-mail σας"</string>
+    <string name="uv_name_hint">"“Ανώνυμος”"</string>
+    <string name="uv_network_error">"Συνέβη κάποιο σφάλμα κατά τη σύνδεση στο UserVoice"</string>
+    <string name="uv_nevermind">"Δεν πειράζει"</string>
+    <string name="uv_new_comment">"Νέο σχόλιο"</string>
+    <string name="uv_next">"Επόμενο"</string>
+    <string name="uv_no">"Όχι"</string>
+    <string name="uv_none_of_these_help">"Τίποτα από αυτά δεν βοήθησε"</string>
+    <string name="uv_password">"Κωδικός πρόσβασης"</string>
+    <string name="uv_password_dialog_title">"Εισάγετε τον κωδικό πρόσβασής σας"</string>
+    <string name="uv_portal_title">"Βοήθεια"</string>
+    <string name="uv_post_a_comment">"Δημοσίευση σχολίου"</string>
+    <string name="uv_post_comment">"Ανάρτηση σχολίου"</string>
+    <string name="uv_posted_by_format">"Αναρτήθηκε από %1$s στις %2$s"</string>
+    <string name="uv_powered_by_uservoice">"Παρέχεται από την UserVoice"</string>
+    <string name="uv_ranked">"Αξιολογήθηκε ως %1$s"</string>
+    <string name="uv_remove_votes">"Κατάργηση ψήφων"</string>
+    <string name="uv_select_none">"(κανένα)"</string>
+    <string name="uv_select_one">"Επιλέξτε ένα"</string>
+    <string name="uv_send_message">"Αποστολή μηνύματος"</string>
+    <string name="uv_signin_dialog_ok">"Σύνδεση"</string>
+    <string name="uv_signin_dialog_title">"Σύνδεση"</string>
+    <string name="uv_status_format">"Κατάσταση: %1$s"</string>
+    <string name="uv_submit_idea">"Υποβολή ιδέας"</string>
+    <string name="uv_subscribe">"Εγγραφή"</string>
+    <string name="uv_subscribe_dialog_title">"Εγγραφή σε αυτήν την ιδέα"</string>
+    <string name="uv_suggestion_instant_answer_question">"Σας βοήθησε αυτή η ιδέα;"</string>
+    <string name="uv_thanks">"Ευχαριστούμε!"</string>
+    <string name="uv_unhelpful_article_message_question">"Θέλετε να μας στείλετε ένα μήνυμα;"</string>
+    <string name="uv_value">"Τιμή"</string>
+    <string name="uv_very_yes">"Ναι!"</string>
+    <string name="uv_yes">"Ναι"</string>
+    <string name="uv_your_email_address">"Η διεύθυνση e-mail σας"</string>
+    <string name="uv_your_name">"Το όνομά σας"</string>
+</resources>

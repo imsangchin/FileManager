@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Sylvia Cheng, 2016/03/22, Setting page -->
+    <string name="action_settings" description="menu title for setting" maxwidth="-1">"Setări"</string>
+    <string name="setting_view_group">"Vizualizare setări"</string>
+    <string name="setting_view_hide_files">"Ascunde fiş. de sistem"</string>
+    <string name="setting_notification_group">"Notificare"</string>
+    <string name="setting_notification_large_files">"Notificare fişiere mari"</string>
+    <string name="setting_notification_recent_files">"Notificare fiş. recente"</string>
+    <string name="setting_notification_wireless_transfer">"Notificare transfer wireless"</string>
+    <string name="setting_display_group">"Afişaj"</string>
+    <string name="tools_storage_analyzer">"Analizor stocare"</string>
+    <string name="tools_zenui_instant_update">"Actualizare instant"</string>
+    <string name="category_others">"Altele"</string>
+    <string name="large_files_content_hint">"Găseşte fişierele mari şi le şterge cu acceptul dvs."</string>
+    <string name="recent_files_content_hint">"Găseşte fişierele recente şi le şterge cu acceptul dvs."</string>
+    <string name="fragment_analyzer_more_hint">"mai multe"</string>
+    <string name="fragment_analyzer_chart_total_hint">"Total:"</string>
+    <string name="fragment_analyzer_chart_free_hint">"Disponibilă:"</string>
+    <string name="fragment_analyzer_chart_used_hint">"UTILIZAŢI"</string>
+    <string name="fragment_analyzer_allfiles_used_hint">"Utilizaţi:"</string>
+    <string name="news_v31" maxwidth="">"Analizorul stocare vă permite să aflaţi ce tipuri de fişiere vă ocupă spaţiul de stocare"</string>
+    <string name="news_v32" maxwidth="">"Categorie apl. recent-optimizate"</string>
+</resources>

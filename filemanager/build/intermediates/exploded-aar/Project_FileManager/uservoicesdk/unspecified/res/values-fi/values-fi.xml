@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="uf_sdk_number_of_subscribers_format">
+        <item quantity="one">"%1$s tykkää tästä aiheesta"</item>
+        <item quantity="other">"%1$s tykkää tästä aiheesta"</item>
+    </plurals>
+    <plurals name="uf_sdk_topics">
+        <item quantity="one">"aihe"</item>
+        <item quantity="other">"aiheet"</item>
+    </plurals>
+    <plurals name="uv_comments">
+        <item quantity="one">"kommentti"</item>
+        <item quantity="other">"kommentit"</item>
+    </plurals>
+    <plurals name="uv_number_of_subscribers_format">
+        <item quantity="one">"%1$s haluaa tämän idean"</item>
+        <item quantity="other">"%1$s haluaa tämän idean"</item>
+    </plurals>
+    <plurals name="uv_people">
+        <item quantity="one">"henkilö"</item>
+        <item quantity="other">"henkilöt"</item>
+    </plurals>
+    <plurals name="uv_subscribers">
+        <item quantity="one">"tilaaja"</item>
+        <item quantity="other">"tilaajat"</item>
+    </plurals>
+    <string description="label for trending searches" maxwidth="-1" name="trending_searches">"Suositut haut"</string>
+    <string name="uf_sdk_already_give_5star">"5 tähden luokitus on jo annettu"</string>
+    <string description="%d is a number, don&apos;t translate" name="uf_sdk_article_read_count">"%d näkymää"</string>
+    <string name="uf_sdk_attachment_format_warning">"Väärä tiedostoformaatti. Voit liittää vain kuvatiedoston"</string>
+    <string name="uf_sdk_attachment_total_size">"Yhteensä"</string>
+    <string name="uf_sdk_attachment_warning">"Liitteen koko ylittää sallitun rajan"</string>
+    <string maxwidth="-1" name="uf_sdk_cancel_btn_content">"Peruuta"</string>
+    <string name="uf_sdk_choosertitle_sharevia">"Jaa sovelluksessa"</string>
+    <string name="uf_sdk_connection_error_msg">"Palvelin keskeytti yhteyden. Yritä myöhemmin uudelleen."</string>
+    <string name="uf_sdk_connection_error_title">"Yhteysvirhe"</string>
+    <string name="uf_sdk_discard">"Poista"</string>
+    <string name="uf_sdk_email_illigal">"Sähköpostiosoite on jo käytössä"</string>
+    <string maxwidth="-1" name="uf_sdk_empty_notification">"Tyhjä :)"</string>
+    <string name="uf_sdk_faq">"Usein kysyttyä"</string>
+    <string name="uf_sdk_feedback_and_help">"Palaute ja ohje"</string>
+    <string name="uf_sdk_forum_description">"Liity keskusteluun ASUS-käyttäjien kanssa löytääksesi ja jakaaksesi ratkaisuja"</string>
+    <string maxwidth="-1" name="uf_sdk_grant_permission_title">"Anna sovellukselle lupa"</string>
+    <string name="uf_sdk_help">"Ohje"</string>
+    <string name="uf_sdk_instant_answer_question">"Oliko näistä Usein kysytyistä kysymyksistä apua?"</string>
+    <string name="uf_sdk_like">"Tykkää"</string>
+    <string maxwidth="-1" name="uf_sdk_message">"llmoitukset"</string>
+    <string name="uf_sdk_msg_bad_email_format">"Sähköpostiosoite ei kelpaa. Yritä uudelleen."</string>
+    <string name="uf_sdk_msg_confirm_discard_topic">"Luonnostasi ei tallenneta. Haluatko kuitenkin poistaa sen?"</string>
+    <string name="uf_sdk_msg_confirm_discard_topic_title">"Poistetaanko viesti?"</string>
+    <string name="uf_sdk_msg_subscribe">"Aiheen tilailmoitushuomautus toimitetaan sinulle sähköpostitse."</string>
+    <string name="uf_sdk_msg_subscribe_success">"Tilaus onnistui"</string>
+    <string name="uf_sdk_msg_ticket_created">"Palautteesi lähettäminen ASUS-yhtiölle onnistui."</string>
+    <string name="uf_sdk_msg_topic_created">"Julkaisu onnistui"</string>
+    <string name="uf_sdk_msg_unsubscribe">"Tilauksen peruminen onnistui"</string>
+    <string name="uf_sdk_name_hint">"Syötä nimesi"</string>
+    <string name="uf_sdk_name_illigal">"Käyttäjänimi on jo käytössä"</string>
+    <string name="uf_sdk_network_error">"Ei internet-yhteyttä. Tarkista verkkoasetuksesi."</string>
+    <string description="zenui news" maxwidth="" name="uf_sdk_news">"Uutiset"</string>
+    <string name="uf_sdk_no_network_connection_content">"Palvelu lopetti yhteyden. Yritä uudestaan myöhemmin"</string>
+    <string name="uf_sdk_no_network_connection_title">"Ei verkkoyhteyttä"</string>
+    <string name="uf_sdk_nothing_found">"Mitään ei löytynyt"</string>
+    <string name="uf_sdk_notice">"Ilmoitus"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category1">"Ilmoitukset"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category2">"Oppitunnit &amp; vinkit"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category3">"Promootiot"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category4">"Tapahtumat"</string>
+    <string name="uf_sdk_publish_an_topic">"Julkaise uusi aihe"</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_rate_now">"Luokittele nyt"</string>
+    <string description="%s is AP name, don&apos;t translate" maxWidth="" name="uf_sdk_rate_us_detail">"Jos pidät %s:n käyttämisestä, anna meille 5 tähteä Play Store -kaupassa."</string>
+    <string maxWidth="" name="uf_sdk_rate_us_detail_new">"5 tähden luokituksen antaminen inspiroi meitä jatkamaan työtämme!"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_rating">"5 tähden luokitus"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title">"Arvioi meidät!"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title_new">"Rohkaise meitä!"</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_scroll_up_toast">"Vieritä ylös antaaksesi arvio"</string>
+    <string name="uf_sdk_search_hint">"Hae apua"</string>
+    <string name="uf_sdk_select_common_bug">"Valitse yleinen virhe"</string>
+    <string name="uf_sdk_send_feedback">"Lähetä palautetta"</string>
+    <string name="uf_sdk_send_feedback_help">"Palautteesi ja sähköpostiosoitteesi lähetetään ASUS-yhtiölle. Palvelutiimi ottaa sinuun yhteyttä sähköpostitse."</string>
+    <string maxwidth="-1" name="uf_sdk_setting_btn_content">"Asetukset"</string>
+    <string description="recommend title" maxwidth="" name="uf_sdk_settings_encourage_us_title">"Rohkaise meitä"</string>
+    <string maxwidth="-1" name="uf_sdk_storage_permission_description">"Tämän toiminnallisuuden on saatava säilytyslupa päästäkseen multimediatiedostoihin. \n\nJos haluat ottaa tämän toiminnallisuuden käyttöön, napauta Asetukset-painiketta päästäksesi sovelluksen Asetukset-sivulle, sitten aseta \"Sovellustiedot\" > \"Luvat\" antaaksesi luvan.\n"</string>
+    <string name="uf_sdk_submit_topic">"Julkaise"</string>
+    <string name="uf_sdk_subscribe_dialog_title">"Tilaa tämä aihe"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_answered">"Vastattu"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_completed">"valmis"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_declined">"kieltäydytty"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_implemented">"Toteutettu"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_planned">"suunniteltu"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_under_review">"tarkistettavana"</string>
+    <string name="uf_sdk_thanks_for_your_feedback">"Kiitos palautteesta!"</string>
+    <string description="%s is a application name, don&apos;t translate" name="uf_sdk_ticket_hint">"Syötä palautteet kohteelle %s"</string>
+    <string name="uf_sdk_title_topic">"Aihe"</string>
+    <string name="uf_sdk_topic">"Aihe"</string>
+    <string name="uf_sdk_topic_description_heading">"Kuvaus"</string>
+    <string name="uf_sdk_topic_description_hint">"Kuvaile aiheesi yksityiskohtaisesti"</string>
+    <string name="uf_sdk_topic_filter">"AIHEET"</string>
+    <string name="uf_sdk_topic_form_help">"Kun julkaiset aiheen käyttäjäfoorumilla, muut käyttäjät voivat tilata sen ja kommentoida sitä. Kun ASUS-kehitystiimi reagoi aiheeseen, sinulle ilmoitetaan sähköpostitse."</string>
+    <string name="uf_sdk_topic_form_title">"Julkaise uusi aihe"</string>
+    <string name="uf_sdk_topic_text_heading">"Foorumi"</string>
+    <string name="uf_sdk_topic_text_hint">"Kirjoita aiheesi otsikko"</string>
+    <string name="uf_sdk_topic_title">"Otsikko"</string>
+    <string name="uf_sdk_translation_10117605">"Käännösongelma"</string>
+    <string name="uf_sdk_translation_117562">"Palautetyyppi"</string>
+    <string name="uf_sdk_translation_2529543">"Virheraportti"</string>
+    <string name="uf_sdk_translation_2529544">"Muut"</string>
+    <string name="uf_sdk_translation_2530478">"Ehdotus"</string>
+    <string name="uf_sdk_unhelpful_article_message_question">"Haluatko lähettää palautetta ASUS-kehitystiimille?"</string>
+    <string name="uf_sdk_user_forum">"Käyttäjäfoorumi"</string>
+    <string name="uf_sdk_warning">"Varoitus"</string>
+    <string name="uf_sdk_wifi_settings">"Wi-Fi-asetukset"</string>
+    <string name="uf_sdk_wlan_settings">"WLAN-asetukset"</string>
+    <string name="uf_sdk_write_your_feedback">"Syötä palautteet tässä"</string>
+    <string name="uf_sdk_your_draft_will_be_discarded">"Ensiversiosi poistetaan."</string>
+    <string description="description for empty search result" maxwidth="-1" name="unable_to_find_artlcles">"Ei löydy hakuun \u0022%s\u0022 liittyviä artikkeleja"</string>
+    <string name="uv_admin_response_format">"Pääkäyttäjän vastaus: %1$s"</string>
+    <string name="uv_all_articles">"Kaikki artikkelit"</string>
+    <string name="uv_all_results_filter">"KAIKKI"</string>
+    <string name="uv_android_sdk">Android SDK</string>
+    <string name="uv_article_browse_question">"Oliko artikkelista apua?"</string>
+    <string name="uv_article_instant_answer_question">"Oliko näistä Usein kysytyistä kysymyksistä apua?"</string>
+    <string name="uv_cancel">"Peruuta"</string>
+    <string name="uv_category">"Kategoria"</string>
+    <string name="uv_close">"Sulje"</string>
+    <string name="uv_comment_hint">"Syötä kommentti"</string>
+    <string name="uv_confirm">"Varmista"</string>
+    <string name="uv_contact_continue_button">"Haluan edelleen lähettää viestin"</string>
+    <string name="uv_contact_hint">"Syötä kysymykset tai palaute"</string>
+    <string name="uv_contact_us">"Ota yhteyttä"</string>
+    <string name="uv_display_name">"Näytä nimi"</string>
+    <string name="uv_email_address">"Sähköpostiosoite"</string>
+    <string name="uv_email_address_hint">"oma@osoitteesi.fi (vaaditaan)"</string>
+    <string name="uv_error">"Virhe"</string>
+    <string name="uv_failed_signin_error">"Väärä sähköposti tai salasana"</string>
+    <string name="uv_forgot_password">"Salasana unohdettu"</string>
+    <string name="uv_helpful_article_message_question">"Haluatko edelleen lähettää viestin?"</string>
+    <string name="uv_i_want_this">"Haluan tämän!"</string>
+    <string name="uv_idea_description_heading">"Kuvaile ideaasi yksityiskohtaisemmin"</string>
+    <string name="uv_idea_description_hint">"(valinnainen)"</string>
+    <string name="uv_idea_text_heading">"Ehdotan sinulle…"</string>
+    <string name="uv_loading">"Lataa..."</string>
+    <string name="uv_matching_articles">"Soveltuvat artikkelit"</string>
+    <string name="uv_matching_articles_and_ideas">"Soveltuvat artikkelit ja ideat"</string>
+    <string name="uv_menu_attach">"Liitä"</string>
+    <string name="uv_menu_search">"Haku"</string>
+    <string name="uv_msg_bad_email_format">"Syötä käyttökelpoinen sähköpostiosoite."</string>
+    <string name="uv_msg_comment_posted">"Kommenttisi on lähetetty"</string>
+    <string name="uv_msg_confirm_discard_message">"Oletko varma, että haluat poistaa viestisi?"</string>
+    <string name="uv_msg_custom_fields_validation">"Täytä kaikki vaaditut kentät."</string>
+    <string name="uv_msg_forgot_password">"Unohdetun salasanan palautussähköposti on lähetetty"</string>
+    <string name="uv_msg_idea_created">"Ideasi on luotu"</string>
+    <string name="uv_msg_ticket_created">"Viestisi on lähetetty"</string>
+    <string name="uv_msg_user_identity_validation">"Syötä sähköpostiosoitteesi"</string>
+    <string name="uv_name_hint">"“Anonyymi”"</string>
+    <string name="uv_network_error">"UserVoiceen yhdistämisessä oli virhe"</string>
+    <string name="uv_nevermind">"Ei väliä"</string>
+    <string name="uv_new_comment">"Uusi kommentti"</string>
+    <string name="uv_next">"Seuraava"</string>
+    <string name="uv_no">"Ei"</string>
+    <string name="uv_none_of_these_help">"Mikään näistä ei auta"</string>
+    <string name="uv_password">"Salasana"</string>
+    <string name="uv_password_dialog_title">"Syötä salasanasi"</string>
+    <string name="uv_portal_title">"Ohje"</string>
+    <string name="uv_post_a_comment">"Lähetä kommentti"</string>
+    <string name="uv_post_comment">"Lähetä kommentti"</string>
+    <string name="uv_posted_by_format">"%1$s on lähettänyt kommentin päivänä %2$s"</string>
+    <string name="uv_powered_by_uservoice">"UserVoice-käyttöinen"</string>
+    <string name="uv_ranked">"Järjestyksessä %1$s"</string>
+    <string name="uv_remove_votes">"Poista äänet"</string>
+    <string name="uv_select_none">"(ei ole)"</string>
+    <string name="uv_select_one">"Valitse yksi"</string>
+    <string name="uv_send_message">"Lähetä viesti"</string>
+    <string name="uv_signin_dialog_ok">"Kirjaudu sisään"</string>
+    <string name="uv_signin_dialog_title">"Kirjaudu sisään"</string>
+    <string name="uv_status_format">"Tila: %1$s"</string>
+    <string name="uv_submit_idea">"Lähetä idea"</string>
+    <string name="uv_subscribe">"Tilaa"</string>
+    <string name="uv_subscribe_dialog_title">"Tilaa idea"</string>
+    <string name="uv_suggestion_instant_answer_question">"Oliko ideasta apua?"</string>
+    <string name="uv_thanks">"Kiitos!"</string>
+    <string name="uv_unhelpful_article_message_question">"Haluatko lähettää meille viestin?"</string>
+    <string name="uv_value">"Arvo"</string>
+    <string name="uv_very_yes">"Kyllä!"</string>
+    <string name="uv_yes">"Kyllä"</string>
+    <string name="uv_your_email_address">"Sähköpostiosoitteesi"</string>
+    <string name="uv_your_name">"Nimesi"</string>
+</resources>

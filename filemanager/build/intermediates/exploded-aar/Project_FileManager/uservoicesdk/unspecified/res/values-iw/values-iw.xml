@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="uf_sdk_number_of_subscribers_format">
+        <item quantity="one">"%1$s אוהב את הנושא הזה"</item>
+        <item quantity="other">"%1$s אוהבים את הנושא הזה"</item>
+    </plurals>
+    <plurals name="uf_sdk_topics">
+        <item quantity="one">"נושא"</item>
+        <item quantity="other">"נושאים"</item>
+    </plurals>
+    <plurals name="uv_comments">
+        <item quantity="one">"הערה"</item>
+        <item quantity="other">"הערות"</item>
+    </plurals>
+    <plurals name="uv_number_of_subscribers_format">
+        <item quantity="one">"%1$s רוצים ברעיון זה"</item>
+        <item quantity="other">"%1$s רוצה ברעיון זה"</item>
+    </plurals>
+    <plurals name="uv_people">
+        <item quantity="one">"אדם"</item>
+        <item quantity="other">"אנשים"</item>
+    </plurals>
+    <plurals name="uv_subscribers">
+        <item quantity="one">"מנוי"</item>
+        <item quantity="other">"מנויים"</item>
+    </plurals>
+    <string description="label for trending searches" maxwidth="-1" name="trending_searches">"חיפושי מגמות"</string>
+    <string name="uf_sdk_already_give_5star">"העניק כבר דירוג של 5 כוכבים"</string>
+    <string description="%d is a number, don&apos;t translate" name="uf_sdk_article_read_count">"%d היבטים"</string>
+    <string name="uf_sdk_attachment_format_warning">"תסדיר קובץ שגוי. ניתן לצרף רק קובצי תמונה"</string>
+    <string name="uf_sdk_attachment_total_size">"סה"כ"</string>
+    <string name="uf_sdk_attachment_warning">"גודל הקובץ המצורף חורג מהמגבלה המותרת"</string>
+    <string maxwidth="-1" name="uf_sdk_cancel_btn_content">"ביטול"</string>
+    <string name="uf_sdk_choosertitle_sharevia">"שתף באמצעות"</string>
+    <string name="uf_sdk_connection_error_msg">"החיבור בוטל על ידי השרת. נסה שוב מאוחר יותר."</string>
+    <string name="uf_sdk_connection_error_title">"שגיאת חיבור"</string>
+    <string name="uf_sdk_discard">"השלך"</string>
+    <string name="uf_sdk_email_illigal">"כתובת דוא"ל כבר בשימוש"</string>
+    <string maxwidth="-1" name="uf_sdk_empty_notification">"ריק :)"</string>
+    <string name="uf_sdk_faq">"שאלות נפוצות"</string>
+    <string name="uf_sdk_feedback_and_help">"משוב ועזרה"</string>
+    <string name="uf_sdk_forum_description">"הצטרף לשיחה עם משתמשי ASUS כדי למצוא פתרונות ולשתפם"</string>
+    <string maxwidth="-1" name="uf_sdk_grant_permission_title">"הענקת הרשאה עבור"</string>
+    <string name="uf_sdk_help">"עזרה"</string>
+    <string name="uf_sdk_instant_answer_question">"האם שאלה נפוצה זו הועילה לך?"</string>
+    <string name="uf_sdk_like">"אהבתי"</string>
+    <string maxwidth="-1" name="uf_sdk_message">"התראות"</string>
+    <string name="uf_sdk_msg_bad_email_format">"כתובת הדוא"ל לא חוקית. נסה שוב."</string>
+    <string name="uf_sdk_msg_confirm_discard_topic">"הטיוטה שלך לא תישמר. האם ברצונך למחוק אותה בכל מקרה?"</string>
+    <string name="uf_sdk_msg_confirm_discard_topic_title">"למחוק את התגובה?"</string>
+    <string name="uf_sdk_msg_subscribe">"הודעת סטטוס של הנושא תישלח לך בדוא"ל."</string>
+    <string name="uf_sdk_msg_subscribe_success">"ההרשמה הצליחה"</string>
+    <string name="uf_sdk_msg_ticket_created">"המשוב שלך הועבר בהצלחה -ASUS"</string>
+    <string name="uf_sdk_msg_topic_created">"הפרסום הצליח"</string>
+    <string name="uf_sdk_msg_unsubscribe">"ביטול ההרשמה הצליח"</string>
+    <string name="uf_sdk_name_hint">"הזן שם"</string>
+    <string name="uf_sdk_name_illigal">"שם המשתמש כבר תפוס"</string>
+    <string name="uf_sdk_network_error">"אין חיבור אינטרנט, בדוק את הגדרות הרשת."</string>
+    <string description="zenui news" maxwidth="" name="uf_sdk_news">"חדשות"</string>
+    <string name="uf_sdk_no_network_connection_content">"לא ניתן לעדכן את הנתונים. בדוק את הגדרות הרשת."</string>
+    <string name="uf_sdk_no_network_connection_title">"אין חיבור לרשת"</string>
+    <string name="uf_sdk_nothing_found">"לא נמצא דבר"</string>
+    <string name="uf_sdk_notice">"הודעה"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category1">"הודעות"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category2">"מדריכים וטיפים"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category3">"מבצעים"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category4">"אירועים"</string>
+    <string name="uf_sdk_publish_an_topic">"פרסם נושא חדש"</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_rate_now">"דרג כעת"</string>
+    <string description="%s is AP name, don&apos;t translate" maxWidth="" name="uf_sdk_rate_us_detail">"אם אתה נהנה מהשימוש ב-%s, הענק לנו דירוג של 5 כוכבים ב-Play Store."</string>
+    <string maxWidth="" name="uf_sdk_rate_us_detail_new">"התמיכה שלך באמצעות דירוג של 5 כוכבים יעודד אותנו להמשיך בעבודה!"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_rating">"דירוג של 5 כוכבים"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title">"דרג אותנו!"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title_new">"עזור לנו!"</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_scroll_up_toast">"גלול כדי לדרג"</string>
+    <string name="uf_sdk_search_hint">"חיפוש"</string>
+    <string name="uf_sdk_select_common_bug">"בחר באג נפוץ"</string>
+    <string name="uf_sdk_send_feedback">"שלח משוב"</string>
+    <string name="uf_sdk_send_feedback_help">"המשוב וכתובת הדוא"ל שלך יישלחו ל-ASUS. צוות השירות יפנה אליך בדוא"ל."</string>
+    <string maxwidth="-1" name="uf_sdk_setting_btn_content">"הגדרות"</string>
+    <string description="recommend title" maxwidth="" name="uf_sdk_settings_encourage_us_title">"עזור לנו"</string>
+    <string maxwidth="-1" name="uf_sdk_storage_permission_description">"פונקציונליות זו צריכה לקבל את הרשאת האחסון לצורך קבלת גישה לקובצי המולטימדיה.\n\nאם ברצונכם להפעיל את הפונקציונליות הזו, אנא הקישו על כפתור ההגדרות כדי לעבור לעמוד הההגדרות של , ולאחר מכן הגדירו את \"פרטי האפליקציה\" ואת ה\"הרשאות\" כדי להעניק את ההרשאה.\n"</string>
+    <string name="uf_sdk_submit_topic">"פרסם"</string>
+    <string name="uf_sdk_subscribe_dialog_title">"הירשם לנושא זה"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_answered">"נענתה"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_completed">"הושלמה"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_declined">"נדחתה"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_implemented">"יושמה"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_planned">"מתוכננת"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_under_review">"בבדיקה"</string>
+    <string name="uf_sdk_thanks_for_your_feedback">"תודה על המשוב!"</string>
+    <string description="%s is a application name, don&apos;t translate" name="uf_sdk_ticket_hint">"הזן משוב עבור %s"</string>
+    <string name="uf_sdk_title_topic">"נושא"</string>
+    <string name="uf_sdk_topic">"נושא"</string>
+    <string name="uf_sdk_topic_description_heading">"תיאור"</string>
+    <string name="uf_sdk_topic_description_hint">"תאר את הנושא באופן מפורט"</string>
+    <string name="uf_sdk_topic_filter">"נושאים"</string>
+    <string name="uf_sdk_topic_form_help">"כשאתה מפרסם נושא בפורום של משתמשים, משתמשים אחרים יוכלו להירשם ולהגיב עליו. כשצוות הפיתוח של ASUS מגיב לנושא, תקבל הודעה בדוא"ל."</string>
+    <string name="uf_sdk_topic_form_title">"פרסם נושא חדש"</string>
+    <string name="uf_sdk_topic_text_heading">"פורום"</string>
+    <string name="uf_sdk_topic_text_hint">"הקלד את כותרת הנושא"</string>
+    <string name="uf_sdk_topic_title">"שם"</string>
+    <string name="uf_sdk_translation_10117605">"בעיית תרגום"</string>
+    <string name="uf_sdk_translation_117562">"סוג משוב"</string>
+    <string name="uf_sdk_translation_2529543">"דיווח על תקלה"</string>
+    <string name="uf_sdk_translation_2529544">"אחרים"</string>
+    <string name="uf_sdk_translation_2530478">"הצעה"</string>
+    <string name="uf_sdk_unhelpful_article_message_question">"האם ברצונך לשלוח משוב לצוות הפיתוח של ASUS?"</string>
+    <string name="uf_sdk_user_forum">"פורום משתמשים"</string>
+    <string name="uf_sdk_warning">"אזהרה"</string>
+    <string name="uf_sdk_wifi_settings">"הגדרות Wi-Fi"</string>
+    <string name="uf_sdk_wlan_settings">"הגדרות WLAN"</string>
+    <string name="uf_sdk_write_your_feedback">"הזן משוב כאן"</string>
+    <string name="uf_sdk_your_draft_will_be_discarded">"הטיוטה תושלך."</string>
+    <string description="description for empty search result" maxwidth="-1" name="unable_to_find_artlcles">"לא נמצאו \u0022%s\u0022 מאמרים קשורים"</string>
+    <string name="uv_admin_response_format">"תגובת מנהל מערכת: %1$s"</string>
+    <string name="uv_all_articles">"כל המאמרים"</string>
+    <string name="uv_all_results_filter">"הכול"</string>
+    <string name="uv_android_sdk">Android SDK</string>
+    <string name="uv_article_browse_question">"האם המאמר עזר?"</string>
+    <string name="uv_article_instant_answer_question">"האם שאלה נפוצה זו הועילה לך?"</string>
+    <string name="uv_cancel">"בטל"</string>
+    <string name="uv_category">"קטגוריה"</string>
+    <string name="uv_close">"סגור"</string>
+    <string name="uv_comment_hint">"הזן הערה"</string>
+    <string name="uv_confirm">"אשר"</string>
+    <string name="uv_contact_continue_button">"אני עדיין רוצה לשלוח הודעה"</string>
+    <string name="uv_contact_hint">"הזן שאלה או משוב"</string>
+    <string name="uv_contact_us">"צור קשר"</string>
+    <string name="uv_display_name">"שם תצוגה"</string>
+    <string name="uv_email_address">"כתובת דוא"ל"</string>
+    <string name="uv_email_address_hint">"your@email.com (חובה)"</string>
+    <string name="uv_error">"שגיאה"</string>
+    <string name="uv_failed_signin_error">"כתובת דוא"ל או סיסמה שגויים"</string>
+    <string name="uv_forgot_password">"שכחתי סיסמה"</string>
+    <string name="uv_helpful_article_message_question">"האם אתה עדין רוצה לשלוח הודעה?"</string>
+    <string name="uv_i_want_this">"זה מה שאני רוצה!"</string>
+    <string name="uv_idea_description_heading">"תאר את הרעיון בפירוט רב יותר"</string>
+    <string name="uv_idea_description_hint">"(אופציונלי)"</string>
+    <string name="uv_idea_text_heading">"אני מציע לכם...."</string>
+    <string name="uv_loading">"טוען..."</string>
+    <string name="uv_matching_articles">"מאמר מתאים"</string>
+    <string name="uv_matching_articles_and_ideas">"מאמרים ורעיונות מתאימים"</string>
+    <string name="uv_menu_attach">"צרף"</string>
+    <string name="uv_menu_search">"חפש"</string>
+    <string name="uv_msg_bad_email_format">"הזן כתובת דוא"ל תקינה."</string>
+    <string name="uv_msg_comment_posted">"ההערה ששלחת נרשמה"</string>
+    <string name="uv_msg_confirm_discard_message">"בטוח? האם להשליך את ההודעה?"</string>
+    <string name="uv_msg_custom_fields_validation">"עליך למלא את כל שדות החובה."</string>
+    <string name="uv_msg_forgot_password">"נשלח מכתב דוא"ל בנוגע לסיסמה שנשכחה"</string>
+    <string name="uv_msg_idea_created">"הרעיון נוצר"</string>
+    <string name="uv_msg_ticket_created">"ההודעה נשלחה"</string>
+    <string name="uv_msg_user_identity_validation">"הזן כתובת דוא"ל"</string>
+    <string name="uv_name_hint">"עלום שם"</string>
+    <string name="uv_network_error">"התגלתה שגיאה בהתחברות ליישומון UserVoice"</string>
+    <string name="uv_nevermind">"שכח מזה"</string>
+    <string name="uv_new_comment">"הערה חדשה"</string>
+    <string name="uv_next">"הבא"</string>
+    <string name="uv_no">"לא"</string>
+    <string name="uv_none_of_these_help">"אף לא אחד עזר"</string>
+    <string name="uv_password">"סיסמה"</string>
+    <string name="uv_password_dialog_title">"הזן סיסמה"</string>
+    <string name="uv_portal_title">"עזרה"</string>
+    <string name="uv_post_a_comment">"פרסם הערה"</string>
+    <string name="uv_post_comment">"פרסם הערה"</string>
+    <string name="uv_posted_by_format">"פורסם על ידי %1$s בתאריך %2$s"</string>
+    <string name="uv_powered_by_uservoice">"מופעל על ידי UserVoice"</string>
+    <string name="uv_ranked">"מדורג %1$s"</string>
+    <string name="uv_remove_votes">"מחק הצבעות"</string>
+    <string name="uv_select_none">"(ללא)"</string>
+    <string name="uv_select_one">"בחר אחד"</string>
+    <string name="uv_send_message">"שלח הודעה"</string>
+    <string name="uv_signin_dialog_ok">"היכנס"</string>
+    <string name="uv_signin_dialog_title">"היכנס"</string>
+    <string name="uv_status_format">"מצב: %1$s"</string>
+    <string name="uv_submit_idea">"הגש רעיון"</string>
+    <string name="uv_subscribe">"הירשם כמנוי"</string>
+    <string name="uv_subscribe_dialog_title">"הירשם כמנוי לרעיון"</string>
+    <string name="uv_suggestion_instant_answer_question">"האם הרעיון עוזר?"</string>
+    <string name="uv_thanks">"תודה!"</string>
+    <string name="uv_unhelpful_article_message_question">"התרצה לשלוח אלינו הודעה?"</string>
+    <string name="uv_value">"ערך"</string>
+    <string name="uv_very_yes">"כן!"</string>
+    <string name="uv_yes">"כן"</string>
+    <string name="uv_your_email_address">"כתובת הדוא"ל שלך"</string>
+    <string name="uv_your_name">"שמך"</string>
+</resources>

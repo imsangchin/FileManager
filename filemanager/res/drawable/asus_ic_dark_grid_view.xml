@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true"
+        android:drawable="@drawable/asus_ic_grid_view_click" />
+    <item android:state_enabled="true"
+        android:drawable="@drawable/asus_ic_dark_grid_view_normal" />
+</selector>

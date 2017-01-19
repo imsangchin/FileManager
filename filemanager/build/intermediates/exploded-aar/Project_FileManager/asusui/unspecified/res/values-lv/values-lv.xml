@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="alarm_set">
+        <item>"Modinātājs iestatīts mazāk par 1 minūti no šā brīža."</item>
+        <item>"Modinātājs iestatīts <ns1:g example="2" id="DAYS">%1$s</ns1:g> no šā brīža."</item>
+        <item>"Modinātājs iestatīts <ns1:g example="2" id="HOURS">%2$s</ns1:g> no šā brīža."</item>
+        <item>"Modinātājs iestatīts <ns1:g example="2" id="DAYS">%1$s</ns1:g> un <ns1:g example="2" id="HOURS">%2$s</ns1:g> no šā brīža."</item>
+        <item>"Modinātājs iestatīts <ns1:g example="2" id="MINUTES">%3$s</ns1:g> no šā brīža."</item>
+        <item>"Modinātājs iestatīts <ns1:g example="2" id="DAYS">%1$s</ns1:g> un <ns1:g example="2" id="MINUTES">%3$s</ns1:g> no šā brīža."</item>
+        <item>"Modinātājs iestatīts <ns1:g example="2" id="HOURS">%2$s</ns1:g> un <ns1:g example="2" id="MINUTES">%3$s</ns1:g> no šā brīža."</item>
+        <item>"Modinātājs iestatīts <ns1:g example="2" id="DAYS">%1$s</ns1:g>, <ns1:g example="2" id="HOURS">%2$s</ns1:g> un <ns1:g example="2" id="MINUTES">%3$s</ns1:g> no šā brīža."</item>
+    </string-array>
+    <string name="asus_commonui_activity_chooser_view_see_all">Skatīt visu</string>
+    <string name="asus_commonui_activity_resolver_use_always">Vienmēr</string>
+    <string name="asus_commonui_activity_resolver_use_once">Tikai vienreiz</string>
+    <string name="asus_commonui_activitychooserview_choose_application">Izvēlieties lietotni</string>
+    <string name="asus_commonui_activitychooserview_choose_application_error">Kļūda</string>
+    <string name="asus_commonui_cancel_label">Atcelt</string>
+    <string name="asus_commonui_chooseActivity">Izvēlieties darbību</string>
+    <string name="asus_commonui_day_picker_description">Mēneša dienu tabula</string>
+    <string name="asus_commonui_deleted_key">
+        <ns1:g example="4" id="key">%1$s</ns1:g> dzēsts</string>
+    <string name="asus_commonui_done_label">Labi</string>
+    <string name="asus_commonui_hour_picker_description">Stundu aplis</string>
+    <string name="asus_commonui_item_is_selected">
+        <ns1:g example="2013" id="item">%1$s</ns1:g> atlasīts</string>
+    <string name="asus_commonui_minute_picker_description">Minūšu aplis</string>
+    <string name="asus_commonui_noApplications">Šo darbību nevar veikt neviena lietotne.</string>
+    <string name="asus_commonui_no_url_handler">Nav atrasta neviena lietotne, kas varētu atvērt vietrādi URL.</string>
+    <string name="asus_commonui_select_day">Atlasīt mēnesi un dienu</string>
+    <string name="asus_commonui_select_hours">Atlasīt stundas</string>
+    <string name="asus_commonui_select_minutes">Atlasīt minūtes</string>
+    <string name="asus_commonui_select_year">Atlasīt gadu</string>
+    <string name="asus_commonui_shareactionprovider_share_with">Koplietot ar</string>
+    <string name="asus_commonui_shareactionprovider_share_with_application">Koplietot ar</string>
+    <string name="asus_commonui_whichApplication">Pabeigt darbību, izmantojot</string>
+    <string name="asus_commonui_whichHomeApplication">Atlasīt mājas lietotni</string>
+    <string name="asus_commonui_year_picker_description">Gada saraksts</string>
+    <string name="day">"1 diena"</string>
+    <string name="days">"<ns1:g id="days">%s</ns1:g> dienas"</string>
+    <string name="hour">"1 stunda"</string>
+    <string name="hours">"
+        <ns1:g id="hours">%s</ns1:g> stundas"</string>
+    <string name="minute">"1 minūte"</string>
+    <string name="minutes">"<ns1:g id="minutes">%s</ns1:g> minūtes"</string>
+</resources>

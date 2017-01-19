@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="alarm_set">
+        <item msgid="6450913786084215050">"アラームは今から1分以内に設定されています。"</item>
+        <item msgid="6002066367368421848">"アラームは<ns1:g id="DAYS">%1$s</ns1:g>後に設定されています。"</item>
+        <item msgid="8824719306247973774">"アラームは<ns1:g id="HOURS">%2$s</ns1:g>後に設定されています。"</item>
+        <item msgid="8182406852935468862">"アラームは<ns1:g id="DAYS">%1$s</ns1:g>と<ns1:g id="HOURS">%2$s</ns1:g>後に設定されています。"</item>
+        <item msgid="2532279224777213194">"アラームは<ns1:g id="MINUTES">%3$s</ns1:g>後に設定されています。"</item>
+        <item msgid="5936557894247187717">"アラームは<ns1:g id="DAYS">%1$s</ns1:g>と<ns1:g id="MINUTES">%3$s</ns1:g>後に設定されています。"</item>
+        <item msgid="9115697840826129603">"アラームは<ns1:g id="HOURS">%2$s</ns1:g><ns1:g id="MINUTES">%3$s</ns1:g>後に設定されています。"</item>
+        <item msgid="2332583385137381060">"アラームは<ns1:g id="DAYS">%1$s</ns1:g>と<ns1:g id="HOURS">%2$s</ns1:g><ns1:g id="MINUTES">%3$s</ns1:g>後に設定されています"</item>
+    </string-array>
+    <string name="asus_commonui_activity_chooser_view_see_all">"すべて表示"</string>
+    <string name="asus_commonui_activity_resolver_use_always">"常時"</string>
+    <string name="asus_commonui_activity_resolver_use_once">"1回のみ"</string>
+    <string name="asus_commonui_activitychooserview_choose_application">"アプリの選択"</string>
+    <string name="asus_commonui_activitychooserview_choose_application_error">
+        "<ns1:g id="APPLICATION_NAME">%s</ns1:g>を起動できませんでした"</string>
+    <string name="asus_commonui_cancel_label">"キャンセル"</string>
+    <string name="asus_commonui_chooseActivity">"操作の選択"</string>
+    <string msgid="3968620852217927702" name="asus_commonui_day_picker_description">"日グリッド（月別）"</string>
+    <string msgid="6908431551612331381" name="asus_commonui_deleted_key">"<ns1:g id="KEY">%1$s</ns1:g>を削除しました"</string>
+    <string name="asus_commonui_done_label">"OK"</string>
+    <string msgid="7586639618712934060" name="asus_commonui_hour_picker_description">"円形スライダー（時）"</string>
+    <string msgid="2674929164900463786" name="asus_commonui_item_is_selected">"<ns1:g id="ITEM">%1$s</ns1:g>を選択しました"</string>
+    <string msgid="6024811202872705251" name="asus_commonui_minute_picker_description">"円形スライダー（分）"</string>
+    <string name="asus_commonui_noApplications">"この操作を実行できるアプリはありません。"</string>
+    <string name="asus_commonui_no_url_handler">URLを開くアプリが見つかりません</string>
+    <string name="asus_commonui_privacy_policy">プライバシーポリシー</string>
+    <string name="asus_commonui_privacy_policy_url">http://www.asus.com/JP/Terms_of_Use_Notice_Privacy_Policy/Privacy_Policy</string>
+    <string msgid="3973338219107019769" name="asus_commonui_select_day">"月と日を選択"</string>
+    <string msgid="7651068754188418859" name="asus_commonui_select_hours">"時間を選択"</string>
+    <string msgid="8327182090226828481" name="asus_commonui_select_minutes">"分を選択"</string>
+    <string msgid="2603330600102539372" name="asus_commonui_select_year">"年を選択"</string>
+    <string name="asus_commonui_shareactionprovider_share_with">"共有"</string>
+    <string name="asus_commonui_shareactionprovider_share_with_application">
+        "<ns1:g id="APPLICATION_NAME">%s</ns1:g>と共有"</string>
+    <string name="asus_commonui_terms_of_use_notice">利用規約の通知</string>
+    <string name="asus_commonui_terms_of_use_notice_url">http://www.asus.com/JP/Terms_of_Use_Notice_Privacy_Policy/Official_Site/</string>
+    <string name="asus_commonui_whichApplication">"アプリケーションを選択"</string>
+    <string name="asus_commonui_whichHomeApplication">"ホームアプリを選択"</string>
+    <string msgid="6963340404644587098" name="asus_commonui_year_picker_description">"年リスト"</string>
+    <string msgid="7984755014526510295" name="day">"1日"</string>
+    <string msgid="2070509222727852210" name="days">"<ns1:g id="DAYS">%s</ns1:g>日"</string>
+    <string msgid="2546819039651509323" name="hour">"1時間"</string>
+    <string msgid="2071487018566991613" name="hours">"<ns1:g id="HOURS">%s</ns1:g>時間"</string>
+    <string msgid="2486157997434653710" name="minute">"1分"</string>
+    <string msgid="6115838729146292526" name="minutes">"<ns1:g id="MINUTES">%s</ns1:g>分"</string>
+</resources>

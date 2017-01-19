@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="uf_sdk_number_of_subscribers_format">
+        <item quantity="one">"%1$s kan lide dette emne"</item>
+        <item quantity="other">"%1$s kan lide dette emne"</item>
+    </plurals>
+    <plurals name="uf_sdk_topics">
+        <item quantity="one">"emne"</item>
+        <item quantity="other">"emner"</item>
+    </plurals>
+    <plurals name="uv_comments">
+        <item quantity="one">"kommentar"</item>
+        <item quantity="other">"kommentarer"</item>
+    </plurals>
+    <plurals name="uv_number_of_subscribers_format">
+        <item quantity="one">"%1$s ønsker denne idé"</item>
+        <item quantity="other">"%1$s ønsker denne idé"</item>
+    </plurals>
+    <plurals name="uv_people">
+        <item quantity="one">"person"</item>
+        <item quantity="other">"personer"</item>
+    </plurals>
+    <plurals name="uv_subscribers">
+        <item quantity="one">"abonnent"</item>
+        <item quantity="other">"abonnenter"</item>
+    </plurals>
+    <string description="label for trending searches" maxwidth="-1" name="trending_searches">"Tendenser i søgning"</string>
+    <string name="uf_sdk_already_give_5star">"Har du allerede givet en 5-stjernet vurdering"</string>
+    <string description="%d is a number, don&apos;t translate" name="uf_sdk_article_read_count">"%d visninger"</string>
+    <string name="uf_sdk_attachment_format_warning">"Forkert filformat. Kun billedfiler kan vedhæftes"</string>
+    <string name="uf_sdk_attachment_total_size">"I alt"</string>
+    <string name="uf_sdk_attachment_warning">"Størrelse på de vedhæftede filer overstiger den tilladte grænse"</string>
+    <string maxwidth="-1" name="uf_sdk_cancel_btn_content">"Annuller"</string>
+    <string name="uf_sdk_choosertitle_sharevia">"Del via"</string>
+    <string name="uf_sdk_connection_error_msg">"Forbindelsen blev afbrudt af serveren. Prøv senere."</string>
+    <string name="uf_sdk_connection_error_title">"Forbindelsesfejl"</string>
+    <string name="uf_sdk_discard">"Kasser"</string>
+    <string name="uf_sdk_email_illigal">"E-mailadressen er allerede i brug"</string>
+    <string maxwidth="-1" name="uf_sdk_empty_notification">"Tom :)"</string>
+    <string name="uf_sdk_faq">"Ofte stillede spørgsmål"</string>
+    <string name="uf_sdk_feedback_and_help">"Feedback og hjælp"</string>
+    <string name="uf_sdk_forum_description">"Deltag i samtalen med ASUS-brugere for at finde og dele dine løsninger"</string>
+    <string maxwidth="-1" name="uf_sdk_grant_permission_title">"Giv tilladelse"</string>
+    <string name="uf_sdk_help">"Hjælp"</string>
+    <string name="uf_sdk_instant_answer_question">"Er denne Ofte stillede spørgsmål nyttig?"</string>
+    <string name="uf_sdk_like">"Synes om"</string>
+    <string maxwidth="-1" name="uf_sdk_message">"Underretninger"</string>
+    <string name="uf_sdk_msg_bad_email_format">"E-mailadresse er ikke gyldig. Prøv igen."</string>
+    <string name="uf_sdk_msg_confirm_discard_topic">"Din kladde gemmes ikke. Vil du slette den alligevel?"</string>
+    <string name="uf_sdk_msg_confirm_discard_topic_title">"Slet post?"</string>
+    <string name="uf_sdk_msg_subscribe">"Abonnement på underretning om emnestatus bliver fremsendt til dig via e-mail."</string>
+    <string name="uf_sdk_msg_subscribe_success">"Abonnement uden fejl"</string>
+    <string name="uf_sdk_msg_ticket_created">"Dit feedback blev sendt til ASUS uden fejl"</string>
+    <string name="uf_sdk_msg_topic_created">"Offentliggjort uden fejl"</string>
+    <string name="uf_sdk_msg_unsubscribe">"Ophævelse af abonnement uden fejl"</string>
+    <string name="uf_sdk_name_hint">"Indtast dit navn"</string>
+    <string name="uf_sdk_name_illigal">"Brugernavnet er allerede taget"</string>
+    <string name="uf_sdk_network_error">"Ingen internetforbindelse. Undersøg dine netværksindstillinger."</string>
+    <string description="zenui news" maxwidth="" name="uf_sdk_news">"Nyheder"</string>
+    <string name="uf_sdk_no_network_connection_content">"Forbindelsen blev afbrudt af serveren. Prøv senere."</string>
+    <string name="uf_sdk_no_network_connection_title">"Forbindelsesfejl"</string>
+    <string name="uf_sdk_nothing_found">"Intet fundet"</string>
+    <string name="uf_sdk_notice">"Bemærkning"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category1">"Meddelelser"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category2">"Selvstudier og tip"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category3">"Promotions!"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category4">"Begivenheder"</string>
+    <string name="uf_sdk_publish_an_topic">"Offentliggør nyt emne"</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_rate_now">"Vurder nu"</string>
+    <string description="%s is AP name, don&apos;t translate" maxWidth="" name="uf_sdk_rate_us_detail">"Hvis du kan lide at bruge %s, kan du give os 5 stjerner på Play Store."</string>
+    <string maxWidth="" name="uf_sdk_rate_us_detail_new">"Hvis du giver os 5 stjerner motiverer du os til at fortsætte med vores gode arbejde!"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_rating">"Giv os 5 stjerner"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title">"Bedøm os!"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title_new">"Giv os ros!"</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_scroll_up_toast">"Rul op for at vurdere"</string>
+    <string name="uf_sdk_search_hint">"Søg i hjælpen"</string>
+    <string name="uf_sdk_select_common_bug">"Vælg almindelig fejl"</string>
+    <string name="uf_sdk_send_feedback">"Send feedback"</string>
+    <string name="uf_sdk_send_feedback_help">"Dit feedback og din e-mailadresse bliver sendt til ASUS. Serviceteamet vil kontakte dig via e-mail."</string>
+    <string maxwidth="-1" name="uf_sdk_setting_btn_content">"Indstillinger"</string>
+    <string description="recommend title" maxwidth="" name="uf_sdk_settings_encourage_us_title">"Giv os ros"</string>
+    <string maxwidth="-1" name="uf_sdk_storage_permission_description">"Denne funktionalitet skal hente lageringstilladelse for at få adgang til multimediefiler. \n\nHvis du vil aktivere funktionaliteten, skal du trykke på knappen Indstillinger for at gå til indstillingsside og så angive \"App-info\" > \"Tilladelser\" for at give tilladelse.\n"</string>
+    <string name="uf_sdk_submit_topic">"Offentliggør"</string>
+    <string name="uf_sdk_subscribe_dialog_title">"Abonner på dette emne"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_answered">"Besvaret"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_completed">"Udført"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_declined">"Afvist"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_implemented">"Gennemført"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_planned">"Planlagt"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_under_review">"Under gennemgang"</string>
+    <string name="uf_sdk_thanks_for_your_feedback">"Tak for dit feedback!"</string>
+    <string description="%s is a application name, don&apos;t translate" name="uf_sdk_ticket_hint">"Indtast dit feedback til %s"</string>
+    <string name="uf_sdk_title_topic">"Emne"</string>
+    <string name="uf_sdk_topic">"Emne"</string>
+    <string name="uf_sdk_topic_description_heading">"Beskrivelse"</string>
+    <string name="uf_sdk_topic_description_hint">"Beskriv detaljeret dit emne"</string>
+    <string name="uf_sdk_topic_filter">"EMNER"</string>
+    <string name="uf_sdk_topic_form_help">"Når du offentliggør et emne i et brugerforum, kan andre brugere abonnere og kommentere på det. Når derudover ASUS' udviklerteam svarer på emnet, bliver du underrettet via e-mail."</string>
+    <string name="uf_sdk_topic_form_title">"Offentliggør nyt emne"</string>
+    <string name="uf_sdk_topic_text_heading">"Forum"</string>
+    <string name="uf_sdk_topic_text_hint">"Indtast din emnetitel"</string>
+    <string name="uf_sdk_topic_title">"Titel"</string>
+    <string name="uf_sdk_translation_10117605">"Oversættelsesproblem"</string>
+    <string name="uf_sdk_translation_117562">"Feedback-type"</string>
+    <string name="uf_sdk_translation_2529543">"Fejlrapport"</string>
+    <string name="uf_sdk_translation_2529544">"Andre"</string>
+    <string name="uf_sdk_translation_2530478">"Forslag"</string>
+    <string name="uf_sdk_unhelpful_article_message_question">"Vil du sende feedback til ASUS' udviklerteam?"</string>
+    <string name="uf_sdk_user_forum">"Brugerforum"</string>
+    <string name="uf_sdk_warning">"Advarsel"</string>
+    <string name="uf_sdk_wifi_settings">"Wi-Fi-indstillinger"</string>
+    <string name="uf_sdk_wlan_settings">"WLAN-indstillinger"</string>
+    <string name="uf_sdk_write_your_feedback">"Indtast dit feedback her"</string>
+    <string name="uf_sdk_your_draft_will_be_discarded">"Din kladde kasseres."</string>
+    <string description="description for empty search result" maxwidth="-1" name="unable_to_find_artlcles">"Kan ikke finde \u0022%s\u0022 relaterede artikler"</string>
+    <string name="uv_admin_response_format">"Admin-svar: %1$s"</string>
+    <string name="uv_all_articles">"Alle artikler"</string>
+    <string name="uv_all_results_filter">"ALLE"</string>
+    <string name="uv_android_sdk">Android SDK</string>
+    <string name="uv_article_browse_question">"Var denne artikel nyttig?"</string>
+    <string name="uv_article_instant_answer_question">"Er denne Ofte stillede spørgsmål nyttig?"</string>
+    <string name="uv_cancel">"Annuller"</string>
+    <string name="uv_category">"Kategori"</string>
+    <string name="uv_close">"Luk"</string>
+    <string name="uv_comment_hint">"Indtast din kommentar"</string>
+    <string name="uv_confirm">"Bekræft"</string>
+    <string name="uv_contact_continue_button">"Jeg vil stadig sende en meddelelse"</string>
+    <string name="uv_contact_hint">"Indtast dit spørgsmål eller feedback"</string>
+    <string name="uv_contact_us">"Kontakt os"</string>
+    <string name="uv_display_name">"Visningsnavn"</string>
+    <string name="uv_email_address">"E-mailadresse"</string>
+    <string name="uv_email_address_hint">"your@email.com (påkrævet)"</string>
+    <string name="uv_error">"Fejl"</string>
+    <string name="uv_failed_signin_error">"Forkert e-mail eller adgangskode"</string>
+    <string name="uv_forgot_password">"Glemt adgangskode"</string>
+    <string name="uv_helpful_article_message_question">"Vil du sende en meddelelse?"</string>
+    <string name="uv_i_want_this">"Jeg vil have dette!"</string>
+    <string name="uv_idea_description_heading">"Beskriv din idé mere detaljeret"</string>
+    <string name="uv_idea_description_hint">"(valgfrit)"</string>
+    <string name="uv_idea_text_heading">"Jeg foreslår dig…"</string>
+    <string name="uv_loading">"Indlæser…"</string>
+    <string name="uv_matching_articles">"Matchende artikler"</string>
+    <string name="uv_matching_articles_and_ideas">"Matchende artikler og idéer"</string>
+    <string name="uv_menu_attach">"Vedhæft"</string>
+    <string name="uv_menu_search">"Søg"</string>
+    <string name="uv_msg_bad_email_format">"Indtast en gyldig e-mailadresse."</string>
+    <string name="uv_msg_comment_posted">"Din kommentar er posteret"</string>
+    <string name="uv_msg_confirm_discard_message">"Er du sikker på, at du vil kassere din meddelelse?"</string>
+    <string name="uv_msg_custom_fields_validation">"Udfyld alle de påkrævede felter."</string>
+    <string name="uv_msg_forgot_password">"Glemt adgangskode til e-mail sendt"</string>
+    <string name="uv_msg_idea_created">"Din idé er oprettet"</string>
+    <string name="uv_msg_ticket_created">"Din meddelelse er sendt"</string>
+    <string name="uv_msg_user_identity_validation">"Indtast din e-mailadresse"</string>
+    <string name="uv_name_hint">"Anonym"</string>
+    <string name="uv_network_error">"Der opstod en fejl ved oprettelse af forbindelse til UserVoice"</string>
+    <string name="uv_nevermind">"Lige meget"</string>
+    <string name="uv_new_comment">"Ny kommentar"</string>
+    <string name="uv_next">"Næste"</string>
+    <string name="uv_no">"Nej"</string>
+    <string name="uv_none_of_these_help">"Ingen af disse-hjælp"</string>
+    <string name="uv_password">"Adgangskode"</string>
+    <string name="uv_password_dialog_title">"Indtast din adgangskode"</string>
+    <string name="uv_portal_title">"Hjælp"</string>
+    <string name="uv_post_a_comment">"Poster en kommentar"</string>
+    <string name="uv_post_comment">"Poster kommentar"</string>
+    <string name="uv_posted_by_format">"Posteret af %1$s den %2$s"</string>
+    <string name="uv_powered_by_uservoice">"Drevet af UserVoice"</string>
+    <string name="uv_ranked">"Rangeret %1$s"</string>
+    <string name="uv_remove_votes">"Fjern stemmer"</string>
+    <string name="uv_select_none">"(ingen)"</string>
+    <string name="uv_select_one">"Vælg en"</string>
+    <string name="uv_send_message">"Send meddelelse"</string>
+    <string name="uv_signin_dialog_ok">"Log ind"</string>
+    <string name="uv_signin_dialog_title">"Log ind"</string>
+    <string name="uv_status_format">"Status: %1$s"</string>
+    <string name="uv_submit_idea">"Afsend idé"</string>
+    <string name="uv_subscribe">"Abonner"</string>
+    <string name="uv_subscribe_dialog_title">"Abonner på denne idé"</string>
+    <string name="uv_suggestion_instant_answer_question">"Er denne idé nyttig?"</string>
+    <string name="uv_thanks">"Tak!"</string>
+    <string name="uv_unhelpful_article_message_question">"Vil du sende os en meddelelse?"</string>
+    <string name="uv_value">"Værdi"</string>
+    <string name="uv_very_yes">"Yes!"</string>
+    <string name="uv_yes">"Ja"</string>
+    <string name="uv_your_email_address">"Din e-mailadresse"</string>
+    <string name="uv_your_name">"Dit navn"</string>
+</resources>

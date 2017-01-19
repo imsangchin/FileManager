@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="file_manager" description="Application Name shown on title" maxwidth="">"File Manager"</string>
+
+    <string name="ok" description="Dialog Button: ok for dialog" maxwidth="">"OK"</string>
+    <string name="no" description="Dialog Button: no for dialog" maxwidth="">"No"</string>
+    <string name="cancel" description="Dialog Button: cancel for dialog" maxwidth="">"Cancel"</string>
+
+    <string name="select_all" description="Menu Option: select all checkbox" maxwidth="">"Select all"</string>
+    <string name="clear_all" description="Menu Option: clear all checkbox" maxwidth="">"Clear all"</string>
+
+    <string name="open_fail" description="Toast: open file fails" maxwidth="-1">"Open file failed."</string>
+
+    <string name="permission_deny" description="Toast: operation permission deny" maxwidth="-1">"Permission denied."</string>
+    <string name="target_exist" description="Toast: target file exists" maxwidth="-1">"Target file exists."</string>
+    <string name="target_folder_exist" description="Toast: target folder exists. %s is variable string." maxwidth="-1">"The folder \&quot;%s\&quot; already exists."</string>
+
+    <string name="rename" description="Context Menu: options of context menu" maxwidth="">"Rename"</string>
+    <string name="rename_dialog" description="Dialog Title: rename dialog title" maxwidth="">"Rename"</string>
+    <string name="rename_fail" description="Toast: rename fails" maxwidth="-1">"Rename file failed."</string>
+
+    <string name="delete" description="Context Menu: options of context menu" maxwidth="">"Delete"</string>
+    <string name="delete_dialog" description="Dialog Title: delete dialog title" maxwidth="">"Delete file"</string>
+    <string name="delete_one_files" description="Dialog Content: text in dialog" maxwidth="">"Do you want to delete the file?"</string>
+    <string name="delete_more_files" description="Dialog Content: text in dialog. %d is variable number." maxwidth="">"Do you want to delete the %d items?"</string>
+    <string name="delete_size" description="Dialog Content: text in dialog" maxwidth="">"Size: "</string>
+    <string name="delete_progress" description="Progress Content: text in progress dialog" maxwidth="">"Deleting..."</string>
+    <string name="delete_fail" description="Toast: delete fails" maxwidth="-1">Delete file failed.</string>
+    <string name="delete_success_one" description="Toast: delete success. %s is variable string." maxwidth="-1">"\&quot;%s\&quot; has been deleted."</string>
+    <string name="delete_success_more" description="Toast: delete success" maxwidth="-1">"The selected files have been deleted."</string>
+
+    <string name="new_folder_dialog" description="Dialog Title: create new folder" maxwidth="">"Create new folder"</string>
+    <string name="new_folder_fail" description="Toast: new folder fails" maxwidth="-1">"Create new folder failed."</string>
+    <string name="new_folder_success" description="Toast: new folder success. %s is variable string." maxwidth="-1">"Folder \&quot;%s\&quot; has been created."</string>
+
+    <string name="copy" description="Context Menu: options of context menu" maxwidth="">"Copy"</string>
+    <string name="copy_ready_one" description="Toast: copy ready. %s is variable string." maxwidth="-1">"\&quot;%s\&quot; has been copied and ready to paste."</string>
+    <string name="copy_ready_more" description="Toast: copy ready" maxwidth="-1">"The selected files have been copied and ready to paste."</string>
+
+    <string name="cut" description="Context Menu: options of context menu" maxwidth="">"Cut"</string>
+    <string name="cut_ready_one" description="Toast: cut ready. %s is variable string." maxwidth="-1">"\&quot;%s\&quot; has been cut and ready to paste."</string>
+    <string name="cut_ready_more" description="Toast: cut ready" maxwidth="-1">"The selected files have been cut and ready to paste."</string>
+
+    <string name="paste" description="Context Menu: options of context menu" maxwidth="">"Paste"</string>
+    <string name="paste_exist_dialog" description="Dialog Title: paste exist dialog title" maxwidth="">"Same file name"</string>
+    <string name="paste_exist_file" description="Dialog Content: text in dialog. %s is variable string." maxwidth="">"The file \&quot;%s\&quot; already exists."</string>
+    <string name="paste_exist_replace" description="Dialog Content: text in dialog" maxwidth="">"Do you want to replace with the new one?"</string>
+    <string name="paste_exist_to" description="Dialog Content: text in dialog" maxwidth="">"To"</string>
+    <string name="paste_exist_apply" description="Dialog Content: text in dialog" maxwidth="">"Apply to all"</string>
+    <string name="paste_progress" description="Progress Content: text in progress dialog" maxwidth="">"Pasting..."</string>
+    <string name="paste_fail" description="Toast: paste fails" maxwidth="-1">"Paste files failed."</string>
+    <string name="paste_success" description="Toast: paste success. %s is variable string." maxwidth="-1">"The files have been added into \&quot;%s\&quot;."</string>
+
+    <!-- Guoliang_Lin, 2011/04/01, UI required, new feature -->
+    <string name="no_space_fail" description="Toast: No space to copy file and left on device" maxwidth="-1">"Insufficient storage"</string>
+
+    <!-- Guoliang Lin, 2011/04/27, UI required, new feature -->
+    <string name="action_add_folder" description="cutstom action bar view title for add folder" maxwidth="-1">"Add folder"</string>
+    <string name="action_hind_system_file" description="cutstom action bar view title for hinde system file" maxwidth="-1">"Hide system files"</string>
+    <string name="deselect_all" description="cutstom action bar view title for deselect all checkbox" maxwidth="">"Deselect all"</string>
+
+    <!-- Guoliang Lin, 2011/05/11, UI required, new feature -->
+    <string name="file_info_dialog_title" description="Dialog Title: File information dialog title" maxwidth="-1">"File information"</string>
+    <string name="dir_info_dialog_title" description="Dialog Title: Directory information dialog title" maxwidth="-1">"Directory information"</string>
+    <string name="info" description="Context Menu: options of context menu" maxwidth="-1">"Information"</string>
+    <string name="info_name" description="file info textview context" maxwidth="-1">"Name: "</string>
+    <string name="info_file_num" description="file info textview context" maxwidth="-1">"Files: "</string>
+    <string name="info_permission" description="file info textview context" maxwidth="-1">"Permission: "</string>
+    <string name="info_modified" description="file info textview context" maxwidth="-1">"Modified date: "</string>
+
+    <!-- Guoliang Lin, 2011/05/27, UI required, new feature -->
+    <string name="action_about" description="cutstom action bar view title for about" maxwidth="-1">"About"</string>
+
+    <!-- Johnson Chen, 2011/08/05, UI required, new feature -->
+    <string name="select_folder" description="Title: select the folder" maxwidth="-1">"Select the folder"</string>
+    <string name="invalid_directory_path" description="Invalid directory path" maxwidth="-1">"Invalid directory path"</string>
+
+    <string name="short_cuts_title" description="shortcit title" maxwidth="-1">"Shortcut"</string>
+    <string name="type" description="button text for sort file by type" maxwidth="-1">"Type"</string>
+    <string name="name" description="button text for sort file by name" maxwidth="-1">"Name"</string>
+    <string name="size" description="button text for sort file by size" maxwidth="-1">"Size"</string>
+    <string name="date" description="button text for sort file by date" maxwidth="-1">"Date"</string>
+
+    <string name="name_ascending" description="button text for sort file by name ascending" maxwidth="-1">"Name (z-a)"</string>
+    <string name="name_descending" description="button text for sort file by name descending" maxwidth="-1">"Name (a-z)"</string>
+    <string name="size_ascending" description="button text for sort file by size ascending" maxwidth="-1">"Size (large-small)"</string>
+    <string name="size_descending" description="button text for sort file by size descending" maxwidth="-1">"Size (small-large)"</string>
+
+    <string name="date_ascending" description="button text for sort file by date ascending" maxwidth="-1">"Date (oldest-latest)"</string>
+    <string name="date_descending" description="button text for sort file by date descending" maxwidth="-1">"Date (latest-oldest)"</string>
+
+    <string name="my_storage_title" description="storage label" maxwidth="-1">"My storage"</string>
+    <string name="internal_storage_title" description="storage label" maxwidth="-1">"Internal storage"</string>
+
+    <string name="my_picture_title" description="shortcut label" maxwidth="-1">"Picture"</string>
+    <string name="my_camera_title" description="shortcut label" maxwidth="-1">"Camera"</string>
+    <string name="my_music_title" description="shortcut label" maxwidth="-1">"Music"</string>
+    <string name="my_download_title" description="shortcut label" maxwidth="-1">"Download"</string>
+
+    <string name="dialog_create_zip_title" description="compress dialog title" maxwidth="-1">"Enter the archive name"</string>
+
+    <string name="zip_progress_msg" description="compress dialog message" maxwidth="-1">"Progressing..."</string>
+    <string name="zip_fail" description="toast message: Compress files fail" maxwidth="-1">"Fail to compress files"</string>
+    <string name="zip_success" description="toast message: Compress files successly" maxwidth="-1">"Compress files successfully"</string>
+
+    <string name="search_label" description="cutstom action bar view title for search" maxwidth="-1">"Search files"</string>
+    <string name="search_progress" description="search dialog message" maxwidth="-1">"Searching..."</string>
+
+    <string name="location" description="button text for sort file by date" maxwidth="-1">"Location"</string>
+
+    <plurals name="number_search_items">
+        <item quantity="one">"%d file found"</item>
+        <item quantity="other">"%d files found"</item>
+    </plurals>
+
+    <string name="search_result_title" description=" text for search result" maxwidth="-1" formatted="false">"Searching %s in %s: "</string>
+
+    <string name="dialog_extract_zip_title" description="extract zip file dialog title. %s is a dynamic string. It is zip file name." maxwidth="-1">"Extract %s to :"</string>
+    <string name="unzip_progress_msg" description="extract file dialog message" maxwidth="-1">"Extracting..."</string>
+    <string name="unzip_fail" description="toast message: extract files fail" maxwidth="-1">"Failed to extract the files"</string>
+    <string name="unzip_success" description="toast message: extract files successly" maxwidth="-1">"Successfully extracted the files"</string>
+
+    <string name="action_clear_history" description="cutstom action bar view title for clear search history" maxwidth="">"Clear search history"</string>
+
+    <plurals name="drag_items">
+        <item quantity="one">"Drag item"</item>
+        <item quantity="other">"Drag items"</item>
+    </plurals>
+
+    <string name="drag_items_one">"Drag item"</string>
+    <string name="drag_items_other">"Drag items"</string>
+
+    <string name="toast_drag_copied_items" description="Toast: The item(s) has been copied completely" maxwidth="-1">"The item(s) have been copied completely"</string>
+    <string name="toast_warning_copy_folders" description="Toast: Sorry, copy folders has not been supported" maxwidth="-1">"Sorry, copy folders has not been supported"</string>
+	<string name="toast_warning_copy_comple_cut_fail" description="Toast: Sorry, copy files complete but cut fail" maxwidth="-1">"Sorry, copy files has complete but delete old files fail"</string>
+    <string name="toast_drag_moved_items" description="Toast: The item(s) has been moved completely" maxwidth="-1">"The item(s) have been moved completely"</string>
+
+    <string name="move" description="Hint: move the items" maxwidth="-1">"Move"</string>
+    <string name="drop_target_to" description="Hint: the target folder which you want to do something" maxwidth="-1">"Target:"</string>
+    <string name="drop_incorrect_hint" description="Hint: the operation is incorrect" maxwidth="-1">"Incorrect operation"</string>
+
+    <!-- Willie Huang, 2012/01/20, UI required, new feature -->
+    <string name="dialog_unzip_preview_title" description="show zip info dialog title. %s is a dynamic string. Is is a zip file name" maxwidth="-1">"Extract %s"</string>
+    <string name="extract" description="Dialog Button: extract file for dialog" maxwidth="-1">"Extract"</string>
+    <plurals name="dialog_unzip_preview_size_text">
+        <item quantity="one">"Total: %1$d file, %2$s"</item>
+        <item quantity="other">"Total: %1$d files, %2$s"</item>
+    </plurals>
+
+    <string name="encode" description="Dialog Button: click to open the encoding list dialog" maxwidth="-1">"Text encoding"</string>
+    <string name="dialog_text_encoding_title" description="text encoding dialog title" maxwidth="-1">"Text encoding"</string>
+    <string-array name="charset_array">
+        <item>"Latin-1 (ISO-8859-1)"</item>
+        <item>"Unicode (UTF-8)"</item>
+        <item>"Chinese (GBK)"</item>
+        <item>"Chinese (Big5)"</item>
+        <item>"Japanese (ISO-2022-JP)"</item>
+        <item>"Japanese (SHIFT_JIS)"</item>
+        <item>"Japanese (EUC-JP)"</item>
+        <item>"Korean (EUC-KR)"</item>
+    </string-array>
+
+    <!-- Willie Huang, 2012/03/28, UI required, new feature -->
+    <string name="info_aperture" description="file info textview context" maxwidth="-1">"Aperture: "</string>
+    <string name="info_datetime" description="file info textview context" maxwidth="-1">"Date taken: "</string>
+    <string name="info_exposure_time" description="file info textview context" maxwidth="-1">"Exposure time: "</string>
+    <string name="info_flash" description="file info textview context" maxwidth="-1">"Flash: "</string>
+    <string name="info_focal_length" description="file info textview context" maxwidth="-1">"Focal length: "</string>
+    <string name="info_image_height" description="file info textview context" maxwidth="-1">"Height: "</string>
+    <string name="info_image_x" description="file info textview context" maxwidth="-1">" x "</string>
+    <string name="info_image_width" description="file info textview context" maxwidth="-1">"Width"</string>
+    <string name="info_iso" description="file info textview context" maxwidth="-1">"ISO: "</string>
+    <string name="info_location" description="file info textview context" maxwidth="-1">"Location: "</string>
+    <string name="info_maker" description="file info textview context" maxwidth="-1">"Maker: "</string>
+    <string name="info_model" description="file info textview context" maxwidth="-1">"Model: "</string>
+    <string name="info_orientation" description="file info textview context" maxwidth="-1">"Orientation: "</string>
+    <string name="info_white_balance" description="file info textview context" maxwidth="-1">"White balance: "</string>
+
+    <string name="flash_on" description="string indicating camera flash is fired" maxwidth="-1">"Flash fired"</string>
+    <string name="flash_off" description="string indicating camera flash is not used" maxwidth="-1">"No flash"</string>
+    <string name="unit_mm" description="string indicating the length units in milli-meters" maxwidth="-1">"mm"</string>
+    <string name="manual" description="string indicating how camera shooting feature is used" maxwidth="-1">"Manual"</string>
+    <string name="auto" description="string indicating how camera shooting feature is used" maxwidth="-1">"Auto"</string>
+
+    <!-- Guoliang_Lin, 2012/03/20, UI required, new feature -->
+    <string name="wait">"Please wait\u2026"</string>
+
+    <!-- Johnson Chen, 2012/04/13, UI required, new feature -->
+    <string name="select_album">"Select album"</string>
+    <string name="select_photo">"Select photo"</string>
+    <string name="back_button_label" description="button text." maxwidth="-1">"Back"</string>
+
+
+    <!-- Willie Huang, 2012/05/18, UI required, new feature -->
+    <string name="action_apply_selected_file" description="View title of custom action bar, apply to multiple selected files" maxwidth="-1">"Apply"</string>
+
+    <!-- Willie Huang, 2013/01/03, UI required, new feature -->
+    <string name="loading" description="text for progress bar" maxwidth="-1">"Loading\u2026"</string>
+    <string name="version" description="version" maxwidth="-1">"Version"</string>
+    <string name="title" description="title" maxwidth="-1">"Legal information:"</string>
+    <string name="content" description="content" maxwidth="-1">"Use this software is subject to terms and conditions on ASUS website: \nhttp://www.asus.com"</string>
+    <string name="action_share" description="cutstom action bar view title for sharing" maxwidth="-1">"Share"</string>
+
+    <!-- Johnson Chen, 2012/05/18, UI required, new feature-->
+    <string name="photo_selection_limit_number_toast" description="Toast: You may not select more than %s photos." maxwidth="-1">"Select maximum of %s photos"</string>
+
+    <!-- Alex6 Lin, -->
+    <string name="action_sort_by" description="String for asking for the rule of sorting" maxwidth="-1">"Sort by"</string>
+
+    <plurals name="number_selected_items">
+        <item quantity="one">"%d selected"</item>
+        <item quantity="other">"%d selected"</item>
+    </plurals>
+
+    <string name="info_type" description="file info textview context" maxwidth="-1">"Type: "</string>
+    <string name="type_document" description="document type" maxwidth="-1">"Document"</string>
+    <string name="type_audio" description="document type" maxwidth="-1">"Audio"</string>
+    <string name="type_video" description="document type" maxwidth="-1">"Video"</string>
+    <string name="type_playlist" description="document type" maxwidth="-1">"Playlist"</string>
+    <string name="type_image" description="document type" maxwidth="-1">"Image"</string>
+    <string name="type_book" description="document type" maxwidth="-1">"EBook"</string>
+    <string name="type_zip" description="document type" maxwidth="-1">"Zip"</string>
+    <string name="type_apk" description="document type" maxwidth="-1">"Android App"</string>
+    <string name="type_abu" description="document type" maxwidth="-1">"Asus App Backup"</string>
+    <string name="type_file" description="document type" maxwidth="-1">"File"</string>
+    <string name="type_directory" description="document type" maxwidth="-1">"Directory"</string>
+
+    <string name="search_action">"Search"</string>
+
+    <string name="fileList_Nofiles">"No files"</string>
+
+    <!-- Johnson Chen, 2012/05/18, UI required, new feature-->
+    <string name="wifidirect_available_devices" description="Available devices" maxwidth="-1">"Available devices"</string>
+    <string name="wifidirect_connect_hint_title" description="Dialog title text: Invitation to connect" maxwidth="-1">"Invitation to connect"</string>
+    <string name="wifidirect_connect_hint" description="Do you want to connect to device" maxwidth="-1">"Do you want to connect with"</string>
+    <string name="wifidirect_connecting_hint_title" description="Dialog title text: Wi-Fi Direct connecting" maxwidth="-1">"Wi-Fi Direct connecting..."</string>
+    <string name="wifidirect_disconnect_hint" description=">Do you want to disconnect" maxwidth="-1">"Do you want to disconnect with"</string>
+    <string name="shared_folder" description="Context Menu: options of context menu: share folder via Wi-Fi Direct" maxwidth="">"Share via Wi-Fi Direct"</string>
+    <string name="unshared_folder" description="Context Menu: options of context menu: unshare folder" maxwidth="-1">"Unshare"</string>
+    <string name="remote_storage_title" description="remote storage label" maxwidth="-1">"Remote Storage"</string>
+    <string name="remote_connected_error_hint" description="network is unavailable, please try again" maxwidth="-1">"Network is unavailable, please try again"</string>
+    <string name="wifidirect_peer_device_title" description="peer devices title" maxwidth="-1">"Peer devices"</string>
+    <string name="wifidirect_scanning" description="searching" maxwidth="-1">"Searching..."</string>
+    <string name="wifidirect_touch_to_connect" description="click to connect" maxwidth="-1">"Click to connect"</string>
+    <string name="wifidirect_connectted" description="connectted" maxwidth="-1">"Connected"</string>
+    <string name="wifidirect_action_bar_scan" description="search" maxwidth="-1">"Search"</string>
+    <string name="wifidirect_storage_title" description="Search Wi-Fi Direct device" maxwidth="-1">"Search Wi-Fi Direct device"</string>
+    <string name="wifidirect_peer_device_info" description="peer devices infomation" maxwidth="-1">"To receive a Wi-Fi Direct invitation, ensure that your connecting device stays in the \"Peer devices\" page in File Manager."</string>
+    <string name="wifidirect_disconnect_hint_title" description="Disconnect Wi-Fi Direct" maxwidth="-1">"Disconnect Wi-Fi Direct"</string>
+    <string name="wifi_p2p_turn_on_wifi_title" description="title for turn on WiFi dialog" width="-1">"Turn on Wi-Fi"</string>
+    <string name="wifi_p2p_turn_on_wifi_msg" description="message for request to turn on Wi-Fi" width="-1">"Turn on Wi-Fi to use Wi-Fi Direct services. Turn on Wi-Fi now?"</string>
+
+    <!-- Johnson Chen, 2013/03/22, UI required, new feature-->
+    <string name="cloud_storage_title" description="Add more cloud storage" maxwidth="-1">"Add more cloud storage"</string>
+    <string name="add_cloud_storage_dialog_title" description="Dialog title: Add cloud storage" maxwidth="-1">"Add cloud storage"</string>
+    <string name="cloud_storage_remove_hint" description=">Do you want to remove" maxwidth="-1">"Do you want to logout the \&quot;%s\&quot; account?"</string>
+    <string name="cloud_storage_remove_hint_title" description="Dialog title: Remove cloud storage" maxwidth="-1">"Logout"</string>
+    <string name="add_progress" description="Progress Content: text in progress dialog" maxwidth="">"Creating..."</string>
+    <string name="logging_cloud_storage" description="Progress Content: text in progress dialog" maxwidth="">"Logging..."</string>
+    <string name="wifi_p2p_connection_msg" description="message for request to connect Network" width="-1">"Please establish a network connection to use cloud services."</string>
+    <string name="wifi_p2p_connection_title" description="title for request to connect Network" width="-1">"Establish a network connection"</string>
+    <string name="logout_account" description="logout account" width="-1">"Logout"</string>
+    <string name="renaming_file" description="renaming file" width="-1">"Renaming"</string>
+    <string name="rename_success" description="Toast: rename success" maxwidth="-1">"Rename file success."</string>
+    <string name="login_fail" description="Toast: login account fail" width="-1">"Login failed"</string>
+    <string name="starred" description="shortcut title: my favorite files" width="-1">"Starred"</string>
+    <string name="recently_used" description="shortcut title: recently used files" width="-1">"Recent"</string>
+    <string name="trash_can" description="shortcut title: trash can" width="-1">"Trash can"</string>
+
+    <!-- Settings Page -->
+    <string name="menu_general_preferences" description="The title of a menu for General Preferences.Pressing the menu item lets user to view and edit his general settings" maxwidth="30">"General settings"</string>
+    <string name="preferences_title" description="This is the title of the screen for setting user preferences." maxwidth="-1">"Settings"</string>
+    <string name="settings_space_used" description="This is the title of space used for setting user preferences." maxwidth="-1">"Space used"</string>
+    <string name="settings_clear_search_history" description="This is the title of clearing search history action for setting user preferences." maxwidth="-1">"Clear search history"</string>
+    <string name="settings_hide_system_files" description="This is the title of hiding system files action for setting user preferences." maxwidth="-1">"Hide system files"</string>
+    <string name="settings_trash_can" description="This is the title of trash can information for setting user preferences." maxwidth="-1">"Trash can"</string>
+    <string name="settings_moved_to_the_trash_can" description="This is the title of moving to the trash can." maxwidth="-1">"Moved to the Trash can"</string>
+    <string name="settings_user_name" description="This is the title of user name" maxwidth="-1">"User name"</string>
+    <string name="settings_documents_cache" description="This is the title of documents cache" maxwidth="-1">"Documents Cache"</string>
+    <string name="settings_cache_size_title" description="This is the title of cache size" maxwidth="-1">"Cache size"</string>
+    <string name="settings_set_cache_size" description="Set the cache size to %s" maxwidth="-1">"Cache size is set to \&quot;%s\&quot;"</string>
+    <string name="settings_clear_cache_title" description="Clear the cache" maxwidth="-1">"Clear cache"</string>
+    <string name="settings_clear_cache_info" description="Remove all cache documents" maxwidth="-1">"Remove all cache documents"</string>
+    <string name="settings_remove_account" description="Remove account" maxwidth="-1">"Remove account"</string>
+
+    <string name="drawer_open">"Open navigation drawer"</string>
+    <string name="drawer_close">"Close navigation drawer"</string>
+
+    <!-- begin add new server -->
+    <string name="samba_storage_title">"SAMBA"</string>
+    <string name="samba_storage_add_title">"NetWork place"</string>
+    <string name="server_title">"Server"</string>
+    <string name="domain">"Domain:"</string>
+    <string name="domain_hint">"Can be empty"</string>
+    <string name="server">"Server:"</string>
+    <string name="server_hint">"172.0.0.1/ShareFolder"</string>
+    <string name="example">Example:</string>
+    <string name="user">"Username"</string>
+    <string name="user_hint">"administrator"</string>
+    <string name="password">"Password"</string>
+    <string name="display">"Display as"</string>
+    <string name="display_hint">"My Computer,can be empty"</string>
+    <string name="samba_input_error">"username or password cannot be empty!"</string>
+    <string name="samba_client_config_check" description="account config dialog remind message" maxwidth="-1">"Remember username and password, connect directly next time"</string>
+
+    <string name="pullfreshlistview_header_hint_normal">"Pull down"</string>
+    <string name="pullfreshlistview_header_hint_ready">"Release to refresh"</string>
+    <string name="pullfreshlistview_header_hint_loading">"Refreshing..."</string>
+    <string name="pullfreshlistview_header_last_time">"Last refresh time:"</string>
+    <string name="pullfreshlistview_footer_hint_normal">"Load more"</string>
+    <string name="pullfreshlistview_footer_hint_ready">"Release to load more"</string>
+
+
+
+    <string name="cloud_preview_action_fail" description="Toast: cloud preview action" maxwidth="-1">"preview cloud files failed."</string>
+    <string name="cloud_share_action_fail" description="Toast: cloud share action" maxwidth="-1">"share cloud files failed."</string>
+	<string name="cloud_paste_backgroud" description="diaglog cloud background paste">"Background"</string>
+	<string name="cloud_paste_uploading" description="diaglog cloud  paste uploading">"Uploading files"</string>
+	<string name="cloud_paste_downloading" description="diaglog cloud  paste">"Downloading files"</string>
+	<string name="cloud_paste_total" description="diaglog cloud  total">"Total"</string>
+	<string name="cloud_paste_current" description="diaglog cloud  current">"Current"</string>
+	<string name="cloud_paste_copying" description="diaglog cloud  now is copy files">"Copying..."</string>
+	<string name="cloud_paste_deleting" description="diaglog cloud  now is delete source files">"Deleting source files..."</string>
+	<string name="cloud_token_invalidate" description="diaglog cloud  token is invalidate">"The token is invalidated,please login again!"</string>
+
+	<string name="cloud_homebox_status_offline" description="home cloud device is offline">"The device is offline"</string>
+	<string name="cloud_homebox_status__info_offline" description="home cloud device is offline">"Offline"</string>
+	<string name="cloud_homebox_status__info_online" description="home cloud device is online">"Online"</string>
+	<string name="cloud_homebox_status__info_Sleep" description="home cloud device is sleep">"Sleep"</string>
+	<string name="cloud_homebox_no_available_devices" description="home cloud has no available devices">"No available HomeCloud devices"</string>
+	<string name="cloud_homebox_get_devices_fail" description="home cloud get available devices fail">"Failed to scan for available HomeCloud devices"</string>
+	<!--  <string name="cloud_paste_string_format"  description="diaglog cloud  paste string format" maxwidth="-1">%d / %d</string>-->
+
+	<string name="storage_type_cloud">"Cloud storage"</string>
+	<string name="storage_type_local">"Local storage"</string>
+	<string name="storagetype_add_account">"Add Google account"</string>
+	<string name="network_cta_hint">"Please accept to connect to the network "</string>
+	 <string name="action_refresh_cloudfile">"Refresh"</string>
+	 <string name="baidu_storage_title">"百度云"</string>
+	 <string name="dialog_load_stream_url_info">"Retrieving necessary information from server"</string>
+	 <string name="paste_progress_title">"Another copy task is running... "</string>
+	 <string name="single_drm_file_forbidden_operation">"This action is prohibited due to it is DRM protected."</string>
+	 <string name="multi_drm_file_forbidden_operation">"This action is prohibited due to some of the selected files are DRM protected."</string>
+	 <string name="samba_login_error">"The user name or password you entered is incorrect."</string>
+
+     <string name="action_search" description="cutstom action bar view title for search" maxwidth="">"Search"</string>
+	 <string name="cloud_upload_flie_limit_space" description="Toast: The size is over the limit and cannot be uploaded" maxwidth="-1">"Failed to upload the file. The file size is above the maximum limit."</string>
+	 <string name="cloud_download_flie_limit_space" description="Toast: The size is over the limit and cannot be uploaded" maxwidth="-1">"Failed to download the file. The file size is above the maximum limit."</string>
+	 <string name="invalid_account" description="Toast: the account is invalid" maxwidth="-1">"Invalid account"</string>
+	 <string name="homecloud_access_error" description="Can’t connect to HomeCloud." maxwidth="-1">"Failed to connect to HomeCloud. Please ensure that HomeCloud service is online."</string>
+	 <string name="cloud_flie_name_not_supported" description="Toast: The name of the file uploaded is not supported by cloud server" maxwidth="-1">"The operation could not be completed because the file name is not supported by cloud server."</string>
+
+	 <string name="action_cancel" description="action cancel" maxwidth="-1">"Cancel"</string>
+	 <string name="action_add" description="action add files" maxwidth="-1">"Add"</string>
+	 <string name="no_share_folder">"No file shared in this device"</string>
+
+	 <string name="edit_toast_special_char">"Can't include special character"</string>
+	 <string name="delete_one_directory" description="Dialog Content: text in dialog" maxwidth="">"Do you want to delete the directory?"</string>
+	 <string name="type_dialog_title">"Open as"</string>
+	 <string name="type_dialog_text">"Text"</string>
+	 <string name="type_dialog_image">"Image"</string>
+	 <string name="type_dialog_audio">"Audio"</string>
+	 <string name="type_dialog_video">"Video"</string>
+
+	 <string name="target_directory_is_child_of_source">"The operation could not be completed because the target directory is the child of the source directory."</string>
+	 <string name="edit_toast_name_too_long">"Maximum number of characters reached"</string>
+	 <string name="settings_description">"Local folders and files"</string>
+
+	 <string name="clear_account_info">"Forget all accounts"</string>
+
+	 <string name="type_rar" description="document type" maxwidth="-1">"RAR"</string>
+	 <string name="set_ring">"Set As Ring"</string>
+
+	<string name="action_zip" description="cutstom action bar view title for zip" maxwidth="">"Compress"</string>
+    <string name="signout_account" description="signout account" width="-1">"Disconnect"</string>
+    <string name="cloud_storage_sign_out" description=">Do you want to signout" maxwidth="-1">"Are you sure to disconnect \&quot;%s\&quot; ?"</string>
+    <string name="cloud_storage_sign_out_title" description="Dialog title: Signout cloud storage" maxwidth="-1">"Disconnect"</string>
+    <string name="cloud_storage_sign_in" description=">Do you want to signin" maxwidth="-1">"Connect using the following account:"</string>
+    <string name="cloud_storage_sign_in_title" description="Dialog title: Signin cloud storage" maxwidth="-1">"Connect %s"</string>
+
+    <!-- start add for CTA check  -->
+    <string name="cta_dialog_title">"Using Network"</string>
+    <string name="cta_dialog_content">"<b>File Manager</b> attempts to use the network, it may apply other charges depending on your subscriptions."</string>
+    <string name="cta_check_title">"Remember"</string>
+    <string name="cta_agree">"Allow"</string>
+    <string name="cta_disagree">"Refuse"</string>
+    <string name="cta_show_menu">"Network permission"</string>
+    <!-- end add for CTA check  -->
+
+    <string name="move_to">"Move to"</string>
+    <string name="copy_to">"Copy to"</string>
+
+    <string name="category_title_category">"Category"</string>
+    <string name="category_title_local_storage">"Local storage"</string>
+    <string name="category_image">"Images"</string>
+    <string name="category_music">"Music"</string>
+    <string name="category_video">"Videos"</string>
+    <string name="category_apk">"Apps"</string>
+    <string name="category_download">"Downloads"</string>
+    <string name="category_favorite">"Favorites"</string>
+    <string name="category_count">"%s"</string>
+    <string name="open">"Open"</string>
+    <string name="add_favorite">"Add to Favorite"</string>
+    <string name="remove_favorite">"Remove from Favorite"</string>
+    <string name="add_favorite_success">"Save to Favorite"</string>
+    <string name="rename_favorite_folder">"Rename favorite folder"</string>
+    <string name="rename_favorite_success">"Rename successfully and Save to Favorite"</string>
+    <string name="rename_favorite_notice">"There is already a folder with the same name in favorite folder, do you want to rename?"</string>
+    <string name="remove_favorite_notice_one">"Are you sure you want to remove \"%s\" from favorite folder?"</string>
+    <string name="remove_favorite_notice_more">"Are you sure you want to remove the %d items from favorite folder?"</string>
+    <string name="remove_favorite_success">"Remove successfully"</string>
+
+    <string name="tutorial_skip">"Skip"</string>
+    <string name="tutorial_done">"Done"</string>
+    <string name="tutorial_page_one_title">"ASUS File Manager"</string>
+    <string name="tutorial_page_one_content">"ASUS File Manager allows you to easily manage your files stored in your internal, external, local area network, or cloud storages."</string>
+    <string name="tutorial_page_two_title">"Home page"</string>
+    <string name="tutorial_page_two_content">"Easy-to-use categories that lets you access your files in your local storage quickly. "</string>
+    <string name="tutorial_page_three_title">"Swipe action"</string>
+    <string name="tutorial_page_three_content">"Swipe an item to display the actions such as Add to Favorites, Rename, Move to, Copy to and other file managing options."</string>
+    <string name="tutorial_page_four_title">"Favorites"</string>
+    <string name="tutorial_page_four_content">"Set a frequently-used folder as Favorite to access the folders quick and easy."</string>
+
+    <string name="saf_permission_tutorial_title">"Request access to operate SD card"</string>
+    <string name="saf_permission_tutorial_content">"Please perform the following steps to grant SD card access rights."</string>
+    <string name="saf_tutorial_step_one">"Tap Menu icon then tap Show SD card."</string>
+    <string name="saf_tutorial_step_two">"Swipe the left edge of the screen to display the drawer then tap SD card."</string>
+    <string name="saf_tutorial_step_three">"Tap Select SD card to grant access to ASUS File Manager."</string>
+
+    <string name="device_root_path">"root"</string>
+    <string name="tap_to_exit">"Tap again to exit"</string>
+    <string name="info_path" description="file info textview context" maxwidth="-1">"Path: "</string>
+
+    <string name="recruit_beta_user" description="recruit beta user" maxwidth="-1">"Get preview version"</string>
+    <string name="rate_us" description="rate us" maxwidth="-1">"Rate us"</string>
+
+    <string name="scroll_up_toast" description="rate now" maxwidth="">"Please scroll up to rate"</string>
+    <string name="settings_encourage_us_detail" description="recommend text" maxwidth="">"If you enjoy using %s, please rate us 5-star on Play Store. It would be a great encouragement for us to continue improving the product!"</string>
+    <string name="yes">"Yes"</string>
+	<string name="menu_tutorial" description="settings menu tutorial" maxwidth="-1">"Tutorial"</string>
+	<string name="about">"About"</string>
+    <string name="version_text">"Version "</string>
+    <string name="tell_friend" description="" maxwidth="">"Tell a friend"</string>
+    <string name="toolbar_item_title_encourage_us" maxwidth="35">"Encourage us"</string>
+    <string name="zenui_update">"ZenUI Instant Update"</string>
+	<string name="whats_new_label">"What's new"</string>
+
+    <string name="next">"Next"</string>
+    <string name="invite_friends" description="sticker detail page button name" maxwidth="-1">"Invite Friends"</string>
+
+    <string name="news_mark1" maxwidth="">"★&#160;&#160;"</string>
+</resources>

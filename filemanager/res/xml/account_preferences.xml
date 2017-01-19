@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <PreferenceScreen
+            android:key="preferences_user_name"
+            android:title="@string/settings_user_name"
+            android:summary="@string/settings_user_name"/>
+
+        <PreferenceScreen
+            android:key="preferences_space_used"
+            android:title="@string/settings_space_used"
+            android:summary="@string/settings_space_used"/>
+
+    <PreferenceCategory
+        android:key="preferences_cache_size"
+        android:title="@string/settings_documents_cache">
+
+        <PreferenceScreen
+            android:key="preferences_set_cache_size"
+            android:title="@string/settings_cache_size_title"
+            android:summary="@string/settings_set_cache_size"/>
+
+        <PreferenceScreen
+            android:key="preferences_clear_cache"
+            android:title="@string/settings_clear_cache_title"
+            android:summary="@string/settings_clear_cache_info"/>
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:key="preferences_remove_account_title"
+        android:title="@string/settings_remove_account">
+
+        <PreferenceScreen
+            android:key="preferences_remove_account_action"
+            android:title="@string/settings_remove_account"/>
+    </PreferenceCategory>
+</PreferenceScreen>

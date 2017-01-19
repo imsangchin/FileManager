@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <PreferenceScreen
+            android:key="preferences_space_used"
+            android:title="@string/settings_space_used"
+            android:summary="@string/settings_space_used"/>
+
+        <PreferenceScreen
+            android:key="preferences_clear_search_history"
+            android:title="@string/settings_clear_search_history"/>
+
+        <CheckBoxPreference
+            android:key="preferences_hide_system_files"
+            android:defaultValue="true"
+            android:title="@string/settings_hide_system_files" />
+
+        <PreferenceScreen
+            android:key="preferences_trash_can"
+            android:title="@string/settings_trash_can"
+            android:summary="@string/settings_moved_to_the_trash_can"/>
+
+    <PreferenceCategory
+        android:key="preferences_general_settings_about"
+        android:title="@string/action_about">
+
+        <PreferenceScreen
+            android:key="preferences_app_version"
+            android:title="@string/version"
+            android:summary="@string/version"/>
+    </PreferenceCategory>
+</PreferenceScreen>

@@ -1,0 +1,90 @@
+<resources>
+    <style name="ThemeAppCompatLightNoActionBar" parent="@style/Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/white</item>
+        <item name="colorPrimaryDark">@color/statusbar_color</item>
+        <item name="colorAccent">@color/theme_color</item>
+        <item name="windowActionModeOverlay">true</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="actionModeBackground">@color/actionmode_background</item>
+        <item name="android:actionOverflowButtonStyle">@style/Ep.ActionButton.Overflow</item>
+        <item name="actionOverflowButtonStyle">@style/Ep.ActionButton.Overflow</item>
+        <item name="android:itemBackground">@drawable/default_menuitem_selector</item>
+        <item name="android:textColorPrimary">@color/black</item>
+        <item name="searchViewStyle">@style/DefaultSearchViewStyle</item>
+        <item name="buttonStyle">@style/ZenUIAppCompatButtonStyle</item>
+    </style>
+
+    <style name="ThemeAppCompatDarkNoActionBar" parent="@style/Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/black</item>
+        <item name="colorPrimaryDark">@color/statusbar_color</item>
+        <item name="colorAccent">@color/theme_color</item>
+        <item name="windowActionModeOverlay">true</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:itemBackground">@drawable/dark_menuitem_selector</item>
+        <item name="dropDownListViewStyle">@style/DarkDropDownListStyle</item>
+        <item name="drawerArrowStyle">@style/DarkDrawerArrowStyle</item>
+        <item name="android:dropDownListViewStyle">@style/DarkThemeDropDownListViewStyle</item>
+        <item name="android:textColorPrimary">@color/white</item>
+        <item name="actionModeBackground">@color/black</item>
+        <item name="android:actionOverflowButtonStyle">@style/Ep.Dark.ActionButton.Overflow</item>
+        <item name="actionOverflowButtonStyle">@style/Ep.Dark.ActionButton.Overflow</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:actionButtonStyle">@style/Ep.ActionButton</item>
+        <item name="android:homeAsUpIndicator">@drawable/asussl_ic_dark_ab_back</item>
+        <item name="searchViewStyle">@style/DarkSearchViewStyle</item>
+        <item name="android:textColorHint">@color/grey</item>
+        <item name="buttonStyle">@style/ZenUIAppCompatButtonStyle</item>
+    </style>
+
+    <style name="Theme.BaseActivity" parent="AppBaseTheme">
+        <item name="android:actionButtonStyle">@style/Ep.ActionButton</item>
+        <item name="android:actionOverflowButtonStyle">@style/Ep.ActionButton.Overflow</item>
+        <item name="android:windowBackground">@drawable/preview_background</item>
+        <item name="android:actionMenuTextColor">@color/black</item>
+        <item name="android:actionModeBackground">@color/actionmode_background</item>
+        <item name="android:actionModeCloseDrawable">@drawable/asus_ic_home_up</item>
+        <item name="android:textAppearanceSmall">@style/Ep.TextAppearanceSmall</item>
+        <item name="android:actionModeSplitBackground">@drawable/asus_ep_edit_bar_bg_wrap</item>
+        <item name="android:homeAsUpIndicator">@drawable/asus_ic_home_up</item>
+        <item name="android:actionModeStyle">@style/ActionModeStyle</item>
+        <item name="android:actionBarStyle">@style/ZenUIActionBarStyle</item>
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="android:windowTranslucentStatus">true</item>
+    </style>
+
+    <style name="Theme.Dark.BaseActivity" parent="AppBaseTheme">
+        <item name="android:actionButtonStyle">@style/Ep.ActionButton</item>
+        <item name="android:actionOverflowButtonStyle">@style/Ep.ActionButton.Overflow</item>
+        <item name="android:windowBackground">@drawable/preview_background</item>
+        <item name="android:actionMenuTextColor">@color/white</item>
+        <item name="android:actionModeBackground">@color/black</item>
+        <item name="android:actionModeCloseDrawable">@drawable/asus_ic_home_up</item>
+        <item name="android:textAppearanceSmall">@style/Ep.TextAppearanceSmall</item>
+        <item name="android:actionModeSplitBackground">@drawable/asus_ep_edit_bar_bg_wrap</item>
+        <item name="android:homeAsUpIndicator">@drawable/asus_ic_home_up</item>
+        <item name="android:actionModeStyle">@style/ActionModeStyle</item>
+        <item name="android:actionBarStyle">@style/DarkThemeActionBarStyle</item>
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:textColorSecondary">@color/white</item>
+        <item name="android:textColorPrimary">@color/dark_theme_text_color</item>
+        <item name="android:textColorHint">@color/grey</item>
+    </style>
+
+    <style name="ThemeAppCompatFileManagerActivity"  parent="@style/Theme.AppCompat.Light">
+        <item name="android:actionButtonStyle">@style/Ep.ActionButton</item>
+        <item name="android:actionOverflowButtonStyle">@style/Ep.ActionButton.Overflow</item>
+        <item name="android:windowBackground">@drawable/preview_background</item>
+        <item name="android:actionMenuTextColor">@color/black</item>
+        <item name="android:actionModeBackground">@color/actionmode_background</item>
+        <item name="android:actionModeCloseDrawable">@drawable/asus_ic_home_up</item>
+        <item name="android:textAppearanceSmall">@style/Ep.TextAppearanceSmall</item>
+        <item name="android:actionModeSplitBackground">@drawable/asus_ep_edit_bar_bg_wrap</item>
+        <item name="android:homeAsUpIndicator">@drawable/asus_ic_home_up</item>
+        <item name="android:actionModeStyle">@style/ActionModeStyle</item>
+        <item name="android:actionBarStyle">@style/ZenUIActionBarStyle</item>
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="android:windowTranslucentStatus">true</item>
+    </style>
+
+</resources>

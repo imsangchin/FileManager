@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Sylvia Cheng, 2016/03/22, Setting page -->
+    <string name="action_settings" description="menu title for setting" maxwidth="-1">"Paramètres"</string>
+    <string name="setting_view_group">"Afficher le réglage"</string>
+    <string name="setting_view_hide_files">"Masquer les fichiers système"</string>
+    <string name="setting_notification_group">"Notification"</string>
+    <string name="setting_notification_large_files">"Notification de fichier volumineux"</string>
+    <string name="setting_notification_recent_files">"Notification de fichiers récents"</string>
+    <string name="setting_notification_wireless_transfer">"Notification de transfert sans fil"</string>
+    <string name="setting_display_group">"Affichage"</string>
+    <string name="tools_storage_analyzer">"Analyseur de stockage"</string>
+    <string name="tools_zenui_instant_update">"Mise à jour instantanée"</string>
+    <string name="category_others">"Autres"</string>
+    <string name="large_files_content_hint">"Recherchez des fichiers volumineux et supprimez-les avec votre autorisation"</string>
+    <string name="recent_files_content_hint">"Recherchez des fichiers récents et supprimez-les avec votre autorisation"</string>
+    <string name="fragment_analyzer_more_hint">"plus"</string>
+    <string name="fragment_analyzer_chart_total_hint">"Total :"</string>
+    <string name="fragment_analyzer_chart_free_hint">"Libre :"</string>
+    <string name="fragment_analyzer_chart_used_hint">"UTILISÉ"</string>
+    <string name="fragment_analyzer_allfiles_used_hint">"Utilisé :"</string>
+    <string name="news_v31" maxwidth="">"L'analyseur de stockage vous permet de connaître les types de fichiers qui utilisent la totalité de l'espace de stockage"</string>
+    <string name="news_v32" maxwidth="">"Catégorie d'applications nouvellement améliorée"</string>
+</resources>

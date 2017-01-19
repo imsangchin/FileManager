@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr format="reference" name="menu_icon_attact"/>
+    <attr format="reference" name="menu_icon_contact"/>
+    <attr format="reference" name="menu_icon_content_new"/>
+    <attr format="reference" name="menu_icon_search"/>
+    <color name="uf_card_background_color">#E9EAED</color>
+    <color name="uf_cardview_dark_background">#FF202020</color>
+    <color name="uf_cardview_light_background">#FFFAFAFA</color>
+    <color name="uf_cardview_shadow_end_color">#03000000</color>
+    <color name="uf_cardview_shadow_start_color">#37000000</color>
+    <color name="uf_divider_color">#E5E5E5</color>
+    <color name="uf_material_blue_500">#5677fc</color>
+    <color name="uf_material_blue_600">#4e6cef</color>
+    <color name="uf_orange">#FF8400</color>
+    <color name="uf_primary">#009688</color>
+    <color name="uf_primary_pressed">#26a69a</color>
+    <color name="uf_sdk_announcement_color">#f17924</color>
+    <color name="uf_sdk_event_color">#22ac38</color>
+    <color name="uf_sdk_promotion_color">#f470b5</color>
+    <color name="uf_sdk_tip_color">#5ec3f1</color>
+    <color name="uv_background_tab_pressed">#6633B5E5</color>
+    <declare-styleable name="uf_CardView"><attr format="color" name="uf_cardBackgroundColor"/><attr format="dimension" name="uf_cardCornerRadius"/><attr format="dimension" name="uf_cardElevation"/><attr format="dimension" name="uf_cardMaxElevation"/><attr format="boolean" name="uf_cardUseCompatPadding"/><attr format="boolean" name="uf_cardPreventCornerOverlap"/><attr format="dimension" name="uf_contentPadding"/><attr format="dimension" name="uf_contentPaddingLeft"/><attr format="dimension" name="uf_contentPaddingRight"/><attr format="dimension" name="uf_contentPaddingTop"/><attr format="dimension" name="uf_contentPaddingBottom"/></declare-styleable>
+    <declare-styleable name="uf_FloatingActionButton"><attr format="color" name="fab_colorPressed"/><attr format="color" name="fab_colorNormal"/><attr format="color" name="fab_colorRipple"/><attr format="boolean" name="fab_shadow"/><attr format="enum" name="fab_type">
+            <enum name="normal" value="0"/>
+            <enum name="mini" value="1"/>
+        </attr></declare-styleable>
+    <declare-styleable name="uf_LinearListView"><attr name="android:entries"/><attr format="dimension" name="uf_dividerThickness"/></declare-styleable>
+    <declare-styleable name="uf_MaterialRippleLayout"><attr format="color" name="UVRippleColor"/><attr format="dimension" name="UVRippleDimension"/><attr format="boolean" name="UVRippleOverlay"/><attr format="float" name="UVRippleAlpha"/><attr format="integer" name="UVRippleDuration"/><attr format="integer" name="UVRippleFadeDuration"/><attr format="boolean" name="UVRippleHover"/><attr format="color" name="UVRippleBackground"/><attr format="boolean" name="UVRippleDelayClick"/><attr format="boolean" name="UVRipplePersistent"/><attr format="boolean" name="UVRippleInAdapter"/><attr format="boolean" name="UVRippleInRecyclerView"/></declare-styleable>
+    <declare-styleable name="uf_card_listItem"><attr format="dimension" name="uf_card_list_item_dividerHeight"/></declare-styleable>
+    <dimen name="uf_cardview_compat_inset_shadow">1dp</dimen>
+    <dimen name="uf_cardview_default_elevation">2dp</dimen>
+    <dimen name="uf_cardview_default_radius">2dp</dimen>
+    <dimen name="uf_fab_elevation_lollipop">8dp</dimen>
+    <dimen name="uf_fab_mini_shadow_size">6dp</dimen>
+    <dimen name="uf_fab_scroll_threshold">4dp</dimen>
+    <dimen name="uf_fab_shadow_size">8dp</dimen>
+    <dimen name="uf_fab_size_mini">40dp</dimen>
+    <dimen name="uf_fab_size_normal">56dp</dimen>
+    <dimen name="uf_sdk_rate_button_high">42dp</dimen>
+    <dimen name="uf_sdk_rate_button_margin">30dp</dimen>
+    <dimen name="uv_listPreferredItemHeightSmall">64dp</dimen>
+    <integer name="uf_sdk_scroll_toast_translate_y">-6</integer>
+    <plurals name="uf_sdk_number_of_subscribers_format">
+        <item quantity="one">%1$s likes this topic</item>
+        <item quantity="other">%1$s like this topic</item>
+    </plurals>
+    <plurals name="uf_sdk_topics">
+        <item quantity="one">topic</item>
+        <item quantity="other">topics</item>
+    </plurals>
+    <plurals name="uv_comments">
+        <item quantity="one">comment</item>
+        <item quantity="other">comments</item>
+    </plurals>
+    <plurals name="uv_number_of_subscribers_format">
+        <item quantity="one">%1$s wants this idea</item>
+        <item quantity="other">%1$s want this idea</item>
+    </plurals>
+    <plurals name="uv_people">
+        <item quantity="one">person</item>
+        <item quantity="other">people</item>
+    </plurals>
+    <plurals name="uv_subscribers">
+        <item quantity="one">subscriber</item>
+        <item quantity="other">subscribers</item>
+    </plurals>
+    <string description="label for trending searches" maxwidth="-1" name="trending_searches">"Trending searches"</string>
+    <string name="uf_sdk_12">12</string>
+    <string name="uf_sdk_12_people">12 people want this</string>
+    <string name="uf_sdk_14_comments">14 comments</string>
+    <string name="uf_sdk_admin_response">admin response: started</string>
+    <string name="uf_sdk_already_give_5star">Already gave a 5-star rating</string>
+    <string name="uf_sdk_android_sdk">Android SDK v1.0</string>
+    <string description="%d is a number, don&apos;t translate" name="uf_sdk_article_read_count">%d views</string>
+    <string name="uf_sdk_attachment_format_warning">Wrong file format. Only image file can be attached</string>
+    <string name="uf_sdk_attachment_total_size">Total</string>
+    <string name="uf_sdk_attachment_warning">Attachment size exceeds the allowable limit</string>
+    <string name="uf_sdk_badges_are_cool">Badges are cool, and we\'d like to give them out to our active users.</string>
+    <string maxwidth="-1" name="uf_sdk_cancel_btn_content">"Cancel"</string>
+    <string name="uf_sdk_choosertitle_sharevia">Share via</string>
+    <string name="uf_sdk_connection_error_msg">Connection aborted by the server. Please try later.</string>
+    <string name="uf_sdk_connection_error_title">Connection error</string>
+    <string name="uf_sdk_discard">Discard</string>
+    <string name="uf_sdk_email_illigal">E-mail address already in use</string>
+    <string maxwidth="-1" name="uf_sdk_empty_notification">Empty :)</string>
+    <string name="uf_sdk_evan_hamilton">Evan Hamilton</string>
+    <string name="uf_sdk_faq">FAQ</string>
+    <string name="uf_sdk_feb_12">Feb 12, 2013</string>
+    <string name="uf_sdk_feedback_and_help">Feedback &amp; Help</string>
+    <string name="uf_sdk_forum_description">Join the conversation with ASUS users to find and share your solutions</string>
+    <string maxwidth="-1" name="uf_sdk_grant_permission_title">"Grant permission"</string>
+    <string name="uf_sdk_help">Help</string>
+    <string name="uf_sdk_instant_answer_question">Is this FAQ helpful?</string>
+    <string name="uf_sdk_like">Like</string>
+    <string name="uf_sdk_make_the_app_more_android_friendly">Make the app more Android friendly</string>
+    <string name="uf_sdk_medium_text">Medium Text</string>
+    <string maxwidth="-1" name="uf_sdk_message">Notifications</string>
+    <string name="uf_sdk_msg_bad_email_format">Email address is not valid, please try again.</string>
+    <string name="uf_sdk_msg_confirm_discard_topic">Your draft won’t be saved. Do you want to delete it anyway?</string>
+    <string name="uf_sdk_msg_confirm_discard_topic_title">Delete post?</string>
+    <string name="uf_sdk_msg_subscribe">Topic status notification subscription will be delivered to you by e-mail.</string>
+    <string name="uf_sdk_msg_subscribe_success">Subscription successful</string>
+    <string name="uf_sdk_msg_ticket_created">Your feedback was sent to ASUS successfully</string>
+    <string name="uf_sdk_msg_topic_created">Successfully published</string>
+    <string name="uf_sdk_msg_unsubscribe">Unsubscription successful</string>
+    <string name="uf_sdk_name_hint">Enter your name</string>
+    <string name="uf_sdk_name_illigal">Username already taken</string>
+    <string name="uf_sdk_network_error">No Internet connection, please check your network settings.</string>
+    <string description="zenui news" maxwidth="" name="uf_sdk_news">News</string>
+    <string name="uf_sdk_no_network_connection_content">Connection aborted by the server. Please try later.</string>
+    <string name="uf_sdk_no_network_connection_title">Connection error</string>
+    <string name="uf_sdk_nothing_found">Nothing found</string>
+    <string name="uf_sdk_notice">Notice</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category1">Announcements</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category2">Tutorials &amp; tips</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category3">Promotions</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category4">Events</string>
+    <string name="uf_sdk_posted_by_anonymous">Posted by Anonymous on Jul 21, 2011</string>
+    <string name="uf_sdk_publish_an_topic">Publish new topic</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_rate_now">Rate now</string>
+    <string description="%s is AP name, don&apos;t translate" maxWidth="" name="uf_sdk_rate_us_detail">If you enjoy using %s, please rate us 5-star on Play Store.</string>
+    <string maxWidth="" name="uf_sdk_rate_us_detail_new">Your support with a 5-star rating will inspire us to continue our work!</string>
+    <string maxWidth="" name="uf_sdk_rate_us_rating">5-star rating</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title">Rate us!</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title_new">Encourage us!</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_scroll_up_toast">Please scroll up to rate</string>
+    <string name="uf_sdk_search_hint">Search help</string>
+    <string name="uf_sdk_select_common_bug">Select common bug</string>
+    <string name="uf_sdk_send_feedback">Send feedback</string>
+    <string name="uf_sdk_send_feedback_help">Your feedback and email address will be sent to ASUS. Service team will contact you via Email.</string>
+    <string maxwidth="-1" name="uf_sdk_setting_btn_content">"Settings"</string>
+    <string description="recommend title" maxwidth="" name="uf_sdk_settings_encourage_us_title">Encourage us</string>
+    <string name="uf_sdk_small_text">Small Text</string>
+    <string name="uf_sdk_started">Started</string>
+    <string maxwidth="-1" name="uf_sdk_storage_permission_description">"This functionality needs to obtain the storage permission to access the multimedia files. \n\nIf you want to enable this functionality, please tap the Settings button to go to Settings page, then set 『Permissions』 to grant the permission.\n"</string>
+    <string name="uf_sdk_submit_topic">Publish</string>
+    <string name="uf_sdk_subscribe_dialog_title">Subscribe to this topic</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_answered">Answered</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_completed">completed</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_declined">declined</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_implemented">Implemented</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_planned">planned</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_under_review">under review</string>
+    <string name="uf_sdk_suggestion_title">Suggestion Title</string>
+    <string name="uf_sdk_thanks_for_your_feedback">Thanks for your feedback!</string>
+    <string description="%s is a application name, don&apos;t translate" name="uf_sdk_ticket_hint">Input feedbacks for %s</string>
+    <string name="uf_sdk_title_topic">Topic</string>
+    <string name="uf_sdk_topic">Topic</string>
+    <string name="uf_sdk_topic_description_heading">Description</string>
+    <string name="uf_sdk_topic_description_hint">Describe your topic in detail</string>
+    <string name="uf_sdk_topic_filter">TOPICS</string>
+    <string name="uf_sdk_topic_form_help">When you publish a topic on user forum, other users will be able to subscribe and comment to it. In addition, when ASUS develop team respond to the topic, you’ll be notified via E-mail.</string>
+    <string name="uf_sdk_topic_form_title">Publish new topic</string>
+    <string name="uf_sdk_topic_text_heading">Forum</string>
+    <string name="uf_sdk_topic_text_hint">Type your topic title</string>
+    <string name="uf_sdk_topic_title">Title</string>
+    <string name="uf_sdk_translation_10117605">Translation issue</string>
+    <string name="uf_sdk_translation_117562">Feedback type</string>
+    <string name="uf_sdk_translation_2529543">Bug report</string>
+    <string name="uf_sdk_translation_2529544">Others</string>
+    <string name="uf_sdk_translation_2530478">Suggestion</string>
+    <string name="uf_sdk_under_review">UNDER REVIEW</string>
+    <string name="uf_sdk_unhelpful_article_message_question">Would you like to send feedback to ASUS develop team?</string>
+    <string name="uf_sdk_user_forum">User forum</string>
+    <string name="uf_sdk_warning">Warning</string>
+    <string name="uf_sdk_we_are_looking">We are looking into this. Please check back and leave additional comments and we will be in touch!</string>
+    <string name="uf_sdk_wifi_settings">Wi-Fi settings</string>
+    <string name="uf_sdk_wlan_settings">WLAN settings</string>
+    <string name="uf_sdk_write_your_feedback">Input feedbacks here</string>
+    <string name="uf_sdk_your_draft_will_be_discarded">Your draft will be discarded.</string>
+    <string description="description for empty search result" maxwidth="-1" name="unable_to_find_artlcles">"Can't find \u0022%s\u0022 related articles"</string>
+    <string name="uv_admin_response_format">Admin response: %1$s</string>
+    <string name="uv_all_articles">All Articles</string>
+    <string name="uv_all_results_filter">ALL</string>
+    <string name="uv_android_sdk">Android SDK</string>
+    <string name="uv_article_browse_question">Was this article helpful?</string>
+    <string name="uv_article_instant_answer_question">Is this FAQ helpful?</string>
+    <string name="uv_cancel">Cancel</string>
+    <string name="uv_category">Category</string>
+    <string name="uv_close">Close</string>
+    <string name="uv_comment_hint">Enter your comment</string>
+    <string name="uv_confirm">Confirm</string>
+    <string name="uv_contact_continue_button">I still want to send a message</string>
+    <string name="uv_contact_hint">Enter your question or feedback</string>
+    <string name="uv_contact_us">Contact us</string>
+    <string name="uv_display_name">Display name</string>
+    <string name="uv_email_address">Email address</string>
+    <string name="uv_email_address_hint">your@email.com (required)</string>
+    <string name="uv_error">Error</string>
+    <string name="uv_failed_signin_error">Incorrect email or password</string>
+    <string name="uv_forgot_password">Forgot password</string>
+    <string name="uv_helpful_article_message_question">Do you still want to send a message?</string>
+    <string name="uv_i_want_this">I want this!</string>
+    <string name="uv_idea_description_heading">Describe your idea in more detail</string>
+    <string name="uv_idea_description_hint">(optional)</string>
+    <string name="uv_idea_text_heading">I suggest you…</string>
+    <string name="uv_loading">Loading…</string>
+    <string name="uv_matching_articles">Matching articles</string>
+    <string name="uv_matching_articles_and_ideas">Matching articles and ideas</string>
+    <string name="uv_menu_attach">Attach</string>
+    <string name="uv_menu_search">Search</string>
+    <string name="uv_msg_bad_email_format">Please enter a valid email address.</string>
+    <string name="uv_msg_comment_posted">Your comment has been posted</string>
+    <string name="uv_msg_confirm_discard_message">Are you sure you want to discard your message?</string>
+    <string name="uv_msg_custom_fields_validation">Please fill out all required fields.</string>
+    <string name="uv_msg_forgot_password">Forgot password email sent</string>
+    <string name="uv_msg_idea_created">Your idea has been created</string>
+    <string name="uv_msg_ticket_created">Your message has been sent</string>
+    <string name="uv_msg_user_identity_validation">Please enter your email address</string>
+    <string name="uv_name_hint">“Anonymous”</string>
+    <string name="uv_network_error">There was an error connecting to UserVoice</string>
+    <string name="uv_nevermind">Nevermind</string>
+    <string name="uv_new_comment">New comment</string>
+    <string name="uv_next">Next</string>
+    <string name="uv_no">No</string>
+    <string name="uv_none_of_these_help">None of these help</string>
+    <string name="uv_password">Password</string>
+    <string name="uv_password_dialog_title">Please enter your password</string>
+    <string name="uv_portal_title">Help</string>
+    <string name="uv_post_a_comment">Post a comment</string>
+    <string name="uv_post_comment">Post comment</string>
+    <string name="uv_posted_by_format">Posted by %1$s on %2$s</string>
+    <string name="uv_powered_by_uservoice">Powered by UserVoice</string>
+    <string name="uv_ranked">Ranked %1$s</string>
+    <string name="uv_remove_votes">Remove Votes</string>
+    <string name="uv_select_none">(none)</string>
+    <string name="uv_select_one">Select one</string>
+    <string name="uv_send_message">Send message</string>
+    <string name="uv_signin_dialog_ok">Sign in</string>
+    <string name="uv_signin_dialog_title">Sign in</string>
+    <string name="uv_status_format">Status: %1$s</string>
+    <string name="uv_submit_idea">Submit idea</string>
+    <string name="uv_subscribe">Subscribe</string>
+    <string name="uv_subscribe_dialog_title">Subscribe to this idea</string>
+    <string name="uv_suggestion_instant_answer_question">Is this idea helpful?</string>
+    <string name="uv_thanks">Thanks!</string>
+    <string name="uv_unhelpful_article_message_question">Would you like to send us a message?</string>
+    <string name="uv_value">Value</string>
+    <string name="uv_very_yes">Yes!</string>
+    <string name="uv_yes">Yes</string>
+    <string name="uv_your_email_address">Your email address</string>
+    <string name="uv_your_name">Your name</string>
+    <style name="PortalItemStyle">
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:minHeight">@dimen/uv_listPreferredItemHeightSmall</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:paddingLeft">18dip</item>
+        <item name="android:paddingRight">18dip</item>
+        <item name="android:background">?android:attr/selectableItemBackground</item>
+        <item name="android:clickable">true</item>
+    </style>
+    <style name="TranslucentStatus" parent="android:Theme.DeviceDefault.Light.DarkActionBar">
+    </style>
+    <style name="TranslucentStatus_Light" parent="android:Theme.DeviceDefault.Light">
+    </style>
+    <style name="uf_ActionBarStyle" parent="@android:style/Widget.DeviceDefault.Light.ActionBar.Solid.Inverse">
+        <item name="android:titleTextStyle">@style/uf_ActionBarTitleTextStyle</item>
+    </style>
+    <style name="uf_ActionBarStyle_Light" parent="@android:style/Widget.DeviceDefault.Light.ActionBar.Solid">
+        <item name="android:titleTextStyle">@style/uf_ActionBarTitleTextStyle_Light</item>
+    </style>
+    <style name="uf_ActionBarTextColor" parent="@android:style/Widget.DeviceDefault.Light.ActionBar.TabText">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+    <style name="uf_ActionBarTitleTextStyle" parent="@android:style/TextAppearance.DeviceDefault.Widget.ActionBar.Title.Inverse">
+        <item name="android:textColor">#fefefe</item>
+        <item name="android:textSize">25dp</item>
+    </style>
+    <style name="uf_ActionBarTitleTextStyle_Light" parent="@android:style/TextAppearance.DeviceDefault.Widget.ActionBar.Title">
+        <item name="android:textSize">25dp</item>
+        <item name="android:textColor">#565656</item>
+    </style>
+    <style name="uf_CardView">
+        <item name="uf_cardBackgroundColor">@color/uf_cardview_light_background</item>
+        <item name="uf_cardCornerRadius">@dimen/uf_cardview_default_radius</item>
+        <item name="uf_cardElevation">@dimen/uf_cardview_default_elevation</item>
+        <item name="uf_cardMaxElevation">@dimen/uf_cardview_default_elevation</item>
+        <item name="uf_cardUseCompatPadding">false</item>
+        <item name="uf_cardPreventCornerOverlap">true</item>
+    </style>
+    <style name="uf_CardView.Dark">
+        <item name="uf_cardBackgroundColor">@color/uf_cardview_dark_background</item>
+    </style>
+    <style name="uf_CardView.Light">
+        <item name="uf_cardBackgroundColor">@color/uf_cardview_light_background</item>
+    </style>
+    <style name="uf_UserVoiceBaseTheme" parent="@style/TranslucentStatus">
+        <item name="android:homeAsUpIndicator">@drawable/uf_sdk_ic_ab_back_dark</item>
+        <item name="android:actionBarStyle">@style/uf_ActionBarStyle</item>
+        <item name="android:actionBarTabTextStyle">@style/uf_ActionBarTextColor</item>
+    </style>
+    <style name="uf_UserVoiceBaseTheme_Light" parent="@style/TranslucentStatus_Light">
+        <item name="android:homeAsUpIndicator">@drawable/uf_sdk_ic_ab_back_light</item>
+        <item name="android:actionBarStyle">@style/uf_ActionBarStyle_Light</item>
+        <item name="android:actionBarTabTextStyle">@style/uf_ActionBarTextColor</item>
+    </style>
+    <style name="uf_UserVoiceSDKTheme" parent="uf_UserVoiceBaseTheme">
+        <item name="android:icon">@android:color/transparent</item> 
+        <item name="android:logo">@android:color/transparent</item> 
+        <item name="menu_icon_search">@drawable/uf_sdk_ic_search</item>
+        <item name="menu_icon_contact">@drawable/uv_contact</item>
+        <item name="menu_icon_content_new">@drawable/uv_ic_action_content_new</item>
+        <item name="menu_icon_attact">@drawable/uf_sdk_attact</item>
+        </style>
+    <style name="uf_UserVoiceSDKTheme_Light" parent="uf_UserVoiceBaseTheme_Light">
+        <item name="android:icon">@android:color/transparent</item> 
+        <item name="android:logo">@android:color/transparent</item> 
+        <item name="menu_icon_search">@drawable/uf_sdk_ic_search_light</item>
+        <item name="menu_icon_contact">@drawable/uv_contact_light</item>
+        <item name="menu_icon_content_new">@drawable/uv_ic_action_content_new_light</item>
+        <item name="menu_icon_attact">@drawable/uf_sdk_attact_light</item>
+    </style>
+    <style name="uv_ListSeparator">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#3DB5E1</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:paddingLeft">8dip</item>
+        <item name="android:paddingTop">12dip</item>
+        <item name="android:paddingBottom">4dip</item>
+        <item name="android:background">@drawable/uv_list_separator</item>
+    </style>
+    <style name="uv_ListSeparatorLight" parent="uv_ListSeparator">
+        <item name="android:textColor">#999999</item>
+        <item name="android:background">@drawable/uv_list_separator_light</item>
+    </style>
+</resources>

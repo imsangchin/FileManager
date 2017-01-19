@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="tools_hidden_zone">"Tajná skrinka"</string>
+    <string name="action_hidden_zone" maxwidth="">"Presunúť do Tajnej skrinky"</string>
+    <string name="move_to_hidden_zone_progress" description="Progress Content: text in progress dialog" maxwidth="">"Presúva sa do Tajnej skrinky..."</string>
+    <string name="move_to_hidden_zone_success_one" description="Toast: move to recycle bin success. %s is variable string." maxwidth="-1">"\"%s\" bolo presunuté do Tajnej skrinky."</string>
+    <string name="move_to_hidden_zone_success_more" description="Toast: move to recycle bin success" maxwidth="-1">"Vybrané súbory boli presunuté do Tajnej skrinky."</string>
+    <string name="move_to_hidden_zone_fail" description="Toast: move to recycle bin fails" maxwidth="-1">"Nepodarilo sa presunúť do Tajnej skrinky"</string>
+    <string name="can_not_open_in_hidden_zone" description="Toast: can not open in hidden zone" maxwidth="-1">"Nedá sa otvoriť v Tajnej skrinke"</string>
+    <string name="hidden_zone_setup_password">"Zadajte 4-ciferný kód PIN"</string>
+    <string name="hidden_zone_setup_account">"Nastaviť konto"</string>
+    <string name="hidden_zone_forget_password">"Zabudnuté heslo"</string>
+    <string name="hidden_zone_wrong_password">"Nesprávny kód PIN"</string>
+    <string name="hidden_zone_change_password">"Zmeniť heslo"</string>
+    <string name="hidden_zone_confirm_password">"Potvrdiť kód PIN"</string>
+    <string name="hidden_zone_set_password_success">"Heslo bolo úspešne nastavené"</string>
+    <string name="hidden_zone_fingerprint_to_unlock">"Odtlačkom prsta odomknite"</string>
+    <string name="hidden_zone_password_mismatch">"Kód PIN sa nezhoduje"</string>
+    <string name="hidden_zone_introduction_description">"Skryte svoje súkromné súbory so Tajnej skrinky. Na otvorenie Tajnej skrinky je potrebný kód PIN."</string>
+    <string name="hidden_zone_enter_password">"Zadajte svoj kód PIN"</string>
+    <string name="setup">"Nastavenie"</string>
+    <string name="set_password_title">"Vytvorte kód PIN"</string>
+    <string name="setup_account_title">"Obnovenie kódu PIN"</string>
+    <string name="setup_account_description">"Nastavte e-mailové konto, na ktoré obnovíte svoj kód PIN"</string>
+    <string name="setup_account_no_internet_connection">"Žiadne pripojenie na internet"</string>
+    <string name="setup_account_skip">"Preskočiť"</string>
+    <string name="setup_my_digital_code">"Nastaviť kód PIN"</string>
+    <string name="setup_fingerprint_message">"Povoliť odomknutie odtlačkom prsta. Tajná skrinka podporuje overenie odtlačkom prsta. Najprv cez Nastavenie naskenujte svoj odtlačok prsta."</string>
+    <string name="toast_auto_lock_notify_message">"Uzamknúť Tajnú skrinku pri uzamknutí zariadenia"</string>
+</resources>

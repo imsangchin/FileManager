@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action">"Daftar masuk"</string>
+    <string description="" name="article_one">"Saya bersetuju dengan \"<u>Terma Notis Penggunaan</u>\" ASUS, \"<u>Dasar Privasi</u>\" ASUS, \"<u>Terma Notis Penggunaan</u>\" ASUS WebStorage, \"<u>Dasar Privasi</u>\" ASUS WebStorage."</string>
+    <string description="" name="article_two">"Kekalkan saya dikemas kini oleh eDM dengan berita ASUS terkini, kemas kini perisian dan maklumat produk dan perkhidmatan."</string>
+    <string description="Text for create asus account button." maxwidth="" name="asus_account_create_button">"Daftar"</string>
+    <string name="asus_account_integrate_dialog_content">"Adakah anda ingin menyepadukan akaun ASUS dengan akaun WebStorage? \n\n Selepas penyepaduan, anda akan menikmati semua perkhidmatan ASUS."</string>
+    <string name="asus_account_integrate_dialog_skip">"Langkau"</string>
+    <string name="asus_account_integrate_dialog_title">"Sepadukan Perkhidmatan ASUS"</string>
+    <string name="asus_account_integrate_dialog_yes">"Ya"</string>
+    <string description="Text for asus account content 1st." maxwidth="" name="asus_account_msg_content_1">"Dapat perkhidmatan sokongan ASUS peribadi dan sambungan waranti untuk produk berdaftar."</string>
+    <string description="Text for asus account content 2nd." maxwidth="" name="asus_account_msg_content_2">"Dapat ruang storan Awan 5 GB percuma."</string>
+    <string description="Text for asus account content 3rd." maxwidth="" name="asus_account_msg_content_3">"Dapat maklumat terkini mengenai aksesori dan produk dibaik pulih."</string>
+    <string description="Text for asus account content title." maxwidth="" name="asus_account_msg_title">"Cipta akaun ASUS dan anda boleh:"</string>
+    <string name="asus_account_only_one_alert">"Hanya satu akaun ASUS yang dibenarkan untuk ditambah. Anda perlu memadamkan akaun semasa anda sebelum menggantikannya dengan akaun baharu."</string>
+    <string name="asus_account_prefc">"Tetapan"</string>
+    <string name="asus_account_prefc_advc">"Tetapan lanjutan"</string>
+    <string name="asus_account_registe_country_error">"Sila pilih satu negara/rantau!"</string>
+    <string name="asus_account_registe_id_error">"Ralat format e-mel"</string>
+    <string name="asus_account_registe_policy_error">"Anda hendaklah bersetuju dengan dasar ASUS untuk mendaftar akaun ASUS!"</string>
+    <string name="asus_account_registe_pw_error_1">"Kata laluan tidak boleh nol!"</string>
+    <string name="asus_account_registe_pw_error_2">"Sahkan kata laluan tidak boleh nol!"</string>
+    <string name="asus_account_registe_pw_error_3">"Kata laluan dan sahkan kata laluan mesti sepadan!"</string>
+    <string name="asus_account_registe_pw_error_4">"Kata laluan hendaklah 8 hingga 25 aksara."</string>
+    <string name="asus_account_removeaccount_dialog_content">"Penyediaan akaun berjaya. Log masuk sekali lagi menggunakan akaun baharu."</string>
+    <string name="asus_account_removeaccount_dialog_title">"Penyepaduan akaun ASUS berjaya"</string>
+    <string name="asus_registe_success_title">"Pendaftaran akaun ASUS berjaya"</string>
+    <string name="asus_response_resultdata">"Akaun ini sudah didaftarkan."</string>
+    <string name="asusaccount_app_name">"Akaun ASUS"</string>
+    <string name="aucloud_account_only_one_alert">"Hanya satu akaun Awan au yang dibenarkan untuk ditambah. Anda perlu memadamkan akaun semasa anda sebelum menggantikannya dengan akaun baharu."</string>
+    <string name="aws_install_contnet">"Tiada ASUS WebStorage yang dipasang. Adakah anda ingin memuat turun dan memasang dari Play Store?"</string>
+    <string name="aws_install_title">"ASUS Webstorage tidak dipasang"</string>
+    <string name="baidu_alert_info">"Berdasarkan platform Baidu, peranti ini hanya boleh mengakses data di bawah "Data Aplikasi Saya\\asus\\" ."</string>
+    <string name="baidu_alert_title">"Storan Awan Baidu"</string>
+    <string name="baidupcs_account_only_one_alert">"Hanya satu Baidu untuk akaun ASUS yang dibenarkan untuk ditambah. Anda perlu memadamkan akaun semasa anda sebelum menggantikannya dengan akaun baharu."</string>
+    <string name="confirm">"Sah"</string>
+    <string name="confirm_ok">"OK"</string>
+    <string description="confirm password textview title" name="confirm_password">"Sahkan kata laluan"</string>
+    <string description="ask user to enter password again to confirm" name="confirm_password_edit">"Masukkan kata laluan anda sekali lagi"</string>
+    <string description="country region textview title" name="country_region">"Negara/Rantau"</string>
+    <string description="ack user to select on country" name="country_region_select">"Pilih negara/rantau anda"</string>
+    <string name="dbx_install_contnet">"Tiada Dropbox yang dipasang. Adakah anda ingin memuat turun dan memasang dari Play Store?"</string>
+    <string name="dbx_install_title">"Dropbox tidak dipasang"</string>
+    <string description="ask user to enter password" maxwidth="-1" name="enter_password">"Masukkan kata laluan"</string>
+    <string description="click to retrieve password" maxwidth="-1" name="forget_password">"<u>Terlupa kata laluan?</u>"</string>
+    <string name="invalid_server_id">"ID pelayan tidak sah"</string>
+    <string name="invalid_xml">"Xml tidak sah"</string>
+    <string description="dialog title, key in the asus ID and PW to Login account" maxwidth="-1" name="login_asus_id">"Daftar masuk akaun ASUS"</string>
+    <string description="login account name" maxwidth="-1" name="login_id">"Nama akaun/ID WebStorage"</string>
+    <string name="market_app_error">"Terdapat ralat dengan APP Aplikasi pasaran yang dipasang pada peranti anda!"</string>
+    <string description="ask user to enter email address as account name" maxwidth="-1" name="member_id_hint">"Masukkan alamat e-mel"</string>
+    <string name="network_invalid">"Sambungan rangkaian tidak sah"</string>
+    <string name="network_invalid_info">"Sambungan tidak sah. Sila semaknya sekali lagi."</string>
+    <string name="no_device">"Tiada peranti"</string>
+    <string name="no_network">"Tiada sambungan rangkaian"</string>
+    <string name="no_network_info">"Sambungan Internet diperlukan untuk mengakses aplikasi ini. Sila dayakan rangkaian mudah alih atau Wi-Fi dalam Tetapan."</string>
+    <string name="no_password">"Sila masukkan kata laluan anda"</string>
+    <string name="no_right">"Akaun anda tidak mempunyai hak untuk melog masuk."</string>
+    <string name="no_user_exist">"Nama pengguna tidak wujud"</string>
+    <string name="no_username">"Masukkan nama pengguna anda dahulu."</string>
+    <string name="onedrive_account_only_one_alert">"Hanya satu OneDrive untuk akaun ASUS yang dibenarkan untuk ditambah. Anda perlu memadamkan akaun semasa anda sebelum menggantikannya dengan akaun baharu."</string>
+    <string description="dialog title, key in the asus ID and PW to Login account" maxwidth="-1" name="regist_asus_id">"Mencipta akaun ASUS"</string>
+    <string description="ask user to enter email address to registe New Account" name="registe_id">"Nama akaun"</string>
+    <string description="ask user to enter new password" name="registe_password">"Input 8-25 aksara"</string>
+    <string description="sign up registe action" name="registe_sign_up">"Daftar"</string>
+    <string name="sd_label">"OneDrive untuk ASUS"</string>
+    <string name="server_error">"Ralat pelayan"</string>
+    <string name="settings">"Tetapan"</string>
+    <string description="check if user want to show password" name="show_passwd">"Tunjukkan kata laluan"</string>
+    <string description="show when sign in failed" maxwidth="-1" name="signin_failed">"Daftar masuk gagal"</string>
+    <string name="ssl_err_msg_info">"Tidak dapat membuat sambungan selamat ke pelayan. Adakah anda ingin teruskan?"</string>
+    <string name="ssl_err_msg_title">"Ralat sambungan SSL"</string>
+    <string name="unsupported_area">"Kawasan ini tidak disokong"</string>
+    <string name="yandex_account_only_one_alert">"Hanya satu akaun Yandex yang dibenarkan untuk ditambah. Anda perlu memadamkan akaun semasa anda sebelum menggantikannya dengan akaun baharu."</string>
+</resources>

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="uf_sdk_number_of_subscribers_format">
+        <item quantity="one">"%1$s はこのトピックが好きです"</item>
+        <item quantity="other">"%1$s はこのトピックが好きです"</item>
+    </plurals>
+    <plurals name="uf_sdk_topics">
+        <item quantity="one">"トピック"</item>
+        <item quantity="other">"トピック"</item>
+    </plurals>
+    <plurals name="uv_comments">
+        <item quantity="one">"コメント"</item>
+        <item quantity="other">"コメント"</item>
+    </plurals>
+    <plurals name="uv_number_of_subscribers_format">
+        <item quantity="one">%1$s はこのアイデアが欲しい</item>
+        <item quantity="other">"%1$s はこのアイデアが欲しい"</item>
+    </plurals>
+    <plurals name="uv_people">
+        <item quantity="one">"個人"</item>
+        <item quantity="other">"人物"</item>
+    </plurals>
+    <plurals name="uv_subscribers">
+        <item quantity="one">"購読者"</item>
+        <item quantity="other">"購読者"</item>
+    </plurals>
+    <string description="label for trending searches" maxwidth="-1" name="trending_searches">"トレンド検索"</string>
+    <string name="uf_sdk_already_give_5star">すでに5つ星を付けた</string>
+    <string description="%d is a number, don&apos;t translate" name="uf_sdk_article_read_count">"%d表示"</string>
+    <string name="uf_sdk_attachment_format_warning">"ファイル形式が正しくありません。画像ファイルだけが添付できます"</string>
+    <string name="uf_sdk_attachment_total_size">"合計"</string>
+    <string name="uf_sdk_attachment_warning">"添付サイズが許容限度を超えています"</string>
+    <string maxwidth="-1" name="uf_sdk_cancel_btn_content">"キャンセル"</string>
+    <string name="uf_sdk_choosertitle_sharevia">"共有ツール"</string>
+    <string name="uf_sdk_connection_error_msg">"サーバーへの接続を停止します。後で再試行してください。"</string>
+    <string name="uf_sdk_connection_error_title">"接続エラー"</string>
+    <string name="uf_sdk_discard">"廃棄”</string>
+    <string name="uf_sdk_email_illigal">既に使用されているメールアドレスです</string>
+    <string maxwidth="-1" name="uf_sdk_empty_notification">"空です"</string>
+    <string name="uf_sdk_faq">"よくある質問"</string>
+    <string name="uf_sdk_feedback_and_help">"フィードバック＆ヘルプ"</string>
+    <string name="uf_sdk_forum_description">"ASUSのユーザーとの会話に参加して、 解決策を見つけて共有します"</string>
+    <string maxwidth="-1" name="uf_sdk_grant_permission_title">"パーミッションを承諾"</string>
+    <string name="uf_sdk_help">"ヘルプ"</string>
+    <string name="uf_sdk_instant_answer_question">"このFAQは参考になりましたか？"</string>
+    <string name="uf_sdk_like">"いいね"</string>
+    <string maxwidth="-1" name="uf_sdk_message">"通知"</string>
+    <string name="uf_sdk_msg_bad_email_format">"メールアドレスが無効です。再試行しください。"</string>
+    <string name="uf_sdk_msg_confirm_discard_topic">"下書きは保存されていません。下書きを削除しますか？"</string>
+    <string name="uf_sdk_msg_confirm_discard_topic_title">"投稿を削除しますか？"</string>
+    <string name="uf_sdk_msg_subscribe">"トピック状態通知の購読は、電子メールで配信されます。"</string>
+    <string name="uf_sdk_msg_subscribe_success">"購読が成功"</string>
+    <string name="uf_sdk_msg_ticket_created">"フィードバックが正常にASUSに送信されました"</string>
+    <string name="uf_sdk_msg_topic_created">"正常に公開されました"</string>
+    <string name="uf_sdk_msg_unsubscribe">"購読解除が成功"</string>
+    <string name="uf_sdk_name_hint">"名前を入力"</string>
+    <string name="uf_sdk_name_illigal">既に使用されているユーザー名です</string>
+    <string name="uf_sdk_network_error">"ネットワークへの接続がありません。ネットワーク設定を確認してください。"</string>
+    <string description="zenui news" maxwidth="" name="uf_sdk_news">ニュース</string>
+    <string name="uf_sdk_no_network_connection_content">"サーバーへの接続を停止します。後で再試行してください。"</string>
+    <string name="uf_sdk_no_network_connection_title">"接続エラー"</string>
+    <string name="uf_sdk_nothing_found">"何も見つかりません"</string>
+    <string name="uf_sdk_notice">"注意"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category1">"告知"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category2">"チュートリアルとヒント"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category3">"プロモーション"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category4">"イベント"</string>
+    <string name="uf_sdk_publish_an_topic">"新しいトピックを発行"</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_rate_now">"評価する"</string>
+    <string description="%s is AP name, don&apos;t translate" maxWidth="" name="uf_sdk_rate_us_detail">"%s をご利用いただきありがとうございます。Playストアで本ツールの5段階の評価にご協力ください。"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_detail_new">"5つ星評価をいただけたら、弊社にとって励みになります！"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_rating">"5 つ星で評価する"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title">"評価してください！"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title_new">"評価にご協力ください！"</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_scroll_up_toast">"スクロールして評価してください。"</string>
+    <string name="uf_sdk_search_hint">"ヘルプを検索"</string>
+    <string name="uf_sdk_select_common_bug">"一般的なバグを選択"</string>
+    <string name="uf_sdk_send_feedback">"フィードバックの送信"</string>
+    <string name="uf_sdk_send_feedback_help">フィードバックやメールアドレスがASUSに送信されます。 サービスチームはメールで連絡します。</string>
+    <string maxwidth="-1" name="uf_sdk_setting_btn_content">"設定"</string>
+    <string description="recommend title" maxwidth="" name="uf_sdk_settings_encourage_us_title">"評価にご協力ください"</string>
+    <string maxwidth="-1" name="uf_sdk_storage_permission_description">"この機能は、マルチメディアファイルにアクセスするためにストレージパーミッションを取得する必要があります。\n\nこの機能を有効にする場合は、設定ボタンをタップして設定ページに移動して、[アプリ情報] > [許可] を選択してパーミッションを許諾してください。\n"</string>
+    <string name="uf_sdk_submit_topic">"発行"</string>
+    <string name="uf_sdk_subscribe_dialog_title">"このトピックを購読します"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_answered">"回答"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_completed">"完了"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_declined">"却下"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_implemented">"実施済み"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_planned">"予定"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_under_review">"審査中"</string>
+    <string name="uf_sdk_thanks_for_your_feedback">ご意見をお寄せ頂きありがとうございます！</string>
+    <string description="%s is a application name, don&apos;t translate" name="uf_sdk_ticket_hint">%sへのフィードバックを入力</string>
+    <string name="uf_sdk_title_topic">"トピック"</string>
+    <string name="uf_sdk_topic">"トピック"</string>
+    <string name="uf_sdk_topic_description_heading">"説明"</string>
+    <string name="uf_sdk_topic_description_hint">"詳細にトピックを説明してください"</string>
+    <string name="uf_sdk_topic_filter">"トピック"</string>
+    <string name="uf_sdk_topic_form_help">"ユーザーフォーラムのトピックを公開すると、他のユーザーが閲覧して、コメントを投稿することができます。また、ASUS開発チームがトピックに返答するとき、Eメールで通知されます。"</string>
+    <string name="uf_sdk_topic_form_title">"新しいトピックを発行"</string>
+    <string name="uf_sdk_topic_text_heading">"フォーラム"</string>
+    <string name="uf_sdk_topic_text_hint">トピックのタイトルを入力</string>
+    <string name="uf_sdk_topic_title">"タイトル"</string>
+    <string name="uf_sdk_translation_10117605">"翻訳問題"</string>
+    <string name="uf_sdk_translation_117562">"フィードバックタイプ"</string>
+    <string name="uf_sdk_translation_2529543">"バグ報告"</string>
+    <string name="uf_sdk_translation_2529544">"その他"</string>
+    <string name="uf_sdk_translation_2530478">"提案"</string>
+    <string name="uf_sdk_unhelpful_article_message_question">"ASUS開発チームへフィードバックを送信しますか？"</string>
+    <string name="uf_sdk_user_forum">"ユーザー フォーラム"</string>
+    <string name="uf_sdk_warning">"警告"</string>
+    <string name="uf_sdk_wifi_settings">"Wi-Fi 設定"</string>
+    <string name="uf_sdk_wlan_settings">"WLAN 設定"</string>
+    <string name="uf_sdk_write_your_feedback">ここにフィードバックを入力してください</string>
+    <string name="uf_sdk_your_draft_will_be_discarded">"下書きが廃棄されます。"</string>
+    <string description="description for empty search result" maxwidth="-1" name="unable_to_find_artlcles">"\u0022%s\u0022の関連記事は見つかりません"</string>
+    <string name="uv_admin_response_format">"管理者の応答: %1$s"</string>
+    <string name="uv_all_articles">"すべての記事"</string>
+    <string name="uv_all_results_filter">"すべて"</string>
+    <string name="uv_android_sdk">Android SDK</string>
+    <string name="uv_article_browse_question">"この記事は役に立ちましたか？"</string>
+    <string name="uv_article_instant_answer_question">"このFAQは参考になりましたか？"</string>
+    <string name="uv_cancel">"キャンセル"</string>
+    <string name="uv_category">"カテゴリ"</string>
+    <string name="uv_close">"閉じる"</string>
+    <string name="uv_comment_hint">"コメントを入力"</string>
+    <string name="uv_confirm">"確認"</string>
+    <string name="uv_contact_continue_button">"メッセージを送信したいです"</string>
+    <string name="uv_contact_hint">"ご質問・ご感想をお寄せください"</string>
+    <string name="uv_contact_us">"お問い合わせてください"</string>
+    <string name="uv_display_name">"表示名"</string>
+    <string name="uv_email_address">"メールアドレス"</string>
+    <string name="uv_email_address_hint">"your@email.com (記入必須)"</string>
+    <string name="uv_error">"エラー"</string>
+    <string name="uv_failed_signin_error">"メールまたはパスワードが正しくありません"</string>
+    <string name="uv_forgot_password">"パスワードを忘れた場合"</string>
+    <string name="uv_helpful_article_message_question">"メッセージ​​を送信しますか？"</string>
+    <string name="uv_i_want_this">"これが欲しい！"</string>
+    <string name="uv_idea_description_heading">"詳細にアイデアを説明"</string>
+    <string name="uv_idea_description_hint">"(任意)"</string>
+    <string name="uv_idea_text_heading">お勧めします…</string>
+    <string name="uv_loading">"読み込み中…"</string>
+    <string name="uv_matching_articles">"一致する記事"</string>
+    <string name="uv_matching_articles_and_ideas">"一致する記事とアイデア"</string>
+    <string name="uv_menu_attach">"添付"</string>
+    <string name="uv_menu_search">"検索"</string>
+    <string name="uv_msg_bad_email_format">"有効なメールアドレスを入力してください。"</string>
+    <string name="uv_msg_comment_posted">"コメントが投稿されました"</string>
+    <string name="uv_msg_confirm_discard_message">"メッセージを破棄してもよろしいですか?"</string>
+    <string name="uv_msg_custom_fields_validation">"必須フィールドはすべて記入してください。"</string>
+    <string name="uv_msg_forgot_password">"パスワードを忘れた場合メールで送信"</string>
+    <string name="uv_msg_idea_created">"アイデアが作成されました"</string>
+    <string name="uv_msg_ticket_created">"メッセージは送信されました。"</string>
+    <string name="uv_msg_user_identity_validation">"有効なメールアドレスを入力してください。"</string>
+    <string name="uv_name_hint">"匿名"</string>
+    <string name="uv_network_error">"ユーザーボイスへ接続できません"</string>
+    <string name="uv_nevermind">"注意"</string>
+    <string name="uv_new_comment">"新しいコメント"</string>
+    <string name="uv_next">"次へ"</string>
+    <string name="uv_no">"なし"</string>
+    <string name="uv_none_of_these_help">"ヘルプがありません"</string>
+    <string name="uv_password">"パスワード"</string>
+    <string name="uv_password_dialog_title">"パスワードを入力してください。"</string>
+    <string name="uv_portal_title">"ヘルプ"</string>
+    <string name="uv_post_a_comment">"コメントを投稿"</string>
+    <string name="uv_post_comment">"コメントを投稿"</string>
+    <string name="uv_posted_by_format">"%1$s on %2$sから投稿されました"</string>
+    <string name="uv_powered_by_uservoice">"Powered by UserVoice"</string>
+    <string name="uv_ranked">"ランク: %1$s"</string>
+    <string name="uv_remove_votes">"投票を削除"</string>
+    <string name="uv_select_none">"(なし)"</string>
+    <string name="uv_select_one">"1 つ選択"</string>
+    <string name="uv_send_message">"メッセージを送信"</string>
+    <string name="uv_signin_dialog_ok">"サインイン"</string>
+    <string name="uv_signin_dialog_title">"サインイン"</string>
+    <string name="uv_status_format">"状態: %1$s"</string>
+    <string name="uv_submit_idea">"アイデアを投稿"</string>
+    <string name="uv_subscribe">"購読"</string>
+    <string name="uv_subscribe_dialog_title">"このアイデアに賛同する"</string>
+    <string name="uv_suggestion_instant_answer_question">"このアイデアは役に立ちますか?"</string>
+    <string name="uv_thanks">"ありがとうございます!"</string>
+    <string name="uv_unhelpful_article_message_question">"私たちにメッセージを送信しますか？"</string>
+    <string name="uv_value">"値"</string>
+    <string name="uv_very_yes">"はい!"</string>
+    <string name="uv_yes">"はい"</string>
+    <string name="uv_your_email_address">"電子メール アドレス"</string>
+    <string name="uv_your_name">"名前"</string>
+</resources>

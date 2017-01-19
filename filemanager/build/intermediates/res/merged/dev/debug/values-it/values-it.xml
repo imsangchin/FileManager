@@ -1,0 +1,1315 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="alarm_set">
+        <item msgid="6450913786084215050">"L\'allarme sarà attivato tra meno di 1 minuto."</item>
+        <item msgid="6002066367368421848">"L\'allarme sarà attivato tra <ns1:g id="DAYS">%1$s</ns1:g>."</item>
+        <item msgid="8824719306247973774">"L\'allarme sarà attivato tra <ns1:g id="HOURS">%2$s</ns1:g>."</item>
+        <item msgid="8182406852935468862">"L\'allarme sarà attivato tra <ns1:g id="DAYS">%1$s</ns1:g> e <ns1:g id="HOURS">%2$s</ns1:g>."</item>
+        <item msgid="2532279224777213194">"L\'allarme sarà attivato tra <ns1:g id="MINUTES">%3$s</ns1:g>."</item>
+        <item msgid="5936557894247187717">"L\'allarme sarà attivato tra <ns1:g id="DAYS">%1$s</ns1:g> e <ns1:g id="MINUTES">%3$s</ns1:g>."</item>
+        <item msgid="9115697840826129603">"L\'allarme sarà attivato tra <ns1:g id="HOURS">%2$s</ns1:g> e <ns1:g id="MINUTES">%3$s</ns1:g>."</item>
+        <item msgid="2332583385137381060">"L\'allarme sarà attivato tra <ns1:g id="DAYS">%1$s</ns1:g>, <ns1:g id="HOURS">%2$s</ns1:g> e <ns1:g id="MINUTES">%3$s</ns1:g>."</item>
+    </string-array>
+    <string-array name="charset_array">
+        <item>"Latin-1 (ISO-8859-1)"</item>
+        <item>"Unicode (UTF-8)"</item>
+        <item>"Cinese (GBK)"</item>
+        <item>"Cinese (Big5)"</item>
+        <item>"Giapponese (ISO-2022-JP)"</item>
+        <item>"Giapponese (SHIFT_JIS)"</item>
+        <item>"Giapponese (EUC-JP)"</item>
+        <item>"Coreano (EUC-KR)"</item>
+    </string-array>
+    <string-array name="country_names">
+        <item>Aruba</item>
+        <item>Afghanistan (جمهوری اسلامی افغانستان)</item>
+        <item>Angola (República de Angola)</item>
+        <item>Anguilla</item>
+        <item>Albania (Shqipëri)</item>
+        <item>Andorra (Principat d\'Andorra)</item>
+        <item>Antille olandesi</item>
+        <item>Emirati Arabi Uniti (دولة الإمارات العربية المتحدة‎)</item>
+        <item>Argentina (República Argentina)</item>
+        <item>Armenia (Hayastan)</item>
+        <item>Samoa americana</item>
+        <item>Antartide</item>
+        <item>Territori francesi del Sud</item>
+        <item>Antingua e Barbuda</item>
+        <item>Australia (Australia)</item>
+        <item>Austria (Österreich)</item>
+        <item>Azerbaigian</item>
+        <item>Burundi</item>
+        <item>Belgio (België)</item>
+        <item>Benin</item>
+        <item>Burkina Faso</item>
+        <item>Bangladesh (বাংলাদেশ)</item>
+        <item>Bulgaria (България / Balgariya)</item>
+        <item>Bahrain (مملكة البحرين)</item>
+        <item>Bahamas</item>
+        <item>Bosnia-Erzegovina (Bosna i Hercegovina)</item>
+        <item>Bielorussia (Беларусь)</item>
+        <item>Belize</item>
+        <item>Bermuda</item>
+        <item>Bolivia</item>
+        <item>Brasile</item>
+        <item>Barbados</item>
+        <item>Brunei Darussalam (بروني دارالسلام)</item>
+        <item>Bhutan</item>
+        <item>Isola Bouvet</item>
+        <item>Botswana (Lefatshe la Botswana)</item>
+        <item>Repubblica centroafricana (République centrafricaine)</item>
+        <item>Canada</item>
+        <item>Isole Cocos (Keeling)</item>
+        <item>Svizzera (Suisse)</item>
+        <item>Cile</item>
+        <item>Cina (中國)</item>
+        <item>Costa d\'Avorio</item>
+        <item>Camerun</item>
+        <item>Congo</item>
+        <item>Isole Cook</item>
+        <item>Colombia</item>
+        <item>Comore</item>
+        <item>Capo Verde</item>
+        <item>Costa Rica</item>
+        <item>Cuba</item>
+        <item>Isola Christmas</item>
+        <item>Isole Cayman</item>
+        <item>Cipro (Euro)</item>
+        <item>Repubblica Ceca (Česká republika)</item>
+        <item>Germania (Deutschland)</item>
+        <item>Gibuti</item>
+        <item>Dominica</item>
+        <item>Danimarca (Danmark)</item>
+        <item>Repubblica Dominicana</item>
+        <item>Algeria</item>
+        <item>Ecuador</item>
+        <item>Egitto (مصر‎)</item>
+        <item>Eritrea</item>
+        <item>Sahara occidentale</item>
+        <item>Spagna (España)</item>
+        <item>Estonia (Eesti)</item>
+        <item>Etiopia</item>
+        <item>Finlandia (Suomi)</item>
+        <item>Fiji</item>
+        <item>Isole Falkland</item>
+        <item>Francia (France)</item>
+        <item>Belgio (Belgique)</item>
+        <item>Isole Faroe</item>
+        <item>Micronesia</item>
+        <item>Gabon</item>
+        <item>Regno Unito (United Kingdom)</item>
+        <item>Georgia (საქართველო)</item>
+        <item>Ghana</item>
+        <item>Gibilterra</item>
+        <item>Guinea</item>
+        <item>Guadalupa</item>
+        <item>Gambia</item>
+        <item>Guinea Bissau</item>
+        <item>Guinea equatoriale</item>
+        <item>Grecia (Ελλάδα)</item>
+        <item>Grenada</item>
+        <item>Groenlandia</item>
+        <item>Guatemala</item>
+        <item>Guiana francese</item>
+        <item>Guam</item>
+        <item>Guyana</item>
+        <item>Hong Kong (香港)</item>
+        <item>Isole Heard e McDonald</item>
+        <item>Honduras</item>
+        <item>Croazia (Hrvatska)</item>
+        <item>Haiti</item>
+        <item>Ungheria (Magyarország)</item>
+        <item>Indonesia (Republik Indonesia)</item>
+        <item>India (भारत गणराज्य )</item>
+        <item>Territori britannici dell\'Oceano Indiano</item>
+        <item>Irlanda (Ireland)</item>
+        <item>Iran (ایران)</item>
+        <item>Iraq (العراق)</item>
+        <item>Islanda (Ísland)</item>
+        <item>Israele (מְדִינַת יִשְׂרָאֵל  /  دَوْلَةُ إِسْرَائِيلَ)</item>
+        <item>Italia (Italia)</item>
+        <item>Giamaica</item>
+        <item>Giordania (L\'Ürdünn)</item>
+        <item>Giappone (日本国)</item>
+        <item>Kazakistan</item>
+        <item>Kenya (Jamhuri ya Kenya)</item>
+        <item>Kirghizistan</item>
+        <item>Cambogia (कम्बोजदेश)</item>
+        <item>Kiribati</item>
+        <item>Saint Kitts e Nevis</item>
+        <item>Corea, Repubblica di (대한민국)</item>
+        <item>Kuwait (دولة الكويت)</item>
+        <item>Repubblica Popolare Democratica del Laos</item>
+        <item>Libano (اَلْجُمْهُورِيَّة اَللُّبْنَانِيَّة)</item>
+        <item>Liberia</item>
+        <item>Libia</item>
+        <item>Saint Lucia</item>
+        <item>Liechtenstein (Liechtenstein)</item>
+        <item>Sri Lanka (இலங்கை ஜனநாயக சமத்துவ)</item>
+        <item>Lesotho</item>
+        <item>Lituania (Lietuva)</item>
+        <item>Lussemburgo (Lëtzebuerg)</item>
+        <item>Lettonia (Latvija)</item>
+        <item>Macao</item>
+        <item>Marocco</item>
+        <item>Monaco (Monaco)</item>
+        <item>Moldavia (Moldova)</item>
+        <item>Madagascar</item>
+        <item>Maldive</item>
+        <item>Messico</item>
+        <item>Isole Marshall</item>
+        <item>Macedonia</item>
+        <item>Mali</item>
+        <item>Malta (Malta)</item>
+        <item>Myanmar (Pyidaunzu Thanmăda Myăma Nainngandaw)</item>
+        <item>Mongolia</item>
+        <item>Isole Marianne settentrionali</item>
+        <item>Mozambico</item>
+        <item>Mauritania</item>
+        <item>Montserrat</item>
+        <item>Martinica (Martinique)</item>
+        <item>Mauritius (Republik Moris)</item>
+        <item>Malawi</item>
+        <item>Malesia (Persekutuan Malaysia)</item>
+        <item>Mayotte</item>
+        <item>Namibia</item>
+        <item>Nuova Caledonia (Nouvelle-Calédonie)</item>
+        <item>Niger</item>
+        <item>Isola Norfolk (Norfuk Ailen)</item>
+        <item>Nigeria (Republik Nijeriya)</item>
+        <item>Nicaragua</item>
+        <item>Niue</item>
+        <item>Paesi Bassi (Nederland)</item>
+        <item>Norvegia (Norge)</item>
+        <item>Nepal (सङ्घीय लोकतान्त्रिक गणतन्त्र नेपाल)</item>
+        <item>Nauru</item>
+        <item>Nuova Zelanda (New Zealand)</item>
+        <item>Oman (لطنة عمان)</item>
+        <item>Pakistan (پاکِستان)</item>
+        <item>Panama</item>
+        <item>Pitcairn</item>
+        <item>Perù</item>
+        <item>Filippine (Pilipinas)</item>
+        <item>Palau</item>
+        <item>Papua Nuova Guinea</item>
+        <item>Polonia (Polska)</item>
+        <item>Portorico</item>
+        <item>Repubblica Democratica Popolare di Corea</item>
+        <item>Portogallo (Portugal)</item>
+        <item>Paraguay</item>
+        <item>Polinesia francese</item>
+        <item>Qatar</item>
+        <item>Reunion</item>
+        <item>Romania (România)</item>
+        <item>Russia (Россия)</item>
+        <item>Ruanda</item>
+        <item>Arabia Saudita (المملكة العربية السعودية)</item>
+        <item>Serbia e Montenegro</item>
+        <item>Sudan (جمهورية السودان)</item>
+        <item>Senegal</item>
+        <item>Singapore (Singapore)</item>
+        <item>Georgia del Sud e isole Sandwich meridionali</item>
+        <item>Sant\'Elena</item>
+        <item>Isole Svalbard e Jan Mayen</item>
+        <item>Isole Salomone (Solomon Islands)</item>
+        <item>Sierra Leone</item>
+        <item>El Salvador</item>
+        <item>San Marino (San Marino)</item>
+        <item>Somalia</item>
+        <item>Saint Pierre e Miquelon (St. Pierre and Miquelon)</item>
+        <item>Saint Tome e Principe</item>
+        <item>Suriname</item>
+        <item>Slovacchia (Slovensko)</item>
+        <item>Slovenia (Slovenija)</item>
+        <item>Svezia (Sverige)</item>
+        <item>Swaziland (Swatini)</item>
+        <item>Seychelles</item>
+        <item>Repubblica Araba di Siria (جمهورية العربية السورية)</item>
+        <item>Isole Turks e Caicos</item>
+        <item>Chad</item>
+        <item>Togo</item>
+        <item>Tailandia (ราชอาณาจักรไทย)</item>
+        <item>Tagikistan</item>
+        <item>Tokelau</item>
+        <item>Turkmenistan</item>
+        <item>Timor Est</item>
+        <item>Tonga</item>
+        <item>Trinidad e Tobago</item>
+        <item>Tunisia</item>
+        <item>Turchia (Türkiye)</item>
+        <item>Tuvalu</item>
+        <item>TAIWAN, ROC (台灣)</item>
+        <item>Tanzania</item>
+        <item>Uganda (Jamhuri ya Uganda)</item>
+        <item>Ucraina (Україна)</item>
+        <item>Isole Minori Esterne degli Stati Uniti</item>
+        <item>Uruguay</item>
+        <item>Stati Uniti</item>
+        <item>Uzbekistan</item>
+        <item>Santa Sede (Stato della Città del Vaticano)</item>
+        <item>Saint Vincent e Grenadine</item>
+        <item>Venezuela</item>
+        <item>Isole Vergini (britanniche)</item>
+        <item>Isole Vergini (americane)</item>
+        <item>Vietnam (Việt Nam)</item>
+        <item>Vanuatu</item>
+        <item>Isole Wallis e Futuna</item>
+        <item>Samoa</item>
+        <item>Yemen</item>
+        <item>Sudafrica (Republiek van Suid-Afrika)</item>
+        <item>Zaire</item>
+        <item>Zambia</item>
+        <item>Zimbabwe (Simudzai Mureza wedu WeZimbabwe)</item>
+    </string-array>
+    <plurals name="dialog_unzip_preview_size_text">
+        <item quantity="one">Totale: %1$d file, %2$s</item>
+        <item quantity="other">Totale: %1$d files, %2$s</item>
+    </plurals>
+    <plurals name="drag_items">
+        <item quantity="one">Trascina elemento</item>
+        <item quantity="other">Trascina elementi</item>
+    </plurals>
+    <plurals name="number_search_items">
+        <item quantity="one">"%d file trovato"</item>
+        <item quantity="other">"%d file trovati"</item>
+    </plurals>
+    <plurals name="number_selected_items">
+        <item quantity="one">%d voce selezionata</item>
+        <item quantity="other">%d voci selezionate</item>
+    </plurals>
+    <plurals name="uf_sdk_number_of_subscribers_format">
+        <item quantity="one">"A %1$s piace questo argomento"</item>
+        <item quantity="other">"A %1$s piace questo argomento"</item>
+    </plurals>
+    <plurals name="uf_sdk_topics">
+        <item quantity="one">"argomento"</item>
+        <item quantity="other">"argomenti"</item>
+    </plurals>
+    <plurals name="uv_comments">
+        <item quantity="one">"commento"</item>
+        <item quantity="other">"commenti"</item>
+    </plurals>
+    <plurals name="uv_number_of_subscribers_format">
+        <item quantity="one">"%1$s vuole quest'idea"</item>
+        <item quantity="other">"%1$s vuole quest'idea"</item>
+    </plurals>
+    <plurals name="uv_people">
+        <item quantity="one">"persona"</item>
+        <item quantity="other">"persone"</item>
+    </plurals>
+    <plurals name="uv_subscribers">
+        <item quantity="one">"registrato"</item>
+        <item quantity="other">"registrati"</item>
+    </plurals>
+    <string name="AsusWebstroage">AsusWebstorage</string>
+    <string name="AuCloud">AuCloud</string>
+    <string name="BaiDuPCS">BaiDuPCS</string>
+    <string name="Default">Predefinito</string>
+    <string name="Dropbox">Dropbox</string>
+    <string name="Google_Drive">Google Drive</string>
+    <string name="HomeCloud">HomeCloud</string>
+    <string name="OneDrive">OneDrive</string>
+    <string name="Yandex">Yandex</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Vai alla home page"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Vai in alto"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Altre opzioni"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Fine"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Visualizza tutte"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Scegli un\'applicazione"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"OFF"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ON"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Cerca…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Cancella query"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Query di ricerca"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Cerca"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Invia query"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Ricerca vocale"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Condividi con"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Condividi con %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Comprimi"</string>
+    <string name="about">Informazioni su</string>
+    <string name="account_asus">ASUS</string>
+    <string maxwidth="-1" name="action">Accedi</string>
+    <string description="cutstom action bar view title for about" maxwidth="-1" name="action_about">Informazioni</string>
+    <string description="action add files" maxwidth="-1" name="action_add">Aggiungi</string>
+    <string description="cutstom action bar view title for add folder" maxwidth="-1" name="action_add_folder">Aggiungi cartella</string>
+    <string description="View title of custom action bar, apply to multiple selected files" maxwidth="-1" name="action_apply_selected_file">Applica</string>
+    <string description="action cancel" maxwidth="-1" name="action_cancel">Annulla</string>
+    <string maxwidth="-1" name="action_clean">"Cancella"</string>
+    <string maxwidth="-1" name="action_clean_all">"Cancella tutto"</string>
+    <string description="cutstom action bar view title for clear search history" maxwidth="" name="action_clear_history">Cancella cronologia ricerche</string>
+    <string description="cutstom action bar view title for edit" maxwidth="" name="action_edit">"Modifica"</string>
+    <string maxwidth="" name="action_hidden_zone">"Sposta in Archivio nascosto"</string>
+    <string description="cutstom action bar view title for hinde system file" maxwidth="-1" name="action_hind_system_file">Nascondi file di sistema</string>
+    <string name="action_loading">"Caricamento…"</string>
+    <string description="cutstom action bar view title for open with" maxwidth="" name="action_open_with">"Apri con..."</string>
+    <string name="action_refresh_cloudfile">"Aggiorna"</string>
+    <string maxwidth="-1" name="action_restore">"Ripristina"</string>
+    <string maxwidth="-1" name="action_restore_all">"Ripristina tutto"</string>
+    <string description="cutstom action bar view title for search" maxwidth="" name="action_search">Cerca</string>
+    <string description="cutstom action bar view title for set as" maxwidth="" name="action_set_as">"Imposta immagine come"</string>
+    <string description="menu title for setting" maxwidth="-1" name="action_settings">"Impostazioni"</string>
+    <string description="cutstom action bar view title for sharing" maxwidth="-1" name="action_share">"Condividi"</string>
+    <string description="String for asking for the rule of sorting" maxwidth="-1" name="action_sort_by">Ordina per</string>
+    <string description="cutstom action bar view title for zip" maxwidth="" name="action_zip">Comprimi</string>
+    <string description="Dialog title: Add cloud storage" maxwidth="-1" name="add_cloud_storage_dialog_title">Aggiungi archiviazione su cloud</string>
+    <string name="add_favorite">Aggiungi a Preferiti</string>
+    <string name="add_favorite_folder">"Aggiungi cartella preferiti"</string>
+    <string name="add_favorite_success">Salva su Preferiti</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="add_progress">Creazione...</string>
+    <string description="Don&apos;t remind me again" maxwidth="-1" name="alert_cb_msg">Non ricordarmelo pi\u00f9</string>
+    <string description="ASUS ZenUI Services is not support, need update ASUS ZenUI Services" maxwidth="-1" name="alert_msg_azs_update">%1$s richiede l\'ultima versione di ASUS ZenUI Services, installa ora.</string>
+    <string description="Client app is not support, need update client app" maxwidth="-1" name="alert_msg_client_update">Nuova versione di %1$s disponibile, installa ora.</string>
+    <string description="Client app version is compatible with ASUS ZenUI Services" maxwidth="-1" name="alert_msg_compatible">La versione di %1$s \u00e8 compatibile con ASUS ZenUI Services.</string>
+    <string description="Client app version is match with ASUS ZenUI Services" maxwidth="-1" name="alert_msg_match">La versione di %1$s coincide con ASUS ZenUI Services.</string>
+    <string description="ASUS ZenUI Services is not found on device" maxwidth="-1" name="alert_msg_not_found">Non hai installato ASUS ZenUI Services!\n\nVuoi scaricarlo e installarlo adesso?</string>
+    <string description="Dialog title" maxwidth="-1" name="alert_title">Avviso</string>
+    <string description="Dialog title" maxwidth="-1" name="alert_title_update">Aggiornamento consigliato</string>
+    <string name="app_cloudstorage_name">CloudStorage</string>
+    <string name="app_upload_complete">"%s caricamento"</string>
+    <string description="" name="article_one">Accetto le \"<u>Condizioni di utilizzo</u>\ ASUS\", l\'\"<u>Informativa sulla privacy</u>\" ASUS , le \"<u>Condizioni di utilizzo</u>\" ASUS WebStorage, l\'\"<u>Informativa sulla privacy</u>\" ASUS WebStorage.</string>
+    <string description="" name="article_two">Tienimi aggiornato da eDMs con le notizie ASUS, gli aggiornamenti software e le ultime informazioni su prodotti e servizi.</string>
+    <string description="Text for create asus account button." maxwidth="" name="asus_account_create_button">Crea nuovo</string>
+    <string name="asus_account_integrate_dialog_content">Integrare il servizio ASUS Cloud Storage con l\'account ASUS? \n\n Dopo l\'integrazione, è possibile utilizzare tutti i servizi ASUS per lo stesso account.</string>
+    <string name="asus_account_integrate_dialog_skip">Ignora</string>
+    <string name="asus_account_integrate_dialog_title">Integra servizi ASUS</string>
+    <string name="asus_account_integrate_dialog_yes">Sì</string>
+    <string description="Text for asus account content 1st." maxwidth="" name="asus_account_msg_content_1">Servizio di assistenza personale ASUS ed estensione della garanzia per i prodotti registrati.</string>
+    <string description="Text for asus account content 2nd." maxwidth="" name="asus_account_msg_content_2">5 GB di spazio di archiviazione su cloud gratuito.</string>
+    <string description="Text for asus account content 3rd." maxwidth="" name="asus_account_msg_content_3">Ultime informazioni su accessori e prodotti ricondizionati.</string>
+    <string description="Text for asus account content title." maxwidth="" name="asus_account_msg_title">Crea un account ASUS per ottenere:</string>
+    <string name="asus_account_only_one_alert">"È possibile aggiungere un solo account ASUS. Hai eliminato l'account attuale prima di sostituirlo con uno nuovo."</string>
+    <string name="asus_account_prefc">"Impostazioni"</string>
+    <string name="asus_account_prefc_advc">"Impostazioni avanzate"</string>
+    <string name="asus_account_registe_country_error">Selezionare un Paese/regione!</string>
+    <string name="asus_account_registe_id_error">Errore e-mail</string>
+    <string name="asus_account_registe_policy_error">Per registrare un account ASUS, è necessario accettare l\'informativa ASUS!</string>
+    <string name="asus_account_registe_pw_error_1">Password non può essere vuoto!</string>
+    <string name="asus_account_registe_pw_error_2">Conferma password non può essere vuoto!</string>
+    <string name="asus_account_registe_pw_error_3">Password e Conferma password devono essere identici!</string>
+    <string name="asus_account_registe_pw_error_4">"La password deve contenere da 8 a 25 caratteri."</string>
+    <string name="asus_account_removeaccount_dialog_content">"Integrazione dell'account riuscito. Effettuare il login con il nuovo account."</string>
+    <string name="asus_account_removeaccount_dialog_title">"Integrazione dell'account ASUS riuscito"</string>
+    <string name="asus_commonui_activity_chooser_view_see_all">"Mostra tutto"</string>
+    <string name="asus_commonui_activity_resolver_use_always">"Sempre"</string>
+    <string name="asus_commonui_activity_resolver_use_once">"Solo una volta"</string>
+    <string name="asus_commonui_activitychooserview_choose_application">"Scegli un\'applicazione"</string>
+    <string name="asus_commonui_activitychooserview_choose_application_error">
+        "Impossibile avviare l\'applicazione <ns1:g id="APPLICATION_NAME">%s</ns1:g>"
+    </string>
+    <string name="asus_commonui_cancel_label">"Annulla"</string>
+    <string name="asus_commonui_chooseActivity">"Scegli un\'azione"</string>
+    <string msgid="3968620852217927702" name="asus_commonui_day_picker_description">"Griglia del mese suddivisa per giorni"</string>
+    <string msgid="6908431551612331381" name="asus_commonui_deleted_key">"<ns1:g id="KEY">%1$s</ns1:g> eliminato"</string>
+    <string name="asus_commonui_done_label">"OK"</string>
+    <string msgid="7586639618712934060" name="asus_commonui_hour_picker_description">"Dispositivo di scorrimento circolare per le ore"</string>
+    <string msgid="2674929164900463786" name="asus_commonui_item_is_selected">"Elemento selezionato: <ns1:g id="ITEM">%1$s</ns1:g>"</string>
+    <string msgid="6024811202872705251" name="asus_commonui_minute_picker_description">"Dispositivo di scorrimento per i minuti"</string>
+    <string name="asus_commonui_noApplications">"Nessuna applicazione è in grado di eseguire questa azione."</string>
+    <string name="asus_commonui_no_url_handler">"Nessuna applicazione trovata per aprire l'URL"</string>
+    <string name="asus_commonui_privacy_policy">Informativa sulla privacy</string>
+    <string name="asus_commonui_privacy_policy_url">http://www.asus.com/IT/Terms_of_Use_Notice_Privacy_Policy/Privacy_Policy</string>
+    <string msgid="3973338219107019769" name="asus_commonui_select_day">"Seleziona mese e giorno"</string>
+    <string msgid="7651068754188418859" name="asus_commonui_select_hours">"Seleziona le ore"</string>
+    <string msgid="8327182090226828481" name="asus_commonui_select_minutes">"Seleziona i minuti"</string>
+    <string msgid="2603330600102539372" name="asus_commonui_select_year">"Seleziona anno"</string>
+    <string name="asus_commonui_shareactionprovider_share_with">"Condividi con"</string>
+    <string name="asus_commonui_shareactionprovider_share_with_application">
+        "Condividi con <ns1:g id="APPLICATION_NAME">%s</ns1:g>"
+    </string>
+    <string name="asus_commonui_terms_of_use_notice">Termini di utilizzo del prodotto</string>
+    <string name="asus_commonui_terms_of_use_notice_url">http://www.asus.com/IT/Terms_of_Use_Notice_Privacy_Policy/Official_Site/</string>
+    <string name="asus_commonui_whichApplication">"Completa l\'azione con"</string>
+    <string name="asus_commonui_whichHomeApplication">"Seleziona un\'app home"</string>
+    <string msgid="6963340404644587098" name="asus_commonui_year_picker_description">"Elenco degli anni"</string>
+    <string name="asus_feedback_and_help">Valutazioni &amp; aiuto</string>
+    <string name="asus_registe_success_title">"Registrazione dell'account ASUS riuscito"</string>
+    <string name="asus_response_resultdata">"Account già registrato."</string>
+    <string name="asusaccount_app_name">Account ASUS</string>
+    <string maxwidth="-1" name="attribution_notice">"Informazioni sulla licenza"</string>
+    <string maxwidth="-1" name="attribution_notice_content">
+    "
+    \nQuesto prodotto contiene gli open source elencati di seguito:
+\n\nuservoice-android-sdk, con licenza Apache License Versione 2.0. La licenza può essere scaricata da http://www.apache.org/licenses/LICENSE-2.0.html .
+        \n\nangular-filemanager, con licenza MIT. La licenza può essere scaricata da https://github.com/joni2back/angular-filemanager/blob/master/LICENSE .
+        \n\nprogressbar, con licenza MIT. La licenza può essere scaricata da https://github.com/kimmobrunfeldt/progressbar.js/blob/master/LICENSE .
+        \n\ntoastr, Copyright (c) 2012-2015 John Papa, Tim Ferrell, Hans Fjällemark\nAutorizzazione concessa, gratuitamente, a qualsiasi utente che possieda una copia di questo software e i file della documentazione associata ("Software"), per utilizzare il Software senza limitazioni, inclusi i diritti di uso, copia, modifica, unione, pubblicazione, distribuzione, concessione di licenza e/o vendita di copie del Software, e per autorizzare a tali azioni gli utenti a cui viene fornito il Software, alle seguenti condizioni:
+        La presente notifica di copyright e di autorizzazioni devono essere incluse in tutte le copie e in parti sostanziali del Software. IL SOFTWARE È FORNITO "COSI COM\'È", SENZA GARANZIA DI ALCUN TIPO, ESPRESSA O IMPLICITA, INCLUSE, SENZA LIMITAZIONI, LE GARANZIE DI COMMERCIABILITÀ, IDONEITÀ PER SCOPI PARTICOLARI E NON VIOLAZIONE. IN NESSUN CASO GLI AUTORI O I PROPRIETARI DEL COPYRIGHT POTRANNO ESSERE RITENUTI RESPONSABILI PER QUALSIASI RECLAMO, DANNO O ALTRO TIPO DI RESPONSABILITÀ, A SEGUITO DI AZIONE CONTRATTUALE, ILLECITO O ALTRO, DERIVANTI O CORRELATI AL SOFTWARE O ALL\'USO DEL SOFTWARE O AD ALTRE OPERAZIONI CON LO STESSO."
+    </string>
+    <string name="aucloud_account_only_one_alert">"È possibile aggiungere un solo account Cloud. Hai eliminato l'account attuale prima di sostituirlo con uno nuovo."</string>
+    <string description="string indicating how camera shooting feature is used" maxwidth="-1" name="auto">Autom.</string>
+    <string maxwidth="-1" name="aws_install_contnet">WebStorage non installato. Scaricare e installare da Play Store?</string>
+    <string maxwidth="" name="aws_install_title">WebStorage non installato</string>
+    <string description="button text." maxwidth="-1" name="back_button_label">Indietro</string>
+    <string name="baidu_alert_info">"Questo dispositivo con piattaforma Baidu può accedere ai dati solo in "My Application Data\\asus\\"."</string>
+    <string name="baidu_alert_title">"Archiviazione su cloud Baidu"</string>
+    <string name="baidu_storage_title">"百度云"</string>
+    <string name="baidupcs_account_only_one_alert">"È possibile aggiungere un solo Baidu OneDrive per ASUS. Hai eliminato l'account attuale prima di sostituirlo con uno nuovo."</string>
+    <string name="btn_OK">OK</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="calculate_progress">"In corso..."</string>
+    <string description="Toast: can not open in hidden zone" maxwidth="-1" name="can_not_open_in_hidden_zone">"Impossibile aprire in Archivio nascosto"</string>
+    <string description="Dialog Button: cancel for dialog" maxwidth="" name="cancel">Annulla</string>
+    <string name="cancle">Annulla</string>
+    <string name="category_apk">App</string>
+    <string maxwidth="11" name="category_app1">"App"</string>
+    <string name="category_compress">"Compresso"</string>
+    <string maxwidth="11" name="category_compressed1">"Compresso"</string>
+    <string name="category_count">"%s"</string>
+    <string maxwidth="11" name="category_document1">"Documenti"</string>
+    <string name="category_documents">"Documenti"</string>
+    <string name="category_download">Download</string>
+    <string maxwidth="11" name="category_download1">"Download"</string>
+    <string name="category_favorite">Preferiti</string>
+    <string maxwidth="11" name="category_favorite1">"Preferiti"</string>
+    <string name="category_game">"Giochi"</string>
+    <string name="category_image">Immagine</string>
+    <string maxwidth="11" name="category_image1">"Immagini"</string>
+    <string maxwidth="11" name="category_large_file1">"File grandi"</string>
+    <string name="category_music">Musica</string>
+    <string maxwidth="11" name="category_music1">"Musica"</string>
+    <string name="category_name_app_wallpaper">"Sfondi animati"</string>
+    <string name="category_name_app_widgets">"Widget"</string>
+    <string name="category_name_books_and_reference">"Libri e consultazione"</string>
+    <string name="category_name_business">"Affari"</string>
+    <string name="category_name_comics">"Fumetti"</string>
+    <string name="category_name_communication">"Comunicazione"</string>
+    <string name="category_name_education">"Istruzione"</string>
+    <string name="category_name_entertainment">"Intrattenimento"</string>
+    <string name="category_name_finance">"Finanza"</string>
+    <string name="category_name_game">"Giochi"</string>
+    <string name="category_name_game_action">"Azione"</string>
+    <string name="category_name_game_adventure">"Avventura"</string>
+    <string name="category_name_game_arcade">"Arcade"</string>
+    <string name="category_name_game_board">"Da tavolo"</string>
+    <string name="category_name_game_card">"Carte"</string>
+    <string name="category_name_game_casino">"Casinò"</string>
+    <string name="category_name_game_casual">"Casual"</string>
+    <string name="category_name_game_educational">"Educativi"</string>
+    <string name="category_name_game_family">"Famiglia"</string>
+    <string name="category_name_game_music">"Musica"</string>
+    <string name="category_name_game_puzzle">"Puzzle"</string>
+    <string name="category_name_game_racing">"Corse"</string>
+    <string name="category_name_game_role_playing">"Giochi di ruolo"</string>
+    <string name="category_name_game_simulation">"Simulazione"</string>
+    <string name="category_name_game_sports">"Sport"</string>
+    <string name="category_name_game_strategy">"Strategia"</string>
+    <string name="category_name_game_trivia">"Cultura generale"</string>
+    <string name="category_name_game_word">"Giochi basati sulle parole"</string>
+    <string name="category_name_health_and_fitness">"Salute e fitness"</string>
+    <string name="category_name_libraries_and_demo">"Librerie e demo"</string>
+    <string name="category_name_lifestyle">"Stile di vita"</string>
+    <string name="category_name_media_and_video">"Multimedia e video"</string>
+    <string name="category_name_medical">"Medicina"</string>
+    <string name="category_name_music_and_audio">"Musica e audio"</string>
+    <string name="category_name_news_and_magazines">"Notizie e riviste"</string>
+    <string name="category_name_personalization">"Personalizzazione"</string>
+    <string name="category_name_photography">"Fotografia"</string>
+    <string name="category_name_productivity">"Produttività"</string>
+    <string name="category_name_shopping">"Shopping"</string>
+    <string name="category_name_social">"Social"</string>
+    <string name="category_name_sports">"Sport"</string>
+    <string name="category_name_tools">"Strumenti"</string>
+    <string name="category_name_transportation">"Trasporti"</string>
+    <string name="category_name_travel_and_local">"Viaggi e info locali"</string>
+    <string name="category_name_weather">"Meteo"</string>
+    <string name="category_others">"Altri"</string>
+    <string maxwidth="11" name="category_recent1">"Recenti"</string>
+    <string name="category_recent_files">"Aggiunti di recente"</string>
+    <string name="category_sorting_summary">"Selezionare gli elementi nel pannello della categoria"</string>
+    <string name="category_title_category">Categoria</string>
+    <string name="category_title_local_storage">Archiviazione locale</string>
+    <string name="category_title_tools">"Strumenti"</string>
+    <string name="category_toast_invalid_item_size_6_or_9">"Selezionare 6 o 9 elementi"</string>
+    <string name="category_toast_invalid_item_size_9">"Selezionare 9 elementi"</string>
+    <string name="category_toast_invalid_remove">"Impossibile eliminare questo elemento."</string>
+    <string name="category_toast_max_item_size">"Selezionare 9 elementi max."</string>
+    <string name="category_video">Video</string>
+    <string maxwidth="11" name="category_video1">"Video"</string>
+    <string name="clear_account_info">Dimentica tutti gli account</string>
+    <string description="Menu Option: clear all checkbox" maxwidth="" name="clear_all">Cancella tutto</string>
+    <string name="click_plus_to_add_favorite_folder">"Toccare + per aggiungere una cartella preferiti"</string>
+    <string description="Toast: The size is over the limit and cannot be uploaded" maxwidth="-1" name="cloud_download_flie_limit_space">"Impossibile scaricare il file. Le dimensioni del file superano il limite massimo."</string>
+    <string description="Toast: The name of the file uploaded is not supported by cloud server" maxwidth="-1" name="cloud_flie_name_not_supported">"Impossibile completare l'operazione in quanto il nome file non è completato dal server cloud."</string>
+    <string description="home cloud get available devices fail" name="cloud_homebox_get_devices_fail">Ricerca dispositivi HomeCloud non riuscita</string>
+    <string description="home cloud has no available devices" name="cloud_homebox_no_available_devices">Nessun dispositivo HomeCloud disponibile</string>
+    <string description="home cloud device is sleep" name="cloud_homebox_status__info_Sleep">Sospensione</string>
+    <string description="home cloud device is offline" name="cloud_homebox_status__info_offline">"Offline"</string>
+    <string description="home cloud device is online" name="cloud_homebox_status__info_online">"Online"</string>
+    <string description="home cloud device is offline" name="cloud_homebox_status_offline">Dispositivo offline</string>
+    <string description="diaglog cloud background paste" name="cloud_paste_backgroud">Sfondo</string>
+    <string description="diaglog cloud  now is copy files" name="cloud_paste_copying">Copia in corso...</string>
+    <string description="diaglog cloud  current" name="cloud_paste_current">Attuale</string>
+    <string description="diaglog cloud  now is delete source files" name="cloud_paste_deleting">Eliminazione file sorgente...</string>
+    <string description="diaglog cloud  paste" name="cloud_paste_downloading">Download di file</string>
+    <string description="diaglog cloud  total" name="cloud_paste_total">Totale</string>
+    <string description="diaglog cloud  paste uploading" name="cloud_paste_uploading">Caricamento di file</string>
+    <string description="Toast: cloud preview action" maxwidth="-1" name="cloud_preview_action_fail">Anteprima file su cloud non riuscita.</string>
+    <string description="Toast: cloud share action" maxwidth="-1" name="cloud_share_action_fail">Condivisione file su cloud non riuscita.</string>
+    <string description=">Do you want to remove" maxwidth="-1" name="cloud_storage_remove_hint">"Uscire dall'account \"%s\"?"</string>
+    <string description="Dialog title: Remove cloud storage" maxwidth="-1" name="cloud_storage_remove_hint_title">Disconnetti</string>
+    <string description=">Do you want to signin" maxwidth="-1" name="cloud_storage_sign_in">"Connetti usando l'account seguente:"</string>
+    <string description="Dialog title: Signin cloud storage" maxwidth="-1" name="cloud_storage_sign_in_title">Connessione a %s</string>
+    <string description=">Do you want to signout" maxwidth="-1" name="cloud_storage_sign_out">Vuoi davvero disconnetterti?</string>
+    <string description="Dialog title: Signout cloud storage" maxwidth="-1" name="cloud_storage_sign_out_title">Disconnetti</string>
+    <string description="Add more cloud storage" maxwidth="-1" name="cloud_storage_title">Aggiungi altra archiviazione su cloud</string>
+    <string description="diaglog cloud  token is invalidate" name="cloud_token_invalidate">Token non valido. Effettuare di nuovo il login!</string>
+    <string description="Toast: The size is over the limit and cannot be uploaded" maxwidth="-1" name="cloud_upload_flie_limit_space">"Impossibile caricare il file. Le dimensioni del file superano il limite massimo."</string>
+    <string name="com_facebook_image_download_unknown_error">Errore imprevisto durante il
+        caricamento di un\'immagine.</string>
+    <string name="com_facebook_internet_permission_error_message">L\'accesso tramite Web richiede
+        l\'autorizzazione INTERNET</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifest Error</string>
+    <string name="com_facebook_like_button_liked">Ti piace</string>
+    <string name="com_facebook_like_button_not_liked">Mi piace</string>
+    <string name="com_facebook_loading">Caricamento...</string>
+    <string name="com_facebook_loginview_cancel_action">Annulla</string>
+    <string name="com_facebook_loginview_log_in_button">Accedi</string>
+    <string name="com_facebook_loginview_log_in_button_long">Accedi con Facebook</string>
+    <string name="com_facebook_loginview_log_out_action">Esci</string>
+    <string name="com_facebook_loginview_log_out_button">Esci</string>
+    <string name="com_facebook_loginview_logged_in_as">Accesso effettuato come: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Accesso effettuato con Facebook</string>
+    <string name="com_facebook_send_button_text">Invia</string>
+    <string name="com_facebook_share_button_text">Condividi</string>
+    <string name="com_facebook_tooltip_default">Novità! Il controllo è nelle tue mani: scegli quali informazioni condividere con le applicazioni.</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Attiva"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> non funzionerà se non attivi Google Play Services."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Attiva Google Play Services"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Installa"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"L\'app <ns1:g id="APP_NAME">%1$s</ns1:g> non funzionerà senza Google Play Services, non presente sul tuo dispositivo."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Installa Google Play Services"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Errore Google Play Services"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> sta riscontrando problemi con Google Play Services. Riprova."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> non funzionerà senza Google Play Services, non supportati dal tuo dispositivo."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Aggiorna"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> non funzionerà se non aggiorni Google Play Services."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Aggiorna Google Play Services"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> non funzionerà senza Google Play Services, attualmente in fase di aggiornamento."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"È richiesta una nuova versione di Google Play Services. L\'aggiornamento automatico verrà eseguito a breve."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Apri sul telefono"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Accedi"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Accedi con Google"</string>
+    <string name="confirm">"Conferma"</string>
+    <string maxwidth="-1" name="confirm_ok">OK</string>
+    <string description="confirm password textview title" name="confirm_password">Conferma password</string>
+    <string description="ask user to enter password again to confirm" name="confirm_password_edit">Immetti di nuovo la password</string>
+    <string description="content" maxwidth="-1" name="content">"L'utilizzo di questo software è soggetto ai termini e alle condizioni definite nel sito ASUS: \nhttp://www.asus.com"</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="copy">Copia</string>
+    <string description="Toast: copy ready" maxwidth="-1" name="copy_ready_more">I file selezionati sono stati copiati e pronti per essere inviati.</string>
+    <string description="Toast: copy ready. %s is variable string." maxwidth="-1" name="copy_ready_one">"\"%s\" è stato copiato ed è pronto per essere inviato."</string>
+    <string name="copy_to">Copia in</string>
+    <string description="country region textview title" name="country_region">Paese/regione</string>
+    <string description="ack user to select on country" name="country_region_select">Seleziona regione</string>
+    <string name="create_shortcut">"Crea un collegamento"</string>
+    <string name="create_shortcut_dialog">"Crea un collegamento dall'utilità di avvio"</string>
+    <string name="create_shortcut_toast">"Creazione di un collegamento dall'utilità di avvio completata"</string>
+    <string name="cta_agree">"Consenti"</string>
+    <string name="cta_check_title">"Ricorda"</string>
+    <string name="cta_dialog_content"><b>Gestione File</b> tenta di usare la rete. A seconda degli abbonamenti, potrebbero essere applicate altre tariffe.</string>
+    <string name="cta_dialog_title">"Utilizzo rete"</string>
+    <string name="cta_disagree">"Rfiuta"</string>
+    <string name="cta_show_menu">"Autorizzazione di rete"</string>
+    <string name="current_folder">"Cartella attuale"</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="cut">Taglia</string>
+    <string description="Toast: cut ready" maxwidth="-1" name="cut_ready_more">I file selezionati sono stati tagliati e pronti per essere inviati.</string>
+    <string description="Toast: cut ready. %s is variable string." maxwidth="-1" name="cut_ready_one">"\"%s\" è stato tagliato ed è pronto per essere inviato."</string>
+    <string description="button text for sort file by date" maxwidth="-1" name="date">Data</string>
+    <string description="button text for sort file by date ascending" maxwidth="-1" name="date_ascending">Data (meno recente-più recente)</string>
+    <string description="button text for sort file by date descending" maxwidth="-1" name="date_descending">Data (più recente-meno recente)</string>
+    <string msgid="7984755014526510295" name="day">"1 giorno"</string>
+    <string msgid="2070509222727852210" name="days">"<ns1:g id="DAYS">%s</ns1:g> giorni"</string>
+    <string maxwidth="-1" name="dbx_install_contnet">Dropbox non installato. Scaricare e installare da Play Store?</string>
+    <string maxwidth="" name="dbx_install_title">Dropbox non installato</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="delete">Elimina</string>
+    <string description="Dialog Title: delete dialog title" maxwidth="" name="delete_dialog">Eliminazione file</string>
+    <string description="Toast: delete fails" maxwidth="-1" name="delete_fail">Eliminazione file non riuscita.</string>
+    <string description="Dialog Content: text in dialog. %d is variable number." maxwidth="" name="delete_more_files">Eliminare gli elementi %d?</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="delete_one_directory">Vuoi eliminare la cartella?</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="delete_one_files">Desiderate eliminare il file?</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="delete_progress">Eliminazione...</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="delete_size">"Dimensioni: "</string>
+    <string description="Toast: delete success" maxwidth="-1" name="delete_success_more">I file selezionati sono stati eliminati.</string>
+    <string description="Toast: delete success. %s is variable string." maxwidth="-1" name="delete_success_one">"\"%s\" è stato eliminato."</string>
+    <string description="cutstom action bar view title for deselect all checkbox" maxwidth="" name="deselect_all">Deseleziona tutto</string>
+    <string name="device_root_path">root</string>
+    <string description="compress dialog title" maxwidth="-1" name="dialog_create_zip_title">Inserire il nome dell’archivio</string>
+    <string description="extract zip file dialog title. %s is a dynamic string. It is zip file name." maxwidth="-1" name="dialog_extract_zip_title">Estrai %s su:</string>
+    <string name="dialog_load_stream_url_info">Recupero delle informazioni necessarie dal server</string>
+    <string name="dialog_msg_market_login_account">"Accedi al tuo account Google per scaricare l'app"</string>
+    <string description="text encoding dialog title" maxwidth="-1" name="dialog_text_encoding_title">Codifica testo</string>
+    <string name="dialog_title_market_login_account">"Aggiungi account"</string>
+    <string description="show zip info dialog title. %s is a dynamic string. Is is a zip file name" maxwidth="-1" name="dialog_unzip_preview_title">Estrazione %s</string>
+    <string description="Dialog Title: Directory information dialog title" maxwidth="-1" name="dir_info_dialog_title">Informazioni directory</string>
+    <string name="display">"Visualizza come"</string>
+    <string name="display_hint">"Computer, può essere vuoto"</string>
+    <string name="dm_openfile">"Apri file"</string>
+    <string name="do_not_show_again">"Non mostrare più questo messaggio."</string>
+    <string name="domain">"Dominio:"</string>
+    <string name="domain_hint">"Può essere vuoto"</string>
+    <string name="download_fail">download non riuscito!</string>
+    <string name="drag_items_one">Trascina elemento</string>
+    <string name="drag_items_other">Trascina elementi</string>
+    <string name="drawer_close">"Chiudi drawer navigazione"</string>
+    <string name="drawer_home">Home</string>
+    <string name="drawer_open">"Apri drawer navigazione"</string>
+    <string description="Hint: the operation is incorrect" maxwidth="-1" name="drop_incorrect_hint">Operazione errata.</string>
+    <string description="Hint: the target folder which you want to do something" maxwidth="-1" name="drop_target_to">Destinazione:</string>
+    <string name="dumdownloadfrom">Scarica da</string>
+    <string name="dumuploadto">Carica su</string>
+    <string name="duplicate_files">"Duplica file"</string>
+    <string name="duplicate_files_content_hint">"Trovare i file duplicati ed eliminarli con l'autorizzazione."</string>
+    <string name="edit_toast_name_too_long">Numero massimo di caratteri raggiunto</string>
+    <string name="edit_toast_special_char">Impossibile includere caratteri speciali</string>
+    <string name="editcategory_hint">"Toccare il tasto modifica per personalizzare il pannello Categoria."</string>
+    <string description="describe the empty folder" maxwidth="-1" name="empty_folder_title">"Nessun file"</string>
+    <string description="Dialog Button: click to open the encoding list dialog" maxwidth="-1" name="encode">Codifica testo</string>
+    <string description="ask user to enter password" maxwidth="-1" name="enter_password">"Digita password"</string>
+    <string name="eula_content_description">
+        \nIl presente Contratto di licenza con l\'utente ("CONTRATTO DI LICENZA") rappresenta un contratto valido e vincolante tra ASUSTeK Computer Inc. ("ASUS") e il Cliente, in qualità di utente, per l’uso del software ASUS ("Software"), definito di seguito. Procedendo all’installazione e all’utilizzo del software IL CLIENTE DICHIARA ESPRESSAMENTE DI AVERE LETTO, COMPRESO E ACCETTATO DI VINCOLARSI AI TERMINI DEL PRESENTE CONTRATTO DI LICENZA E DI EVENTUALI NUOVE VERSIONI DELLO STESSO. 
+\n\n1.SOFTWARE indica il software ASUS fornito in o con il prodotto ASUS applicabile, inclusi, senza limitazioni, eventuali e future correzioni di programmazione, aggiornamenti, upgrade e versioni modificate.
+\nIl Software può essere accompagnato da altri software creati da ASUS o da terze parti, con una o più licenze software Free Open Source, come elencato in www.opensource.org/licenses. Questo tipo di software Free Open Source è fornito al Cliente esclusivamente secondo i termini del rispettivo contratto di licenza o copyright associato oppure secondo il file licenze FOSS associato al Software. I termini del presente CONTRATTO DI LICENZA NON si applicato a tale software Free Open Source.
+\n\n2.LICENZA Subordinatamente ai termini del presente CONTRATTO DI LICENZA, ASUS garantisce al Cliente una licenza limitata, personale, non commerciale e non esclusiva per usare il Software unicamente in quanto integrato nei prodotti ASUS. È possibile creare una copia del Software in formato leggibile esclusivamente per fini di backup; premesso che la copia di backup deve includere tutti i copyright e le altre indicazioni di proprietà contenute nell\'originale. Questa licenza non deve essere ceduta in sub-licenza e non è trasferibile, eccetto a persone o entità a cui il Cliente trasferisce la proprietà degli interi prodotti ASUS contenenti il Software, premesso che sono altresì trasferiti tutti i diritti specificati nel presente CONTRATTO DI LICENZA, che non sono conservate copie complete o parziali del Software e che il destinatario accetti i termini del presente CONTRATTO DI LICENZA.
+\n\n3.LIMITAZIONE INVERSA È fatto divieto al Cliente di eseguire operazioni di reverse engineering, decompilazione, decrittazione o disassemblaggio del Software oppure di consentire o indurre altri a eseguire tali operazioni, se non nel caso in cui la legge direttamente applicabile vieta l\'applicazione di quanto sopra esposto.
+\n\n4.RISERVATEZZA Il Cliente è tenuto a proteggere e non divulgare, o causare la divulgazione, di tutte o parte delle informazioni riservate del Software, inclusi, senza limitazioni, segreti commerciali, materiale soggetto a copyright, in qualsiasi formato, a terze parti.
+\n\n5.DIRITTI DI PROPRIETÀ INTELLETTUALE ("Diritti PI") Il Cliente dichiara di conoscere ed accettare che tutti i Diritti PI, il titolo e gli interessi verso o derivanti dal Software sono e resteranno di proprietà esclusiva di ASUS o del suo licenziatario. Nessun elemento del presente CONTRATTO DI LICENZA deve essere inteso come un qualsiasi tipo di trasferimento dei suddetti Diritti PI al Cliente. Qualsiasi uso non autorizzato dei Diritti PI costituisce una violazione del presente CONTRATTO DI LICENZA nonché una violazione delle leggi di proprietà intellettuale, incluse, senza limitazioni, le leggi sul copyright e sui marchi commerciali.
+\nAttraverso l\'invio di qualsiasi informazione, materiale, idee, concetti o tecniche, eccetto le informazioni personali inoltrate ad ASUS tramite il Software ("Feedback"), il Cliente dichiara di essere a conoscenza e di accettare quanto segue: (i) i Feedback del Cliente non devono contenere informazioni confidenziali o circa la proprietá; (ii) ASUS non ha alcun obbligo, di alcun tipo, di riservatezza, espressa o implicita in relazione ai Feedback; (iii)ASUS ha diritto a utilizzare o divulgare, a sua sola discrezione, i Feedback per qualsiasi scopo, in qualsiasi modo, ovunque; (iv) i Feedback del Cliente diventano di proprietà di ASUS senza alcun obbligo di ASUS verso il Cliente; e (v) il Cliente non ha diritto ad alcun risarcimento o rimborso di qualsiasi tipo.
+\n\n6.TERMINE E CESSAZIONE  Il presente CONTRATTO DI LICENZA sarà valido a partire dalla data in cui il Cliente installerá il Software. Il Cliente potrá terminare il presente contratto di licenza in qualsiasi momento, cessando tutti gli usi del Software e rimuovendo il Software dal prodotto ASUS. Il diritto del Cliente cesserà senza preavviso da parte di ASUS se ASUS riterrá il Cliente inadempiente verso qualsiasi disposizione del presente CONTRATTO DI LICENZA.
+\n\n7.GARANZIA E LIMITAZIONI DI RESPONSABILITÀ  IL CLIENTE DICHIARA DI CONOSCERE CHE IL SOFTWARE VIENE FORNITO "COSI COME È". IL RISCHIO COMPLESSIVO RELATIVO ALLA QUALITÀ E ALLE PRESTAZIONI DEL PRESENTE SOFTWARE È A CARICO DEL CLIENTE, INCLUSI, SENZA LIMITAZIONI, I COSTI CORRELATI A TUTTI LE OPERAZIONI DI MANUTENZIONE E RIPARAZIONE NECESSARIE. NELLA MISURA CONSENTITA DELLA LEGGE, ASUS NON FORNISCE ALCUNA GARANZIA, ESPRESSA O IMPLICITA, VERSO QUESTO SOFTWARE O QUALSIASI ALTRA INFORMAZIONE O DOCUMENTAZIONE FORNITA AI SENSI DEL PRESENTE CONTRATTO DI LICENZA O PER QUESTO SOFTWARE, INCLUSA, SENZA LIMITAZIONI, QUALSIASI GARANZIA DI COMMERCIABILITÀ O IDONEITÀ PER SCOPI PARTICOLARI O AVVERSO VIOLAZIONI, OPPURE QUALSIASI GARANZIA DERIVANTE DALL’USO O DALLE PRESTAZIONI. ASUS NON FORNISCE INOLTRE ALCUNA GARANZIA SUI RISULTATI OTTENIBILI DALL’USO DEL PRESENTE SOFTWARE OPPURE PER QUANTO RIGUARDO LA PRECISIONE O L’AFFIDABILITÀ DI QUALSIASI INFORMAZIONI OTTENUTA ATTRAVERSO IL SOFTWARE. ALCUNE GIURISDIZIONI NON CONSENTONO L’ESCLUSIONE DI DETERMINATE GARANZIE O LA LIMITAZIONE O ESCLUSIONE DI RESPONSABILITÀ PER DETERMINATI DANNI. DI CONSEGUENZA, ALCUNE DELLE DICHIARAZIONI E LIMITAZIONI RIPORTATE POTREBBERO NON ESSERE APPLICABILI AL CLIENTE.
+\nTUTTI I RISCHI DERIVANTI DALL’USO E/O DALLE PRESTAZIONI DEL SOFTWARE RESTANO A CARICO DEL CLIENTE. IN NESSU CASO ASUS, I SUOI LICENZIATARI O QUALSIASI DEI RISPETTIVI FUNZIONARI, DIRETTORI, DIPENDENTI, AGENTI O AFFILIATI, SARANNO CONSIDERATI RESPONSABILI PER QUALSIASI DANNO CONSEGUENZIALE, ACCIDENTALE, DIRETTO, INDIRITTO, SPECIALE, SANZIONATORIO O DI QUALSIASI ALTRO TIPO (INCLUSI, SENZA LIMITAZIONI, DANNI PER PERDITA DI GUADAGNI, INTERRUZIONI, PERDITE DI INFORMAZIONI O ALTRE PERDITE PECUNIARIE) DERIVANTI O RELATIVI AL PRESENTE CONTRATTO DI LICENZA OPPURE PER L’USO O L’INCAPACITÀ DI USARE IL SOFTWARE O QUALSIASI PARTE DELLO STESSO, ANCHE NEL CASO IN CUI ASUS SIA STATO INFORMATO DELLA POSSIBILITÀ DI TALI DANNI. ALCUNE GIURISDIZIONI NON CONSENTONO L’ESCLUSIONE DI DETERMINATE GARANZIE O LA LIMITAZIONE O ESCLUSIONE DI RESPONSABILITÀ PER DETERMINATI DANNI. DI CONSEGUENZA, ALCUNE DELLE DICHIARAZIONI E LIMITAZIONI DI RESPONSABILITÀ RIPORTATE POTREBBERO NON ESSERE APPLICABILI AL CLIENTE.
+\n\n8.Indennizzi Il Cliente accetta e si impegna a tutelare, indennizzare e tenere indenne ASUS e i rispettivi affiliati, provider di servizi, distributori, licenziatari, funzionari, direttori e dipendenti, da e avverso qualsiasi e tutte le perdite, i danni, le responsabilità e le spese derivanti da qualsiasi azione o pretesa (incluse ragionevoli spese di consulenza legale, imposte e costi di cancelleria), dovuti o correlati alla violazione del CLIENTE del presente CONTRATTO DI LICENZA o qualsiasi legge o normativa applicabile, o diritto di terzi.
+    </string>
+    <string name="eula_content_title">"Contratto di licenza con l\'utente"</string>
+    <string description="Do not translate ASUS" maxwidth="" name="eula_description">"Un contratto legale tra applicazioni ASUS e utenti finali"</string>
+    <string maxwidth="" name="eula_title">"Contratto di licenza con l\'utente"</string>
+    <string name="example">"Esempio:"</string>
+    <string description="Dialog Button: extract file for dialog" maxwidth="-1" name="extract">Estrai</string>
+    <string name="facebook_app_invite">"Contatti di Facebook"</string>
+    <string name="fb_request_error_permissions">"Questa app non ha l'autorizzazione per fare questo. Prova ad accedere nuovamente all'app."</string>
+    <string name="fileList_Nofiles">Nessun file</string>
+    <string description="Dialog Title: File information dialog title" maxwidth="-1" name="file_info_dialog_title">Informazioni file</string>
+    <string description="Application Name shown on title" maxwidth="" name="file_manager">Gestione File</string>
+    <string description="string indicating camera flash is not used" maxwidth="-1" name="flash_off">Senza flash</string>
+    <string description="string indicating camera flash is fired" maxwidth="-1" name="flash_on">Flash scattato</string>
+    <string description="click to retrieve password" maxwidth="-1" name="forget_password">"<u>Hai dimenticato la password?</u>"</string>
+    <string name="fragment_analyzer_allfiles_used_hint">"Usato:"</string>
+    <string name="fragment_analyzer_chart_free_hint">"Libera:"</string>
+    <string name="fragment_analyzer_chart_total_hint">"Totale:"</string>
+    <string name="fragment_analyzer_chart_used_hint">"USATO"</string>
+    <string name="fragment_analyzer_more_hint">"altro"</string>
+    <string name="google_app_invite">"Contatti di Google"</string>
+    <string name="group_title_installed">"Installato"</string>
+    <string name="group_title_not_installed">"Non installato"</string>
+    <string name="group_title_others">"Altri"</string>
+    <string name="group_title_recommended">"Consigliato"</string>
+    <string name="hidden_zone_change_password">"Modifica password"</string>
+    <string name="hidden_zone_confirm_password">"Conferma codice PIN"</string>
+    <string name="hidden_zone_enter_password">"Inserire il codice PIN"</string>
+    <string name="hidden_zone_fingerprint_to_unlock">"Impronta digitale per sbloccare"</string>
+    <string name="hidden_zone_forget_password">"Password dimenticata"</string>
+    <string name="hidden_zone_introduction_description">"Nascondere i file privati in Archivio nascosto. Per aprire l'Archivio nascosto, è necessario il codice PIN."</string>
+    <string name="hidden_zone_password_mismatch">"Codice PIN non corrispondente"</string>
+    <string name="hidden_zone_set_password_success">"Password impostata correttamente"</string>
+    <string name="hidden_zone_setup_account">"Configura account"</string>
+    <string name="hidden_zone_setup_password">"Inserire un codice PIN a 4 cifre"</string>
+    <string name="hidden_zone_wrong_password">"Codice PIN errato"</string>
+    <string description="Can’t connect to HomeCloud." maxwidth="-1" name="homecloud_access_error">Connessione a HomeCloud non riuscita. Assicurati che il servizio HomeCloud sia attivo.</string>
+    <string name="homecloud_notice_1">ASUS HomeCloud è un software server in esecuzione su Windows. È stato progettato come una libreria di contenuti digitali per la casa e offre servizi di archiviazione su Cloud e streaming multimediale, e in futuro potrebbe offrire altri servizi.</string>
+    <string name="homecloud_notice_2">È possibile scaricarlo e provarlo subito. </string>
+    <string name="homecloud_notice_3">http://home.asuscloud.com/</string>
+    <string name="homecloud_toast_udp_unsupported">Rete limitata. Rivolgersi all\'amministratore di rete o passare all\'altra rete.</string>
+    <string msgid="2546819039651509323" name="hour">"1 ora"</string>
+    <string msgid="2071487018566991613" name="hours">"<ns1:g id="HOURS">%s</ns1:g> ore"</string>
+    <string maxwidth="" name="httpserver_acquire_permission_message">"Il server file HTTP verrà chiuso e le operazioni potrebbero essere interrotte. Continuare?"</string>
+    <string maxwidth="" name="httpserver_connectwifiname">"AP Wi-Fi connesso:"</string>
+    <string maxwidth="" name="httpserver_description">"Avviare il servizio per connettere il dispositivo mobile al PC."</string>
+    <string maxwidth="" name="httpserver_instruction">"Digitare questo indirizzo nel browser del PC:"</string>
+    <string maxwidth="" name="httpserver_need_saf">"Per gestire l'archivio esterno da PC, è necessario concedere le autorizzazioni."</string>
+    <string maxwidth="" name="httpserver_no_network">"Collegare il dispositivo alla stessa rete Wi-Fi"</string>
+    <string maxwidth="" name="httpserver_no_permission_message">"Non è possibile scrivere sull'archivio esterno se non si dispone dell'autorizzazione corretta. Continuare?"</string>
+    <string maxwidth="" name="httpserver_no_permission_title">"Avviare il trasferimento wireless dei file"</string>
+    <string maxwidth="" name="httpserver_start">"Avvia"</string>
+    <string maxwidth="" name="httpserver_stop">"Arresta"</string>
+    <string maxwidth="" name="httpserver_title">"Trasferimento wireless dei file a PC"</string>
+    <string description="Context Menu: options of context menu" maxwidth="-1" name="info">Informazioni</string>
+    <string description="file info textview context" maxwidth="-1" name="info_aperture">"Diaframma: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_datetime">"Data acquisita: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_exposure_time">"Tempo esposiz.: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_file_num">"Numero di file: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_flash">"Flash: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_focal_length">"Lungh. focale: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_image_height">"Altezza: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_image_width">"Larghezza"</string>
+    <string description="file info textview context" maxwidth="-1" name="info_image_x">" x "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_iso">"ISO: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_location">"Luogo: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_maker">"Autore: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_model">"Modello: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_modified">"Data modifica: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_name">"Nome: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_orientation">"Orientamento: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_path">"Percorso: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_permission">"Autorizzazione: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_type">Tipo:</string>
+    <string description="file info textview context" maxwidth="-1" name="info_white_balance">"Bilanc. bianco: "</string>
+    <string description="Do not translate ASUS" maxwidth="" name="inspire_asus_description">"Invia dati di utilizzo ad ASUS per migliorare i prodotti e le funzioni"</string>
+    <string name="inspire_asus_title">"Ispira ASUS"</string>
+    <string name="install">"Installa"</string>
+    <string description="storage label" maxwidth="-1" name="internal_storage_title">Memoria interna</string>
+    <string description="Toast: the account is invalid" maxwidth="-1" name="invalid_account">"Account non valido"</string>
+    <string description="Invalid directory path" maxwidth="-1" name="invalid_directory_path">Percorso directory non valido</string>
+    <string name="invalid_server_id">"ID server non valido"</string>
+    <string name="invalid_xml">"xml non valido"</string>
+    <string name="inviteContentTitle">%1$s ti invita a scaricare e installare ASUS File Manager.</string>
+    <string name="inviteContent_p1">ASUS File Manager è la soluzione ideale per gestire file con il dispositivo smart. Questa app di gestione file consente di gestire e ordinare i vari file archiviati nella memoria del telefono, nella scheda microSD, nella LAN e anche nel cloud.</string>
+    <string name="inviteContent_p2">Gestisci i file in modo efficiente e semplice con ASUS File Manager! ASUS File Manager consente di gestire tutti i file archiviati nella memoria del dispositivo, nella scheda microSD, nella LAN e negli account di archiviazione su cloud, tra cui ASUS HomeCloud e Webstorage e altri servizi su Cloud quali Dropbox, Google Drive o Microsoft OneDrive.</string>
+    <string name="inviteContent_p3">Mi sono divertito con ASUS File Manager. PROVALO! :D</string>
+    <string description="sticker detail page button name" maxwidth="-1" name="invite_friends">"Invita amici"</string>
+    <string name="item">voce</string>
+    <string name="items">voci</string>
+    <string name="keep">"Mantieni"</string>
+    <string name="kk_sd_permission_warning">A causa dei limiti di Android, Android 4.4 non consente ad app di terzi di modificare schede SD esterne.</string>
+    <string name="large_files_content_hint">"Trovare file grandi ed eliminarli con l'autorizzazione."</string>
+    <string description="linked file is missing" maxwidth="-1" name="linked_file_missing">"File collegato non trovato"</string>
+    <string description="text for progress bar" maxwidth="-1" name="loading">"Caricamento..."</string>
+    <string name="local">Locale</string>
+    <string description="button text for sort file by date" maxwidth="-1" name="location">"Posizione"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="logging_cloud_storage">Login...</string>
+    <string name="login_account_miss">"L'app Facebook non \u00e8 riuscita a registrarsi a Android Account Manager. Prova a disconnetterti e ad accedere di nuovo."</string>
+    <string name="login_again_later">"Server non disponibile ora. Riprova pi\u00f9 tardi."</string>
+    <string description="dialog title, key in the asus ID and PW to Login account" maxwidth="-1" name="login_asus_id">"Accedi all'account ASUS"</string>
+    <string description="Toast: login account fail" name="login_fail" width="-1">Login non riuscito</string>
+    <string description="login account name" maxwidth="-1" name="login_id">"Nome account/ID WebStorage"</string>
+    <string description="logout account" name="logout_account" width="-1">Disconnetti</string>
+    <string name="low_storage_tutorial_description">"Tenere premuto per selezionare i file, quindi scegliere \"Sposta su\" Google Drive"</string>
+    <string name="low_storage_tutorial_title">Sposta file su Google Drive</string>
+    <string name="m_permission_dialog_message">"Toccare [Impostazioni] per attivare l'autorizzazione [%2$s] in [Info app] > [Autorizzazioni], quindi riavviare %1$s."</string>
+    <string name="m_permission_dialog_positive_button">"Impostazioni"</string>
+    <string name="m_permission_setting_subtitle_files">"%1$s necessiterà dell'autorizzazione %2$s per accedere ai file nel dispositivo."</string>
+    <string name="m_permission_setting_title_cloud_storage">"Impossibile accedere all'archivio cloud"</string>
+    <string name="m_permission_setting_title_files">"Impossibile accedere ai file"</string>
+    <string name="m_permission_setting_turn_on">"Attiva"</string>
+    <string description="string indicating how camera shooting feature is used" maxwidth="-1" name="manual">Manuale</string>
+    <string name="market_app_error">"Si è verificato un errore con l'app sul mercato installata sul dispositivo!"</string>
+    <string description="ask user to enter email address as account name" maxwidth="-1" name="member_id_hint">"Immetti indirizzo e-mail"</string>
+    <string description="The title of a menu for General Preferences.Pressing the menu item lets user to view and edit his general settings" maxwidth="30" name="menu_general_preferences">"Impostazioni generali"</string>
+    <string description="settings menu tutorial" maxwidth="-1" name="menu_tutorial">Tutorial</string>
+    <string name="messenger_send_button_text">Invia</string>
+    <string msgid="2486157997434653710" name="minute">"1 minuto"</string>
+    <string msgid="6115838729146292526" name="minutes">"<ns1:g id="MINUTES">%s</ns1:g> minuti"</string>
+    <string description="Hint: move the items" maxwidth="-1" name="move">Sposta</string>
+    <string name="move_or_delete_msg">"Eliminare temporaneamente gli elementi nel cestino adesso?\n(Spuntare la casella di seguito per eliminare definitivamente gli elementi.)"</string>
+    <string name="move_to">Sposta su</string>
+    <string description="Toast: move to recycle bin fails" maxwidth="-1" name="move_to_hidden_zone_fail">"Spostamento in Archivio nascosto non riuscito"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="move_to_hidden_zone_progress">"Spostamento in Archivio nascosto in corso..."</string>
+    <string description="Toast: move to recycle bin success" maxwidth="-1" name="move_to_hidden_zone_success_more">"I file selezionati sono stati spostati in Archivio nascosto."</string>
+    <string description="Toast: move to recycle bin success. %s is variable string." maxwidth="-1" name="move_to_hidden_zone_success_one">"\"%s\" è spostato in Archivio nascosto."</string>
+    <string description="Toast: move to recycle bin fails" maxwidth="-1" name="move_to_trash_fail">"Spostamento nel cestino non riusctito"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="move_to_trash_progress">"Spostamento nel cestino in corso..."</string>
+    <string description="Toast: move to recycle bin success" maxwidth="-1" name="move_to_trash_success_more">"I file selezionati sono stati spostati nel cestino"</string>
+    <string description="Toast: move to recycle bin success. %s is variable string." maxwidth="-1" name="move_to_trash_success_one">"\"%s\" è stato spostato nel cestino"</string>
+    <string name="msg_too_big_to_recycle">"Elementi troppo grandi da riciclare.\nEliminarli definitivamente?"</string>
+    <string name="multi_drm_file_forbidden_operation">Azione proibita in quanto alcuni dei file selezionati dispongono di protezione DRM.</string>
+    <string description="shortcut label" maxwidth="-1" name="my_camera_title">Fotocamera</string>
+    <string description="shortcut label" maxwidth="-1" name="my_download_title">Download</string>
+    <string description="shortcut label" maxwidth="-1" name="my_music_title">Musica</string>
+    <string description="shortcut label" maxwidth="-1" name="my_picture_title">Foto</string>
+    <string description="storage label" maxwidth="-1" name="my_storage_title">"Il mio spazio d'archiviazione"</string>
+    <string description="button text for sort file by name" maxwidth="-1" name="name">Nome</string>
+    <string description="button text for sort file by name ascending" maxwidth="-1" name="name_ascending">Nome (z-a)</string>
+    <string description="button text for sort file by name descending" maxwidth="-1" name="name_descending">Nome (a-z)</string>
+    <string name="network_cta_hint">"Accetta connessione alla rete"</string>
+    <string name="network_invalid">"Connessione di rete non valida"</string>
+    <string name="network_invalid_info">"Connessione non valida. Controllare di nuovo."</string>
+    <string name="network_not_available">"Connessione di rete non riuscita"</string>
+    <string description="Can’t connect to networkpalce" maxwidth="-1" name="networkplace_access_error">"Connessione non riuscita. Verificare che il server sia in linea."</string>
+    <string name="networkplace_storage_title">"Risorsa di rete"</string>
+    <string description="Dialog Title: create new folder" maxwidth="" name="new_folder_dialog">Crea nuova cartella</string>
+    <string description="Toast: new folder fails" maxwidth="-1" name="new_folder_fail">Creazione nuova cartella non riuscita.</string>
+    <string description="Toast: new folder success. %s is variable string." maxwidth="-1" name="new_folder_success">"Creazione cartella \"%s\" riuscita."</string>
+    <string maxwidth="" name="news_1"><b>Pannello home personalizzabile</b>: Ora il pannello home può essere personalizzato con categorie e ordini differenti.</string>
+    <string maxwidth="" name="news_2"><b>Selezione preferiti</b>: Aggingi la cartella preferiti direttamente dalla categoria preferiti.</string>
+    <string maxwidth="" name="news_3"><b>Widget Gestione File</b>: Crea un collegamento alla cartella dall\'utilità di avvio.</string>
+    <string maxwidth="" name="news_mark1">"★  "</string>
+    <string maxwidth="" name="news_subtitle">"Questo è l'aggiornamento principale da non perdere."</string>
+    <string maxwidth="" name="news_title">"Novità"</string>
+    <string maxwidth="" name="news_v21"><b>Trasferimento wireless dei file da/a PC</b>: Trasferimento/gestione file da/a PC</string>
+    <string maxwidth="" name="news_v23">"Miglioramento delle prestazioni e correzione dei bug"</string>
+    <string maxwidth="" name="news_v31">"L'Analisi archivio individua il tipo di file che occupano tutto lo spazio di archiviazione"</string>
+    <string maxwidth="" name="news_v32">"Categ app migliorate di recente"</string>
+    <string name="news_v41">"Nascondi i file privati in Archivio nascosto"</string>
+    <string name="news_v42">"Recupera file eliminati da Cestino"</string>
+    <string name="news_v43">"Rimuovi file duplicati da Analisi archivio"</string>
+    <string name="news_v44">"Nuova funzione display - Modo scuro"</string>
+    <string name="news_v45">"Prestazioni migliorate"</string>
+    <string name="news_v46">"Bug corretti"</string>
+    <string name="newversion_description">"È disponibile una nuova versione di Gestione File. Aggiornare ora?"</string>
+    <string name="newversion_title">"Nuova versione"</string>
+    <string name="next">Avanti</string>
+    <string description="Dialog Button: no for dialog" maxwidth="" name="no">No</string>
+    <string name="no_device">"Nessun dispositivo"</string>
+    <string name="no_items">"Nessun elemento"</string>
+    <string name="no_network">"Nessuna connessione di rete"</string>
+    <string description="The description to inform users when there is no internet access" maxwidth="-1" name="no_network_connection_message">"Verificare la connessione e riprovare"</string>
+    <string name="no_network_info">"Per accedere all'app, è necessaria una connessione Internet. Abilitare rete mobile o WiFi in Impostazioni."</string>
+    <string name="no_password">"Immettere la password"</string>
+    <string name="no_right">"L'account non dispone di diritti di login."</string>
+    <string name="no_share_folder">Nessun file condiviso in questo dispositivo</string>
+    <string description="Toast: No space to copy file and left on device" maxwidth="-1" name="no_space_fail">Spazio di archiviazione insufficiente.</string>
+    <string name="no_user_exist">"Nome utente non presente"</string>
+    <string name="no_username">"Prima immettere il nome utente."</string>
+    <string name="notification_gdrive_redeem_content">"Scaricalo ORA da Google Drive. "</string>
+    <string name="notification_gdrive_redeem_title">"100GB di spazio gratuito!"</string>
+    <string name="occur_error_do_relogin">"Effettuare di nuovo l'accesso a %s"</string>
+    <string description="Dialog Button: ok for dialog" maxwidth="" name="ok">OK</string>
+    <string name="onedrive_account_only_one_alert">"È possibile aggiungere un solo account OneDrive per ASUS. Hai eliminato l'account attuale prima di sostituirlo con uno nuovo."</string>
+    <string name="open">Apri</string>
+    <string description="Toast: open file fails" maxwidth="-1" name="open_fail">Errore apertura file.</string>
+    <string maxwidth="" name="open_source_license_description">"Avvisi di licenza per software open source"</string>
+    <string maxwidth="" name="open_source_license_title">"Licenze open source"</string>
+    <string name="othersforum_site_url">http://www.asus.com/it/Terms_of_Use_Notice_Privacy_Policy/OthersForum_Site/</string>
+    <string name="password">"Password"</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="paste">Incolla</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="paste_exist_apply">Applica a tutto</string>
+    <string description="Dialog Title: paste exist dialog title" maxwidth="" name="paste_exist_dialog">Questo nome file esiste già</string>
+    <string description="Dialog Content: text in dialog. %s is variable string." maxwidth="" name="paste_exist_file">"Il file  \"%s\" esiste già."</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="paste_exist_replace">"Sostituire con il nuovo?"</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="paste_exist_to">A</string>
+    <string description="Toast: paste fails" maxwidth="-1" name="paste_fail">Errore trasferimento file.</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="paste_progress">Trasferimento...</string>
+    <string name="paste_progress_title">Altra attività di copia in corso...</string>
+    <string description="Toast: paste success. %s is variable string." maxwidth="-1" name="paste_success">"I file sono stati aggiunti a \"%s\"."</string>
+    <string name="permanently_delete">"Elimina definitivamente"</string>
+    <string description="Toast: operation permission deny" maxwidth="-1" name="permission_deny">Permesso negato</string>
+    <string name="permission_dialog_title">"Autorizzazioni applicazione"</string>
+    <string name="permission_essential">"Autorizzazioni necessarie. Vai su Impostazioni per abilitare le autorizzazioni!"</string>
+    <string name="permission_reason_contact">"Gestione File deve accedere alle informazioni dell'account per accedere allo spazio di archiviazione su cloud."</string>
+    <string name="permission_reason_storage">"Gestione File deve accedere all'archivio del dispositivo per funzionare correttamente"</string>
+    <string description="Toast: You may not select more than %s photos." maxwidth="-1" name="photo_selection_limit_number_toast">Seleziona massimo %s foto</string>
+    <string description="This is the title of the screen for setting user preferences." maxwidth="-1" name="preferences_title">"Impostazioni"</string>
+    <string name="previous_folder">"Cartella precedente"</string>
+    <string maxwidth="" name="privacy_policy">Privacy</string>
+    <string name="privacy_policy_url">http://www.asus.com/us/Terms_of_Use_Notice_Privacy_Policy/Privacy_Policy/</string>
+    <string name="processing_picture">"Elaborazione immagine"</string>
+    <string name="processing_video">"Elaborazione video"</string>
+    <string name="progressactivity_title">Transmission Manager</string>
+    <string name="promote_darkmode_message">"Modificare la preferenza in %s"</string>
+    <string name="promote_darkmode_title">"Nuova funzione display - Modo scuro"</string>
+    <string name="promotion_notification_content">"Deve provare il \"Trasferimento wireless dei file\"!"</string>
+    <string name="promotion_notification_title">"Utilizza ancora il cavo USB per trasferire i file?"</string>
+    <string name="publish">"Pubblica"</string>
+    <string name="pullfreshlistview_footer_hint_normal">Carica altro</string>
+    <string name="pullfreshlistview_footer_hint_ready">Rilascia per caricare altro</string>
+    <string name="pullfreshlistview_header_hint_loading">Aggiornamento...</string>
+    <string name="pullfreshlistview_header_hint_normal">Trascina verso il basso</string>
+    <string name="pullfreshlistview_header_hint_ready">Rilascia per aggiornare</string>
+    <string name="pullfreshlistview_header_last_time">Ora ultimo aggiornamento:</string>
+    <string name="rate_later">"In seguito"</string>
+    <string name="rate_now">"Valuta adesso"</string>
+    <string description="rate us" maxwidth="-1" name="rate_us">Dai una valutazione</string>
+    <string name="rating_dialog_message_v3_1">"Ti piace usare %s? Votaci su Google Play per farci conservare l'ispirazione!"</string>
+    <string name="rating_dialog_message_v3_2">"Per consigli e commenti, scrivici su %s."</string>
+    <string name="recent_files_content_hint">"Trovare file recenti ed eliminarli con l'autorizzazione."</string>
+    <string description="shortcut title: recently used files" name="recently_used" width="-1">Recenti</string>
+    <string name="recommend_clean_master_msg">"L'applicazione Android Optimizer con il maggior livello di fiducia al mondo, Sprint di velocità, Risparmia-batteria e Anti-Virus gratuito. \nEseguire il download ora?"</string>
+    <string name="recommend_clean_master_title">"Suggerimento applicazione"</string>
+    <string name="recommend_scan_qr_code">"Chiedi ai tuoi amici di scaricare\n questa applicazione eseguendo la scansione del codice QR."</string>
+    <string description="recruit beta user" maxwidth="-1" name="recruit_beta_user">"Ottieni un'anteprima della versione"</string>
+    <string name="recycle_bin_content_hint">"Contiene tutti i file e le cartelle eliminati."</string>
+    <string description="dialog title, key in the asus ID and PW to Login account" maxwidth="-1" name="regist_asus_id">"Creazione di un account ASUS"</string>
+    <string description="ask user to enter email address to registe New Account" name="registe_id">Nome account</string>
+    <string description="ask user to enter new password" name="registe_password">Immetti 8~25 caratteri</string>
+    <string description="sign up registe action" name="registe_sign_up">Iscriviti</string>
+    <string description="network is unavailable, please try again" maxwidth="-1" name="remote_connected_error_hint">Rete non disponibile. Riprovare</string>
+    <string description="remote storage label" maxwidth="-1" name="remote_storage_title">Archiviazione remota</string>
+    <string name="remove_favorite">Rimuovi da Preferiti</string>
+    <string name="remove_favorite_notice_more">Rimuovere %d elementi dalla cartella Preferiti?</string>
+    <string name="remove_favorite_notice_one">"Rimuovere \"%s\" dalla cartella Preferiti?"</string>
+    <string name="remove_favorite_success">Rimozione riuscita</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="rename">"Rinomina"</string>
+    <string description="Dialog Title: rename dialog title" maxwidth="" name="rename_dialog">Rinomina</string>
+    <string description="Toast: rename fails" maxwidth="-1" name="rename_fail">Errore di rinomina file.</string>
+    <string name="rename_favorite_folder">Rinomina cartella Preferiti</string>
+    <string name="rename_favorite_notice">È già presente una cartella con lo stesso nome nella cartella Preferiti. Assegnare nuovo nome?</string>
+    <string name="rename_favorite_success">Assegnazione nuovo nome riuscita e salva su Preferiti</string>
+    <string description="Toast: rename success" maxwidth="-1" name="rename_success">Rinomina file riuscita.</string>
+    <string description="renaming file" name="renaming_file" width="-1">Rinomina in corso</string>
+    <string name="replace">"Sostituisci"</string>
+    <string description="Toast: restore fails" maxwidth="-1" name="restore_fail">"Ripristino non riuscito"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="restore_progress">"Ripristino in corso..."</string>
+    <string description="Toast: restore success" maxwidth="-1" name="restore_success_more">"I file selezionati sono stati ripristinati"</string>
+    <string description="Toast: restore success. %s is variable string." maxwidth="-1" name="restore_success_one">"\"%s\" è stato ripristinato"</string>
+    <string name="retention_notification_large_file">"%1$s file di grandi dimensioni aggiunti. Visualizzarli ora."</string>
+    <string name="retention_notification_recent_file">"I file recenti usano %1$s di spazio. Visualizzarli ora."</string>
+    <string name="saf_permission_tutorial_content">"ASUS File Manager richiede l'accesso per utilizzare la scheda SD. Consentire l'accesso?"</string>
+    <string name="saf_permission_tutorial_content_v2">"Occorre eseguire specifici passaggi per garantire i diritti di accesso %s."</string>
+    <string name="saf_permission_tutorial_dialog">"é necessario eseguire la procedura per concedere i diritti di accesso alla scheda SD. Procedere?"</string>
+    <string name="saf_permission_tutorial_title">Richiedi accesso per utilizzare la scheda SD</string>
+    <string name="saf_tutorial_step_one">"Toccare l'icona Menu, quindi toccare Mostra scheda SD."</string>
+    <string name="saf_tutorial_step_three">"Toccare Seleziona scheda SD per consentire l'accesso ad ASUS File Manager."</string>
+    <string name="saf_tutorial_step_three_v2">"Tocca Seleziona %s per consentire l'accesso a ASUS File Manager."</string>
+    <string name="saf_tutorial_step_two">Scorrere il bordo sinistro dello schermo per visualizzare la barra, quindi toccare la scheda SD.</string>
+    <string name="saf_tutorial_step_two_v2">"Scorri dal lato sinistro della schermata per visualizzare il cassetto, quindi tocca %s."</string>
+    <string name="saf_tutorial_title">Autorizzazione per utilizzare la scheda SD</string>
+    <string name="saf_tutorial_title_v2">"Autorizzazione a utilizzare %s"</string>
+    <string description="account config dialog remind message" maxwidth="-1" name="samba_client_config_check">Ricorda nome utente e password per la connessione diretta in seguito</string>
+    <string name="samba_input_error">Nome utente o Password non possono essere vuoti!</string>
+    <string name="samba_login_error">Il nome utente o la password inseriti non sono corretti.</string>
+    <string name="samba_storage_add_title">"Sede NetWork"</string>
+    <string name="samba_storage_title">"SAMBA"</string>
+    <string name="scan_qr_code">"Esegui scansione codice QR"</string>
+    <string description="rate now" maxwidth="" name="scroll_up_toast">Scorri su per valutare</string>
+    <string maxwidth="-1" name="sd_label">OneDrive per ASUS</string>
+    <string name="search_action">"Cerca"</string>
+    <string description="search hint message" maxwidth="-1" name="search_hint">Immetti nome file</string>
+    <string description="cutstom action bar view title for search" maxwidth="-1" name="search_label">Cerca file</string>
+    <string description="search dialog message" maxwidth="-1" name="search_progress">Ricerca...</string>
+    <string description=" text for search result" formatted="false" maxwidth="-1" name="search_result_title">"Ricerca di%s in %s: "</string>
+    <string name="select_album">Seleziona album</string>
+    <string description="Menu Option: select all checkbox" maxwidth="" name="select_all">Seleziona tutto</string>
+    <string description="Title: select the folder" maxwidth="-1" name="select_folder">Selezionare la cartella</string>
+    <string name="select_folder_by_ok_button">"Premere %1$s per selezionare questa cartella"</string>
+    <string name="select_photo">Seleziona foto</string>
+    <string name="server">"Server:"</string>
+    <string name="server_error">"Errore server"</string>
+    <string name="server_hint">"172.0.0.1/ShareFolder"</string>
+    <string name="server_title">"Server"</string>
+    <string maxwidth="-1" name="service_not_available_in_your_country">"Questo elemento non è disponibile in questo paese."</string>
+    <string name="set_password_title">"Crea codice PIN"</string>
+    <string name="set_ring">"Imposta come ring"</string>
+    <string name="setting_display_group">"Display"</string>
+    <string name="setting_notification_group">"Notifica"</string>
+    <string name="setting_notification_large_files">"Notifica file grande"</string>
+    <string name="setting_notification_recent_files">"Notifica file recenti"</string>
+    <string name="setting_notification_wireless_transfer">"Notificaa trasferim wireless"</string>
+    <string name="setting_view_group">"Visualizza imp"</string>
+    <string name="setting_view_hide_files">"Nasconti file syst"</string>
+    <string name="settings">"Impostazioni"</string>
+    <string description="This is the title of cache size" maxwidth="-1" name="settings_cache_size_title">"Dimensioni cache"</string>
+    <string description="Remove all cache documents" maxwidth="-1" name="settings_clear_cache_info">"Rimuovere tutti i documenti della cache"</string>
+    <string description="Clear the cache" maxwidth="-1" name="settings_clear_cache_title">"Cancella cache"</string>
+    <string description="This is the title of clearing search history action for setting user preferences." maxwidth="-1" name="settings_clear_search_history">"Cancella cronologia ricerca"</string>
+    <string name="settings_darkmode_message">"Applica Modo scuro"</string>
+    <string name="settings_description">"File e cartelle locali"</string>
+    <string description="This is the title of documents cache" maxwidth="-1" name="settings_documents_cache">"Cache documenti"</string>
+    <string description="recommend text" maxwidth="" name="settings_encourage_us_detail">"Se ti piace %s, votaci con 5 stelle su Play Store. Sarrebbe un grande incoraggiamento per continuare a migliorare il prodotto!"</string>
+    <string description="This is the title of hiding system files action for setting user preferences." maxwidth="-1" name="settings_hide_system_files">"Nascondi file di sistema"</string>
+    <string description="This is the title of moving to the trash can." maxwidth="-1" name="settings_moved_to_the_trash_can">"Spostato nel Cestino"</string>
+    <string description="Remove account" maxwidth="-1" name="settings_remove_account">"Rimuovi account"</string>
+    <string description="Set the cache size to %s" maxwidth="-1" name="settings_set_cache_size">"Dimensioni cache impostate su \"%s\""</string>
+    <string description="This is the title of space used for setting user preferences." maxwidth="-1" name="settings_space_used">"Spazio utilizzato"</string>
+    <string description="This is the title of trash can information for setting user preferences." maxwidth="-1" name="settings_trash_can">"Cestino"</string>
+    <string description="This is the title of user name" maxwidth="-1" name="settings_user_name">"Nome utente"</string>
+    <string name="setup">"Configura"</string>
+    <string name="setup_account_description">"Configurare un account e-mail per recuperare il codice PIN"</string>
+    <string name="setup_account_no_internet_connection">"Nessuna connessione Internet"</string>
+    <string name="setup_account_skip">"Ignora"</string>
+    <string name="setup_account_title">"Recupera codice PIN"</string>
+    <string name="setup_fingerprint_message">"Abilitare l'impronta digitale per sbloccare? L'Archivio nascosto supporta la verifica dell'impronta digitale. Scansionare l'impronta digitale nelle Impostazioni per iniziare."</string>
+    <string name="setup_my_digital_code">"Configura codice PIN"</string>
+    <string name="share_more">"Altro"</string>
+    <string name="share_with_friend">"Condividi questa applicazione con i tuoi amici"</string>
+    <string description="Context Menu: options of context menu: share folder via Wi-Fi Direct" maxwidth="" name="shared_folder">Condividi tramite Wi-Fi Direct</string>
+    <string description="shortcit title" maxwidth="-1" name="short_cuts_title">Collegamento</string>
+    <string name="shortcut_hint">"Tenere premuta una categoria o una cartella per creare un collegamento rapido sull'utilità di avvio."</string>
+    <string description="check if user want to show password" name="show_passwd">Mostra password</string>
+    <string description="show when sign in failed" maxwidth="-1" name="signin_failed">"Accesso non riuscito"</string>
+    <string description="signout account" name="signout_account" width="-1">Disconnetti</string>
+    <string name="single_drm_file_forbidden_operation">Azione proibita in quanto con protezione DRM.</string>
+    <string description="button text for sort file by size" maxwidth="-1" name="size">Dimensioni</string>
+    <string description="button text for sort file by size ascending" maxwidth="-1" name="size_ascending">Dimensioni (grande-piccolo)</string>
+    <string description="button text for sort file by size descending" maxwidth="-1" name="size_descending">Dimensioni (piccolo-grande)</string>
+    <string name="ssl_err_msg_info">"Impossibile effettuare una connessione sicura al server. Procedere?"</string>
+    <string name="ssl_err_msg_title">"Errore di connessione SSL"</string>
+    <string description="shortcut title: my favorite files" name="starred" width="-1">"Contrassegnato con asterisco"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="storage_type_cloud">Memorizzazione cloud</string>
+    <string name="storage_type_cloud_att">"Storage di rete"</string>
+    <string name="storage_type_local">Archiviazione locale</string>
+    <string name="storage_type_shortcut">"Collegamento"</string>
+    <string name="storagetype_add_account">Aggiungi Google account</string>
+    <string name="tap_to_exit">Tocca di nuovo per uscire</string>
+    <string name="target_directory_is_child_of_source">"Impossibile completare l'operazione in quanto la directory di destinazione è una directory secondaria della directory di origine."</string>
+    <string description="Toast: target file exists" maxwidth="-1" name="target_exist">Il file di destinazione esiste già.</string>
+    <string description="Toast: target folder exists. %s is variable string." maxwidth="-1" name="target_folder_exist">"La cartella \"%s\" esiste già."</string>
+    <string description="" maxwidth="" name="tell_friend">Condividi</string>
+    <string maxwidth="" name="terms_of_service">"Termini di utilizzo"</string>
+    <string maxwidth="" name="terms_of_service_url">http://www.asus.com/us/Terms_of_Use_Notice_Privacy_Policy/Official-Site/</string>
+    <string description="title" maxwidth="-1" name="title">Informazioni legali:</string>
+    <string name="toast_auto_lock_notify_message">"Bloccare l'Archivio nascosto quando il dispositivo è bloccato"</string>
+    <string description="Toast: The item(s) has been copied completely" maxwidth="-1" name="toast_drag_copied_items">Copia eseguita.</string>
+    <string description="Toast: The item(s) has been moved completely" maxwidth="-1" name="toast_drag_moved_items">Spostamento eseguito.</string>
+    <string description="Toast: Sorry, copy files complete but cut fail" maxwidth="-1" name="toast_warning_copy_comple_cut_fail">"Spiacenti. La copia file è completa, ma l'eliminazione dei file vecchi non è riuscita."</string>
+    <string description="Toast: Sorry, copy folders has not been supported" maxwidth="-1" name="toast_warning_copy_folders">"Spiacenti. Copia cartelle non supportata."</string>
+    <string maxwidth="35" name="toolbar_item_title_encourage_us">Incoraggiaci</string>
+    <string name="tools_clean_master">"Eliminare i file non desiderati"</string>
+    <string name="tools_file_transfer">"Trasferimento file PC"</string>
+    <string name="tools_hidden_zone">"Archivio nascosto"</string>
+    <string name="tools_recycle_bin">"Cestino"</string>
+    <string name="tools_storage_analyzer">"Analisi archivio"</string>
+    <string name="tools_tip_animation">"Richiedere gli strumenti!"</string>
+    <string name="tools_zenui_instant_update">"Aggiorn subito"</string>
+    <string description="shortcut title: trash can" name="trash_can" width="-1">"Cestino"</string>
+    <string maxwidth="-1" name="trash_info_deleted">"Data di eliminazione: "</string>
+    <string maxwidth="-1" name="trash_info_path">"Percorso originale: "</string>
+    <string description="label for trending searches" maxwidth="-1" name="trending_searches">"Ricerche di tendenza"</string>
+    <string name="tutorial_analyzer_content">"L'Analisi archivio consente di individuare i file che occupano spazio su disco."</string>
+    <string name="tutorial_category_content">"Cercare file non è mai stato così facile con la vista Categoria di ASUS File Manager."</string>
+    <string name="tutorial_category_title">"Vista categoria"</string>
+    <string name="tutorial_cloud_content">"Accedere ai file da smartphone, PC e archivi Cloud."</string>
+    <string name="tutorial_cloud_title">"Archiviazione cloud"</string>
+    <string name="tutorial_done">Fine</string>
+    <string name="tutorial_page_content_long_press">"Tenere premuto per seleziona una voce, quindi toccare l'icona \"Menu\" per visualizzare altre opzioni dell'azione."</string>
+    <string name="tutorial_page_four_content">Impostare una cartella usata di frequente come preferito per accedere in modo rapido e semplice alle cartelle.</string>
+    <string name="tutorial_page_four_title">Preferiti</string>
+    <string name="tutorial_page_one_content">"ASUS File Manager consente di gestire facilmente i file archiviati nelle memorie interna, esterna, LAN o cloud."</string>
+    <string name="tutorial_page_one_title">ASUS File Manager</string>
+    <string name="tutorial_page_three_content">Scorrere un elemento a destra per visualizzare azioni quali Aggiungi a Preferiti, Rinomina, Sposta su, Copia in e altre opzioni di gestione file.</string>
+    <string name="tutorial_page_three_title">Elenco azioni di scorrimento a destra</string>
+    <string name="tutorial_page_title_long_press">Visualizza menu azione</string>
+    <string name="tutorial_page_two_content">"Categorie facili da usare che consentono l'accesso rapido ai file nella memoria locale. "</string>
+    <string name="tutorial_page_two_title">Homepage</string>
+    <string name="tutorial_skip">Ignora</string>
+    <string description="button text for sort file by type" maxwidth="-1" name="type">Tipo</string>
+    <string description="document type" maxwidth="-1" name="type_abu">"Backup app Asus"</string>
+    <string description="document type" maxwidth="-1" name="type_apk">"App Android"</string>
+    <string description="document type" maxwidth="-1" name="type_audio">"Audio"</string>
+    <string description="document type" maxwidth="-1" name="type_book">"E-book"</string>
+    <string name="type_dialog_audio">Audio</string>
+    <string name="type_dialog_image">Immagine</string>
+    <string name="type_dialog_text">Testo</string>
+    <string name="type_dialog_title">Apri come</string>
+    <string name="type_dialog_video">Video</string>
+    <string description="document type" maxwidth="-1" name="type_directory">"Directory"</string>
+    <string description="document type" maxwidth="-1" name="type_document">"Documento"</string>
+    <string description="document type" maxwidth="-1" name="type_file">"File"</string>
+    <string description="document type" maxwidth="-1" name="type_image">"Imaggine"</string>
+    <string description="document type" maxwidth="-1" name="type_playlist">"Elenco di riproduzione"</string>
+    <string description="document type" maxwidth="-1" name="type_rar">"RAR"</string>
+    <string description="document type" maxwidth="-1" name="type_video">"Video"</string>
+    <string description="document type" maxwidth="-1" name="type_zip">"Zip"</string>
+    <string name="ud_sdk_all_app_update">"Tutte le app stanno eseguendo la versione attuale."</string>
+    <string name="ud_sdk_asus_app_slogan">App utile</string>
+    <string name="ud_sdk_downloads">Download</string>
+    <string name="ud_sdk_free_download">Download gratuito</string>
+    <string name="ud_sdk_important_remind_text">"Importante"</string>
+    <string name="ud_sdk_install">Installa</string>
+    <string name="ud_sdk_more_zen_family">Scopri altre app ZenUI</string>
+    <string name="ud_sdk_no_network_connection_content">Abilitare aggiornamento dati. Verificare le impostazioni di rete.</string>
+    <string name="ud_sdk_no_network_connection_title">Nessuna connessione di rete</string>
+    <string name="ud_sdk_open">Apri</string>
+    <string name="ud_sdk_update">Aggiorna</string>
+    <string maxwidth="-1" name="ud_sdk_update_sdk">Famiglia ZenUI</string>
+    <string maxwidth="-1" name="ud_sdk_update_sdk_asus">Aggiornamento immediato ZenUI</string>
+    <string name="ud_sdk_wifi_settings">Impostazioni Wi-Fi</string>
+    <string name="uf_sdk_already_give_5star">"Gi\u00e0 data una valutazione a 5 stelle"</string>
+    <string description="%d is a number, don&apos;t translate" name="uf_sdk_article_read_count">"%d viste"</string>
+    <string name="uf_sdk_attachment_format_warning">"Formato file errato. È possibile allegare solo il file immagine"</string>
+    <string name="uf_sdk_attachment_total_size">"Totale"</string>
+    <string name="uf_sdk_attachment_warning">"Le dimensioni dell'allegato superano il limite consentito"</string>
+    <string maxwidth="-1" name="uf_sdk_cancel_btn_content">"Annulla"</string>
+    <string name="uf_sdk_choosertitle_sharevia">"Condividi tramite"</string>
+    <string name="uf_sdk_connection_error_msg">"Connessione interrotta dal server. Riprova pi\u00f9 tardi."</string>
+    <string name="uf_sdk_connection_error_title">"Errore connessione"</string>
+    <string name="uf_sdk_discard">"Rimuovi"</string>
+    <string name="uf_sdk_email_illigal">"Indirizzo e-mail gi\u00e0 in uso"</string>
+    <string maxwidth="-1" name="uf_sdk_empty_notification">"Vuoto:)"</string>
+    <string name="uf_sdk_faq">"FAQ"</string>
+    <string name="uf_sdk_feedback_and_help">"Valutazioni &amp; aiuto"</string>
+    <string name="uf_sdk_forum_description">"Partecipa alla discussione con altri utenti ASUS per condividere le tue idee"</string>
+    <string maxwidth="-1" name="uf_sdk_grant_permission_title">"Garantisci autorizzazione"</string>
+    <string name="uf_sdk_help">"Aiuto"</string>
+    <string name="uf_sdk_instant_answer_question">"Questa FAQ è utile?"</string>
+    <string name="uf_sdk_like">"Piace"</string>
+    <string maxwidth="-1" name="uf_sdk_message">"Notifiche"</string>
+    <string name="uf_sdk_msg_bad_email_format">"Indirizzo e-mail non valido, riprova."</string>
+    <string name="uf_sdk_msg_confirm_discard_topic">"La bozza non sarà salvata. Eliminarla comunque?"</string>
+    <string name="uf_sdk_msg_confirm_discard_topic_title">"Eliminare post?"</string>
+    <string name="uf_sdk_msg_subscribe">"Riceverai le notifiche sulle iscrizioni all'argomento via e-mail."</string>
+    <string name="uf_sdk_msg_subscribe_success">"Iscrizione avvenuta con successo"</string>
+    <string name="uf_sdk_msg_ticket_created">"La valutazione è stata inviata ad ASUS correttamente"</string>
+    <string name="uf_sdk_msg_topic_created">"Pubblicato correttamente"</string>
+    <string name="uf_sdk_msg_unsubscribe">"Iscrizione non avvenuta"</string>
+    <string name="uf_sdk_name_hint">"Inserisci il tuo nome"</string>
+    <string name="uf_sdk_name_illigal">"Nome utente gi\u00e0 in uso"</string>
+    <string name="uf_sdk_network_error">"Nessuna connessione a Internet. Verifica le impostazioni di rete."</string>
+    <string description="zenui news" maxwidth="" name="uf_sdk_news">"Novità"</string>
+    <string name="uf_sdk_no_network_connection_content">"Aggiornamento dati non riuscito. Controlla le impostazioni di rete."</string>
+    <string name="uf_sdk_no_network_connection_title">"Errore di connessione"</string>
+    <string name="uf_sdk_nothing_found">"Nessun elemento trovato"</string>
+    <string name="uf_sdk_notice">"Avviso"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category1">"Annunci"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category2">"Tutorial e consigli"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category3">"Promozioni"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category4">"Eventi"</string>
+    <string name="uf_sdk_publish_an_topic">"Pubblica nuovo argomento"</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_rate_now">"Valuta adesso"</string>
+    <string description="%s is AP name, don&apos;t translate" maxWidth="" name="uf_sdk_rate_us_detail">"Se ti piace usare %s, assegnaci 5 stelle su Play Store."</string>
+    <string maxWidth="" name="uf_sdk_rate_us_detail_new">"Il tuo sostegno con 5 stelle ci ispira a continuare nel nostro lavoro!"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_rating">"5 stelle"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title">"Valutaci!"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title_new">"Aiutaci!"</string>
+    <string description="Menu item for userFeedback sdk" maxwidth="-1" name="uf_sdk_report_bug">Segnala bug</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_scroll_up_toast">"Scorri su per valutare"</string>
+    <string name="uf_sdk_search_hint">"Cerca aiuto"</string>
+    <string name="uf_sdk_select_common_bug">"Seleziona bug comune"</string>
+    <string name="uf_sdk_send_feedback">"Invia valutazione"</string>
+    <string name="uf_sdk_send_feedback_help">"Il feedback e l'indirizzo e-mail saranno inviati a ASUS. Il team competente ti contatterà tramite e-mail."</string>
+    <string maxwidth="-1" name="uf_sdk_setting_btn_content">"Impostazioni"</string>
+    <string description="recommend title" maxwidth="" name="uf_sdk_settings_encourage_us_title">"Aiutaci"</string>
+    <string maxwidth="-1" name="uf_sdk_storage_permission_description">"Questa funzionalità necessità dell'autorizzazione all'archiviazione per accedere ai file multimediali. \n\nPer abilitare questa funzionalità, toccare il pulsante Impostazioni per passare alla pagina Impostazioni di, quindi impostare \"Info app\" > \"Autorizzazioni\" per garantire l'autorizzazione.\n"</string>
+    <string name="uf_sdk_submit_topic">"Pubblica"</string>
+    <string name="uf_sdk_subscribe_dialog_title">"Iscriviti a questo argomento"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_answered">"Risposto"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_completed">"Completato"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_declined">"Rifiutato"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_implemented">"Implementato"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_planned">"Pianificato"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_under_review">"Riesame in corso"</string>
+    <string name="uf_sdk_thanks_for_your_feedback">"Grazie per il tuo feedback!"</string>
+    <string description="%s is a application name, don&apos;t translate" name="uf_sdk_ticket_hint">"Inserisci feedback per %s"</string>
+    <string name="uf_sdk_title_topic">"Argomento"</string>
+    <string name="uf_sdk_topic">"Argomento"</string>
+    <string name="uf_sdk_topic_description_heading">"Descrizione"</string>
+    <string name="uf_sdk_topic_description_hint">"Descrivi l'argomento in dettaglio"</string>
+    <string name="uf_sdk_topic_filter">"ARGOMENTI"</string>
+    <string name="uf_sdk_topic_form_help">"Quando pubblichi un argomento su un forum utente, gli altri utenti saranno in grado di iscriversi e commentarlo. Inoltre, quando il team di sviluppo ASUS risponde all'argomento, riceverai una notifica via e-mail."</string>
+    <string name="uf_sdk_topic_form_title">"Pubblica nuovo argomento"</string>
+    <string name="uf_sdk_topic_text_heading">"Forum"</string>
+    <string name="uf_sdk_topic_text_hint">"Inserisci il titolo per l'argomento"</string>
+    <string name="uf_sdk_topic_title">"Titolo"</string>
+    <string name="uf_sdk_translation_10117605">"Problema di traduzione"</string>
+    <string name="uf_sdk_translation_117562">"Tipologia feedback"</string>
+    <string name="uf_sdk_translation_2529543">"Report bug"</string>
+    <string name="uf_sdk_translation_2529544">"Altri"</string>
+    <string name="uf_sdk_translation_2530478">"Consiglio"</string>
+    <string name="uf_sdk_unhelpful_article_message_question">"Vuoi inviare una valutazione al team di sviluppo ASUS?"</string>
+    <string name="uf_sdk_user_forum">"Forum utente"</string>
+    <string name="uf_sdk_warning">"Attenzione"</string>
+    <string name="uf_sdk_wifi_settings">"Impostazioni Wi-Fi"</string>
+    <string name="uf_sdk_wlan_settings">"Impostazioni WLAN"</string>
+    <string name="uf_sdk_write_your_feedback">"Inserisci feedback qui"</string>
+    <string name="uf_sdk_your_draft_will_be_discarded">"La bozza sarà eliminata."</string>
+    <string description="description for empty search result" maxwidth="-1" name="unable_to_find_artlcles">"Impossibile trovare gli articoli correlati a \u0022%s\u0022"</string>
+    <string description="string indicating the length units in milli-meters" maxwidth="-1" name="unit_mm">mm</string>
+    <string description="Context Menu: options of context menu: unshare folder" maxwidth="-1" name="unshared_folder">Annulla condivisione</string>
+    <string name="unsupported_area">"Area non supportata"</string>
+    <string description="toast message: extract files fail" maxwidth="-1" name="unzip_fail">Estrazione file non riuscita.</string>
+    <string description="extract file dialog message" maxwidth="-1" name="unzip_progress_msg">Estrazione...</string>
+    <string description="toast message: extract files successly" maxwidth="-1" name="unzip_success">Estrazione file completata.</string>
+    <string name="update">"Aggiorna"</string>
+    <string name="update_fb_app">"L'app Facebook mobile non \u00e8 aggiornata. Installa l'ultima versione da Google Play."</string>
+    <string name="upgrade_notification_content">Visualizza i file dalla nuovissima schermata iniziale.</string>
+    <string name="upgrade_notification_title">Prova subito il nuovo File Manager!</string>
+    <string name="upload_complete">"Caricamento completato"</string>
+    <string name="upload_complete_dialog_message">"Video caricato con successo."</string>
+    <string name="upload_complete_dialog_title">"Completato"</string>
+    <string name="upload_fail">upload non riuscito!</string>
+    <string name="upload_failed">"Caricamento non riuscito"</string>
+    <string name="upload_picture_toast">"La tua foto verr\u00e0 caricata. Controlla il progresso nella finestra delle notifiche."</string>
+    <string name="upload_toast">"Il video verr\u00e0 caricato. Controlla il progresso nella finestra delle notifiche."</string>
+    <string name="uploading_picture">"Caricamento immagine"</string>
+    <string name="uploading_video">"Caricamento video..."</string>
+    <string name="user">Nome utente</string>
+    <string name="user_hint">amministratore</string>
+    <string name="uv_admin_response_format">"Risposta admin: %1$s"</string>
+    <string name="uv_all_articles">"Tutti gli articoli"</string>
+    <string name="uv_all_results_filter">"TUTTO"</string>
+    <string name="uv_android_sdk">Android SDK</string>
+    <string name="uv_article_browse_question">"Questo articolo è stato utile?"</string>
+    <string name="uv_article_instant_answer_question">"Questa FAQ è utile?"</string>
+    <string name="uv_cancel">"Annulla"</string>
+    <string name="uv_category">"Categoria"</string>
+    <string name="uv_close">"Chiudi"</string>
+    <string name="uv_comment_hint">"Inserisci commento"</string>
+    <string name="uv_confirm">"Conferma"</string>
+    <string name="uv_contact_continue_button">"Voglio ancora inviare un messaggio"</string>
+    <string name="uv_contact_hint">"Inserisci la domanda o il feedback"</string>
+    <string name="uv_contact_us">"Contattaci"</string>
+    <string name="uv_display_name">"Nome visualizzazione"</string>
+    <string name="uv_email_address">"Indirizzo e-mail"</string>
+    <string name="uv_email_address_hint">"tuoindirizzo@email.com (obbligatorio)"</string>
+    <string name="uv_error">"Errore"</string>
+    <string name="uv_failed_signin_error">"E-mail o password errata"</string>
+    <string name="uv_forgot_password">"Password dimenticata"</string>
+    <string name="uv_helpful_article_message_question">"Inviare ancora un messaggio?"</string>
+    <string name="uv_i_want_this">"Lo voglio!"</string>
+    <string name="uv_idea_description_heading">"Descrivi la tua idea in dettaglio"</string>
+    <string name="uv_idea_description_hint">"(opzionale)"</string>
+    <string name="uv_idea_text_heading">"Ti consiglio..."</string>
+    <string name="uv_loading">"Caricamento in corso…"</string>
+    <string name="uv_matching_articles">"Articoli corrispondenti"</string>
+    <string name="uv_matching_articles_and_ideas">"Articoli e idee corrispondenti"</string>
+    <string name="uv_menu_attach">"Allega"</string>
+    <string name="uv_menu_search">"Ricerca"</string>
+    <string name="uv_msg_bad_email_format">"Inserire un indirizzo e-mail valido."</string>
+    <string name="uv_msg_comment_posted">"Commento pubblicato"</string>
+    <string name="uv_msg_confirm_discard_message">"Eliminare il messaggio?"</string>
+    <string name="uv_msg_custom_fields_validation">"Compila tutti i campi richiesti."</string>
+    <string name="uv_msg_forgot_password">"Invio e-mail password dimenticata eseguito"</string>
+    <string name="uv_msg_idea_created">"Idea creata"</string>
+    <string name="uv_msg_ticket_created">"Messaggio inviato"</string>
+    <string name="uv_msg_user_identity_validation">"Inserire l'indirizzo e-mail"</string>
+    <string name="uv_name_hint">"Anonimo"</string>
+    <string name="uv_network_error">"Errore di connessione a UserVoice"</string>
+    <string name="uv_nevermind">"Non importa"</string>
+    <string name="uv_new_comment">"Nuovo commento"</string>
+    <string name="uv_next">"Avanti"</string>
+    <string name="uv_no">"No"</string>
+    <string name="uv_none_of_these_help">"Nessun elemento utile"</string>
+    <string name="uv_password">"Password"</string>
+    <string name="uv_password_dialog_title">"Inserisci password"</string>
+    <string name="uv_portal_title">"Aiuto"</string>
+    <string name="uv_post_a_comment">"Pubblica commento"</string>
+    <string name="uv_post_comment">"Pubblica commento"</string>
+    <string name="uv_posted_by_format">"Pubblicato da %1$s il %2$s"</string>
+    <string name="uv_powered_by_uservoice">"Powered by UserVoice"</string>
+    <string name="uv_ranked">"%1$s classificato"</string>
+    <string name="uv_remove_votes">"Rimuovi voti"</string>
+    <string name="uv_select_none">"(nessuno)"</string>
+    <string name="uv_select_one">"Seleziona uno"</string>
+    <string name="uv_send_message">"Invia messaggio"</string>
+    <string name="uv_signin_dialog_ok">"Accedi"</string>
+    <string name="uv_signin_dialog_title">"Accedi"</string>
+    <string name="uv_status_format">"Stato: %1$s"</string>
+    <string name="uv_submit_idea">"Invia idea"</string>
+    <string name="uv_subscribe">"Sottoscrivi"</string>
+    <string name="uv_subscribe_dialog_title">"Sottoscrivi idea"</string>
+    <string name="uv_suggestion_instant_answer_question">"Quest'idea è utile?"</string>
+    <string name="uv_thanks">"Grazie!"</string>
+    <string name="uv_unhelpful_article_message_question">"Desideri inviarci un messaggio?"</string>
+    <string name="uv_value">"Valore"</string>
+    <string name="uv_very_yes">Sì!</string>
+    <string name="uv_yes">Sì</string>
+    <string name="uv_your_email_address">"Indirizzo e-mail"</string>
+    <string name="uv_your_name">"Nome"</string>
+    <string description="version" maxwidth="-1" name="version">Versione</string>
+    <string name="version_text">versione</string>
+    <string name="wait">"Attendi..."</string>
+    <string name="warning_stophttpserver">"La connessione tra dispositivo mobile e PC verrà persa. Abbandonare?"</string>
+    <string name="whats_new_label">"Novità"</string>
+    <string description="message for request to connect Network" name="wifi_p2p_connection_msg" width="-1">Stabilire una connessione di rete per utilizzare i servizi cloud.</string>
+    <string description="title for request to connect Network" name="wifi_p2p_connection_title" width="-1">Stabilisci connessione di rete</string>
+    <string description="message for request to turn on Wi-Fi" name="wifi_p2p_turn_on_wifi_msg" width="-1">Attivare Wi-Fi per usare i servizi Wi-Fi Direct. Attivare Wi-Fi ora?</string>
+    <string description="title for turn on WiFi dialog" name="wifi_p2p_turn_on_wifi_title" width="-1">Attiva Wi-Fi</string>
+    <string description="search" maxwidth="-1" name="wifidirect_action_bar_scan">Cerca</string>
+    <string description="Available devices" maxwidth="-1" name="wifidirect_available_devices">Dispositivi disponibili</string>
+    <string description="Do you want to connect to device" maxwidth="-1" name="wifidirect_connect_hint">Connettersi a</string>
+    <string description="Dialog title text: Invitation to connect" maxwidth="-1" name="wifidirect_connect_hint_title">Invito a connessione</string>
+    <string description="Dialog title text: Wi-Fi Direct connecting" maxwidth="-1" name="wifidirect_connecting_hint_title">Connessione Wi-Fi Direct...</string>
+    <string description="connectted" maxwidth="-1" name="wifidirect_connectted">Connesso</string>
+    <string description=">Do you want to disconnect" maxwidth="-1" name="wifidirect_disconnect_hint">Disconnettersi da</string>
+    <string description="Disconnect Wi-Fi Direct" maxwidth="-1" name="wifidirect_disconnect_hint_title">"Disconnetti Wi-Fi Direct"</string>
+    <string description="peer devices infomation" maxwidth="-1" name="wifidirect_peer_device_info">"Per ricevere un invito Wi-Fi Direct, assicurarsi che il dispositivo connesso si trovi nella pagina \"Dispositivi peer\" in Gestione File."</string>
+    <string description="peer devices title" maxwidth="-1" name="wifidirect_peer_device_title">Dispositivi peer</string>
+    <string description="searching" maxwidth="-1" name="wifidirect_scanning">Ricerca in corso...</string>
+    <string description="Search Wi-Fi Direct device" maxwidth="-1" name="wifidirect_storage_title">Cerca dispositivo Wi-Fi Direct</string>
+    <string description="click to connect" maxwidth="-1" name="wifidirect_touch_to_connect">Fai clic per connetterti</string>
+    <string name="yandex_account_only_one_alert">"È possibile aggiungere un solo account Yandex. Hai eliminato l'account attuale prima di sostituirlo con uno nuovo."</string>
+    <string name="yes">"Sì"</string>
+    <string name="zenui_update">"Aggiornamenti immediati ZenUI"</string>
+    <string description="toast message: Compress files fail" maxwidth="-1" name="zip_fail">Compressione dei file non riuscita</string>
+    <string description="compress dialog message" maxwidth="-1" name="zip_progress_msg">Avanzamento in corso...</string>
+    <string description="toast message: Compress files successly" maxwidth="-1" name="zip_success">Compressione dei file riuscita</string>
+</resources>

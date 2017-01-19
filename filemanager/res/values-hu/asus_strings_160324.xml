@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Sylvia Cheng, 2016/03/22, Setting page -->
+    <string name="action_settings" description="menu title for setting" maxwidth="-1">"Beállítások"</string>
+    <string name="setting_view_group">"Megtekintési beállítás"</string>
+    <string name="setting_view_hide_files">"Rendszerfájlok elrejtése"</string>
+    <string name="setting_notification_group">"Értesítés"</string>
+    <string name="setting_notification_large_files">"Értesítés nagy fájlról"</string>
+    <string name="setting_notification_recent_files">"Értesítés legutóbbi fájlról"</string>
+    <string name="setting_notification_wireless_transfer">"Értesítés vezeték nélküli átvitelről"</string>
+    <string name="setting_display_group">"Képernyő"</string>
+    <string name="tools_storage_analyzer">"Tárhelyelemző"</string>
+    <string name="tools_zenui_instant_update">"Azonnali frissítés"</string>
+    <string name="category_others">"Egyebek"</string>
+    <string name="large_files_content_hint">"Nagy fájlok megkeresése és törlése az Ön engedélyével."</string>
+    <string name="recent_files_content_hint">"Legutóbbi fájlok megkeresése és törlése az Ön engedélyével."</string>
+    <string name="fragment_analyzer_more_hint">"egyéb"</string>
+    <string name="fragment_analyzer_chart_total_hint">"Összesen:"</string>
+    <string name="fragment_analyzer_chart_free_hint">"Szabad:"</string>
+    <string name="fragment_analyzer_chart_used_hint">"HASZNÁLT"</string>
+    <string name="fragment_analyzer_allfiles_used_hint">"Használt:"</string>
+    <string name="news_v31" maxwidth="">"A Tárhelyelemzővel megtudhatja, milyen típusú fájlok foglalják el az egész tárhelyet"</string>
+    <string name="news_v32" maxwidth="">"Újonnan bővített alkalmazáskategória"</string>
+</resources>

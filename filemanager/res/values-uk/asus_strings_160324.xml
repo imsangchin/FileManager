@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Sylvia Cheng, 2016/03/22, Setting page -->
+    <string name="action_settings" description="menu title for setting" maxwidth="-1">"Налаштування"</string>
+    <string name="setting_view_group">"Переглянути налаштування"</string>
+    <string name="setting_view_hide_files">"Не показувати системні файли"</string>
+    <string name="setting_notification_group">"Сповіщення"</string>
+    <string name="setting_notification_large_files">"Сповіщення про великі файли"</string>
+    <string name="setting_notification_recent_files">"Сповіщення про нещодавні файли"</string>
+    <string name="setting_notification_wireless_transfer">"Сповіщення про безпровідне передавання"</string>
+    <string name="setting_display_group">"Дисплей"</string>
+    <string name="tools_storage_analyzer">"Аналізатор сховища"</string>
+    <string name="tools_zenui_instant_update">"Миттєве оновлення"</string>
+    <string name="category_others">"Інше"</string>
+    <string name="large_files_content_hint">"Пошук великих файлів і їх видалення з вашого дозволу."</string>
+    <string name="recent_files_content_hint">"Пошук нещодавніх файлів і їх видалення з вашого дозволу."</string>
+    <string name="fragment_analyzer_more_hint">"Більше"</string>
+    <string name="fragment_analyzer_chart_total_hint">"Усього:"</string>
+    <string name="fragment_analyzer_chart_free_hint">"Вільно:"</string>
+    <string name="fragment_analyzer_chart_used_hint">"ВИКОРИСТАНО"</string>
+    <string name="fragment_analyzer_allfiles_used_hint">"Використано:"</string>
+    <string name="news_v31" maxwidth="">"Аналізатор сховища дає змогу дізнатися тип файлів, які займають усе місце у сховищі"</string>
+    <string name="news_v32" maxwidth="">"Покращена категоризація в програмі"</string>
+</resources>

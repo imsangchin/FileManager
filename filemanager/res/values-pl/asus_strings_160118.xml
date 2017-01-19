@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="httpserver_title" maxwidth="">"Bezprz. transfer plików do PC"</string>
+    <string name="httpserver_start" maxwidth="">"Rozpocznij"</string>
+    <string name="httpserver_stop" maxwidth="">"Zatrzymaj"</string>
+    <string name="httpserver_need_saf" maxwidth="">"Do zarządzania pamięcią zewnętrzną za pomocą komputera wymagane jest uprawnienie."</string>
+    <string name="httpserver_description" maxwidth="">"Włącz usługę, aby połączyć urządzenie przenośne z PC."</string>
+    <string name="httpserver_instruction" maxwidth="">"Wpisz ten adres w przeglądarce na komputerze:"</string>
+    <string name="httpserver_no_network" maxwidth="">"Połącz urządzenie z tą samą siecią Wi-Fi"</string>
+    <string name="httpserver_no_permission_title" maxwidth="">"Uaktyw. bezprz. transfer plików"</string>
+    <string name="httpserver_no_permission_message" maxwidth="">"Zapisywanie w pamięci zew. nie będzie możliwe bez uprawnienia. Kontynuować?"</string>
+    <string name="httpserver_acquire_permission_message" maxwidth="">"Serwer plików HTTP zost. zamkn.; działanie może zost. przerw. Kontynuować?"</string>
+    <string name="category_title_tools">"Narzędzia"</string>
+    <string name="tools_file_transfer">"Transfer plików do komputera"</string>
+    <string name="tools_clean_master">"Usuń śmieci"</string>
+    <string name="retention_notification_large_file">"Dodane duże pliki: %1$s. Wyświetl je teraz."</string>
+    <string name="retention_notification_recent_file">"Niedawno używane pliki zajęły %1$s. Wyświetl je teraz."</string>
+    <string name="recommend_clean_master_msg">"Najbardziej na świecie zaufana aplikacja, która optymalizuje system Android, zwiększa szybkość, oszczędza energię baterii i jest bezpłatnym antywirusem. \nPobrać teraz?"</string>
+    <string name="recommend_clean_master_title">"Polecana aplikacja"</string>
+    <string name="tools_tip_animation">"Pociągnij w górę, aby wyświetlić narzędzia!"</string>
+</resources>

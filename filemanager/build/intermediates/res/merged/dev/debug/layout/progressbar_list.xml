@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.asus.service.cloudstorage.ColorfulLinearLayout
+	xmlns:ads="http://schemas.android.com/apk/res-auto"
+	xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#FFFFFF">
+	<TextView
+        android:id="@+id/tvStatusBarColorful"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/tvActionBarColorful"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <View
+        android:id="@+id/line"
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="@color/transmission_divider_gray" />
+	<ListView
+		android:id="@+id/progressbarList"
+		android:layout_width="match_parent"
+		android:layout_height="0dp"
+        android:layout_weight="1"
+		android:divider="@null" />
+</com.asus.service.cloudstorage.ColorfulLinearLayout>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="httpserver_title" maxwidth="">"Transfer de fișiere către PC:"</string>
+    <string name="httpserver_start" maxwidth="">"Pornire"</string>
+    <string name="httpserver_stop" maxwidth="">"Oprire"</string>
+    <string name="httpserver_need_saf" maxwidth="">"Dacă vreți să gestionați stocarea externă de pe PC, trebuie să acordați permisiunea."</string>
+    <string name="httpserver_description" maxwidth="">"Începeți serviciul pentru a vă conecta dispozitivul mobil la PC."</string>
+    <string name="httpserver_instruction" maxwidth="">"Introduceți această adrsă în browser pe PC:"</string>
+    <string name="httpserver_no_network" maxwidth="">"Conectați-vă dispozitivul la aceeași rețea Wi-Fi"</string>
+    <string name="httpserver_no_permission_title" maxwidth="">"Începere transfer de fișiere wireless"</string>
+    <string name="httpserver_no_permission_message" maxwidth="">"Nu veți putea scrie în stocarea extern fără permisiunea corespunzătoare. Continuați?"</string>
+    <string name="httpserver_acquire_permission_message" maxwidth="">"Serverul HTTP de fișiere va fi închis și operațiunile pot fi întrerupte. Continuați?"</string>
+    <string name="category_title_tools">"Instrumente"</string>
+    <string name="tools_file_transfer">"Transfer de fișiere pe PC"</string>
+    <string name="tools_clean_master">"Ștergere junk"</string>
+    <string name="retention_notification_large_file">"Ați adăugat %1$s fișiere mari. Vizualizați-le acum."</string>
+    <string name="retention_notification_recent_file">"Fișierele recente consumă un spațiu de %1$s. Vizualizați-le acum."</string>
+    <string name="recommend_clean_master_msg">"Aplicația cea mai de încredere din lume pentru optimizare Android, optimizare viteză, economisire baterie și de antivirus gratuită. \nDescărcați acum?"</string>
+    <string name="recommend_clean_master_title">"Recomandare aplicații"</string>
+    <string name="tools_tip_animation">"Beneficiați de instrumente!"</string>
+</resources>

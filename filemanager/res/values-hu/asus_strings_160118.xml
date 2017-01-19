@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="httpserver_title" maxwidth="">"Vezeték nélküli fájlátvitel PC-re"</string>
+    <string name="httpserver_start" maxwidth="">"Indítás"</string>
+    <string name="httpserver_stop" maxwidth="">"Leállítás"</string>
+    <string name="httpserver_need_saf" maxwidth="">"Ha PC-ről szeretné kezelni a külső tárolóhelyét, engedélyt kell beállítania."</string>
+    <string name="httpserver_description" maxwidth="">"Indítsa el a szolgáltatást a mobilkészülék és a PC csatlakoztatásához."</string>
+    <string name="httpserver_instruction" maxwidth="">"Írja be ezt a címet a PC-n lévő böngészőbe:"</string>
+    <string name="httpserver_no_network" maxwidth="">"Csatlakoztassa a készülékét ugyanahhoz a Wi-Fi-hálózathoz"</string>
+    <string name="httpserver_no_permission_title" maxwidth="">"Vezeték nélküli fájlátvitel elindítása"</string>
+    <string name="httpserver_no_permission_message" maxwidth="">"A szükséges engedély nélkül nem fog tudni írni a külső tárolóhelyre. Folytatja?"</string>
+    <string name="httpserver_acquire_permission_message" maxwidth="">"A HTTP-fájlkiszolgáló leáll, és előfordulhat, hogy a műveletek megszakadnak. Folytatja?"</string>
+    <string name="category_title_tools">"Eszközök"</string>
+    <string name="tools_file_transfer">"PC-fájlátvitel"</string>
+    <string name="tools_clean_master">"Szemét törlése"</string>
+    <string name="retention_notification_large_file">"Ön %1$s nagy méretű fájlt adott hozzá. Tekintse meg őket most."</string>
+    <string name="retention_notification_recent_file">"A legutóbbi fájljai %1$s helyet foglalnak. Tekintse meg őket most."</string>
+    <string name="recommend_clean_master_msg">"A legmegbízhatóbb Android-optimalizáló, sebességfokozó, akkumulátorkímélő és ingyenes vírusirtó alkalmazás a világon. \nLetölti most?"</string>
+    <string name="recommend_clean_master_title">"Alkalmazás ajánlása"</string>
+    <string name="tools_tip_animation">"Keressen alkalmazásokat!"</string>
+</resources>

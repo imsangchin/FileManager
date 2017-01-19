@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" >
+
+    <android.google.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" 
+        android:foreground="?android:attr/selectableItemBackground"
+        app:uf_cardCornerRadius="8dp">
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <FrameLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingTop="5dp" >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical" >
+
+                        <TextView
+                            android:id="@+id/uv_suggestion_title"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="20dp"
+                            android:layout_marginRight="20dp"
+                            android:ellipsize="end"
+                            android:maxLines="2"
+                            android:textSize="17sp"
+                            android:textStyle="bold"
+                            android:textColor="#424242"/>
+
+                        <FrameLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content" >
+                            <LinearLayout android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="left|center_vertical"
+                                android:layout_marginLeft="20dp"
+                                android:orientation="horizontal">
+                                <LinearLayout android:id="@+id/uv_suggestion_status_area"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:gravity="center"
+                                    android:orientation="horizontal" >
+
+                                    <View
+                                        android:id="@+id/uv_suggestion_status_color"
+                                        android:layout_width="11dp"
+                                        android:layout_height="11dp" />
+
+                                    <TextView
+                                        android:id="@+id/uv_suggestion_status"
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:layout_marginLeft="3dp"
+                                        android:textColor="#999999"
+                                        android:textSize="15sp"
+                                        android:textStyle="bold"/>
+                                    <View android:layout_width="2px"
+                                        android:layout_height="match_parent"
+                                        android:background="#b5b5b5"
+                                        android:layout_marginLeft="5dp"
+                                        android:layout_marginRight="5dp"
+                                        android:layout_marginTop="2dp"
+                                        android:layout_marginBottom="2dp"/>
+                                </LinearLayout>
+                                <TextView
+                                    android:id="@+id/uv_suggestion_name"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_gravity="left|center_vertical"
+                                    android:layout_marginRight="5dp"
+                                    android:textColor="#b5b5b5"
+                                    android:textStyle="bold"
+                                    android:textSize="14sp" />
+                                <TextView
+                                    android:id="@+id/uv_suggestion_time"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_gravity="left|center_vertical"
+                                    android:layout_marginRight="20dp"
+                                    android:textColor="#b5b5b5"
+                                    android:textSize="14sp" />
+                            </LinearLayout>
+
+                        </FrameLayout>
+                    </LinearLayout>
+                </FrameLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:paddingBottom="10dp"
+                    android:paddingLeft="20dp"
+                    android:paddingRight="20dp"
+                    android:paddingTop="10dp" >
+
+                    <TextView
+                        android:id="@+id/uv_suggestion_text"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:ellipsize="end"
+                        android:maxLines="2"
+                        android:textSize="14sp" 
+                        android:textColor="#767676"/>
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:paddingTop="3dp" >
+
+                        <TextView
+                            android:id="@+id/uv_subscriber_count"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="3dp"
+                            android:textColor="#999999"
+                            android:textSize="12sp" />
+
+                        <TextView
+                            android:id="@+id/uv_comment_count"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="8dp"
+                            android:textColor="#999999"
+                            android:textSize="12sp" />
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+    </android.google.support.v7.widget.CardView>
+
+</FrameLayout>

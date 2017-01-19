@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Sylvia Cheng, 2016/03/22, Setting page -->
+    <string name="action_settings" description="menu title for setting" maxwidth="-1">"Настройки"</string>
+    <string name="setting_view_group">"Настройка просмотра"</string>
+    <string name="setting_view_hide_files">"Скрыть системные файлы"</string>
+    <string name="setting_notification_group">"Уведомление"</string>
+    <string name="setting_notification_large_files">"Уведомление о большом файле"</string>
+    <string name="setting_notification_recent_files">"Уведомление о последних файлах"</string>
+    <string name="setting_notification_wireless_transfer">"Уведомление о беспроводной передаче"</string>
+    <string name="setting_display_group">"Дисплей"</string>
+    <string name="tools_storage_analyzer">"Анализатор хранилища"</string>
+    <string name="tools_zenui_instant_update">"Мгновенное обновление"</string>
+    <string name="category_others">"Другое"</string>
+    <string name="large_files_content_hint">"Найти большие файлы и удалить их при разрешении."</string>
+    <string name="recent_files_content_hint">"Найти последние файлы и удалить их при разрешении."</string>
+    <string name="fragment_analyzer_more_hint">"еще"</string>
+    <string name="fragment_analyzer_chart_total_hint">"Всего:"</string>
+    <string name="fragment_analyzer_chart_free_hint">"Свободно:"</string>
+    <string name="fragment_analyzer_chart_used_hint">"ИСПОЛЬЗОВАНО"</string>
+    <string name="fragment_analyzer_allfiles_used_hint">"Использовано:"</string>
+    <string name="news_v31" maxwidth="">"Анализатор хранилища позволяет узнать тип файлов, которые занимают место"</string>
+    <string name="news_v32" maxwidth="">"Новые категории приложения"</string>
+</resources>

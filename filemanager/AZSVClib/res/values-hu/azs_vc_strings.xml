@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="alert_title" description="Dialog title" maxwidth="-1">Megjegyzés</string>
+    <string name="alert_title_update" description="Dialog title" maxwidth="-1">Frissítés ajánlott</string>
+
+    <string name="alert_msg_not_found" description="ASUS ZenUI Services is not found on device" maxwidth="-1">Az ASUS ZenUI Services nincs telepítve.\n\nMegnyitja a letöltési helyet, és telepíti az alkalmazást?</string>
+    <string name="alert_msg_client_update" description="Client app is not support, need update client app" maxwidth="-1">A(z) %1$s egy újabb verziója áll rendelkezésre. Kérjük, telepítse most.</string>
+    <string name="alert_msg_azs_update" description="ASUS ZenUI Services is not support, need update ASUS ZenUI Services" maxwidth="-1">A(z) %1$s használatához az ASUS ZenUI szolgáltatások legújabb verziója szükséges. Kérjük, telepítse most.</string>
+    <string name="alert_msg_compatible" description="Client app version is compatible with ASUS ZenUI Services" maxwidth="-1">A(z) %1$s verzió kompatibilis az ASUS ZenUI szolgáltatásokkal.</string>
+    <string name="alert_msg_match" description="Client app version is match with ASUS ZenUI Services" maxwidth="-1">A(z) %1$s verzió egyezik az ASUS ZenUI szolgáltatásokkal.</string>
+
+    <string name="alert_cb_msg" description="Don't remind me again" maxwidth="-1">Emlékeztető kikapcsolása</string>
+
+</resources>

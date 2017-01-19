@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="alert_title" description="Dialog title" maxwidth="-1">Nota</string>
+    <string name="alert_title_update" description="Dialog title" maxwidth="-1">Actualización recomendada</string>
+
+    <string name="alert_msg_not_found" description="ASUS ZenUI Services is not found on device" maxwidth="-1">¡ASUS ZenUI Services no se ha instalado!\n\n¿Desea descargarlo e instalarlo?</string>
+    <string name="alert_msg_client_update" description="Client app is not support, need update client app" maxwidth="-1">La nueva versión de %1$s está disponible. Instálela ahora.</string>
+    <string name="alert_msg_azs_update" description="ASUS ZenUI Services is not support, need update ASUS ZenUI Services" maxwidth="-1">%1$s requiere la versión más reciente de ASUS ZenUI Services. Instálela ahora.</string>
+    <string name="alert_msg_compatible" description="Client app version is compatible with ASUS ZenUI Services" maxwidth="-1">La versión %1$s es compatible con ASUS ZenUI Services.</string>
+    <string name="alert_msg_match" description="Client app version is match with ASUS ZenUI Services" maxwidth="-1">La versión %1$s coincide con ASUS ZenUI Services.</string>
+
+    <string name="alert_cb_msg" description="Don't remind me again" maxwidth="-1">No avisarme otra vez</string>
+
+</resources>

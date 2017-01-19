@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="httpserver_title" maxwidth="">"Langaton tiedostonsiirto PC-tietokoneeseen"</string>
+    <string name="httpserver_start" maxwidth="">"Käynnistä"</string>
+    <string name="httpserver_stop" maxwidth="">"Pysäytä"</string>
+    <string name="httpserver_need_saf" maxwidth="">"Jos haluat hallita ulkoista tallennustilaasi PC-tietokoneelta, sinun on myönnettävä käyttöoikeus."</string>
+    <string name="httpserver_description" maxwidth="">"Käynnistä palvelu yhdistääksesi mobiililaitteen PC-tietokoneeseen."</string>
+    <string name="httpserver_instruction" maxwidth="">"Näppäile tämä osoite PC-tietokoneen selaimeen:"</string>
+    <string name="httpserver_no_network" maxwidth="">"Liitä laitteesi samaan Wi-Fi-verkkoon"</string>
+    <string name="httpserver_no_permission_title" maxwidth="">"Käynnistä langaton tiedostonsiirto"</string>
+    <string name="httpserver_no_permission_message" maxwidth="">"Et voi kirjoittaa ulkoiseen tallennustilaan ilman riittäviä käyttöoikeuksia. Jatketaanko?"</string>
+    <string name="httpserver_acquire_permission_message" maxwidth="">"HTTP-tiedostopalvelin sulkeutuu ja toiminnat voivat keskeytyä. Jatketaanko?"</string>
+    <string name="category_title_tools">"Työkalut"</string>
+    <string name="tools_file_transfer">"PC-tiedostonsiirto"</string>
+    <string name="tools_clean_master">"Puhdista roskat"</string>
+    <string name="retention_notification_large_file">"Olet lisännyt %1$s suurta tiedostoa. Näytä ne nyt."</string>
+    <string name="retention_notification_recent_file">"Nykyiset tiedostot käyttävät %1$s tilaa. Näytä ne nyt."</string>
+    <string name="recommend_clean_master_msg">"Maailman luotetuin Android-optimoija, Nopeuden tehostaja, Akun säästäjä ja ilmainen virustorjuntasovellus. \nLadataanko nyt?"</string>
+    <string name="recommend_clean_master_title">"Sovellussuositus"</string>
+    <string name="tools_tip_animation">"Pysähdy saadaksesi työkaluja!"</string>
+</resources>

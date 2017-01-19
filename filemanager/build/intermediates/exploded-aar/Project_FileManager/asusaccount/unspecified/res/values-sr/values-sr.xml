@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action">"Пријави се"</string>
+    <string description="" name="article_one">"Прихватам ASUS \"<u>Обавештење о условима употребе</u>\", ASUS \"<u>Смернице за приватност</u>\", ASUS WebStorage \"<u>Обавештење о условима употребе</u>\", ASUS WebStorage \"<u>Смернице за приватност</u>\"."</string>
+    <string description="" name="article_two">"Обавештавај ме путем eDM-ова о најновијим ASUS вестима, исправкама софтвера и информацијама о производу и услугама."</string>
+    <string description="Text for create asus account button." maxwidth="" name="asus_account_create_button">"Региструј се"</string>
+    <string name="asus_account_integrate_dialog_content">"Желите ли да интегришете ASUS налог са WebStorage налогом? \n\n После интеграције, уживаћете у свим ASUS услугама."</string>
+    <string name="asus_account_integrate_dialog_skip">"Прескочи"</string>
+    <string name="asus_account_integrate_dialog_title">"Интегриши ASUS услуге"</string>
+    <string name="asus_account_integrate_dialog_yes">"Да"</string>
+    <string description="Text for asus account content 1st." maxwidth="" name="asus_account_msg_content_1">"Добијете личну ASUS услугу подршке и продужетак гаранције за регистроване производе."</string>
+    <string description="Text for asus account content 2nd." maxwidth="" name="asus_account_msg_content_2">"Добијете бесплатних 5 GB простора за складиштење у облаку."</string>
+    <string description="Text for asus account content 3rd." maxwidth="" name="asus_account_msg_content_3">"Добијете најновије информације о прибору и обновљеним производима."</string>
+    <string description="Text for asus account content title." maxwidth="" name="asus_account_msg_title">"Креирањем ASUS налога можете да:"</string>
+    <string name="asus_account_only_one_alert">"Дозвољено је додавање само једног ASUS налога. Морате да избришете тренутни налог пре него што га можете заменити новим."</string>
+    <string name="asus_account_prefc">"Подешавања"</string>
+    <string name="asus_account_prefc_advc">"Напредна подешавања"</string>
+    <string name="asus_account_registe_country_error">"Изаберите једну земљу/регион!"</string>
+    <string name="asus_account_registe_id_error">"Грешка форматирања е-поште"</string>
+    <string name="asus_account_registe_policy_error">"Треба да прихватите ASUS смернице да бисте регистровали ASUS налог!"</string>
+    <string name="asus_account_registe_pw_error_1">"Лозинка не може бити празна!"</string>
+    <string name="asus_account_registe_pw_error_2">"Потврда лозинке не може бити празна!"</string>
+    <string name="asus_account_registe_pw_error_3">"Лозинка и потврда лозинке морају бити идентичне!"</string>
+    <string name="asus_account_registe_pw_error_4">"Лозинка треба да има између 8 и 25 знакова."</string>
+    <string name="asus_account_removeaccount_dialog_content">"Интеграција налога је успешна. Пријавите се поново помоћу новог налога."</string>
+    <string name="asus_account_removeaccount_dialog_title">"Интеграција ASUS налога успешна"</string>
+    <string name="asus_registe_success_title">"Регистрација ASUS налога успешна"</string>
+    <string name="asus_response_resultdata">"Овај налог је већ регистрован."</string>
+    <string name="asusaccount_app_name">"ASUS налог"</string>
+    <string name="aucloud_account_only_one_alert">"Дозвољено је додавање само једног au Cloud налога. Морате да избришете тренутни налог пре него што га можете заменити новим."</string>
+    <string name="aws_install_contnet">"ASUS Веб складиште апликација није инсталирана. Желите ли да је преузмете и инсталирате из Play Store продавнице?"</string>
+    <string name="aws_install_title">"ASUS Веб складиште апликација није инсталирана"</string>
+    <string name="baidu_alert_info">"Засновано на Baidu платформи, овај уређај може да приступи само подацима у "My Application Data\\asus\\"."</string>
+    <string name="baidu_alert_title">"Baidu складиште у облаку"</string>
+    <string name="baidupcs_account_only_one_alert">"Дозвољено је додавање само једног налога Baidu за ASUS. Морате да избришете тренутни налог пре него што га можете заменити новим."</string>
+    <string name="confirm">"Потврди"</string>
+    <string name="confirm_ok">"У реду"</string>
+    <string description="confirm password textview title" name="confirm_password">"Потврди лозинку"</string>
+    <string description="ask user to enter password again to confirm" name="confirm_password_edit">"Поново унесите лозинку"</string>
+    <string description="country region textview title" name="country_region">"Земља/регион:"</string>
+    <string description="ack user to select on country" name="country_region_select">"Изаберите своју земљу/регион"</string>
+    <string name="dbx_install_contnet">"Dropbox апликација није инсталирана. Желите ли да је преузмете и инсталирате из Play Store продавнице?"</string>
+    <string name="dbx_install_title">"Dropbox апликација није инсталирана"</string>
+    <string description="ask user to enter password" maxwidth="-1" name="enter_password">"Унесите лозинку"</string>
+    <string description="click to retrieve password" maxwidth="-1" name="forget_password">"<u>Заборавили сте лозинку?</u>"</string>
+    <string name="invalid_server_id">"Неважећи ИД сервера"</string>
+    <string name="invalid_xml">"Неважећи xml"</string>
+    <string description="dialog title, key in the asus ID and PW to Login account" maxwidth="-1" name="login_asus_id">"Пријава на ASUS налог"</string>
+    <string description="login account name" maxwidth="-1" name="login_id">"Име налога/ИД WebStorage услуге"</string>
+    <string name="market_app_error">"Дошло је до грешке са APP апликацијом продавнице инсталираном на вашем уређају!"</string>
+    <string description="ask user to enter email address as account name" maxwidth="-1" name="member_id_hint">"Унесите адресу е-поште"</string>
+    <string name="network_invalid">"Неважећа мрежна веза"</string>
+    <string name="network_invalid_info">"Веза је неважећа. Проверите је поново."</string>
+    <string name="no_device">"Нема уређаја"</string>
+    <string name="no_network">"Нема мрежне везе"</string>
+    <string name="no_network_info">"За приступ овој апликацији неопходна је интернет веза. Омогућите мобилну мрежу или WiFi у подешавањима."</string>
+    <string name="no_password">"Унесите своју лозинку"</string>
+    <string name="no_right">"Ваш налог нема дозволу за пријаву."</string>
+    <string name="no_user_exist">"Корисничко име не постоји"</string>
+    <string name="no_username">"Прво унесите своје корисничко име."</string>
+    <string name="onedrive_account_only_one_alert">"Дозвољено је додавање само једног налога OneDrive за ASUS. Морате да избришете тренутни налог пре него што га можете заменити новим."</string>
+    <string description="dialog title, key in the asus ID and PW to Login account" maxwidth="-1" name="regist_asus_id">"Креирање ASUS налога"</string>
+    <string description="ask user to enter email address to registe New Account" name="registe_id">"Име налога"</string>
+    <string description="ask user to enter new password" name="registe_password">"Унесите 8-25 знакова"</string>
+    <string description="sign up registe action" name="registe_sign_up">"Пријави се"</string>
+    <string name="sd_label">"OneDrive за ASUS"</string>
+    <string name="server_error">"Грешка сервера"</string>
+    <string name="settings">"Подешавања"</string>
+    <string description="check if user want to show password" name="show_passwd">"Прикажи лозинку"</string>
+    <string description="show when sign in failed" maxwidth="-1" name="signin_failed">"Пријава није успела"</string>
+    <string name="ssl_err_msg_info">"Није могуће успоставити сигурну везу са сервером. Желите ли да наставите?"</string>
+    <string name="ssl_err_msg_title">"Грешка SSL везе"</string>
+    <string name="unsupported_area">"Ова област није подржана"</string>
+    <string name="yandex_account_only_one_alert">"Дозвољено је додавање само једног Yandex налога. Морате да избришете тренутни налог пре него што га можете заменити новим."</string>
+</resources>

@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="file_manager" description="Application Name shown on title" maxwidth="">Gerenciador de Arquivo</string>
+
+    <string name="ok" description="Dialog Button: ok for dialog" maxwidth="">OK</string>
+    <string name="no" description="Dialog Button: no for dialog" maxwidth="">Não</string>
+    <string name="cancel" description="Dialog Button: cancel for dialog" maxwidth="">Cancelar</string>
+
+    <string name="select_all" description="Menu Option: select all checkbox" maxwidth="">Selecionar tudo</string>
+    <string name="clear_all" description="Menu Option: clear all checkbox" maxwidth="">Limpar Tudo</string>
+
+    <string name="open_fail" description="Toast: open file fails" maxwidth="-1">Falha ao abrir arquivo.</string>
+
+    <string name="permission_deny" description="Toast: operation permission deny" maxwidth="-1">Permissão negada.</string>
+    <string name="target_exist" description="Toast: target file exists" maxwidth="-1">Arquivo alvo existe.</string>
+
+    <string name="rename" description="Context Menu: options of context menu" maxwidth="">Renomear</string>
+    <string name="rename_dialog" description="Dialog Title: rename dialog title" maxwidth="">Renomear</string>
+    <string name="rename_fail" description="Toast: rename fails" maxwidth="-1">Falha ao renomear arquivo.</string>
+
+    <string name="delete" description="Context Menu: options of context menu" maxwidth="">Excluir</string>
+    <string name="delete_dialog" description="Dialog Title: delete dialog title" maxwidth="">Exclusão de arquivo</string>
+    <string name="delete_one_files" description="Dialog Content: text in dialog" maxwidth="">Deseja excluir o arquivo?</string>
+    <string name="delete_more_files" description="Dialog Content: text in dialog. %d is variable number." maxwidth="">Deseja excluir os items %d?</string>
+    <string name="delete_size" description="Dialog Content: text in dialog" maxwidth="">"Tamanho: "</string>
+    <string name="delete_progress" description="Progress Content: text in progress dialog" maxwidth="">Excluindo...</string>
+    <string name="delete_fail" description="Toast: delete fails" maxwidth="-1">Exclusão de arquivo falhou.</string>
+    <string name="delete_success_one" description="Toast: delete success. %s is variable string." maxwidth="-1">\&quot;%s\&quot; foi excluído.</string>
+    <string name="delete_success_more" description="Toast: delete success" maxwidth="-1">Os arquivos selecionados foram excluídos.</string>
+
+    <string name="new_folder_dialog" description="Dialog Title: create new folder" maxwidth="">Criar nova pasta</string>
+    <string name="new_folder_fail" description="Toast: new folder fails" maxwidth="-1">Falha ao criar nova pasta.</string>
+    <string name="new_folder_success" description="Toast: new folder success. %s is variable string." maxwidth="-1">Pasta \&quot;%s\&quot; foi criada.</string>
+
+    <string name="copy" description="Context Menu: options of context menu" maxwidth="">Copiar</string>
+    <string name="copy_ready_one" description="Toast: copy ready. %s is variable string." maxwidth="-1">\&quot;%s\&quot; foi copiado e está pronto para colar.</string>
+    <string name="copy_ready_more" description="Toast: copy ready" maxwidth="-1">Os arquivos selecionados foram copiados e estão prontos para colar.</string>
+
+    <string name="cut" description="Context Menu: options of context menu" maxwidth="">Recortar</string>
+    <string name="cut_ready_one" description="Toast: cut ready. %s is variable string." maxwidth="-1">\&quot;%s\&quot; foi recortado e está pronto para colar.</string>
+    <string name="cut_ready_more" description="Toast: cut ready" maxwidth="-1">Os arquivos selecionados foram recortados e estão prontos para colar.</string>
+
+    <string name="paste" description="Context Menu: options of context menu" maxwidth="">Colar</string>
+    <string name="paste_exist_dialog" description="Dialog Title: paste exist dialog title" maxwidth="">Mesmo nome do arquivo</string>
+    <string name="paste_exist_file" description="Dialog Content: text in dialog. %s is variable string." maxwidth="">O arquivo \&quot;%s\&quot; já existe.</string>
+    <string name="paste_exist_replace" description="Dialog Content: text in dialog" maxwidth="">Deseja substituir os pelo novo?</string>
+    <string name="paste_exist_to" description="Dialog Content: text in dialog" maxwidth="">Para</string>
+    <string name="paste_exist_apply" description="Dialog Content: text in dialog" maxwidth="">Aplicar para todos</string>
+    <string name="paste_progress" description="Progress Content: text in progress dialog" maxwidth="">Colando...</string>
+    <string name="paste_fail" description="Toast: paste fails" maxwidth="-1">Falha ao colar arquivos.</string>
+    <string name="paste_success" description="Toast: paste success. %s is variable string." maxwidth="-1">Os arquivos foram adicionados a \&quot;%s\&quot;.</string>
+
+    <string name="target_folder_exist" description="Toast: target folder exists. %s is variable string." maxwidth="-1">A pasta: \"%s\" já existe.</string>
+
+    <string name="no_space_fail" maxwidth="-1" description="Error Toast content">Armazenamento insuficiente</string>
+
+    <!-- Guoliang Lin, 2011/04/27, UI required, new feature -->
+    <string name="action_add_folder" description="cutstom action bar view title for add folder" maxwidth="-1">Adicionar Pasta</string>
+    <string name="action_hind_system_file" description="cutstom action bar view title for hinde system file" maxwidth="-1">Ocultar arquivos do sistema</string>
+    <string name="deselect_all" description="cutstom action bar view title for deselect all checkbox" maxwidth="">De-selecionar Tudo</string>
+
+    <!-- Guoliang Lin, 2011/05/11, UI required, new feature -->
+    <string name="file_info_dialog_title" description="Dialog Title: File information dialog title" maxwidth="-1">Informações do Arquivo</string>
+    <string name="dir_info_dialog_title" description="Dialog Title: Directory information dialog title" maxwidth="-1">Informações do Diretório</string>
+    <string name="info" description="Context Menu: options of context menu" maxwidth="-1">Informações</string>
+    <string name="info_name" description="file info textview context" maxwidth="-1">"Nome: "</string>
+    <string name="info_file_num" description="file info textview context" maxwidth="-1">"Número de arquivos: "</string>
+    <string name="info_permission" description="file info textview context" maxwidth="-1">"Permissão: "</string>
+    <string name="info_modified" description="file info textview context" maxwidth="-1">"Data de correção: "</string>
+
+    <!-- Guoliang Lin, 2011/05/27, UI required, new feature -->
+    <string name="action_about" description="cutstom action bar view title for about" maxwidth="-1">Sobre</string>
+
+    <string name="short_cuts_title" description="shortcit title" maxwidth="-1">Atalho</string>
+    <string name="type" description="button text for sort file by type" maxwidth="-1">Tipo</string>
+    <string name="info_type" description="file info textview context" maxwidth="-1">Tipo:</string>
+    <string name="name" description="button text for sort file by name" maxwidth="-1">Nome</string>
+    <string name="size" description="button text for sort file by size" maxwidth="-1">Tamanho</string>
+    <string name="date" description="button text for sort file by date" maxwidth="-1">Data</string>
+    <string name="date_ascending" description="button text for sort file by date ascending" maxwidth="-1">Data (Crescente)</string>
+    <string name="date_descending" description="button text for sort file by date descending" maxwidth="-1">Data (Decrescente)</string>
+
+    <string name="my_storage_title" description="storage label" maxwidth="-1">Meu armazenamento</string>
+    <string name="internal_storage_title" description="storage label" maxwidth="-1">Armazenamento interno</string>
+
+    <string name="my_picture_title" description="shortcut label" maxwidth="-1">Imagem</string>
+    <string name="my_camera_title" description="shortcut label" maxwidth="-1">Câmera</string>
+    <string name="my_music_title" description="shortcut label" maxwidth="-1">Música</string>
+    <string name="my_download_title" description="shortcut label" maxwidth="-1">Download</string>
+
+    <string name="dialog_create_zip_title" description="compress dialog title" maxwidth="-1">Informar nome do arquivo</string>
+
+    <string name="zip_progress_msg" description="compress dialog message" maxwidth="-1">Progredindo...</string>
+    <string name="zip_fail" description="toast message: Compress files fail" maxwidth="-1">Falha ao compactar arquivos</string>
+    <string name="zip_success" description="toast message: Compress files successly" maxwidth="-1">Arquivos compactados com sucesso</string>
+
+    <string name="search_label" description="cutstom action bar view title for search" maxwidth="-1">Procurar Arquivos</string>
+    <string name="search_progress" description="search dialog message" maxwidth="-1">Procurando...</string>
+    <string name="select_folder" description="Title: select the folder" maxwidth="-1">Selecionar a pasta</string>
+    <string name="invalid_directory_path" description="invalid directory path" maxwidth="-1">Caminho de diretório inválido</string>
+
+    <string name="dialog_extract_zip_title" description="extract zip file dialog title. %s is a dynamic string. It is zip file name." maxwidth="-1">Extrair %s para:</string>
+    <string name="unzip_progress_msg" description="extract file dialog message" maxwidth="-1">Extraindo...</string>
+    <string name="unzip_fail" description="toast message: extract files fail" maxwidth="-1">Falhou ao extrair os arquivos</string>
+    <string name="unzip_success" description="toast message: extract files successly" maxwidth="-1">Arquivos extraídos com sucesso</string>
+
+    <string name="action_clear_history" description="cutstom action bar view title for clear search history" maxwidth="">Limpar histórico de busca</string>
+
+    <plurals name="drag_items">
+        <item quantity="one" description="Drag the item" maxWidth="-1">Arrastar item</item>
+        <item quantity="other" description="Drag the items" maxWidth="-1">Arrastar itens</item>
+    </plurals>
+
+    <string name="search_result_title" description=" text for search result" maxwidth="-1" formatted="false">A pesquisar %s em %s: %d ficheiros encontrados</string>
+
+    <string name="drag_items_one">Arrastar item</string>
+    <string name="drag_items_other">Arrastar itens</string>
+
+    <string name="toast_drag_copied_items" description="Toast: The item(s) has been copied completely" maxwidth="-1">Item(s) copiado(s) com sucesso.</string>
+    <string name="toast_drag_moved_items" description="Toast: The item(s) has been moved completely" maxwidth="-1">Item(s) movido(s) com sucesso.</string>
+
+    <string name="move" description="Hint: move the items" maxwidth="-1">Mover</string>
+    <string name="drop_target_to" description="Hint: the target folder which you want to do something" maxwidth="-1">Alvo para:</string>
+    <string name="drop_incorrect_hint" description="Hint: the operation is incorrect" maxwidth="-1">Operação incorreta</string>
+
+    <!-- Willie Huang, 2012/01/20, UI required, new feature -->
+    <string name="dialog_unzip_preview_title" description="show zip info dialog title. %s is a dynamic string. It is a zip file name" maxwidth="-1">Extrair %s</string>
+    <string name="extract" description="Dialog Button: extract file for dialog" maxwidth="-1">Extrair</string>
+    <plurals name="dialog_unzip_preview_size_text">
+        <item quantity="one">Total: %1$d arquivo, %2$s</item>
+        <item quantity="other">Total: %1$d arquivos, %2$s</item>
+    </plurals>
+
+    <string name="encode" description="Dialog Button: click to open the encoding list dialog" maxwidth="-1">Codificação de texto</string>
+    <string name="dialog_text_encoding_title" description="text encoding dialog title" maxwidth="-1">Codificação de texto</string>
+    <string-array name="charset_array">
+        <item>"Latin-1 (ISO-8859-1)"</item>
+        <item>"Unicode (UTF-8)"</item>
+        <item>"Chinês (GBK)"</item>
+        <item>"Chinês (Big5)"</item>
+        <item>"Japonês (ISO-2022-JP)"</item>
+        <item>"Japonês (SHIFT_JIS)"</item>
+        <item>"Japonês (EUC-JP)"</item>
+        <item>"Coreano (EUC-KR)"</item>
+    </string-array>
+
+    <!-- Willie Huang, 2012/03/28, UI required, new feature -->
+    <string name="info_aperture" description="file info textview context" maxwidth="-1">"Abertura: "</string>
+    <string name="info_exposure_time" description="file info textview context" maxwidth="-1">"Temp. exposiç.: "</string>
+    <string name="info_flash" description="file info textview context" maxwidth="-1">"Flash: "</string>
+    <string name="info_focal_length" description="file info textview context" maxwidth="-1">"Comprimento focal: "</string>
+    <string name="info_image_height" description="file info textview context" maxwidth="-1">"Altura: "</string>
+    <string name="info_image_width" description="file info textview context" maxwidth="-1">"Largura"</string>
+    <string name="info_iso" description="file info textview context" maxwidth="-1">"ISO: "</string>
+    <string name="info_location" description="file info textview context" maxwidth="-1">"Local: "</string>
+    <string name="info_maker" description="file info textview context" maxwidth="-1">"Criador: "</string>
+    <string name="info_model" description="file info textview context" maxwidth="-1">"Modelo: "</string>
+    <string name="info_orientation" description="file info textview context" maxwidth="-1">"Orientação: "</string>
+    <string name="info_white_balance" description="file info textview context" maxwidth="-1">"Balanç. branco: "</string>
+
+    <string name="flash_on" description="string indicating camera flash is fired" maxwidth="-1">Flash ativo</string>
+    <string name="flash_off" description="string indicating camera flash is not used" maxwidth="-1">Sem flash</string>
+    <string name="unit_mm" description="string indicating the length units in milli-meters" maxwidth="-1">mm</string>
+    <string name="manual" description="string indicating how camera shooting feature is used" maxwidth="-1">Manual</string>
+    <string name="auto" description="string indicating how camera shooting feature is used" maxwidth="-1">Auto</string>
+
+    <string name="wait">"Aguarde..."</string>
+
+    <!-- Johnson Chen, 2012/04/13, UI required, new feature -->
+    <string name="select_album">Selecionar álbum</string>
+    <string name="select_photo">Selecionar foto</string>
+    <string name="back_button_label" description="button text." maxwidth="-1">Voltar</string>
+
+    <!-- Willie Huang, 2012/05/18, UI required, new feature -->
+    <string name="action_apply_selected_file" description="View title of custom action bar, apply to multiple selected files" maxwidth="-1">Aplicar</string>
+
+    <!-- Willie Huang, 2013/01/03, UI required, new feature -->
+    <string name="loading" description="text for progress bar" maxwidth="-1">"Carregando…"</string>
+    <string name="version" description="version" maxwidth="-1">Versão</string>
+    <string name="title" description="title" maxwidth="-1">Informações legais:</string>
+    <string name="content" description="content" maxwidth="-1">A utilização deste software está sujeita aos termos e condições do website da ASUS: \nhttp://www.asus.com</string>
+    <string name="action_share" description="cutstom action bar view title for sharing" maxwidth="-1">"Compartilhar"</string>
+
+    <!-- Johnson Chen, 2012/05/18, UI required, new feature-->
+    <string name="photo_selection_limit_number_toast" description="Toast: You may not select more than %s photos." maxwidth="-1">Selecionar máximo de %s fotos</string>
+
+    <string name="action_sort_by" description="String for asking for the rule of sorting" maxwidth="-1">Classificar por</string>
+    <plurals name="number_selected_items">
+        <item quantity="one">%d item selecionado</item>
+        <item quantity="other">%d itens selecionados</item>
+    </plurals>
+
+    <!-- Johnson Chen, 2012/05/18, UI required, new feature-->
+    <string name="wifidirect_available_devices" description="Available devices" maxwidth="-1">Dispositivos disponíveis</string>
+    <string name="wifidirect_connect_hint_title" description="Dialog title text: Invitation to connect" maxwidth="-1">Convite para conectar</string>
+    <string name="wifidirect_connect_hint" description="Do you want to connect to device" maxwidth="-1">Deseja continuar com</string>
+    <string name="wifidirect_connecting_hint_title" description="Dialog title text: Wi-Fi Direct connecting..." maxwidth="-1">Conectando Wi-Fi Direct...</string>
+    <string name="wifidirect_disconnect_hint" description=">Do you want to disconnect with" maxwidth="-1">Deseja desconectar de</string>
+    <string name="shared_folder" description="Context Menu: options of context menu: share folder via Wi-Fi Direct" maxwidth="">Compartilhar via Wi-Fi Direct</string>
+    <string name="unshared_folder" description="Context Menu: options of context menu: unshare folder" maxwidth="-1">Descompartilhar</string>
+    <string name="remote_storage_title" description="remote storage label" maxwidth="-1">Armazenamento Remoto</string>
+    <string name="remote_connected_error_hint" description="network is unavailable, please try again" maxwidth="-1">Rede não está disponível, tente novamente</string>
+    <string name="wifidirect_peer_device_title" description="peer devices title" maxwidth="-1">Dispositivos parceiros</string>
+    <string name="wifidirect_scanning" description="searching" maxwidth="-1">Pesquisando...</string>
+    <string name="wifidirect_touch_to_connect" description="click to connect" maxwidth="-1">Clique para conectar</string>
+    <string name="wifidirect_connectted" description="connectted" maxwidth="-1">Conectado</string>
+    <string name="wifidirect_action_bar_scan" description="search" maxwidth="-1">Pesquisar</string>
+    <string name="wifidirect_disconnect_hint_title" description="Disconnect Wi-Fi Direct" maxwidth="-1">Desconectar Wi-Fi Direct</string>
+    <string name="wifidirect_storage_title" description="Search Wi-Fi Direct device" maxwidth="-1">Procurar dispositivo Wi-Fi Direct</string>
+    <string name="wifidirect_peer_device_info" description="peer devices infomation" maxwidth="-1">Para receber um convite Wi-Fi Direct, assegure que seu dispositivo de conexão permanece na página \"Dispositivos parceiros\" no Gerenciados de Arquivo.</string>
+    <string name="wifi_p2p_turn_on_wifi_title" description="title for turn on WiFi dialog" width="-1">Ligar Wi-Fi</string>
+    <string name="wifi_p2p_turn_on_wifi_msg" description="message for request to turn on Wi-Fi" width="-1">Ligar Wi-Fi para usar serviços Wi-Fi Direct. Ligar Wi-Fi agora?</string>
+
+    <string name="action_search" description="cutstom action bar view title for search" maxwidth="">Pesquisar</string>
+
+	 <string name="action_cancel" description="action cancel" maxwidth="-1">Cancelar</string>
+	 <string name="action_add" description="action add files" maxwidth="-1">Adicionar</string>
+
+    <string name="action_zip" description="cutstom action bar view title for zip" maxwidth="">Comprimir</string>
+    <string name="signout_account" description="signout account" width="-1">Desligar</string>
+    <string name="cloud_storage_sign_out" description=">Do you want to signout" maxwidth="-1">Deseja realmente terminar a sessão?</string>
+    <string name="cloud_storage_sign_out_title" description="Dialog title: Signout cloud storage" maxwidth="-1">Desligar</string>
+    <string name="cloud_storage_sign_in" description=">Do you want to signin" maxwidth="-1">Ligar utilizando a conta seguinte:</string>
+    <string name="cloud_storage_sign_in_title" description="Dialog title: Signin cloud storage" maxwidth="-1">Ligar %s</string>
+
+    <string name="edit_toast_name_too_long">Número máximo de caracteres atingido</string>
+
+    <string name="rate_us" description="rate us" maxwidth="-1">Classifique-nos</string>
+    <string name="recruit_beta_user" description="recruit beta user" maxwidth="-1">Receba a Versão de Visualização</string>
+    
+    <string name="rate_now" description="rate now" maxwidth="">Classificar agora</string>
+  	<string name="scroll_up_toast" description="rate now" maxwidth="">Por favor, vá para cima para avaliar</string>
+    <string name="settings_encourage_us_detail" maxWidth="">Se você gosta de usar o %s, nos dê 5 estrelas na Play Store. Seria um ótimo incentivo para continuarmos aprimorando o produto!</string>
+    <string name="yes">Sim</string>
+
+    <string name="menu_tutorial" description="settings menu tutorial" maxwidth="-1">Tutorial</string>
+    <string name="about" description="about" maxwidth="-1">Sobre</string>
+
+    <string name="version_text" >versão </string>
+    <string name="tell_friend" description="" maxwidth="">Conte a um amigo</string>
+    <string name="toolbar_item_title_encourage_us" maxwidth="35">Nos motive</string>
+    <string name="zenui_update">Atualizações do app ZeniUI</string>
+	<string name="whats_new_label" maxwidth="-1">O que há de novo</string>
+    <string name="invite_friends" description="sticker detail page button name" maxwidth="-1">"Convidar Amigos"</string>
+</resources>

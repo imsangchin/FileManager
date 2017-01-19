@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action">"Đăng nhập"</string>
+    <string description="" name="article_one">"Tôi đồng ý với \"<u>Điều khoản thông báo sử dụng</u>\" ASUS, \"<u>Chính sách quyền riêng tư</u>\" ASUS, \"<u>Điều khoản thông báo sử dụng</u>\" ASUS WebStorage, \"<u>Chính sách quyền riêng tư</u>\" ASUS WebStorage."</string>
+    <string description="" name="article_two">"Hãy cập nhật cho tôi qua eDMs với các tin tức ASUS, cập nhật phần mềm và thông tin sản phẩm và dịch vụ mới nhất."</string>
+    <string description="Text for create asus account button." maxwidth="" name="asus_account_create_button">"Đăng ký"</string>
+    <string name="asus_account_integrate_dialog_content">"Bạn có muốn tích hợp tài khoản ASUS với tài khoản WebStorage? \n\n Sau khi tích hợp, bạn sẽ tận hưởng mọi dịch vụ ASUS."</string>
+    <string name="asus_account_integrate_dialog_skip">"Bỏ qua"</string>
+    <string name="asus_account_integrate_dialog_title">"Tích hợp Dịch vụ ASUS"</string>
+    <string name="asus_account_integrate_dialog_yes">"Có"</string>
+    <string description="Text for asus account content 1st." maxwidth="" name="asus_account_msg_content_1">"Nhận dịch vụ hỗ trợ cá nhân và thông tin gia hạn bảo hành từ ASUS cho các sản phẩm đã đăng ký."</string>
+    <string description="Text for asus account content 2nd." maxwidth="" name="asus_account_msg_content_2">"Nhận dung lượng lưu trữ đám mây 5 GB miễn phí."</string>
+    <string description="Text for asus account content 3rd." maxwidth="" name="asus_account_msg_content_3">"Nhận thông tin mới nhất về các phụ kiện cũng như các sản phẩm tân trang."</string>
+    <string description="Text for asus account content title." maxwidth="" name="asus_account_msg_title">"Tạo tài khoản ASUS và bạn có thể:"</string>
+    <string name="asus_account_only_one_alert">"Bạn chỉ được phép thêm một tài khoản ASUS. Bạn phải xóa tài khoản hiện hành trước khi thay thế bằng tài khoản mới."</string>
+    <string name="asus_account_prefc">"Cài đặt"</string>
+    <string name="asus_account_prefc_advc">"Cài đặt nâng cao"</string>
+    <string name="asus_account_registe_country_error">"Hãy chọn một quốc gia/khu vực!"</string>
+    <string name="asus_account_registe_id_error">"Lỗi định dạng email"</string>
+    <string name="asus_account_registe_policy_error">"Bạn phải đồng ý chính sách ASUS để đăng ký tài khoản ASUS!"</string>
+    <string name="asus_account_registe_pw_error_1">"Mật khẩu ko thể trống!"</string>
+    <string name="asus_account_registe_pw_error_2">"Mật khẩu xác nhận ko thể trống!"</string>
+    <string name="asus_account_registe_pw_error_3">"Mật khẩu và mật khẩu xác nhận phải giống nhau!"</string>
+    <string name="asus_account_registe_pw_error_4">"Mật khẩu phải chứa từ 8 đến 25 ký tự."</string>
+    <string name="asus_account_removeaccount_dialog_content">"Tích hợp tài khoản đã thành công. Đăng nhập lại bằng tài khoản mới."</string>
+    <string name="asus_account_removeaccount_dialog_title">"Tích hợp tài khoản ASUS thành công"</string>
+    <string name="asus_registe_success_title">"Đăng ký tài khoản ASUS thành công"</string>
+    <string name="asus_response_resultdata">"Tài khoản này đã được đăng ký."</string>
+    <string name="asusaccount_app_name">"Tài khoản ASUS"</string>
+    <string name="aucloud_account_only_one_alert">"Bạn chỉ được phép thêm một tài khoản Đám mây. Bạn phải xóa tài khoản hiện hành trước khi thay thế bằng tài khoản mới."</string>
+    <string name="aws_install_contnet">"Chưa cài đặt ASUS WebStorage. Bạn có muốn tải về và cài đặt từ Play Store?"</string>
+    <string name="aws_install_title">"ASUS Webstorage chưa được cài đặt"</string>
+    <string name="baidu_alert_info">"Chạy trên nền ứng dụng của Baidu, thiết bị này chỉ có thể truy cập dữ liệu trong "Dữ liệu ứng dụng của tôi\\asus\\"."</string>
+    <string name="baidu_alert_title">"Lưu trữ Đám mây Baidu"</string>
+    <string name="baidupcs_account_only_one_alert">"Bạn chỉ được phép thêm một tài khoản Baidu cho ASUS. Bạn phải xóa tài khoản hiện hành trước khi thay thế bằng tài khoản mới."</string>
+    <string name="confirm">"Xác nhận"</string>
+    <string name="confirm_ok">"OK"</string>
+    <string description="confirm password textview title" name="confirm_password">"Xác nhận mật khẩu"</string>
+    <string description="ask user to enter password again to confirm" name="confirm_password_edit">"Nhập lại mật khẩu của bạn"</string>
+    <string description="country region textview title" name="country_region">"Quốc gia/Khu vực"</string>
+    <string description="ack user to select on country" name="country_region_select">"Chọn quốc gia/khu vực của bạn"</string>
+    <string name="dbx_install_contnet">"Chưa cài đặt Dropbox. Bạn có muốn tải về và cài đặt từ Play Store?"</string>
+    <string name="dbx_install_title">"Dropbox chưa được cài đặt"</string>
+    <string description="ask user to enter password" maxwidth="-1" name="enter_password">"Nhập mật khẩu"</string>
+    <string description="click to retrieve password" maxwidth="-1" name="forget_password">"<u>Quên mật khẩu?</u>"</string>
+    <string name="invalid_server_id">"ID máy chủ ko hợp lệ"</string>
+    <string name="invalid_xml">"xml ko hợp lệ"</string>
+    <string description="Loading process is conducted now." maxWidth="-1" name="loading">Loading…</string>
+    <string description="dialog title, key in the asus ID and PW to Login account" maxwidth="-1" name="login_asus_id">"Đ.nhập tài khoản ASUS"</string>
+    <string description="login account name" maxwidth="-1" name="login_id">"Tên tài khoản/ID WebStorage"</string>
+    <string name="market_app_error">"Ứng dụng APP market cài đặt trên thiết bị của bạn đã bị lỗi!"</string>
+    <string description="ask user to enter email address as account name" maxwidth="-1" name="member_id_hint">"Nhập địa chỉ email"</string>
+    <string name="network_invalid">"Kết nối mạng không hợp lệ"</string>
+    <string name="network_invalid_info">"Kết nối không hợp lệ. Hãy kiểm tra lại."</string>
+    <string name="no_device">"Ko có thiết bị"</string>
+    <string name="no_network">"Không có kết nối mạng"</string>
+    <string name="no_network_info">"Cần kết nối internet để truy cập ứng dụng này. Hãy bật mạng di động hoặc WiFi trong Cài đặt."</string>
+    <string name="no_password">"Hãy nhập mật khẩu của bạn"</string>
+    <string name="no_right">"Tài khoản của bạn không có quyền đăng nhập."</string>
+    <string name="no_user_exist">"Tên n.dùng không tồn tại"</string>
+    <string name="no_username">"Nhập tên n.dùng của bạn trước."</string>
+    <string name="onedrive_account_only_one_alert">"Bạn chỉ được phép thêm một tài khoản OneDrive cho ASUS. Bạn phải xóa tài khoản hiện hành trước khi thay thế bằng tài khoản mới."</string>
+    <string name="password">"Mật khẩu"</string>
+    <string description="dialog title, key in the asus ID and PW to Login account" maxwidth="-1" name="regist_asus_id">"Tạo tài khoản ASUS"</string>
+    <string description="ask user to enter email address to registe New Account" name="registe_id">"Tên tài khoản"</string>
+    <string description="ask user to enter new password" name="registe_password">"Nhập 8-25 ký tự"</string>
+    <string description="sign up registe action" name="registe_sign_up">"Đăng ký"</string>
+    <string name="sd_label">"OneDrive cho ASUS"</string>
+    <string name="server_error">"Lỗi máy chủ"</string>
+    <string name="settings">"Cài đặt"</string>
+    <string description="check if user want to show password" name="show_passwd">"Hiển thị mật khẩu"</string>
+    <string description="show when sign in failed" maxwidth="-1" name="signin_failed">"Ko thể đ.nhập"</string>
+    <string name="ssl_err_msg_info">"Không thể kết nối an toàn với máy chủ. Bạn muốn tiếp tục?"</string>
+    <string name="ssl_err_msg_title">"Lỗi kết nối SSL"</string>
+    <string name="unsupported_area">"Khu vực này không hỗ trợ"</string>
+    <string name="yandex_account_only_one_alert">"Bạn chỉ được phép thêm một tài khoản Yandex. Bạn phải xóa tài khoản hiện hành trước khi thay thế bằng tài khoản mới."</string>
+</resources>

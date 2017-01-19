@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+<!--     <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/folder_list_height"
+        android:background="@drawable/asus_ep_shortcut_title_bg"
+        android:gravity="center_vertical"
+        android:id="@+id/remote_storage_view_title"
+        android:orientation="horizontal"
+        android:visibility="gone">
+
+        <TextView android:layout_width="wrap_content"
+            android:id="@+id/remote_storage_title"
+            android:layout_height="50dp"
+            android:paddingLeft="30dp"
+            style="@style/witeTextStyle"
+            android:text="@string/remote_storage_title"
+            android:textSize="20sp"
+            android:singleLine="true"
+            android:visibility="gone"
+            /> 
+    </LinearLayout>-->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/folder_list_height"
+        android:background="@drawable/asus_ep_shortcut_button_bg_normal"
+        android:gravity="center_vertical"
+        android:id="@+id/storage_view_root">
+
+        <View android:id="@+id/empty_padding_left_view"
+            android:layout_width="@dimen/wifi_direct_storage_padding_left"
+            android:layout_height="@dimen/folder_list_height"
+            android:visibility="gone"/>
+
+        <ImageView android:id="@+id/storage_icon"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/folder_list_height"
+            android:layout_marginLeft="@dimen/folder_tree_padding_left"
+            android:src="@drawable/asus_ep_ic_internal_storage"
+            android:cropToPadding="true"
+            android:scaleType="center"
+            android:background="@drawable/asus_ep_shortcut_button_bg_normal"
+            android:clickable="true"
+            android:focusable="true"/>
+
+        <LinearLayout android:id="@+id/storage_container"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.0"
+            android:orientation="horizontal"
+            android:background="@drawable/asus_ep_shortcut_button_bg_normal"
+            android:gravity="center_vertical"
+            android:clickable="true"
+            android:focusable="true"
+            android:singleLine="true">
+
+            <TextView android:id="@+id/storage_name"
+                android:layout_width="0dp"
+                android:layout_height="@dimen/folder_list_height"
+                android:layout_weight="1"
+                android:gravity="center_vertical"
+                android:paddingLeft="@dimen/folder_tree_icon_text_padding"
+                style="@style/witeTextButtonStyle"
+                android:textSize="16sp"
+	        android:background="@drawable/asus_ep_shortcut_button_bg_normal"
+                android:singleLine="true"
+                android:clickable="false"
+                android:focusable="false"/>
+
+            <ImageView android:id="@+id/cloud_storage_arrow"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:cropToPadding="true"
+                android:scaleType="center"
+                android:clickable="true"
+                android:focusable="true"
+                android:visibility="gone"/>
+        </LinearLayout>
+    </LinearLayout>
+
+    <View android:id="@+id/storage_list_item_divider"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@drawable/asus_ep_storage_list_line"/>
+</FrameLayout>

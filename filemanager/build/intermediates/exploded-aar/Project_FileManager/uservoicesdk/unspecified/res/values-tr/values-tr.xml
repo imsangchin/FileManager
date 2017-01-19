@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="uf_sdk_number_of_subscribers_format">
+        <item quantity="one">"%1$s bu konuyu beğendi"</item>
+        <item quantity="other">"%1$s bu konuyu beğendi"</item>
+    </plurals>
+    <plurals name="uf_sdk_topics">
+        <item quantity="one">"konu"</item>
+        <item quantity="other">"konu"</item>
+    </plurals>
+    <plurals name="uv_comments">
+        <item quantity="one">"yorum"</item>
+        <item quantity="other">"yorumlar"</item>
+    </plurals>
+    <plurals name="uv_number_of_subscribers_format">
+        <item quantity="one">"%1$s bu fikri istiyor"</item>
+        <item quantity="other">"%1$s bu fikri istiyor"</item>
+    </plurals>
+    <plurals name="uv_people">
+        <item quantity="one">"kişi"</item>
+        <item quantity="other">"kişiler"</item>
+    </plurals>
+    <plurals name="uv_subscribers">
+        <item quantity="one">"abone"</item>
+        <item quantity="other">"aboneler"</item>
+    </plurals>
+    <string description="label for trending searches" maxwidth="-1" name="trending_searches">"Sık arananlar"</string>
+    <string name="uf_sdk_already_give_5star">"Zaten 5 yıldız puan verdim"</string>
+    <string description="%d is a number, don&apos;t translate" name="uf_sdk_article_read_count">"%d görüş"</string>
+    <string name="uf_sdk_attachment_format_warning">"Yanlış dosya biçimi. Yalnızca görüntü dosyası eklenebilir"</string>
+    <string name="uf_sdk_attachment_total_size">"Toplam"</string>
+    <string name="uf_sdk_attachment_warning">"Ek boyutu izin verilen sınırı aşıyor"</string>
+    <string maxwidth="-1" name="uf_sdk_cancel_btn_content">"İptal"</string>
+    <string name="uf_sdk_choosertitle_sharevia">"Şunu kullanarak paylaş:"</string>
+    <string name="uf_sdk_connection_error_msg">"Bağlantı sunucu tarafından sonlandırıldı. Lütfen daha sonra deneyin."</string>
+    <string name="uf_sdk_connection_error_title">"Bağlantı hatası"</string>
+    <string name="uf_sdk_discard">"Kaldır"</string>
+    <string name="uf_sdk_email_illigal">"E-posta adresi zaten kullanılıyor"</string>
+    <string maxwidth="-1" name="uf_sdk_empty_notification">"Boş :)"</string>
+    <string name="uf_sdk_faq">"SSS"</string>
+    <string name="uf_sdk_feedback_and_help">"Geri Bildirim ve Yardım"</string>
+    <string name="uf_sdk_forum_description">"Çözümler bulmak ve kendi çözümlerinizi paylaşmak için ASUS kullanıcılarıyla konuşmaya katılın"</string>
+    <string maxwidth="-1" name="uf_sdk_grant_permission_title">"Şunun için izin alın:"</string>
+    <string name="uf_sdk_help">"Yardım"</string>
+    <string name="uf_sdk_instant_answer_question">"Bu SSS yardımcı oldu mu?"</string>
+    <string name="uf_sdk_like">"Beğen"</string>
+    <string maxwidth="-1" name="uf_sdk_message">"Bildirimler"</string>
+    <string name="uf_sdk_msg_bad_email_format">"E-posta adresi geçerli değil; lütfen tekrar deneyin."</string>
+    <string name="uf_sdk_msg_confirm_discard_topic">"Taslağınız kaydedilmeyecek. Yine de silmek istiyor musunuz?"</string>
+    <string name="uf_sdk_msg_confirm_discard_topic_title">"Gönderi silinsin mi?"</string>
+    <string name="uf_sdk_msg_subscribe">"Konu durumu bilgilendirme aboneliği e-postayla sağlanacaktır."</string>
+    <string name="uf_sdk_msg_subscribe_success">"Abonelik başarılı"</string>
+    <string name="uf_sdk_msg_ticket_created">"Geri bildiriminiz ASUS\'a başarıyla gönderildi"</string>
+    <string name="uf_sdk_msg_topic_created">"Başarıyla yayınlandı"</string>
+    <string name="uf_sdk_msg_unsubscribe">"Abonelikten çıkma başarılı"</string>
+    <string name="uf_sdk_name_hint">"Adınızı girin"</string>
+    <string name="uf_sdk_name_illigal">"Kullanıcı adı zaten alınmış"</string>
+    <string name="uf_sdk_network_error">"Internet bağlantısı yok; lütfen ağ ayarlarınızı kontrol edin."</string>
+    <string description="zenui news" maxwidth="" name="uf_sdk_news">"Haberleri"</string>
+    <string name="uf_sdk_no_network_connection_content">"Veriler güncellenemiyor. Lütfen ağ ayarlarınızı denetleyin. "</string>
+    <string name="uf_sdk_no_network_connection_title">"Ağ bağlantısı yok"</string>
+    <string name="uf_sdk_nothing_found">"Hiçbir şey bulunamadı"</string>
+    <string name="uf_sdk_notice">"Bildirim"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category1">"Duyurular"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category2">"Öğreticiler ve ipuçları"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category3">"Promosyonlar"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category4">"Etkinlikler"</string>
+    <string name="uf_sdk_publish_an_topic">"Yeni konu yayınla"</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_rate_now">"Şimdi puan ver"</string>
+    <string description="%s is AP name, don&apos;t translate" maxWidth="" name="uf_sdk_rate_us_detail">"%s kullanmaktan keyif alıyorsanız, lütfen bize Play Store'da 5 yıldız verin."</string>
+    <string maxWidth="" name="uf_sdk_rate_us_detail_new">"5 yıldız vererek göstereceğiniz destek, bizi çalışmaya devam etmeye teşvik eder!"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_rating">"5 yıldız verin"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title">"Bize puan verin!"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title_new">"Bize destek verin!"</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_scroll_up_toast">"Puan vermek için lütfen yukarı kaydırın"</string>
+    <string name="uf_sdk_search_hint">"Ara"</string>
+    <string name="uf_sdk_select_common_bug">"Yaygın hatayı seçin"</string>
+    <string name="uf_sdk_send_feedback">"Geri bildirim gönder"</string>
+    <string name="uf_sdk_send_feedback_help">"Geri bildiriminiz ve e-posta adresiniz ASUS\'a gönderilecek. Hizmet ekibi e-posta aracılığıyla sizinle iletişime geçecektir."</string>
+    <string maxwidth="-1" name="uf_sdk_setting_btn_content">"Ayarlar"</string>
+    <string description="recommend title" maxwidth="" name="uf_sdk_settings_encourage_us_title">"Bize destek verin"</string>
+    <string maxwidth="-1" name="uf_sdk_storage_permission_description">"Bu işlevin multimedya dosyalarına erişmesi için depolama alanı izni gerekmektedir. \n\nBu işlevi etkinleştirmek isterseniz izin vermek için Ayarlar düğmesine dokunun ve Ayarlar sayfasına giderek \"Uygulama bilgisi\" > \"İzinler\" bölümünü ayarlayın.\n"</string>
+    <string name="uf_sdk_submit_topic">"Yayınla"</string>
+    <string name="uf_sdk_subscribe_dialog_title">"Bu konuya abone ol"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_answered">"Yanıtlandı"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_completed">"Tamamlandı"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_declined">"Reddedildi"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_implemented">"Uygulandı"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_planned">"Planlandı"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_under_review">"İnceleniyor"</string>
+    <string name="uf_sdk_thanks_for_your_feedback">"Geri bildiriminiz için teşekkür ederiz!"</string>
+    <string description="%s is a application name, don&apos;t translate" name="uf_sdk_ticket_hint">"%s için geri bildirimler girin"</string>
+    <string name="uf_sdk_title_topic">"Konu"</string>
+    <string name="uf_sdk_topic">"Konu"</string>
+    <string name="uf_sdk_topic_description_heading">"Açıklama"</string>
+    <string name="uf_sdk_topic_description_hint">"Konunuzu ayrıntılı açıklayın"</string>
+    <string name="uf_sdk_topic_filter">"KONULAR"</string>
+    <string name="uf_sdk_topic_form_help">"Kullanıcı forumunda bir konu yayınladığınızda, diğer kullanıcılar abone olup yorum yapabilecektir. ASUS geliştirme ekibi konuya yanıt verdiğinde, e-posta aracılığıyla bilgilendirileceksiniz."</string>
+    <string name="uf_sdk_topic_form_title">"Yeni konu yayınla"</string>
+    <string name="uf_sdk_topic_text_heading">"Forum"</string>
+    <string name="uf_sdk_topic_text_hint">"Konu başlığınızı yazın"</string>
+    <string name="uf_sdk_topic_title">"Başlık"</string>
+    <string name="uf_sdk_translation_10117605">"Çeviri sorunu"</string>
+    <string name="uf_sdk_translation_117562">"Geri bildirim türü"</string>
+    <string name="uf_sdk_translation_2529543">"Hata raporu"</string>
+    <string name="uf_sdk_translation_2529544">"Diğerleri"</string>
+    <string name="uf_sdk_translation_2530478">"Öneri"</string>
+    <string name="uf_sdk_unhelpful_article_message_question">"ASUS geliştirme ekibine geri bildirim göndermek istiyor musunuz?"</string>
+    <string name="uf_sdk_user_forum">"Kullanıcı forumu"</string>
+    <string name="uf_sdk_warning">"Uyarı"</string>
+    <string name="uf_sdk_wifi_settings">"Wi-Fi ayarları"</string>
+    <string name="uf_sdk_wlan_settings">"WLAN ayarları"</string>
+    <string name="uf_sdk_write_your_feedback">"Geri bildirimleri buraya girin"</string>
+    <string name="uf_sdk_your_draft_will_be_discarded">"Taslağınız kaldırılacak."</string>
+    <string description="description for empty search result" maxwidth="-1" name="unable_to_find_artlcles">"\u0022%s\u0022 ile ilgili makaleler bulunumadı"</string>
+    <string name="uv_admin_response_format">"Yönetici yanıtı: %1$s"</string>
+    <string name="uv_all_articles">"Tüm Makaleler"</string>
+    <string name="uv_all_results_filter">"TÜMÜ"</string>
+    <string name="uv_android_sdk">Android SDK</string>
+    <string name="uv_article_browse_question">"Bu makale yardımcı oldu mu?"</string>
+    <string name="uv_article_instant_answer_question">"Bu SSS yardımcı oldu mu?"</string>
+    <string name="uv_cancel">"İptal"</string>
+    <string name="uv_category">"Kategori"</string>
+    <string name="uv_close">"Kapat"</string>
+    <string name="uv_comment_hint">"Yorumunuzu girin"</string>
+    <string name="uv_confirm">"Onayla"</string>
+    <string name="uv_contact_continue_button">"Hala mesaj göndermek istiyorum"</string>
+    <string name="uv_contact_hint">"Sorunuzu veya geribildiriminizi girin"</string>
+    <string name="uv_contact_us">"Bizimle iletişime geçin"</string>
+    <string name="uv_display_name">"Görünen ad"</string>
+    <string name="uv_email_address">"E-posta adresi"</string>
+    <string name="uv_email_address_hint">"sizin@epostanız.com (gerekli)"</string>
+    <string name="uv_error">"Hata"</string>
+    <string name="uv_failed_signin_error">"Yanlış e-posta adresi veya şifre"</string>
+    <string name="uv_forgot_password">"Şifreyi unuttum"</string>
+    <string name="uv_helpful_article_message_question">"Hala mesaj göndermek istiyor musunuz?"</string>
+    <string name="uv_i_want_this">"Bunu istiyorum!"</string>
+    <string name="uv_idea_description_heading">"Fikrinizi daha ayrıntılı şekilde tanımlayın"</string>
+    <string name="uv_idea_description_hint">"(isteğe bağlı)"</string>
+    <string name="uv_idea_text_heading">"Size önerim:"</string>
+    <string name="uv_loading">"Yükleniyor…"</string>
+    <string name="uv_matching_articles">"Eşleşen makaleler"</string>
+    <string name="uv_matching_articles_and_ideas">"Eşleşen makaleler ve fikirler"</string>
+    <string name="uv_menu_attach">"Ekle"</string>
+    <string name="uv_menu_search">"Ara"</string>
+    <string name="uv_msg_bad_email_format">"Lütfen geçerli bir e-posta adresi girin."</string>
+    <string name="uv_msg_comment_posted">"Yorumunuz gönderildi"</string>
+    <string name="uv_msg_confirm_discard_message">"Fikrinizi silmek istediğinizden emin misiniz?"</string>
+    <string name="uv_msg_custom_fields_validation">"Lütfen tüm gerekli alanları doldurun."</string>
+    <string name="uv_msg_forgot_password">"Şifremi unuttum e-postası gönderildi"</string>
+    <string name="uv_msg_idea_created">"Fikriniz oluşturuldu"</string>
+    <string name="uv_msg_ticket_created">"Mesajınız gönderildi"</string>
+    <string name="uv_msg_user_identity_validation">"Lütfen e-posta adresinizi girin"</string>
+    <string name="uv_name_hint">"Anonim"</string>
+    <string name="uv_network_error">"UserVoice öğesine bağlanırken bir hata oluştu"</string>
+    <string name="uv_nevermind">"Asla"</string>
+    <string name="uv_new_comment">"Yeni yorum"</string>
+    <string name="uv_next">"İleri"</string>
+    <string name="uv_no">"Hayır"</string>
+    <string name="uv_none_of_these_help">"Bu yardımların hiç biri değil"</string>
+    <string name="uv_password">"Şifre"</string>
+    <string name="uv_password_dialog_title">"Lütfen şifrenizi girin"</string>
+    <string name="uv_portal_title">"Yardım"</string>
+    <string name="uv_post_a_comment">"Yorum gönder"</string>
+    <string name="uv_post_comment">"Yorum gönder"</string>
+    <string name="uv_posted_by_format">"Gönderen: %1$s , %2$s"</string>
+    <string name="uv_powered_by_uservoice">"UserVoice tarafından"</string>
+    <string name="uv_ranked">"Sıralama: %1$s"</string>
+    <string name="uv_remove_votes">"Uzak Oylar"</string>
+    <string name="uv_select_none">"(hiç biri)"</string>
+    <string name="uv_select_one">"Birini seçin"</string>
+    <string name="uv_send_message">"Mesaj gönder"</string>
+    <string name="uv_signin_dialog_ok">"Oturum aç"</string>
+    <string name="uv_signin_dialog_title">"Oturum aç"</string>
+    <string name="uv_status_format">"Durum: %1$s"</string>
+    <string name="uv_submit_idea">"Fikri gönder"</string>
+    <string name="uv_subscribe">"Abone ol"</string>
+    <string name="uv_subscribe_dialog_title">"Bu fikre abone ol"</string>
+    <string name="uv_suggestion_instant_answer_question">"Bu fikir yardımcı oldu mu?"</string>
+    <string name="uv_thanks">"Teşekkürler!"</string>
+    <string name="uv_unhelpful_article_message_question">"Bize mesaj göndermek ister misiniz?"</string>
+    <string name="uv_value">"Değer"</string>
+    <string name="uv_very_yes">"Evet!"</string>
+    <string name="uv_yes">"Evet"</string>
+    <string name="uv_your_email_address">"E-posta adresiniz"</string>
+    <string name="uv_your_name">"Adınız"</string>
+</resources>

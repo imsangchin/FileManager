@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical">
+    <FrameLayout
+        android:background="@android:color/transparent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:clickable="true"
+        android:focusable="true"
+        android:gravity="center"
+        android:id="@+id/menuitem_more">
+
+        <ImageButton
+            android:id="@+id/menu_badge_icon"
+            android:background="@android:color/transparent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/asus_ic_menu_light"
+            android:clickable="false"
+            android:focusable="false"
+            android:scaleType="fitXY" />
+
+        <ImageView
+            android:id="@+id/ImgView_badge"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_gravity="top|right"
+            android:layout_marginRight="0dp"
+            android:layout_marginTop="0dp"
+            android:clickable="false"
+            android:focusable="false"
+            android:visibility="gone"
+            android:src="@drawable/asus_new_feature_icon" />
+    </FrameLayout>
+    <ImageButton
+        android:id="@+id/share_action"
+        android:background="@android:color/transparent"
+        android:src="@drawable/asus_w_ic_share"
+        android:layout_toLeftOf="@id/menuitem_more"
+        android:layout_marginRight="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <ImageButton
+        android:id="@+id/delete_action"
+        android:src="@drawable/asus_ep_ic_delete_light"
+        android:layout_toLeftOf="@id/share_action"
+        android:layout_marginRight="10dp"
+        android:background="@android:color/transparent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <!--
+    <ImageButton
+        android:id="@+id/edit_action"
+        android:background="@android:color/transparent"
+        android:src="@drawable/asus_w_ic_share"
+        android:layout_toLeftOf="@id/delete_action"
+        android:layout_marginRight="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+        -->
+    <TextView
+        android:id="@+id/actionbar_current"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_toLeftOf="@id/delete_action"
+        android:layout_gravity="right|center_vertical"
+        android:clickable="false"
+        android:fontFamily="sans-serif-light"
+        android:gravity="center_vertical"
+        android:text="@string/internal_storage_title"
+        android:textColor="@color/white"
+        android:textSize="@dimen/actionbar_title_size" />
+
+</RelativeLayout>

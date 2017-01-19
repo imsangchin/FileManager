@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <!--++yiqiu_huang, change shortcut button to spinner, use asus theme spinner -->
+    <Spinner android:id="@+id/shortcut_button"
+
+        android:text="@string/internal_storage_title"
+        android:textColor="#ffffffff"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:textSize="16dp"
+        android:paddingLeft="0dp"
+        android:paddingRight="0dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="0dp"
+        />
+   <!--android:background="@drawable/asus_ep_filemanager_button" -->
+</RelativeLayout>

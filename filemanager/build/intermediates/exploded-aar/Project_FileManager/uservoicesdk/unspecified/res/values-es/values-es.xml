@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="uf_sdk_number_of_subscribers_format">
+        <item quantity="one">"A %1$s le gusta este tema"</item>
+        <item quantity="other">"A %1$s les gusta este tema"</item>
+    </plurals>
+    <plurals name="uf_sdk_topics">
+        <item quantity="one">"tema"</item>
+        <item quantity="other">"temas"</item>
+    </plurals>
+    <plurals name="uv_comments">
+        <item quantity="one">"comentario"</item>
+        <item quantity="other">"comentarios"</item>
+    </plurals>
+    <plurals name="uv_number_of_subscribers_format">
+        <item quantity="one">"%1$s quiere esta idea"</item>
+        <item quantity="other">"%1$s quieren esta idea"</item>
+    </plurals>
+    <plurals name="uv_people">
+        <item quantity="one">"persona"</item>
+        <item quantity="other">"personas"</item>
+    </plurals>
+    <plurals name="uv_subscribers">
+        <item quantity="one">"suscriptor"</item>
+        <item quantity="other">"suscriptores"</item>
+    </plurals>
+    <string description="label for trending searches" maxwidth="-1" name="trending_searches">"Búsquedas populares"</string>
+    <string name="uf_sdk_already_give_5star">"Ya dio una puntuación de 5 estrellas"</string>
+    <string description="%d is a number, don&apos;t translate" name="uf_sdk_article_read_count">"%d visualizaciones"</string>
+    <string name="uf_sdk_attachment_format_warning">"Formato de archivo erróneo. Solo se pueden adjuntar archivos de imagen"</string>
+    <string name="uf_sdk_attachment_total_size">"Total"</string>
+    <string name="uf_sdk_attachment_warning">"El tamaño de los datos adjuntos supera el límite permitido."</string>
+    <string maxwidth="-1" name="uf_sdk_cancel_btn_content">"Cancelar"</string>
+    <string name="uf_sdk_choosertitle_sharevia">"Compartir a través de"</string>
+    <string name="uf_sdk_connection_error_msg">"Conexión anulada por el servidor. Inténtelo más tarde."</string>
+    <string name="uf_sdk_connection_error_title">"Error de conexión"</string>
+    <string name="uf_sdk_discard">"Descartar"</string>
+    <string name="uf_sdk_email_illigal">"Dirección de correo electrónico en uso"</string>
+    <string maxwidth="-1" name="uf_sdk_empty_notification">"Vacío"</string>
+    <string name="uf_sdk_faq">"P+F"</string>
+    <string name="uf_sdk_feedback_and_help">"Comentarios y ayuda"</string>
+    <string name="uf_sdk_forum_description">"Únase a la conversación con los usuarios de ASUS para buscar y compartir sus soluciones"</string>
+    <string maxwidth="-1" name="uf_sdk_grant_permission_title">"Conceder permiso"</string>
+    <string name="uf_sdk_help">"Ayuda"</string>
+    <string name="uf_sdk_instant_answer_question">"¿Le resultó útil esta sección de preguntas frecuentes?"</string>
+    <string name="uf_sdk_like">"Me gusta"</string>
+    <string maxwidth="-1" name="uf_sdk_message">"Notificaciones"</string>
+    <string name="uf_sdk_msg_bad_email_format">"La dirección de correo electrónico no es válida. Inténtelo de nuevo."</string>
+    <string name="uf_sdk_msg_confirm_discard_topic">"El borrador no se guardará. ¿Desea eliminarlo de todas formas?"</string>
+    <string name="uf_sdk_msg_confirm_discard_topic_title">"¿Desea eliminar esta publicación?"</string>
+    <string name="uf_sdk_msg_subscribe">"La suscripción a las notificaciones del estado de los temas se le proporcionará por correo electrónico."</string>
+    <string name="uf_sdk_msg_subscribe_success">"Suscripción correcta"</string>
+    <string name="uf_sdk_msg_ticket_created">"Sus comentarios se enviaron a ASUS correctamente."</string>
+    <string name="uf_sdk_msg_topic_created">"Correctamente publicado"</string>
+    <string name="uf_sdk_msg_unsubscribe">"Anulación de suscripción correcta"</string>
+    <string name="uf_sdk_name_hint">"Escriba su nombre"</string>
+    <string name="uf_sdk_name_illigal">"Nombre de usuario ya utilizado"</string>
+    <string name="uf_sdk_network_error">"No hay conexión a Internet. Compruebe la configuración de red."</string>
+    <string description="zenui news" maxwidth="" name="uf_sdk_news">"Noticias"</string>
+    <string name="uf_sdk_no_network_connection_content">"No se pueden actualizar los datos. Compruebe la configuración de la red. "</string>
+    <string name="uf_sdk_no_network_connection_title">"No hay conexión de red"</string>
+    <string name="uf_sdk_nothing_found">"No se encontró ningún elemento"</string>
+    <string name="uf_sdk_notice">"Aviso"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category1">"Comunicados"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category2">"Tutoriales y sugerencias"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category3">"Promociones"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category4">"Eventos"</string>
+    <string name="uf_sdk_publish_an_topic">"Publicar nuevo tema"</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_rate_now">"Puntuar ahora"</string>
+    <string description="%s is AP name, don&apos;t translate" maxWidth="" name="uf_sdk_rate_us_detail">"Si disfruta usando %s, puntúenos con 5 estrellas en Play Store."</string>
+    <string maxWidth="" name="uf_sdk_rate_us_detail_new">"¡Su ayuda con una puntuación de 5 estrellas nos inspirará para continuar trabajando!"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_rating">"Puntuación de 5 estrellas"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title">"¡Puntúenos!"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title_new">"Anímenos!"</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_scroll_up_toast">"Desplácese hacia arriba para puntuar"</string>
+    <string name="uf_sdk_search_hint">"Buscar"</string>
+    <string name="uf_sdk_select_common_bug">"Seleccionar error común"</string>
+    <string name="uf_sdk_send_feedback">"Enviar comentarios"</string>
+    <string name="uf_sdk_send_feedback_help">"Sus comentarios y dirección de correo electrónico se enviará a ASUS. El equipo de servicio técnico se comunicará con usted por correo electrónico."</string>
+    <string maxwidth="-1" name="uf_sdk_setting_btn_content">"Configuración"</string>
+    <string description="recommend title" maxwidth="" name="uf_sdk_settings_encourage_us_title">"Anímenos"</string>
+    <string maxwidth="-1" name="uf_sdk_storage_permission_description">"Esta función debe obtener permiso de almacenamiento para acceder a los archivos multimedia. \n\nSi desea habilitar esta función, pulse el botón Configuración para acceder a la página Configuración de configure \"Información de la aplicación\" > \"Permisos\" para conceder permiso.\n"</string>
+    <string name="uf_sdk_submit_topic">"Publicar"</string>
+    <string name="uf_sdk_subscribe_dialog_title">"Suscribirse a este tema"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_answered">"Respondido"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_completed">"Completado"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_declined">"Rechazado"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_implemented">"Implementado"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_planned">"Planeado"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_under_review">"En revisión"</string>
+    <string name="uf_sdk_thanks_for_your_feedback">"¡Gracias por sus comentarios!"</string>
+    <string description="%s is a application name, don&apos;t translate" name="uf_sdk_ticket_hint">"Escribir comentarios para %s"</string>
+    <string name="uf_sdk_title_topic">"Tema"</string>
+    <string name="uf_sdk_topic">"Tema"</string>
+    <string name="uf_sdk_topic_description_heading">"Descripción"</string>
+    <string name="uf_sdk_topic_description_hint">"Describa su tema detalladamente"</string>
+    <string name="uf_sdk_topic_filter">"TEMAS"</string>
+    <string name="uf_sdk_topic_form_help">"Cuando publique un tema en un foro de usuarios, otros usuarios podrán suscribirse a él y comentarlo. Cuando el equipo de desarrollo de ASUS responda a este tema, recibirá una notificación a través de correo electrónico."</string>
+    <string name="uf_sdk_topic_form_title">"Publicar nuevo tema"</string>
+    <string name="uf_sdk_topic_text_heading">"Foro"</string>
+    <string name="uf_sdk_topic_text_hint">"Escriba el título de su tema"</string>
+    <string name="uf_sdk_topic_title">"Título"</string>
+    <string name="uf_sdk_translation_10117605">"Problema de traducción"</string>
+    <string name="uf_sdk_translation_117562">"Tipo de respuesta"</string>
+    <string name="uf_sdk_translation_2529543">"Informe de error"</string>
+    <string name="uf_sdk_translation_2529544">"Otros"</string>
+    <string name="uf_sdk_translation_2530478">"Sugerencia"</string>
+    <string name="uf_sdk_unhelpful_article_message_question">"¿Desea enviar un comentario al equipo de desarrollo de ASUS?"</string>
+    <string name="uf_sdk_user_forum">"Foro de usuarios"</string>
+    <string name="uf_sdk_warning">"Advertencia"</string>
+    <string name="uf_sdk_wifi_settings">"Configuración Wi-Fi"</string>
+    <string name="uf_sdk_wlan_settings">"Configuración WLAN"</string>
+    <string name="uf_sdk_write_your_feedback">"Escriba comentarios aquí"</string>
+    <string name="uf_sdk_your_draft_will_be_discarded">"Se descartará el borrador"</string>
+    <string description="description for empty search result" maxwidth="-1" name="unable_to_find_artlcles">"No se encuentran artículos relacionados con \u0022%s\u0022"</string>
+    <string name="uv_admin_response_format">"Respuesta del admin: %1$s"</string>
+    <string name="uv_all_articles">"Todos los artículos"</string>
+    <string name="uv_all_results_filter">"TODO"</string>
+    <string name="uv_android_sdk">Android SDK</string>
+    <string name="uv_article_browse_question">"¿Ha resultado útil este artículo?"</string>
+    <string name="uv_article_instant_answer_question">"¿Le resultó útil esta sección de preguntas frecuentes?"</string>
+    <string name="uv_cancel">"Cancelar"</string>
+    <string name="uv_category">"Categoría"</string>
+    <string name="uv_close">"Cerrar"</string>
+    <string name="uv_comment_hint">"Escriba un comentario"</string>
+    <string name="uv_confirm">"Confirmar"</string>
+    <string name="uv_contact_continue_button">"Sigo deseando enviar un mensaje"</string>
+    <string name="uv_contact_hint">"Escriba su pregunta o sugerencia"</string>
+    <string name="uv_contact_us">"Contacte con nosotros"</string>
+    <string name="uv_display_name">"Nombre en pantalla"</string>
+    <string name="uv_email_address">"Dirección de correo electrónico"</string>
+    <string name="uv_email_address_hint">"su@correo_electrónico.com (necesario)"</string>
+    <string name="uv_error">"Error"</string>
+    <string name="uv_failed_signin_error">"Correo electrónico o contraseña incorrectos"</string>
+    <string name="uv_forgot_password">"Contraseña olvidada"</string>
+    <string name="uv_helpful_article_message_question">"Sigue deseando enviar un mensaje?"</string>
+    <string name="uv_i_want_this">"¡Me gusta!"</string>
+    <string name="uv_idea_description_heading">"Describa su idea con mayor detalle"</string>
+    <string name="uv_idea_description_hint">"(opcional)"</string>
+    <string name="uv_idea_text_heading">"Le sugiero…"</string>
+    <string name="uv_loading">"Cargando…"</string>
+    <string name="uv_matching_articles">"Artículos coincidentes"</string>
+    <string name="uv_matching_articles_and_ideas">"Artículos e ideas coincidentes"</string>
+    <string name="uv_menu_attach">"Adjuntar"</string>
+    <string name="uv_menu_search">"Buscar"</string>
+    <string name="uv_msg_bad_email_format">"Escriba una dirección de correo electrónico válida."</string>
+    <string name="uv_msg_comment_posted">"Se ha publicado el comentario"</string>
+    <string name="uv_msg_confirm_discard_message">"¿Seguro que desea descartar el mensaje?"</string>
+    <string name="uv_msg_custom_fields_validation">"Rellene todos los campos obligatorios."</string>
+    <string name="uv_msg_forgot_password">"Enviado correo electrónico de contraseña olvidada"</string>
+    <string name="uv_msg_idea_created">"Se ha creado su idea"</string>
+    <string name="uv_msg_ticket_created">"Se ha enviado su mensaje"</string>
+    <string name="uv_msg_user_identity_validation">"Escriba su dirección de correo electrónico"</string>
+    <string name="uv_name_hint">"Anónimo"</string>
+    <string name="uv_network_error">"Se ha producido un error de conexión a Voz de usuario"</string>
+    <string name="uv_nevermind">"No importa"</string>
+    <string name="uv_new_comment">"Nuevo comentario"</string>
+    <string name="uv_next">"Siguiente"</string>
+    <string name="uv_no">"No"</string>
+    <string name="uv_none_of_these_help">"Nada de esto ayuda"</string>
+    <string name="uv_password">"Contraseña"</string>
+    <string name="uv_password_dialog_title">"Escriba su contraseña"</string>
+    <string name="uv_portal_title">"Ayuda"</string>
+    <string name="uv_post_a_comment">"Publicar un comentario"</string>
+    <string name="uv_post_comment">"Publicar comentario"</string>
+    <string name="uv_posted_by_format">"Publicado por %1$s el %2$s"</string>
+    <string name="uv_powered_by_uservoice">"De Voz del usuario"</string>
+    <string name="uv_ranked">"Clasificado %1$s"</string>
+    <string name="uv_remove_votes">"Quitar votos"</string>
+    <string name="uv_select_none">"(ninguno)"</string>
+    <string name="uv_select_one">"Seleccione uno"</string>
+    <string name="uv_send_message">"Enviar mensaje"</string>
+    <string name="uv_signin_dialog_ok">"Iniciar sesión"</string>
+    <string name="uv_signin_dialog_title">"Iniciar sesión"</string>
+    <string name="uv_status_format">"Estado: %1$s"</string>
+    <string name="uv_submit_idea">"Remitir idea"</string>
+    <string name="uv_subscribe">"Subscribirse"</string>
+    <string name="uv_subscribe_dialog_title">"Suscribirse a esta idea"</string>
+    <string name="uv_suggestion_instant_answer_question">"¿Le resultó útil esta idea?"</string>
+    <string name="uv_thanks">"¡Gracias!"</string>
+    <string name="uv_unhelpful_article_message_question">"¿Desea enviarnos un mensaje?"</string>
+    <string name="uv_value">"Valor"</string>
+    <string name="uv_very_yes">"¡Sí!"</string>
+    <string name="uv_yes">"Sí"</string>
+    <string name="uv_your_email_address">"Su dirección de correo electrónico"</string>
+    <string name="uv_your_name">"Su nombre"</string>
+</resources>

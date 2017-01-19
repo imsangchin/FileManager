@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/device_list_height"
+
+    android:layout_centerVertical="true">
+
+
+<RelativeLayout android:id="@+id/file_item"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+     android:descendantFocusability="blocksDescendants">
+    <RelativeLayout android:id="@+id/file_list_item_container"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/device_list_height"
+        android:gravity="center_vertical"
+        >
+        <ImageView android:id="@+id/file_list_item_icon"
+            android:src="@drawable/asus_ic_online"
+            android:layout_height="match_parent"
+
+            android:layout_width="@dimen/device_list_height"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:scaleType="centerInside"/>
+
+        <LinearLayout
+            android:id="@+id/device_list_info_container"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/device_list_height"
+            android:layout_marginStart="15dp"
+            android:layout_marginLeft="15dp"
+			android:gravity="center_vertical"
+            android:orientation="vertical"
+            android:layout_toEndOf="@id/file_list_item_icon"
+            android:layout_toRightOf="@id/file_list_item_icon">
+
+	        <TextView android:id="@+id/file_list_item_name"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:layout_marginStart="0dp"
+	            android:layout_marginLeft="0dp"
+	            android:gravity="start"
+	            android:textSize="@dimen/file_list_item_name_textsize"
+	            android:ellipsize="middle"
+	            android:singleLine="true"
+				android:textColor="?title_color" />
+
+	        <TextView android:id="@+id/device_list_item_ifo"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:layout_marginStart="0dp"
+	            android:layout_marginLeft="0dp"
+	            android:layout_marginTop="@dimen/file_list_item_date_margintop"
+	            android:gravity="start"
+	            android:textSize="@dimen/file_list_item_date_textsize"
+	            android:ellipsize="middle"
+	            android:singleLine="true"
+				android:textColor="?subtitle_color" />
+        </LinearLayout>
+ <!--        <LinearLayout android:id="@+id/login_edit_action"
+        android:layout_height="@dimen/file_list_height"
+        android:layout_width="wrap_content"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:paddingBottom="0dp">
+        <ImageView
+            android:layout_width="@dimen/file_list_item_asus_drop_down_width"
+            android:layout_height="wrap_content"
+            android:src="@drawable/asus_drop_down_icon"
+            android:layout_gravity="center"/>
+        </LinearLayout>--> 
+        <ImageView
+            android:layout_width="@dimen/device_list_height"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:id="@+id/edit_login"/>
+    </RelativeLayout>
+</RelativeLayout>
+</RelativeLayout>

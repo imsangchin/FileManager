@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="tools_hidden_zone">"Diretório de Ocultos"</string>
+    <string name="action_hidden_zone" maxwidth="">"Mover para Diretório de Ocultos"</string>
+    <string name="move_to_hidden_zone_progress" description="Progress Content: text in progress dialog" maxwidth="">"Movendo para Diretório de Ocultos..."</string>
+    <string name="move_to_hidden_zone_success_one" description="Toast: move to recycle bin success. %s is variable string." maxwidth="-1">"\"%s\" foi movido para o Diretório de Ocultos."</string>
+    <string name="move_to_hidden_zone_success_more" description="Toast: move to recycle bin success" maxwidth="-1">"Os arquivos selecionados foram movidos para o Diretório de Ocultos."</string>
+    <string name="move_to_hidden_zone_fail" description="Toast: move to recycle bin fails" maxwidth="-1">"Falha ao mover para o Diretório de Ocultos"</string>
+    <string name="can_not_open_in_hidden_zone" description="Toast: can not open in hidden zone" maxwidth="-1">"Não é possível abrir no Diretório de Ocultos"</string>
+    <string name="hidden_zone_setup_password">"Inserir código de PIN de 4 dígitos"</string>
+    <string name="hidden_zone_setup_account">"Definir conta"</string>
+    <string name="hidden_zone_forget_password">"Senha esquecida"</string>
+    <string name="hidden_zone_wrong_password">"Código de PIN incorreto"</string>
+    <string name="hidden_zone_change_password">"Alterar senha"</string>
+    <string name="hidden_zone_confirm_password">"Confirmar código de PIN"</string>
+    <string name="hidden_zone_set_password_success">"Senha definida com sucesso"</string>
+    <string name="hidden_zone_fingerprint_to_unlock">"Digital para desbloquear"</string>
+    <string name="hidden_zone_password_mismatch">"Código de PIN não corresponde"</string>
+    <string name="hidden_zone_introduction_description">"Oculte seus arquivos privados no Diretório de Ocultos. É necessário código de PIN para abrir o Diretório de Ocultos."</string>
+    <string name="hidden_zone_enter_password">"Insira seu código de PIN"</string>
+    <string name="setup">"Configuração"</string>
+    <string name="set_password_title">"Criar um código de PIN"</string>
+    <string name="setup_account_title">"Recuperar código de PIN"</string>
+    <string name="setup_account_description">"Defina uma conta de e-mail para recuperar seu código de PIN"</string>
+    <string name="setup_account_no_internet_connection">"Sem conexão de Internet"</string>
+    <string name="setup_account_skip">"Ignorar"</string>
+    <string name="setup_my_digital_code">"Definir cóidgo de PIN"</string>
+    <string name="setup_fingerprint_message">"Ativar digital para desbloquear? O Diretório de Ocultos suporta verificação por digital. Escaneie sua digital em Configurações para iniciar."</string>
+    <string name="toast_auto_lock_notify_message">"Bloquear o Diretório de Ocultos quando o aparelho estiver bloqueado"</string>
+</resources>

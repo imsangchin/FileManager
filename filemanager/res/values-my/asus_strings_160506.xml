@@ -1,0 +1,25 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!--Text for trash-->
+    <string name="permanently_delete">"အပြီးသတ် ဖျက်ပါ"</string>
+    <string name="tools_recycle_bin">"အမှိုက်ပုံး"</string>
+    <!--string name="move_or_delete">Move or delete</string-->
+    <string name="move_or_delete_msg">"ဤအရာများကိုယာယီဖျက်ပြီး အမှိုက်ပုံးထဲသို့ ထည့်မလား?\n(အပြီးသတ်ဖျက်ရန် အောက်ပါအကွက်ကို အမှန်ခြစ်ပါ။)"</string>
+    <string name="move_to_trash_progress" description="Progress Content: text in progress dialog" maxwidth="">"အမှိုက်ပုံးထဲသို့ ရွှေ့နေသည်..."</string>
+    <string name="move_to_trash_success_one" description="Toast: move to recycle bin success. %s is variable string." maxwidth="-1">"\"%s\" ကိုအမှိုက်ပုံးထဲသို့ ရွှေ့ပြီးပါပြီ"</string>
+    <string name="move_to_trash_success_more" description="Toast: move to recycle bin success" maxwidth="-1">"ရွေးထားသည့်ဖိုင်များကို အမှိုက်ပုံးထဲသို့ ရွှေ့ပြီးပါပြီ"</string>
+    <string name="move_to_trash_fail" description="Toast: move to recycle bin fails" maxwidth="-1">"အမှိုက်ပုံးထဲ ထည့်ခြင်းမအောင်မြင်ပါ"</string>
+    <string name="trash_info_deleted" maxwidth="-1">"ဖျက်ခဲ့သည့်ရက်စွဲ- "</string>
+    <string name="trash_info_path" maxwidth="-1">"မူရင်းလမ်းကြောင်း- "</string>
+    <string name="action_clean_all" maxwidth="-1">"အားလုံးကို ရှင်းပါ"</string>
+    <string name="action_restore_all" maxwidth="-1">"အားလုံးကို မူလအတိုင်းပြန်ထားပါ"</string>
+    <string name="action_clean" maxwidth="-1">"ရှင်းပါ"</string>
+    <string name="action_restore" maxwidth="-1">"ပြန်ထားပါ"</string>
+    <string name="restore_success_one" description="Toast: restore success. %s is variable string." maxwidth="-1">"\"%s\" ကိုပြန်ထားပြီးပါပြီ"</string>
+    <string name="restore_success_more" description="Toast: restore success" maxwidth="-1">"ရွေးထားသည့်ဖိုင်များကို ပြန်ထားပြီးပါပြီ"</string>
+    <string name="restore_fail" description="Toast: restore fails" maxwidth="-1">"ပြန်ထားခြင်း မအောင်မြင်ပါ"</string>
+    <string name="restore_progress" description="Progress Content: text in progress dialog" maxwidth="">"ပြန်ထားနေသည်..."</string>
+    <string name="calculate_progress" description="Progress Content: text in progress dialog" maxwidth="">"လုပ်ဆောင်နေဆဲ..."</string>
+    <string name="msg_too_big_to_recycle">"အမှိုက်ပုံးထဲထည့်ရန် ကြီးလွန်းနေသည်။\nအပြီးသတ်ဖျက်ပစ်လိုပါသလား?"</string>
+    <string name="duplicate_files">"နှစ်ခုထပ်နေသောဖိုင်များ"</string>
+    <string name="duplicate_files_content_hint">"နှစ်ခုထပ်နေသောဖိုင်များကို ရှာပြီး သင့်ခွင့်ပြုချက်ဖြင့် ၎င်းတို့ကို ဖျက်ပါ။"</string>
+</resources>

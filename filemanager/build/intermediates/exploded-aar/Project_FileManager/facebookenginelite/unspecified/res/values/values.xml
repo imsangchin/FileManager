@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="asus_post_ad_string_color">#838383</color>
+    <color name="asus_post_message_color">#505050</color>
+    <dimen name="asus_fb_post_image_margin_bottom">16dp</dimen>
+    <dimen name="asus_fb_post_image_margin_top">16dp</dimen>
+    <dimen name="asus_fb_post_margin_top">10dp</dimen>
+    <dimen name="asus_fb_post_message_size">16sp</dimen>
+    <dimen name="asus_fb_post_padding_left">18dp</dimen>
+    <dimen name="asus_fb_post_padding_right">18dp</dimen>
+    <dimen name="asus_fb_post_tag_size">16sp</dimen>
+    <dimen name="asus_tag_height">32dp</dimen>
+    <dimen name="asus_text_height">54dp</dimen>
+    <string name="action_loading">"Loading..."</string>
+    <string name="app_upload_complete">"%s upload complete"</string>
+    <string name="com_facebook_requesterror_password_changed">Your Facebook password has changed. Please log into this app again to reconnect your Facebook account.</string>
+    <string name="com_facebook_requesterror_permissions">This app doesn’t have permission to do this. To change permissions, try logging into the app again.</string>
+    <string name="com_facebook_requesterror_reconnect">Please log into this app again to reconnect your Facebook account.</string>
+    <string name="com_facebook_requesterror_relogin">Please log into this app again to reconnect your Facebook account.</string>
+    <string name="com_facebook_requesterror_web_login">Your Facebook account is locked. Please log into www.facebook.com to continue.</string>
+    <string name="dialog_msg_market_login_account">"Please log in to your Google account to download the app"</string>
+    <string name="dialog_title_market_login_account">"Add account"</string>
+    <string name="facebook">"Facebook"</string>
+    <string name="fb_request_error_permissions">"This app doesn’t have permission to do this. Try logging into the app again."</string>
+    <string name="invite_friends">"Invite Friends"</string>
+    <string name="login_account_miss">"Failed to register Facebook app to Android Account Manager. Please try to log out from Facebook and log in again."</string>
+    <string name="login_again_later">"Server is unavailable now. Please try again later."</string>
+    <string name="network_not_available">"Network connection failed"</string>
+    <string name="occur_error_do_relogin">"Log in again to %s"</string>
+    <string name="processing_picture">"Processing picture"</string>
+    <string name="processing_video">"Processing video"</string>
+    <string name="publish">"Publish"</string>
+    <string name="update">"Update"</string>
+    <string name="update_fb_app">"Facebook mobile app version is not up to date. Please install the latest one from Google Play."</string>
+    <string name="upload_complete">"Upload complete"</string>
+    <string name="upload_complete_dialog_message">"The upload has been successfully completed."</string>
+    <string name="upload_complete_dialog_title">"Complete"</string>
+    <string name="upload_failed">"Upload failed"</string>
+    <string name="upload_picture_toast">"Your picture will be uploaded. Check the progress in notifications window."</string>
+    <string name="upload_toast">"Your video will be uploaded. Check the progress in notifications window."</string>
+    <string name="uploading_picture">"Uploading picture"</string>
+    <string name="uploading_video">"Uploading video"</string>
+    <style name="Theme.Dialog.TransparentNoAnimation" parent="android:Theme.DeviceDefault.Light.Dialog">
+        <item name="android:windowDisablePreview">true</item>
+        <item name="android:windowAnimationStyle">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+	</style>
+</resources>

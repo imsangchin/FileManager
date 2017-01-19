@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="uf_sdk_number_of_subscribers_format">
+        <item quantity="one">%1$s 个人赞了这个主题</item>
+        <item quantity="other">%1$s 个人赞了这个主题</item>
+    </plurals>
+    <plurals name="uf_sdk_topics">
+        <item quantity="one">主题</item>
+        <item quantity="other">主题</item>
+    </plurals>
+    <plurals name="uv_comments">
+        <item quantity="one">评论</item>
+        <item quantity="other">评论</item>
+    </plurals>
+    <plurals name="uv_number_of_subscribers_format">
+        <item quantity="one">%1$s 喜欢这个意见</item>
+        <item quantity="other">%1$s 喜欢这个意见</item>
+    </plurals>
+    <plurals name="uv_people">
+        <item quantity="one">人</item>
+        <item quantity="other">人</item>
+    </plurals>
+    <plurals name="uv_subscribers">
+        <item quantity="one">订阅者</item>
+        <item quantity="other">订阅者</item>
+    </plurals>
+    <string description="label for trending searches" maxwidth="-1" name="trending_searches">"热门话题搜索"</string>
+    <string name="uf_sdk_already_give_5star">已给出 5 颗星好评</string>
+    <string description="%d is a number, don&apos;t translate" name="uf_sdk_article_read_count">"%d 次查看"</string>
+    <string name="uf_sdk_attachment_format_warning">格式错误，仅支持图档</string>
+    <string name="uf_sdk_attachment_total_size">"总计"</string>
+    <string name="uf_sdk_attachment_warning">"附件大小超出了允许的限值"</string>
+    <string maxwidth="-1" name="uf_sdk_cancel_btn_content">"取消"</string>
+    <string name="uf_sdk_choosertitle_sharevia">"分享方式"</string>
+    <string name="uf_sdk_connection_error_msg">服务器中断连接，请稍后重试。</string>
+    <string name="uf_sdk_connection_error_title">连接错误</string>
+    <string name="uf_sdk_discard">"舍弃"</string>
+    <string name="uf_sdk_email_illigal">电子邮件地址已存在</string>
+    <string maxwidth="-1" name="uf_sdk_empty_notification">目前没有通知 :)</string>
+    <string name="uf_sdk_faq">常见问题</string>
+    <string name="uf_sdk_feedback_and_help">意见与协助</string>
+    <string name="uf_sdk_forum_description">在此与其他华硕用户分享您的经验与秘籍</string>
+    <string maxwidth="-1" name="uf_sdk_grant_permission_title">"授予权限"</string>
+    <string name="uf_sdk_help">协助</string>
+    <string name="uf_sdk_instant_answer_question">这篇文章对您有帮助吗？</string>
+    <string name="uf_sdk_like">"点赞"</string>
+    <string maxwidth="-1" name="uf_sdk_message">通知</string>
+    <string name="uf_sdk_msg_bad_email_format">电子邮件地址不正确，请再试一次。</string>
+    <string name="uf_sdk_msg_confirm_discard_topic">您的草稿将不会被保存。确定要取消发布吗？</string>
+    <string name="uf_sdk_msg_confirm_discard_topic_title">取消发布？</string>
+    <string name="uf_sdk_msg_subscribe">系统会自动发送所订阅主题的更新通知到您的电子邮箱。</string>
+    <string name="uf_sdk_msg_subscribe_success">订阅成功</string>
+    <string name="uf_sdk_msg_ticket_created">已将您的意见发送给华硕</string>
+    <string name="uf_sdk_msg_topic_created">发布成功</string>
+    <string name="uf_sdk_msg_unsubscribe">取消订阅成功</string>
+    <string name="uf_sdk_name_hint">输入您的姓名</string>
+    <string name="uf_sdk_name_illigal">用户名已存在</string>
+    <string name="uf_sdk_network_error">无网络连接，请检查您的网络设置。</string>
+    <string description="zenui news" maxwidth="" name="uf_sdk_news">最新消息</string>
+    <string name="uf_sdk_no_network_connection_content">升级数据失败，请检查您的网络设置。</string>
+    <string name="uf_sdk_no_network_connection_title">无网络连接</string>
+    <string name="uf_sdk_nothing_found">没有找到符合项目</string>
+    <string name="uf_sdk_notice">注意</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category1">公告</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category2">使用教学</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category3">促销</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category4">活动讯息</string>
+    <string name="uf_sdk_publish_an_topic">发布新主题</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_rate_now">开始评分！</string>
+    <string description="%s is AP name, don&apos;t translate" maxWidth="" name="uf_sdk_rate_us_detail">"如果您喜欢使用%s，请在Play Store中给出5星评价。"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_detail_new">"您的支持和5星评价会激励我们继续努力工作!"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_rating">"5星评价"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title">"评价我们!"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title_new">"鼓励我们"</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_scroll_up_toast">请向上滚动以评分</string>
+    <string name="uf_sdk_search_hint">搜索</string>
+    <string name="uf_sdk_select_common_bug">选择常见问题</string>
+    <string name="uf_sdk_send_feedback">传送意见</string>
+    <string name="uf_sdk_send_feedback_help">您的意见反馈与电子邮箱地址将被寄送给华硕，服务团队会以电子邮件与您联系。</string>
+    <string maxwidth="-1" name="uf_sdk_setting_btn_content">"设置"</string>
+    <string description="recommend title" maxwidth="" name="uf_sdk_settings_encourage_us_title">鼓励我们</string>
+    <string maxwidth="-1" name="uf_sdk_storage_permission_description">"此功能需要存储权限以访问多媒体文件。 \n\n如果您要启用此功能，请按“设置”按钮转到 “设置”页面，然后设置 “权限”授予权限。\n"</string>
+    <string name="uf_sdk_submit_topic">发布</string>
+    <string name="uf_sdk_subscribe_dialog_title">订阅此主题</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_answered">"已回答"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_completed">"已完成"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_declined">"已拒绝"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_implemented">"已实施"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_planned">"已计划"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_under_review">"检查中"</string>
+    <string name="uf_sdk_thanks_for_your_feedback">感谢您的建议！</string>
+    <string description="%s is a application name, don&apos;t translate" name="uf_sdk_ticket_hint">提供您对%s的建议</string>
+    <string name="uf_sdk_title_topic">主题</string>
+    <string name="uf_sdk_topic">主题</string>
+    <string name="uf_sdk_topic_description_heading">说明</string>
+    <string name="uf_sdk_topic_description_hint">详细描述您想讨论的主题</string>
+    <string name="uf_sdk_topic_filter">主题</string>
+    <string name="uf_sdk_topic_form_help">当您在用户讨论区发布主题时，其他用户将可以订阅或评论您的主题帖。此外，若华硕研发团队回复了您的主题，系统会发送电子邮件通知您。</string>
+    <string name="uf_sdk_topic_form_title">发布新主题</string>
+    <string name="uf_sdk_topic_text_heading">讨论区</string>
+    <string name="uf_sdk_topic_text_hint">输入您的主题标题</string>
+    <string name="uf_sdk_topic_title">标题</string>
+    <string name="uf_sdk_translation_10117605">"翻译问题"</string>
+    <string name="uf_sdk_translation_117562">意见类型</string>
+    <string name="uf_sdk_translation_2529543">错误报告</string>
+    <string name="uf_sdk_translation_2529544">其他</string>
+    <string name="uf_sdk_translation_2530478">建议</string>
+    <string name="uf_sdk_unhelpful_article_message_question">您是否要提供意见给华硕研发团队？</string>
+    <string name="uf_sdk_user_forum">用户讨论区</string>
+    <string name="uf_sdk_warning">警告</string>
+    <string name="uf_sdk_wifi_settings">WLAN 设置</string>
+    <string name="uf_sdk_wlan_settings">WLAN 设置</string>
+    <string name="uf_sdk_write_your_feedback">在此处提供您的建议</string>
+    <string name="uf_sdk_your_draft_will_be_discarded">"您的草稿将被舍弃。"</string>
+    <string description="description for empty search result" maxwidth="-1" name="unable_to_find_artlcles">"找不到“%s”相关的文章"</string>
+    <string name="uv_admin_response_format">管理员回应：%1$s</string>
+    <string name="uv_all_articles">所有文章</string>
+    <string name="uv_all_results_filter">全部</string>
+    <string name="uv_android_sdk">Android SDK</string>
+    <string name="uv_article_browse_question">这篇文章对您有帮助吗？</string>
+    <string name="uv_article_instant_answer_question">这篇文章对您有帮助吗？</string>
+    <string name="uv_cancel">取消</string>
+    <string name="uv_category">分类</string>
+    <string name="uv_close">关闭</string>
+    <string name="uv_comment_hint">输入您的评论</string>
+    <string name="uv_confirm">确认</string>
+    <string name="uv_contact_continue_button">我仍然想发送信息</string>
+    <string name="uv_contact_hint">输入您的问题或是意见反馈</string>
+    <string name="uv_contact_us">联系我们</string>
+    <string name="uv_display_name">显示名称</string>
+    <string name="uv_email_address">Email 邮箱</string>
+    <string name="uv_email_address_hint">your@email.com（必填）</string>
+    <string name="uv_error">错误</string>
+    <string name="uv_failed_signin_error">Email 或密码错误</string>
+    <string name="uv_forgot_password">忘记密码</string>
+    <string name="uv_helpful_article_message_question">您仍然要发送信息吗？</string>
+    <string name="uv_i_want_this">我想要这个！</string>
+    <string name="uv_idea_description_heading">更详细地描述您的意见</string>
+    <string name="uv_idea_description_hint">（选填）</string>
+    <string name="uv_idea_text_heading">我建议您...</string>
+    <string name="uv_loading">正在读取...</string>
+    <string name="uv_matching_articles">符合的文章</string>
+    <string name="uv_matching_articles_and_ideas">符合的文章和意见</string>
+    <string name="uv_menu_attach">附件</string>
+    <string name="uv_menu_search">搜索</string>
+    <string name="uv_msg_bad_email_format">请输入有效的 Email 邮箱。</string>
+    <string name="uv_msg_comment_posted">您的评论已经发布</string>
+    <string name="uv_msg_confirm_discard_message">您确定要舍弃您的信息？</string>
+    <string name="uv_msg_custom_fields_validation">请输入所有必填栏位。</string>
+    <string name="uv_msg_forgot_password">忘记密码通知邮件已经送出</string>
+    <string name="uv_msg_idea_created">您的意见已经发布</string>
+    <string name="uv_msg_ticket_created">您的信息已发送</string>
+    <string name="uv_msg_user_identity_validation">请输入您的 Email 邮箱</string>
+    <string name="uv_name_hint">“匿名”</string>
+    <string name="uv_network_error">连接到 UserVoice 时发生错误</string>
+    <string name="uv_nevermind">没关系</string>
+    <string name="uv_new_comment">新评论</string>
+    <string name="uv_next">下一页</string>
+    <string name="uv_no">否</string>
+    <string name="uv_none_of_these_help">这些内容没有帮助</string>
+    <string name="uv_password">密码</string>
+    <string name="uv_password_dialog_title">请输入您的密码</string>
+    <string name="uv_portal_title">帮助</string>
+    <string name="uv_post_a_comment">发表一条评论</string>
+    <string name="uv_post_comment">发布评论</string>
+    <string name="uv_posted_by_format">由 %1$s 在 %2$s 发布</string>
+    <string name="uv_powered_by_uservoice">Powered by UserVoice</string>
+    <string name="uv_ranked">"排第 %1$s 名"</string>
+    <string name="uv_remove_votes">移除投票</string>
+    <string name="uv_select_none">（无）</string>
+    <string name="uv_select_one">请选择</string>
+    <string name="uv_send_message">发送信息</string>
+    <string name="uv_signin_dialog_ok">登录</string>
+    <string name="uv_signin_dialog_title">登录</string>
+    <string name="uv_status_format">状态：%1$s</string>
+    <string name="uv_submit_idea">提交意见</string>
+    <string name="uv_subscribe">订阅</string>
+    <string name="uv_subscribe_dialog_title">订阅此意见</string>
+    <string name="uv_suggestion_instant_answer_question">这个意见对您有帮助吗？</string>
+    <string name="uv_thanks">谢谢！</string>
+    <string name="uv_unhelpful_article_message_question">您是否愿意发送信息给我们？</string>
+    <string name="uv_value">值</string>
+    <string name="uv_very_yes">是！</string>
+    <string name="uv_yes">是</string>
+    <string name="uv_your_email_address">您的 Email 邮箱</string>
+    <string name="uv_your_name">您的姓名</string>
+</resources>

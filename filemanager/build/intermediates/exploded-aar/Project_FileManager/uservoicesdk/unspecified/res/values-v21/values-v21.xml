@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="uf_UserVoiceBaseTheme_Light" parent="@style/TranslucentStatus_Light">
+        <item name="android:actionBarStyle">@style/uf_ActionBarStyle_Light</item>
+        <item name="android:homeAsUpIndicator">@drawable/uf_sdk_ic_ab_back_light</item>
+    </style>
+</resources>

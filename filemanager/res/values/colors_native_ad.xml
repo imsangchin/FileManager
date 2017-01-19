@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- App Wide -->
+    <color name="swc_theme_color">#FFFDB300</color>
+    <color name="swc_status_bar_background">@color/swc_theme_color</color>
+    <color name="swc_main_activity_background">#FFEEEEEE</color>
+    <color name="swc_toolbar_title_text_color">#FF505050</color>
+
+    <!-- Main Page -->
+    <color name="swc_main_page_text_color">#FF595959</color>
+    <color name="swc_toast_text_color">#FF595959</color>
+
+    <!-- Navigation Drawer -->
+    <color name="swc_drawer_background">@android:color/white</color>
+    <color name="swc_drawer_header_background">@color/swc_theme_color</color>
+    <color name="swc_drawer_header_text_color">@android:color/white</color>
+    <color name="swc_drawer_item_background">@android:color/transparent</color>
+    <color name="swc_drawer_item_background_checked">#FFE7E7E7</color>
+    <color name="swc_drawer_item_text_color">#FF38454F</color>
+
+    <!-- Tab -->
+    <color name="swc_tab_text_color">#FF767676</color>
+    <color name="swc_tab_text_selected_color">@color/swc_theme_color</color>
+    <color name="swc_tab_underline_color">#FFDADADA</color>
+
+    <!-- App card view -->
+    <color name="swc_cta_free">#FFFDB300</color>
+    <color name="swc_cta_paid">#FF00C0FD</color>
+    <color name="swc_cta_open">#FF8F8F8F</color>
+    <color name="swc_app_info_text">#FF8F8F8F</color>
+    <color name="swc_app_description">#FF838383</color>
+
+    <!-- Native ad view -->
+    <color name="swc_native_ad_card_background">#FFEBE9EA</color>
+
+    <!-- Banner view -->
+    <color name="swc_banner_dot_container_mask">#50000000</color>
+</resources>

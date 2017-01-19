@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:focusable="true"
+    android:focusableInTouchMode="true"
+    android:orientation="vertical"
+    >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:orientation="vertical" >
+    
+    <ScrollView
+        android:id="@+id/registe_ui"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_above="@+id/registe_button_ui"
+         >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/registe_id_view"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="@string/registe_id"
+                android:textSize="18dp" />
+
+            <AutoCompleteTextView
+                android:id="@+id/registe_id_edit"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:hint="@string/member_id_hint"
+                android:imeOptions="actionNext"
+                android:inputType="textEmailAddress"
+                android:paddingLeft="7dp"
+                android:paddingRight="7dp"
+                android:singleLine="true"
+                android:textSize="15dp" />
+
+            <TextView
+                android:id="@+id/registe_password_view"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:text="@string/password"
+                android:textSize="18dp" />
+
+            <EditText
+                android:id="@+id/registe_password_edit"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:hint="@string/registe_password"
+                android:inputType="textPassword"
+                android:paddingLeft="7dp"
+                android:paddingRight="7dp"
+                android:singleLine="true"
+                android:textSize="15dp" />
+
+            <TextView
+                android:id="@+id/confirm_password_view"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:text="@string/confirm_password"
+                android:textSize="18dp" />
+
+            <EditText
+                android:id="@+id/confirm_password_edit"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:hint="@string/confirm_password_edit"
+                android:inputType="textPassword"
+                android:paddingLeft="7dp"
+                android:paddingRight="7dp"
+                android:singleLine="true"
+                android:textSize="15dp" />
+
+            <CheckBox
+                android:id="@+id/check_show_passwd"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="@string/show_passwd"
+                android:textSize="15dp" />
+
+            <TextView
+                android:id="@+id/country_region_view"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:text="@string/country_region"
+                android:textSize="18dp" />
+
+            <Spinner
+                android:id="@+id/country_region_spinner"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/country_region_select" />
+
+            <TextView
+                android:id="@+id/error_message"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="7dp"
+                android:textColor="@color/error_red"
+                android:textSize="13dp"
+                android:visibility="gone" />
+
+            <CheckBox
+                android:id="@+id/article_asus_aws"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:checked="true"
+                android:textSize="14dp"  />
+            
+            <CheckBox
+                android:id="@+id/article_asus_date"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/article_two"
+                android:textSize="14dp"  />
+        </LinearLayout>
+    </ScrollView>
+    <LinearLayout
+     android:id="@+id/registe_button_ui"
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     android:orientation="horizontal"
+     android:layout_alignParentBottom="true"
+     android:layout_marginTop="5dp"
+     android:layout_marginBottom="5dp"
+      >
+
+     <Button
+         android:id="@+id/sign_cancle"
+         android:layout_width="fill_parent"
+         android:layout_weight="1"
+         android:layout_height="wrap_content"
+         android:paddingLeft="5dp"
+         android:paddingRight="5dp"
+         android:text="@string/cancel"
+         
+         android:textSize="14dp" />
+
+     <Button
+         android:id="@+id/sign_up"
+         android:layout_width="fill_parent"
+         android:layout_weight="1"
+         android:layout_height="wrap_content"
+         android:paddingLeft="5dp"
+         android:paddingRight="5dp"
+         android:text="@string/registe_sign_up"
+         
+         android:textSize="14dp" />
+     </LinearLayout>
+    <LinearLayout
+        android:id="@+id/loading"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:visibility="gone" >
+
+        <ProgressBar
+            android:id="@+id/progress_loading"
+            android:layout_width="36dp"
+            android:layout_height="36dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:text="@string/loading"
+            android:textSize="16dp" />
+    </LinearLayout>
+    </RelativeLayout>
+</LinearLayout>

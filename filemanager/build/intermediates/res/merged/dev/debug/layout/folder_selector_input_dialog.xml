@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:focusable="true"
+    android:focusableInTouchMode="true"
+    >
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal">
+
+        <EditText android:id="@+id/input_folder_path"
+            android:layout_width="@dimen/folder_selector_input_editext_width"
+            android:layout_height="50dip"
+            android:textSize="18sp"
+            android:layout_alignParentLeft="true"
+            android:layout_gravity="center_vertical"
+            android:singleLine="true"
+            android:background="?edittext_background" >
+        </EditText>
+
+        <ImageButton android:id="@+id/select_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/asus_ep_folder_selection_browse"
+            android:layout_marginLeft="5dip"
+            android:layout_alignParentRight="true"
+            android:layout_gravity="center_vertical"
+            android:imeOptions="actionDone">
+        </ImageButton>
+    </LinearLayout>
+
+</LinearLayout>

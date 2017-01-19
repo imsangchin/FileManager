@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Sylvia Cheng, 2016/03/22, Setting page -->
+    <string name="action_settings" description="menu title for setting" maxwidth="-1">"Innstillinger"</string>
+    <string name="setting_view_group">"Vis innstilling"</string>
+    <string name="setting_view_hide_files">"Skjul systemfiler"</string>
+    <string name="setting_notification_group">"Varsling"</string>
+    <string name="setting_notification_large_files">"Varsling om store filer"</string>
+    <string name="setting_notification_recent_files">"Varsling om nylige filer"</string>
+    <string name="setting_notification_wireless_transfer">"Varsling om trådløs overføring"</string>
+    <string name="setting_display_group">"Visning"</string>
+    <string name="tools_storage_analyzer">"Lagringsanalyse"</string>
+    <string name="tools_zenui_instant_update">"Umiddelbar oppdatering"</string>
+    <string name="category_others">"Andre"</string>
+    <string name="large_files_content_hint">"Finn store filer og slett dem med din tillatelse."</string>
+    <string name="recent_files_content_hint">"Finn nylige filer og slett dem med din tillatelse."</string>
+    <string name="fragment_analyzer_more_hint">"mer"</string>
+    <string name="fragment_analyzer_chart_total_hint">"Totalt:"</string>
+    <string name="fragment_analyzer_chart_free_hint">"Ledig:"</string>
+    <string name="fragment_analyzer_chart_used_hint">"BRUKT"</string>
+    <string name="fragment_analyzer_allfiles_used_hint">"Brukt:"</string>
+    <string name="news_v31" maxwidth="">"Lagringsanalyse viser deg filtypene som opptar lagringsplassen din"</string>
+    <string name="news_v32" maxwidth="">"Ny og bedre appkategori"</string>
+</resources>

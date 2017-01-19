@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="country_names">
+        <item>Aruba</item>
+        <item>Afganistan (جمهوری اسلامی افغانستان)</item>
+        <item>Angola (República de Angola)</item>
+        <item>Anguilla</item>
+        <item>Arnavutluk (Shqipëri)</item>
+        <item>Andora (Principat d\'Andorra)</item>
+        <item>Hollanda Antilleri</item>
+        <item>Birleşik Arap Emirlikleri (دولة الإمارات العربية المتحدة‎)</item>
+        <item>Arjantin (República Argentina)</item>
+        <item>Ermenistan (Hayastan)</item>
+        <item>Amerikan Samoası</item>
+        <item>Antarktika</item>
+        <item>Fransız Güney Bölgeleri</item>
+        <item>Antigua ve Barbuda</item>
+        <item>Avustralya (Australia)</item>
+        <item>Avusturya (Österreich)</item>
+        <item>Azerbaycan</item>
+        <item>Burundi</item>
+        <item>Belçika (België)</item>
+        <item>Benin</item>
+        <item>Burkina Faso</item>
+        <item>Bangladeş (বাংলাদেশ)</item>
+        <item>Bulgaristan (България / Balgariya)</item>
+        <item>Bahreyn (مملكة البحرين)</item>
+        <item>Bahamalar</item>
+        <item>Bosna/Hersek (Bosna i Hercegovina)</item>
+        <item>Belarus (Беларусь)</item>
+        <item>Belize</item>
+        <item>Bermuda</item>
+        <item>Bolivya</item>
+        <item>Brezilya</item>
+        <item>Barbados</item>
+        <item>Brunei Darüsselam (بروني دارالسلام)</item>
+        <item>Bhutan</item>
+        <item>Bouvet Adası</item>
+        <item>Botsvana (Lefatshe la Botswana)</item>
+        <item>Orta Afrika Cumhuriyeti (République centrafricaine)</item>
+        <item>Kanada</item>
+        <item>Cocos (Keeling) Adaları</item>
+        <item>İsviçre (Suisse)</item>
+        <item>Şili</item>
+        <item>Çin (中國)</item>
+        <item>Fildişi Sahili</item>
+        <item>Kamerun</item>
+        <item>Kongo</item>
+        <item>Cook Adaları</item>
+        <item>Kolombiya</item>
+        <item>Komorlar</item>
+        <item>Yeşil Burun</item>
+        <item>Kosta Rika</item>
+        <item>Küba</item>
+        <item>Christmas Adası</item>
+        <item>Cayman Adaları</item>
+        <item>Kıbrıs (Euro)</item>
+        <item>Çek Cumhuriyeti (Česká republika)</item>
+        <item>Almanya (Deutschland)</item>
+        <item>Cibuti</item>
+        <item>Dominik</item>
+        <item>Danimarka (Danmark)</item>
+        <item>Dominik Cumhuriyeti</item>
+        <item>Cezayir</item>
+        <item>Ekvator</item>
+        <item>Mısır (مصر‎)</item>
+        <item>Eritre</item>
+        <item>Batı Sahra</item>
+        <item>İspanya (España)</item>
+        <item>Estonya (Eesti)</item>
+        <item>Etiyopya</item>
+        <item>Finlandiya (Suomi)</item>
+        <item>Fiji</item>
+        <item>Falkland Adaları</item>
+        <item>Fransa (France)</item>
+        <item>Belçika (Belgique)</item>
+        <item>Faroe Adaları</item>
+        <item>Mikronezya</item>
+        <item>Gabon</item>
+        <item>İngiltere (United Kingdom)</item>
+        <item>Gürcistan (საქართველო)</item>
+        <item>Gana</item>
+        <item>Cebeli Tarık</item>
+        <item>Gine</item>
+        <item>Guadölup</item>
+        <item>Gambiya</item>
+        <item>Gine-Bissau</item>
+        <item>Ekvator Ginesi</item>
+        <item>Yunanistan (Ελλάδα)</item>
+        <item>Grenada</item>
+        <item>Grönland</item>
+        <item>Guatemala</item>
+        <item>Fransız Ginesi</item>
+        <item>Guam</item>
+        <item>Guyana</item>
+        <item>Hong Kong (香港)</item>
+        <item>Heard ve Mc Donald Adaları</item>
+        <item>Honduras</item>
+        <item>Hırvatistan (Hrvatska)</item>
+        <item>Haiti</item>
+        <item>Macaristan (Magyarország)</item>
+        <item>Endonezya Republik Indonesia)</item>
+        <item>Hindistan (भारत गणराज्य )</item>
+        <item>İngiliz Hint Okyanusu Bölgesi</item>
+        <item>İrlanda (Ireland)</item>
+        <item>İran (ایران)</item>
+        <item>Irak (العراق)</item>
+        <item>İzlanda (Ísland)</item>
+        <item>İsrail (מְדִינַת יִשְׂרָאֵל  /  دَوْلَةُ إِسْرَائِيلَ)</item>
+        <item>İtalya (Italia)</item>
+        <item>Jamaika</item>
+        <item>Ürdün (L\'Ürdünn)</item>
+        <item>Japonya (日本国)</item>
+        <item>Kazakistan</item>
+        <item>Kenya (Jamhuri ya Kenya)</item>
+        <item>Kırgızistan</item>
+        <item>Kamboçya (कम्बोजदेश)</item>
+        <item>Kiribati</item>
+        <item>Saint Kitts ve Nevis</item>
+        <item>Kore Cumhuriyeti (대한민국)</item>
+        <item>Kuveyt (دولة الكويت)</item>
+        <item>Lao Halk Demokratik Cumhuriyeti</item>
+        <item>Lübnan (اَلْجُمْهُورِيَّة اَللُّبْنَانِيَّة)</item>
+        <item>Liberya</item>
+        <item>Libya Arap Cemahiriyesi</item>
+        <item>Saint Lucia</item>
+        <item>Lihtenştayn (Liechtenstein)</item>
+        <item>Sri Lanka (இலங்கை ஜனநாயக சமத்துவ)</item>
+        <item>Lesoto</item>
+        <item>Litvanya (Lietuva)</item>
+        <item>Lüksemburg (Lëtzebuerg)</item>
+        <item>Letonya (Latvija)</item>
+        <item>Makao</item>
+        <item>Fas</item>
+        <item>Monako (Monaco)</item>
+        <item>Moldova (Moldova)</item>
+        <item>Madagaskar</item>
+        <item>Maldivler</item>
+        <item>Meksika</item>
+        <item>Marshall Adaları</item>
+        <item>Makedonya</item>
+        <item>Mali</item>
+        <item>Malta (Malta)</item>
+        <item>Myanmar (Pyidaunzu Thanmăda Myăma Nainngandaw)</item>
+        <item>Moğolistan</item>
+        <item>Kuzey Mariana Adaları</item>
+        <item>Mozambik</item>
+        <item>Moritanya</item>
+        <item>Montserrat</item>
+        <item>Martinik (Martinique)</item>
+        <item>Morityus (Republik Moris)</item>
+        <item>Malavi</item>
+        <item>Malezya (Persekutuan Malaysia)</item>
+        <item>Mayotte</item>
+        <item>Namibya</item>
+        <item>Yeni Kaledonya (Nouvelle-Calédonie)</item>
+        <item>Nijer</item>
+        <item>Norfolk Adası (Norfuk Ailen)</item>
+        <item>Nijerya (Republik Nijeriya)</item>
+        <item>Niakaragua</item>
+        <item>Niue</item>
+        <item>Hollanda (Nederland)</item>
+        <item>Norveç (Norge)</item>
+        <item>Nepal (सङ्घीय लोकतान्त्रिक गणतन्त्र नेपाल)</item>
+        <item>Nauru</item>
+        <item>Yeni Zelanda (New Zealand)</item>
+        <item>Umman (لطنة عمان)</item>
+        <item>Pakistan (پاکِستان)</item>
+        <item>Panama</item>
+        <item>Pitcairn</item>
+        <item>Peru</item>
+        <item>Filipinler (Pilipinas)</item>
+        <item>Palau</item>
+        <item>Papua Yeni Gine</item>
+        <item>Polonya (Polska)</item>
+        <item>Porto Riko</item>
+        <item>Kore Demokratik Halk Cumhuriyeti</item>
+        <item>Portekiz (Portugal)</item>
+        <item>Paraguay</item>
+        <item>Fransız Polinezyası</item>
+        <item>Katar</item>
+        <item>Reunion</item>
+        <item>Romanya (România)</item>
+        <item>Rusya (Россия)</item>
+        <item>Ruanda</item>
+        <item>Suudi Arabistan (المملكة العربية السعودية)</item>
+        <item>Sırbistan ve Karadağ</item>
+        <item>Sudan (جمهورية السودان)</item>
+        <item>Senegal</item>
+        <item>Singapur (Singapore)</item>
+        <item>Güney Georgia ve Güney Sandiviç Adaları</item>
+        <item>St. Helena</item>
+        <item>Svalbard ve Jan Mayen Adaları</item>
+        <item>Solomon Adaları (Solomon Islands)</item>
+        <item>Sierra Leone</item>
+        <item>El Salvador</item>
+        <item>San Marino (San Marino)</item>
+        <item>Somali</item>
+        <item>St. Pierre ve Miquelon (St. Pierre and Miquelon)</item>
+        <item>Sao Tome ve Principe</item>
+        <item>Surinam</item>
+        <item>Slovakya (Slovensko)</item>
+        <item>Slovenya (Slovenija)</item>
+        <item>İsveç (Sverige)</item>
+        <item>Swaziland (Swatini)</item>
+        <item>Şeyseller</item>
+        <item>Suriye Arap Cumhuriyeti (جمهورية العربية السورية)</item>
+        <item>Turks ve Caicos Adaları</item>
+        <item>Çad</item>
+        <item>Togo</item>
+        <item>Tayland (ราชอาณาจักรไทย)</item>
+        <item>Tacikistan</item>
+        <item>Tokelau</item>
+        <item>Türkmenistan</item>
+        <item>Doğu Timor</item>
+        <item>Tonga</item>
+        <item>Trinidad ve Tobago</item>
+        <item>Tunus</item>
+        <item>Türkiye (Türkiye)</item>
+        <item>Tuvalu</item>
+        <item>TAYVAN, ROC (台灣)</item>
+        <item>Tanzanya</item>
+        <item>Uganda (Jamhuri ya Uganda)</item>
+        <item>Ukrayna (Україна)</item>
+        <item>Birleşik Devler Minor Outlying Adaları</item>
+        <item>Uruguay</item>
+        <item>Amerika Birleşik Devletleri</item>
+        <item>Özbekistan</item>
+        <item>Vatikan (Stato della Città del Vaticano)</item>
+        <item>Saint Vincent ve Grenadinler</item>
+        <item>Venezuela</item>
+        <item>Virgin Adaları (İngiliz)</item>
+        <item>Virgin Adaları (ABD)</item>
+        <item>Vietnam (Việt Nam)</item>
+        <item>Vanuatu</item>
+        <item>Wallis ve Futuna Adaları</item>
+        <item>Samoa</item>
+        <item>Yemen</item>
+        <item>Güney Afrika (Republiek van Suid-Afrika)</item>
+        <item>Zaire</item>
+        <item>Zambiya</item>
+        <item>Zimbabve (Simudzai Mureza wedu WeZimbabwe)</item>
+    </string-array>
+    <string name="account_asus">ASUS</string>
+    <string maxwidth="-1" name="action">Oturum aç</string>
+    <string description="" name="article_one">ASUS \"<u>Kullanım Koşulları Bildirimi</u>\", ASUS \"<u>Gizlilik İlkesi</u>\", ASUS WebStorage \"<u>Kullanım Koşulları Bildirimi</u>\", ASUS WebStorage \"<u>Gizlilik İlkesi</u>\".</string>
+    <string description="" name="article_two">eDMS ile ASUS haberler, yazılım güncelleştirmeleri ve en son ürün ve hizmet bilgilerinden beni haberdar edin.</string>
+    <string description="Text for create asus account button." maxwidth="" name="asus_account_create_button">Yeni oluştur</string>
+    <string name="asus_account_integrate_dialog_content">ASUS Hesabınızla ASUS Bulut Depolama hizmetine entegre olmak istiyor musunuz? \n\n Bu entegrasyondan sonra tüm ASUS hizmetleri ayanı hesaptan kullanılabilir.</string>
+    <string name="asus_account_integrate_dialog_skip">Atla</string>
+    <string name="asus_account_integrate_dialog_title">ASUS Hizmetlerine Entegre Ol</string>
+    <string name="asus_account_integrate_dialog_yes">Evet</string>
+    <string description="Text for asus account content 1st." maxwidth="" name="asus_account_msg_content_1">Kayıtlı ürünler için Kişisel ASUS destek hizmeti ve garanti uzatma.</string>
+    <string description="Text for asus account content 2nd." maxwidth="" name="asus_account_msg_content_2">5GB ücretsiz bulut depolama alanı.</string>
+    <string description="Text for asus account content 3rd." maxwidth="" name="asus_account_msg_content_3">Aksesuarlar ve yenilenmiş ürünlerle ilgili en son bilgileri.</string>
+    <string description="Text for asus account content title." maxwidth="" name="asus_account_msg_title">Şunları almak için bir ASUS hesabı oluşturun:</string>
+    <string name="asus_account_only_one_alert">"Yalnızca bir ASUS hesabı eklenmesine izin verilir. Yeni bir tanesiyle değiştirmeden önce geçerli hesabınızı silmek zorundasınız."</string>
+    <string name="asus_account_prefc">"Ayarlar"</string>
+    <string name="asus_account_prefc_advc">"Gelişmiş ayarlar"</string>
+    <string name="asus_account_registe_country_error">Lütfen bir adet ülke bölgesi seçin!</string>
+    <string name="asus_account_registe_id_error">E-posta hatası</string>
+    <string name="asus_account_registe_policy_error">ASUS Hesabına kaydolmak için ASUS ilkesini kabul etmelisiniz!</string>
+    <string name="asus_account_registe_pw_error_1">Parola boş olamaz!</string>
+    <string name="asus_account_registe_pw_error_2">Onay parolası boş olamaz!</string>
+    <string name="asus_account_registe_pw_error_3">Parola ve onay aynı olmalıdır!</string>
+    <string name="asus_account_registe_pw_error_4">"Şifre 8 ila 25 karakter olmalıdır."</string>
+    <string name="asus_account_removeaccount_dialog_content">"Hesap tümleştirme başarılı. Yeni hesabı kullanarak tekrar oturum açın."</string>
+    <string name="asus_account_removeaccount_dialog_title">"ASUS hesabı tümleştirme başarılı"</string>
+    <string name="asus_registe_success_title">"ASUS hesabı kaydı başarılı"</string>
+    <string name="asus_response_resultdata">"Bu hesap zaten kaydettirilmiş."</string>
+    <string name="asusaccount_app_name">ASUS Hesabı</string>
+    <string name="aucloud_account_only_one_alert">"Yalnızca bir au Cloud hesabı eklenmesine izin verilir. Yeni bir tanesiyle değiştirmeden önce geçerli hesabınızı silmek zorundasınız."</string>
+    <string maxwidth="-1" name="aws_install_contnet">WebStorage yüklenmedi, play store\'dan yükleyip kurmak istiyor musunuz?</string>
+    <string maxwidth="" name="aws_install_title">WebStorage yüklenmedi</string>
+    <string name="baidu_alert_info">"Baidu’nun platformu temelinde, bu aygıt yalnızca "My Application Data\\asus\\" altındaki verilere erişebilir."</string>
+    <string name="baidu_alert_title">"Baidu Bulut Depolama"</string>
+    <string name="baidupcs_account_only_one_alert">"Yalnızca bir Baidu for ASUS hesabı eklenmesine izin verilir. Yeni bir tanesiyle değiştirmeden önce geçerli hesabınızı silmek zorundasınız."</string>
+    <string maxwidth="-1" name="cancel">İptal</string>
+    <string name="confirm">"Onayla"</string>
+    <string maxwidth="-1" name="confirm_ok">Tamam</string>
+    <string description="confirm password textview title" name="confirm_password">Parolayı doğrula</string>
+    <string description="ask user to enter password again to confirm" name="confirm_password_edit">Parolayı yeniden gir</string>
+    <string description="country region textview title" name="country_region">Ülke bölgesi</string>
+    <string description="ack user to select on country" name="country_region_select">Bölgenizi seçin</string>
+    <string maxwidth="-1" name="dbx_install_contnet">Dropbox yüklenmedi, play store\'dan yükleyip kurmak istiyor musunuz?</string>
+    <string maxwidth="" name="dbx_install_title">Dropbox yüklenmedi</string>
+    <string description="ask user to enter password" maxwidth="-1" name="enter_password">"Şifreyi girin"</string>
+    <string description="click to retrieve password" maxwidth="-1" name="forget_password">"<u>Şifrenizi mi unuttunuz?</u>"</string>
+    <string name="invalid_server_id">"Geçersiz sunucu kimliği"</string>
+    <string name="invalid_xml">"Geçersiz xml"</string>
+    <string description="Loading" maxwidth="-1" name="loading">Yüklüyor...</string>
+    <string description="dialog title, key in the asus ID and PW to Login account" maxwidth="-1" name="login_asus_id">"ASUS hesabı oturum açma"</string>
+    <string description="login account name" maxwidth="-1" name="login_id">"Hesap adı/WebStorage kimliği"</string>
+    <string name="market_app_error">"Aygıtınızda yüklü mağaza uygulamasıyla ilgili bir hata var!"</string>
+    <string description="ask user to enter email address as account name" maxwidth="-1" name="member_id_hint">"E-posta adresini girin"</string>
+    <string name="network_invalid">"Geçersiz ağ bağlantısı"</string>
+    <string name="network_invalid_info">"Bağlantı geçersiz. Lütfen tekrar kontrol edin."</string>
+    <string name="no_device">"Aygıt yok"</string>
+    <string name="no_network">"Ağ bağlantısı yok"</string>
+    <string name="no_network_info">"Bu uygulamaya erişmek için Internet bağlantısı gereklidir. Lütfen Ayarlar kısmında mobil ağ veya WiFi işlevini etkinleştirin."</string>
+    <string name="no_password">"Lütfen şifrenizi girin"</string>
+    <string name="no_right">"Hesabınız oturum açma hakkına sahip değil."</string>
+    <string name="no_user_exist">"Kullanıcı adı yok"</string>
+    <string name="no_username">"Önce kullanıcı adınızı girin."</string>
+    <string name="onedrive_account_only_one_alert">"Yalnızca bir OneDrive for ASUS hesabı eklenmesine izin verilir. Yeni bir tanesiyle değiştirmeden önce geçerli hesabınızı silmek zorundasınız."</string>
+    <string name="othersforum_site_url">http://www.asus.com/tr/Terms_of_Use_Notice_Privacy_Policy/OthersForum_Site/</string>
+    <string msgid="1177138552305184404" name="password">"Şifre"</string>
+    <string name="privacy_policy_url">http://www.asus.com/tr/Terms_of_Use_Notice_Privacy_Policy/Privacy_Policy/</string>
+    <string description="dialog title, key in the asus ID and PW to Login account" maxwidth="-1" name="regist_asus_id">"ASUS hesabı oluşturma"</string>
+    <string description="ask user to enter email address to registe New Account" name="registe_id">Hesap Adı</string>
+    <string description="ask user to enter new password" name="registe_password">8~25 karakter gir</string>
+    <string description="sign up registe action" name="registe_sign_up">Kaydol</string>
+    <string maxwidth="-1" name="sd_label">ASUS için OneDrive</string>
+    <string name="server_error">"Sunucu hatası"</string>
+    <string name="settings">"Ayarlar"</string>
+    <string description="check if user want to show password" name="show_passwd">Şifreyi göster</string>
+    <string description="show when sign in failed" maxwidth="-1" name="signin_failed">"Oturum açma başarısız"</string>
+    <string name="ssl_err_msg_info">"Sunucuya güvenli bağlantı kurulamıyor. Devam etmek istiyor musunuz?"</string>
+    <string name="ssl_err_msg_title">"SSL bağlantısı hatası"</string>
+    <string name="unsupported_area">"Bu alan desteklenmiyor"</string>
+    <string name="yandex_account_only_one_alert">"Yalnızca bir Yandex hesabı eklenmesine izin verilir. Yeni bir tanesiyle değiştirmeden önce geçerli hesabınızı silmek zorundasınız."</string>
+</resources>

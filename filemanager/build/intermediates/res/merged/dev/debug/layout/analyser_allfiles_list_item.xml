@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/analyser_allfiles_list_item_root"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/file_item_height"
+    android:descendantFocusability="blocksDescendants"
+    android:gravity="center"
+    android:paddingBottom="@dimen/file_item_padding_vertical"
+    android:paddingTop="@dimen/file_item_padding_vertical" >
+
+    <CheckBox
+        android:id="@+id/analyser_allfiles_list_item_checkbox"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/file_list_height"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginRight="@dimen/listview_item_margin"
+        android:layout_marginEnd="@dimen/listview_item_margin"
+        android:visibility="gone"
+        style="?checkbox" />
+
+    <RelativeLayout
+        android:id="@+id/analyser_allfiles_list_item_container"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/file_list_height"
+        android:layout_toEndOf="@id/analyser_allfiles_list_item_checkbox"
+        android:layout_toRightOf="@id/analyser_allfiles_list_item_checkbox"
+        android:gravity="center_vertical" >
+
+        <com.asus.filemanager.ui.RoundedImageView
+            android:id="@+id/analyser_allfiles_list_item_icon"
+            android:layout_width="@dimen/file_list_height"
+            android:layout_height="@dimen/file_list_height"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:background="#d1d1d1"
+            android:scaleType="fitCenter"
+            android:src="@drawable/asus_ep_ic_folder"
+            app:riv_border_color="#333333"
+            app:riv_border_width="0dip"
+            app:riv_corner_radius="5dip"
+            app:riv_mutate_background="true"
+            app:riv_oval="false"
+            app:riv_tile_mode="clamp" />
+
+        <LinearLayout
+            android:id="@+id/analyser_allfiles_list_item_info_container"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginStart="@dimen/file_list_info_container_marginLeft"
+            android:layout_marginLeft="@dimen/file_list_info_container_marginLeft"
+            android:layout_toEndOf="@id/analyser_allfiles_list_item_icon"
+            android:layout_toRightOf="@id/analyser_allfiles_list_item_icon"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/analyser_allfiles_list_item_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_marginEnd="@dimen/file_list_info_container_marginLeft"
+                android:layout_marginStart="0dp"
+                android:layout_marginLeft="0dp"
+                android:layout_marginRight="@dimen/file_list_info_container_marginLeft"
+                android:ellipsize="middle"
+                android:gravity="start"
+                android:singleLine="true"
+                android:textSize="@dimen/file_list_item_name_textsize"
+                android:textColor="?filelist_item_name_color" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:weightSum = "1.0">
+                <ProgressBar
+                    android:layout_weight="0.52"
+                    android:id="@+id/analyser_allfiles_list_item_progressbar"
+                    style="@style/AnalyzerProgressBar"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:indeterminate="false"/>
+                <RelativeLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight = "0.48">
+                    <TextView
+                        android:id="@+id/analyser_allfiles_list_item_percentage"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentTop="true"
+                        android:ellipsize="middle"
+                        android:fontFamily="Roboto Regular"
+                        android:singleLine="true"
+                        android:gravity="left"
+                        android:textColor="@color/analyser_allfiles_list_item_percentage_color"
+                        android:textSize="@dimen/file_list_item_date_textsize"
+                        android:paddingLeft="@dimen/analyser_allfiles_list_item_percentage_padding_left"
+                        android:paddingStart="@dimen/analyser_allfiles_list_item_percentage_padding_left"
+                        android:layout_alignParentStart="true"
+                        android:layout_alignParentLeft="true"
+                        />
+
+                    <TextView
+                        android:id="@+id/analyser_allfiles_list_item_sizes"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:ellipsize="middle"
+                        android:fontFamily="Roboto Regular"
+                        android:singleLine="true"
+                        android:gravity="right"
+                        android:textColor="@color/file_list_item_date_white_grey"
+                        android:textSize="@dimen/file_list_item_date_textsize"
+                        android:layout_alignParentTop="true"
+                        android:layout_alignParentEnd="true"
+                        android:layout_alignParentRight="true"
+                        android:layout_toEndOf="@+id/analyser_allfiles_list_item_percentage"/>
+                    </RelativeLayout>
+
+            </LinearLayout>
+        </LinearLayout>
+    </RelativeLayout>
+
+</RelativeLayout>

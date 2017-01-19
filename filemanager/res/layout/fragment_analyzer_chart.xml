@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/fragment_analyzer_chart_baselayout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginEnd="@dimen/activity_storage_analyzer_margin"
+    android:layout_marginLeft="@dimen/activity_storage_analyzer_margin"
+    android:layout_marginRight="@dimen/activity_storage_analyzer_margin"
+    android:layout_marginStart="@dimen/activity_storage_analyzer_margin"
+    android:layout_marginTop="@dimen/activity_storage_analyzer_margin"
+    android:background="?card_bg">
+
+
+
+    <TableLayout
+        android:id="@+id/fragment_analyzer_chart_tablelayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/fragment_analyzer_chart_chartview"
+        android:stretchColumns="3">
+
+        <TableRow
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_gravity="center"
+            android:layout_margin="@dimen/fragment_analyzer_chart_label_base_margin"
+            android:weightSum="1.2">
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.4"
+                android:orientation="vertical"
+
+                >
+
+                <TextView
+
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:drawableLeft="@drawable/rect_label_images"
+                    android:drawablePadding="@dimen/fragment_analyzer_chart_label_padding"
+                    android:gravity="left"
+                    android:text="@string/category_image"
+                    android:textSize="@dimen/fragment_analyzer_chart_label_text_sizes"
+                    android:textStyle="bold"
+                    android:textColor="?analyzer_cardbase_title_color" />
+
+                <TextView
+                    android:id="@+id/fragment_analyzer_chart_images"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="@dimen/fragment_analyzer_chart_text_padding"
+                    android:paddingStart="@dimen/fragment_analyzer_chart_text_padding"
+                    android:textSize="@dimen/fragment_analyzer_chart_label_text2_sizes"
+                    android:textColor="?analyzer_cardbase_subtitle_color" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.4"
+                android:orientation="vertical">
+
+                <TextView
+
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:drawableLeft="@drawable/rect_label_music"
+                    android:drawablePadding="@dimen/fragment_analyzer_chart_label_padding"
+                    android:gravity="left"
+                    android:text="@string/category_music"
+                    android:textSize="@dimen/fragment_analyzer_chart_label_text_sizes"
+                    android:textStyle="bold"
+                    android:textColor="?analyzer_cardbase_title_color" />
+
+                <TextView
+                    android:id="@+id/fragment_analyzer_chart_music"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="@dimen/fragment_analyzer_chart_text_padding"
+                    android:paddingStart="@dimen/fragment_analyzer_chart_text_padding"
+                    android:textSize="@dimen/fragment_analyzer_chart_label_text2_sizes"
+                    android:textColor="?analyzer_cardbase_subtitle_color" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.4"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:drawablePadding="@dimen/fragment_analyzer_chart_label_padding"
+                    android:gravity="left"
+                    android:text="@string/category_video"
+                    android:textSize="@dimen/fragment_analyzer_chart_label_text_sizes"
+                    android:textStyle="bold"
+                    style="?analyzer_rect_label_video" />
+
+                <TextView
+                    android:id="@+id/fragment_analyzer_chart_videos"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="@dimen/fragment_analyzer_chart_text_padding"
+                    android:paddingStart="@dimen/fragment_analyzer_chart_text_padding"
+                    android:textSize="@dimen/fragment_analyzer_chart_label_text2_sizes"
+                    android:textColor="?analyzer_cardbase_subtitle_color" />
+            </LinearLayout>
+
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_gravity="center_vertical"
+            android:layout_marginBottom="@dimen/fragment_analyzer_chart_label_base_margin"
+            android:layout_marginEnd="@dimen/fragment_analyzer_chart_label_base_margin"
+            android:layout_marginLeft="@dimen/fragment_analyzer_chart_label_base_margin"
+            android:layout_marginRight="@dimen/fragment_analyzer_chart_label_base_margin"
+            android:layout_marginStart="@dimen/fragment_analyzer_chart_label_base_margin"
+            android:weightSum="1.2">
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.4"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:drawableLeft="@drawable/rect_label_app"
+                    android:drawablePadding="@dimen/fragment_analyzer_chart_label_padding"
+                    android:gravity="left"
+                    android:text="@string/category_app1"
+                    android:textSize="@dimen/fragment_analyzer_chart_label_text_sizes"
+                    android:textStyle="bold"
+                    android:textColor="?analyzer_cardbase_title_color" />
+
+                <TextView
+                    android:id="@+id/fragment_analyzer_chart_apps"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="@dimen/fragment_analyzer_chart_text_padding"
+                    android:paddingStart="@dimen/fragment_analyzer_chart_text_padding"
+                    android:textSize="@dimen/fragment_analyzer_chart_label_text2_sizes"
+                    android:textColor="?analyzer_cardbase_subtitle_color" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.4"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:drawableLeft="@drawable/rect_label_document"
+                    android:drawablePadding="@dimen/fragment_analyzer_chart_label_padding"
+                    android:gravity="left"
+                    android:text="@string/category_document1"
+                    android:textSize="@dimen/fragment_analyzer_chart_label_text_sizes"
+                    android:textStyle="bold"
+                    android:textColor="?analyzer_cardbase_title_color" />
+
+                <TextView
+                    android:id="@+id/fragment_analyzer_chart_documents"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="@dimen/fragment_analyzer_chart_text_padding"
+                    android:paddingStart="@dimen/fragment_analyzer_chart_text_padding"
+                    android:textSize="@dimen/fragment_analyzer_chart_label_text2_sizes"
+                    android:textColor="?analyzer_cardbase_subtitle_color" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.4"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:drawableLeft="@drawable/rect_label_others"
+                    android:drawablePadding="@dimen/fragment_analyzer_chart_label_padding"
+                    android:gravity="left"
+                    android:text="@string/category_others"
+                    android:textSize="@dimen/fragment_analyzer_chart_label_text_sizes"
+                    android:textStyle="bold"
+                    android:textColor="?analyzer_cardbase_title_color" />
+
+                <TextView
+                    android:id="@+id/fragment_analyzer_chart_others"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="@dimen/fragment_analyzer_chart_text_padding"
+                    android:paddingStart="@dimen/fragment_analyzer_chart_text_padding"
+                    android:textSize="@dimen/fragment_analyzer_chart_label_text2_sizes"
+                    android:textColor="?analyzer_cardbase_subtitle_color" />
+
+            </LinearLayout>
+
+        </TableRow>
+    </TableLayout>
+
+
+    <TextView
+        android:id="@+id/fragment_analyzer_chart_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginBottom="@dimen/fragment_analyzer_title_margin"
+        android:layout_marginLeft="@dimen/fragment_analyzer_title_margin"
+        android:layout_marginStart="@dimen/fragment_analyzer_title_margin"
+        android:layout_marginTop="@dimen/fragment_analyzer_title_margin"
+        android:layout_toLeftOf="@+id/fragment_analyzer_chart_more"
+        android:layout_toStartOf="@+id/fragment_analyzer_chart_more"
+        android:singleLine="true"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textSize="@dimen/fragment_analyzer_title_sizes"
+        android:textStyle="bold"
+        android:textColor="?analyzer_cardbase_title_color" />
+
+    <TextView
+        android:id="@+id/fragment_analyzer_chart_more"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/fragment_analyzer_chart_next"
+        android:layout_alignTop="@+id/fragment_analyzer_chart_next"
+        android:layout_marginEnd="@dimen/fragment_analyzer_more_margin"
+        android:layout_marginRight="@dimen/fragment_analyzer_more_margin"
+        android:layout_toLeftOf="@+id/fragment_analyzer_chart_next"
+        android:layout_toStartOf="@+id/fragment_analyzer_chart_next"
+        android:gravity="center"
+        android:text="@string/fragment_analyzer_more_hint"
+        android:textSize="@dimen/fragment_analyzer_more_sizes"
+        android:textColor="?analyzer_cardbase_title_color" />
+
+    <ImageView
+        android:id="@+id/fragment_analyzer_chart_next"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/fragment_analyzer_chart_title"
+        android:layout_alignEnd="@+id/fragment_analyzer_chart_divide"
+        android:layout_alignRight="@+id/fragment_analyzer_chart_divide"
+        android:layout_alignTop="@+id/fragment_analyzer_chart_title"
+        android:src="@drawable/asus_ic_next" />
+
+
+    <FrameLayout
+        android:id="@+id/fragment_analyzer_chart_divide"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_below="@+id/fragment_analyzer_chart_title"
+        android:layout_marginBottom="@dimen/fragment_analyzer_title_margin"
+        android:layout_marginEnd="@dimen/fragment_analyzer_title_margin"
+        android:layout_marginLeft="@dimen/fragment_analyzer_title_margin"
+        android:layout_marginRight="@dimen/fragment_analyzer_title_margin"
+        android:layout_marginStart="@dimen/fragment_analyzer_title_margin"
+        android:background="?divider_color"/>
+
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/fragment_analyzer_chart_divide"
+        android:layout_alignStart="@+id/fragment_analyzer_chart_divide"
+        android:layout_alignTop="@+id/fragment_analyzer_chart_chartview"
+        android:layout_toLeftOf="@+id/fragment_analyzer_chart_chartview"
+        android:layout_toStartOf="@+id/fragment_analyzer_chart_chartview"
+        >
+
+        <TextView
+            android:id="@+id/fragment_analyzer_chart_total_hint"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingEnd="@dimen/fragment_analyser_text_padding_right"
+            android:paddingRight="@dimen/fragment_analyser_text_padding_right"
+            android:text="@string/fragment_analyzer_chart_total_hint"
+            android:textSize="@dimen/fragment_analyzer_chart_content_text_sizes"
+            android:singleLine="true"
+            android:textColor="?analyzer_cardbase_title_color" />
+
+        <TextView
+            android:id="@+id/fragment_analyzer_chart_total"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toEndOf="@+id/fragment_analyzer_chart_total_hint"
+            android:layout_toRightOf="@+id/fragment_analyzer_chart_total_hint"
+            android:singleLine="true"
+            android:textSize="@dimen/fragment_analyzer_chart_content_text_sizes"
+            android:textColor="?analyzer_cardbase_title_color" />
+
+        <TextView
+            android:id="@+id/fragment_analyzer_chart_free_hint"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/fragment_analyzer_chart_total_hint"
+            android:layout_alignStart="@+id/fragment_analyzer_chart_total_hint"
+            android:layout_below="@+id/fragment_analyzer_chart_total_hint"
+            android:layout_marginTop="@dimen/fragment_analyzer_chart_content_margin"
+            android:paddingEnd="@dimen/fragment_analyser_text_padding_right"
+            android:paddingRight="@dimen/fragment_analyser_text_padding_right"
+            android:text="@string/fragment_analyzer_chart_free_hint"
+            android:textSize="@dimen/fragment_analyzer_chart_content_text_sizes"
+            android:singleLine="true"
+            android:textColor="?analyzer_cardbase_title_color" />
+
+        <TextView
+            android:id="@+id/fragment_analyzer_chart_free"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/fragment_analyzer_chart_free_hint"
+            android:layout_alignTop="@+id/fragment_analyzer_chart_free_hint"
+            android:layout_toEndOf="@+id/fragment_analyzer_chart_free_hint"
+            android:layout_toRightOf="@+id/fragment_analyzer_chart_free_hint"
+            android:singleLine="true"
+            android:textSize="@dimen/fragment_analyzer_chart_content_text_sizes"
+            android:textColor="?analyzer_cardbase_title_color" />
+    </RelativeLayout>
+
+    <com.asus.filemanager.ui.CircleChartView
+        android:id="@+id/fragment_analyzer_chart_chartview"
+        android:layout_width="@dimen/fragment_analyzer_chart_chartsizes"
+        android:layout_height="@dimen/fragment_analyzer_chart_chartsizes"
+        android:layout_alignEnd="@+id/fragment_analyzer_chart_divide"
+        android:layout_alignRight="@+id/fragment_analyzer_chart_divide"
+        android:layout_below="@+id/fragment_analyzer_chart_divide"
+        android:layout_marginEnd="@dimen/activity_storage_analyzer_margin"
+        android:layout_marginLeft="@dimen/fragment_analyzer_chart_margin"
+        android:layout_marginRight="@dimen/fragment_analyzer_chart_margin"
+        android:layout_marginStart="@dimen/activity_storage_analyzer_margin"
+        app:circleStartDegree="270"
+        app:showAnimationMask="true"
+        app:textHintColor="@color/fragment_analyzer_chart_percentage_color" />
+
+</RelativeLayout>

@@ -1,0 +1,1291 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="alarm_set">
+        <item msgid="6450913786084215050">"Будилникът e настроен за след по-малко от минута."</item>
+        <item msgid="6002066367368421848">"Будилникът е настроен за след <ns1:g id="DAYS">%1$s</ns1:g>."</item>
+        <item msgid="8824719306247973774">"Будилникът е настроен за след <ns1:g id="HOURS">%2$s</ns1:g>."</item>
+        <item msgid="8182406852935468862">"Будилникът е настроен за след <ns1:g id="DAYS">%1$s</ns1:g> и <ns1:g id="HOURS">%2$s</ns1:g>."</item>
+        <item msgid="2532279224777213194">"Будилникът е настроен за след <ns1:g id="MINUTES">%3$s</ns1:g>."</item>
+        <item msgid="5936557894247187717">"Будилникът е настроен за след <ns1:g id="DAYS">%1$s</ns1:g> и <ns1:g id="MINUTES">%3$s</ns1:g>."</item>
+        <item msgid="9115697840826129603">"Будилникът е настроен за след <ns1:g id="HOURS">%2$s</ns1:g> и <ns1:g id="MINUTES">%3$s</ns1:g>."</item>
+        <item msgid="2332583385137381060">"Будилникът е настроен за след <ns1:g id="DAYS">%1$s</ns1:g>, <ns1:g id="HOURS">%2$s</ns1:g> и <ns1:g id="MINUTES">%3$s</ns1:g>."</item>
+    </string-array>
+    <string-array name="charset_array">
+        <item>"Latin-1 (ISO-8859-1)"</item>
+        <item>"Unicode (UTF-8)"</item>
+        <item>"Китайски (GBK)"</item>
+        <item>"Китайски (Big5)"</item>
+        <item>"Японски (ISO-2022-JP)"</item>
+        <item>"Японски (SHIFT_JIS)"</item>
+        <item>"Японски (EUC-JP)"</item>
+        <item>"Корейски (EUC-KR)"</item>
+    </string-array>
+    <string-array name="country_names">
+        <item>Аруба</item>
+        <item>Афганистан (جمهوری اسلامی افغانستان)</item>
+        <item>Ангола (República de Angola)</item>
+        <item>Ангуила</item>
+        <item>Албания (Shqipëri)</item>
+        <item>Андора (Principat d\'Andorra)</item>
+        <item>Холандски Антили</item>
+        <item>Обединени арабски емирства (دولة الإمارات العربية المتحدة‎)</item>
+        <item>Аржентина (República Argentina)</item>
+        <item>Армения (Hayastan)</item>
+        <item>Американски Самоа</item>
+        <item>Антарктика</item>
+        <item>Френски южни територии</item>
+        <item>Антигуа и Барбуда</item>
+        <item>Автсралия (Australia)</item>
+        <item>Австрия (Österreich)</item>
+        <item>Азербайджан</item>
+        <item>Бурунди</item>
+        <item>Белгия (België)</item>
+        <item>Бенин</item>
+        <item>Буркина Фасо</item>
+        <item>Бангладеш (বাংলাদেশ)</item>
+        <item>България (България / Balgariya)</item>
+        <item>Бахрейн (مملكة البحرين)</item>
+        <item>Бахамски острови</item>
+        <item>Босна и Херцеговина (Bosna i Hercegovina)</item>
+        <item>Беларус (Беларусь)</item>
+        <item>Белиз</item>
+        <item>Бермудски острови</item>
+        <item>Боливия</item>
+        <item>Бразилия</item>
+        <item>Барбадос</item>
+        <item>Бруней (بروني دارالسلام)</item>
+        <item>Бутан</item>
+        <item>Остров Буве</item>
+        <item>Ботвана (Lefatshe la Botswana)</item>
+        <item>Централна африканска република (République centrafricaine)</item>
+        <item>Канада</item>
+        <item>Кокосови (Килинг) острови</item>
+        <item>Швейцария (Suisse)</item>
+        <item>Чили</item>
+        <item>Китай (中國)</item>
+        <item>Кот д\'Ивоар</item>
+        <item>Камерун</item>
+        <item>Конго</item>
+        <item>Острови Кук</item>
+        <item>Колумбия</item>
+        <item>Коморос</item>
+        <item>Кабо Верде</item>
+        <item>Коста Рика</item>
+        <item>Куба</item>
+        <item>Остров Рождество</item>
+        <item>Кайманови острови</item>
+        <item>Кипър (Euro)</item>
+        <item>Чехия (Česká republika)</item>
+        <item>Германия (Deutschland)</item>
+        <item>Джибути</item>
+        <item>Доминика</item>
+        <item>Дания (Danmark)</item>
+        <item>Доминиканска република</item>
+        <item>Алжир</item>
+        <item>Еквадор</item>
+        <item>Египет (مصر‎)</item>
+        <item>Еритрея</item>
+        <item>Западна Сахара</item>
+        <item>Испания (España)</item>
+        <item>Естония (Eesti)</item>
+        <item>Етиопия</item>
+        <item>Финландия (Suomi)</item>
+        <item>Фиджи</item>
+        <item>Фолклендски острови</item>
+        <item>Франция (France)</item>
+        <item>Белгия (Belgique)</item>
+        <item>Фарьорските острови</item>
+        <item>Микронезия</item>
+        <item>Габон</item>
+        <item>Обединеното кралство (United Kingdom)</item>
+        <item>Грузия (საქართველო)</item>
+        <item>Гана</item>
+        <item>Гибралтар</item>
+        <item>Гвинея</item>
+        <item>Гуаделупе</item>
+        <item>Гамбия</item>
+        <item>Гвинея-Бисау</item>
+        <item>Екваториална Гвинея</item>
+        <item>Гърция (Ελλάδα)</item>
+        <item>Гренада</item>
+        <item>Гренландия</item>
+        <item>Гватемала</item>
+        <item>Френска Гвиана</item>
+        <item>Гуам</item>
+        <item>Гияна</item>
+        <item>Хонконг (香港)</item>
+        <item>Острови Хърд и Макдоналд</item>
+        <item>Хондурас</item>
+        <item>Хърватска</item>
+        <item>Хаити</item>
+        <item>Унгария (Magyarország)</item>
+        <item>Индонезия (Republik Indonesia)</item>
+        <item>Индия (भारत गणराज्य )</item>
+        <item>Британски територии в Индийския океан</item>
+        <item>Ирландия (Ireland)</item>
+        <item>Иран (ایران)</item>
+        <item>Ирак (العراق)</item>
+        <item>Исландия (Ísland)</item>
+        <item>Израел (מְדִינַת יִשְׂרָאֵל  /  دَوْلَةُ إِسْرَائِيلَ)</item>
+        <item>Италия (Italia)</item>
+        <item>Ямайка</item>
+        <item>Йордания (L\'Ürdünn)</item>
+        <item>Япония (日本国)</item>
+        <item>Казахстан</item>
+        <item>Кения (Jamhuri ya Kenya)</item>
+        <item>Киргизтан</item>
+        <item>Камбоджа (कम्बोजदेश)</item>
+        <item>Кирибати</item>
+        <item>Сейнт Китс и Невис</item>
+        <item>Република Корея (대한민국)</item>
+        <item>Кувейт (دولة الكويت)</item>
+        <item>Лаоска народнодемократична република</item>
+        <item>Ливан (اَلْجُمْهُورِيَّة اَللُّبْنَانِيَّة)</item>
+        <item>Либерия</item>
+        <item>Либийска арабска джамахирия</item>
+        <item>Сейнт Лусия</item>
+        <item>Лихтенщайн (Liechtenstein)</item>
+        <item>Шри Ланка (இலங்கை ஜனநாயக சமத்துவ)</item>
+        <item>Лесото</item>
+        <item>Литва (Lietuva)</item>
+        <item>Люксембург (Lëtzebuerg)</item>
+        <item>Латвия (Latvija)</item>
+        <item>Макау</item>
+        <item>Мароко</item>
+        <item>Монако (Monaco)</item>
+        <item>Молдова (Moldova)</item>
+        <item>Мадагаскар</item>
+        <item>Малдиви</item>
+        <item>Мексико</item>
+        <item>Маршалски острови</item>
+        <item>Македония</item>
+        <item>Мали</item>
+        <item>Малта (Malta)</item>
+        <item>Мианмар (Pyidaunzu Thanmăda Myăma Nainngandaw)</item>
+        <item>Монголия</item>
+        <item>Северни Мариански острови</item>
+        <item>Мозамбик</item>
+        <item>Мавритания</item>
+        <item>Монтсерат</item>
+        <item>Мартиник (Martinique)</item>
+        <item>Мавриций (Republik Moris)</item>
+        <item>Малави</item>
+        <item>Малайзия (Persekutuan Malaysia)</item>
+        <item>Майот</item>
+        <item>Намибия</item>
+        <item>Нова Каледония (Nouvelle-Calédonie)</item>
+        <item>Нигер</item>
+        <item>Норфолкски острови (Norfuk Ailen)</item>
+        <item>Нигерия (Republik Nijeriya)</item>
+        <item>Никарагуа</item>
+        <item>Ниуе</item>
+        <item>Холандия (Nederland)</item>
+        <item>Норвегия (Norge)</item>
+        <item>Непал (सङ्घीय लोकतान्त्रिक गणतन्त्र नेपाल)</item>
+        <item>Науру</item>
+        <item>Нова Зеландия (New Zealand)</item>
+        <item>Оман (لطنة عمان)</item>
+        <item>Пакистан (پاکِستان)</item>
+        <item>Панама</item>
+        <item>Питкерн</item>
+        <item>Перу</item>
+        <item>Филипини (Pilipinas)</item>
+        <item>Палау</item>
+        <item>Папуа нова Гвинея</item>
+        <item>Полша (Polska)</item>
+        <item>Пуерто Рико</item>
+        <item>Корея</item>
+        <item>Португалия (Portugal)</item>
+        <item>Парагвай</item>
+        <item>Френска Полинезия</item>
+        <item>Катар</item>
+        <item>Реюнион</item>
+        <item>Румъния (România)</item>
+        <item>Русия (Россия)</item>
+        <item>Руанда</item>
+        <item>Саудитска Арабия (المملكة العربية السعودية)</item>
+        <item>Сърбия и Черна гора</item>
+        <item>Судан (جمهورية السودان)</item>
+        <item>Сенегал</item>
+        <item>Сингапур (Singapore)</item>
+        <item>Южна Джорджия и Южни Сандвичеви острови</item>
+        <item>Св. Елена</item>
+        <item>Островите Свалбард и Ян Майен</item>
+        <item>Соломонови острови (Solomon Islands)</item>
+        <item>Сиера Леоне</item>
+        <item>Ел Салвадор</item>
+        <item>Сан Марино (San Marino)</item>
+        <item>Сомалия</item>
+        <item>Сейнт Пиер и Микелон (St. Pierre and Miquelon)</item>
+        <item>Сао Томе и Принсипи</item>
+        <item>Суринам</item>
+        <item>Словакия (Slovensko)</item>
+        <item>Словения (Slovenija)</item>
+        <item>Швеция (Sverige)</item>
+        <item>Свазиленд (Swatini)</item>
+        <item>Сейшели</item>
+        <item>Сирийска арабска република (جمهورية العربية السورية)</item>
+        <item>Острови Търкс и Кайкос</item>
+        <item>Чад</item>
+        <item>Того</item>
+        <item>Тайланд (ราชอาณาจักรไทย)</item>
+        <item>Таджикистан</item>
+        <item>Токелау</item>
+        <item>Туркменистан</item>
+        <item>Източен Тимор</item>
+        <item>Тонга</item>
+        <item>Тринидад и Тобаго</item>
+        <item>Тунис</item>
+        <item>Турция (Türkiye)</item>
+        <item>Тувалу</item>
+        <item>Тайван (台灣)</item>
+        <item>Танзания</item>
+        <item>Уганда (Jamhuri ya Uganda)</item>
+        <item>Украйна (Україна)</item>
+        <item>Малки отдалечени острови на САЩ</item>
+        <item>Уругвай</item>
+        <item>Съединени американски щати</item>
+        <item>Узбекистан</item>
+        <item>Ватикан (Stato della Città del Vaticano)</item>
+        <item>Сейнт Винсент и Гренадини</item>
+        <item>Венецуела</item>
+        <item>Вирджински острови (Британски)</item>
+        <item>Американски вирджински острови</item>
+        <item>Виетнам (Việt Nam)</item>
+        <item>Вануату</item>
+        <item>Острови Уолис и Футуна</item>
+        <item>Самоа</item>
+        <item>Йемен</item>
+        <item>ЮАР (Republiek van Suid-Afrika)</item>
+        <item>Заир</item>
+        <item>Замбия</item>
+        <item>Зимбабве (Simudzai Mureza wedu WeZimbabwe)</item>
+    </string-array>
+    <plurals name="dialog_unzip_preview_size_text">
+        <item quantity="one">Общо: %1$d файл, %2$s</item>
+        <item quantity="other">Общо: %1$d файлове, %2$s</item>
+    </plurals>
+    <plurals name="drag_items">
+        <item quantity="one">Плъзгане на елемент</item>
+        <item quantity="other">Плъзгане на елементи</item>
+    </plurals>
+    <plurals name="number_search_items">
+        <item quantity="one">"%d файлът не е намерен"</item>
+        <item quantity="other">"%d файловете не са намерени"</item>
+    </plurals>
+    <plurals name="number_selected_items">
+        <item quantity="one">%d елемента избрани</item>
+        <item quantity="other">%d елемента избрани</item>
+    </plurals>
+    <plurals name="uf_sdk_number_of_subscribers_format">
+        <item quantity="one">"%1$s харесва тази тема"</item>
+        <item quantity="other">"%1$s харесват тази тема"</item>
+    </plurals>
+    <plurals name="uf_sdk_topics">
+        <item quantity="one">"тема"</item>
+        <item quantity="other">"теми"</item>
+    </plurals>
+    <plurals name="uv_comments">
+        <item quantity="one">"коментар"</item>
+        <item quantity="other">"коментари"</item>
+    </plurals>
+    <plurals name="uv_number_of_subscribers_format">
+        <item quantity="one">"%1$s иска тази идея"</item>
+        <item quantity="other">"%1$s искат тази идея"</item>
+    </plurals>
+    <plurals name="uv_people">
+        <item quantity="one">"човек"</item>
+        <item quantity="other">"души"</item>
+    </plurals>
+    <plurals name="uv_subscribers">
+        <item quantity="one">"абонат"</item>
+        <item quantity="other">"абоната"</item>
+    </plurals>
+    <string name="AsusWebstroage">AsusWebstorage</string>
+    <string name="AuCloud">AuCloud</string>
+    <string name="BaiDuPCS">BaiDuPCS</string>
+    <string name="Default">По подразбиране</string>
+    <string name="Dropbox">Dropbox</string>
+    <string name="Google_Drive">Google Drive</string>
+    <string name="HomeCloud">HomeCloud</string>
+    <string name="OneDrive">OneDrive</string>
+    <string name="Yandex">Yandex</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Придвижване към „Начало“"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"„%1$s“ – %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"„%1$s“, „%2$s“ – %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Придвижване нагоре"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Още опции"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Готово"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Вижте всички"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Изберете приложение"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"ИЗКЛ."</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ВКЛ."</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Търсете…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Изчистване на заявката"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Заявка за търсене"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Търсене"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Изпращане на заявката"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Гласово търсене"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Споделяне със:"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Споделяне със: %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Свиване"</string>
+    <string name="about">"Относно"</string>
+    <string name="account_asus">ASUS</string>
+    <string maxwidth="-1" name="action">Вход</string>
+    <string description="cutstom action bar view title for about" maxwidth="-1" name="action_about">За</string>
+    <string description="action add files" maxwidth="-1" name="action_add">Добавяне</string>
+    <string description="cutstom action bar view title for add folder" maxwidth="-1" name="action_add_folder">Добавяне на папка</string>
+    <string description="View title of custom action bar, apply to multiple selected files" maxwidth="-1" name="action_apply_selected_file">Приложи</string>
+    <string description="action cancel" maxwidth="-1" name="action_cancel">Отказ</string>
+    <string maxwidth="-1" name="action_clean">"Изчистване"</string>
+    <string maxwidth="-1" name="action_clean_all">"Изчистване на всички"</string>
+    <string description="cutstom action bar view title for clear search history" maxwidth="" name="action_clear_history">Изчисти хронологията на търсене</string>
+    <string description="cutstom action bar view title for edit" maxwidth="" name="action_edit">"Редактиране"</string>
+    <string maxwidth="" name="action_hidden_zone">"Преместване в скрит шкаф"</string>
+    <string description="cutstom action bar view title for hinde system file" maxwidth="-1" name="action_hind_system_file">Скриване на системни файлове</string>
+    <string name="action_loading">"Зареждане..."</string>
+    <string description="cutstom action bar view title for open with" maxwidth="" name="action_open_with">"Отвори с/със..."</string>
+    <string name="action_refresh_cloudfile">"Обновяване"</string>
+    <string maxwidth="-1" name="action_restore">"Възстановяване"</string>
+    <string maxwidth="-1" name="action_restore_all">"Възстановяване на всички"</string>
+    <string description="cutstom action bar view title for search" maxwidth="" name="action_search">"Търсене"</string>
+    <string description="cutstom action bar view title for set as" maxwidth="" name="action_set_as">"Задай картина като"</string>
+    <string description="menu title for setting" maxwidth="-1" name="action_settings">"Настройки"</string>
+    <string description="cutstom action bar view title for sharing" maxwidth="-1" name="action_share">Споделяне</string>
+    <string description="String for asking for the rule of sorting" maxwidth="-1" name="action_sort_by">Сортиране по</string>
+    <string description="cutstom action bar view title for zip" maxwidth="" name="action_zip">Компресиране</string>
+    <string description="Dialog title: Add cloud storage" maxwidth="-1" name="add_cloud_storage_dialog_title">"Добавяне на място за съхранение на облака"</string>
+    <string name="add_favorite">Добавяне към Предпочитани</string>
+    <string name="add_favorite_folder">"Добавяне на папка с предпочитани"</string>
+    <string name="add_favorite_success">Запази във Предпочитани</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="add_progress">"Създаване..."</string>
+    <string description="Don&apos;t remind me again" maxwidth="-1" name="alert_cb_msg">Не ми напомняй отново.</string>
+    <string description="ASUS ZenUI Services is not support, need update ASUS ZenUI Services" maxwidth="-1" name="alert_msg_azs_update">%1$s изисква най-новата версия на ASUS ZenUI Services (ASUS ZenUI услуги), инсталирайте я сега.</string>
+    <string description="Client app is not support, need update client app" maxwidth="-1" name="alert_msg_client_update">Достъпна е нова версия на %1$s. Моля, инсталирайте я сега.</string>
+    <string description="Client app version is compatible with ASUS ZenUI Services" maxwidth="-1" name="alert_msg_compatible">Версия %1$s е съвместима с ASUS ZenUI Services.</string>
+    <string description="Client app version is match with ASUS ZenUI Services" maxwidth="-1" name="alert_msg_match">Версия %1$s отговаря на ASUS ZenUI Services.</string>
+    <string description="ASUS ZenUI Services is not found on device" maxwidth="-1" name="alert_msg_not_found">ASUS ZenUI Services не е инсталиран!\n\nОтидете в изтегляне и инсталирайте?</string>
+    <string description="Dialog title" maxwidth="-1" name="alert_title">Бележка</string>
+    <string description="Dialog title" maxwidth="-1" name="alert_title_update">Препоръчва се актуализация</string>
+    <string name="app_cloudstorage_name">Cloud (Облачна) памет</string>
+    <string name="app_upload_complete">"Качването на %s приключи"</string>
+    <string description="" name="article_one">Съгласявам се с \"<u>Правила за употреба</u>\" на ASUS, \"<u>Политика за поверителност</u>\" на ASUS, \"<u>Правила за употреба</u>\" на ASUS Webstorage,  \"<u>Политика за поверителност</u>\" на ASUS Webstorage.</string>
+    <string description="" name="article_two">Информирай ме чрез eDMs за ASUS новини, софтуерни актуализации и последната информация за продукти и услуги.</string>
+    <string description="Text for create asus account button." maxwidth="" name="asus_account_create_button">Създаване на нов</string>
+    <string name="asus_account_integrate_dialog_content">Искате ли да интегрирате услугата ASUS Cloud Storage с ASUS акаунт? \n\n След интегриране с услугата ASUS Cloud Storage, ще можете да използвате всичкиl ASUS услуги с един и същ акаунт.</string>
+    <string name="asus_account_integrate_dialog_skip">Пропусни</string>
+    <string name="asus_account_integrate_dialog_title">Интегриране на ASUS услуги</string>
+    <string name="asus_account_integrate_dialog_yes">Да</string>
+    <string description="Text for asus account content 1st." maxwidth="" name="asus_account_msg_content_1">Да получавате лична ASUS поддръжка и удължена гаранция за регистрирани продукти.</string>
+    <string description="Text for asus account content 2nd." maxwidth="" name="asus_account_msg_content_2">Да получите 5 GB пространство в облак.</string>
+    <string description="Text for asus account content 3rd." maxwidth="" name="asus_account_msg_content_3">Да получавате най-новата информация за аксесоари и рециклирани продукти.</string>
+    <string description="Text for asus account content title." maxwidth="" name="asus_account_msg_title">Създайте ASUS акаунт и можете:</string>
+    <string name="asus_account_only_one_alert">"Може да се добави само един ASUS акаунт. Трябва да изтриете текущия акаунт преди да го замените с нов."</string>
+    <string name="asus_account_prefc">"Настройки"</string>
+    <string name="asus_account_prefc_advc">"Разширени настройки"</string>
+    <string name="asus_account_registe_country_error">Изберете една държава.</string>
+    <string name="asus_account_registe_id_error">Имейл грешка</string>
+    <string name="asus_account_registe_policy_error">Трябва да се съгласите с политиката на ASUS, за да се регистрирате с акаунт на ASUS!</string>
+    <string name="asus_account_registe_pw_error_1">Паролата не може да бъде нула!</string>
+    <string name="asus_account_registe_pw_error_2">Потвърдената парола не може да бъде нула!</string>
+    <string name="asus_account_registe_pw_error_3">Паролата и паролата за потвърждение трябва да са еднакви</string>
+    <string name="asus_account_registe_pw_error_4">"Паролата трябва да бъде с дължина между 8 и 25 символа."</string>
+    <string name="asus_account_removeaccount_dialog_content">"Успешно интегриране на акаунт. Влезте отново с новия акаунт."</string>
+    <string name="asus_account_removeaccount_dialog_title">"Успешно интегриране на ASUS акаунт"</string>
+    <string name="asus_commonui_activity_chooser_view_see_all">Вижте всички</string>
+    <string name="asus_commonui_activity_resolver_use_always">"Винаги"</string>
+    <string name="asus_commonui_activity_resolver_use_once">"Само веднъж"</string>
+    <string name="asus_commonui_activitychooserview_choose_application">Изберете приложение</string>
+    <string name="asus_commonui_activitychooserview_choose_application_error">Грешка</string>
+    <string name="asus_commonui_cancel_label">"Отказ"</string>
+    <string name="asus_commonui_chooseActivity">"Избиране на действие"</string>
+    <string msgid="3968620852217927702" name="asus_commonui_day_picker_description">"Месечна таблица на дните"</string>
+    <string msgid="6908431551612331381" name="asus_commonui_deleted_key">"Изтрихте <ns1:g id="KEY">%1$s</ns1:g>"</string>
+    <string name="asus_commonui_done_label">"OK"</string>
+    <string msgid="7586639618712934060" name="asus_commonui_hour_picker_description">"Кръгов плъзгач за часовете"</string>
+    <string msgid="2674929164900463786" name="asus_commonui_item_is_selected">"Избрахте <ns1:g id="ITEM">%1$s</ns1:g>"</string>
+    <string msgid="6024811202872705251" name="asus_commonui_minute_picker_description">"Кръгов плъзгач за минутите"</string>
+    <string name="asus_commonui_noApplications">"Това действие не може да се изпълни от нито едно приложение."</string>
+    <string name="asus_commonui_no_url_handler">Няма намерено приложение за отваряне на URL адреса</string>
+    <string name="asus_commonui_privacy_policy">Политика на конфиденциалност</string>
+    <string name="asus_commonui_privacy_policy_url">http://www.asus.com/BG/Terms_of_Use_Notice_Privacy_Policy/Privacy_Policy</string>
+    <string msgid="3973338219107019769" name="asus_commonui_select_day">"Изберете месец и ден"</string>
+    <string msgid="7651068754188418859" name="asus_commonui_select_hours">"Избиране на часове"</string>
+    <string msgid="8327182090226828481" name="asus_commonui_select_minutes">"Избиране на минути"</string>
+    <string msgid="2603330600102539372" name="asus_commonui_select_year">"Изберете година"</string>
+    <string name="asus_commonui_shareactionprovider_share_with">Споделяне със</string>
+    <string name="asus_commonui_shareactionprovider_share_with_application">Споделяне със</string>
+    <string name="asus_commonui_terms_of_use_notice">Условия за ползване Известие</string>
+    <string name="asus_commonui_terms_of_use_notice_url">http://www.asus.com/BG/Terms_of_Use_Notice_Privacy_Policy/Official_Site/</string>
+    <string name="asus_commonui_whichApplication">"Изпълняване на действието чрез"</string>
+    <string name="asus_commonui_whichHomeApplication">"Избиране на приложение за начало"</string>
+    <string msgid="6963340404644587098" name="asus_commonui_year_picker_description">"Списък на годините"</string>
+    <string name="asus_feedback_and_help">Обратна връзка и помощ</string>
+    <string name="asus_registe_success_title">"Успешно регистриране на ASUS акаунт"</string>
+    <string name="asus_response_resultdata">"Този акаунт вече е регистриран."</string>
+    <string name="asusaccount_app_name">ASUS акаунт</string>
+    <string maxwidth="-1" name="attribution_notice">"Забележка"</string>
+    <string maxwidth="-1" name="attribution_notice_content">
+    \nТози продукт съдържа отворените кодове, изброени по-долу:
+\n\nuservoice-android-sdk, който е лицензиран съгласно Apache License Version 2.0. Можете да изтеглите лиценза от http://www.apache.org/licenses/LICENSE-2.0.html .
+        \n\nangular-filemanager, който е лицензиран съгласно MIT. Можете да изтеглите лиценза от https://github.com/joni2back/angular-filemanager/blob/master/LICENSE .
+        \n\nprogressbar, който е лицензиран съгласно MIT. Можете да изтеглите лиценза от https://github.com/kimmobrunfeldt/progressbar.js/blob/master/LICENSE .
+        \n\ntoastr, Copyright (c) 2012-2015 John Papa, Tim Ferrell, Hans Fjallemark\nС настоящото се предоставя копие на този софтуер и съпътстващата го документация ("Софтуерът") безплатно, за всяко лице, с цел работа със Софтуера, без ограничение, като включително и без ограничение се предоставят и правата за използване, копиране, модифициране, сливане, публикуване, разпространяване, преотстъпване, и/или продаване на копия на Софтуера, както и разрешаване на лица, на които е предоставен Софтуера, да извършват горепосочените действия, при спазване на следните условия:
+        Горното съобщение относно авторските права и настоящото разрешение важат за всички копия или части от Софтуера. СОФТУЕРЪТ СЕ ПРЕДОСТАВЯ "КАКТО Е", БЕЗ ГАРАНЦИЯ ОТ КАКЪВТО И ДА Е ВИД, ИЗРИЧНА ИЛИ КОСВЕНА, ВКЛЮЧИТЕЛНО, БЕЗ ОГРАНИЧЕНИЕ ДО ГАРАНЦИИ ЗА ПРОДАВАЕМОСТ, ГОДНОСТ ЗА ОПРЕДЕЛЕНА ЦЕЛ И НЕНАРУШАВАНЕ. В НИКАКЪВ СЛУЧАЙ АВТОРИТЕ ИЛИ ПРИТЕЖАТЕЛИТЕ НА АВТОРСКИТЕ ПРАВА НЕ ПОЕМАТ ОТГОВОРНОСТ ЗА ЕВЕНТУАЛЕН ИСК, ЩЕТИ ИЛИ ДРУГА ОТГОВОРНОСТ, БИЛА ТЯ ПО СИЛАТА НА ДОГОВОР, В СЛЕДСТВИЕ НА ЗАКОНОНАРУШЕНИЕ ИЛИ ДРУГО, ПРОИЗТИЧАЩА ОТ ИЛИ СВЪРЗАНА СЪС СОФТУЕРА, НЕГОВОТО ПОЛЗВАНЕ ИЛИ ДРУГА РАБОТА С НЕГО.
+    </string>
+    <string name="aucloud_account_only_one_alert">"Може да се добави само един облак за ASUS акаунт. Трябва да изтриете текущия акаунт преди да го замените с нов."</string>
+    <string description="string indicating how camera shooting feature is used" maxwidth="-1" name="auto">Авт.</string>
+    <string maxwidth="-1" name="aws_install_contnet">Няма инсталиран Webstorage. Искате ли да изтеглите и инсталирате от play store?</string>
+    <string maxwidth="" name="aws_install_title">Няма инсталиран Webstorage</string>
+    <string description="button text." maxwidth="-1" name="back_button_label">Назад</string>
+    <string name="baidu_alert_info">"С платформа Baidu, това приложение има само достъп до данни под "My Application Data\\asus\\"."</string>
+    <string name="baidu_alert_title">"Baidu съхранение в облак"</string>
+    <string name="baidu_storage_title">"百度云"</string>
+    <string name="baidupcs_account_only_one_alert">"Може да се добави само един Baidu за ASUS акаунт. Трябва да изтриете текущия акаунт преди да го замените с нов."</string>
+    <string name="btn_OK">OK</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="calculate_progress">"В процес..."</string>
+    <string description="Toast: can not open in hidden zone" maxwidth="-1" name="can_not_open_in_hidden_zone">"Невъзможно отваряне в скрития шкаф"</string>
+    <string description="Dialog Button: cancel for dialog" maxwidth="" name="cancel">Отказ</string>
+    <string name="cancle">Отказ</string>
+    <string name="category_apk">Приложения</string>
+    <string maxwidth="11" name="category_app1">"Приложения"</string>
+    <string name="category_compress">"Компресирано"</string>
+    <string maxwidth="11" name="category_compressed1">"Компресир."</string>
+    <string name="category_count">"%s"</string>
+    <string maxwidth="11" name="category_document1">"Документи"</string>
+    <string name="category_documents">"Документи"</string>
+    <string name="category_download">Изтегляне</string>
+    <string maxwidth="11" name="category_download1">"Изтегляния"</string>
+    <string name="category_favorite">Предпочитани</string>
+    <string maxwidth="11" name="category_favorite1">"Любими"</string>
+    <string name="category_game">"Игри"</string>
+    <string name="category_image">Изображение</string>
+    <string maxwidth="11" name="category_image1">"Изображения"</string>
+    <string maxwidth="11" name="category_large_file1">"Едри файл."</string>
+    <string name="category_music">Музика</string>
+    <string maxwidth="11" name="category_music1">"Музика"</string>
+    <string name="category_name_app_wallpaper">"Динамичен тапет"</string>
+    <string name="category_name_app_widgets">"Приспособления"</string>
+    <string name="category_name_books_and_reference">"Книги и справочници"</string>
+    <string name="category_name_business">"Бизнес"</string>
+    <string name="category_name_comics">"Комикси"</string>
+    <string name="category_name_communication">"Комуникация"</string>
+    <string name="category_name_education">"Образование"</string>
+    <string name="category_name_entertainment">"Развлечения"</string>
+    <string name="category_name_finance">"Финанси"</string>
+    <string name="category_name_game">"Игри"</string>
+    <string name="category_name_game_action">"Действие"</string>
+    <string name="category_name_game_adventure">"Приключенски"</string>
+    <string name="category_name_game_arcade">"Аркадни"</string>
+    <string name="category_name_game_board">"Настолни"</string>
+    <string name="category_name_game_card">"С карти"</string>
+    <string name="category_name_game_casino">"Казино"</string>
+    <string name="category_name_game_casual">"Неформални"</string>
+    <string name="category_name_game_educational">"Образователни"</string>
+    <string name="category_name_game_family">"Семейни"</string>
+    <string name="category_name_game_music">"Музика"</string>
+    <string name="category_name_game_puzzle">"Пъзели"</string>
+    <string name="category_name_game_racing">"Надбягване"</string>
+    <string name="category_name_game_role_playing">"Ролеви"</string>
+    <string name="category_name_game_simulation">"Симулационни"</string>
+    <string name="category_name_game_sports">"Спортни"</string>
+    <string name="category_name_game_strategy">"Стратегически"</string>
+    <string name="category_name_game_trivia">"Любопитни факти"</string>
+    <string name="category_name_game_word">"Словесни"</string>
+    <string name="category_name_health_and_fitness">"Здраве и фитнес"</string>
+    <string name="category_name_libraries_and_demo">"Библиотеки и демонстрации"</string>
+    <string name="category_name_lifestyle">"Начин на живот"</string>
+    <string name="category_name_media_and_video">"Мултимедия и видео"</string>
+    <string name="category_name_medical">"Медицина"</string>
+    <string name="category_name_music_and_audio">"Музика и аудио"</string>
+    <string name="category_name_news_and_magazines">"Новини и списания"</string>
+    <string name="category_name_personalization">"Персонализиране"</string>
+    <string name="category_name_photography">"Фотография"</string>
+    <string name="category_name_productivity">"Производителност"</string>
+    <string name="category_name_shopping">"Пазаруване"</string>
+    <string name="category_name_social">"Социални"</string>
+    <string name="category_name_sports">"Спорт"</string>
+    <string name="category_name_tools">"Инструменти"</string>
+    <string name="category_name_transportation">"Транспорт"</string>
+    <string name="category_name_travel_and_local">"Пътешествия и местно съдържание"</string>
+    <string name="category_name_weather">"Времето"</string>
+    <string name="category_others">"Други"</string>
+    <string maxwidth="11" name="category_recent1">"Скорошни"</string>
+    <string name="category_recent_files">"Наскоро добавени"</string>
+    <string name="category_sorting_summary">"Изберете елементите, които се виждат на панела с категориите"</string>
+    <string name="category_title_category">Категория</string>
+    <string name="category_title_local_storage">Локално съхранение</string>
+    <string name="category_title_tools">"Инструменти"</string>
+    <string name="category_toast_invalid_item_size_6_or_9">"Изберете 6 или 9 елемента"</string>
+    <string name="category_toast_invalid_item_size_9">"Изберете 9 елемента"</string>
+    <string name="category_toast_invalid_remove">"Този елемент не може да бъде премахнат"</string>
+    <string name="category_toast_max_item_size">"Изберете до 9 елемента"</string>
+    <string name="category_video">Видео</string>
+    <string maxwidth="11" name="category_video1">"Видеа"</string>
+    <string name="clear_account_info">Забрави всички акаунти</string>
+    <string description="Menu Option: clear all checkbox" maxwidth="" name="clear_all">Изчисти всички</string>
+    <string name="click_plus_to_add_favorite_folder">"Натиснете +, за да добавите папка с предпочитани"</string>
+    <string description="Toast: The size is over the limit and cannot be uploaded" maxwidth="-1" name="cloud_download_flie_limit_space">Размерът е над ограничението и не може да се качи</string>
+    <string description="Toast: The name of the file uploaded is not supported by cloud server" maxwidth="-1" name="cloud_flie_name_not_supported">"Операцията не може да се осъществи, тъй като името на файла не се поддържа от сървъра на облака."</string>
+    <string description="home cloud get available devices fail" name="cloud_homebox_get_devices_fail">Неуспешно сканиране за налични HomeCloud устройства</string>
+    <string description="home cloud has no available devices" name="cloud_homebox_no_available_devices">Няма достъпни HomeCloud устройства</string>
+    <string description="home cloud device is sleep" name="cloud_homebox_status__info_Sleep">Сън</string>
+    <string description="home cloud device is offline" name="cloud_homebox_status__info_offline">"Офлайн"</string>
+    <string description="home cloud device is online" name="cloud_homebox_status__info_online">"Онлайн"</string>
+    <string description="home cloud device is offline" name="cloud_homebox_status_offline">"Устройството е офлайн"</string>
+    <string description="diaglog cloud background paste" name="cloud_paste_backgroud">"Фон"</string>
+    <string description="diaglog cloud  now is copy files" name="cloud_paste_copying">"Копиране..."</string>
+    <string description="diaglog cloud  current" name="cloud_paste_current">"Настоящи"</string>
+    <string description="diaglog cloud  now is delete source files" name="cloud_paste_deleting">"Изтриване на сорс файлове..."</string>
+    <string description="diaglog cloud  paste" name="cloud_paste_downloading">"Изтегляне на файлове"</string>
+    <string description="diaglog cloud  total" name="cloud_paste_total">"Общо"</string>
+    <string description="diaglog cloud  paste uploading" name="cloud_paste_uploading">"Качване на файлове"</string>
+    <string description="Toast: cloud preview action" maxwidth="-1" name="cloud_preview_action_fail">"Неуспешно предваритело показване на файлове от облака."</string>
+    <string description="Toast: cloud share action" maxwidth="-1" name="cloud_share_action_fail">"Неуспешно споделяне на файлове от облака."</string>
+    <string description=">Do you want to remove" maxwidth="-1" name="cloud_storage_remove_hint">"Искате ли да излезете от акаунт \"%s\"?"</string>
+    <string description="Dialog title: Remove cloud storage" maxwidth="-1" name="cloud_storage_remove_hint_title">"Излизане"</string>
+    <string description=">Do you want to signin" maxwidth="-1" name="cloud_storage_sign_in">Свързване чрез следния акаунт:</string>
+    <string description="Dialog title: Signin cloud storage" maxwidth="-1" name="cloud_storage_sign_in_title">Свържи %s</string>
+    <string description=">Do you want to signout" maxwidth="-1" name="cloud_storage_sign_out">Наистина ли искате да излезете?</string>
+    <string description="Dialog title: Signout cloud storage" maxwidth="-1" name="cloud_storage_sign_out_title">Прекъсване на връзката</string>
+    <string description="Add more cloud storage" maxwidth="-1" name="cloud_storage_title">"Добавяне на повече място за съхранение на облака"</string>
+    <string description="diaglog cloud  token is invalidate" name="cloud_token_invalidate">"Маркерът е невалидизиран, влезте отново!"</string>
+    <string description="Toast: The size is over the limit and cannot be uploaded" maxwidth="-1" name="cloud_upload_flie_limit_space">Размерът е над ограничението и не може да се качи</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Активиране"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> няма да работи, освен ако не активирате услугите за Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Активиране на услугите за Google Play"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Инсталиране"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> няма да се изпълнява, тъй като услугите за Google Play не са инсталирани на устройството ви."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Изтегляне на услугите за Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Грешка в услугите за Google Play"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> има проблеми с услугите за Google Play. Моля, опитайте отново."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> няма да се изпълнява, тъй като услугите за Google Play не се поддържат от устройството ви."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Актуализиране"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> няма да се изпълнява, освен ако не актуализирате услугите за Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Актуализиране на услугите за Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> няма да се изпълнява без услугите за Google Play. Понастоящем те се актуализират."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Необходима е нова версия на услугите за Google Play. Скоро тя ще се актуализира автоматично."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Отваряне на телефона"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Вход"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Вход с Google"</string>
+    <string name="confirm">"Потвърждаване"</string>
+    <string maxwidth="-1" name="confirm_ok">OK</string>
+    <string description="confirm password textview title" name="confirm_password">Потвърд. парола</string>
+    <string description="ask user to enter password again to confirm" name="confirm_password_edit">Въведете паролата си отново</string>
+    <string description="content" maxwidth="-1" name="content">Използването на този софтуер подлежи на правилата и условията в уеб сайта на ASUS: \nhttp://www.asus.com</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="copy">Копиране</string>
+    <string description="Toast: copy ready" maxwidth="-1" name="copy_ready_more">Избраните файлове са копиране и готови за поставяне.</string>
+    <string description="Toast: copy ready. %s is variable string." maxwidth="-1" name="copy_ready_one">"\"%s\" е копиран и готов за поставяне."</string>
+    <string name="copy_to">Копирай в/във</string>
+    <string description="country region textview title" name="country_region">Държава регион</string>
+    <string description="ack user to select on country" name="country_region_select">Изберете своя регион</string>
+    <string name="create_shortcut">"Създаване на пряк път"</string>
+    <string name="create_shortcut_dialog">"Създаване на пряк път на Стартираща програма"</string>
+    <string name="create_shortcut_toast">"Създаване на пряк път на Стартираща програма завършено"</string>
+    <string name="cta_agree">"Разрешаване"</string>
+    <string name="cta_check_title">"Запомняне"</string>
+    <string name="cta_dialog_content"><b>Файловият мениджър</b> прави опит да използва мрежата, може да породи допълнителни начисления, в зависимост от вашия абонамент.</string>
+    <string name="cta_dialog_title">"Използване на мрежа"</string>
+    <string name="cta_disagree">"Отказ"</string>
+    <string name="cta_show_menu">"Разрешение за мрежа"</string>
+    <string name="current_folder">"Текуща папка"</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="cut">Изрязване</string>
+    <string description="Toast: cut ready" maxwidth="-1" name="cut_ready_more">Избраните файлове са изрязани и готови за поставяне.</string>
+    <string description="Toast: cut ready. %s is variable string." maxwidth="-1" name="cut_ready_one">"\"%s\" е изрязан и готов за поставяне."</string>
+    <string description="button text for sort file by date" maxwidth="-1" name="date">Дата</string>
+    <string description="button text for sort file by date ascending" maxwidth="-1" name="date_ascending">Дата (възходящ ред)</string>
+    <string description="button text for sort file by date descending" maxwidth="-1" name="date_descending">Дата (низходящ ред)</string>
+    <string msgid="7984755014526510295" name="day">"1 ден"</string>
+    <string msgid="2070509222727852210" name="days">"<ns1:g id="DAYS">%s</ns1:g> дни"</string>
+    <string maxwidth="-1" name="dbx_install_contnet">Няма инсталиран Dropbox. Искате ли да го изтеглите и инсталирате от play store?</string>
+    <string maxwidth="" name="dbx_install_title">Няма инсталиран Dropbox</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="delete">Изтриване</string>
+    <string description="Dialog Title: delete dialog title" maxwidth="" name="delete_dialog">Изтриване на файла</string>
+    <string description="Toast: delete fails" maxwidth="-1" name="delete_fail">Неуспешно изтриване на файл.</string>
+    <string description="Dialog Content: text in dialog. %d is variable number." maxwidth="" name="delete_more_files">Желаете ли да изтриете %d елемента?</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="delete_one_directory">Желаете ли да изтриете директорията?</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="delete_one_files">Желаете ли да изтриете файла?</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="delete_progress">Изтриване...</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="delete_size">"Размери: "</string>
+    <string description="Toast: delete success" maxwidth="-1" name="delete_success_more">Избраните файлове са изтрити.</string>
+    <string description="Toast: delete success. %s is variable string." maxwidth="-1" name="delete_success_one">"\"%s\" е изтрит."</string>
+    <string description="cutstom action bar view title for deselect all checkbox" maxwidth="" name="deselect_all">Отказване на всички</string>
+    <string name="device_root_path">root</string>
+    <string description="compress dialog title" maxwidth="-1" name="dialog_create_zip_title">Въвеждане на архивно име</string>
+    <string description="extract zip file dialog title. %s is a dynamic string. It is zip file name." maxwidth="-1" name="dialog_extract_zip_title">Извличане на %s в/във:</string>
+    <string name="dialog_load_stream_url_info">"Получаване на необходима информация от сървър"</string>
+    <string name="dialog_msg_market_login_account">"Влезте в своя Google акаунт, за да изтеглите приложението"</string>
+    <string description="text encoding dialog title" maxwidth="-1" name="dialog_text_encoding_title">Кодиране на текст</string>
+    <string name="dialog_title_market_login_account">"Добавяне на акаунт"</string>
+    <string description="show zip info dialog title. %s is a dynamic string. Is is a zip file name" maxwidth="-1" name="dialog_unzip_preview_title">Извличане на %s</string>
+    <string description="Dialog Title: Directory information dialog title" maxwidth="-1" name="dir_info_dialog_title">Информация за директорията</string>
+    <string name="display">"Показване като"</string>
+    <string name="display_hint">"Полето за Моят Компютър може да е празно"</string>
+    <string name="dm_openfile">"Отваряне на файл"</string>
+    <string name="do_not_show_again">"Не показвай отново"</string>
+    <string name="domain">"Домейн:"</string>
+    <string name="domain_hint">"Може да не се попълва"</string>
+    <string name="download_fail">неуспешно сваляне!</string>
+    <string name="drag_items_one">Плъзгане на елемент</string>
+    <string name="drag_items_other">Плъзгане на елементи</string>
+    <string name="drawer_close">"Затваряне на шкаф за навигиране"</string>
+    <string name="drawer_home">Начало</string>
+    <string name="drawer_open">"Отваряне на шкаф за навигиране"</string>
+    <string description="Hint: the operation is incorrect" maxwidth="-1" name="drop_incorrect_hint">Неправилна операция</string>
+    <string description="Hint: the target folder which you want to do something" maxwidth="-1" name="drop_target_to">Цел:</string>
+    <string name="dumdownloadfrom">Сваляне от</string>
+    <string name="dumuploadto">Качи в</string>
+    <string name="duplicate_files">"Дублирани файлове"</string>
+    <string name="duplicate_files_content_hint">"Намерете дублираните файлове и ги изтрийте с позволение."</string>
+    <string name="edit_toast_name_too_long">Достигнат е максималният брой символи</string>
+    <string name="edit_toast_special_char">Не може да се включи специален знак</string>
+    <string name="editcategory_hint">"Натиснете бутона за редактиране, за да персонализирате Панел с категории."</string>
+    <string description="describe the empty folder" maxwidth="-1" name="empty_folder_title">"Няма файлове"</string>
+    <string description="Dialog Button: click to open the encoding list dialog" maxwidth="-1" name="encode">Кодиране на текст</string>
+    <string description="ask user to enter password" maxwidth="-1" name="enter_password">"Въведете парола"</string>
+    <string name="eula_content_description">
+        \nНастоящото лицензионно споразумение с крайния потребител (“ЛСКП”) представлява валидно и обвързващо споразумение между ASUSTeK Computer Inc. (“ASUS“) и Вас като потребител за целите на софтуера на ASUS (“Софтуера”), както е дефиниран по-долу. Като инсталирате и продължите да използвате софтуера, ВИЕ ИЗРИЧНО ЗАЯВЯВАТЕ, ЧЕ СТЕ ПРОЧЕЛИ, РАЗБИРАТЕ И ПРИЕМАТЕ УСЛОВИЯТА НА НАСТОЯЩОТО ЛСКП И ВСИЧКИ НЕГОВИ НОВИ ВЕРСИИ В БЪДЕЩЕ. 
+\n\n1.СОФТУЕР означава софтуера на ASUS, предоставен в или със съответния продукт на ASUS, което включва, но не се ограничава до всякакви бъдещи поправки на програмиране, актуализации, ъпгрейди и модифицирани версии.
+\nСофтуерът може да бъде придружен от друг софтуер, създаден от ASUS или трети страни, който е лицензиран по един или повече от лицензите за Свободен софтуер с отворен код, изброени на www.opensource.org/licenses. Подобен Свободен софтуер с отворен код Ви се предоставя единствено по условията на съответното лицензионно споразумение или известие за авторски права, които го придружават, или файла с лицензи за ССОК, придружаващ Софтуера. Условията на настоящото ЛСКП НЕ важат за подобен Свободен софтуер с отворен код.
+\n\n2.ЛИЦЕНЗ В съответствие с условията на настоящото ЛСКП, с настоящото ASUS Ви дава ограничен, личен, некомерсиален, неексклузивен лиценз да използвате Софтуера, само както е вграден в продуктите на ASUS. Можете да направите едно копие на Софтуера във форма за разчитане от машини само с цел създаване на резервно копие; резервното копие трябва да включва всички известия за авторски права или друга собственост, които се съдържат и в оригинала. Този лиценз не може да се отдава и не може да се прехвърля, освен на лице, на което прехвърлите собствеността над цялостните продукти ASUS, които съдържат Софтуера, и то само ако прехвърлите перманентно всички права по настоящото ЛСКП и не запазите никакви пълни или частични копия на Софтуера, а получателят се съгласи с условията на настоящото ЛСКП.
+\n\n3.ОГРАНИЧЕНИЕ ЗА ОБРАТНО ИНЖЕНЕРСТВО Вие няма да извършвате обратно инженерство, декомпилиране, дешифриране или разглобяване на Софтуера, нито ще позволявате или предизвиквате извършване на тези процеси, освен до степента, при която директно приложими законови разпоредби забраняват прилагане на настоящото условие.
+\n\n4.ПОВЕРИТЕЛНОСТ Ваше задължение е да защитавате, да не разкривате и да не причинявате разкриване на поверителната информация в Софтуера в цялост или в частност, включително, но не само търговски тайни, материали с авторски права под каквато и да било форма и на каквито и да било трети страни.
+\n\n5.ПРАВА на интелектуална собственост (“Права на ИС”) Вие потвърждавате и приемате, че всички Права на ИС, собственост и интереси над или възникващи от Софтуера, са и ще останат изключителна собственост на ASUS или неговия лицензополучател. Нищо в настоящото ЛСКП няма за цел да прехвърли подобни Права на ИС на Вас. Всякакво неупълномощено ползване на Правата на ИС е нарушение на настоящото ЛСКП, както и нарушение на законите за интелектуална собственост, включително, но не само закони за авторско право и за търговски марки.
+\nКато изпращате каквито и да било материали, идеи, концепции, техники или информация, освен лични данни, до ASUS през Софтуера (“Обратна връзка”), Вие потвърждавате и приемате, че: (i) Вашата обратна връзка няма да съдържа поверителна информация или информация, защитена от права за собственост; (ii) ASUS няма никакво задължение за поверителност, пряко или косвено, по отношение на обратната връзка; (iii)ASUS има право да използва или разкрива, изцяло по свое собствено усмотрение, обратната връзка за всякаква цел, по всякакъв начин и по целия свят; (iv) Вашата обратна връзка става собственост на ASUS, без никакво задължение от страна на ASUS към Вас; и (v) Вие нямате право на никаква компенсация или възнаграждение под каквато и да било форма.
+\n\n6.СРОК И ПРЕКРАТЯВАНЕ Настоящото ЛСКП ще влезе в сила на датата, на която Вие инсталирате Софтуера. Можете да прекратите този Лиценз по всяко време, като прекратите всякакво ползване на Софтуера и премахнете Софтуера от продукта на ASUS. Вашето право ще бъде прекратено без предизвестие от страна на ASUS, ако сметнем, че не отговаряте на което и да било условие от настоящото ЛСКП.
+\n\n7.Изявление за гаранция и ограничаване на отговорност ВИЕ ПОТВЪРЖДАВАТЕ, ЧЕ СОФТУЕРЪТ Е ПРЕДОСТАВЕН "ТАКЪВ, КАКЪВТО Е". ЦЕЛИЯТ РИСК ВЪВ ВРЪЗКА С КАЧЕСТВОТО И ЕФЕКТИВНОСТТА НА ТОЗИ СОФТУЕР СЕ ПОЕМА ОТ ВАС, ВКЛЮЧИТЕЛНО, НО НЕ САМО СВЪРЗАНИТЕ РАЗХОДИ ЗА ВСЯКАКВО НЕОБХОДИМО ОБСЛУЖВАНЕ И ПОПРАВКА. ДО СТЕПЕНТА, ПОЗВОЛЕНА ОТ ЗАКОНА, ASUS НЕ ДАВА НИКАКВИ ГАРАНЦИИ, ПРЕКИ ИЛИ КОСВЕНИ, ПО ОТНОШЕНИЕ НА ТОЗИ СОФТУЕР ИЛИ КАКВАТО И ДА БИЛО ДРУГА ИНФОРМАЦИЯ ИЛИ ДОКУМЕНТАЦИЯ, ПРЕДОСТАВЕНА ПО СИЛАТА НА НАСТОЯЩОТО ЛСКП ИЛИ ЗА ТОЗИ СОФТУЕР, ВКЛЮЧИТЕЛНО, НО НЕ САМО ГАРАНЦИЯ ЗА ТЪРГОВСКА ПРИГОДНОСТ, ПРИГОДНОСТ ЗА КАКВАТО И ДА БИЛО ЦЕЛ ИЛИ ПРОТИВ НАРУШЕНИЕ НА ПРАВА, НИТО ПЪК ГАРАНЦИЯ, ВЪЗНИКВАЩА ОТ ИЗПОЛЗВАНЕ ИЛИ ОТ ПРОИЗВОДИТЕЛНОСТ. ASUS СЪЩО ТАКА НЕ ДАВА НИКАКВА ГАРАНЦИЯ ЗА РЕЗУЛТАТИТЕ, КОИТО МОГАТ ДА СЕ ПОСТИГНАТ ЧРЕЗ ИЗПОЛЗВАНЕ НА СОФТУЕРА, НИТО ЗА ТОЧНОСТТА ИЛИ НАДЕЖДНОСТТА НА КАКВАТО И ДА БИЛО ИНФОРМАЦИЯ, ПРИДОБИТА ЧРЕЗ ТОЗИ СОФТУЕР. НЯКОИ ЮРИСДИКЦИИ НЕ ПОЗВОЛЯВАТ ИЗКЛЮЧВАНЕТО НА ОПРЕДЕЛЕНИ ГАРАНЦИИ ИЛИ ОГРАНИЧАВАНЕТО ИЛИ ИЗКЛЮЧВАНЕТО НА ОТГОВОРНОСТ ЗА ОПРЕДЕЛЕНИ ЩЕТИ. В СЪОТВЕТСТВИЕ С ТОВА НЯКОИ ОТ ПОСОЧЕНИТЕ ОГРАНИЧЕНИЯ НА ОТГОВОРНОСТТА МОЖЕ ДА НЕ СА ПРИЛОЖИМИ ЗА ВАС.
+\nПЪЛНИЯТ РИСК, ВЪЗНИКВАЩ ОТ ИЗПОЛЗВАНЕТО И/ИЛИ ЕФЕКТИВНОСТТА НА ТОЗИ СОФТУЕР, СЕ ПОЕМА ОТ ВАС. В НИКАКЪВ СЛУЧАЙ ASUS, НЕГОВИТЕ ЛИЦЕНЗОПОЛУЧАТЕЛИ ИЛИ ТЕХНИТЕ СЪОТВЕТНИ ПРЕДСТАВИТЕЛИ, ДИРЕКТОРИ, СЛУЖИТЕЛИ, АГЕНТИ ИЛИ ПАРТНЬОРИ НЯМА ДА НОСЯТ ОТГОВОРНОСТ ЗА ВСЯКАКВИ ПРЕДВИДИМИ, НЕПРЕДВИДИМИ, ПРЕКИ, КОСВЕНИ, СПЕЦИАЛНИ, НАКАЗАТЕЛНИ ИЛИ ДРУГИ ВРЕДИ ОТ КАКЪВТО И ДА БИЛО ВИД (ВКЛЮЧИТЕЛНО, НО НЕ САМО ВРЕДИ ПОРАДИ ПРОПУСНАТИ ПОЛЗИ ИЛИ ПЕЧАЛБА, ПРЕКЪСВАНЕ ЗАГУБА НА ИНФОРМАЦИЯ ИЛИ ДРУГИ ИМУЩЕСТВЕНИ ЗАГУБИ), ВЪЗНИКНАЛИ ОТ ИЛИ ВЪВ ВРЪЗКА С НАСТОЯЩОТО ЛСКП, ИЗПОЛЗВАНЕТО ИЛИ НЕВЪЗМОЖНОСТТА ЗА ИЗПОЛЗВАНЕ НА СОФТУЕРА ИЛИ НЯКОЯ ЧАСТ ОТ НЕГО, ДОРИ АКО ASUS Е БИЛА ПРЕДУПРЕДЕНА ЗА ВЪЗМОЖНОСТТА ОТ ПОДОБНИ ВРЕДИ. НЯКОИ ЮРИСДИКЦИИ НЕ ПОЗВОЛЯВАТ ИЗКЛЮЧВАНЕТО НА ОПРЕДЕЛЕНИ ГАРАНЦИИ ИЛИ ОГРАНИЧАВАНЕТО ИЛИ ИЗКЛЮЧВАНЕТО НА ОТГОВОРНОСТ ЗА ОПРЕДЕЛЕНИ ЩЕТИ. В СЪОТВЕТСТВИЕ С ТОВА НЯКОИ ОТ ПОСОЧЕНИТЕ ОГРАНИЧЕНИЯ НА ОТГОВОРНОСТТА МОЖЕ ДА НЕ СА ПРИЛОЖИМИ ЗА ВАС.
+\n\n8.Предпазване ВИЕ се съгласявате да защитавате, компенсирате и предпазвате от вреди ASUS и нейните филиали, сервизни доставчици, синдици, дистрибутори, лицензополучатели, представители, директори и служители, от всякакви загуби, вреди, задължения и разходи, възникнали във връзка с какъвто и да било иск или заявка (включително съдебни разходи в разумни размери), поради или във връзка с ВАШЕ нарушение на настоящото ЛСКП или приложими закони или разпоредби или права на трети страни.
+    </string>
+    <string name="eula_content_title">"Лицензионно споразумение с крайния потребител"</string>
+    <string description="Do not translate ASUS" maxwidth="" name="eula_description">"Правно споразумение между приложения на ASUS и крайните потребители"</string>
+    <string maxwidth="" name="eula_title">"Лицензионно споразумение с крайния потребител"</string>
+    <string name="example">"Пример:"</string>
+    <string description="Dialog Button: extract file for dialog" maxwidth="-1" name="extract">Извличане</string>
+    <string name="facebook_app_invite">"Facebook контакти"</string>
+    <string name="fb_request_error_permissions">"Приложението няма разрешение да направи това. Опитайте да влезете в приложението отново."</string>
+    <string name="fileList_Nofiles">Няма файлове</string>
+    <string description="Dialog Title: File information dialog title" maxwidth="-1" name="file_info_dialog_title">Информация за файл</string>
+    <string description="Application Name shown on title" maxwidth="" name="file_manager">"Файлов мениджър"</string>
+    <string description="string indicating camera flash is not used" maxwidth="-1" name="flash_off">Без светкавица</string>
+    <string description="string indicating camera flash is fired" maxwidth="-1" name="flash_on">Със светкавица</string>
+    <string description="click to retrieve password" maxwidth="-1" name="forget_password">"<u>Забравили сте паролата си?</u>"</string>
+    <string name="fragment_analyzer_allfiles_used_hint">"Използвано:"</string>
+    <string name="fragment_analyzer_chart_free_hint">"Свободно:"</string>
+    <string name="fragment_analyzer_chart_total_hint">"Общо:"</string>
+    <string name="fragment_analyzer_chart_used_hint">"ИЗПОЛЗВАНО"</string>
+    <string name="fragment_analyzer_more_hint">"още"</string>
+    <string name="google_app_invite">"Google контакти"</string>
+    <string name="group_title_installed">"Инсталирани"</string>
+    <string name="group_title_not_installed">"Неинсталирани"</string>
+    <string name="group_title_others">"Други"</string>
+    <string name="group_title_recommended">"Препоръчвани"</string>
+    <string name="hidden_zone_change_password">"Промяна на парола"</string>
+    <string name="hidden_zone_confirm_password">"Потвърждаване на PIN код"</string>
+    <string name="hidden_zone_enter_password">"Въведете своя PIN код"</string>
+    <string name="hidden_zone_fingerprint_to_unlock">"Пръстов отпечатък за отключване"</string>
+    <string name="hidden_zone_forget_password">"Забрави парола"</string>
+    <string name="hidden_zone_introduction_description">"Скриване на вашите лични файлове в скрития шкаф. За отваряне на скрития шкаф е нужен PIN код."</string>
+    <string name="hidden_zone_password_mismatch">"PIN кодът не съвпада"</string>
+    <string name="hidden_zone_set_password_success">"Паролата е зададена успешно"</string>
+    <string name="hidden_zone_setup_account">"Настройка на акаунт"</string>
+    <string name="hidden_zone_setup_password">"Въведете 4-цифрен PIN код"</string>
+    <string name="hidden_zone_wrong_password">"Грешен PIN код"</string>
+    <string description="Can’t connect to HomeCloud." maxwidth="-1" name="homecloud_access_error">Неуспешно свързване към HomeCloud. Уверете се, че HomeCloud услугата е онлайн.</string>
+    <string name="homecloud_notice_1">ASUS HomeCloud е част от софтуера на сървъра, работеща в система Windows. Тя е оформена като библиотека с дигитално съдържание за дома и сега осигурява услуги за облачно съхраняване и мултимедиен поток, като в бъдеще ще се добавят и други услуги.</string>
+    <string name="homecloud_notice_2">Можете да я свалите и да опитате сега. </string>
+    <string name="homecloud_notice_3">http://home.asuscloud.com/</string>
+    <string name="homecloud_toast_udp_unsupported">Ограничена мрежа - свържете се с мрежовия администратор или преминете на друга мрежа.</string>
+    <string msgid="2546819039651509323" name="hour">"1 час"</string>
+    <string msgid="2071487018566991613" name="hours">"<ns1:g id="HOURS">%s</ns1:g> часа"</string>
+    <string maxwidth="" name="httpserver_acquire_permission_message">"HTTP файлов сървър ще бъде затворен и операциите могат да се прекъснати. Продължи?"</string>
+    <string maxwidth="" name="httpserver_connectwifiname">"Свързана Wi-Fi точка за достъп:"</string>
+    <string maxwidth="" name="httpserver_description">"Стартирайте услугата, за да свържете мобилното си устройство към компютъра."</string>
+    <string maxwidth="" name="httpserver_instruction">"Въведете този адрес в браузъра на Вашия компютър:"</string>
+    <string maxwidth="" name="httpserver_need_saf">"Ако искате да управлявате външната си памет от компютър, трябва да да дадете разрешение."</string>
+    <string maxwidth="" name="httpserver_no_network">"Свържете устройството си към същата Wi-Fi мрежа"</string>
+    <string maxwidth="" name="httpserver_no_permission_message">"Няма да можете да записвате във външната памет без правилно разрешение. Продължи?"</string>
+    <string maxwidth="" name="httpserver_no_permission_title">"Стартирайте безжично прехвърляне на файлове"</string>
+    <string maxwidth="" name="httpserver_start">"Старт"</string>
+    <string maxwidth="" name="httpserver_stop">"Стоп"</string>
+    <string maxwidth="" name="httpserver_title">"Безжично прехвърляне на файлове към компютъра"</string>
+    <string description="Context Menu: options of context menu" maxwidth="-1" name="info">Информация</string>
+    <string description="file info textview context" maxwidth="-1" name="info_aperture">"Бленда: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_datetime">"Дата на заснемане: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_exposure_time">"Време за експозиция: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_file_num">"Файлове: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_flash">"Светкавица: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_focal_length">"Фокусно разстояние: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_image_height">"Височина: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_image_width">"Широчина"</string>
+    <string description="file info textview context" maxwidth="-1" name="info_image_x">" x "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_iso">"ISO: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_location">"Местоположение: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_maker">"Производител "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_model">"Модел: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_modified">"Дата на промяна: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_name">"Име: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_orientation">"Ориентация: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_path">"Пътека: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_permission">"Разрешение: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_type">"Тип: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_white_balance">"Баланс на бялото: "</string>
+    <string description="Do not translate ASUS" maxwidth="" name="inspire_asus_description">"Съберете данни за употребата за ASUS с цел подобряване на продуктите и изживяването на потребителите"</string>
+    <string name="inspire_asus_title">"Вдъхновете ASUS"</string>
+    <string name="install">"Инсталиране"</string>
+    <string description="storage label" maxwidth="-1" name="internal_storage_title">Вътрешна памет</string>
+    <string description="Toast: the account is invalid" maxwidth="-1" name="invalid_account">"Невалиден акаунт"</string>
+    <string description="Invalid directory path" maxwidth="-1" name="invalid_directory_path">Невалиден път до директория</string>
+    <string name="invalid_server_id">"Невалиден ID на сървър"</string>
+    <string name="invalid_xml">"Невалиден xml"</string>
+    <string name="inviteContentTitle">%1$s Ви кани да свалите и инсталирате ASUS Файлов мениджър.</string>
+    <string name="inviteContent_p1">ASUS Файлов мениджър е идеалното средство за управление на файловете на Вашето смарт устройство. Това приложение за управление на файлове Ви позволява да работите и да подреждате различните файлове, съхранявани в паметта на телефона Ви, microSD карта, локална мрежа, дори в Облака.</string>
+    <string name="inviteContent_p2">Управлявайте файловете си ефикасно и лесно с ASUS Файлов мениджър! ASUS Файлов мениджър Ви помага да работите с всичките си файлове, независимо дали се съхраняват в паметта на устройството Ви, microSD карта, локална мрежа, акаунти за съхранение в облак като нашия собствен ASUS HomeCloud и други облачни услуги като Dropbox, Google Drive или Microsoft OneDrive.</string>
+    <string name="inviteContent_p3">Забавлявам се с ASUS Файлов мениджър. Изпробвай го СЕГА! :D</string>
+    <string description="sticker detail page button name" maxwidth="-1" name="invite_friends">"Покани приятел"</string>
+    <string name="item">елемент</string>
+    <string name="items">елемента</string>
+    <string name="keep">"Запази"</string>
+    <string name="kk_sd_permission_warning">Заради ограниченията на Android, Android 4.4 не разрешава на приложения на трети страни да променят външните SD карти.</string>
+    <string name="large_files_content_hint">"Намира големи файлове и ги изтрива с ваше позволение."</string>
+    <string description="linked file is missing" maxwidth="-1" name="linked_file_missing">"Свързаният файл липсва"</string>
+    <string description="text for progress bar" maxwidth="-1" name="loading">Зареждане\u2026</string>
+    <string name="local">Местни</string>
+    <string description="button text for sort file by date" maxwidth="-1" name="location">Местоположение</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="logging_cloud_storage">"Влизане..."</string>
+    <string name="login_account_miss">"Приложението Facebook не успя да се регистрира в Android Account Manager. Опитайте се да излезете, а после чрез приложението Facebook влезте отново."</string>
+    <string name="login_again_later">"Сървърът не е достъпен в момента. Опитайте отново по-късно."</string>
+    <string description="dialog title, key in the asus ID and PW to Login account" maxwidth="-1" name="login_asus_id">"Влизане в ASUS акаунт"</string>
+    <string description="Toast: login account fail" name="login_fail" width="-1">"Неуспешно влизане"</string>
+    <string description="login account name" maxwidth="-1" name="login_id">"Име на акаунт/WebStorage ID"</string>
+    <string description="logout account" name="logout_account" width="-1">"Излизане"</string>
+    <string name="low_storage_tutorial_description">"Натиснете и задръжте, за да изберете файловете си, след което изберете \"Премести в\" Google Диск"</string>
+    <string name="low_storage_tutorial_title">Премести файлове в Google Диск</string>
+    <string name="m_permission_dialog_message">"Докоснете [Настройки], за да включите разрешението за [%2$s] в [Информация за приложения] > [Разрешения], след което рестартирайте %1$s."</string>
+    <string name="m_permission_dialog_positive_button">"Настройки"</string>
+    <string name="m_permission_setting_subtitle_files">"%1$s ще има нужда от разрешение за %2$s, за да има достъп до файловете на вашето устройство."</string>
+    <string name="m_permission_setting_title_cloud_storage">"Няма достъп до пространство за съхранение в облака"</string>
+    <string name="m_permission_setting_title_files">"Няма достъп до файлове"</string>
+    <string name="m_permission_setting_turn_on">"Включване"</string>
+    <string description="string indicating how camera shooting feature is used" maxwidth="-1" name="manual">Ръчно</string>
+    <string name="market_app_error">"Има грешка в търговското приложение, инсталирано на Вашето устройство!"</string>
+    <string description="ask user to enter email address as account name" maxwidth="-1" name="member_id_hint">"Въведете имейл адрес"</string>
+    <string description="The title of a menu for General Preferences.Pressing the menu item lets user to view and edit his general settings" maxwidth="30" name="menu_general_preferences">"Общи настройки"</string>
+    <string description="settings menu tutorial" maxwidth="-1" name="menu_tutorial">Въвеждащ курс</string>
+    <string msgid="2486157997434653710" name="minute">"1 минута"</string>
+    <string msgid="6115838729146292526" name="minutes">"<ns1:g id="MINUTES">%s</ns1:g> минути"</string>
+    <string description="Hint: move the items" maxwidth="-1" name="move">Преместване</string>
+    <string name="move_or_delete_msg">"Ще изтриете ли временно елементите в кошчето?\n(Отметнете полето по-долу, за да изтриете елементите перманентно.)"</string>
+    <string name="move_to">Премести в/във</string>
+    <string description="Toast: move to recycle bin fails" maxwidth="-1" name="move_to_hidden_zone_fail">"Неуспешно преместване в скрит шкаф"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="move_to_hidden_zone_progress">"Преместване в скрит шкаф..."</string>
+    <string description="Toast: move to recycle bin success" maxwidth="-1" name="move_to_hidden_zone_success_more">"Избраните файлове бяха преместени в скрит шкаф."</string>
+    <string description="Toast: move to recycle bin success. %s is variable string." maxwidth="-1" name="move_to_hidden_zone_success_one">"Файл \"%s\" е преместен в скрит шкаф."</string>
+    <string description="Toast: move to recycle bin fails" maxwidth="-1" name="move_to_trash_fail">"Неуспешно преместване в кошчето"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="move_to_trash_progress">"Преместване в кошчето..."</string>
+    <string description="Toast: move to recycle bin success" maxwidth="-1" name="move_to_trash_success_more">"Избраните файлове бяха преместени в кошчето"</string>
+    <string description="Toast: move to recycle bin success. %s is variable string." maxwidth="-1" name="move_to_trash_success_one">"\"%s\" беше преместено в кошчето"</string>
+    <string name="msg_too_big_to_recycle">"Елементите са твърде големи за рециклиране.\nИскате ли да ги изтриете перманентно?"</string>
+    <string name="multi_drm_file_forbidden_operation">Това действие е забранено защото някои от избраните файлове са с DRM защита.</string>
+    <string description="shortcut label" maxwidth="-1" name="my_camera_title">Камера</string>
+    <string description="shortcut label" maxwidth="-1" name="my_download_title">Изтегляне</string>
+    <string description="shortcut label" maxwidth="-1" name="my_music_title">Музика</string>
+    <string description="shortcut label" maxwidth="-1" name="my_picture_title">Картина</string>
+    <string description="storage label" maxwidth="-1" name="my_storage_title">Моята памет</string>
+    <string description="button text for sort file by name" maxwidth="-1" name="name">Име</string>
+    <string description="button text for sort file by name ascending" maxwidth="-1" name="name_ascending">"Име (я-а)"</string>
+    <string description="button text for sort file by name descending" maxwidth="-1" name="name_descending">"Име (а-я)"</string>
+    <string name="network_cta_hint">"Моля, приемете, за да се свържете към мрежата "</string>
+    <string name="network_invalid">"Невалидна връзка с мрежата."</string>
+    <string name="network_invalid_info">"Номерът е невалиден. Моля, инсталирайте програмата отново."</string>
+    <string name="network_not_available">"Неуспешно свързване с мрежата"</string>
+    <string description="Can’t connect to networkpalce" maxwidth="-1" name="networkplace_access_error">"Неуспешно свързване. Уверете се, че сървърът е онлайн."</string>
+    <string name="networkplace_storage_title">"Мрежово място"</string>
+    <string description="Dialog Title: create new folder" maxwidth="" name="new_folder_dialog">Създаване на нова папка</string>
+    <string description="Toast: new folder fails" maxwidth="-1" name="new_folder_fail">Неуспешно създаване на нов файл.</string>
+    <string description="Toast: new folder success. %s is variable string." maxwidth="-1" name="new_folder_success">"Папка \"%s\" е създадена."</string>
+    <string maxwidth="" name="news_1"><b>Начален панел, който може да се персонализира</b>: Сега можете да персонализирате началния панел с различни категории и нареждания.</string>
+    <string maxwidth="" name="news_2"><b>Избирач на предпочитани</b>: Добави папка с предпочитани направо от предпочитаната категория.</string>
+    <string maxwidth="" name="news_3"><b>Изпълним модул Диспечер на файлове</b>: Създаване на папка с пряк път в Стартираща програма.</string>
+    <string maxwidth="" name="news_mark1">"★  "</string>
+    <string maxwidth="" name="news_subtitle">"Това е основна актуализация, която не трябва да пропускате."</string>
+    <string maxwidth="" name="news_title">"Какво ново"</string>
+    <string maxwidth="" name="news_v21"><b>Безжично предаване на файлове от/към компютър</b>: Прехвърляне/управление на файлове на/от компютър</string>
+    <string maxwidth="" name="news_v23">"Подобряване на производителността и поправка на грешки"</string>
+    <string maxwidth="" name="news_v31">"Анализаторът на пространство ви казва какви файлове са заели всичкото пространство за съхранение"</string>
+    <string maxwidth="" name="news_v32">"Ново-разширена категория приложения"</string>
+    <string name="news_v41">"Скрийте личните си файлове в скрит шкаф"</string>
+    <string name="news_v42">"Възстановяване на изтрити файлове от кошчето"</string>
+    <string name="news_v43">"Премахване на дублиращи се файлове от анализатора на мястото за съхранение"</string>
+    <string name="news_v44">"Нова функция на дисплея - Тъмен режим"</string>
+    <string name="news_v45">"Подобрена ефективност"</string>
+    <string name="news_v46">"Поправени бъгове"</string>
+    <string name="newversion_description">"Актуализирана вересия на Диспечер на файлове е достъпна в момента. Искате ли да актуализирате сега?"</string>
+    <string name="newversion_title">"Нова версия"</string>
+    <string name="next">Напред</string>
+    <string description="Dialog Button: no for dialog" maxwidth="" name="no">Не</string>
+    <string name="no_device">"Няма устройство"</string>
+    <string name="no_items">"Няма елементи"</string>
+    <string name="no_network">"Няма връзка с мрежата"</string>
+    <string description="The description to inform users when there is no internet access" maxwidth="-1" name="no_network_connection_message">"Проверете своята връзка и опитайте отново"</string>
+    <string name="no_network_info">"Изисква се интернет връзка за достъп до това приложение. Разрешете мобилна връзка или WiFi в Настройки."</string>
+    <string name="no_password">"Въведете паролата си"</string>
+    <string name="no_right">"Вашият акаунт няма право да влезе."</string>
+    <string name="no_share_folder">Няма споделен файл в това устройство</string>
+    <string description="Toast: No space to copy file and left on device" maxwidth="-1" name="no_space_fail">Недостатъчна памет</string>
+    <string name="no_user_exist">"Потребителското име не съществува"</string>
+    <string name="no_username">"Първо въведете потребителското си име."</string>
+    <string name="notification_gdrive_redeem_content">"Получете ги СЕГА от Google Диск. "</string>
+    <string name="notification_gdrive_redeem_title">"Безплатно пространство за съхранение 100GB!"</string>
+    <string name="occur_error_do_relogin">"Влезте отново в/във %s"</string>
+    <string description="Dialog Button: ok for dialog" maxwidth="" name="ok">OK</string>
+    <string name="onedrive_account_only_one_alert">"Може да се добави само един OneDrive за ASUS акаунт. Трябва да изтриете текущия акаунт преди да го замените с нов."</string>
+    <string name="open">Отвори</string>
+    <string description="Toast: open file fails" maxwidth="-1" name="open_fail">Неуспешно отваряне на файл.</string>
+    <string maxwidth="" name="open_source_license_description">"Известия за лицензи за софтуер с отворен код"</string>
+    <string maxwidth="" name="open_source_license_title">"Лиценз с отворен код"</string>
+    <string name="othersforum_site_url">http://www.asus.com/bg/Terms_of_Use_Notice_Privacy_Policy/OthersForum_Site/</string>
+    <string name="password">"Парола"</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="paste">Поставяне</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="paste_exist_apply">Прилагане за всички</string>
+    <string description="Dialog Title: paste exist dialog title" maxwidth="" name="paste_exist_dialog">Едно и също име на файл</string>
+    <string description="Dialog Content: text in dialog. %s is variable string." maxwidth="" name="paste_exist_file">"Файлът \"%s\" вече съществува."</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="paste_exist_replace">Искате ли да замените с нов?</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="paste_exist_to">До</string>
+    <string description="Toast: paste fails" maxwidth="-1" name="paste_fail">Неуспешно поставяне на файлове.</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="paste_progress">Поставяне...</string>
+    <string name="paste_progress_title">Извършва се друга задача за копиране...</string>
+    <string description="Toast: paste success. %s is variable string." maxwidth="-1" name="paste_success">"Файловете са добавени в/във \"%s\"."</string>
+    <string name="permanently_delete">"Перманентно изтриване"</string>
+    <string description="Toast: operation permission deny" maxwidth="-1" name="permission_deny">Разрешение отказано.</string>
+    <string name="permission_dialog_title">"Разрешение за приложение"</string>
+    <string name="permission_essential">"Необходими са разрешения. Отидете в Настройки, за да активирате разрешения!"</string>
+    <string name="permission_reason_contact">"Диспечер на файлове се нуждае от достъп до информацията от Вашия акаунт за влизане в съхранението в облак."</string>
+    <string name="permission_reason_storage">"Диспечер на файлове се нуждае от достъп до паметта на Вашето устройство, за да работи както трябва"</string>
+    <string description="Toast: You may not select more than %s photos." maxwidth="-1" name="photo_selection_limit_number_toast">Избор на макс. %s снимки</string>
+    <string description="This is the title of the screen for setting user preferences." maxwidth="-1" name="preferences_title">"Настройки"</string>
+    <string name="previous_folder">"Предишна папка"</string>
+    <string maxwidth="" name="privacy_policy">"Правила за поверителност"</string>
+    <string name="privacy_policy_url">http://www.asus.com/us/Terms_of_Use_Notice_Privacy_Policy/Privacy_Policy/</string>
+    <string name="processing_picture">"Снимката се обработва"</string>
+    <string name="processing_video">"Обработка на видео"</string>
+    <string name="progressactivity_title">Transmission Manager (Мениджър качване/сваляне)</string>
+    <string name="promote_darkmode_message">"Променете предпочитанието си в %s"</string>
+    <string name="promote_darkmode_title">"Нова функция на дисплея - Тъмен режим"</string>
+    <string name="promotion_notification_content">"Трябва да пробвате \"Безжично прехвърляне на файлове\"!"</string>
+    <string name="promotion_notification_title">"Все още ли използвате USB кабел за прехвърляне на файлове?"</string>
+    <string name="publish">"Публикуване"</string>
+    <string name="pullfreshlistview_footer_hint_normal">"Зареждане на още"</string>
+    <string name="pullfreshlistview_footer_hint_ready">"Пускане за зареждане на още"</string>
+    <string name="pullfreshlistview_header_hint_loading">"Обновяване..."</string>
+    <string name="pullfreshlistview_header_hint_normal">"Придърпайте надолу"</string>
+    <string name="pullfreshlistview_header_hint_ready">"Пуснете за обновяване"</string>
+    <string name="pullfreshlistview_header_last_time">"Време на последното обновяване:"</string>
+    <string name="rate_later">"По-късно"</string>
+    <string name="rate_now">"Оценете сега"</string>
+    <string description="rate us" maxwidth="-1" name="rate_us">Оценете ни</string>
+    <string name="rating_dialog_message_v3_1">"Обичайте чрез %s? Оценете ни в Google Play, за да продължите да ни вдъхновявате!"</string>
+    <string name="rating_dialog_message_v3_2">"За предложения и обратна връзка, пишете ни чрез %s."</string>
+    <string name="recent_files_content_hint">"Намира скорошни файлове и ги изтрива с ваше позволение."</string>
+    <string description="shortcut title: recently used files" name="recently_used" width="-1">"Последни"</string>
+    <string name="recommend_clean_master_msg">"Най-надеждното приложение за Android оптимизиране, подобряване на скоростта, икономия на енергия и безплатна антивирусна защита. \nИзтегляне сега?"</string>
+    <string name="recommend_clean_master_title">"Препоръка за приложението"</string>
+    <string name="recommend_scan_qr_code">"Кажете на приятелите си да изтеглят\n това приложение като сканирате този QR код."</string>
+    <string description="recruit beta user" maxwidth="-1" name="recruit_beta_user">Вземете версия за визуализация</string>
+    <string name="recycle_bin_content_hint">"Съдържа всички изтрити файлове и папки"</string>
+    <string description="dialog title, key in the asus ID and PW to Login account" maxwidth="-1" name="regist_asus_id">"Създаване на ASUS акаунт"</string>
+    <string description="ask user to enter email address to registe New Account" name="registe_id">Име на акаунт</string>
+    <string description="ask user to enter new password" name="registe_password">Въведете 8~25 знака</string>
+    <string description="sign up registe action" name="registe_sign_up">Регистрирайте се</string>
+    <string description="network is unavailable, please try again" maxwidth="-1" name="remote_connected_error_hint">"Мрежата не е налична, опитайте отново"</string>
+    <string description="remote storage label" maxwidth="-1" name="remote_storage_title">"Външно съхранение"</string>
+    <string name="remove_favorite">Премахни от Предпочитани</string>
+    <string name="remove_favorite_notice_more">"Наистина ли искате да премахнете %d елементите от папка Предпочитани?"</string>
+    <string name="remove_favorite_notice_one">"Наистина ли искате да премахнете \"%s\" от Предпочитани?"</string>
+    <string name="remove_favorite_success">Премахването е успешно</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="rename">Преименуване</string>
+    <string description="Dialog Title: rename dialog title" maxwidth="" name="rename_dialog">Преименуване</string>
+    <string description="Toast: rename fails" maxwidth="-1" name="rename_fail">Неуспешно преименуване на файла.</string>
+    <string name="rename_favorite_folder">Преименуване на папка във Предпочитани</string>
+    <string name="rename_favorite_notice">Вече съществува папка с това име в папка Предпочитани, искате ли да преименувате?</string>
+    <string name="rename_favorite_success">Преименуването е успешно и Запази във Предпочитани</string>
+    <string description="Toast: rename success" maxwidth="-1" name="rename_success">"Успешно преименуване на файл."</string>
+    <string description="renaming file" name="renaming_file" width="-1">"Преименуване"</string>
+    <string name="replace">"Замести"</string>
+    <string description="Toast: restore fails" maxwidth="-1" name="restore_fail">"Неуспешно възстановяване"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="restore_progress">"Възстановяване..."</string>
+    <string description="Toast: restore success" maxwidth="-1" name="restore_success_more">"Избраните файлове бяха възстановени"</string>
+    <string description="Toast: restore success. %s is variable string." maxwidth="-1" name="restore_success_one">"\"%s\" беше възстановено"</string>
+    <string name="retention_notification_large_file">"Добавили сте %1$s големи файла. Вижте ги сега."</string>
+    <string name="retention_notification_recent_file">"Вашите скорошни файлове консумират %1$s пространство. Вижте ги сега."</string>
+    <string name="saf_permission_tutorial_content">Диспечер на файлове на ASUS иска достъп до използване на SD карта. Желаете ли да разрешите този достъп?</string>
+    <string name="saf_permission_tutorial_content_v2">"Трябва да изпълните определеин стъпки, за да дадете права за достъп на %s."</string>
+    <string name="saf_permission_tutorial_dialog">"Процедурата трябва да се извърши, за да се дадат права за достъп до SD карта. Искате ли да продължите?"</string>
+    <string name="saf_permission_tutorial_title">Заявка за достъп за използване на SD картата</string>
+    <string name="saf_tutorial_step_one">Натиснете иконата Меню, след което натиснете Покажи SD карта.</string>
+    <string name="saf_tutorial_step_three">Натиснете Избор на SD карта, за да разрешите достъп за ASUS Файлов мениджър.</string>
+    <string name="saf_tutorial_step_three_v2">"Докоснете \"Избор на %s\", за да дадете достъп на ASUS Файлов мениджър."</string>
+    <string name="saf_tutorial_step_two">Плъзнете левия ръб на екрана, за да покажете чекмеджето, след което натиснете SD картата.</string>
+    <string name="saf_tutorial_step_two_v2">"Плъзнете от лявата страна на екрана, за да покажете чекмеджето, след което докоснете %s."</string>
+    <string name="saf_tutorial_title">Разрешение за работа с SD карта</string>
+    <string name="saf_tutorial_title_v2">"Разрешение за ползване на %s"</string>
+    <string description="account config dialog remind message" maxwidth="-1" name="samba_client_config_check">"Запомняне на потребителското име и парола, директно свързване следващия път"</string>
+    <string name="samba_input_error">"Полетата за потребителско име или парола не може да са празни!"</string>
+    <string name="samba_login_error">Потребителското име или паролата, които сте въвели, са грешни.</string>
+    <string name="samba_storage_add_title">"NetWork място"</string>
+    <string name="samba_storage_title">"SAMBA"</string>
+    <string name="scan_qr_code">"Сканирайте QR кода"</string>
+    <string description="rate now" maxwidth="" name="scroll_up_toast">Превъртете, за да оцените</string>
+    <string maxwidth="-1" name="sd_label">OneDrive за ASUS</string>
+    <string name="search_action">Търсене</string>
+    <string description="search hint message" maxwidth="-1" name="search_hint">Въведете име на файл</string>
+    <string description="cutstom action bar view title for search" maxwidth="-1" name="search_label">Търсене на файлове</string>
+    <string description="search dialog message" maxwidth="-1" name="search_progress">Търсене...</string>
+    <string description=" text for search result" formatted="false" maxwidth="-1" name="search_result_title">"Търсене на %s в/във %s: "</string>
+    <string name="select_album">Избор на албум</string>
+    <string description="Menu Option: select all checkbox" maxwidth="" name="select_all">Избери всички</string>
+    <string description="Title: select the folder" maxwidth="-1" name="select_folder">Избор на папката</string>
+    <string name="select_folder_by_ok_button">"Натиснете %1$s, за да изберете папка"</string>
+    <string name="select_photo">Избор на снимка</string>
+    <string name="server">"Сървър:"</string>
+    <string name="server_error">"Грешка на сървъра"</string>
+    <string name="server_hint">"172.0.0.1/ShareFolder"</string>
+    <string name="server_title">"Сървър"</string>
+    <string maxwidth="-1" name="service_not_available_in_your_country">"Този елемент не е наличен във Вашата страна."</string>
+    <string name="set_password_title">"Създаване на PIN код"</string>
+    <string name="set_ring">"Задаване като звънене"</string>
+    <string name="setting_display_group">"Дисплей"</string>
+    <string name="setting_notification_group">"Известие"</string>
+    <string name="setting_notification_large_files">"Известие за голям файл"</string>
+    <string name="setting_notification_recent_files">"Известие за скорошни файлове"</string>
+    <string name="setting_notification_wireless_transfer">"Известие за безжичен трансфер"</string>
+    <string name="setting_view_group">"Преглед на настройка"</string>
+    <string name="setting_view_hide_files">"Скриване на системни файлове"</string>
+    <string name="settings">"Настройки"</string>
+    <string description="This is the title of cache size" maxwidth="-1" name="settings_cache_size_title">"Размер на кеша"</string>
+    <string description="Remove all cache documents" maxwidth="-1" name="settings_clear_cache_info">"Премахване на всички кеш документи"</string>
+    <string description="Clear the cache" maxwidth="-1" name="settings_clear_cache_title">"Изчистване на кеш"</string>
+    <string description="This is the title of clearing search history action for setting user preferences." maxwidth="-1" name="settings_clear_search_history">"Изчистване на историята на търсене"</string>
+    <string name="settings_darkmode_message">"Прилагане на Тъмен режим"</string>
+    <string name="settings_description">"Локални папки и файлове"</string>
+    <string description="This is the title of documents cache" maxwidth="-1" name="settings_documents_cache">"Кеш на документи"</string>
+    <string description="recommend text" maxwidth="" name="settings_encourage_us_detail">Ако Ви харесва да използвате %s, оценете ни с 5 звезди в Play Store. Това би бил страхотен начин да ни окуражите да продължим да подобряваме продукта!</string>
+    <string description="This is the title of hiding system files action for setting user preferences." maxwidth="-1" name="settings_hide_system_files">"Скриване на системни файлове"</string>
+    <string description="This is the title of moving to the trash can." maxwidth="-1" name="settings_moved_to_the_trash_can">"Преместено в кошчето"</string>
+    <string description="Remove account" maxwidth="-1" name="settings_remove_account">"Премахване на акаунт"</string>
+    <string description="Set the cache size to %s" maxwidth="-1" name="settings_set_cache_size">"Размерът на кеша е настроен на \"%s\""</string>
+    <string description="This is the title of space used for setting user preferences." maxwidth="-1" name="settings_space_used">"Използвано пространство"</string>
+    <string description="This is the title of trash can information for setting user preferences." maxwidth="-1" name="settings_trash_can">"Кошче"</string>
+    <string description="This is the title of user name" maxwidth="-1" name="settings_user_name">"Потребителско име"</string>
+    <string name="setup">"Настройка"</string>
+    <string name="setup_account_description">"Задайте имейл акаунт, за да получите своя PIN код"</string>
+    <string name="setup_account_no_internet_connection">"Няма връзка към интернет"</string>
+    <string name="setup_account_skip">"Пропускане"</string>
+    <string name="setup_account_title">"Получаване на PIN код"</string>
+    <string name="setup_fingerprint_message">"Разрешаване на пръстов отпечатък за отключване? Скритият шкаф поддържа проверка на пръстов отпечатък. Сканирайте своя пръстов отпечатък от Настройки, за да започнете."</string>
+    <string name="setup_my_digital_code">"Задаване на PIN код"</string>
+    <string name="share_more">"Други"</string>
+    <string name="share_with_friend">"Споделете това приожение с приятелите си"</string>
+    <string description="Context Menu: options of context menu: share folder via Wi-Fi Direct" maxwidth="" name="shared_folder">"Споделяне с Wi-Fi Direct"</string>
+    <string description="shortcit title" maxwidth="-1" name="short_cuts_title">Пряк път</string>
+    <string name="shortcut_hint">"Натиснете и задръжте категория или папка, за да създадете пряк път в Стартираща програма."</string>
+    <string description="check if user want to show password" name="show_passwd">Показване на паролата</string>
+    <string description="show when sign in failed" maxwidth="-1" name="signin_failed">"Неуспешно влизане"</string>
+    <string description="signout account" name="signout_account" width="-1">Прекъсване на връзката</string>
+    <string name="single_drm_file_forbidden_operation">Това действие е забранено заради DRM защита.</string>
+    <string description="button text for sort file by size" maxwidth="-1" name="size">Размер</string>
+    <string description="button text for sort file by size ascending" maxwidth="-1" name="size_ascending">"Размер (голям-малък)"</string>
+    <string description="button text for sort file by size descending" maxwidth="-1" name="size_descending">"Размер (малък-голям)"</string>
+    <string name="ssl_err_msg_info">"Не може да се осъществи защитена връзка със сървъра. Искате ли да продължите?"</string>
+    <string name="ssl_err_msg_title">"Грешка в SSL свързване"</string>
+    <string description="shortcut title: my favorite files" name="starred" width="-1">"Отбелязани със звезда"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="storage_type_cloud">"Място за съхранение в облака"</string>
+    <string name="storage_type_cloud_att">"Мрежово хранилище"</string>
+    <string name="storage_type_local">"Локално място за съхранение"</string>
+    <string name="storage_type_shortcut">"Пряк път"</string>
+    <string name="storagetype_add_account">"Добавяне на Google акаунт"</string>
+    <string name="tap_to_exit">Натиснете отново за изход</string>
+    <string name="target_directory_is_child_of_source">"Операцията не може да се осъществи, тъй като целевата директория е дъщерна на сорс директорията"</string>
+    <string description="Toast: target file exists" maxwidth="-1" name="target_exist">Съществува целеви файл.</string>
+    <string description="Toast: target folder exists. %s is variable string." maxwidth="-1" name="target_folder_exist">"Папката \"%s\" вече съществува."</string>
+    <string description="" maxwidth="" name="tell_friend">Кажете на приятел</string>
+    <string maxwidth="" name="terms_of_service">"Известие за правила за използване"</string>
+    <string maxwidth="" name="terms_of_service_url">http://www.asus.com/us/Terms_of_Use_Notice_Privacy_Policy/Official-Site/</string>
+    <string description="title" maxwidth="-1" name="title">Правна информация:</string>
+    <string name="toast_auto_lock_notify_message">"Заключване на скрития шкаф, когато устройството е заключено"</string>
+    <string description="Toast: The item(s) has been copied completely" maxwidth="-1" name="toast_drag_copied_items">Елементите са копирани напълно</string>
+    <string description="Toast: The item(s) has been moved completely" maxwidth="-1" name="toast_drag_moved_items">Елементите са преместени напълно</string>
+    <string description="Toast: Sorry, copy files complete but cut fail" maxwidth="-1" name="toast_warning_copy_comple_cut_fail">"Съжаляваме, копирането на файловете приключи, но изтриването на старите бе неуспешно"</string>
+    <string description="Toast: Sorry, copy folders has not been supported" maxwidth="-1" name="toast_warning_copy_folders">"Съжаляваме, копирането на папки не се поддържа"</string>
+    <string maxwidth="35" name="toolbar_item_title_encourage_us">Окуражете ни</string>
+    <string name="tools_clean_master">"Изчистване на файлове в кошчето за боклук"</string>
+    <string name="tools_file_transfer">"Прехвърляне на файлове на компютър"</string>
+    <string name="tools_hidden_zone">"Скрит шкаф"</string>
+    <string name="tools_recycle_bin">"Кошче"</string>
+    <string name="tools_storage_analyzer">"Анализатор на пространство"</string>
+    <string name="tools_tip_animation">"Издърпайте за инструменти!"</string>
+    <string name="tools_zenui_instant_update">"Незабавно актуализиране"</string>
+    <string description="shortcut title: trash can" name="trash_can" width="-1">"Кошче"</string>
+    <string maxwidth="-1" name="trash_info_deleted">"Дата на изтриване: "</string>
+    <string maxwidth="-1" name="trash_info_path">"Оригинална пътека: "</string>
+    <string description="label for trending searches" maxwidth="-1" name="trending_searches">"Актуални търсения"</string>
+    <string name="tutorial_analyzer_content">"Анализаторът на пространство Ви осведомява какви файлове заемат дисковото Ви пространство."</string>
+    <string name="tutorial_category_content">"Търсенето на файлове никога не е било по-лесно, отколкото с Изгледа по категории на ASUS Файлов мениджър."</string>
+    <string name="tutorial_category_title">"Изглед по категории"</string>
+    <string name="tutorial_cloud_content">"Имате достъп до файлове от своя смартфон, компютър и съхранение в облака."</string>
+    <string name="tutorial_cloud_title">"Съхранение в облака"</string>
+    <string name="tutorial_done">Готово</string>
+    <string name="tutorial_page_content_long_press">Натиснете и задръжте, за да изберете елемент, след което натиснете иконата \"Меню\", за да се покажат други възможни действия.</string>
+    <string name="tutorial_page_four_content">Задайте често използвана папка като Предпочитани за бърз и лесен достъп до папките.</string>
+    <string name="tutorial_page_four_title">Предпочитани</string>
+    <string name="tutorial_page_one_content">ASUS Файлов мениджър Ви позволява лесно да управлявате своите файлове, записани във вътрешна или външна памет или съхранени в локална мрежа или на облак.</string>
+    <string name="tutorial_page_one_title">ASUS Файлов мениджър</string>
+    <string name="tutorial_page_three_content">Плъзнете елемент надясно, за да покажете действия като Добави към "Предпочитани, Преименуване, Премести нагоре, Копиране в/във и други опции за управление.</string>
+    <string name="tutorial_page_three_title">Списък с действия при плъзгане надясно</string>
+    <string name="tutorial_page_title_long_press">Показване на меню с действия</string>
+    <string name="tutorial_page_two_content">Лесни за използване категории, които Ви дават бърз достъп до Вашите файлове в локалното хранилище.</string>
+    <string name="tutorial_page_two_title">Начална страница</string>
+    <string name="tutorial_skip">Пропусни</string>
+    <string description="button text for sort file by type" maxwidth="-1" name="type">Тип</string>
+    <string description="document type" maxwidth="-1" name="type_abu">Архивиране на Asus приложения</string>
+    <string description="document type" maxwidth="-1" name="type_apk">Android приложение</string>
+    <string description="document type" maxwidth="-1" name="type_audio">Аудио</string>
+    <string description="document type" maxwidth="-1" name="type_book">Електронна книга</string>
+    <string name="type_dialog_audio">Аудио</string>
+    <string name="type_dialog_image">Изображение</string>
+    <string name="type_dialog_text">Текст</string>
+    <string name="type_dialog_title">Отвори като</string>
+    <string name="type_dialog_video">Видео</string>
+    <string description="document type" maxwidth="-1" name="type_directory">Директория</string>
+    <string description="document type" maxwidth="-1" name="type_document">Документ</string>
+    <string description="document type" maxwidth="-1" name="type_file">Файл</string>
+    <string description="document type" maxwidth="-1" name="type_image">Изображение</string>
+    <string description="document type" maxwidth="-1" name="type_playlist">Списък за изпълнение</string>
+    <string description="document type" maxwidth="-1" name="type_rar">"RAR"</string>
+    <string description="document type" maxwidth="-1" name="type_video">Видео</string>
+    <string description="document type" maxwidth="-1" name="type_zip">Zip</string>
+    <string name="ud_sdk_all_app_update">"Всички приложения се изпълняват в текущата им версия."</string>
+    <string name="ud_sdk_asus_app_slogan">полезно приложение</string>
+    <string name="ud_sdk_downloads">Изтегляния</string>
+    <string name="ud_sdk_free_download">Безплатно изтегляне</string>
+    <string name="ud_sdk_important_remind_text">"Важно"</string>
+    <string name="ud_sdk_install">Инсталиране</string>
+    <string name="ud_sdk_more_zen_family">Открийте още приложения ZenUI</string>
+    <string name="ud_sdk_no_network_connection_content">Не може да се извърши актуализиране на данни. Проверете настройката на Вашата мрежа.</string>
+    <string name="ud_sdk_no_network_connection_title">Няма връзка с мрежата</string>
+    <string name="ud_sdk_open">Отваряне</string>
+    <string name="ud_sdk_update">Актуализация</string>
+    <string maxwidth="-1" name="ud_sdk_update_sdk">Семейството на ZenUI</string>
+    <string maxwidth="-1" name="ud_sdk_update_sdk_asus">ZenUI Instant Updates</string>
+    <string name="ud_sdk_wifi_settings">Wi-Fi настройки</string>
+    <string name="uf_sdk_already_give_5star">"Вече сте дали оценка 5 звезди"</string>
+    <string description="%d is a number, don&apos;t translate" name="uf_sdk_article_read_count">"%d гледания"</string>
+    <string name="uf_sdk_attachment_format_warning">"Грешен формат на файл. Може да се прикача само файл с изображение"</string>
+    <string name="uf_sdk_attachment_total_size">"Общо"</string>
+    <string name="uf_sdk_attachment_warning">"Размерът на прикачения файл надвишава допустимото"</string>
+    <string maxwidth="-1" name="uf_sdk_cancel_btn_content">"Отказ"</string>
+    <string name="uf_sdk_choosertitle_sharevia">"Споделяне чрез"</string>
+    <string name="uf_sdk_connection_error_msg">"Връзката е прекъсната от сървъра. Опитайте отново по-късно."</string>
+    <string name="uf_sdk_connection_error_title">"Грешка в свързването"</string>
+    <string name="uf_sdk_discard">"Отхвърляне"</string>
+    <string name="uf_sdk_email_illigal">"Имейл адресът вече се използва"</string>
+    <string maxwidth="-1" name="uf_sdk_empty_notification">"Празно :)"</string>
+    <string name="uf_sdk_faq">"Често задавани въпроси"</string>
+    <string name="uf_sdk_feedback_and_help">"Обратна връзка и помощ"</string>
+    <string name="uf_sdk_forum_description">"Присъединете се към разговора с потребители на ASUS, за да откриете решения и да споделите своите"</string>
+    <string maxwidth="-1" name="uf_sdk_grant_permission_title">"Даване на разрешение"</string>
+    <string name="uf_sdk_help">"Помощ"</string>
+    <string name="uf_sdk_instant_answer_question">"Полезни ли са тези ЧЗВ?"</string>
+    <string name="uf_sdk_like">"Харесвам"</string>
+    <string maxwidth="-1" name="uf_sdk_message">"Известия"</string>
+    <string name="uf_sdk_msg_bad_email_format">"Имейл адресът е невалиден, опитайте отново."</string>
+    <string name="uf_sdk_msg_confirm_discard_topic">"Вашата чернова няма да бъде записана. Желаете ли все пак да я изтриете?"</string>
+    <string name="uf_sdk_msg_confirm_discard_topic_title">"Изтриване на публикация?"</string>
+    <string name="uf_sdk_msg_subscribe">"По имейл ще получите абонамент за известяване за състоянието на темата."</string>
+    <string name="uf_sdk_msg_subscribe_success">"Успешно абониране"</string>
+    <string name="uf_sdk_msg_ticket_created">"Вашата обратна връзка е успешно изпратена на ASUS"</string>
+    <string name="uf_sdk_msg_topic_created">"Успешно публикуване"</string>
+    <string name="uf_sdk_msg_unsubscribe">"Успешно прекратяване на абонамента"</string>
+    <string name="uf_sdk_name_hint">"Въведете името си"</string>
+    <string name="uf_sdk_name_illigal">"Потребителското име вече е заето"</string>
+    <string name="uf_sdk_network_error">"Няма интернет връзка, проверете мрежовите си настройки."</string>
+    <string description="zenui news" maxwidth="" name="uf_sdk_news">"Новини"</string>
+    <string name="uf_sdk_no_network_connection_content">"Връзката е прекъсната от сървъра. Моля, опитайте отново по-късно."</string>
+    <string name="uf_sdk_no_network_connection_title">"Грешка с връзката"</string>
+    <string name="uf_sdk_nothing_found">"Нищо не е намерено"</string>
+    <string name="uf_sdk_notice">"Уведомление"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category1">"Обявления"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category2">"Уроци и съвети"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category3">"Промоции"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category4">"Събития"</string>
+    <string name="uf_sdk_publish_an_topic">"Публикуване на нова тема"</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_rate_now">"Оценете сега"</string>
+    <string description="%s is AP name, don&apos;t translate" maxWidth="" name="uf_sdk_rate_us_detail">"Ако Ви харесва да използвате %s, оценете ни с 5 звезди в Play Store."</string>
+    <string maxWidth="" name="uf_sdk_rate_us_detail_new">"Вашата подкрепа с оценка от 5 звезди ще ни вдъхнови да продължим работата си!"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_rating">"Оценка 5 звезди"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title">"Оценете ни!"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title_new">"Насърчете ни!"</string>
+    <string description="Menu item for userFeedback sdk" maxwidth="-1" name="uf_sdk_report_bug">Докладвай за грешка</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_scroll_up_toast">"Превъртете нагоре, за да оцените"</string>
+    <string name="uf_sdk_search_hint">"Помощ за търсене"</string>
+    <string name="uf_sdk_select_common_bug">"Изберете обща грешка"</string>
+    <string name="uf_sdk_send_feedback">"Изпращане на обратна връзка"</string>
+    <string name="uf_sdk_send_feedback_help">"Вашата обратна връзка и имейл адрес ще бъдат изпратени на ASUS. Сервизният екип ще се свърже с Вас по имейл."</string>
+    <string maxwidth="-1" name="uf_sdk_setting_btn_content">"Настройки"</string>
+    <string description="recommend title" maxwidth="" name="uf_sdk_settings_encourage_us_title">"Насърчете ни"</string>
+    <string maxwidth="-1" name="uf_sdk_storage_permission_description">"Тази функционалност има нужда от разрешение за съхранение, за да има достъп до мултимедийните файлове. \n\nАко искате да активирате тази функционалност, моля, докоснете бутона „Настройки\", за да отидете в страницата с настройки на, след което задайте \"Инфо за приложения\" > \"Разрешения\", за да дадете разрешението.\n"</string>
+    <string name="uf_sdk_submit_topic">"Публикуване"</string>
+    <string name="uf_sdk_subscribe_dialog_title">"Абониране за тази тема"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_answered">"Отговорено"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_completed">"Приключено"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_declined">"Отклонено"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_implemented">"Приложено"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_planned">"Планирано"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_under_review">"В процес на разглеждане"</string>
+    <string name="uf_sdk_thanks_for_your_feedback">"Благодарим Ви за обратната връзка."</string>
+    <string description="%s is a application name, don&apos;t translate" name="uf_sdk_ticket_hint">"Въвеждане на обратна връзка за %s"</string>
+    <string name="uf_sdk_title_topic">"Тема"</string>
+    <string name="uf_sdk_topic">"Тема"</string>
+    <string name="uf_sdk_topic_description_heading">"Описание"</string>
+    <string name="uf_sdk_topic_description_hint">"Опишете подробно темата"</string>
+    <string name="uf_sdk_topic_filter">"ТЕМИ"</string>
+    <string name="uf_sdk_topic_form_help">"Когато публикувате тема в потребителския форум, други потребители ще могат да се абонират за нея и да я коментират. Ще бъдете уведомени чрез имейл, когато екипът разработчици на ASUS отговори на темата."</string>
+    <string name="uf_sdk_topic_form_title">"Публикуване на нова тема"</string>
+    <string name="uf_sdk_topic_text_heading">"Форум"</string>
+    <string name="uf_sdk_topic_text_hint">"Въведете заглавието на Вашата тема"</string>
+    <string name="uf_sdk_topic_title">"Заглавие"</string>
+    <string name="uf_sdk_translation_10117605">"Проблем с превода"</string>
+    <string name="uf_sdk_translation_117562">"Тип обратна връзка"</string>
+    <string name="uf_sdk_translation_2529543">"Отчет за бъгове"</string>
+    <string name="uf_sdk_translation_2529544">"Други"</string>
+    <string name="uf_sdk_translation_2530478">"Предложение"</string>
+    <string name="uf_sdk_unhelpful_article_message_question">"Искате ли да изпратите обратна връзка на екипа разработчици на ASUS?"</string>
+    <string name="uf_sdk_user_forum">"Потребителски форум"</string>
+    <string name="uf_sdk_warning">"Предупреждение"</string>
+    <string name="uf_sdk_wifi_settings">"Wi-Fi настройки"</string>
+    <string name="uf_sdk_wlan_settings">"WLAN настройки"</string>
+    <string name="uf_sdk_write_your_feedback">"Въведете обратна връзка тук"</string>
+    <string name="uf_sdk_your_draft_will_be_discarded">"Черновата Ви ще бъде отхвърлена."</string>
+    <string description="description for empty search result" maxwidth="-1" name="unable_to_find_artlcles">"Не може да се намери \u0022%s\u0022 свързани статии"</string>
+    <string description="string indicating the length units in milli-meters" maxwidth="-1" name="unit_mm">mm</string>
+    <string description="Context Menu: options of context menu: unshare folder" maxwidth="-1" name="unshared_folder">"Отмяна на споделянето"</string>
+    <string name="unsupported_area">"тази област не се поддържа"</string>
+    <string description="toast message: extract files fail" maxwidth="-1" name="unzip_fail">Неуспешно извличане на файлове</string>
+    <string description="extract file dialog message" maxwidth="-1" name="unzip_progress_msg">Извличане...</string>
+    <string description="toast message: extract files successly" maxwidth="-1" name="unzip_success">Успешно извличане на файлове</string>
+    <string name="update">"Актуализация"</string>
+    <string name="update_fb_app">"Мобилната версия на Facebook приложението не е актуална.  Инсталирайте последната версия от Google Play."</string>
+    <string name="upgrade_notification_content">Задайте изглед на файловете по тип от нашия чисто нов Начален екран.</string>
+    <string name="upgrade_notification_title">Изпобвайте новия File Manager сега!</string>
+    <string name="upload_complete">"Качването приключи"</string>
+    <string name="upload_complete_dialog_message">"Успешно качване на видео."</string>
+    <string name="upload_complete_dialog_title">"Пълно"</string>
+    <string name="upload_fail">неуспешно качване!</string>
+    <string name="upload_failed">"Качването неуспешно"</string>
+    <string name="upload_picture_toast">"Вашата снимка ще бъде качена. Проверете хода на изпълнение в прозореца за уведомления."</string>
+    <string name="upload_toast">"Видеоклипът ще се зареди. Проверете хода в прозореца за уведомления."</string>
+    <string name="uploading_picture">"Качване на снимка"</string>
+    <string name="uploading_video">"Качване на видео..."</string>
+    <string name="user">"Потребителско име"</string>
+    <string name="user_hint">"администратор"</string>
+    <string name="uv_admin_response_format">"Отговор от админ: %1$s"</string>
+    <string name="uv_all_articles">"Всички статии"</string>
+    <string name="uv_all_results_filter">"ВСИЧКИ"</string>
+    <string name="uv_android_sdk">Android SDK</string>
+    <string name="uv_article_browse_question">"Тази статия помогна ли Ви?"</string>
+    <string name="uv_article_instant_answer_question">"Полезни ли са тези ЧЗВ?"</string>
+    <string name="uv_cancel">"Отказ"</string>
+    <string name="uv_category">"Категория"</string>
+    <string name="uv_close">"Затваряне"</string>
+    <string name="uv_comment_hint">"Въведете своя коментар"</string>
+    <string name="uv_confirm">"Потвърждаване"</string>
+    <string name="uv_contact_continue_button">"Все още искам да изпратя съобщение"</string>
+    <string name="uv_contact_hint">"Въведете въпроса или коментара си"</string>
+    <string name="uv_contact_us">"Свържете се с нас"</string>
+    <string name="uv_display_name">"Име за показване"</string>
+    <string name="uv_email_address">"Имейл адрес"</string>
+    <string name="uv_email_address_hint">"vashia@email.com (задължително)"</string>
+    <string name="uv_error">"Грешка"</string>
+    <string name="uv_failed_signin_error">"Грешен имейл или парола"</string>
+    <string name="uv_forgot_password">"Забравена парола"</string>
+    <string name="uv_helpful_article_message_question">"Още ли искате да изпратите съобщение?"</string>
+    <string name="uv_i_want_this">"Искам това!"</string>
+    <string name="uv_idea_description_heading">"Опишете идеята си по-подробно"</string>
+    <string name="uv_idea_description_hint">"(опционално)"</string>
+    <string name="uv_idea_text_heading">"Предлагам Ви…"</string>
+    <string name="uv_loading">"Зареждане..."</string>
+    <string name="uv_matching_articles">"Съвпадащи статии"</string>
+    <string name="uv_matching_articles_and_ideas">"Съвпадащи статии и идеи"</string>
+    <string name="uv_menu_attach">"Прикачане"</string>
+    <string name="uv_menu_search">"Търсене"</string>
+    <string name="uv_msg_bad_email_format">"Моля, въведете валиден имейл адрес."</string>
+    <string name="uv_msg_comment_posted">"Вашият коментар беше публикуван"</string>
+    <string name="uv_msg_confirm_discard_message">"Наистина ли искате да отхвърлите това съобщение?"</string>
+    <string name="uv_msg_custom_fields_validation">"Моля, попълнете всички задължителни полета."</string>
+    <string name="uv_msg_forgot_password">"Изпратен е имейл за забравена парола"</string>
+    <string name="uv_msg_idea_created">"Идеята Ви беше създадена"</string>
+    <string name="uv_msg_ticket_created">"Съобщението Ви беше изпратено"</string>
+    <string name="uv_msg_user_identity_validation">"Моля, въведете имейл адреса си"</string>
+    <string name="uv_name_hint">"Анонимно"</string>
+    <string name="uv_network_error">"Възникна грешка при свързване с UserVoice"</string>
+    <string name="uv_nevermind">"Няма значение"</string>
+    <string name="uv_new_comment">"Нов коментар"</string>
+    <string name="uv_next">"Нататък"</string>
+    <string name="uv_no">"Не"</string>
+    <string name="uv_none_of_these_help">"Никой от тези не помага"</string>
+    <string name="uv_password">"Парола"</string>
+    <string name="uv_password_dialog_title">"Моля, въведете паролата си"</string>
+    <string name="uv_portal_title">"Помощ"</string>
+    <string name="uv_post_a_comment">"Публикуване на коментар"</string>
+    <string name="uv_post_comment">"Публикуване на коментар"</string>
+    <string name="uv_posted_by_format">"Публикувано от %1$s на %2$s"</string>
+    <string name="uv_powered_by_uservoice">"Захранвано от UserVoice"</string>
+    <string name="uv_ranked">"Класирано %1$s"</string>
+    <string name="uv_remove_votes">"Премахване на гласове"</string>
+    <string name="uv_select_none">"(няма)"</string>
+    <string name="uv_select_one">"Изберете едно"</string>
+    <string name="uv_send_message">"Изпращане на съобщение"</string>
+    <string name="uv_signin_dialog_ok">"Влизане"</string>
+    <string name="uv_signin_dialog_title">"Влизане"</string>
+    <string name="uv_status_format">"Статус: %1$s"</string>
+    <string name="uv_submit_idea">"Изпращане на идея"</string>
+    <string name="uv_subscribe">"Абониране"</string>
+    <string name="uv_subscribe_dialog_title">"Абониране за тази идея"</string>
+    <string name="uv_suggestion_instant_answer_question">"Тази идея помага ли?"</string>
+    <string name="uv_thanks">"Благодарим!"</string>
+    <string name="uv_unhelpful_article_message_question">"Искате ли да ни изпратите съобщение?"</string>
+    <string name="uv_value">"Стойност"</string>
+    <string name="uv_very_yes">"Да!"</string>
+    <string name="uv_yes">"Да"</string>
+    <string name="uv_your_email_address">"Вашият имейл адрес"</string>
+    <string name="uv_your_name">"Вашето име"</string>
+    <string description="version" maxwidth="-1" name="version">Версия</string>
+    <string name="version_text">версия</string>
+    <string name="wait">Изчакайте\u2026</string>
+    <string name="warning_stophttpserver">"Ще изгубите връзка между мобилното устройство и компютъра. Желаете ли да излезете?"</string>
+    <string name="whats_new_label">Какво ново</string>
+    <string description="message for request to connect Network" name="wifi_p2p_connection_msg" width="-1">"Моля, установете мрежова връзка за използване на облачни услуги."</string>
+    <string description="title for request to connect Network" name="wifi_p2p_connection_title" width="-1">"Установяване на мрежова връзка"</string>
+    <string description="message for request to turn on Wi-Fi" name="wifi_p2p_turn_on_wifi_msg" width="-1">"Включете Wi-Fi, за да използвате услугите на Wi-Fi Direct. Включване на Wi-Fi сега?"</string>
+    <string description="title for turn on WiFi dialog" name="wifi_p2p_turn_on_wifi_title" width="-1">"Включане на Wi-Fi"</string>
+    <string description="search" maxwidth="-1" name="wifidirect_action_bar_scan">"Търсене"</string>
+    <string description="Available devices" maxwidth="-1" name="wifidirect_available_devices">"Налични устройства"</string>
+    <string description="Do you want to connect to device" maxwidth="-1" name="wifidirect_connect_hint">"Искате ли да се свържете с"</string>
+    <string description="Dialog title text: Invitation to connect" maxwidth="-1" name="wifidirect_connect_hint_title">"Покана за свързване"</string>
+    <string description="Dialog title text: Wi-Fi Direct connecting" maxwidth="-1" name="wifidirect_connecting_hint_title">"Свързване към Wi-Fi Direct..."</string>
+    <string description="connectted" maxwidth="-1" name="wifidirect_connectted">"Свързано"</string>
+    <string description=">Do you want to disconnect" maxwidth="-1" name="wifidirect_disconnect_hint">"Искате ли да прекъснете връзката с"</string>
+    <string description="Disconnect Wi-Fi Direct" maxwidth="-1" name="wifidirect_disconnect_hint_title">"Отмяна на връзката Wi-Fi Direct"</string>
+    <string description="peer devices infomation" maxwidth="-1" name="wifidirect_peer_device_info">"За да получите покана за Wi-Fi Direct, уверете се, че вашето свъзващо се устройство остава на страницата за \"Равноправни устройства\" във файловия мениджър."</string>
+    <string description="peer devices title" maxwidth="-1" name="wifidirect_peer_device_title">"Равноправно устройство"</string>
+    <string description="searching" maxwidth="-1" name="wifidirect_scanning">"Търсене..."</string>
+    <string description="Search Wi-Fi Direct device" maxwidth="-1" name="wifidirect_storage_title">"Търсене на Wi-Fi Direct устройство"</string>
+    <string description="click to connect" maxwidth="-1" name="wifidirect_touch_to_connect">"Кликване за свързване"</string>
+    <string name="yandex_account_only_one_alert">"Може да се добави само един Yandex акаунт. Трябва да изтриете текущия акаунт преди да го замените с нов."</string>
+    <string name="yes">"Да"</string>
+    <string name="zenui_update">"Незабавни актуализации на ZenUI"</string>
+    <string description="toast message: Compress files fail" maxwidth="-1" name="zip_fail">Неуспешно компресиране на файлове</string>
+    <string description="compress dialog message" maxwidth="-1" name="zip_progress_msg">Извършва се...</string>
+    <string description="toast message: Compress files successly" maxwidth="-1" name="zip_success">Успешно компресиране на файлове</string>
+</resources>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/pin_code_first_row"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:weightSum="3" >
+
+        <com.asus.filemanager.hiddenzone.KeyboardButtonView
+            android:id="@+id/pin_code_button_1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            app:lp_keyboard_button_text="@string/keyboard_button1_text" />
+
+        <com.asus.filemanager.hiddenzone.KeyboardButtonView
+            android:id="@+id/pin_code_button_2"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            app:lp_keyboard_button_text="@string/keyboard_button2_text" />
+
+        <com.asus.filemanager.hiddenzone.KeyboardButtonView
+            android:id="@+id/pin_code_button_3"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            app:lp_keyboard_button_text="@string/keyboard_button3_text" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/pin_code_second_row"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_below="@+id/pin_code_first_row"
+        android:layout_weight="1"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:weightSum="3" >
+
+        <com.asus.filemanager.hiddenzone.KeyboardButtonView
+            android:id="@+id/pin_code_button_4"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            app:lp_keyboard_button_text="@string/keyboard_button4_text" />
+
+        <com.asus.filemanager.hiddenzone.KeyboardButtonView
+            android:id="@+id/pin_code_button_5"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            app:lp_keyboard_button_text="@string/keyboard_button5_text" />
+
+        <com.asus.filemanager.hiddenzone.KeyboardButtonView
+            android:id="@+id/pin_code_button_6"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            app:lp_keyboard_button_text="@string/keyboard_button6_text" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/pin_code_third_row"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_below="@+id/pin_code_second_row"
+        android:layout_weight="1"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:weightSum="3" >
+
+        <com.asus.filemanager.hiddenzone.KeyboardButtonView
+            android:id="@+id/pin_code_button_7"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            app:lp_keyboard_button_text="@string/keyboard_button7_text" />
+
+        <com.asus.filemanager.hiddenzone.KeyboardButtonView
+            android:id="@+id/pin_code_button_8"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            app:lp_keyboard_button_text="@string/keyboard_button8_text" />
+
+        <com.asus.filemanager.hiddenzone.KeyboardButtonView
+            android:id="@+id/pin_code_button_9"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            app:lp_keyboard_button_text="@string/keyboard_button9_text" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/pin_code_fourth_row"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_below="@+id/pin_code_third_row"
+        android:layout_weight="1"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:weightSum="3" >
+
+        <com.asus.filemanager.hiddenzone.KeyboardButtonView
+            android:id="@+id/pin_code_button_cancel"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            app:lp_keyboard_button_text="@android:string/cancel" />
+
+        <com.asus.filemanager.hiddenzone.KeyboardButtonView
+            android:id="@+id/pin_code_button_0"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            app:lp_keyboard_button_text="@string/keyboard_button0_text" />
+
+        <com.asus.filemanager.hiddenzone.KeyboardButtonView
+            android:id="@+id/pin_code_button_next"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            app:lp_keyboard_button_text="@android:string/ok" />
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="charset_array">
+        <item>"Latin-1 (ISO-8859-1)"</item>
+        <item>"Unicode (UTF-8)"</item>
+        <item>"Chinês (GBK)"</item>
+        <item>"Chinês (Big5)"</item>
+        <item>"Japonês (ISO-2022-JP)"</item>
+        <item>"Japonês (SHIFT_JIS)"</item>
+        <item>"Japonês (EUC-JP)"</item>
+        <item>"Coreano (EUC-KR)"</item>
+    </string-array>
+    <plurals name="dialog_unzip_preview_size_text">
+        <item quantity="one">Total: %1$d arquivo, %2$s</item>
+        <item quantity="other">Total: %1$d arquivos, %2$s</item>
+    </plurals>
+    <plurals name="drag_items">
+        <item description="Drag the item" maxWidth="-1" quantity="one">Arrastar item</item>
+        <item description="Drag the items" maxWidth="-1" quantity="other">Arrastar itens</item>
+    </plurals>
+    <plurals name="number_selected_items">
+        <item quantity="one">%d item selecionado</item>
+        <item quantity="other">%d itens selecionados</item>
+    </plurals>
+    <plurals name="uv_comments">
+        <item quantity="one">comentário</item>
+        <item quantity="other">comentários</item>
+    </plurals>
+    <plurals name="uv_number_of_subscribers_format">
+        <item quantity="one">%1$s quer esta ideia</item>
+        <item quantity="other">%1$s querem esta ideia</item>
+    </plurals>
+    <plurals name="uv_people">
+        <item quantity="one">pessoa</item>
+        <item quantity="other">pessoas</item>
+    </plurals>
+    <plurals name="uv_subscribers">
+        <item quantity="one">assinante</item>
+        <item quantity="other">assinantes</item>
+    </plurals>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Navegar para a página inicial"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Navegar para cima"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Mais opções"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Concluído"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Ver tudo"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Selecione um app"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"DESATIVAR"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ATIVAR"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Pesquisar..."</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Limpar consulta"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Consulta de pesquisa"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Pesquisar"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Enviar consulta"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Pesquisa por voz"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Compartilhar com"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Compartilhar com %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Recolher"</string>
+    <string description="about" maxwidth="-1" name="about">Sobre</string>
+    <string msgid="183105774472071343" name="action">"Fazer login"</string>
+    <string description="cutstom action bar view title for about" maxwidth="-1" name="action_about">Sobre</string>
+    <string description="action add files" maxwidth="-1" name="action_add">Adicionar</string>
+    <string description="cutstom action bar view title for add folder" maxwidth="-1" name="action_add_folder">Adicionar Pasta</string>
+    <string description="View title of custom action bar, apply to multiple selected files" maxwidth="-1" name="action_apply_selected_file">Aplicar</string>
+    <string description="action cancel" maxwidth="-1" name="action_cancel">Cancelar</string>
+    <string description="cutstom action bar view title for clear search history" maxwidth="" name="action_clear_history">Limpar histórico de busca</string>
+    <string description="cutstom action bar view title for hinde system file" maxwidth="-1" name="action_hind_system_file">Ocultar arquivos do sistema</string>
+    <string description="cutstom action bar view title for search" maxwidth="" name="action_search">Pesquisar</string>
+    <string description="cutstom action bar view title for sharing" maxwidth="-1" name="action_share">"Compartilhar"</string>
+    <string description="String for asking for the rule of sorting" maxwidth="-1" name="action_sort_by">Classificar por</string>
+    <string description="cutstom action bar view title for zip" maxwidth="" name="action_zip">Comprimir</string>
+    <string maxWidth="" name="asus_account_prefc">Definições</string>
+    <string maxWidth="" name="asus_account_prefc_advc">Definições avançadas</string>
+    <string maxWidth="" name="asus_account_prefc_aws">ASUS WebStorage</string>
+    <string maxWidth="" name="asus_account_prefc_homebox">ASUS HomeCloud</string>
+    <string maxWidth="-1" name="asus_account_registe_pw_error_1">A palavra-passe não pode estar vazia!</string>
+    <string maxWidth="-1" name="asus_account_removeaccount_dialog_content">A integração da conta foi efetuada com sucesso, deve iniciar sessão novamente utilizando a nova conta</string>
+    <string maxWidth="" name="asus_account_removeaccount_dialog_title">Integração da conta ASUS efetuada com sucesso</string>
+    <string name="asus_feedback_and_help">Comentários e Ajuda</string>
+    <string maxWidth="" name="asus_flag">-</string>
+    <string maxWidth="" name="asus_registe_success_title">Registo ASUS efetuado com sucesso</string>
+    <string maxWidth="" name="asusaccount_app_name">Conta ASUS</string>
+    <string maxwidth="-1" name="attribution_notice">Aviso de Atribuição:</string>
+    <string maxWidth="" name="auth_stop">Falha de autenticação</string>
+    <string description="string indicating how camera shooting feature is used" maxwidth="-1" name="auto">Auto</string>
+    <string maxWidth="" name="aws_install_title">Webstorage não instalado</string>
+    <string description="button text." maxwidth="-1" name="back_button_label">Voltar</string>
+    <string maxWidth="" name="bd_label">Baidu PCS para ASUS</string>
+    <string description="Dialog Button: cancel for dialog" maxwidth="" name="cancel">Cancelar</string>
+    <string description="Menu Option: clear all checkbox" maxwidth="" name="clear_all">Limpar Tudo</string>
+    <string description=">Do you want to signin" maxwidth="-1" name="cloud_storage_sign_in">Ligar utilizando a conta seguinte:</string>
+    <string description="Dialog title: Signin cloud storage" maxwidth="-1" name="cloud_storage_sign_in_title">Ligar %s</string>
+    <string description=">Do you want to signout" maxwidth="-1" name="cloud_storage_sign_out">Deseja realmente terminar a sessão?</string>
+    <string description="Dialog title: Signout cloud storage" maxwidth="-1" name="cloud_storage_sign_out_title">Desligar</string>
+    <string name="com_facebook_image_download_unknown_error">Erro inesperado ao baixar uma imagem.</string>
+    <string name="com_facebook_internet_permission_error_message">A permissão de INTERNET é necessária para fazer o login WebView</string>
+    <string name="com_facebook_internet_permission_error_title">Erro no AndroidManifest</string>
+    <string name="com_facebook_like_button_liked">Curtiu</string>
+    <string name="com_facebook_like_button_not_liked">Curtir</string>
+    <string name="com_facebook_loading">Carregando...</string>
+    <string name="com_facebook_loginview_cancel_action">Cancelar</string>
+    <string name="com_facebook_loginview_log_in_button">Entrar</string>
+    <string name="com_facebook_loginview_log_in_button_long">Entrar com o Facebook</string>
+    <string name="com_facebook_loginview_log_out_action">Sair</string>
+    <string name="com_facebook_loginview_log_out_button">Sair</string>
+    <string name="com_facebook_loginview_logged_in_as">Conectado como: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Você entrou usando o Facebook</string>
+    <string name="com_facebook_send_button_text">Envio</string>
+    <string name="com_facebook_share_button_text">Compartilhar</string>
+    <string name="com_facebook_tooltip_default">Novidade! Você está no controle - escolha quais informações quer compartilhar com os aplicativos.</string>
+    <string description="content" maxwidth="-1" name="content">A utilização deste software está sujeita aos termos e condições do website da ASUS: \nhttp://www.asus.com</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="copy">Copiar</string>
+    <string description="Toast: copy ready" maxwidth="-1" name="copy_ready_more">Os arquivos selecionados foram copiados e estão prontos para colar.</string>
+    <string description="Toast: copy ready. %s is variable string." maxwidth="-1" name="copy_ready_one">\"%s\" foi copiado e está pronto para colar.</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="cut">Recortar</string>
+    <string description="Toast: cut ready" maxwidth="-1" name="cut_ready_more">Os arquivos selecionados foram recortados e estão prontos para colar.</string>
+    <string description="Toast: cut ready. %s is variable string." maxwidth="-1" name="cut_ready_one">\"%s\" foi recortado e está pronto para colar.</string>
+    <string description="button text for sort file by date" maxwidth="-1" name="date">Data</string>
+    <string description="button text for sort file by date ascending" maxwidth="-1" name="date_ascending">Data (Crescente)</string>
+    <string description="button text for sort file by date descending" maxwidth="-1" name="date_descending">Data (Decrescente)</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="delete">Excluir</string>
+    <string description="Dialog Title: delete dialog title" maxwidth="" name="delete_dialog">Exclusão de arquivo</string>
+    <string description="Toast: delete fails" maxwidth="-1" name="delete_fail">Exclusão de arquivo falhou.</string>
+    <string description="Dialog Content: text in dialog. %d is variable number." maxwidth="" name="delete_more_files">Deseja excluir os items %d?</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="delete_one_files">Deseja excluir o arquivo?</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="delete_progress">Excluindo...</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="delete_size">"Tamanho: "</string>
+    <string description="Toast: delete success" maxwidth="-1" name="delete_success_more">Os arquivos selecionados foram excluídos.</string>
+    <string description="Toast: delete success. %s is variable string." maxwidth="-1" name="delete_success_one">\"%s\" foi excluído.</string>
+    <string description="cutstom action bar view title for deselect all checkbox" maxwidth="" name="deselect_all">De-selecionar Tudo</string>
+    <string description="compress dialog title" maxwidth="-1" name="dialog_create_zip_title">Informar nome do arquivo</string>
+    <string description="extract zip file dialog title. %s is a dynamic string. It is zip file name." maxwidth="-1" name="dialog_extract_zip_title">Extrair %s para:</string>
+    <string description="text encoding dialog title" maxwidth="-1" name="dialog_text_encoding_title">Codificação de texto</string>
+    <string description="show zip info dialog title. %s is a dynamic string. It is a zip file name" maxwidth="-1" name="dialog_unzip_preview_title">Extrair %s</string>
+    <string description="Dialog Title: Directory information dialog title" maxwidth="-1" name="dir_info_dialog_title">Informações do Diretório</string>
+    <string name="drag_items_one">Arrastar item</string>
+    <string name="drag_items_other">Arrastar itens</string>
+    <string description="Hint: the operation is incorrect" maxwidth="-1" name="drop_incorrect_hint">Operação incorreta</string>
+    <string description="Hint: the target folder which you want to do something" maxwidth="-1" name="drop_target_to">Alvo para:</string>
+    <string name="edit_toast_name_too_long">Número máximo de caracteres atingido</string>
+    <string description="Dialog Button: click to open the encoding list dialog" maxwidth="-1" name="encode">Codificação de texto</string>
+    <string description="ask user to enter password" maxwidth="-1" name="enter_password">Inserir senha</string>
+    <string description="Do not translate ASUS" maxwidth="" name="eula_description">Um contrato legal entre os aplicativos da ASUS e os usuários finais</string>
+    <string maxwidth="" name="eula_title">Contrato de licença de usuário final</string>
+    <string description="Dialog Button: extract file for dialog" maxwidth="-1" name="extract">Extrair</string>
+    <string description="Dialog Title: File information dialog title" maxwidth="-1" name="file_info_dialog_title">Informações do Arquivo</string>
+    <string description="Application Name shown on title" maxwidth="" name="file_manager">Gerenciador de Arquivo</string>
+    <string description="string indicating camera flash is not used" maxwidth="-1" name="flash_off">Sem flash</string>
+    <string description="string indicating camera flash is fired" maxwidth="-1" name="flash_on">Flash ativo</string>
+    <string description="click to retrieve password if user forget the password" maxwidth="-1" name="forget_password"><u>Esqueçeu a Senha?</u></string>
+    <string description="Context Menu: options of context menu" maxwidth="-1" name="info">Informações</string>
+    <string description="file info textview context" maxwidth="-1" name="info_aperture">"Abertura: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_exposure_time">"Temp. exposiç.: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_file_num">"Número de arquivos: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_flash">"Flash: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_focal_length">"Comprimento focal: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_image_height">"Altura: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_image_width">"Largura"</string>
+    <string description="file info textview context" maxwidth="-1" name="info_iso">"ISO: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_location">"Local: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_maker">"Criador: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_model">"Modelo: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_modified">"Data de correção: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_name">"Nome: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_orientation">"Orientação: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_permission">"Permissão: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_type">Tipo:</string>
+    <string description="file info textview context" maxwidth="-1" name="info_white_balance">"Balanç. branco: "</string>
+    <string description="Do not translate ASUS" maxwidth="" name="inspire_asus_description">A ASUS coleta dados de uso para melhorar os produtos e a experiência do usuário</string>
+    <string description="storage label" maxwidth="-1" name="internal_storage_title">Armazenamento interno</string>
+    <string description="invalid directory path" maxwidth="-1" name="invalid_directory_path">Caminho de diretório inválido</string>
+    <string description="sticker detail page button name" maxwidth="-1" name="invite_friends">"Convidar Amigos"</string>
+    <string description="text for progress bar" maxwidth="-1" name="loading">"Carregando…"</string>
+    <string description="dialog title, key in the asus ID and PW to Login account" maxwidth="-1" name="login_asus_id">Registro da ASUS account</string>
+    <string description="login account name" maxwidth="-1" name="login_id">Nome da conta</string>
+    <string description="string indicating how camera shooting feature is used" maxwidth="-1" name="manual">Manual</string>
+    <string description="ask user to enter email address as account name" maxwidth="-1" name="member_id_hint">Digitar Endereço de Email</string>
+    <string description="settings menu tutorial" maxwidth="-1" name="menu_tutorial">Tutorial</string>
+    <string name="messenger_send_button_text">Enviar</string>
+    <string description="Hint: move the items" maxwidth="-1" name="move">Mover</string>
+    <string description="shortcut label" maxwidth="-1" name="my_camera_title">Câmera</string>
+    <string description="shortcut label" maxwidth="-1" name="my_download_title">Download</string>
+    <string description="shortcut label" maxwidth="-1" name="my_music_title">Música</string>
+    <string description="shortcut label" maxwidth="-1" name="my_picture_title">Imagem</string>
+    <string description="storage label" maxwidth="-1" name="my_storage_title">Meu armazenamento</string>
+    <string description="button text for sort file by name" maxwidth="-1" name="name">Nome</string>
+    <string description="Dialog Title: create new folder" maxwidth="" name="new_folder_dialog">Criar nova pasta</string>
+    <string description="Toast: new folder fails" maxwidth="-1" name="new_folder_fail">Falha ao criar nova pasta.</string>
+    <string description="Toast: new folder success. %s is variable string." maxwidth="-1" name="new_folder_success">Pasta \"%s\" foi criada.</string>
+    <string description="Dialog Button: no for dialog" maxwidth="" name="no">Não</string>
+    <string description="Error Toast content" maxwidth="-1" name="no_space_fail">Armazenamento insuficiente</string>
+    <string description="Dialog Button: ok for dialog" maxwidth="" name="ok">OK</string>
+    <string description="Toast: open file fails" maxwidth="-1" name="open_fail">Falha ao abrir arquivo.</string>
+    <string maxwidth="" name="open_source_license_description">Avisos de licença para software de código aberto</string>
+    <string maxwidth="" name="open_source_license_title">Licenças de código aberto</string>
+    <string name="othersforum_site_url">http://www.asus.com/pt/Terms_of_Use_Notice_Privacy_Policy/OthersForum_Site/</string>
+    <string msgid="1177138552305184404" name="password">"Senha"</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="paste">Colar</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="paste_exist_apply">Aplicar para todos</string>
+    <string description="Dialog Title: paste exist dialog title" maxwidth="" name="paste_exist_dialog">Mesmo nome do arquivo</string>
+    <string description="Dialog Content: text in dialog. %s is variable string." maxwidth="" name="paste_exist_file">O arquivo \"%s\" já existe.</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="paste_exist_replace">Deseja substituir os pelo novo?</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="paste_exist_to">Para</string>
+    <string description="Toast: paste fails" maxwidth="-1" name="paste_fail">Falha ao colar arquivos.</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="paste_progress">Colando...</string>
+    <string description="Toast: paste success. %s is variable string." maxwidth="-1" name="paste_success">Os arquivos foram adicionados a \"%s\".</string>
+    <string description="Toast: operation permission deny" maxwidth="-1" name="permission_deny">Permissão negada.</string>
+    <string description="Toast: You may not select more than %s photos." maxwidth="-1" name="photo_selection_limit_number_toast">Selecionar máximo de %s fotos</string>
+    <string maxwidth="" name="privacy_policy">Política de privacidade</string>
+    <string name="privacy_policy_url">http://www.asus.com/pt/Terms_of_Use_Notice_Privacy_Policy/Privacy_Policy/</string>
+    <string description="rate now" maxwidth="" name="rate_now">Classificar agora</string>
+    <string description="rate us" maxwidth="-1" name="rate_us">Classifique-nos</string>
+    <string description="recruit beta user" maxwidth="-1" name="recruit_beta_user">Receba a Versão de Visualização</string>
+    <string description="dialog title, key in the asus ID and PW to Login account" maxWidth="" maxwidth="-1" name="regist_asus_id">Criar conta ASUS</string>
+    <string description="ask user to enter email address to registe New Account" maxWidth="" name="registe_id">Nome da conta</string>
+    <string description="network is unavailable, please try again" maxwidth="-1" name="remote_connected_error_hint">Rede não está disponível, tente novamente</string>
+    <string description="remote storage label" maxwidth="-1" name="remote_storage_title">Armazenamento Remoto</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="rename">Renomear</string>
+    <string description="Dialog Title: rename dialog title" maxwidth="" name="rename_dialog">Renomear</string>
+    <string description="Toast: rename fails" maxwidth="-1" name="rename_fail">Falha ao renomear arquivo.</string>
+    <string description="rate now" maxwidth="" name="scroll_up_toast">Por favor, vá para cima para avaliar</string>
+    <string description="cutstom action bar view title for search" maxwidth="-1" name="search_label">Procurar Arquivos</string>
+    <string description="search dialog message" maxwidth="-1" name="search_progress">Procurando...</string>
+    <string description=" text for search result" formatted="false" maxwidth="-1" name="search_result_title">A pesquisar %s em %s: %d ficheiros encontrados</string>
+    <string name="select_album">Selecionar álbum</string>
+    <string description="Menu Option: select all checkbox" maxwidth="" name="select_all">Selecionar tudo</string>
+    <string description="Title: select the folder" maxwidth="-1" name="select_folder">Selecionar a pasta</string>
+    <string name="select_photo">Selecionar foto</string>
+    <string maxWidth="" name="settings_encourage_us_detail">Se você gosta de usar o %s, nos dê 5 estrelas na Play Store. Seria um ótimo incentivo para continuarmos aprimorando o produto!</string>
+    <string description="Context Menu: options of context menu: share folder via Wi-Fi Direct" maxwidth="" name="shared_folder">Compartilhar via Wi-Fi Direct</string>
+    <string description="shortcit title" maxwidth="-1" name="short_cuts_title">Atalho</string>
+    <string description="show when sign in failed" maxwidth="-1" name="signin_failed">Registro falhou.</string>
+    <string description="signout account" name="signout_account" width="-1">Desligar</string>
+    <string description="button text for sort file by size" maxwidth="-1" name="size">Tamanho</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string description="Toast: target file exists" maxwidth="-1" name="target_exist">Arquivo alvo existe.</string>
+    <string description="Toast: target folder exists. %s is variable string." maxwidth="-1" name="target_folder_exist">A pasta: \"%s\" já existe.</string>
+    <string description="" maxwidth="" name="tell_friend">Conte a um amigo</string>
+    <string maxwidth="" name="terms_of_service">Notificação dos Termos de Uso</string>
+    <string description="title" maxwidth="-1" name="title">Informações legais:</string>
+    <string description="Toast: The item(s) has been copied completely" maxwidth="-1" name="toast_drag_copied_items">Item(s) copiado(s) com sucesso.</string>
+    <string description="Toast: The item(s) has been moved completely" maxwidth="-1" name="toast_drag_moved_items">Item(s) movido(s) com sucesso.</string>
+    <string maxwidth="35" name="toolbar_item_title_encourage_us">Nos motive</string>
+    <string description="button text for sort file by type" maxwidth="-1" name="type">Tipo</string>
+    <string description="Menu item for userFeedback sdk" maxwidth="-1" name="uf_sdk_report_bug">Relatório de Bug</string>
+    <string description="string indicating the length units in milli-meters" maxwidth="-1" name="unit_mm">mm</string>
+    <string description="Context Menu: options of context menu: unshare folder" maxwidth="-1" name="unshared_folder">Descompartilhar</string>
+    <string description="toast message: extract files fail" maxwidth="-1" name="unzip_fail">Falhou ao extrair os arquivos</string>
+    <string description="extract file dialog message" maxwidth="-1" name="unzip_progress_msg">Extraindo...</string>
+    <string description="toast message: extract files successly" maxwidth="-1" name="unzip_success">Arquivos extraídos com sucesso</string>
+    <string name="uv_admin_response_format">Resposta do Administrador: %1$s</string>
+    <string name="uv_all_articles">Todos artigos</string>
+    <string name="uv_all_results_filter">TODOS</string>
+    <string name="uv_android_sdk">Android SDK</string>
+    <string name="uv_article_browse_question">Este artigo foi útil?</string>
+    <string name="uv_article_instant_answer_question">Este artigo é útil?</string>
+    <string name="uv_cancel">Cancelar</string>
+    <string name="uv_category">Categoria</string>
+    <string name="uv_close">Fechar</string>
+    <string name="uv_comment_hint">Digite seu comentário</string>
+    <string name="uv_confirm">Confirmar</string>
+    <string name="uv_contact_continue_button">Ainda quero enviar uma mensagem</string>
+    <string name="uv_contact_hint">Digite sua pergunta ou feedback</string>
+    <string name="uv_contact_us">Fale conosco</string>
+    <string name="uv_display_name">Nome de exibição</string>
+    <string name="uv_email_address">E-mail</string>
+    <string name="uv_email_address_hint">seu@email.com.br (obrigatório)</string>
+    <string name="uv_error">Erro</string>
+    <string name="uv_failed_signin_error">E-mail ou senha incorretos</string>
+    <string name="uv_forgot_password">Esqueci minha senha</string>
+    <string name="uv_helpful_article_message_question">Ainda deseja enviar uma mensagem?</string>
+    <string name="uv_i_want_this">Eu quero isto!</string>
+    <string name="uv_idea_description_heading">Descreva sua ideia em detalhes</string>
+    <string name="uv_idea_description_hint">(opcional)</string>
+    <string name="uv_idea_text_heading">Sugiro que…</string>
+    <string name="uv_loading">Carregando…</string>
+    <string name="uv_matching_articles">Artigos compatíveis</string>
+    <string name="uv_matching_articles_and_ideas">Artigos e ideias compatíveis</string>
+    <string name="uv_menu_search">Buscar</string>
+    <string name="uv_msg_bad_email_format">Please enter a valid email address.</string>
+    <string name="uv_msg_comment_posted">Seu comentário foi publicado</string>
+    <string name="uv_msg_confirm_discard_message">Tem certeza de que deseja descartar sua mensagem?</string>
+    <string name="uv_msg_custom_fields_validation">Preencha todos os campos obrigatórios.</string>
+    <string name="uv_msg_forgot_password">E-mail de redefinição de senha enviado</string>
+    <string name="uv_msg_idea_created">Sua ideia foi criada</string>
+    <string name="uv_msg_ticket_created">Sua mensagem foi enviada</string>
+    <string name="uv_msg_user_identity_validation">Digite seu e-mail</string>
+    <string name="uv_name_hint">“Anônimo”</string>
+    <string name="uv_network_error">Erro ao conectar-se com o UserVoice</string>
+    <string name="uv_nevermind">Retornar</string>
+    <string name="uv_new_comment">Novo comentário</string>
+    <string name="uv_next">Próximo</string>
+    <string name="uv_no">Não</string>
+    <string name="uv_none_of_these_help">Nada disso ajudou</string>
+    <string name="uv_password">Senha</string>
+    <string name="uv_password_dialog_title">Digite sua senha</string>
+    <string name="uv_portal_title">Ajuda</string>
+    <string name="uv_post_a_comment">Enviar comentário</string>
+    <string name="uv_post_comment">Publicar comentário</string>
+    <string name="uv_posted_by_format">Publicado por %1$s em %2$s</string>
+    <string name="uv_powered_by_uservoice">Powered by UserVoice</string>
+    <string name="uv_remove_votes">Remover Votos</string>
+    <string name="uv_select_none">(nenhum)</string>
+    <string name="uv_select_one">Escolha um</string>
+    <string name="uv_send_message">Enviar mensagem</string>
+    <string name="uv_signin_dialog_ok">Registrar</string>
+    <string name="uv_signin_dialog_title">Login</string>
+    <string name="uv_status_format">Status: %1$s</string>
+    <string name="uv_submit_idea">Enviar ideia</string>
+    <string name="uv_subscribe">Assinar</string>
+    <string name="uv_subscribe_dialog_title">Acompanhar esta ideia</string>
+    <string name="uv_suggestion_instant_answer_question">Esta ideia é útill?</string>
+    <string name="uv_thanks">Obrigado!</string>
+    <string name="uv_unhelpful_article_message_question">Gostaria de nos enviar uma mensagem?</string>
+    <string name="uv_value">Valor</string>
+    <string name="uv_very_yes">Sim!</string>
+    <string name="uv_yes">Sim</string>
+    <string name="uv_your_email_address">Seu e-mail</string>
+    <string name="uv_your_name">Seu nome</string>
+    <string description="version" maxwidth="-1" name="version">Versão</string>
+    <string name="version_text">versão </string>
+    <string name="wait">"Aguarde..."</string>
+    <string maxwidth="-1" name="whats_new_label">O que há de novo</string>
+    <string description="message for request to turn on Wi-Fi" name="wifi_p2p_turn_on_wifi_msg" width="-1">Ligar Wi-Fi para usar serviços Wi-Fi Direct. Ligar Wi-Fi agora?</string>
+    <string description="title for turn on WiFi dialog" name="wifi_p2p_turn_on_wifi_title" width="-1">Ligar Wi-Fi</string>
+    <string description="search" maxwidth="-1" name="wifidirect_action_bar_scan">Pesquisar</string>
+    <string description="Available devices" maxwidth="-1" name="wifidirect_available_devices">Dispositivos disponíveis</string>
+    <string description="Do you want to connect to device" maxwidth="-1" name="wifidirect_connect_hint">Deseja continuar com</string>
+    <string description="Dialog title text: Invitation to connect" maxwidth="-1" name="wifidirect_connect_hint_title">Convite para conectar</string>
+    <string description="Dialog title text: Wi-Fi Direct connecting..." maxwidth="-1" name="wifidirect_connecting_hint_title">Conectando Wi-Fi Direct...</string>
+    <string description="connectted" maxwidth="-1" name="wifidirect_connectted">Conectado</string>
+    <string description=">Do you want to disconnect with" maxwidth="-1" name="wifidirect_disconnect_hint">Deseja desconectar de</string>
+    <string description="Disconnect Wi-Fi Direct" maxwidth="-1" name="wifidirect_disconnect_hint_title">Desconectar Wi-Fi Direct</string>
+    <string description="peer devices infomation" maxwidth="-1" name="wifidirect_peer_device_info">Para receber um convite Wi-Fi Direct, assegure que seu dispositivo de conexão permanece na página \"Dispositivos parceiros\" no Gerenciados de Arquivo.</string>
+    <string description="peer devices title" maxwidth="-1" name="wifidirect_peer_device_title">Dispositivos parceiros</string>
+    <string description="searching" maxwidth="-1" name="wifidirect_scanning">Pesquisando...</string>
+    <string description="Search Wi-Fi Direct device" maxwidth="-1" name="wifidirect_storage_title">Procurar dispositivo Wi-Fi Direct</string>
+    <string description="click to connect" maxwidth="-1" name="wifidirect_touch_to_connect">Clique para conectar</string>
+    <string name="yes">Sim</string>
+    <string name="zenui_update">Atualizações do app ZeniUI</string>
+    <string description="toast message: Compress files fail" maxwidth="-1" name="zip_fail">Falha ao compactar arquivos</string>
+    <string description="compress dialog message" maxwidth="-1" name="zip_progress_msg">Progredindo...</string>
+    <string description="toast message: Compress files successly" maxwidth="-1" name="zip_success">Arquivos compactados com sucesso</string>
+</resources>

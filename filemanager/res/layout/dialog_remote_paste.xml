@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+		          xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="10dp"
+
+    android:orientation="vertical">
+    <TextView android:id="@+id/txt_total"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_gravity="left"
+	        android:textSize="17sp"
+	        android:text="@string/cloud_paste_total"
+			android:textColor="?text_color"
+	        />
+    <LinearLayout
+        android:id="@+id/progress_total_layout"
+        android:layout_width ="match_parent"
+        android:layout_height ="wrap_content"
+        android:orientation = "horizontal" >
+        <TextView android:id="@+id/txt_total_percent"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:gravity="left"
+	        android:textColor="@color/black"
+	        android:layout_weight="1"
+	        android:textSize="15sp"/>
+    	<TextView
+    	    android:id="@+id/txt_total_size"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_weight="1"
+	        android:gravity="right"
+	        android:textSize="15sp"
+			android:textColor="?text_color" />
+    </LinearLayout>
+
+	<LinearLayout
+	        android:layout_width ="match_parent"
+	        android:layout_height ="wrap_content"
+	        android:orientation = "vertical" >
+	        <ProgressBar
+	        android:id="@+id/remote_progress_bar_total"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+
+	         android:max="100"
+	        android:progress="0"
+	        style="?android:attr/progressBarStyleHorizontal"
+	        >
+	       </ProgressBar>
+	 </LinearLayout>
+	  <TextView android:id="@+id/txt_current"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_gravity="left"
+	        android:textSize="17sp"
+	        android:text="@string/cloud_paste_current"
+		    android:textColor="?text_color"
+	        />
+    <LinearLayout
+        android:id="@+id/progress_every_layout"
+        android:layout_width ="match_parent"
+        android:layout_height ="wrap_content"
+        android:orientation = "horizontal" >
+
+    	<TextView
+    	    android:id="@+id/txt_every_size"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	         android:layout_weight="2"
+	        android:gravity="left"
+	        android:ellipsize="end"
+	        android:singleLine="true"
+	        android:textSize="15sp"
+			android:textColor="?text_color" />
+    	    <TextView android:id="@+id/txt_operate_status"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_weight="1"
+	        android:ellipsize="end"
+	        android:singleLine="true"
+	        android:gravity="right"
+	        android:text="@string/cloud_paste_copying"
+	        android:textSize="15sp"
+				android:textColor="?text_color" />
+    </LinearLayout>
+
+	<LinearLayout
+	        android:layout_width ="match_parent"
+	        android:layout_height ="wrap_content"
+	        android:orientation = "vertical" >
+	        <ProgressBar
+	        android:id="@+id/remote_progress_bar_every"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+
+	        android:max="100"
+	        android:progress="0"
+	        style="?android:attr/progressBarStyleHorizontal"
+	        >
+	       </ProgressBar>
+	 </LinearLayout>
+
+</LinearLayout>

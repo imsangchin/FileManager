@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <!--depend on layout, add 6 padding -->
+
+    <dimen name="action_bar_default_height">56dip</dimen>
+
+    <dimen name="actionbar_height">56dp</dimen>
+    <dimen name="actionbar_title_size">27dp</dimen>
+    <dimen name="actionbar_title_size_drawer">38dp</dimen>
+
+    <dimen name="add_google_account_marginleft">38dp</dimen>
+
+    <dimen name="app_title_size">30dp</dimen>
+
+    <dimen name="btn_pathBback_marginLeft">14dp</dimen>
+    <dimen name="btn_pathBback_marginRight">13dp</dimen>
+
+    <dimen name="dialog_layout_margin_bottom">70dp</dimen>
+    <dimen name="dialog_layout_spacing_bottom">8dip</dimen>
+    <dimen name="dialog_layout_spacing_left">32dip</dimen>
+    <dimen name="dialog_layout_spacing_right">32dip</dimen>
+    <dimen name="dialog_layout_spacing_top">8dip</dimen>
+
+    <dimen name="drawer_width">380dp</dimen>
+
+    <dimen name="file_item_height">67dp</dimen>
+    <dimen name="file_list_height">67dp</dimen>
+    <dimen name="file_list_item_date_margintop">2dp</dimen>
+    <dimen name="file_name_width">250dp</dimen>
+    <dimen name="file_size_width">108dp</dimen>
+
+    <dimen name="folder_selector_input_editext_width">410dip</dimen>
+    <dimen name="folder_selector_select_path_height">400dip</dimen>
+    <dimen name="folder_selector_select_path_width">400dip</dimen>
+    <dimen name="folder_tree_icon_text_padding">8dip</dimen>
+    <dimen name="folder_tree_padding_left">15dip</dimen>
+
+    <dimen name="fragment_analyzer_chart_margin">16dp</dimen>
+
+    <dimen name="left_bound_land">370dip</dimen>
+    <dimen name="left_bound_port">220dip</dimen>
+
+    <dimen name="path_font_size">20dp</dimen>
+    <dimen name="path_view_height">45dp</dimen>
+
+    <dimen name="photo_picker_item_press_width">168dip</dimen>
+    <dimen name="photo_picker_item_shadow_height">192dip</dimen>
+    <dimen name="photo_select_dialog_content_inset">0dip</dimen>
+    <dimen name="photo_select_grid_item_height">180dip</dimen>
+    <dimen name="photo_select_grid_item_width">168dip</dimen>
+
+    <dimen name="right_bound_land">458dip</dimen>
+    <dimen name="right_bound_port">345dip</dimen>
+
+    <dimen name="search_result_title_font_size">16dp</dimen>
+
+    <dimen name="shortcut_fragment_width">240dp</dimen>
+
+    <dimen name="sort_name_width">262dp</dimen>
+    <dimen name="sort_size_width">115dp</dimen>
+    <dimen name="sort_type_width">124dp</dimen>
+
+    <dimen name="storage_list_app_title_height">72dp</dimen>
+    <dimen name="storage_list_connected_height">70dp</dimen>
+    <dimen name="storage_list_connected_name_size">17dp</dimen>
+    <dimen name="storage_list_height">58dp</dimen>
+    <dimen name="storage_list_item_paddingtop">6dp</dimen>
+    <dimen name="storage_list_name_size">21dp</dimen>
+    <dimen name="storage_list_storage_local_title_height">45dp</dimen>
+    <dimen name="storage_list_storage_title_name_size">18dp</dimen>
+
+    <dimen name="permission_dialog_title_margin_top">102dp</dimen>
+    <dimen name="permission_dialog_subtitle_margin_top">22dp</dimen>
+    <dimen name="permission_dialog_image_margin_top">67dp</dimen>
+    <dimen name="permission_dialog_button_margin_top">15dp</dimen>
+    <dimen name="permission_dialog_button_margin_bottom">35dp</dimen>
+    <dimen name="permission_dialog_padding">80dp</dimen>
+    <dimen name="permission_dialog_title_size">24sp</dimen>
+    <dimen name="permission_dialog_subtitle_size">19sp</dimen>
+    <dimen name="permission_dialog_image_height">414dp</dimen>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!--Text for trash-->
+    <string name="permanently_delete">"Μόνιμη διαγραφή"</string>
+    <string name="tools_recycle_bin">"Κάδος ανακύκλωσης"</string>
+    <!--string name="move_or_delete">Move or delete</string-->
+    <string name="move_or_delete_msg">"Να γίνει τώρα προσωρινή διαγραφή των στοιχείων στον κάδο ανακύκλωσης;\n(Επιλέξτε το παρακάτω πλαίσιο για μόνιμη διαγραφή των στοιχείων.)"</string>
+    <string name="move_to_trash_progress" description="Progress Content: text in progress dialog" maxwidth="">"Μεταφορά στον Κάδο ανακύκλωσης..."</string>
+    <string name="move_to_trash_success_one" description="Toast: move to recycle bin success. %s is variable string." maxwidth="-1">"Το \"%s\" μεταφέρθηκε στον Κάδο ανακύκλωσης"</string>
+    <string name="move_to_trash_success_more" description="Toast: move to recycle bin success" maxwidth="-1">"Τα επιλεγμένα αρχεία μεταφέρθηκαν στον Κάδο ανακύκλωσης"</string>
+    <string name="move_to_trash_fail" description="Toast: move to recycle bin fails" maxwidth="-1">"Αποτυχία μεταφοράς στον Κάδο ανακύκλωσης"</string>
+    <string name="trash_info_deleted" maxwidth="-1">"Ημερομηνία διαγραφής: "</string>
+    <string name="trash_info_path" maxwidth="-1">"Αρχική διαδρομή: "</string>
+    <string name="action_clean_all" maxwidth="-1">"Απαλοιφή όλων"</string>
+    <string name="action_restore_all" maxwidth="-1">"Επαναφορά όλων"</string>
+    <string name="action_clean" maxwidth="-1">"Απαλοιφή"</string>
+    <string name="action_restore" maxwidth="-1">"Επαναφορά"</string>
+    <string name="restore_success_one" description="Toast: restore success. %s is variable string." maxwidth="-1">"Έγινε επαναφορά του \"%s\""</string>
+    <string name="restore_success_more" description="Toast: restore success" maxwidth="-1">"Έγινε επαναφορά των επιλεγμένων αρχείων"</string>
+    <string name="restore_fail" description="Toast: restore fails" maxwidth="-1">"Αποτυχία επαναφοράς"</string>
+    <string name="restore_progress" description="Progress Content: text in progress dialog" maxwidth="">"Επαναφορά..."</string>
+    <string name="calculate_progress" description="Progress Content: text in progress dialog" maxwidth="">"Σε εξέλιξη..."</string>
+    <string name="msg_too_big_to_recycle">"Τα στοιχεία είναι πολύ μεγάλα για ανακύκλωση.\nΘέλετε να τα διαγράψετε μόνιμα;"</string>
+    <string name="duplicate_files">"Διπλότυπα αρχεία"</string>
+    <string name="duplicate_files_content_hint">"Εύρεση διπλότυπων αρχείων και διαγραφή τους με την άδειά σας."</string>
+</resources>

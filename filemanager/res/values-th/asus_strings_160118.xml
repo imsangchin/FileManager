@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="httpserver_title" maxwidth="">"โอนถ่ายไฟล์ไปยัง PC ด้วยระบบไร้สาย"</string>
+    <string name="httpserver_start" maxwidth="">"เริ่ม"</string>
+    <string name="httpserver_stop" maxwidth="">"หยุด"</string>
+    <string name="httpserver_need_saf" maxwidth="">"หากคุณต้องการจัดการพื้นที่จัดเก็บข้อมูลภายนอกของคุณจาก PC คุณต้องให้อนุญาต"</string>
+    <string name="httpserver_description" maxwidth="">"เริ่มใช้บริการเพื่อเชื่อมต่ออุปกรณ์เคลื่อนที่ของคุณเข้ากับ PC"</string>
+    <string name="httpserver_instruction" maxwidth="">"ป้องแอดเดรสนี้เข้าที่เบราเซอร์ของ PC:"</string>
+    <string name="httpserver_no_network" maxwidth="">"เชื่อมต่ออุปกรณ์ของคุณเข้ากับเครือข่าย Wi-Fi เดียวกัน"</string>
+    <string name="httpserver_no_permission_title" maxwidth="">"เริ่มการโอนถ่ายไฟล์แบบไร้สาย"</string>
+    <string name="httpserver_no_permission_message" maxwidth="">"คุณจะไม่สามารถเขียนไปยังอุปกรณ์การจัดเก็บภายนอกได้หากไม่มีการอนุญาตที่เหมาะสม ดำเนินการต่อหรือไม่?"</string>
+    <string name="httpserver_acquire_permission_message" maxwidth="">"เซิร์ฟเวอร์ไฟล์ HTTP จะปิดและการดำเนินการอาจถูกรบกวน ดำเนินการต่อหรือไม่?"</string>
+    <string name="category_title_tools">"เครื่องมือ"</string>
+    <string name="tools_file_transfer">"การโอนถ่ายไฟล์ไปยัง PC"</string>
+    <string name="tools_clean_master">"ทำความสะอาดขยะ"</string>
+    <string name="retention_notification_large_file">"คุณได้เพิ่มไฟล์ขนาดใหญ่ %1$s ไฟล์ ดูไฟล์ดังกล่าวเดี๋ยวนี้"</string>
+    <string name="retention_notification_recent_file">"ไฟล์ล่าสุดของคุณใช้พื้นที่ %1$s ดูตอนนี้เลย"</string>
+    <string name="recommend_clean_master_msg">"แอพ Android Optimizer, Speed Booster, Battery Saver และ Free Anti-Virus ที่ได้รับความเชื่อถือที่สุดในโลก \nดาวน์โหลดตอนนี้เลย?"</string>
+    <string name="recommend_clean_master_title">"คำแนะนำเกี่ยวกับแอพ"</string>
+    <string name="tools_tip_animation">"ดึงขึ้นเพื่อใช้เครื่องมือ!"</string>
+</resources>

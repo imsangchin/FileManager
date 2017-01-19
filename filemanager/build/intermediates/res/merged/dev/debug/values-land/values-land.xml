@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <dimen name="abc_action_bar_default_height_material">48dp</dimen>
+    <dimen name="abc_action_bar_progress_bar_size">32dp</dimen>
+    <dimen name="abc_text_size_subtitle_material_toolbar">12dp</dimen>
+    <dimen name="abc_text_size_title_material_toolbar">14dp</dimen>
+    <dimen name="asus_commonui_dialog_height">200dip</dimen>
+    <dimen name="asus_commonui_left_side_width">250dip</dimen>
+    <dimen name="asus_commonui_selected_date_day_size" ns1:ignore="SpUsage">100dp</dimen>
+    <dimen name="asus_commonui_selected_date_month_size" ns1:ignore="SpUsage">30dp</dimen>
+    <dimen name="asus_commonui_selected_date_year_size" ns1:ignore="SpUsage">30dp</dimen>
+    <dimen name="hidden_zone_introduction_margin_in_center">0dp</dimen>
+    <dimen name="hidden_zone_introduction_margin_top_and_bottom">0dp</dimen>
+    <dimen name="lockscreen_margin_in_center">0dp</dimen>
+    <dimen name="lockscreen_password_margin_top_and_bottom">0dp</dimen>
+    <dimen name="permission_dialog_button_margin_bottom">0dp</dimen>
+    <dimen name="permission_dialog_button_margin_top">8dp</dimen>
+    <dimen name="permission_dialog_image_height">174dp</dimen>
+    <dimen name="permission_dialog_image_margin_top">9dp</dimen>
+    <dimen name="permission_dialog_padding">48dp</dimen>
+    <dimen name="permission_dialog_subtitle_margin_top">15dp</dimen>
+    <dimen name="permission_dialog_subtitle_size">15sp</dimen>
+    <dimen name="permission_dialog_title_margin_top">19dp</dimen>
+    <dimen name="permission_dialog_title_size">18sp</dimen>
+    <dimen name="setup_account_margin_in_center">0dp</dimen>
+    <dimen name="setup_account_margin_top_and_bottom">0dp</dimen>
+    <style name="Widget.Design.TabLayout" parent="Base.Widget.Design.TabLayout">
+        <item name="tabGravity">center</item>
+        <item name="tabMode">fixed</item>
+    </style>
+</resources>

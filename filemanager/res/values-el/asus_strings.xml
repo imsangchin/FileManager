@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="file_manager" description="Application Name shown on title" maxwidth="">Διαχ. Αρχείων</string>
+    <string name="ok" description="Dialog Button: ok for dialog" maxwidth="">OK</string>
+    <string name="no" description="Dialog Button: no for dialog" maxwidth="">Όχι</string>
+    <string name="cancel" description="Dialog Button: cancel for dialog" maxwidth="">Ακύρωση</string>
+    <string name="select_all" description="Menu Option: select all checkbox" maxwidth="">Επιλογή όλων</string>
+    <string name="clear_all" description="Menu Option: clear all checkbox" maxwidth="">Διαγραφή όλων</string>
+    <string name="open_fail" description="Toast: open file fails" maxwidth="-1">Απέτυχε το άνοιγμα του αρχείου.</string>
+    <string name="permission_deny" description="Toast: operation permission deny" maxwidth="-1">Άρνηση άδειας.</string>
+    <string name="target_exist" description="Toast: target file exists" maxwidth="-1">Το αρχείο στόχος υπάρχει.</string>
+    <string name="target_folder_exist" description="Toast: target folder exists. %s is variable string." maxwidth="-1">"Ο φάκελος: \"%s\" υπάρχει ήδη."</string>
+    <string name="rename" description="Context Menu: options of context menu" maxwidth="">Μετονομασία</string>
+    <string name="rename_dialog" description="Dialog Title: rename dialog title" maxwidth="">Μετονομασία</string>
+    <string name="rename_fail" description="Toast: rename fails" maxwidth="-1">Απέτυχε η μετονομασία αρχείου.</string>
+    <string name="delete" description="Context Menu: options of context menu" maxwidth="">Διαγραφή</string>
+    <string name="delete_dialog" description="Dialog Title: delete dialog title" maxwidth="">Διαγραφή αρχείου</string>
+    <string name="delete_one_files" description="Dialog Content: text in dialog" maxwidth="">Θέλετε να διαγραφεί το αρχείο;</string>
+    <string name="delete_more_files" description="Dialog Content: text in dialog. %d is variable number." maxwidth="">Θέλετε να διαγραφούν τα %d στοιχεία;</string>
+    <string name="delete_size" description="Dialog Content: text in dialog" maxwidth="">"Μέγεθος: "</string>
+    <string name="delete_progress" description="Progress Content: text in progress dialog" maxwidth="">Διαγραφή...</string>
+    <string name="delete_fail" description="Toast: delete fails" maxwidth="-1">Η διαγραφή αρχείου απέτυχε.</string>
+    <string name="delete_success_one" description="Toast: delete success. %s is variable string." maxwidth="-1">"Το \"%s\" έχει διαγραφεί."</string>
+    <string name="delete_success_more" description="Toast: delete success" maxwidth="-1">Έχουν διαγραφεί τα επιλεγμένα αρχεία.</string>
+    <string name="new_folder_dialog" description="Dialog Title: create new folder" maxwidth="">Δημιουργία Νέου Φακέλου</string>
+    <string name="new_folder_fail" description="Toast: new folder fails" maxwidth="-1">Απέτυχε η δημιουργία νέου φακέλου.</string>
+    <string name="new_folder_success" description="Toast: new folder success. %s is variable string." maxwidth="-1">"Ο φάκελος \"%s\" δημιουργήθηκε."</string>
+    <string name="copy" description="Context Menu: options of context menu" maxwidth="">Αντιγραφή</string>
+    <string name="copy_ready_one" description="Toast: copy ready. %s is variable string." maxwidth="-1">"Το \"%s\" έχει αντιγραφεί και είναι έτοιμο για επικόλληση."</string>
+    <string name="copy_ready_more" description="Toast: copy ready" maxwidth="-1">Έχουν αντιγραφεί τα επιλεγμένα αρχεία και είναι έτοιμα για επικόλληση.</string>
+    <string name="cut" description="Context Menu: options of context menu" maxwidth="">Αποκοπή</string>
+    <string name="cut_ready_one" description="Toast: cut ready. %s is variable string." maxwidth="-1">"Το \"%s\" έχει αποκοπεί και είναι έτοιμο για επικόλληση."</string>
+    <string name="cut_ready_more" description="Toast: cut ready" maxwidth="-1">Έχουν αποκοπεί τα επιλεγμένα αρχεία και είναι έτοιμα για επικόλληση.</string>
+    <string name="paste" description="Context Menu: options of context menu" maxwidth="">Επικόλληση</string>
+    <string name="paste_exist_dialog" description="Dialog Title: paste exist dialog title" maxwidth="">Ίδιο όνομα αρχείου</string>
+    <string name="paste_exist_file" description="Dialog Content: text in dialog. %s is variable string." maxwidth="">"Το αρχείο \"%s\" υπάρχει ήδη."</string>
+    <string name="paste_exist_replace" description="Dialog Content: text in dialog" maxwidth="">Θέλετε να αντικατασταθεί με το νέο;</string>
+    <string name="paste_exist_to" description="Dialog Content: text in dialog" maxwidth="">Προς</string>
+    <string name="paste_exist_apply" description="Dialog Content: text in dialog" maxwidth="">Εφαρμογή σε όλα</string>
+    <string name="paste_progress" description="Progress Content: text in progress dialog" maxwidth="">Γίνεται επικόλληση…</string>
+    <string name="paste_fail" description="Toast: paste fails" maxwidth="-1">Η επικόλληση αρχείων απέτυχε.</string>
+    <string name="paste_success" description="Toast: paste success. %s is variable string." maxwidth="-1">"Τα αρχεία έχουν προστεθεί στο \"%s\"."</string>
+    <!-- Guoliang_Lin, 2011/04/01, UI required, new feature -->
+    <string name="no_space_fail" description="Toast: No space to copy file and left on device" maxwidth="-1">Ανεπαρκής αποθήκευση</string>
+    <!-- Guoliang Lin, 2011/04/27, UI required, new feature -->
+    <string name="action_add_folder" description="cutstom action bar view title for add folder" maxwidth="-1">Προσθήκη φακέλου</string>
+    <string name="action_hind_system_file" description="cutstom action bar view title for hinde system file" maxwidth="-1">Απόκρυψη αρχείων συστήματος</string>
+    <string name="deselect_all" description="cutstom action bar view title for deselect all checkbox" maxwidth="">Αποεπιλογή όλων</string>
+    <!-- Guoliang Lin, 2011/05/11, UI required, new feature -->
+    <string name="file_info_dialog_title" description="Dialog Title: File information dialog title" maxwidth="-1">Πληροφορίες αρχείου</string>
+    <string name="dir_info_dialog_title" description="Dialog Title: Directory information dialog title" maxwidth="-1">Πληροφορίες καταλόγου</string>
+    <string name="info" description="Context Menu: options of context menu" maxwidth="-1">Πληροφορίες</string>
+    <string name="info_name" description="file info textview context" maxwidth="-1">"Όνομα: "</string>
+    <string name="info_file_num" description="file info textview context" maxwidth="-1">"Αριθμός αρχείων: "</string>
+    <string name="info_permission" description="file info textview context" maxwidth="-1">"Άδεια: "</string>
+    <string name="info_modified" description="file info textview context" maxwidth="-1">"Ημερομηνία τροποποίησης: "</string>
+    <!-- Guoliang Lin, 2011/05/27, UI required, new feature -->
+    <string name="action_about" description="cutstom action bar view title for about" maxwidth="-1">Πληροφορίες</string>
+    <!-- Johnson Chen, 2011/08/05, UI required, new feature -->
+    <string name="select_folder" description="Title: select the folder" maxwidth="-1">Επιλέξτε το φάκελο</string>
+    <string name="invalid_directory_path" description="Invalid directory path" maxwidth="-1">Η διαδρομή καταλόγου δεν είναι έγκυρη</string>
+    <string name="short_cuts_title" description="shortcit title" maxwidth="-1">Συντόμευση</string>
+    <string name="type" description="button text for sort file by type" maxwidth="-1">Τύπος</string>
+    <string name="name" description="button text for sort file by name" maxwidth="-1">Όνομα</string>
+    <string name="size" description="button text for sort file by size" maxwidth="-1">Μέγεθος</string>
+    <string name="date" description="button text for sort file by date" maxwidth="-1">Ημερομηνία</string>
+    <string name="name_ascending" description="button text for sort file by name ascending" maxwidth="-1">Όνομα (ω-α)</string>
+    <string name="name_descending" description="button text for sort file by name descending" maxwidth="-1">Όνομα (α-ω)</string>
+    <string name="size_ascending" description="button text for sort file by size ascending" maxwidth="-1">Μέγεθος (μεγάλο-μικρό)</string>
+    <string name="size_descending" description="button text for sort file by size descending" maxwidth="-1">Μέγεθος (μικρό-μεγάλο)</string>
+    <string name="date_ascending" description="button text for sort file by date ascending" maxwidth="-1">Ημερομηνία (παλαιότερο-νεότερο)</string>
+    <string name="date_descending" description="button text for sort file by date descending" maxwidth="-1">Ημερομηνία (νεότερο-παλαιότερο)</string>
+    <string name="my_storage_title" description="storage label" maxwidth="-1">Ο χώρος αποθήκευσής μου</string>
+    <string name="internal_storage_title" description="storage label" maxwidth="-1">Εσωτερικός χώρος αποθήκευσης</string>
+    <string name="my_picture_title" description="shortcut label" maxwidth="-1">Εικόνα</string>
+    <string name="my_camera_title" description="shortcut label" maxwidth="-1">Κάμερα</string>
+    <string name="my_music_title" description="shortcut label" maxwidth="-1">Μουσική</string>
+    <string name="my_download_title" description="shortcut label" maxwidth="-1">Λήψη</string>
+    <string name="dialog_create_zip_title" description="compress dialog title" maxwidth="-1">Εισάγετε το όνομα της αρχειοθήκης</string>
+    <string name="zip_progress_msg" description="compress dialog message" maxwidth="-1">Σε εξέλιξη...</string>
+    <string name="zip_fail" description="toast message: Compress files fail" maxwidth="-1">Η συμπίεση των αρχείων απέτυχε</string>
+    <string name="zip_success" description="toast message: Compress files successly" maxwidth="-1">Τα αρχεία συμπιέστηκαν με επιτυχία</string>
+    <string name="search_label" description="cutstom action bar view title for search" maxwidth="-1">Αναζήτηση αρχείων</string>
+    <string name="search_progress" description="search dialog message" maxwidth="-1">Γίνεται αναζήτηση...</string>
+    <string name="location" description="button text for sort file by date" maxwidth="-1">"Θέση"</string>
+    <plurals name="number_search_items">
+        <item quantity="one">"Βρέθηκε %d αρχείο"</item>
+        <item quantity="other">"Βρέθηκαν %d αρχεία"</item>
+    </plurals>
+    <string name="search_result_title" description=" text for search result" formatted="false" maxwidth="-1">"Γίνεται αναζήτηση %s στο %s: "</string>
+    <string name="dialog_extract_zip_title" description="extract zip file dialog title. %s is a dynamic string. It is zip file name." maxwidth="-1">Εξαγωγή του %s σε:</string>
+    <string name="unzip_progress_msg" description="extract file dialog message" maxwidth="-1">Γίνεται εξαγωγή...</string>
+    <string name="unzip_fail" description="toast message: extract files fail" maxwidth="-1">Απέτυχε η εξαγωγή των αρχείων</string>
+    <string name="unzip_success" description="toast message: extract files successly" maxwidth="-1">Επιτυχής εξαγωγή των αρχείων</string>
+    <string name="action_clear_history" description="cutstom action bar view title for clear search history" maxwidth="">Διαγραφή ιστορικού αναζήτησης</string>
+    <plurals name="drag_items">
+        <item quantity="one">Σύρετε το αντικείμενο</item>
+        <item quantity="other">Σύρετε στοιχεία</item>
+    </plurals>
+    <string name="drag_items_one">Σύρετε το αντικείμενο</string>
+    <string name="drag_items_other">Σύρετε στοιχεία</string>
+    <string name="toast_drag_copied_items" description="Toast: The item(s) has been copied completely" maxwidth="-1">Επιτυχής αντιγραφή του/των στοιχείου(ων).</string>
+    <string name="toast_warning_copy_folders" description="Toast: Sorry, copy folders has not been supported" maxwidth="-1">"Δυστυχώς, η αντιγραφή φακέλων δεν υποστηρίζεται"</string>
+    <string name="toast_warning_copy_comple_cut_fail" description="Toast: Sorry, copy files complete but cut fail" maxwidth="-1">"Δυστυχώς, η αντιγραφή των αρχείων ολοκληρώθηκε αλλά η διαγραφή των παλαιών αρχείων απέτυχε"</string>
+    <string name="toast_drag_moved_items" description="Toast: The item(s) has been moved completely" maxwidth="-1">Επιτυχής μεταφορά του/των στοιχείου(ων).</string>
+    <string name="move" description="Hint: move the items" maxwidth="-1">Μετακίνηση</string>
+    <string name="drop_target_to" description="Hint: the target folder which you want to do something" maxwidth="-1">Στόχος σε:</string>
+    <string name="drop_incorrect_hint" description="Hint: the operation is incorrect" maxwidth="-1">Λανθασμένη λειτουργία</string>
+    <!-- Willie Huang, 2012/01/20, UI required, new feature -->
+    <string name="dialog_unzip_preview_title" description="show zip info dialog title. %s is a dynamic string. Is is a zip file name" maxwidth="-1">Εξαγωγή του %s</string>
+    <string name="extract" description="Dialog Button: extract file for dialog" maxwidth="-1">Εξαγωγή</string>
+    <plurals name="dialog_unzip_preview_size_text">
+        <item quantity="one">Σύνολο: %1$d αρχείο, %2$s</item>
+        <item quantity="other">Σύνολο: %1$d αρχεία, %2$s</item>
+    </plurals>
+    <string name="encode" description="Dialog Button: click to open the encoding list dialog" maxwidth="-1">Κωδικοποίηση κειμένου</string>
+    <string name="dialog_text_encoding_title" description="text encoding dialog title" maxwidth="-1">Κωδικοποίηση κειμένου</string>
+    <string-array name="charset_array">
+        <item>"Λατινικά-1 (ISO-8859-1)"</item>
+        <item>"Unicode (UTF-8)"</item>
+        <item>"Κινεζικά (GBK)"</item>
+        <item>"Κινεζικά (Big5)"</item>
+        <item>"Ιαπωνικά (ISO-2022-JP)"</item>
+        <item>"Ιαπωνικά (SHIFT_JIS)"</item>
+        <item>"Ιαπωνικά (EUC-JP)"</item>
+        <item>"Κορεατικά (EUC-KR)"</item>
+    </string-array>
+    <!-- Willie Huang, 2012/03/28, UI required, new feature -->
+    <string name="info_aperture" description="file info textview context" maxwidth="-1">"Διάφραγμα: "</string>
+    <string name="info_datetime" description="file info textview context" maxwidth="-1">"Ημερομηνία λήψης: "</string>
+    <string name="info_exposure_time" description="file info textview context" maxwidth="-1">"Χρόνος έκθεσης: "</string>
+    <string name="info_flash" description="file info textview context" maxwidth="-1">"Φλας: "</string>
+    <string name="info_focal_length" description="file info textview context" maxwidth="-1">"Μήκος εστίασης: "</string>
+    <string name="info_image_height" description="file info textview context" maxwidth="-1">"Ύψος: "</string>
+    <string name="info_image_x" description="file info textview context" maxwidth="-1">" x "</string>
+    <string name="info_image_width" description="file info textview context" maxwidth="-1">"Πλάτος"</string>
+    <string name="info_iso" description="file info textview context" maxwidth="-1">"ISO: "</string>
+    <string name="info_location" description="file info textview context" maxwidth="-1">"Τοποθεσία: "</string>
+    <string name="info_maker" description="file info textview context" maxwidth="-1">"Δημιουργός: "</string>
+    <string name="info_model" description="file info textview context" maxwidth="-1">"Μοντέλο: "</string>
+    <string name="info_orientation" description="file info textview context" maxwidth="-1">"Προσανατολισμός: "</string>
+    <string name="info_white_balance" description="file info textview context" maxwidth="-1">"Ισορρ. λευκού: "</string>
+    <string name="flash_on" description="string indicating camera flash is fired" maxwidth="-1">Το φλας άναψε</string>
+    <string name="flash_off" description="string indicating camera flash is not used" maxwidth="-1">Όχι φλας</string>
+    <string name="unit_mm" description="string indicating the length units in milli-meters" maxwidth="-1">χιλιοστά</string>
+    <string name="manual" description="string indicating how camera shooting feature is used" maxwidth="-1">Μη αυτόματο</string>
+    <string name="auto" description="string indicating how camera shooting feature is used" maxwidth="-1">Αυτόματο</string>
+    <!-- Guoliang_Lin, 2012/03/20, UI required, new feature -->
+    <string name="wait">"Περιμένετε..."</string>
+    <!-- Johnson Chen, 2012/04/13, UI required, new feature -->
+    <string name="select_album">Επιλογή λευκώματος</string>
+    <string name="select_photo">Επιλογή φωτογραφίας</string>
+    <string name="back_button_label" description="button text." maxwidth="-1">Πίσω</string>
+    <!-- Willie Huang, 2012/05/18, UI required, new feature -->
+    <string name="action_apply_selected_file" description="View title of custom action bar, apply to multiple selected files" maxwidth="-1">Εφαρμογή</string>
+    <!-- Willie Huang, 2013/01/03, UI required, new feature -->
+    <string name="loading" description="text for progress bar" maxwidth="-1">"Φόρτωση…"</string>
+    <string name="version" description="version" maxwidth="-1">"Έκδοση"</string>
+    <string name="title" description="title" maxwidth="-1">"Νομικές πληροφορίες:"</string>
+    <string name="content" description="content" maxwidth="-1">"Η χρήση του παρόντος λογισμικού υπόκειται στους όρους και στις προϋποθέσεις της τοποθεσίας Web της ASUS: \nhttp://www.asus.com"</string>
+    <string name="action_share" description="cutstom action bar view title for sharing" maxwidth="-1">"Κοινή χρ."</string>
+    <!-- Johnson Chen, 2012/05/18, UI required, new feature-->
+    <string name="photo_selection_limit_number_toast" description="Toast: You may not select more than %s photos." maxwidth="-1">Επιλέξτε μέχρι %s φωτογραφίες</string>
+    <!-- Alex6 Lin, -->
+    <string name="action_sort_by" description="String for asking for the rule of sorting" maxwidth="-1">Ταξινόμηση βάσει</string>
+    <plurals name="number_selected_items">
+        <item quantity="one">%d στοιχείο επιλέχτηκε</item>
+        <item quantity="other">%d στοιχεία επιλέχτηκαν</item>
+    </plurals>
+    <string name="info_type" description="file info textview context" maxwidth="-1">Τύπος:</string>
+    <string name="type_document" description="document type" maxwidth="-1">"Έγγραφο"</string>
+    <string name="type_audio" description="document type" maxwidth="-1">"Ήχος"</string>
+    <string name="type_video" description="document type" maxwidth="-1">"Βίντεο"</string>
+    <string name="type_playlist" description="document type" maxwidth="-1">"Λίστα αναπαραγωγής"</string>
+    <string name="type_image" description="document type" maxwidth="-1">"Εικόνα"</string>
+    <string name="type_book" description="document type" maxwidth="-1">"EBook"</string>
+    <string name="type_zip" description="document type" maxwidth="-1">"Zip"</string>
+    <string name="type_apk" description="document type" maxwidth="-1">"Εφαρμογή Android"</string>
+    <string name="type_abu" description="document type" maxwidth="-1">"Αντίγραφα ασφαλείας εφαρμογών Asus"</string>
+    <string name="type_file" description="document type" maxwidth="-1">"Αρχείο"</string>
+    <string name="type_directory" description="document type" maxwidth="-1">"Κατάλογος"</string>
+    <string name="search_action">"Αναζήτηση"</string>
+    <string name="fileList_Nofiles">Δεν υπάρχουν αρχεία</string>
+    <!-- Johnson Chen, 2012/05/18, UI required, new feature-->
+    <string name="wifidirect_available_devices" description="Available devices" maxwidth="-1">Διαθέσιμες συσκευές</string>
+    <string name="wifidirect_connect_hint_title" description="Dialog title text: Invitation to connect" maxwidth="-1">Πρόσκληση για σύνδεση</string>
+    <string name="wifidirect_connect_hint" description="Do you want to connect to device" maxwidth="-1">Θέλετε να συνδεθείτε με</string>
+    <string name="wifidirect_connecting_hint_title" description="Dialog title text: Wi-Fi Direct connecting" maxwidth="-1">Σύνδεση Άμεσου Wi-Fi...</string>
+    <string name="wifidirect_disconnect_hint" description=">Do you want to disconnect" maxwidth="-1">Θέλετε να αποσυνδεθείτε από</string>
+    <string name="shared_folder" description="Context Menu: options of context menu: share folder via Wi-Fi Direct" maxwidth="">Κοινή Χρήση μέσω Άμεσου Wi-Fi</string>
+    <string name="unshared_folder" description="Context Menu: options of context menu: unshare folder" maxwidth="-1">Μη κοινή χρήση</string>
+    <string name="remote_storage_title" description="remote storage label" maxwidth="-1">Απομακρυσμένη αποθήκευση</string>
+    <string name="remote_connected_error_hint" description="network is unavailable, please try again" maxwidth="-1">Το δίκτυο δεν είναι διαθέσιμο, ξαναπροσπαθήστε</string>
+    <string name="wifidirect_peer_device_title" description="peer devices title" maxwidth="-1">Ομότιμες συσκευές</string>
+    <string name="wifidirect_scanning" description="searching" maxwidth="-1">Αναζήτηση...</string>
+    <string name="wifidirect_touch_to_connect" description="click to connect" maxwidth="-1">Κάντε κλικ για να συνδεθείτε</string>
+    <string name="wifidirect_connectted" description="connectted" maxwidth="-1">Συνδέθηκε</string>
+    <string name="wifidirect_action_bar_scan" description="search" maxwidth="-1">Αναζήτηση</string>
+    <string name="wifidirect_storage_title" description="Search Wi-Fi Direct device" maxwidth="-1">Αναζητήστε συσκευή Άμεσο Wi-Fi</string>
+    <string name="wifidirect_peer_device_info" description="peer devices infomation" maxwidth="-1">"Για να λάβετε πρόσκληση στο Άμεσο Wi-Fi, βεβαιωθείτε ότι η συσκευή που πρόκειται να συνδέσετε παραμένει στη σελίδα \"Ομότιμες συσκευές\" στο Διαχειριστή Αρχείων."</string>
+    <string name="wifidirect_disconnect_hint_title" description="Disconnect Wi-Fi Direct" maxwidth="-1">Αποσύνδεση Άμεσου Wi-Fi</string>
+    <string name="wifi_p2p_turn_on_wifi_title" description="title for turn on WiFi dialog" width="-1">Ενεργοποίηση Άμεσου Wi-Fi</string>
+    <string name="wifi_p2p_turn_on_wifi_msg" description="message for request to turn on Wi-Fi" width="-1">Ενεργοποίηση Wi-Fi για χρήση υπηρεσιών Άμεσου Wi-Fi. Ενεργοποίηση του Wi-Fi τώρα;</string>
+    <!-- Johnson Chen, 2013/03/22, UI required, new feature-->
+    <string name="cloud_storage_title" description="Add more cloud storage" maxwidth="-1">Προσθήκη περισσότερου χώρου αποθήκευσης στο cloud</string>
+    <string name="add_cloud_storage_dialog_title" description="Dialog title: Add cloud storage" maxwidth="-1">Προσθήκη χώρου αποθήκευσης στο cloud</string>
+    <string name="cloud_storage_remove_hint" description=">Do you want to remove" maxwidth="-1">"Θέλετε να αποσυνδέσετε τον λογαριασμό \"%s\";"</string>
+    <string name="cloud_storage_remove_hint_title" description="Dialog title: Remove cloud storage" maxwidth="-1">Αποσύνδεση</string>
+    <string name="add_progress" description="Progress Content: text in progress dialog" maxwidth="">Δημιουργία...</string>
+    <string name="logging_cloud_storage" description="Progress Content: text in progress dialog" maxwidth="">Καταγραφή...</string>
+    <string name="wifi_p2p_connection_msg" description="message for request to connect Network" width="-1">Δημιουργήστε μια σύνδεση δικτύου για να χρησιμοποιήσετε τις υπηρεσίες cloud.</string>
+    <string name="wifi_p2p_connection_title" description="title for request to connect Network" width="-1">Δημιουργία σύνδεσης δικτύου</string>
+    <string name="logout_account" description="logout account" width="-1">Αποσύνδεση</string>
+    <string name="renaming_file" description="renaming file" width="-1">Μετονομασία</string>
+    <string name="rename_success" description="Toast: rename success" maxwidth="-1">Η μετονομασία του αρχείου ήταν επιτυχής.</string>
+    <string name="login_fail" description="Toast: login account fail" width="-1">Η σύνδεση απέτυχε</string>
+    <string name="starred" description="shortcut title: my favorite files" width="-1">"Με αξιολόγηση"</string>
+    <string name="recently_used" description="shortcut title: recently used files" width="-1">Πρόσφατα</string>
+    <string name="trash_can" description="shortcut title: trash can" width="-1">"Κάδος απορριμμάτων"</string>
+    <!-- Settings Page -->
+    <string name="menu_general_preferences" description="The title of a menu for General Preferences.Pressing the menu item lets user to view and edit his general settings" maxwidth="30">"Γενικές ρυθμίσεις"</string>
+    <string name="preferences_title" description="This is the title of the screen for setting user preferences." maxwidth="-1">"Ρυθμίσεις"</string>
+    <string name="settings_space_used" description="This is the title of space used for setting user preferences." maxwidth="-1">"Χρησιμοποιούμενος χώρος"</string>
+    <string name="settings_clear_search_history" description="This is the title of clearing search history action for setting user preferences." maxwidth="-1">"Απαλοιφή ιστορικού αναζήτησης"</string>
+    <string name="settings_hide_system_files" description="This is the title of hiding system files action for setting user preferences." maxwidth="-1">"Απόκρυψη αρχείων συστήματος"</string>
+    <string name="settings_trash_can" description="This is the title of trash can information for setting user preferences." maxwidth="-1">"Κάδος απορριμμάτων"</string>
+    <string name="settings_moved_to_the_trash_can" description="This is the title of moving to the trash can." maxwidth="-1">"Μεταφέρθηκε σε Κάδο απορριμμάτων"</string>
+    <string name="settings_user_name" description="This is the title of user name" maxwidth="-1">"Όνομα χρήστη"</string>
+    <string name="settings_documents_cache" description="This is the title of documents cache" maxwidth="-1">"Cache εγγράφων"</string>
+    <string name="settings_cache_size_title" description="This is the title of cache size" maxwidth="-1">"Μέγεθος cache"</string>
+    <string name="settings_set_cache_size" description="Set the cache size to %s" maxwidth="-1">"Το μέγεθος cache ορίστηκε σε \"%s\""</string>
+    <string name="settings_clear_cache_title" description="Clear the cache" maxwidth="-1">"Απαλοιφή cache"</string>
+    <string name="settings_clear_cache_info" description="Remove all cache documents" maxwidth="-1">"Κατάργηση όλων των εγγράφων του cache"</string>
+    <string name="settings_remove_account" description="Remove account" maxwidth="-1">"Κατάργηση λογαριασμού"</string>
+    <string name="drawer_open">"Άνοιγμα σχεδιαστή πλοήγησης"</string>
+    <string name="drawer_close">"Κλείσιμο σχεδιαστή πλοήγησης"</string>
+    <!-- begin add new server -->
+    <string name="samba_storage_title">"SAMBA"</string>
+    <string name="samba_storage_add_title">"Θέση δικτύου"</string>
+    <string name="server_title">Διακομιστής</string>
+    <string name="domain">"Τομέας:"</string>
+    <string name="domain_hint">"Μπορεί να είναι κενό"</string>
+    <string name="server">"Διακομιστής:"</string>
+    <string name="server_hint">"172.0.0.1/ShareFolder"</string>
+    <string name="example">"Παράδειγμα:"</string>
+    <string name="user">Όνομα χρήστη</string>
+    <string name="user_hint">διαχειριστής</string>
+    <string name="password">Κωδικός πρόσβασης</string>
+    <string name="display">"Εμφάνιση ως"</string>
+    <string name="display_hint">"Ο Υπολογιστής μου, μπορεί να είναι κενό"</string>
+    <string name="samba_input_error">Το όνομα χρήστη ή ο κωδικός πρόσβασης δεν μπορεί να κενά!</string>
+    <string name="samba_client_config_check" description="account config dialog remind message" maxwidth="-1">Απομνημόνευση ονόματος χρήστη και κωδικού πρόσβασης για απευθείας σύνδεση την επόμενη φορά</string>
+    <string name="pullfreshlistview_header_hint_normal">Μεταφορά προς τα κάτω</string>
+    <string name="pullfreshlistview_header_hint_ready">Αποδέσμευση για ανανέωση</string>
+    <string name="pullfreshlistview_header_hint_loading">Ανανέωση...</string>
+    <string name="pullfreshlistview_header_last_time">Χρόνος τελευταίας ανανέωσης:</string>
+    <string name="pullfreshlistview_footer_hint_normal">Φόρτωση περισσότερων</string>
+    <string name="pullfreshlistview_footer_hint_ready">Αποδέσμευση για φόρτωση περισσότερων</string>
+    <string name="cloud_preview_action_fail" description="Toast: cloud preview action" maxwidth="-1">Η προεπισκόπηση των αρχείων cloud απέτυχε.</string>
+    <string name="cloud_share_action_fail" description="Toast: cloud share action" maxwidth="-1">Η κοινή χρήση των αρχείων cloud απέτυχε.</string>
+    <string name="cloud_paste_backgroud" description="diaglog cloud background paste">Παρασκήνιο</string>
+    <string name="cloud_paste_uploading" description="diaglog cloud  paste uploading">Αποστολή αρχείων</string>
+    <string name="cloud_paste_downloading" description="diaglog cloud  paste">Λήψη αρχείων</string>
+    <string name="cloud_paste_total" description="diaglog cloud  total">Σύνολο</string>
+    <string name="cloud_paste_current" description="diaglog cloud  current">Τρέχον</string>
+    <string name="cloud_paste_copying" description="diaglog cloud  now is copy files">Αντιγραφή...</string>
+    <string name="cloud_paste_deleting" description="diaglog cloud  now is delete source files">Διαγραφή αρχείων προέλευσης...</string>
+    <string name="cloud_token_invalidate" description="diaglog cloud  token is invalidate">Το διακριτικό ακυρώθηκε. Συνδεθείτε ξανά!</string>
+    <string name="cloud_homebox_status_offline" description="home cloud device is offline">Η συσκευή είναι εκτός σύνδεσης</string>
+    <string name="cloud_homebox_status__info_offline" description="home cloud device is offline">Εκτός σύνδεσης</string>
+    <string name="cloud_homebox_status__info_online" description="home cloud device is online">Σε σύνδεση</string>
+    <string name="cloud_homebox_status__info_Sleep" description="home cloud device is sleep">Νάρκη</string>
+    <string name="cloud_homebox_no_available_devices" description="home cloud has no available devices">Δεν υπάρχουν διαθέσιμες συσκευές HomeCloud</string>
+    <string name="cloud_homebox_get_devices_fail" description="home cloud get available devices fail">Αποτυχία σάρωσης για διαθέσιμες συσκευές HomeCloud</string>
+<!--  <string name="cloud_paste_string_format"  description="diaglog cloud  paste string format" maxwidth="-1">%d / %d</string>-->
+    <string name="storage_type_cloud">Χώρος αποθήκευσης στο cloud</string>
+    <string name="storage_type_local">Τοπική μονάδα αποθήκευσης</string>
+    <string name="storagetype_add_account">Προσθήκη Google λογαριασμού</string>
+    <string name="network_cta_hint">"Κάντε αποδοχή για να συνδεθείτε στο δίκτυο "</string>
+ <string name="action_refresh_cloudfile">"Ανανέωση"</string>
+ <string name="baidu_storage_title">"百度云"</string>
+ <string name="dialog_load_stream_url_info">Ανάκτηση απαραίτητων πληροφοριών από διακομιστή</string>
+ <string name="paste_progress_title">Εκτελείται άλλη εργασία αντιγραφής...</string>
+ <string name="single_drm_file_forbidden_operation">Η ενέργεια αυτή δεν επιτρέπεται, λόγω προστασίας DRM.</string>
+ <string name="multi_drm_file_forbidden_operation">Η ενέργεια αυτή δεν επιτρέπεται, καθότι κάποια από τα επιλεγμένα αρχεία έχουν προστασία DRM.</string>
+ <string name="samba_login_error">Το όνομα χρήστη ή ο κωδικός πρόσβασης που εισαγάγατε είναι λανθασμένα.</string>
+     <string name="action_search" description="cutstom action bar view title for search" maxwidth="">Αναζήτηση</string>
+ <string name="cloud_upload_flie_limit_space" description="Toast: The size is over the limit and cannot be uploaded" maxwidth="-1">Το μέγεθος έχει υπερβεί το όριο και δεν μπορεί να φορτωθεί</string>
+ <string name="cloud_download_flie_limit_space" description="Toast: The size is over the limit and cannot be uploaded" maxwidth="-1">Το μέγεθος έχει υπερβεί το όριο και δεν μπορεί να φορτωθεί</string>
+ <string name="invalid_account" description="Toast: the account is invalid" maxwidth="-1">"Μη έγκυρος λογαριασμός"</string>
+ <string name="homecloud_access_error" description="Can’t connect to HomeCloud." maxwidth="-1">Αποτυχία σύνδεσης στο HomeCloud. Βεβαιωθείτε ότι η υπηρεσία HomeCloud είναι online.</string>
+ <string name="cloud_flie_name_not_supported" description="Toast: The name of the file uploaded is not supported by cloud server" maxwidth="-1">"Η διαδικασία δεν μπόρεσε να ολοκληρωθεί επειδή το όνομα αρχείου δεν υποστηρίζεται από τον διακομιστή στο cloud."</string>
+ <string name="action_cancel" description="action cancel" maxwidth="-1">Ακύρωση</string>
+ <string name="action_add" description="action add files" maxwidth="-1">Προσθήκη</string>
+ <string name="no_share_folder">Δεν υπάρχουν κοινά αρχεία σε αυτή τη συσκευή</string>
+ <string name="edit_toast_special_char">Δεν είναι δυνατή η συμπερίληψη ειδικών χαρακτήρων</string>
+ <string name="delete_one_directory" description="Dialog Content: text in dialog" maxwidth="">Θέλετε να διαγραφεί ο κατάλογος;</string>
+ <string name="type_dialog_title">Άνοιγμα ως</string>
+ <string name="type_dialog_text">Κείμενο</string>
+ <string name="type_dialog_image">Εικόνα</string>
+ <string name="type_dialog_audio">Ήχος</string>
+ <string name="type_dialog_video">Βίντεο</string>
+ <string name="target_directory_is_child_of_source">"Η διαδικασία δεν μπόρεσε να ολοκληρωθεί επειδή ο κατάλογος προορισμού είναι θυγατρικός του καταλόγου προέλευσης."</string>
+ <string name="edit_toast_name_too_long">Επετεύχθη ο μέγιστος αριθμός χαρακτήρων</string>
+ <string name="settings_description">"Τοπικοί φάκελοι και αρχεία"</string>
+ <string name="clear_account_info">Ξεχάστε όλους τους λογαριασμούς</string>
+ <string name="type_rar" description="document type" maxwidth="-1">"RAR"</string>
+ <string name="set_ring">"Ορισμός ως δακτυλίου"</string>
+    <string name="action_zip" description="cutstom action bar view title for zip" maxwidth="">Συμπίεση</string>
+    <string name="signout_account" description="signout account" width="-1">Αποσύνδεση</string>
+    <string name="cloud_storage_sign_out" description=">Do you want to signout" maxwidth="-1">"Είστε βέβαιοι ότι θέλετε να αποσυνδεθείτε \"%s\";"</string>
+    <string name="cloud_storage_sign_out_title" description="Dialog title: Signout cloud storage" maxwidth="-1">Αποσύνδεση</string>
+    <string name="cloud_storage_sign_in" description=">Do you want to signin" maxwidth="-1">Σύνδεση με χρήση του ακόλουθου λογαριασμού:</string>
+    <string name="cloud_storage_sign_in_title" description="Dialog title: Signin cloud storage" maxwidth="-1">Σύνδεση %s</string>
+    <!-- start add for CTA check  -->
+    <string name="cta_dialog_title">"Χρήση δικτύου"</string>
+    <string name="cta_dialog_content">Ο <b>Διαχειριστής αρχείων</b> επιχειρεί να χρησιμοποιήσει το δίκτυο. Ενδέχεται να υπάρξουν άλλες χρεώσεις, ανάλογα με τη συνδρομή σας.</string>
+    <string name="cta_check_title">"Απομνημόνευση"</string>
+    <string name="cta_agree">"Αποδοχή"</string>
+    <string name="cta_disagree">"Άρνηση"</string>
+    <string name="cta_show_menu">"Δικαίωμα δικτύου"</string>
+    <!-- end add for CTA check  -->
+    <string name="move_to">Μετακίνηση σε</string>
+    <string name="copy_to">Αντιγραφή σε</string>
+    <string name="category_title_category">Κατηγορία</string>
+    <string name="category_title_local_storage">Τοπική αποθήκευση</string>
+    <string name="category_image">Εικόνα</string>
+    <string name="category_music">Μουσική</string>
+    <string name="category_video">Βίντεο</string>
+    <string name="category_apk">Εφαρμογές</string>
+    <string name="category_download">Λήψη</string>
+    <string name="category_favorite">Αγαπημένα</string>
+    <string name="category_count">"%s"</string>
+    <string name="open">Άνοιγμα</string>
+    <string name="add_favorite">Προσθήκη στα Αγαπημένα</string>
+    <string name="remove_favorite">Κατάργηση από τα Αγαπημένα</string>
+    <string name="add_favorite_success">Αποθήκευση στα Αγαπημένα</string>
+    <string name="rename_favorite_folder">Μετονομασία φακέλου αγαπημένων</string>
+    <string name="rename_favorite_success">Επιτυχής μετονομασία και αποθήκευση στα Αγαπημένα</string>
+    <string name="rename_favorite_notice">Υπάρχει ήδη φάκελος με το ίδιο όνομα στο φάκελο αγαπημένων, θέλετε να τον μετονομάσετε;</string>
+    <string name="remove_favorite_notice_one">"Είστε βέβαιοι ότι θέλετε να καταργήσετε τα \"%s\" από τον φάκελο αγαπημένων;"</string>
+    <string name="remove_favorite_notice_more">Είστε βέβαιοι ότι θέλετε να καταργήσετε τα στοιχεία %d από τον φάκελο αγαπημένων;</string>
+    <string name="remove_favorite_success">Επιτυχής κατάργηση</string>
+    <string name="tutorial_skip">Παράβλεψη</string>
+    <string name="tutorial_done">Τέλος</string>
+    <string name="tutorial_page_one_title">Διαχείριση αρχείων ASUS</string>
+    <string name="tutorial_page_one_content">Η Διαχείριση αρχείων ASUS σάς δίνει τη δυνατότητα να διαχειρίζεστε τα αρχεία σας που είναι αποθηκευμένα σε εσωτερική, εξωτερική αποθήκευση, αποθήκευση τοπικής περιοχής δικτύου ή αποθήκευση cloud.</string>
+    <string name="tutorial_page_two_title">Αρχική σελίδα</string>
+    <string name="tutorial_page_two_content">Εύκολες στη χρήση κατηγορίες που σας δίνουν τη δυνατότητα να έχετε γρήγορη πρόσβαση στα αρχεία σας που βρίσκονται στην τοπική αποθήκευσή σας.</string>
+    <string name="tutorial_page_three_title">Κάντε δεξιά σάρωση στη λίστα ενεργειών.</string>
+    <string name="tutorial_page_three_content">Σαρώστε ένα στοιχείο προς τα δεξιά για να εμφανιστούν ενέργειες, όπως "Προσθήκη στα αγαπημένα, "Μετονομασία", "Μετακίνηση σε", "Αντιγραφή" και άλλες επιλογές διαχείρισης αρχείων.</string>
+    <string name="tutorial_page_four_title">Αγαπημένα</string>
+    <string name="tutorial_page_four_content">Ορίστε ένα φάκελο που χρησιμοποιείται συχνώ ως Αγαπημένο για να έχετε πρόσβαση στους φακέλους γρήγορα και εύκολα.</string>
+    <string name="saf_permission_tutorial_title">Αίτημα για άδεια για τη λειτουργία της κάρτας SD.</string>
+    <string name="saf_permission_tutorial_content">Η Διαχείριση αρχείων ASUS απαιτεί πρόσβαση για τη λειτουργία της κάρτας SD σας. Θέλετε να παραχωρήσετε άδεια;</string>
+    <string name="saf_tutorial_step_one">Πατήστε το εικονίδιο Μενού, στη συνέχεια πατήστε "Εμφάνιση κάρτας SD".</string>
+    <string name="saf_tutorial_step_two">Κάντε σάρωση στην αριστερή άκρη της οθόνης για να εμφανίστεί ο σχεδιαστής, κατόπιν πατήστε "Κάρτα SD".</string>
+    <string name="saf_tutorial_step_three">Πατήστε "Επιλογή κάρτας SD" για να παραχωρήσετε άδεια στη Διαχείριση αρχείων ASUS.</string>
+    <string name="device_root_path">ριζικό</string>
+    <string name="tap_to_exit">Πατήστε ξανά για έξοδο.</string>
+    <string name="info_path" description="file info textview context" maxwidth="-1">"Διαδρομή: "</string>
+    <string name="recruit_beta_user" description="recruit beta user" maxwidth="-1">Λάβετε μια έκδοση προεπισκόπησης</string>
+    <string name="rate_us" description="rate us" maxwidth="-1">Αξιολογήστε μας</string>
+    <string name="scroll_up_toast" description="rate now" maxwidth="">Κάντε κύλιση προς τα πάνω για να αξιολογήσετε</string>
+    <string name="settings_encourage_us_detail" description="recommend text" maxwidth="">Εάν απολαμβάνετε τη χρήση του %s, δώστε μας μία βαθμολογία 5 αστέρων στο Play Store. Θα ήταν μία φοβερή ενθάρρυνση για εμάς για να συνεχίσουμε να βελτιώνουμε το προϊόν!</string>
+    <string name="yes">Ναι</string>
+    <string name="menu_tutorial" description="settings menu tutorial" maxwidth="-1">Εκμάθηση</string>
+    <string name="about">Πληροφορίες</string>
+    <string name="version_text">έκδοση</string>
+    <string name="tell_friend" description="" maxwidth="">Ενημέρωση φίλου</string>
+    <string name="toolbar_item_title_encourage_us" maxwidth="35">Ενθαρρύνετέ μας</string>
+    <string name="zenui_update">"Άμεσες ενημερώσεις ZenUI"</string>
+    <string name="whats_new_label">Τι νέο υπάρχει</string>
+    <string name="next">Επόμενο</string>
+    <string name="invite_friends" description="sticker detail page button name" maxwidth="-1">"Πρόσκληση φίλων"</string>
+    <string name="news_mark1" maxwidth="">"★  "</string>
+</resources>

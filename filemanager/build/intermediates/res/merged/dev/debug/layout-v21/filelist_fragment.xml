@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="?normal_background_color" >
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/path_view_height"
+        android:gravity="center_vertical"
+        android:id="@+id/path_container_root">
+        <TextView android:id="@+id/cloudstorageUsage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_gravity="center"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="30dp"
+            android:textColor="@color/black"
+            android:textSize="16sp"
+            android:visibility="gone">
+        </TextView>
+        <ImageView android:id="@+id/view_switcher"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:paddingRight="@dimen/listview_item_margin"
+            app:srcCompat="@drawable/ic_icon_listview"
+            android:tint="@color/home_line_icon"
+            android:clickable="true"
+            android:focusable="true"
+            android:layout_centerVertical="true"/>
+        <LinearLayout android:id="@+id/path_indicator"
+            android:layout_toLeftOf="@id/view_switcher"
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_marginStart="@dimen/listview_item_margin"
+            android:layout_marginLeft="@dimen/listview_item_margin"
+            android:layout_marginEnd="@dimen/listview_item_margin"
+            android:layout_marginRight="@dimen/listview_item_margin"
+            android:layout_alignParentLeft="true"
+           >
+        <ImageView android:id="@+id/path_home"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="@dimen/btn_pathBback_marginRight"
+            app:srcCompat="@drawable/ic_icon_home"
+            android:tint="@color/home_line_icon"
+            android:clickable="true"
+            android:focusable="true"
+            android:layout_gravity="center_vertical"/>
+        <HorizontalScrollView android:id="@+id/scroll_container"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:clickable="false"
+            android:focusable="false"
+            android:layout_gravity="center_vertical"
+            android:gravity="center_vertical">
+            <LinearLayout android:id="@+id/pathContainer"
+                android:orientation="horizontal"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="center_vertical"
+                android:gravity="center_vertical"/>
+        </HorizontalScrollView>
+        </LinearLayout>
+    </RelativeLayout>
+
+    <View android:layout_width="match_parent"
+          android:layout_height="@dimen/dividerHeight"
+          android:layout_marginStart="@dimen/listview_item_margin"
+          android:layout_marginLeft="@dimen/listview_item_margin"
+          android:layout_marginEnd="@dimen/listview_item_margin"
+          android:layout_marginRight="@dimen/listview_item_margin"
+          android:background="?filelist_pathcontainer_divider_color" />
+
+    <LinearLayout android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/sort_container_root">
+
+        <RelativeLayout android:id="@+id/sort_type_container"
+            android:layout_width="@dimen/sort_type_width"
+            android:layout_height="50dp"
+            android:background="@drawable/asus_ep_sorting_bg"
+            android:clickable="true">
+
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/greyTextStyle"
+                android:text="@string/type"
+                android:layout_centerInParent="true"/>
+
+            <ImageView android:id="@+id/typeImage"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/asus_ep_ic_sorting"
+                android:layout_centerVertical="true"
+                android:layout_alignParentRight="true"
+                android:paddingLeft="15dp"/>
+
+        </RelativeLayout>
+
+        <View android:layout_width="1dp"
+            android:layout_height="50dp"
+            android:background="@drawable/asus_ep_sorting_split_line"/>
+
+        <LinearLayout android:id="@+id/sort_name_container"
+            android:orientation="horizontal"
+            android:layout_width="@dimen/sort_name_width"
+            android:layout_height="50dp"
+            android:background="@drawable/asus_ep_sorting_bg"
+            android:gravity="center_vertical"
+            android:clickable="true">
+
+            <TextView android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                style="@style/greyTextStyle"
+                android:text="@string/name"
+                android:paddingLeft="15dp"/>
+
+            <ImageView android:id="@+id/nameImage"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/asus_ep_ic_sorting"
+                android:paddingLeft="15dp"/>
+
+        </LinearLayout>
+
+        <View android:id="@+id/sort_name_container_split_line"
+            android:layout_width="1dp"
+            android:layout_height="50dp"
+            android:background="@drawable/asus_ep_sorting_split_line"
+            android:visibility="gone"/>
+
+        <LinearLayout android:id="@+id/sort_size_container"
+            android:orientation="horizontal"
+            android:layout_width="@dimen/sort_size_width"
+            android:layout_height="50dp"
+            android:background="@drawable/asus_ep_sorting_bg"
+            android:gravity="center_vertical"
+            android:clickable="true">
+
+            <TextView android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                style="@style/greyTextStyle"
+                android:text="@string/size"
+                android:paddingLeft="15dp"/>
+
+            <ImageView android:id="@+id/sizeImage"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/asus_ep_ic_sorting"
+                android:paddingLeft="15dp"/>
+
+        </LinearLayout>
+
+        <View android:layout_width="1dp"
+            android:layout_height="50dp"
+            android:background="@drawable/asus_ep_sorting_split_line"/>
+
+        <LinearLayout android:id="@+id/sort_date_container"
+            android:orientation="horizontal"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="50dp"
+            android:background="@drawable/asus_ep_sorting_bg"
+            android:gravity="center_vertical"
+            android:clickable="true">
+
+            <TextView android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                style="@style/greyTextStyle"
+                android:text="@string/date"
+                android:paddingLeft="15dp"/>
+
+            <ImageView android:id="@+id/dateImage"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/asus_ep_ic_sorting"
+                android:paddingLeft="15dp"/>
+
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout android:id="@+id/progressContainer"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:visibility="gone"
+            android:gravity="center">
+
+        <ProgressBar style="?android:attr/progressBarStyleLarge"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:text="@string/loading"
+                android:textColor="?text_color"
+                android:paddingTop="4dip"
+                android:singleLine="true" />
+
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <FrameLayout android:id="@+id/listContainer"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <com.asus.filemanager.ui.SlideListView
+                android:id="@android:id/list"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="@dimen/listview_item_margin"
+                android:layout_marginLeft="@dimen/listview_item_margin"
+                android:layout_marginEnd="@dimen/listview_item_margin"
+                android:layout_marginRight="@dimen/listview_item_margin"
+                android:dividerHeight="@dimen/dividerHeight"
+                android:headerDividersEnabled="false"
+                android:listSelector="@drawable/list_bg"
+                android:drawSelectorOnTop="true"
+                android:scrollbars="vertical"
+                android:divider="?filelist_divider_color" >
+            </com.asus.filemanager.ui.SlideListView>
+            <ExpandableListView
+                android:id="@+id/expand_list"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="@dimen/listview_item_margin"
+                android:layout_marginLeft="@dimen/listview_item_margin"
+                android:layout_marginEnd="@dimen/listview_item_margin"
+                android:layout_marginRight="@dimen/listview_item_margin"
+                android:groupIndicator="@null"
+                android:dividerHeight="@dimen/dividerHeight"
+                android:headerDividersEnabled="false"
+                android:listSelector="@drawable/list_bg"
+                android:drawSelectorOnTop="true"
+                android:scrollbars="vertical"
+                android:divider="?filelist_divider_color" >
+            </ExpandableListView>
+            <GridView
+                android:id="@+id/content_gird"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:numColumns="auto_fit"
+                android:scrollbars="vertical"
+                android:stretchMode="spacingWidth"
+                android:padding="@dimen/listview_item_margin"
+                android:horizontalSpacing="7dp"
+                android:columnWidth="102dp"
+                android:verticalSpacing="33dp"
+                android:visibility="gone">
+            </GridView>
+            <android.support.design.widget.FloatingActionButton
+                android:id="@+id/fab"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="bottom|right"
+                android:src="@drawable/asus_ic_floating_add"
+                android:scaleType="center"
+                android:layout_marginBottom="20dp"
+                android:layout_marginRight="20dp"
+                app:backgroundTint="@color/statusbar_color"
+                app:fabSize="normal" />
+            <com.asus.filemanager.ui.ContextualActionBar
+                android:id="@+id/cab_bar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="bottom|center"
+                android:visibility="gone" />
+            <TextView android:id="@android:id/empty"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:paddingLeft="15dip"
+                android:paddingRight="15dip"
+                android:textSize="19dp"
+                android:text="@string/empty_folder_title"
+                android:textColor="?text_color"
+                 />
+            <TextView android:id="@+id/empty_for_expandable"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:paddingLeft="15dip"
+                android:paddingRight="15dip"
+                android:textColor="#777777"
+                android:textSize="19dp"
+                android:text="@string/empty_folder_title"
+                 />
+       </FrameLayout>
+
+       <!-- the view just for dragging and dropping operation to detect the list bottom when scrolling-->
+       <View android:id="@+id/list_bottom"
+          android:layout_width="match_parent"
+          android:layout_height="20dip"
+          android:background="@android:color/transparent"
+          android:layout_alignParentBottom="true"/>
+    </RelativeLayout>
+</LinearLayout>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:layout_marginTop="@dimen/tutorial_page_margin_top"
+	    android:layout_marginStart="@dimen/tutorial_margin_left"
+	    android:layout_marginLeft="@dimen/tutorial_margin_left"
+	    android:layout_marginEnd="@dimen/tutorial_margin_left"
+	    android:layout_marginRight="@dimen/tutorial_margin_left">
+        <TextView android:id="@+id/view_pager_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="0dp"
+            android:layout_marginLeft="0dp"
+            android:gravity="start"
+            android:textSize="@dimen/tutorial_page_title_font_size"
+            android:text="@string/tutorial_page_four_title"
+            android:fontFamily="Roboto Regular"
+            android:textColor= "@color/tutorial_title_color"
+            android:singleLine="true"/>
+    </LinearLayout>
+
+    <LinearLayout
+		   android:layout_width="match_parent"
+		   android:layout_height="wrap_content"
+		   android:layout_marginTop="@dimen/tutorial_page_content_top"
+	       android:layout_marginStart="@dimen/tutorial_margin_left"
+	       android:layout_marginLeft="@dimen/tutorial_margin_left"
+	       android:layout_marginEnd="@dimen/tutorial_margin_left"
+	       android:layout_marginRight="@dimen/tutorial_margin_left">
+        <TextView android:id="@+id/view_pager_content"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="0dp"
+            android:layout_marginLeft="0dp"
+            android:gravity="start"
+            android:textSize="@dimen/tutorial_page_content_font_size"
+            android:text="@string/tutorial_page_four_content"
+            android:fontFamily="Roboto Regular"
+            android:textColor= "@color/tutorial_content_color"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+		    android:layout_width="match_parent"
+		    android:layout_height="match_parent"
+		    android:layout_marginStart="@dimen/tutorial_margin_left"
+		    android:layout_marginLeft="@dimen/tutorial_margin_left"
+	        android:layout_marginEnd="@dimen/tutorial_margin_left"
+	        android:layout_marginRight="@dimen/tutorial_margin_left"
+		    android:gravity="center">
+        <ImageView android:id="@+id/view_pager_image"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:src="@drawable/ic_tutorial_03"
+             android:scaleType="fitCenter"
+             android:focusable="false"
+	         android:clickable="false">
+		</ImageView>
+	 </LinearLayout>
+
+</LinearLayout>

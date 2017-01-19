@@ -1,0 +1,1313 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="alarm_set">
+        <item msgid="6450913786084215050">"アラームは今から1分以内に設定されています。"</item>
+        <item msgid="6002066367368421848">"アラームは<ns1:g id="DAYS">%1$s</ns1:g>後に設定されています。"</item>
+        <item msgid="8824719306247973774">"アラームは<ns1:g id="HOURS">%2$s</ns1:g>後に設定されています。"</item>
+        <item msgid="8182406852935468862">"アラームは<ns1:g id="DAYS">%1$s</ns1:g>と<ns1:g id="HOURS">%2$s</ns1:g>後に設定されています。"</item>
+        <item msgid="2532279224777213194">"アラームは<ns1:g id="MINUTES">%3$s</ns1:g>後に設定されています。"</item>
+        <item msgid="5936557894247187717">"アラームは<ns1:g id="DAYS">%1$s</ns1:g>と<ns1:g id="MINUTES">%3$s</ns1:g>後に設定されています。"</item>
+        <item msgid="9115697840826129603">"アラームは<ns1:g id="HOURS">%2$s</ns1:g><ns1:g id="MINUTES">%3$s</ns1:g>後に設定されています。"</item>
+        <item msgid="2332583385137381060">"アラームは<ns1:g id="DAYS">%1$s</ns1:g>と<ns1:g id="HOURS">%2$s</ns1:g><ns1:g id="MINUTES">%3$s</ns1:g>後に設定されています"</item>
+    </string-array>
+    <string-array name="charset_array">
+        <item>"ラテン-1 (ISO-8859-1)"</item>
+        <item>"Unicode (UTF-8)"</item>
+        <item>"中国語（GBK）"</item>
+        <item>"中国語（Big5）"</item>
+        <item>"日本語（ISO-2022-JP）"</item>
+        <item>"日本語（SHIFT_JIS）"</item>
+        <item>"日本語（EUC-JP）"</item>
+        <item>"韓国語（EUC-KR）"</item>
+    </string-array>
+    <string-array name="country_names">
+        <item>アルーバ</item>
+        <item>アフガニスタン (جمهوری اسلامی افغانستان)</item>
+        <item>アンゴラ (República de Angola)</item>
+        <item>アンギラ</item>
+        <item>アルバニア (Shqipëri)</item>
+        <item>アンドラ (Principat d\'Andorra)</item>
+        <item>オランダ領アンティル諸島</item>
+        <item>アラブ首長国連邦 (دولة الإمارات العربية المتحدة‎)</item>
+        <item>アルゼンチン (República Argentina)</item>
+        <item>アルメニア (Hayastan)</item>
+        <item>米サモア</item>
+        <item>南極大陸</item>
+        <item>フランス領南方・南極地域</item>
+        <item>アンティグア・バーブーダ</item>
+        <item>オーストラリア (Australia)</item>
+        <item>オーストリア (Österreich)</item>
+        <item>アゼルバイジャン</item>
+        <item>ブルンジ</item>
+        <item>ベルギー (België)</item>
+        <item>ベナン</item>
+        <item>ブルキナファソ</item>
+        <item>バングラデシュ (বাংলাদেশ)</item>
+        <item>ブルガリア (България / Balgariya)</item>
+        <item>バーレーン (مملكة البحرين)</item>
+        <item>バハマ</item>
+        <item>ボスニア/ヘルツェゴビナ (Bosna i Hercegovina)</item>
+        <item>ベラルーシ (Беларусь)</item>
+        <item>ベリーズ</item>
+        <item>バミューダ</item>
+        <item>ボリビア</item>
+        <item>ブラジル</item>
+        <item>バルバドス</item>
+        <item>ブルネイ・ダルサラーム (بروني دارالسلام)</item>
+        <item>ブータン</item>
+        <item>ブーヴェ島</item>
+        <item>ボツワナ (Lefatshe la Botswana)</item>
+        <item>中央アフリカ共和国 (République centrafricaine)</item>
+        <item>カナダ</item>
+        <item>ココス (キーリング) 諸島</item>
+        <item>スイス (Suisse)</item>
+        <item>チリ</item>
+        <item>中国 (中國)</item>
+        <item>コートジボアール</item>
+        <item>カメルーン</item>
+        <item>コンゴ</item>
+        <item>クック諸島</item>
+        <item>コロンビア</item>
+        <item>コモロ</item>
+        <item>カーボヴェルデ</item>
+        <item>コスタリカ</item>
+        <item>キューバ</item>
+        <item>クリスマス島</item>
+        <item>ケーマン諸島</item>
+        <item>キプロス (Euro)</item>
+        <item>チェコ共和国 (Česká republika)</item>
+        <item>ドイツ (Deutschland)</item>
+        <item>ジブチ</item>
+        <item>ドミニカ</item>
+        <item>デンマーク (Danmark)</item>
+        <item>ドミニカ共和国</item>
+        <item>アルジェリア</item>
+        <item>エクアドル</item>
+        <item>エジプト (مصر‎)</item>
+        <item>エリトリア</item>
+        <item>西サハラ</item>
+        <item>スペイン (España)</item>
+        <item>エストニア (Eesti)</item>
+        <item>エチオピア</item>
+        <item>フィンランド (Suomi)</item>
+        <item>フィジー</item>
+        <item>フォークランド諸島</item>
+        <item>フランス (France)</item>
+        <item>ベルギー (Belgique)</item>
+        <item>フェロー諸島</item>
+        <item>ミクロネシア</item>
+        <item>ガボン</item>
+        <item>イギリス (United Kingdom)</item>
+        <item>グルジア (საქართველო)</item>
+        <item>ガーナ</item>
+        <item>ジブラルタル</item>
+        <item>ギニア</item>
+        <item>グアドループ</item>
+        <item>ガンビア</item>
+        <item>ギニアビサウ</item>
+        <item>赤道ギニア</item>
+        <item>ギリシャ (Ελλάδα)</item>
+        <item>グレナダ</item>
+        <item>グリーンランド</item>
+        <item>グアテマラ</item>
+        <item>仏領ギニア</item>
+        <item>グアム</item>
+        <item>ガイアナ</item>
+        <item>香港 (香港)</item>
+        <item>ハード・マクドナルド諸島</item>
+        <item>ホンジュラス</item>
+        <item>クロアチア (Hrvatska)</item>
+        <item>ハイチ</item>
+        <item>ハンガリー (Magyarország)</item>
+        <item>インドネシア (Republik Indonesia)</item>
+        <item>インド (भारत गणराज्य )</item>
+        <item>英領インド</item>
+        <item>アイルランド (Ireland)</item>
+        <item>イラン (ایران)</item>
+        <item>イラク (العراق)</item>
+        <item>アイスランド (Ísland)</item>
+        <item>イスラエル (מְדִינַת יִשְׂרָאֵל  /  دَوْلَةُ إِسْرَائِيلَ)</item>
+        <item>イタリア (Italia)</item>
+        <item>ジャマイカ</item>
+        <item>ヨルダン (L\'Ürdünn)</item>
+        <item>日本 (日本国)</item>
+        <item>カザフスタン</item>
+        <item>ケニア (Jamhuri ya Kenya)</item>
+        <item>キルギスタン</item>
+        <item>カンボジア (कम्बोजदेश)</item>
+        <item>キリバス</item>
+        <item>セントキッツ・ネビス島</item>
+        <item>大韓民国 (대한민국)</item>
+        <item>クウェート (دولة الكويت)</item>
+        <item>ラオス人民民主共和国</item>
+        <item>レバノン (اَلْجُمْهُورِيَّة اَللُّبْنَانِيَّة)</item>
+        <item>リベリア</item>
+        <item>リビア (Libyan Arab Jamahiriya)</item>
+        <item>セントルシア</item>
+        <item>リヒテンシュタイン (Liechtenstein)</item>
+        <item>スリランカ (இலங்கை ஜனநாயக சமத்துவ)</item>
+        <item>レソト</item>
+        <item>リトアニア (Lietuva)</item>
+        <item>ルクセンブルグ (Lëtzebuerg)</item>
+        <item>ラトビア (Latvija)</item>
+        <item>マカオ</item>
+        <item>モロッコ</item>
+        <item>モナコ (Monaco)</item>
+        <item>モルドバ (Moldova)</item>
+        <item>マダガスカル</item>
+        <item>モルディブ</item>
+        <item>メキシコ</item>
+        <item>マーシャル諸島</item>
+        <item>マケドニア</item>
+        <item>マリ</item>
+        <item>マルタ (Malta)</item>
+        <item>ミャンマー (Pyidaunzu Thanmăda Myăma Nainngandaw)</item>
+        <item>モンゴル</item>
+        <item>北マリアナ諸島</item>
+        <item>モザンビーク</item>
+        <item>モーリタニア</item>
+        <item>モントセラト</item>
+        <item>マルティニク (Martinique)</item>
+        <item>モーリシャス (Republik Moris)</item>
+        <item>マラウイ</item>
+        <item>マレーシア (Persekutuan Malaysia)</item>
+        <item>マヨット</item>
+        <item>ナミビア</item>
+        <item>ニューカレドニア (Nouvelle-Calédonie)</item>
+        <item>ニジェール</item>
+        <item>ノーフォーク島 (Norfuk Ailen)</item>
+        <item>ナイジェリア (Republik Nijeriya)</item>
+        <item>ニカラグア</item>
+        <item>ニウエ</item>
+        <item>オランダ (Nederland)</item>
+        <item>ノルウェイ (Norge)</item>
+        <item>ネパール (सङ्घीय लोकतान्त्रिक गणतन्त्र नेपाल)</item>
+        <item>ナウル</item>
+        <item>ニュージーランド (New Zealand)</item>
+        <item>オマーン (لطنة عمان)</item>
+        <item>パキスタン (پاکِستان)</item>
+        <item>パナマ</item>
+        <item>ピトケルン</item>
+        <item>ペルー</item>
+        <item>フィリピン (Pilipinas)</item>
+        <item>パラオ</item>
+        <item>パプアニューギニア</item>
+        <item>ポーランド (Polska)</item>
+        <item>プエルトリコ</item>
+        <item>朝鮮民主主義人民共和国</item>
+        <item>ポルトガル (Portugal)</item>
+        <item>パラグアイ</item>
+        <item>仏領ポリネシア</item>
+        <item>カタール</item>
+        <item>レユニオン</item>
+        <item>ルーマニア (România)</item>
+        <item>ロシア (Россия)</item>
+        <item>ルワンダ</item>
+        <item>サウジアラビア (المملكة العربية السعودية)</item>
+        <item>セルビア・モンテネグロ</item>
+        <item>スーダン (جمهورية السودان)</item>
+        <item>セネガル</item>
+        <item>シンガポール (Singapore)</item>
+        <item>サウスジョージア・サウスサンドウィッチ諸島</item>
+        <item>セントヘレナ</item>
+        <item>スヴァールバル・ヤンマイエン諸島</item>
+        <item>ソロモン諸島 (Solomon Islands)</item>
+        <item>シエラレオネ</item>
+        <item>エルサルバドル</item>
+        <item>サンマリノ (San Marino)</item>
+        <item>ソマリア</item>
+        <item>サンピエール・ミクロン島 (St. Pierre and Miquelon)</item>
+        <item>サントメ・プリンシペ</item>
+        <item>スリナム</item>
+        <item>スロバキア (Slovensko)</item>
+        <item>スロベニア (Slovenija)</item>
+        <item>スウェーデン (Sverige)</item>
+        <item>スワジランド (Swatini)</item>
+        <item>セーシェル</item>
+        <item>シリアアラブ共和国 (جمهورية العربية السورية)</item>
+        <item>タークス・カイコス諸島</item>
+        <item>チャド</item>
+        <item>トーゴ</item>
+        <item>タイ (ราชอาณาจักรไทย)</item>
+        <item>タジキスタン</item>
+        <item>トケラウ</item>
+        <item>トルクメニスタン</item>
+        <item>東ティモール</item>
+        <item>トンガ</item>
+        <item>トリニダード・トバゴ</item>
+        <item>チュニジア</item>
+        <item>トルコ (Türkiye)</item>
+        <item>ツバル</item>
+        <item>台湾、中華民国 (台灣)</item>
+        <item>タンザニア</item>
+        <item>ウガンダ (Jamhuri ya Uganda)</item>
+        <item>ウクライナ (Україна)</item>
+        <item>合衆国領有小離島</item>
+        <item>ウルグアイ</item>
+        <item>アメリカ合衆国</item>
+        <item>ウズベキスタン</item>
+        <item>教皇庁 (Stato della Città del Vaticano)</item>
+        <item>セントビンセント・グレナディーン</item>
+        <item>ベネズエラ</item>
+        <item>バージン諸島 (英領)</item>
+        <item>バージン諸島 (米領)</item>
+        <item>ベトナム (Việt Nam)</item>
+        <item>バヌアツ</item>
+        <item>ウォリス・フツナ諸島</item>
+        <item>サモア</item>
+        <item>イエメン</item>
+        <item>南アフリカ (Republiek van Suid-Afrika)</item>
+        <item>コンゴ民主共和国 (ザイール)</item>
+        <item>ザンビア</item>
+        <item>ジンバブエ (Simudzai Mureza wedu WeZimbabwe)</item>
+    </string-array>
+    <plurals name="dialog_unzip_preview_size_text">
+        <item quantity="one">合計: %1$d ファイル、%2$s</item>
+        <item quantity="other">合計: %1$dファイル、%2$s</item>
+    </plurals>
+    <plurals name="drag_items">
+        <item quantity="one">"項目をドラッグ"</item>
+        <item quantity="other">"項目をドラッグ"</item>
+    </plurals>
+    <plurals name="number_search_items">
+        <item quantity="one">"%d件のファイルが見つかりました"</item>
+        <item quantity="other">"%d件のファイルが見つかりました"</item>
+    </plurals>
+    <plurals name="number_selected_items">
+        <item quantity="one">"%d件選択済み"</item>
+        <item quantity="other">"%d件選択済み</item>
+    </plurals>
+    <plurals name="uf_sdk_number_of_subscribers_format">
+        <item quantity="one">"%1$s はこのトピックが好きです"</item>
+        <item quantity="other">"%1$s はこのトピックが好きです"</item>
+    </plurals>
+    <plurals name="uf_sdk_topics">
+        <item quantity="one">"トピック"</item>
+        <item quantity="other">"トピック"</item>
+    </plurals>
+    <plurals name="uv_comments">
+        <item quantity="one">"コメント"</item>
+        <item quantity="other">"コメント"</item>
+    </plurals>
+    <plurals name="uv_number_of_subscribers_format">
+        <item quantity="one">%1$s はこのアイデアが欲しい</item>
+        <item quantity="other">"%1$s はこのアイデアが欲しい"</item>
+    </plurals>
+    <plurals name="uv_people">
+        <item quantity="one">"個人"</item>
+        <item quantity="other">"人物"</item>
+    </plurals>
+    <plurals name="uv_subscribers">
+        <item quantity="one">"購読者"</item>
+        <item quantity="other">"購読者"</item>
+    </plurals>
+    <string name="AsusWebstroage">AsusWebstorage</string>
+    <string name="AuCloud">AuCloud</string>
+    <string name="BaiDuPCS">BaiDuPCS</string>
+    <string name="Default">デフォルト</string>
+    <string name="Dropbox">Dropbox</string>
+    <string name="Google_Drive">Google Drive</string>
+    <string name="HomeCloud">HomeCloud</string>
+    <string name="OneDrive">OneDrive</string>
+    <string name="Yandex">Yandex</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"ホームへ移動"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s、%2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s、%2$s、%3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"上へ移動"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"その他のオプション"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"完了"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"すべて表示"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"アプリの選択"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"OFF"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ON"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"検索…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"検索キーワードを削除"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"検索キーワード"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"検索"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"検索キーワードを送信"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"音声検索"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"共有"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"%sと共有"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"折りたたむ"</string>
+    <string name="about">基本情報</string>
+    <string name="account_asus">ASUS</string>
+    <string maxwidth="-1" name="action">サインイン</string>
+    <string description="cutstom action bar view title for about" maxwidth="-1" name="action_about">バージョン情報</string>
+    <string description="action add files" maxwidth="-1" name="action_add">追加</string>
+    <string description="cutstom action bar view title for add folder" maxwidth="-1" name="action_add_folder">フォルダーの追加</string>
+    <string description="View title of custom action bar, apply to multiple selected files" maxwidth="-1" name="action_apply_selected_file">適用</string>
+    <string description="action cancel" maxwidth="-1" name="action_cancel">キャンセル</string>
+    <string maxwidth="-1" name="action_clean">"削除"</string>
+    <string maxwidth="-1" name="action_clean_all">"すべて削除"</string>
+    <string description="cutstom action bar view title for clear search history" maxwidth="" name="action_clear_history">検索履歴のクリア</string>
+    <string description="cutstom action bar view title for edit" maxwidth="" name="action_edit">"編集"</string>
+    <string maxwidth="" name="action_hidden_zone">"非表示キャビネットへ移動"</string>
+    <string description="cutstom action bar view title for hinde system file" maxwidth="-1" name="action_hind_system_file">システムの非表示</string>
+    <string name="action_loading">"ロードしています。"</string>
+    <string description="cutstom action bar view title for open with" maxwidth="" name="action_open_with">"何で開く"</string>
+    <string name="action_refresh_cloudfile">"更新"</string>
+    <string maxwidth="-1" name="action_restore">"復元"</string>
+    <string maxwidth="-1" name="action_restore_all">"すべて復元"</string>
+    <string description="cutstom action bar view title for search" maxwidth="" name="action_search">検索</string>
+    <string description="cutstom action bar view title for set as" maxwidth="" name="action_set_as">"何として写真を設定"</string>
+    <string description="menu title for setting" maxwidth="-1" name="action_settings">"設定"</string>
+    <string description="cutstom action bar view title for sharing" maxwidth="-1" name="action_share">"共有"</string>
+    <string description="String for asking for the rule of sorting" maxwidth="-1" name="action_sort_by">並び替え</string>
+    <string description="cutstom action bar view title for zip" maxwidth="" name="action_zip">圧縮</string>
+    <string description="Dialog title: Add cloud storage" maxwidth="-1" name="add_cloud_storage_dialog_title">クラウドストレージの追加</string>
+    <string name="add_favorite">お気に入りに追加</string>
+    <string name="add_favorite_folder">"お気に入りフォルダーの追加"</string>
+    <string name="add_favorite_success">お気に入りに保存</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="add_progress">作成しています...</string>
+    <string description="Don&apos;t remind me again" maxwidth="-1" name="alert_cb_msg">\u518d\u5ea6\u78ba\u8a8d\u3057\u306a\u3044</string>
+    <string description="ASUS ZenUI Services is not support, need update ASUS ZenUI Services" maxwidth="-1" name="alert_msg_azs_update">1$s\u3092\u5229\u7528\u3059\u308b\u306b\u306fASUS ZenUI\u30b5\u30fc\u30d3\u30b9\u306e\u6700\u65b0\u30d0\u30fc\u30b8\u30e7\u30f3\u304c\u5fc5\u8981\u3067\u3059\u3002\u4eca\u3059\u3050\u30a4\u30f3\u30b9\u30c8\u30fc\u30eb\u3057\u3066\u304f\u3060\u3055\u3044\u3002</string>
+    <string description="Client app is not support, need update client app" maxwidth="-1" name="alert_msg_client_update">1$s\u306e\u65b0\u30d0\u30fc\u30b8\u30e7\u30f3\u304c\u5229\u7528\u53ef\u80fd\u3067\u3059\u3002\u4eca\u3059\u3050\u30a4\u30f3\u30b9\u30c8\u30fc\u30eb\u3057\u3066\u304f\u3060\u3055\u3044\u3002</string>
+    <string description="Client app version is compatible with ASUS ZenUI Services" maxwidth="-1" name="alert_msg_compatible">%1$s \u30d0\u30fc\u30b8\u30e7\u30f3\u306fASUS ZenUI Service\u3068\u4e92\u63db\u6027\u304c\u3042\u308a\u307e\u3059\u3002</string>
+    <string description="Client app version is match with ASUS ZenUI Services" maxwidth="-1" name="alert_msg_match">%1$s \u30d0\u30fc\u30b8\u30e7\u30f3\u306fASUS ZenUI Service\u3068\u4e00\u81f4\u3057\u307e\u3059\u3002</string>
+    <string description="ASUS ZenUI Services is not found on device" maxwidth="-1" name="alert_msg_not_found">ASUS ZenUI Service\u304c\u30a4\u30f3\u30b9\u30c8\u30fc\u30eb\u3055\u308c\u3066\u3044\u307e\u305b\u3093\u3002\n\n\u30c0\u30a6\u30f3\u30ed\u30fc\u30c9\u3057\u3066\u30a4\u30f3\u30b9\u30c8\u30fc\u30eb\u3057\u307e\u3059\u304b\uff1f</string>
+    <string description="Dialog title" maxwidth="-1" name="alert_title">\u6ce8</string>
+    <string description="Dialog title" maxwidth="-1" name="alert_title_update">\u30a2\u30c3\u30d7\u30c7\u30fc\u30c8\u3092\u63a8\u5968\u3057\u307e\u3059</string>
+    <string name="app_cloudstorage_name">CloudStorage</string>
+    <string name="app_upload_complete">"%s \u306e\u30a2\u30c3\u30d7\u30ed\u30fc\u30c9\u304c\u5b8c\u4e86"</string>
+    <string description="" name="article_one">私は ASUS \"<u>利用規約</u>\"、ASUS \"<u>プライバシーに関する方針</u>\"、ASUS WebStorage \"<u>利用規約</u>\"、ASUS WebStorage \"<u>プライバシーに関する方針</u>\" に同意します。</string>
+    <string description="" name="article_two">ダイレクトメールにて、ASUSニュース、ソフトウェアの更新情報、製品とサービス に関する最新情報の配信を希望します。</string>
+    <string description="Text for create asus account button." maxwidth="" name="asus_account_create_button">新規作成</string>
+    <string name="asus_account_integrate_dialog_content">ASUS クラウドストレージサービスとお使いの ASUS アカウントを統合しますか？\n\n 統合後はすべての ASUS サービスを同じアカウントから利用できます。</string>
+    <string name="asus_account_integrate_dialog_skip">スキップ</string>
+    <string name="asus_account_integrate_dialog_title">ASUS サービスの統合</string>
+    <string name="asus_account_integrate_dialog_yes">はい</string>
+    <string description="Text for asus account content 1st." maxwidth="" name="asus_account_msg_content_1">no using</string>
+    <string description="Text for asus account content 2nd." maxwidth="" name="asus_account_msg_content_2">容量5GBの無料のクラウドストレージをご利用いただけます。</string>
+    <string description="Text for asus account content 3rd." maxwidth="" name="asus_account_msg_content_3">ASUSの新製品情報をいち早く入手できます。</string>
+    <string description="Text for asus account content title." maxwidth="" name="asus_account_msg_title">ASUSアカウントを作成すると、以下のような特典があります。</string>
+    <string name="asus_account_only_one_alert">"追加できる ASUS アカウントは 1 つだけです。 新しいアカウントに替える前に現在のアカウントを削除する必要があります。"</string>
+    <string name="asus_account_prefc">"設定"</string>
+    <string name="asus_account_prefc_advc">"詳細設定"</string>
+    <string name="asus_account_registe_country_error">国/地域を 1 つ選択してください！</string>
+    <string name="asus_account_registe_id_error">電子メールエラー</string>
+    <string name="asus_account_registe_policy_error">ASUS アカウントを登録するには ASUS ポリシーに同意する必要があります！</string>
+    <string name="asus_account_registe_pw_error_1">パスワードは空白にすることはできません！</string>
+    <string name="asus_account_registe_pw_error_2">パスワードの確認は空白にすることはできません！</string>
+    <string name="asus_account_registe_pw_error_3">パスワードと確認は同じでなければなりません！</string>
+    <string name="asus_account_registe_pw_error_4">"パスワードは 8 ～ 25 文字にしてください。"</string>
+    <string name="asus_account_removeaccount_dialog_content">"アカウントが統合されました。 新しいアカウントで再度ログインしてください。"</string>
+    <string name="asus_account_removeaccount_dialog_title">"ASUS アカウントの統合完了"</string>
+    <string name="asus_commonui_activity_chooser_view_see_all">"すべて表示"</string>
+    <string name="asus_commonui_activity_resolver_use_always">"常時"</string>
+    <string name="asus_commonui_activity_resolver_use_once">"1回のみ"</string>
+    <string name="asus_commonui_activitychooserview_choose_application">"アプリの選択"</string>
+    <string name="asus_commonui_activitychooserview_choose_application_error">
+        "<ns1:g id="APPLICATION_NAME">%s</ns1:g>を起動できませんでした"</string>
+    <string name="asus_commonui_cancel_label">"キャンセル"</string>
+    <string name="asus_commonui_chooseActivity">"操作の選択"</string>
+    <string msgid="3968620852217927702" name="asus_commonui_day_picker_description">"日グリッド（月別）"</string>
+    <string msgid="6908431551612331381" name="asus_commonui_deleted_key">"<ns1:g id="KEY">%1$s</ns1:g>を削除しました"</string>
+    <string name="asus_commonui_done_label">"OK"</string>
+    <string msgid="7586639618712934060" name="asus_commonui_hour_picker_description">"円形スライダー（時）"</string>
+    <string msgid="2674929164900463786" name="asus_commonui_item_is_selected">"<ns1:g id="ITEM">%1$s</ns1:g>を選択しました"</string>
+    <string msgid="6024811202872705251" name="asus_commonui_minute_picker_description">"円形スライダー（分）"</string>
+    <string name="asus_commonui_noApplications">"この操作を実行できるアプリはありません。"</string>
+    <string name="asus_commonui_no_url_handler">URLを開くアプリが見つかりません</string>
+    <string name="asus_commonui_privacy_policy">プライバシーポリシー</string>
+    <string name="asus_commonui_privacy_policy_url">http://www.asus.com/JP/Terms_of_Use_Notice_Privacy_Policy/Privacy_Policy</string>
+    <string msgid="3973338219107019769" name="asus_commonui_select_day">"月と日を選択"</string>
+    <string msgid="7651068754188418859" name="asus_commonui_select_hours">"時間を選択"</string>
+    <string msgid="8327182090226828481" name="asus_commonui_select_minutes">"分を選択"</string>
+    <string msgid="2603330600102539372" name="asus_commonui_select_year">"年を選択"</string>
+    <string name="asus_commonui_shareactionprovider_share_with">"共有"</string>
+    <string name="asus_commonui_shareactionprovider_share_with_application">
+        "<ns1:g id="APPLICATION_NAME">%s</ns1:g>と共有"</string>
+    <string name="asus_commonui_terms_of_use_notice">利用規約の通知</string>
+    <string name="asus_commonui_terms_of_use_notice_url">http://www.asus.com/JP/Terms_of_Use_Notice_Privacy_Policy/Official_Site/</string>
+    <string name="asus_commonui_whichApplication">"アプリケーションを選択"</string>
+    <string name="asus_commonui_whichHomeApplication">"ホームアプリを選択"</string>
+    <string msgid="6963340404644587098" name="asus_commonui_year_picker_description">"年リスト"</string>
+    <string name="asus_feedback_and_help">フィードバック＆ヘルプ</string>
+    <string name="asus_registe_success_title">"ASUS アカウントの登録完了"</string>
+    <string name="asus_response_resultdata">"このアカウントは既に登録されています。"</string>
+    <string name="asusaccount_app_name">ASUS アカウント</string>
+    <string maxwidth="-1" name="attribution_notice">帰属に関する告知：</string>
+    <string maxwidth="-1" name="attribution_notice_content">
+    "
+        \n本製品には、以下に記載したオープンソースが含まれています:
+\n\Apacheライセンスバージョン 2.0の下でライセンスされたnuservoice-android-sdk。このライセンスは http://www.apache.org/licenses/LICENSE-2.0.html からダウンロードできます。
+        \n\MITの下でライセンスされたnangular-filemanager。このライセンスは https://github.com/joni2back/angular-filemanager/blob/master/LICENSE からダウンロードできます。
+        \n\MITの下でライセンスされたnprogressbar。このライセンスは https://github.com/kimmobrunfeldt/progressbar.js/blob/master/LICENSE からダウンロードできます。
+        \n\ntoastr, Copyright (c) 2012-2015 John Papa, Tim Ferrell, Hans Fjallemark\nこれにより、以下の条件に従うことを条件として、本ソフトウェアおよび関連するドキュメントファイル (「ソフトウェア」) のコピーを入手した人に、当該ソフトウェアを無制限に売買する許可を無償で与えます。これには、当該ソフトウェアの使用、コピー、変更、統合、発行、配布、二次ライセンスを行う無制限の権利、および/または当該ソフトウェアのコピーを販売する権利、さらに当該ソフトウェアが供給された人に対してこれらを行うことを許可する権利が含まれます:
+        上記の著作権表示および本許可表示を当該ソフトウェアの全てのコピーまたは実質的部分に含めることとします。当該ソフトウェアは、商業性、特定用途への適合性、および非侵害の保証や、これらに限定されない明示または黙示の如何なる種類の保証も含まずに、「無保証」で提供されます。当該作成者または著作権所有者は、当該ソフトウェアによって生じた、または当該ソフトウェアの使用あるいはその他の取引に関連して生じた契約上の訴訟、不法行為またはその他に関する如何なる請求、損害またはその他の不利益に対して、如何なる場合にも責任を負わないものとします。
+"
+    </string>
+    <string name="aucloud_account_only_one_alert">"追加できる Cloud アカウントは 1 つだけです。 新しいアカウントに替える前に現在のアカウントを削除する必要があります。"</string>
+    <string name="aucloud_login_redirect">au IDとパスワードを入力してログインしてください</string>
+    <string description="string indicating how camera shooting feature is used" maxwidth="-1" name="auto">オート</string>
+    <string maxwidth="-1" name="aws_install_contnet">WebStorage がインストールされていません。Playストア からダウンロードし、インストールしますか？</string>
+    <string maxwidth="" name="aws_install_title">WebStorage がインストールされていません</string>
+    <string description="button text." maxwidth="-1" name="back_button_label">戻る</string>
+    <string name="baidu_alert_info">"Baidu のプラットフォームに基づき、このデバイスは "My Application Data\\asus\\" にあるデータにのみアクセスできます。"</string>
+    <string name="baidu_alert_title">"百度クラウドストレージ"</string>
+    <string name="baidu_storage_title">"百度云"</string>
+    <string name="baidupcs_account_only_one_alert">"追加できる Baidu for ASUS アカウントは 1 つだけです。 新しいアカウントに替える前に現在のアカウントを削除する必要があります。"</string>
+    <string name="btn_OK">OK</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="calculate_progress">"処理中..."</string>
+    <string description="Toast: can not open in hidden zone" maxwidth="-1" name="can_not_open_in_hidden_zone">"非表示キャビネットで開くことができません"</string>
+    <string description="Dialog Button: cancel for dialog" maxwidth="" name="cancel">キャンセル</string>
+    <string name="cancle">キャンセル</string>
+    <string name="category_apk">アプリ</string>
+    <string maxwidth="11" name="category_app1">"アプリ"</string>
+    <string name="category_compress">"圧縮"</string>
+    <string maxwidth="11" name="category_compressed1">"圧縮"</string>
+    <string name="category_count">"%s"</string>
+    <string maxwidth="11" name="category_document1">"ドキュメント"</string>
+    <string name="category_documents">"ドキュメント"</string>
+    <string name="category_download">ダウンロード</string>
+    <string maxwidth="11" name="category_download1">"ダウンロード"</string>
+    <string name="category_favorite">お気に入り</string>
+    <string maxwidth="11" name="category_favorite1">"お気に入り"</string>
+    <string name="category_game">"ゲーム"</string>
+    <string name="category_image">画像</string>
+    <string maxwidth="11" name="category_image1">"画像"</string>
+    <string maxwidth="11" name="category_large_file1">"大容量ファイル"</string>
+    <string name="category_music">音楽</string>
+    <string maxwidth="11" name="category_music1">"音楽"</string>
+    <string name="category_name_app_wallpaper">"ライブ壁紙"</string>
+    <string name="category_name_app_widgets">"ウィジェット"</string>
+    <string name="category_name_books_and_reference">"書籍＆文献"</string>
+    <string name="category_name_business">"ビジネス"</string>
+    <string name="category_name_comics">"コミック"</string>
+    <string name="category_name_communication">"通信"</string>
+    <string name="category_name_education">"教育"</string>
+    <string name="category_name_entertainment">"エンタテイメント"</string>
+    <string name="category_name_finance">"ファイナンス"</string>
+    <string name="category_name_game">"ゲーム"</string>
+    <string name="category_name_game_action">"アクション"</string>
+    <string name="category_name_game_adventure">"アドベンチャー"</string>
+    <string name="category_name_game_arcade">"アーケード"</string>
+    <string name="category_name_game_board">"ボード"</string>
+    <string name="category_name_game_card">"カード"</string>
+    <string name="category_name_game_casino">"カジノ"</string>
+    <string name="category_name_game_casual">"カジュアル"</string>
+    <string name="category_name_game_educational">"教育"</string>
+    <string name="category_name_game_family">"ファミリー"</string>
+    <string name="category_name_game_music">"音楽"</string>
+    <string name="category_name_game_puzzle">"パズル"</string>
+    <string name="category_name_game_racing">"レース"</string>
+    <string name="category_name_game_role_playing">"ロールプレイング"</string>
+    <string name="category_name_game_simulation">"シミュレーション"</string>
+    <string name="category_name_game_sports">"スポーツ"</string>
+    <string name="category_name_game_strategy">"ストラテジー"</string>
+    <string name="category_name_game_trivia">"雑学"</string>
+    <string name="category_name_game_word">"言葉"</string>
+    <string name="category_name_health_and_fitness">"健康＆フィットネス"</string>
+    <string name="category_name_libraries_and_demo">"ライブラリ＆デモ"</string>
+    <string name="category_name_lifestyle">"ライフスタイル"</string>
+    <string name="category_name_media_and_video">"メディア＆動画"</string>
+    <string name="category_name_medical">"医療"</string>
+    <string name="category_name_music_and_audio">"音楽＆オーディオ"</string>
+    <string name="category_name_news_and_magazines">"ニュース＆雑誌"</string>
+    <string name="category_name_personalization">"カスタマイズ"</string>
+    <string name="category_name_photography">"写真"</string>
+    <string name="category_name_productivity">"仕事効率化"</string>
+    <string name="category_name_shopping">"ショッピング"</string>
+    <string name="category_name_social">"ソーシャルネットワーク"</string>
+    <string name="category_name_sports">"スポーツ"</string>
+    <string name="category_name_tools">"ツール"</string>
+    <string name="category_name_transportation">"交通"</string>
+    <string name="category_name_travel_and_local">"旅行＆地域"</string>
+    <string name="category_name_weather">"天気"</string>
+    <string name="category_others">"その他"</string>
+    <string maxwidth="11" name="category_recent1">"最近開いたファイル"</string>
+    <string name="category_recent_files">"最近の追加"</string>
+    <string name="category_sorting_summary">"カテゴリパネルに表示される項目を選択します"</string>
+    <string name="category_title_category">カテゴリ</string>
+    <string name="category_title_local_storage">ローカルストレージ</string>
+    <string name="category_title_tools">"ツール"</string>
+    <string name="category_toast_invalid_item_size_6_or_9">"6 または 9 項目を選択してください"</string>
+    <string name="category_toast_invalid_item_size_9">"9 項目を選択してください"</string>
+    <string name="category_toast_invalid_remove">"この項目は削除できません"</string>
+    <string name="category_toast_max_item_size">"最大 9 項目を選択します"</string>
+    <string name="category_video">動画</string>
+    <string maxwidth="11" name="category_video1">"動画"</string>
+    <string name="clear_account_info">全てのアカウントを消去</string>
+    <string description="Menu Option: clear all checkbox" maxwidth="" name="clear_all">全てクリア</string>
+    <string name="click_plus_to_add_favorite_folder">"+ を押してお気に入りフォルダーを追加します"</string>
+    <string description="Toast: The size is over the limit and cannot be uploaded" maxwidth="-1" name="cloud_download_flie_limit_space">ファイルサイズが上限を超えているため、アップロードできません</string>
+    <string description="Toast: The name of the file uploaded is not supported by cloud server" maxwidth="-1" name="cloud_flie_name_not_supported">"ファイル名がクラウドサーバーでサポートされていないので操作を完了できませんでした。"</string>
+    <string description="home cloud get available devices fail" name="cloud_homebox_get_devices_fail">利用可能なHomeCloudデバイスをスキャンできません</string>
+    <string description="home cloud has no available devices" name="cloud_homebox_no_available_devices">利用可能なHomeCloudデバイスはありません</string>
+    <string description="home cloud device is sleep" name="cloud_homebox_status__info_Sleep">"スリープ"</string>
+    <string description="home cloud device is offline" name="cloud_homebox_status__info_offline">オフライン</string>
+    <string description="home cloud device is online" name="cloud_homebox_status__info_online">オンライン</string>
+    <string description="home cloud device is offline" name="cloud_homebox_status_offline">デバイスがオフラインになっています</string>
+    <string description="diaglog cloud background paste" name="cloud_paste_backgroud">バックグラウンド</string>
+    <string description="diaglog cloud  now is copy files" name="cloud_paste_copying">コピーしています...</string>
+    <string description="diaglog cloud  current" name="cloud_paste_current">現在</string>
+    <string description="diaglog cloud  now is delete source files" name="cloud_paste_deleting">ソースファイルを削除しています...</string>
+    <string description="diaglog cloud  paste" name="cloud_paste_downloading">ファイルをダウンロードしています</string>
+    <string description="diaglog cloud  total" name="cloud_paste_total">合計</string>
+    <string description="diaglog cloud  paste uploading" name="cloud_paste_uploading">ファイルをアップロードしています</string>
+    <string description="Toast: cloud preview action" maxwidth="-1" name="cloud_preview_action_fail">クラウドファイルをプレビューできませんでした。</string>
+    <string description="Toast: cloud share action" maxwidth="-1" name="cloud_share_action_fail">クラウドファイルを共有できませんでした。</string>
+    <string description=">Do you want to remove" maxwidth="-1" name="cloud_storage_remove_hint">"\"%s\"アカウントをログアウトしますか?"</string>
+    <string description="Dialog title: Remove cloud storage" maxwidth="-1" name="cloud_storage_remove_hint_title">ログアウト</string>
+    <string description=">Do you want to signin" maxwidth="-1" name="cloud_storage_sign_in">次のアカウントを使用して接続:</string>
+    <string description="Dialog title: Signin cloud storage" maxwidth="-1" name="cloud_storage_sign_in_title">%sに接続</string>
+    <string description=">Do you want to signout" maxwidth="-1" name="cloud_storage_sign_out">"\"%s\"をサインアウトしますか？"</string>
+    <string description="Dialog title: Signout cloud storage" maxwidth="-1" name="cloud_storage_sign_out_title">"接続を解除"</string>
+    <string description="Add more cloud storage" maxwidth="-1" name="cloud_storage_title">クラウドストレージをさらに追加する</string>
+    <string description="diaglog cloud  token is invalidate" name="cloud_token_invalidate">トークンが無効になっています。再度ログインしてください！</string>
+    <string description="Toast: The size is over the limit and cannot be uploaded" maxwidth="-1" name="cloud_upload_flie_limit_space">ファイルサイズが上限を超えているため、アップロードできません</string>
+    <string name="com_facebook_image_download_unknown_error">画像のダウンロード中に予期しないエラーが発生しました。</string>
+    <string name="com_facebook_internet_permission_error_message">WebViewログインにはINTERNET権限が必要です</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifestエラー</string>
+    <string name="com_facebook_like_button_liked">いいね！済み</string>
+    <string name="com_facebook_like_button_not_liked">いいね！</string>
+    <string name="com_facebook_loading">読み込み中...</string>
+    <string name="com_facebook_loginview_cancel_action">キャンセル</string>
+    <string name="com_facebook_loginview_log_in_button">ログイン</string>
+    <string name="com_facebook_loginview_log_in_button_long">Facebookでログイン</string>
+    <string name="com_facebook_loginview_log_out_action">ログアウト</string>
+    <string name="com_facebook_loginview_log_out_button">ログアウト</string>
+    <string name="com_facebook_loginview_logged_in_as">次のユーザーとしてログイン中: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Facebookを使用してログイン中</string>
+    <string name="com_facebook_send_button_text">送信</string>
+    <string name="com_facebook_share_button_text">シェア</string>
+    <string name="com_facebook_tooltip_default">新機能！アプリと共有する情報をコントロールできます。</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"有効にする"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>の実行には、Google Play開発者サービスの有効化が必要です。"</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Google Play開発者サービスの有効化"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"インストール"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"「<ns1:g id="APP_NAME">%1$s</ns1:g>」の実行には Google Play 開発者サービスが必要ですが、お使いの端末にはインストールされていません。"</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Google Play開発者サービスの入手"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Google Play開発者サービスのエラー"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"「<ns1:g id="APP_NAME">%1$s</ns1:g>」で Google Play 開発者サービスに問題が発生しています。もう一度お試しください。"</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"「<ns1:g id="APP_NAME">%1$s</ns1:g>」の実行には Google Play 開発者サービスが必要ですが、お使いの端末ではサポートされていません。"</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"更新"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>の実行にはGoogle Play開発者サービスの更新が必要です。"</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Google Play開発者サービスの更新"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>の実行にはGoogle Play開発者サービスが必要ですが、このサービスは現在更新中です。"</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Google Play開発者サービスの新しいバージョンが必要です。まもなく自動更新されます。"</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"スマートフォンで開く"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"ログイン"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Googleにログイン"</string>
+    <string name="confirm">"確定"</string>
+    <string maxwidth="-1" name="confirm_ok">OK</string>
+    <string description="confirm password textview title" name="confirm_password">パスワードの確認</string>
+    <string description="ask user to enter password again to confirm" name="confirm_password_edit">パスワードを再入力してください</string>
+    <string description="content" maxwidth="-1" name="content">本ソフトウェアをご利用いただくには、ASUSオフィシャルサイトで公開の利用規約・条項の遵守をお約束いただきます。 \n（http://www.asus.com）</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="copy">コピー</string>
+    <string description="Toast: copy ready" maxwidth="-1" name="copy_ready_more">選択したファイルはコピーされ、貼り付けることができます。</string>
+    <string description="Toast: copy ready. %s is variable string." maxwidth="-1" name="copy_ready_one">"\"%s\" をコピーしました。貼り付けることができます。"</string>
+    <string name="copy_to">コピー先</string>
+    <string description="country region textview title" name="country_region">国/地域</string>
+    <string description="ack user to select on country" name="country_region_select">お住まいの地域を選択してください</string>
+    <string name="create_shortcut">"ショートカットの作成"</string>
+    <string name="create_shortcut_dialog">"ホーム画面にショートカットを作成"</string>
+    <string name="create_shortcut_toast">"ランチャーにショートカットが作成されました"</string>
+    <string name="cta_agree">"許可"</string>
+    <string name="cta_check_title">"注意"</string>
+    <string name="cta_dialog_content"><b>File Manager</b> attempts to use the network, it may apply other charges depending on your subscriptions.</string>
+    <string name="cta_dialog_title">"ネットワークの使用"</string>
+    <string name="cta_disagree">"拒否"</string>
+    <string name="cta_show_menu">"ネットワークパーミッション"</string>
+    <string name="current_folder">"現在のフォルダー"</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="cut">切り取り</string>
+    <string description="Toast: cut ready" maxwidth="-1" name="cut_ready_more">選択したファイルは切り取り、貼り付けることができます。</string>
+    <string description="Toast: cut ready. %s is variable string." maxwidth="-1" name="cut_ready_one">"\"%s\" を切り取りました。貼り付けることができます。"</string>
+    <string description="button text for sort file by date" maxwidth="-1" name="date">日付</string>
+    <string description="button text for sort file by date ascending" maxwidth="-1" name="date_ascending">更新日時(降順)</string>
+    <string description="button text for sort file by date descending" maxwidth="-1" name="date_descending">更新日時(昇順)</string>
+    <string msgid="7984755014526510295" name="day">"1日"</string>
+    <string msgid="2070509222727852210" name="days">"<ns1:g id="DAYS">%s</ns1:g>日"</string>
+    <string maxwidth="-1" name="dbx_install_contnet">Dropbox がインストールされていません。Playストア からダウンロードし、インストールしますか？</string>
+    <string maxwidth="" name="dbx_install_title">Dropbox がインストールされていません</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="delete">削除</string>
+    <string description="Dialog Title: delete dialog title" maxwidth="" name="delete_dialog">ファイルの削除</string>
+    <string description="Toast: delete fails" maxwidth="-1" name="delete_fail">ファイルを削除しました。</string>
+    <string description="Dialog Content: text in dialog. %d is variable number." maxwidth="" name="delete_more_files">%d 個の項目を削除しますか？</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="delete_one_directory">ディレクトリを削除しますか？</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="delete_one_files">ファイルを削除しますか？</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="delete_progress">削除中...</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="delete_size">"サイズ： "</string>
+    <string description="Toast: delete success" maxwidth="-1" name="delete_success_more">選択したファイルは削除されました。</string>
+    <string description="Toast: delete success. %s is variable string." maxwidth="-1" name="delete_success_one">"\"%s\" は削除されました。"</string>
+    <string description="cutstom action bar view title for deselect all checkbox" maxwidth="" name="deselect_all">全て選択解除</string>
+    <string name="device_root_path">ルート</string>
+    <string description="compress dialog title" maxwidth="-1" name="dialog_create_zip_title">アーカイブ名の入力</string>
+    <string description="extract zip file dialog title. %s is a dynamic string. It is zip file name." maxwidth="-1" name="dialog_extract_zip_title">%s の解凍先：</string>
+    <string name="dialog_load_stream_url_info">必要な情報をサーバーから取得しています</string>
+    <string name="dialog_msg_market_login_account">"\u30a2\u30d7\u30ea\u3092\u30c0\u30a6\u30f3\u30ed\u30fc\u30c9\u3059\u308b\u306b\u306f\u3001Google\u30a2\u30ab\u30a6\u30f3\u30c8\u306b\u30ed\u30b0\u30a4\u30f3\u3057\u3066\u304f\u3060\u3055\u3044"</string>
+    <string description="text encoding dialog title" maxwidth="-1" name="dialog_text_encoding_title">テキストエンコード</string>
+    <string name="dialog_title_market_login_account">"\u30a2\u30ab\u30a6\u30f3\u30c8\u306e\u8ffd\u52a0"</string>
+    <string description="show zip info dialog title. %s is a dynamic string. Is is a zip file name" maxwidth="-1" name="dialog_unzip_preview_title">%sを解凍</string>
+    <string description="Dialog Title: Directory information dialog title" maxwidth="-1" name="dir_info_dialog_title">ディレクトリー情報</string>
+    <string name="display">"名前を付けて表示"</string>
+    <string name="display_hint">"マイコンピューター、空にすることができます"</string>
+    <string name="dm_openfile">"ファイルを開く"</string>
+    <string name="do_not_show_again">"今後は表示しない"</string>
+    <string name="domain">"ドメイン"</string>
+    <string name="domain_hint">"空にすることができます"</string>
+    <string name="download_fail">ダウンロードに失敗しました!</string>
+    <string name="drag_items_one">項目をドラッグ</string>
+    <string name="drag_items_other">項目をドラッグ</string>
+    <string name="drawer_close">"ナビゲーションドロワーを閉じる"</string>
+    <string name="drawer_home">ホーム</string>
+    <string name="drawer_open">"ナビゲーションドロワーを開く"</string>
+    <string description="Hint: the operation is incorrect" maxwidth="-1" name="drop_incorrect_hint">不正操作</string>
+    <string description="Hint: the target folder which you want to do something" maxwidth="-1" name="drop_target_to">移動先：</string>
+    <string name="dumdownloadfrom">ダウンロード元</string>
+    <string name="dumuploadto">アップロード先</string>
+    <string name="duplicate_files">"重複ファイル"</string>
+    <string name="duplicate_files_content_hint">"アクセス許可を使用して重複ファイルを検索し削除します。"</string>
+    <string name="edit_toast_name_too_long">文字数が上限を越えました</string>
+    <string name="edit_toast_special_char">特殊文字は使用できません。</string>
+    <string name="editcategory_hint">"編集ボタンを押すと、カテゴリーパネルをカスタマイズできます。"</string>
+    <string description="describe the empty folder" maxwidth="-1" name="empty_folder_title">"ファイルはありません"</string>
+    <string description="Dialog Button: click to open the encoding list dialog" maxwidth="-1" name="encode">テキストエンコード</string>
+    <string description="ask user to enter password" maxwidth="-1" name="enter_password">"パスワードを入力してください"</string>
+    <string name="eula_content_description">
+        \nこのエンドユーザーライセンス契約（以下「本件EULA」といいます）は、ASUSTeK Computer Inc.（以下「ASUS」といいます）とユーザーとしてのお客様の間における、下記の通りに定義されるASUSのソフトウェア（以下「本件ソフトウェア」といいます）の利用に関する有効で拘束力を有する契約の内容を構成するものです。ソフトウェアのインストールを行い、継続して使用することによって、お客様は、本件EULAとその新バージョンを読んで理解し、その条件に拘束されることに同意したものとみなされます。 
+\n\n1.本件ソフトウェア　とは、該当するASUS製品にインストールされ、またはASUS製品に添付されて提供されるASUSのソフトウェアを意味し、将来の修正プログラム、アップデート、アップグレード、修正バージョンを含みますが、それらに限定されません。
+\n本件ソフトウェアには、ASUS製やサードパーティ製の他のソフトウェアが付随する場合がありますが、そうしたソフトウェアは、www.opensource.org/licensesに記載の1つ以上のフリーオープンソースソフトウェア・ライセンスに基づきライセンスされています。そうしたフリーオープンソースソフトウェアは、もっぱら、各々のライセンス契約やそれに付随する著作権表示の条件、または本件ソフトウェアに付随するフリーオープンソースソフトウェアライセンスファイルの条件に基づいて、お客様に提供されます。本件EULAの条件は、そうしたフリーオープンソースソフトウェアには適用されません。
+\n\n2.本件ライセンス　本件EULAの条件に従って、ASUSはここに、もっぱらASUS製品にインストールされている限りにおいて、本件ソフトウェアを利用する限定的、個人的、非営利的で非独占的なライセンスを、お客様に付与します。お客様は、バックアップ目的のために限り、本件ソフトウェアを機械で可読できる形式で、コピーを1部取ることができます。但し、バックアップ用のコピーは、オリジナルに収録された著作権やその他の所有権に関する全ての表示を含むものでなければなりません。本件ライセンスは、二次ライセンスを供与しないものとし、譲渡できません。但し、本件ソフトウェアを含むASUS製品一式の所有権を、お客様がある人物や存在に譲渡する場合には、この限りではなく、その場合、お客様は、本件EULAに基づく全ての権利を永久に譲渡し、本件ソフトウェアのコピーを完全なものも部分的なものも保持せず、受領者は、本件EULAの条件に同意するものとします。
+\n\n3.リバースエンジニアリング等の制限　お客様は、本件ソフトウェアのリバースエンジニアリング、逆コンパイル、復号化、逆アセンブルを行わず、許さず、促さないものとします。但し、直接適用される法律によって、前述の強制が禁じられる範囲内については、この限りではありません。
+\n\n4.秘密保持　お客様は、本件ソフトウェアの秘密情報（企業秘密、あらゆる形態の著作権保護対象物を含みますが、それらに限定しません）を保護して第三者に対して全部であろうと一部であろうと開示せず、また開示させない義務を負うものとします。
+\n\n5.知的財産権（以下「IP権」といいます）　お客様は、本件ソフトウェアに関する、または本件ソフトウェアから生じる全てのIP権、権原、利権がASUSやそのライセンサーの独占的財産であり将来も引き続きそうであることを認め、これに同意します。本件EULAは、いかなる意味においても、そうしたIP権をお客様に譲渡するものではありません。IP権の不正利用は、本件EULAに対する違反であると同時に、知的財産法（著作権法、商標法を含みますが、それらに限定しません）に対する違反でもあります。
+\n本件ソフトウェアを通じて情報、素材、アイデア、コンセプトまたは技術情報（個人情報を除く）をASUSに送信すること（以下「フィードバック」といいます）によって、お客様は、（i）お客様のフィードバックに秘密情報や所有情報が含まれていないこと、（ii）フィードバックに関してASUSが、明示的にも黙示的にも、いかなる種類の秘密保持義務も負わないこと、（iii）ASUSが、その単独の裁量でフィードバックの利用や開示をどのような目的にもまたどのような方法でも世界的に行う権利を有すること、（iv）お客様に対してASUSが何ら義務を負うことなく、お客様のフィードバックがASUSの財産になること、および（v）お客様が、から、いかなる種類の補償も弁済も受ける権利を有さないことを認め、これに同意します。
+\n\n6.契約期間と契約解除　本件EULAは、本件ソフトウェアをお客様がインストールした日付より有効になります。お客様は、本件ソフトウェアの利用を全て止め本件ソフトウェアをASUS製品から取り除くことで、本件ライセンスをいつでも解除することができます。お客様が本件EULAのいずれかの規定を順守していないと当社が考える場合、お客様の権利は、ASUSからの事前通知なしに消滅します。
+\n\n7.保証の否認と責任の制限　お客様は、本件ソフトウェアが「現状のまま」で提供されることに同意するものとします。本件ソフトウェアの品質と性能に関する一切のリスク（必要な全てのサービスおよび修理に関連する費用を含みますが、それらに限られません。）は、お客様が負います。法律上許される範囲内で、ASUSは、本件ソフトウェアについても、本件EULAに基づき、または本件ソフトウェアに関して提供されるその他の情報やドキュメンテーションについても、明示または黙示の保証を行いません。そうした保証には、商品性、もしくは特定目的への適合性、または違反に対する保証や、利用状況からまたは遂行過程から生じる保証が含まれますが、それらに限定されません。また、ASUSは、本件ソフトウェアを利用して得られる結果についても、本件ソフトウェアを通じて得られる情報の正確性や信頼性についても保証を行いません。適用される法令によって、特定の保証の除外、または特定の損害に関する賠償責任の制限や除外が認められないことがあります。その結果、上記の否認と賠償責任の制限の一部は、お客様に適用されない場合があります。
+\n本件ソフトウェアの利用および／または性能から生じる一切のリスクは、お客様が負い続けます。いかなる場合もASUS、そのライセンサー、それぞれの役員、取締役、従業員、代理人または関連会社は、本件EULAに起因もしくは関連して、または本件ソフトウェアやその一部の利用や利用不能に起因もしくは関連して、どのようなものであろうと結果的、偶発的、直接的、間接的、特別に、懲罰的またはその他の損害賠償について（利益の喪失、中断、情報の損失やその他の金銭的損失に関する損害賠償を含みますが、それに限定されません。）責任を負わないものとします。これは、そうした損害賠償の可能性をASUSが知らされていた場合であっても同様です。適用される法令によって、特定の保証の除外、または特定の損害に関する賠償責任の制限や除外が認められないことがあります。その結果、上記の否認と賠償責任の制限の一部は、お客様に適用されない場合があります。
+\n\n8.補償　本件EULA、適用法、適用規制または第三者の権利に対するお客様の違反や侵害に起因または関連して請求や要求が行われた場合、お客様は、そうした請求や要求から生じる全ての損失、損害賠償、賠償責任および費用（妥当な弁護士費用、裁判費用を含みます）について、ASUS、その関連会社、サービスプロバイダ、シンジケーター、販売代理店、ライセンサー、役員、取締役および従業員を、弁護し補償し免責することに同意するものとします。
+    </string>
+    <string name="eula_content_title">"エンドユーザーライセンス契約"</string>
+    <string description="Do not translate ASUS" maxwidth="" name="eula_description">ASUSのアプリケーションとエンドユーザー間の法的な契約</string>
+    <string maxwidth="" name="eula_title">"エンドユーザーライセンス契約"</string>
+    <string name="example">"例:"</string>
+    <string description="Dialog Button: extract file for dialog" maxwidth="-1" name="extract">解凍</string>
+    <string name="facebook_app_invite">"Facebook の連絡先"</string>
+    <string name="fb_request_error_permissions">"\u3053\u306e\u30a2\u30d7\u30ea\u306b\u306f\u3053\u306e\u4f5c\u696d\u3092\u5b9f\u884c\u3059\u308b\u6a29\u9650\u304c\u3042\u308a\u307e\u305b\u3093\u3002\u518d\u3073\u30a2\u30d7\u30ea\u306b\u30ed\u30b0\u30a4\u30f3\u3057\u3066\u307f\u3066\u304f\u3060\u3055\u3044\u3002"</string>
+    <string name="fileList_Nofiles">ファイルはありません</string>
+    <string description="Dialog Title: File information dialog title" maxwidth="-1" name="file_info_dialog_title">ファイル情報</string>
+    <string description="Application Name shown on title" maxwidth="" name="file_manager">"ファイルマネージャー"</string>
+    <string description="string indicating camera flash is not used" maxwidth="-1" name="flash_off">フラッシュOFF</string>
+    <string description="string indicating camera flash is fired" maxwidth="-1" name="flash_on">フラッシュON</string>
+    <string description="click to retrieve password" maxwidth="-1" name="forget_password">"<u>パスワードをお忘れですか？</u>"</string>
+    <string name="fragment_analyzer_allfiles_used_hint">"使用済み："</string>
+    <string name="fragment_analyzer_chart_free_hint">"空き容量："</string>
+    <string name="fragment_analyzer_chart_total_hint">"合計："</string>
+    <string name="fragment_analyzer_chart_used_hint">"使用済み"</string>
+    <string name="fragment_analyzer_more_hint">"詳細"</string>
+    <string name="google_app_invite">"Google の連絡先"</string>
+    <string name="group_title_installed">"インストール済み"</string>
+    <string name="group_title_not_installed">"未インストール"</string>
+    <string name="group_title_others">"その他"</string>
+    <string name="group_title_recommended">"推奨"</string>
+    <string name="hidden_zone_change_password">"パスワードを変更する"</string>
+    <string name="hidden_zone_confirm_password">"PINコードを確認する"</string>
+    <string name="hidden_zone_enter_password">"PINコードを入力する"</string>
+    <string name="hidden_zone_fingerprint_to_unlock">"指紋でロック解除"</string>
+    <string name="hidden_zone_forget_password">"パスワードを忘れた"</string>
+    <string name="hidden_zone_introduction_description">"非表示キャビネットで個人ファイルを非表示にします。非表示キャビネットを開くにはPINコードが必要です。"</string>
+    <string name="hidden_zone_password_mismatch">"PINコードが正しくありません"</string>
+    <string name="hidden_zone_set_password_success">"パスワードが正常に設定されました"</string>
+    <string name="hidden_zone_setup_account">"アカウントをセットアップする"</string>
+    <string name="hidden_zone_setup_password">"4ケタのPINコードを入力する"</string>
+    <string name="hidden_zone_wrong_password">"不正なPINコード"</string>
+    <string description="Can’t connect to HomeCloud." maxwidth="-1" name="homecloud_access_error">HomeCloudへの接続に失敗しました。 HomeCloudサービスがオンラインであることを確認してください。</string>
+    <string name="homecloud_notice_1">ASUS HomeCloud は Windows システムで実行されるサーバーソフトウェアです。家庭用のデジタルコンテンツライブラリとして設計されており、現在のところ、クラウドストレージサービスとマルチメディアストリーミングサービスを提供します。将来的には、さらに多くのサービスを展開する可能性があります。</string>
+    <string name="homecloud_notice_2">今すぐダウンロードし、お試しください。 </string>
+    <string name="homecloud_notice_3">http://home.asuscloud.com/</string>
+    <string name="homecloud_toast_udp_unsupported">ネットワークが制限されています。ネットワーク管理者に問い合わせるか、他のネットワークに切り替えてください。</string>
+    <string msgid="2546819039651509323" name="hour">"1時間"</string>
+    <string msgid="2071487018566991613" name="hours">"<ns1:g id="HOURS">%s</ns1:g>時間"</string>
+    <string maxwidth="" name="httpserver_acquire_permission_message">"HTTP ファイルサーバーが閉じられます。操作が中断されることがあります。 続行しますか？"</string>
+    <string maxwidth="" name="httpserver_connectwifiname">"接続中のWi-Fiアクセスポイント:"</string>
+    <string maxwidth="" name="httpserver_description">"[無線ファイル転送]を開始すると、モバイルデバイスとPC間のデータ転送を、簡単に行う事ができます。"</string>
+    <string maxwidth="" name="httpserver_instruction">"PCのブラウザに、以下のURLを入力します。"</string>
+    <string maxwidth="" name="httpserver_need_saf">"PC から外部ストレージを管理する場合、アクセス許可を与える必要があります。"</string>
+    <string maxwidth="" name="httpserver_no_network">"デバイスを同じ Wi-Fi ネットワークに接続します"</string>
+    <string maxwidth="" name="httpserver_no_permission_message">"アクセス許可がないと外部ストレージに書き込むことができません。 続行しますか？"</string>
+    <string maxwidth="" name="httpserver_no_permission_title">"無線ファイル転送を開始します"</string>
+    <string maxwidth="" name="httpserver_start">"開始"</string>
+    <string maxwidth="" name="httpserver_stop">"停止"</string>
+    <string maxwidth="" name="httpserver_title">"無線ファイル転送"</string>
+    <string description="Context Menu: options of context menu" maxwidth="-1" name="info">情報</string>
+    <string description="file info textview context" maxwidth="-1" name="info_aperture">"絞り: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_datetime">"取得データ"</string>
+    <string description="file info textview context" maxwidth="-1" name="info_exposure_time">"露出時間: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_file_num">"ファイルの数： "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_flash">"フラッシュ: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_focal_length">"レンズ焦点距離: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_image_height">"高さ: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_image_width">"幅"</string>
+    <string description="file info textview context" maxwidth="-1" name="info_image_x">" x "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_iso">"ISO: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_location">"場所: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_maker">"メーカー: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_model">"モデル: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_modified">"修正日： "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_name">"名前： "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_orientation">"画面の向き: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_path">"パス: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_permission">"許可： "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_type">タイプ:</string>
+    <string description="file info textview context" maxwidth="-1" name="info_white_balance">"ホワイトバランス: "</string>
+    <string description="Do not translate ASUS" maxwidth="" name="inspire_asus_description">"製品およびユーザーエクスペリエンスを向上させるためにASUSに使用量データを収集する"</string>
+    <string name="inspire_asus_title">"診断データ"</string>
+    <string name="install">"インストール"</string>
+    <string description="storage label" maxwidth="-1" name="internal_storage_title">内部ストレージ</string>
+    <string description="Toast: the account is invalid" maxwidth="-1" name="invalid_account">"アカウントが正しくありません"</string>
+    <string description="Invalid directory path" maxwidth="-1" name="invalid_directory_path">無効なディレクトリパス</string>
+    <string name="invalid_server_id">"サーバー ID が無効です"</string>
+    <string name="invalid_xml">"xml が無効です"</string>
+    <string name="inviteContentTitle">"%1$s はあなたを招待しています。ASUS ファイルマネージャーをダウンロードし、インストールしませんか？"</string>
+    <string name="inviteContent_p1">"ASUS ファイルマネージャーはスマートデバイスでファイルを管理するための理想的な手段です。 このファイル管理アプリを利用すれば、電話のメモリ、microSD カード、LAN、クラウドに保存されているさまざまなファイルを処理し、分類できます。"</string>
+    <string name="inviteContent_p2">"ASUS ファイルマネージャーではファイルを効率的かつ簡単に管理できます！ ASUS ファイルマネージャーでは、デバイスのメモリ、microSD カード、LAN、クラウドストレージアカウント (自分の ASUS HomeCloud と Webstorage、Dropbox、Google Drive、 Microsoft OneDrive など、その他のクラウドサービス) などの保存場所に関係なく、あらゆるファイルを操作できます。"</string>
+    <string name="inviteContent_p3">"ASUS ファイルマネージャーは便利です。 今すぐ試してください？ (^o^)"</string>
+    <string description="sticker detail page button name" maxwidth="-1" name="invite_friends">"友人を招待する"</string>
+    <string name="item">アイテム</string>
+    <string name="items">アイテム</string>
+    <string name="keep">"維持"</string>
+    <string name="kk_sd_permission_warning">Android の制約により、Android 4.4 は外部 SD カードの変更をサードパーティアプリケーションに許可しません。</string>
+    <string name="large_files_content_hint">"アクセス許可を使用して大容量ファイルを検索し削除します。"</string>
+    <string description="linked file is missing" maxwidth="-1" name="linked_file_missing">"リンクされているファイルがありません。"</string>
+    <string description="text for progress bar" maxwidth="-1" name="loading">"読み込んでいます..."</string>
+    <string name="local">\u30ed\u30fc\u30ab\u30eb</string>
+    <string description="button text for sort file by date" maxwidth="-1" name="location">"位置情報"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="logging_cloud_storage">ログインしています...</string>
+    <string name="login_account_miss">"Facebook\u30a2\u30d7\u30ea\u306fAndroid\u30a2\u30ab\u30a6\u30f3\u30c8\u30de\u30cd\u30fc\u30b8\u30e3\u3078\u306e\u767b\u9332\u306b\u5931\u6557\u3057\u307e\u3057\u305f\u3002Facebook\u30a2\u30d7\u30ea\u304b\u3089\u30ed\u30b0\u30a2\u30a6\u30c8\u3057\u3001\u518d\u30ed\u30b0\u30a4\u30f3\u3057\u3066\u304f\u3060\u3055\u3044\u3002"</string>
+    <string name="login_again_later">"\u30b5\u30fc\u30d0\u30fc\u306f\u73fe\u5728\u5229\u7528\u3067\u304d\u307e\u305b\u3093\u3002\u5f8c\u307b\u3069\u518d\u8a66\u884c\u3057\u3066\u304f\u3060\u3055\u3044\u3002"</string>
+    <string description="dialog title, key in the asus ID and PW to Login account" maxwidth="-1" name="login_asus_id">"ASUS アカウントサインイン"</string>
+    <string description="Toast: login account fail" name="login_fail" width="-1">ログインできませんでした</string>
+    <string description="login account name" maxwidth="-1" name="login_id">"アカウント名/WebStorage ID"</string>
+    <string description="logout account" name="logout_account" width="-1">ログアウト</string>
+    <string name="low_storage_tutorial_description">タップして押さえ、ファイルを選択し、「Google Drive に移動」を選択します。</string>
+    <string name="low_storage_tutorial_title">Google Drive にファイルを移動する</string>
+    <string name="m_permission_dialog_message">"[設定] をタップして、[アプリ情報] > [パーミッション]の順に選択して[%2$s]パーミッションをオンにし、%1$sを再起動します。"</string>
+    <string name="m_permission_dialog_positive_button">"設定"</string>
+    <string name="m_permission_setting_subtitle_files">"%1$sは、デバイスのファイルへアクセスするのに%2$sパーミッションが必要です。"</string>
+    <string name="m_permission_setting_title_cloud_storage">"クラウドストレージへアクセスできません"</string>
+    <string name="m_permission_setting_title_files">"ファイルへアクセスできません"</string>
+    <string name="m_permission_setting_turn_on">"オンにする"</string>
+    <string description="string indicating how camera shooting feature is used" maxwidth="-1" name="manual">マニュアル</string>
+    <string name="market_app_error">"お使いのデバイスにインストールされているマーケット Application APP に問題があります！"</string>
+    <string description="ask user to enter email address as account name" maxwidth="-1" name="member_id_hint">"メールアドレスを入力してください"</string>
+    <string description="The title of a menu for General Preferences.Pressing the menu item lets user to view and edit his general settings" maxwidth="30" name="menu_general_preferences">"全般設定"</string>
+    <string description="settings menu tutorial" maxwidth="-1" name="menu_tutorial">チュートリアル</string>
+    <string name="messenger_send_button_text">送信</string>
+    <string msgid="2486157997434653710" name="minute">"1分"</string>
+    <string msgid="6115838729146292526" name="minutes">"<ns1:g id="MINUTES">%s</ns1:g>分"</string>
+    <string description="Hint: move the items" maxwidth="-1" name="move">移動</string>
+    <string name="move_or_delete_msg">"ファイルを削除しますか？?\n(ファイルを完全に削除する場合は、以下のチェックボックスにチェックを入れてください。)"</string>
+    <string name="move_to">移動先</string>
+    <string description="Toast: move to recycle bin fails" maxwidth="-1" name="move_to_hidden_zone_fail">"非表示キャビネットへの移動に失敗しました"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="move_to_hidden_zone_progress">"非表示キャビネットへ移動中..."</string>
+    <string description="Toast: move to recycle bin success" maxwidth="-1" name="move_to_hidden_zone_success_more">"選択したファイルは非表示キャビネットに移動されました。"</string>
+    <string description="Toast: move to recycle bin success. %s is variable string." maxwidth="-1" name="move_to_hidden_zone_success_one">"\"%s\"は非表示キャビネットへ移動されました。"</string>
+    <string description="Toast: move to recycle bin fails" maxwidth="-1" name="move_to_trash_fail">"ごみ箱への移動に失敗しました"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="move_to_trash_progress">"ごみ箱に移動中..."</string>
+    <string description="Toast: move to recycle bin success" maxwidth="-1" name="move_to_trash_success_more">"選択したファイルはごみ箱に移動されました"</string>
+    <string description="Toast: move to recycle bin success. %s is variable string." maxwidth="-1" name="move_to_trash_success_one">"\"%s\"はごみ箱に移動されました"</string>
+    <string name="msg_too_big_to_recycle">"ファイルが大きすぎます。\n永久に削除しますか?"</string>
+    <string name="multi_drm_file_forbidden_operation">選択したファイルの一部が DRM 保護になっているため、この操作は禁止されています。</string>
+    <string description="shortcut label" maxwidth="-1" name="my_camera_title">カメラ</string>
+    <string description="shortcut label" maxwidth="-1" name="my_download_title">ダウンロード</string>
+    <string description="shortcut label" maxwidth="-1" name="my_music_title">音楽</string>
+    <string description="shortcut label" maxwidth="-1" name="my_picture_title">画像</string>
+    <string description="storage label" maxwidth="-1" name="my_storage_title">マイストレージ</string>
+    <string description="button text for sort file by name" maxwidth="-1" name="name">名前</string>
+    <string description="button text for sort file by name ascending" maxwidth="-1" name="name_ascending">名前(降順)</string>
+    <string description="button text for sort file by name descending" maxwidth="-1" name="name_descending">名前(昇順)</string>
+    <string name="network_cta_hint">"ネットワーク接続の承認してください"</string>
+    <string name="network_invalid">"インターネット接続が無効です"</string>
+    <string name="network_invalid_info">"接続が無効です。 再確認してください。"</string>
+    <string name="network_not_available">"ネットワークに接続できませんでした"</string>
+    <string description="Can’t connect to networkpalce" maxwidth="-1" name="networkplace_access_error">"接続できませんでした。 そのサーバーがオンラインになっていることを確認してください。"</string>
+    <string name="networkplace_storage_title">"ネットワークプレース"</string>
+    <string description="Dialog Title: create new folder" maxwidth="" name="new_folder_dialog">新しいフォルダーの作成</string>
+    <string description="Toast: new folder fails" maxwidth="-1" name="new_folder_fail">新しいフォルダーの作成に失敗しました。</string>
+    <string description="Toast: new folder success. %s is variable string." maxwidth="-1" name="new_folder_success">"フォルダー\"%s\" を作成しました。"</string>
+    <string maxwidth="" name="news_1"><b>カスタマイズ可能なホームパネル</b>: さまざまなカテゴリや順序でホームパネルをカスタマイズできるようになりました。</string>
+    <string maxwidth="" name="news_2"><b>お気に入り選択機能</b>: お気に入りカテゴリからお気に入りフォルダーを直接追加します。</string>
+    <string maxwidth="" name="news_3"><b>ファイルマネージャーウィジェト</b>: ランチャーにフォルダーのショートカットを作成します。</string>
+    <string maxwidth="" name="news_mark1">"★  "</string>
+    <string maxwidth="" name="news_subtitle">"見逃して欲しくない最新機能を紹介します。"</string>
+    <string maxwidth="" name="news_title">"新機能"</string>
+    <string maxwidth="" name="news_v21"><b>PC との間で無線転送する</b>: PC との間でファイルを転送する/管理する</string>
+    <string maxwidth="" name="news_v23">"パフォーマンス改善とバグ修正"</string>
+    <string maxwidth="" name="news_v31">"ストレージアナライザーはすべてのストレージ領域を占領するファイルのタイプを知らせます"</string>
+    <string maxwidth="" name="news_v32">"新しく強化されたアプリカテゴリー"</string>
+    <string name="news_v41">"非表示キャビネットの個人ファイルを非表示にします"</string>
+    <string name="news_v42">"ごみ箱の削除ファイルを元に戻す"</string>
+    <string name="news_v43">"ストレージアナライザーの重複ファイルを削除する"</string>
+    <string name="news_v44">"新規機能 - ダークモード"</string>
+    <string name="news_v45">"パフォーマンスの改善"</string>
+    <string name="news_v46">"バグの修正"</string>
+    <string name="newversion_description">"ファイルマネージャーの最新版をご利用いただけます。 今すぐ更新しますか？"</string>
+    <string name="newversion_title">"新しいバージョン"</string>
+    <string name="next">次へ</string>
+    <string description="Dialog Button: no for dialog" maxwidth="" name="no">いいえ</string>
+    <string name="no_device">"デバイスがありません"</string>
+    <string name="no_items">"アイテムなし"</string>
+    <string name="no_network">"インターネット接続がありません"</string>
+    <string description="The description to inform users when there is no internet access" maxwidth="-1" name="no_network_connection_message">"接続を確認し、もう一度お試しください"</string>
+    <string name="no_network_info">"このアプリケーションにアクセスするにはインターネット接続が必要です。 設定でモバイルネットワークまたは WiFi を有効にしてください。"</string>
+    <string name="no_password">"パスワードを入力してください"</string>
+    <string name="no_right">"あなたのアカウントにはログインする資格がありません。"</string>
+    <string name="no_share_folder">このデバイスに共有されているファイルがありません</string>
+    <string description="Toast: No space to copy file and left on device" maxwidth="-1" name="no_space_fail">ストレージがいっぱいです。</string>
+    <string name="no_user_exist">"ユーザー名が存在しません"</string>
+    <string name="no_username">"最初にユーザー名を入力してください。"</string>
+    <string name="notification_gdrive_redeem_content">"Google Drive から今すぐ手に入れよう。 "</string>
+    <string name="notification_gdrive_redeem_title">"100GB ストレージが無料！"</string>
+    <string name="occur_error_do_relogin">"%s にもう一度ログインする"</string>
+    <string description="Dialog Button: ok for dialog" maxwidth="" name="ok">OK</string>
+    <string name="onedrive_account_only_one_alert">"追加できる OneDrive for ASUS アカウントは 1 つだけです。 新しいアカウントに替える前に現在のアカウントを削除する必要があります。"</string>
+    <string name="open">開く</string>
+    <string description="Toast: open file fails" maxwidth="-1" name="open_fail">ファイルを開くのに失敗しました。</string>
+    <string maxwidth="" name="open_source_license_description">オープンソースソフトウェアのライセンス情報</string>
+    <string maxwidth="" name="open_source_license_title">"オープンソースライセンス"</string>
+    <string name="othersforum_site_url">http://www.asus.com/Terms_of_Use_Notice_Privacy_Policy/OthersForum_Site/</string>
+    <string name="password">パスワード</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="paste">貼り付け</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="paste_exist_apply">全てに適用</string>
+    <string description="Dialog Title: paste exist dialog title" maxwidth="" name="paste_exist_dialog">同じファイル名</string>
+    <string description="Dialog Content: text in dialog. %s is variable string." maxwidth="" name="paste_exist_file">"ファイル[%s] は既に存在します。"</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="paste_exist_replace">新しいものに置き換えますか？</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="paste_exist_to">から</string>
+    <string description="Toast: paste fails" maxwidth="-1" name="paste_fail">ファイルの貼り付けに失敗しました。</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="paste_progress">貼り付け中...</string>
+    <string name="paste_progress_title">他のコピータスクを実行しています...</string>
+    <string description="Toast: paste success. %s is variable string." maxwidth="-1" name="paste_success">"ファイルを \"%s\"に追加しました。"</string>
+    <string name="permanently_delete">"ファイルを完全に削除する"</string>
+    <string description="Toast: operation permission deny" maxwidth="-1" name="permission_deny">認証が拒否されました。</string>
+    <string name="permission_dialog_title">"アプリケーションのアクセス許可"</string>
+    <string name="permission_essential">"アクセス許可が必要です。 設定に進み、アクセス許可を有効にしてください！"</string>
+    <string name="permission_reason_contact">"ファイルマネージャーはクラウドストレージにログインするためにアカウント情報にアクセスする必要があります。"</string>
+    <string name="permission_reason_storage">"ファイルマネージャーは適切に動作するためにデバイスのストレージにアクセスする必要があります。"</string>
+    <string description="Toast: You may not select more than %s photos." maxwidth="-1" name="photo_selection_limit_number_toast">最大%s枚の写真を選択</string>
+    <string description="This is the title of the screen for setting user preferences." maxwidth="-1" name="preferences_title">"設定"</string>
+    <string name="previous_folder">"前のフォルダー"</string>
+    <string maxwidth="" name="privacy_policy">"プライバシー ポリシー"</string>
+    <string name="privacy_policy_url">http://www.asus.com/us/Terms_of_Use_Notice_Privacy_Policy/Privacy_Policy/</string>
+    <string name="processing_picture">"\u753b\u50cf\u306e\u51e6\u7406\u4e2d"</string>
+    <string name="processing_video">"\u52d5\u753b\u306e\u51e6\u7406\u4e2d"</string>
+    <string name="progressactivity_title">Transmission Manager</string>
+    <string name="promote_darkmode_message">"%sで環境設定を変更します"</string>
+    <string name="promote_darkmode_title">"新規機能 - ダークモード"</string>
+    <string name="promotion_notification_content">"\"無線ファイル転送\" をぜひお試しください！"</string>
+    <string name="promotion_notification_title">"USB ケーブルでファイルを転送しますか？"</string>
+    <string name="publish">"\u516c\u958b"</string>
+    <string name="pullfreshlistview_footer_hint_normal">さらに読み取る</string>
+    <string name="pullfreshlistview_footer_hint_ready">リリースしてさらに読み取る</string>
+    <string name="pullfreshlistview_header_hint_loading">リフレッシュしています...</string>
+    <string name="pullfreshlistview_header_hint_normal">プルダウンする</string>
+    <string name="pullfreshlistview_header_hint_ready">リリースしてリフレッシュ</string>
+    <string name="pullfreshlistview_header_last_time">最後にリフレッシュした時刻:</string>
+    <string name="rate_later">"後で"</string>
+    <string name="rate_now">"評価する"</string>
+    <string description="rate us" maxwidth="-1" name="rate_us">"評価にご協力ください"</string>
+    <string name="rating_dialog_message_v3_1">"%sをご利用いただきありがとうございます。Playストアで本ツールの5段階の評価にご協力ください。今後の製品開発・品質向上に大変役立ちます。"</string>
+    <string name="rating_dialog_message_v3_2">"ご意見・ご要望はフィードバック＆ヘルプよりお願い致します。"</string>
+    <string name="recent_files_content_hint">"アクセス許可を使用して最近使用したファイルを検索し削除します。"</string>
+    <string description="shortcut title: recently used files" name="recently_used" width="-1">"最近使用したファイル"</string>
+    <string name="recommend_clean_master_msg">"Android を最適化し、高速化し、節電対応で無料のアンチウイルスが付属する、世界で最も信頼されているアプリです。 \n今すぐダウンロードしますか？"</string>
+    <string name="recommend_clean_master_title">"アプリ推奨"</string>
+    <string name="recommend_scan_qr_code">"この QR コードをスキャンし、このアプリをダウンロードするように\n友人に通知します。"</string>
+    <string description="recruit beta user" maxwidth="-1" name="recruit_beta_user">プレビュー版を入手する</string>
+    <string name="recycle_bin_content_hint">"削除されたすべてのファイルとフォルダーを含めます。"</string>
+    <string description="dialog title, key in the asus ID and PW to Login account" maxwidth="-1" name="regist_asus_id">"ASUS アカウントを作成しています"</string>
+    <string description="ask user to enter email address to registe New Account" name="registe_id">アカウント名</string>
+    <string description="ask user to enter new password" name="registe_password">8～25文字以内で入力してください</string>
+    <string description="sign up registe action" name="registe_sign_up">サインアップ</string>
+    <string description="network is unavailable, please try again" maxwidth="-1" name="remote_connected_error_hint">ネットワークが使用できません。再試行してください</string>
+    <string description="remote storage label" maxwidth="-1" name="remote_storage_title">リモートストレージ</string>
+    <string name="remove_favorite">お気に入りから削除</string>
+    <string name="remove_favorite_notice_more">お気に入りフォルダーから %d アイテムを削除しますか？</string>
+    <string name="remove_favorite_notice_one">"お気に入りフォルダーから \"%s\" を削除しますか？"</string>
+    <string name="remove_favorite_success">削除完了</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="rename">名前変更</string>
+    <string description="Dialog Title: rename dialog title" maxwidth="" name="rename_dialog">名前変更</string>
+    <string description="Toast: rename fails" maxwidth="-1" name="rename_fail">ファイル名の変更に失敗しました。</string>
+    <string name="rename_favorite_folder">お気に入りフォルダーの名前変更</string>
+    <string name="rename_favorite_notice">お気に入りフォルダーに同じ名前のフォルダーがあります。名前を変更しますか？</string>
+    <string name="rename_favorite_success">名前が変更され、お気に入りに保存されました</string>
+    <string description="Toast: rename success" maxwidth="-1" name="rename_success">ファイル名を変更しました。</string>
+    <string description="renaming file" name="renaming_file" width="-1">名前の変更</string>
+    <string name="replace">"交換"</string>
+    <string description="Toast: restore fails" maxwidth="-1" name="restore_fail">"復元に失敗しました"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="restore_progress">"復元中..."</string>
+    <string description="Toast: restore success" maxwidth="-1" name="restore_success_more">"選択したファイルは復元されました"</string>
+    <string description="Toast: restore success. %s is variable string." maxwidth="-1" name="restore_success_one">"\"%s\"は復元されました"</string>
+    <string name="retention_notification_large_file">"%1$s 個の大きなファイルが追加されました。 すぐに確認してください。"</string>
+    <string name="retention_notification_recent_file">"最近のファイルで %1$s の領域が使われています。 今すぐ表示する。"</string>
+    <string name="saf_permission_tutorial_content">ASUS ファイルマネージャーは SD カードを操作するためのアクセスを要求しています。 アクセスを与えますか？</string>
+    <string name="saf_permission_tutorial_content_v2">"%sアクセス権を得るには特定のステップを実行する必要があります。"</string>
+    <string name="saf_permission_tutorial_dialog">"SD カードのアクセス権を与える必要があります。 続行しますか？"</string>
+    <string name="saf_permission_tutorial_title">SD カードを操作するためのアクセスを要求</string>
+    <string name="saf_tutorial_step_one">メニューアイコンをタップし、SD カードの表示をタップします。</string>
+    <string name="saf_tutorial_step_three">"SD カードの選択をタップし、ASUS ファイルマネージャーにアクセスを与えます。"</string>
+    <string name="saf_tutorial_step_three_v2">"%sを選択をタップしてASUSファイルマネージャーへのアクセスを有効にします。"</string>
+    <string name="saf_tutorial_step_two">画面の左端をスワイプし、引き出しを表示し、SD カードをタップします。</string>
+    <string name="saf_tutorial_step_two_v2">"画面の左側からスワイプして描画を表示し、%sをタップします。"</string>
+    <string name="saf_tutorial_title">SD カードを操作する許可</string>
+    <string name="saf_tutorial_title_v2">"%s実行のパーミッション"</string>
+    <string description="account config dialog remind message" maxwidth="-1" name="samba_client_config_check">ユーザー名とパスワードを記憶し、次回直接接続します</string>
+    <string name="samba_input_error">ユーザー名またはパスワードは空白にすることはできません！</string>
+    <string name="samba_login_error">入力したユーザー名またはパスワードが正しくありません。</string>
+    <string name="samba_storage_add_title">"ネットワークプレース"</string>
+    <string name="samba_storage_title">"SAMBA"</string>
+    <string name="scan_qr_code">"QR コードをスキャンする"</string>
+    <string description="rate now" maxwidth="" name="scroll_up_toast">上にスクロールし評価してください</string>
+    <string maxwidth="-1" name="sd_label">OneDrive for ASUS</string>
+    <string name="search_action">"検索"</string>
+    <string description="search hint message" maxwidth="-1" name="search_hint">ファイル名を入力してください</string>
+    <string description="cutstom action bar view title for search" maxwidth="-1" name="search_label">ファイルの検索</string>
+    <string description="search dialog message" maxwidth="-1" name="search_progress">検索中...</string>
+    <string description=" text for search result" formatted="false" maxwidth="-1" name="search_result_title">%sで%sを検索中: %dファイルが見つかりました</string>
+    <string name="select_album">フォルダを選択</string>
+    <string description="Menu Option: select all checkbox" maxwidth="" name="select_all">全て選択</string>
+    <string description="Title: select the folder" maxwidth="-1" name="select_folder">フォルダーの選択</string>
+    <string name="select_folder_by_ok_button">"%1$s を押してこのフォルダーを選択します"</string>
+    <string name="select_photo">画像ファイルを選択</string>
+    <string name="server">"サーバー:"</string>
+    <string name="server_error">"サーバーエラー"</string>
+    <string name="server_hint">"172.0.0.1/ShareFolder"</string>
+    <string name="server_title">サーバー</string>
+    <string maxwidth="-1" name="service_not_available_in_your_country">"この商品はお住いの国ではご利用いただけません。"</string>
+    <string name="set_password_title">"PINコードを作成する"</string>
+    <string name="set_ring">"リングとして設定する"</string>
+    <string name="setting_display_group">"表示"</string>
+    <string name="setting_notification_group">"通知"</string>
+    <string name="setting_notification_large_files">"大容量ファイルの通知"</string>
+    <string name="setting_notification_recent_files">"最新ファイルの通知"</string>
+    <string name="setting_notification_wireless_transfer">"ワイヤレス転送の通知"</string>
+    <string name="setting_view_group">"表示設定"</string>
+    <string name="setting_view_hide_files">"システムファイルを非表示"</string>
+    <string name="settings">"設定"</string>
+    <string description="This is the title of cache size" maxwidth="-1" name="settings_cache_size_title">"キャッシュサイズ"</string>
+    <string description="Remove all cache documents" maxwidth="-1" name="settings_clear_cache_info">"すべてのキャッシュドキュメントを削除"</string>
+    <string description="Clear the cache" maxwidth="-1" name="settings_clear_cache_title">"キャッシュをクリア"</string>
+    <string description="This is the title of clearing search history action for setting user preferences." maxwidth="-1" name="settings_clear_search_history">"検索履歴を消去"</string>
+    <string name="settings_darkmode_message">"ダークモードを適用する"</string>
+    <string name="settings_description">"ローカルフォルダーとファイル"</string>
+    <string description="This is the title of documents cache" maxwidth="-1" name="settings_documents_cache">"ドキュメントキャッシュ"</string>
+    <string description="recommend text" maxwidth="" name="settings_encourage_us_detail">"%sをご利用いただきありがとうございます。Playストアで本ツールの5段階の評価にご協力ください。今後の製品開発・品質向上に大変役立ちます。"</string>
+    <string description="This is the title of hiding system files action for setting user preferences." maxwidth="-1" name="settings_hide_system_files">"システムファイルを非表示"</string>
+    <string description="This is the title of moving to the trash can." maxwidth="-1" name="settings_moved_to_the_trash_can">"ごみ箱に移動しました"</string>
+    <string description="Remove account" maxwidth="-1" name="settings_remove_account">"アカウントを削除"</string>
+    <string description="Set the cache size to %s" maxwidth="-1" name="settings_set_cache_size">"キャッシュサイズは\"%s\"に設定されています"</string>
+    <string description="This is the title of space used for setting user preferences." maxwidth="-1" name="settings_space_used">"使用済み領域"</string>
+    <string description="This is the title of trash can information for setting user preferences." maxwidth="-1" name="settings_trash_can">"ごみ箱"</string>
+    <string description="This is the title of user name" maxwidth="-1" name="settings_user_name">"ユーザー名"</string>
+    <string name="setup">"セットアップ"</string>
+    <string name="setup_account_description">"電子メールアカウントを設定してPINコードを取得してください"</string>
+    <string name="setup_account_no_internet_connection">"インターネット接続がありません"</string>
+    <string name="setup_account_skip">"スキップ"</string>
+    <string name="setup_account_title">"PINコードを取得する"</string>
+    <string name="setup_fingerprint_message">"指紋でロック解除を有効にしますか? 非表示キャビネットは指紋確認に対応します。設定で指紋をスキャンして開始してください。"</string>
+    <string name="setup_my_digital_code">"PINコードをセットアップする"</string>
+    <string name="share_more">"その他"</string>
+    <string name="share_with_friend">"このアプリを友人と共有する"</string>
+    <string description="Context Menu: options of context menu: share folder via Wi-Fi Direct" maxwidth="" name="shared_folder">Wi-Fi Direct経由で共有</string>
+    <string description="shortcit title" maxwidth="-1" name="short_cuts_title">ショートカット</string>
+    <string name="shortcut_hint">"カテゴリーパネルを長押しすると、ホーム画面にショートカットを作成できます。"</string>
+    <string description="check if user want to show password" name="show_passwd">パスワードを表示する</string>
+    <string description="show when sign in failed" maxwidth="-1" name="signin_failed">"サインインできませんでした"</string>
+    <string description="signout account" name="signout_account" width="-1">"接続を解除"</string>
+    <string name="single_drm_file_forbidden_operation">DRM 保護により、この操作は禁止されています。</string>
+    <string description="button text for sort file by size" maxwidth="-1" name="size">サイズ</string>
+    <string description="button text for sort file by size ascending" maxwidth="-1" name="size_ascending">サイズ(昇順)</string>
+    <string description="button text for sort file by size descending" maxwidth="-1" name="size_descending">サイズ(降順)</string>
+    <string name="ssl_err_msg_info">"サーバーに安全な接続を確立できません。 続行しますか？"</string>
+    <string name="ssl_err_msg_title">"SSL 接続エラー"</string>
+    <string description="shortcut title: my favorite files" name="starred" width="-1">"マーク済み"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="storage_type_cloud">クラウドストレージ</string>
+    <string name="storage_type_cloud_att">"ネットワークストレージ"</string>
+    <string name="storage_type_local">ローカルストレージ</string>
+    <string name="storage_type_shortcut">"ショートカット"</string>
+    <string name="storagetype_add_account">アカウントを追加する</string>
+    <string name="tap_to_exit">終了するにはもう一度タップします</string>
+    <string name="target_directory_is_child_of_source">"ターゲットディレクトリーがソースディレクトリーの子なので操作を完了できませんでした。"</string>
+    <string description="Toast: target file exists" maxwidth="-1" name="target_exist">指定したファイルは存在します。</string>
+    <string description="Toast: target folder exists. %s is variable string." maxwidth="-1" name="target_folder_exist">"フォルダー: [%s] は既に存在します。"</string>
+    <string description="" maxwidth="" name="tell_friend">友達に教える</string>
+    <string maxwidth="" name="terms_of_service">"注意事項"</string>
+    <string maxwidth="" name="terms_of_service_url">http://www.asus.com/us/Terms_of_Use_Notice_Privacy_Policy/Official-Site/</string>
+    <string description="title" maxwidth="-1" name="title">法律情報:</string>
+    <string name="toast_auto_lock_notify_message">"デバイスがロックされる場合に非表示キャビネットをロックする"</string>
+    <string description="Toast: The item(s) has been copied completely" maxwidth="-1" name="toast_drag_copied_items">項目をコピーしました。</string>
+    <string description="Toast: The item(s) has been moved completely" maxwidth="-1" name="toast_drag_moved_items">項目を移動しました。</string>
+    <string description="Toast: Sorry, copy files complete but cut fail" maxwidth="-1" name="toast_warning_copy_comple_cut_fail">"申し訳ありません。コピーファイルは完了しましたが古いファイルの削除に失敗しました"</string>
+    <string description="Toast: Sorry, copy folders has not been supported" maxwidth="-1" name="toast_warning_copy_folders">"申し訳ありません。コピーファイルに対応していません"</string>
+    <string maxwidth="35" name="toolbar_item_title_encourage_us">"評価にご協力ください"</string>
+    <string name="tools_clean_master">"クリーンアップ"</string>
+    <string name="tools_file_transfer">"ファイル転送"</string>
+    <string name="tools_hidden_zone">"非表示キャビネット"</string>
+    <string name="tools_recycle_bin">"ごみ箱"</string>
+    <string name="tools_storage_analyzer">"ストレージとアナライザー"</string>
+    <string name="tools_tip_animation">"引き上げるとツールが表示されます！"</string>
+    <string name="tools_zenui_instant_update">"インスタントアップデート"</string>
+    <string description="shortcut title: trash can" name="trash_can" width="-1">"ごみ箱"</string>
+    <string maxwidth="-1" name="trash_info_deleted">"削除日: "</string>
+    <string maxwidth="-1" name="trash_info_path">"オリジナルパス: "</string>
+    <string description="label for trending searches" maxwidth="-1" name="trending_searches">"トレンド検索"</string>
+    <string name="tutorial_analyzer_content">"ストレージアナライザーではディスクのファイル内容を知らせます。"</string>
+    <string name="tutorial_category_content">"ファイルの検索はASUSファイルマネージャーのカテゴリー表示で簡単に行うことができるようになりました。"</string>
+    <string name="tutorial_category_title">"カテゴリー表示"</string>
+    <string name="tutorial_cloud_content">"スマートフォン、PC、クラウドストレージからファイルをアクセスします。"</string>
+    <string name="tutorial_cloud_title">"クラウドストレージ"</string>
+    <string name="tutorial_done">完了</string>
+    <string name="tutorial_page_content_long_press">タップしてホールドし、アイテムを選択します。それから「メニュー」アイコンをタップし、他のアクションオプションを表示します。</string>
+    <string name="tutorial_page_four_content">頻繁に利用するフォルダーをお気に入りとして設定すれば、すばやく簡単にアクセスできます。</string>
+    <string name="tutorial_page_four_title">お気に入り</string>
+    <string name="tutorial_page_one_content">ASUS ファイルマネージャーでは、内部、外部、ローカルエリアのネットワークまたはクラウドストレージに保存されているファイルを簡単に管理できます。</string>
+    <string name="tutorial_page_one_title">"ファイルマネージャー"</string>
+    <string name="tutorial_page_three_content">アイテムを右方向にスワイプすると、お気に入りに追加、名前変更、移動先、コピー先、その他のファイル管理オプションなど、アクションが表示されます。</string>
+    <string name="tutorial_page_three_title">アクション一覧を右スワイプする</string>
+    <string name="tutorial_page_title_long_press">アクションメニューの表示</string>
+    <string name="tutorial_page_two_content">使いやすいカテゴリでローカルストレージのファイルにすばやくアクセスできます。</string>
+    <string name="tutorial_page_two_title">ホームページ</string>
+    <string name="tutorial_skip">スキップ</string>
+    <string description="button text for sort file by type" maxwidth="-1" name="type">ファイルの種類</string>
+    <string description="document type" maxwidth="-1" name="type_abu">Asusアプリバックアップ"</string>
+    <string description="document type" maxwidth="-1" name="type_apk">"Androidアプリ"</string>
+    <string description="document type" maxwidth="-1" name="type_audio">"音声o"</string>
+    <string description="document type" maxwidth="-1" name="type_book">"Eブック"</string>
+    <string name="type_dialog_audio">"音声"</string>
+    <string name="type_dialog_image">画像</string>
+    <string name="type_dialog_text">"テキスト"</string>
+    <string name="type_dialog_title">次のファイルタイプで開く</string>
+    <string name="type_dialog_video">"動画"</string>
+    <string description="document type" maxwidth="-1" name="type_directory">"ディレクトリ"</string>
+    <string description="document type" maxwidth="-1" name="type_document">"ドキュメント"</string>
+    <string description="document type" maxwidth="-1" name="type_file">"ファイル"</string>
+    <string description="document type" maxwidth="-1" name="type_image">"画像"</string>
+    <string description="document type" maxwidth="-1" name="type_playlist">"再生リスト"</string>
+    <string description="document type" maxwidth="-1" name="type_rar">"RAR"</string>
+    <string description="document type" maxwidth="-1" name="type_video">"動画o"</string>
+    <string description="document type" maxwidth="-1" name="type_zip">"Zip"</string>
+    <string name="ud_sdk_all_app_update">"すべてのアプリで現在のバージョンが実行されています。"</string>
+    <string name="ud_sdk_asus_app_slogan">便利なアプリ</string>
+    <string name="ud_sdk_downloads">ダウンロード</string>
+    <string name="ud_sdk_free_download">無料のダウンロード</string>
+    <string name="ud_sdk_important_remind_text">"重要"</string>
+    <string name="ud_sdk_install">インストール</string>
+    <string name="ud_sdk_more_zen_family">他の ZenUI アプリを見る</string>
+    <string name="ud_sdk_no_network_connection_content">データを更新できません。 ネットワーク設定を確認してください。</string>
+    <string name="ud_sdk_no_network_connection_title">インターネット接続がありません</string>
+    <string name="ud_sdk_open">開く</string>
+    <string name="ud_sdk_update">更新</string>
+    <string maxwidth="-1" name="ud_sdk_update_sdk">ZenUI 製品群</string>
+    <string maxwidth="-1" name="ud_sdk_update_sdk_asus">ZenUI インスタント更新</string>
+    <string name="ud_sdk_wifi_settings">Wi-Fi 設定</string>
+    <string name="uf_sdk_already_give_5star">すでに5つ星を付けた</string>
+    <string description="%d is a number, don&apos;t translate" name="uf_sdk_article_read_count">"%d表示"</string>
+    <string name="uf_sdk_attachment_format_warning">"ファイル形式が正しくありません。画像ファイルだけが添付できます"</string>
+    <string name="uf_sdk_attachment_total_size">"合計"</string>
+    <string name="uf_sdk_attachment_warning">"添付サイズが許容限度を超えています"</string>
+    <string maxwidth="-1" name="uf_sdk_cancel_btn_content">"キャンセル"</string>
+    <string name="uf_sdk_choosertitle_sharevia">"共有ツール"</string>
+    <string name="uf_sdk_connection_error_msg">"サーバーへの接続を停止します。後で再試行してください。"</string>
+    <string name="uf_sdk_connection_error_title">"接続エラー"</string>
+    <string name="uf_sdk_discard">"廃棄”</string>
+    <string name="uf_sdk_email_illigal">既に使用されているメールアドレスです</string>
+    <string maxwidth="-1" name="uf_sdk_empty_notification">"空です"</string>
+    <string name="uf_sdk_faq">"よくある質問"</string>
+    <string name="uf_sdk_feedback_and_help">"フィードバック＆ヘルプ"</string>
+    <string name="uf_sdk_forum_description">"ASUSのユーザーとの会話に参加して、 解決策を見つけて共有します"</string>
+    <string maxwidth="-1" name="uf_sdk_grant_permission_title">"パーミッションを承諾"</string>
+    <string name="uf_sdk_help">"ヘルプ"</string>
+    <string name="uf_sdk_instant_answer_question">"このFAQは参考になりましたか？"</string>
+    <string name="uf_sdk_like">"いいね"</string>
+    <string maxwidth="-1" name="uf_sdk_message">"通知"</string>
+    <string name="uf_sdk_msg_bad_email_format">"メールアドレスが無効です。再試行しください。"</string>
+    <string name="uf_sdk_msg_confirm_discard_topic">"下書きは保存されていません。下書きを削除しますか？"</string>
+    <string name="uf_sdk_msg_confirm_discard_topic_title">"投稿を削除しますか？"</string>
+    <string name="uf_sdk_msg_subscribe">"トピック状態通知の購読は、電子メールで配信されます。"</string>
+    <string name="uf_sdk_msg_subscribe_success">"購読が成功"</string>
+    <string name="uf_sdk_msg_ticket_created">"フィードバックが正常にASUSに送信されました"</string>
+    <string name="uf_sdk_msg_topic_created">"正常に公開されました"</string>
+    <string name="uf_sdk_msg_unsubscribe">"購読解除が成功"</string>
+    <string name="uf_sdk_name_hint">"名前を入力"</string>
+    <string name="uf_sdk_name_illigal">既に使用されているユーザー名です</string>
+    <string name="uf_sdk_network_error">"ネットワークへの接続がありません。ネットワーク設定を確認してください。"</string>
+    <string description="zenui news" maxwidth="" name="uf_sdk_news">ニュース</string>
+    <string name="uf_sdk_no_network_connection_content">"サーバーへの接続を停止します。後で再試行してください。"</string>
+    <string name="uf_sdk_no_network_connection_title">"接続エラー"</string>
+    <string name="uf_sdk_nothing_found">"何も見つかりません"</string>
+    <string name="uf_sdk_notice">"注意"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category1">"告知"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category2">"チュートリアルとヒント"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category3">"プロモーション"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category4">"イベント"</string>
+    <string name="uf_sdk_publish_an_topic">"新しいトピックを発行"</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_rate_now">"評価する"</string>
+    <string description="%s is AP name, don&apos;t translate" maxWidth="" name="uf_sdk_rate_us_detail">"%s をご利用いただきありがとうございます。Playストアで本ツールの5段階の評価にご協力ください。"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_detail_new">"5つ星評価をいただけたら、弊社にとって励みになります！"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_rating">"5 つ星で評価する"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title">"評価してください！"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title_new">"評価にご協力ください！"</string>
+    <string description="Menu item for userFeedback sdk" maxwidth="-1" name="uf_sdk_report_bug">バグを報告する</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_scroll_up_toast">"スクロールして評価してください。"</string>
+    <string name="uf_sdk_search_hint">"ヘルプを検索"</string>
+    <string name="uf_sdk_select_common_bug">"一般的なバグを選択"</string>
+    <string name="uf_sdk_send_feedback">"フィードバックの送信"</string>
+    <string name="uf_sdk_send_feedback_help">フィードバックやメールアドレスがASUSに送信されます。 サービスチームはメールで連絡します。</string>
+    <string maxwidth="-1" name="uf_sdk_setting_btn_content">"設定"</string>
+    <string description="recommend title" maxwidth="" name="uf_sdk_settings_encourage_us_title">"評価にご協力ください"</string>
+    <string maxwidth="-1" name="uf_sdk_storage_permission_description">"この機能は、マルチメディアファイルにアクセスするためにストレージパーミッションを取得する必要があります。\n\nこの機能を有効にする場合は、設定ボタンをタップして設定ページに移動して、[アプリ情報] > [許可] を選択してパーミッションを許諾してください。\n"</string>
+    <string name="uf_sdk_submit_topic">"発行"</string>
+    <string name="uf_sdk_subscribe_dialog_title">"このトピックを購読します"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_answered">"回答"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_completed">"完了"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_declined">"却下"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_implemented">"実施済み"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_planned">"予定"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_under_review">"審査中"</string>
+    <string name="uf_sdk_thanks_for_your_feedback">ご意見をお寄せ頂きありがとうございます！</string>
+    <string description="%s is a application name, don&apos;t translate" name="uf_sdk_ticket_hint">%sへのフィードバックを入力</string>
+    <string name="uf_sdk_title_topic">"トピック"</string>
+    <string name="uf_sdk_topic">"トピック"</string>
+    <string name="uf_sdk_topic_description_heading">"説明"</string>
+    <string name="uf_sdk_topic_description_hint">"詳細にトピックを説明してください"</string>
+    <string name="uf_sdk_topic_filter">"トピック"</string>
+    <string name="uf_sdk_topic_form_help">"ユーザーフォーラムのトピックを公開すると、他のユーザーが閲覧して、コメントを投稿することができます。また、ASUS開発チームがトピックに返答するとき、Eメールで通知されます。"</string>
+    <string name="uf_sdk_topic_form_title">"新しいトピックを発行"</string>
+    <string name="uf_sdk_topic_text_heading">"フォーラム"</string>
+    <string name="uf_sdk_topic_text_hint">トピックのタイトルを入力</string>
+    <string name="uf_sdk_topic_title">"タイトル"</string>
+    <string name="uf_sdk_translation_10117605">"翻訳問題"</string>
+    <string name="uf_sdk_translation_117562">"フィードバックタイプ"</string>
+    <string name="uf_sdk_translation_2529543">"バグ報告"</string>
+    <string name="uf_sdk_translation_2529544">"その他"</string>
+    <string name="uf_sdk_translation_2530478">"提案"</string>
+    <string name="uf_sdk_unhelpful_article_message_question">"ASUS開発チームへフィードバックを送信しますか？"</string>
+    <string name="uf_sdk_user_forum">"ユーザー フォーラム"</string>
+    <string name="uf_sdk_warning">"警告"</string>
+    <string name="uf_sdk_wifi_settings">"Wi-Fi 設定"</string>
+    <string name="uf_sdk_wlan_settings">"WLAN 設定"</string>
+    <string name="uf_sdk_write_your_feedback">ここにフィードバックを入力してください</string>
+    <string name="uf_sdk_your_draft_will_be_discarded">"下書きが廃棄されます。"</string>
+    <string description="description for empty search result" maxwidth="-1" name="unable_to_find_artlcles">"\u0022%s\u0022の関連記事は見つかりません"</string>
+    <string description="string indicating the length units in milli-meters" maxwidth="-1" name="unit_mm">mm</string>
+    <string description="Context Menu: options of context menu: unshare folder" maxwidth="-1" name="unshared_folder">非共有</string>
+    <string name="unsupported_area">"この領域はサポートされていません"</string>
+    <string description="toast message: extract files fail" maxwidth="-1" name="unzip_fail">ファイルの解凍に失敗しました。</string>
+    <string description="extract file dialog message" maxwidth="-1" name="unzip_progress_msg">解凍中：</string>
+    <string description="toast message: extract files successly" maxwidth="-1" name="unzip_success">ファイルの解凍に成功しました。</string>
+    <string name="update">"\u66f4\u65b0"</string>
+    <string name="update_fb_app">"Google Play\u304b\u3089Facebook\u30e2\u30d0\u30a4\u30eb\u30a2\u30d7\u30ea\u306e\u6700\u65b0\u30d0\u30fc\u30b8\u30e7\u30f3\u3092\u30a4\u30f3\u30b9\u30c8\u30fc\u30eb\u3057\u3066\u304f\u3060\u3055\u3044\u3002"</string>
+    <string name="upgrade_notification_content">新しいホーム画面から種類別にファイルを表示します。</string>
+    <string name="upgrade_notification_title">新しいファイルマネージャーを今すぐお試しください！</string>
+    <string name="upload_complete">"\u30a2\u30c3\u30d7\u30ed\u30fc\u30c9\u5b8c\u4e86"</string>
+    <string name="upload_complete_dialog_message">"\u52d5\u753b\u3092\u30a2\u30c3\u30d7\u30ed\u30fc\u30c9\u3057\u307e\u3057\u305f\u3002"</string>
+    <string name="upload_complete_dialog_title">"\u5b8c\u4e86"</string>
+    <string name="upload_fail">アップロードに失敗しました!</string>
+    <string name="upload_failed">"\u30a2\u30c3\u30d7\u30ed\u30fc\u30c9\u306b\u5931\u6557"</string>
+    <string name="upload_picture_toast">"\u3042\u306a\u305f\u306e\u753b\u50cf\u304c\u30a2\u30c3\u30d7\u30ed\u30fc\u30c9\u3055\u308c\u307e\u3059\u3002\u9032\u884c\u72b6\u6cc1\u306f\u901a\u77e5\u30a6\u30a3\u30f3\u30c9\u30a6\u3067\u78ba\u8a8d\u3067\u304d\u307e\u3059\u3002"</string>
+    <string name="upload_toast">"\u3042\u306a\u305f\u306e\u30d3\u30c7\u30aa\u304c\u30a2\u30c3\u30d7\u30ed\u30fc\u30c9\u3055\u308c\u307e\u3059\u3002\u9032\u884c\u72b6\u6cc1\u306f\u901a\u77e5\u30a6\u30a3\u30f3\u30c9\u30a6\u3067\u78ba\u8a8d\u3067\u304d\u307e\u3059\u3002"</string>
+    <string name="uploading_picture">"\u753b\u50cf\u306e\u30a2\u30c3\u30d7\u30ed\u30fc\u30c9\u4e2d"</string>
+    <string name="uploading_video">"\u52d5\u753b\u306e\u30a2\u30c3\u30d7\u30ed\u30fc\u30c9\u4e2d..."</string>
+    <string name="user">ユーザー名</string>
+    <string name="user_hint">管理者</string>
+    <string name="uv_admin_response_format">"管理者の応答: %1$s"</string>
+    <string name="uv_all_articles">"すべての記事"</string>
+    <string name="uv_all_results_filter">"すべて"</string>
+    <string name="uv_android_sdk">Android SDK</string>
+    <string name="uv_article_browse_question">"この記事は役に立ちましたか？"</string>
+    <string name="uv_article_instant_answer_question">"このFAQは参考になりましたか？"</string>
+    <string name="uv_cancel">"キャンセル"</string>
+    <string name="uv_category">"カテゴリ"</string>
+    <string name="uv_close">"閉じる"</string>
+    <string name="uv_comment_hint">"コメントを入力"</string>
+    <string name="uv_confirm">"確認"</string>
+    <string name="uv_contact_continue_button">"メッセージを送信したいです"</string>
+    <string name="uv_contact_hint">"ご質問・ご感想をお寄せください"</string>
+    <string name="uv_contact_us">"お問い合わせてください"</string>
+    <string name="uv_display_name">"表示名"</string>
+    <string name="uv_email_address">"メールアドレス"</string>
+    <string name="uv_email_address_hint">"your@email.com (記入必須)"</string>
+    <string name="uv_error">"エラー"</string>
+    <string name="uv_failed_signin_error">"メールまたはパスワードが正しくありません"</string>
+    <string name="uv_forgot_password">"パスワードを忘れた場合"</string>
+    <string name="uv_helpful_article_message_question">"メッセージ​​を送信しますか？"</string>
+    <string name="uv_i_want_this">"これが欲しい！"</string>
+    <string name="uv_idea_description_heading">"詳細にアイデアを説明"</string>
+    <string name="uv_idea_description_hint">"(任意)"</string>
+    <string name="uv_idea_text_heading">お勧めします…</string>
+    <string name="uv_loading">"読み込み中…"</string>
+    <string name="uv_matching_articles">"一致する記事"</string>
+    <string name="uv_matching_articles_and_ideas">"一致する記事とアイデア"</string>
+    <string name="uv_menu_attach">"添付"</string>
+    <string name="uv_menu_search">"検索"</string>
+    <string name="uv_msg_bad_email_format">"有効なメールアドレスを入力してください。"</string>
+    <string name="uv_msg_comment_posted">"コメントが投稿されました"</string>
+    <string name="uv_msg_confirm_discard_message">"メッセージを破棄してもよろしいですか?"</string>
+    <string name="uv_msg_custom_fields_validation">"必須フィールドはすべて記入してください。"</string>
+    <string name="uv_msg_forgot_password">"パスワードを忘れた場合メールで送信"</string>
+    <string name="uv_msg_idea_created">"アイデアが作成されました"</string>
+    <string name="uv_msg_ticket_created">"メッセージは送信されました。"</string>
+    <string name="uv_msg_user_identity_validation">"有効なメールアドレスを入力してください。"</string>
+    <string name="uv_name_hint">"匿名"</string>
+    <string name="uv_network_error">"ユーザーボイスへ接続できません"</string>
+    <string name="uv_nevermind">"注意"</string>
+    <string name="uv_new_comment">"新しいコメント"</string>
+    <string name="uv_next">"次へ"</string>
+    <string name="uv_no">"なし"</string>
+    <string name="uv_none_of_these_help">"ヘルプがありません"</string>
+    <string name="uv_password">"パスワード"</string>
+    <string name="uv_password_dialog_title">"パスワードを入力してください。"</string>
+    <string name="uv_portal_title">"ヘルプ"</string>
+    <string name="uv_post_a_comment">"コメントを投稿"</string>
+    <string name="uv_post_comment">"コメントを投稿"</string>
+    <string name="uv_posted_by_format">"%1$s on %2$sから投稿されました"</string>
+    <string name="uv_powered_by_uservoice">"Powered by UserVoice"</string>
+    <string name="uv_ranked">"ランク: %1$s"</string>
+    <string name="uv_remove_votes">"投票を削除"</string>
+    <string name="uv_select_none">"(なし)"</string>
+    <string name="uv_select_one">"1 つ選択"</string>
+    <string name="uv_send_message">"メッセージを送信"</string>
+    <string name="uv_signin_dialog_ok">"サインイン"</string>
+    <string name="uv_signin_dialog_title">"サインイン"</string>
+    <string name="uv_status_format">"状態: %1$s"</string>
+    <string name="uv_submit_idea">"アイデアを投稿"</string>
+    <string name="uv_subscribe">"購読"</string>
+    <string name="uv_subscribe_dialog_title">"このアイデアに賛同する"</string>
+    <string name="uv_suggestion_instant_answer_question">"このアイデアは役に立ちますか?"</string>
+    <string name="uv_thanks">"ありがとうございます!"</string>
+    <string name="uv_unhelpful_article_message_question">"私たちにメッセージを送信しますか？"</string>
+    <string name="uv_value">"値"</string>
+    <string name="uv_very_yes">"はい!"</string>
+    <string name="uv_yes">"はい"</string>
+    <string name="uv_your_email_address">"電子メール アドレス"</string>
+    <string name="uv_your_name">"名前"</string>
+    <string description="version" maxwidth="-1" name="version">バージョン</string>
+    <string name="version_text">バージョン</string>
+    <string name="wait">"お待ちください..."</string>
+    <string name="warning_stophttpserver">"モバイルデバイスと PC の間の接続が失われます。 終了しますか？"</string>
+    <string name="whats_new_label">新着情報</string>
+    <string description="message for request to connect Network" name="wifi_p2p_connection_msg" width="-1">クラウドサービスを使用するためのネットワーク接続を確立してください。</string>
+    <string description="title for request to connect Network" name="wifi_p2p_connection_title" width="-1">ネットワーク接続の確立</string>
+    <string description="message for request to turn on Wi-Fi" name="wifi_p2p_turn_on_wifi_msg" width="-1">Wi-FiをオンにしてWi-Fi Directサービスを使用します。 今Wi-Fi Directをオンにしますか?</string>
+    <string description="title for turn on WiFi dialog" name="wifi_p2p_turn_on_wifi_title" width="-1">Wi-Fi をオンにする</string>
+    <string description="search" maxwidth="-1" name="wifidirect_action_bar_scan">検索</string>
+    <string description="Available devices" maxwidth="-1" name="wifidirect_available_devices">使用可能なデバイス</string>
+    <string description="Do you want to connect to device" maxwidth="-1" name="wifidirect_connect_hint">接続しますか</string>
+    <string description="Dialog title text: Invitation to connect" maxwidth="-1" name="wifidirect_connect_hint_title">接続の招待</string>
+    <string description="Dialog title text: Wi-Fi Direct connecting" maxwidth="-1" name="wifidirect_connecting_hint_title">Wi-Fi Direct接続中...</string>
+    <string description="connectted" maxwidth="-1" name="wifidirect_connectted">接続済み</string>
+    <string description=">Do you want to disconnect" maxwidth="-1" name="wifidirect_disconnect_hint">切断しますか</string>
+    <string description="Disconnect Wi-Fi Direct" maxwidth="-1" name="wifidirect_disconnect_hint_title">Wi-Fi Directの切断</string>
+    <string description="peer devices infomation" maxwidth="-1" name="wifidirect_peer_device_info">"Wi-Fi Directの招待を受け取るには、接続しているデバイスがファイルマネージャーの\"Peer devices\"ページに留まっていることを確認してください。"</string>
+    <string description="peer devices title" maxwidth="-1" name="wifidirect_peer_device_title">ピアデバイス</string>
+    <string description="searching" maxwidth="-1" name="wifidirect_scanning">検索中です...</string>
+    <string description="Search Wi-Fi Direct device" maxwidth="-1" name="wifidirect_storage_title">Wi-Fi Directデバイスの検索</string>
+    <string description="click to connect" maxwidth="-1" name="wifidirect_touch_to_connect">クリックして接続する</string>
+    <string name="yandex_account_only_one_alert">"追加できる Yandex アカウントは 1 つだけです。 新しいアカウントに替える前に現在のアカウントを削除する必要があります。"</string>
+    <string name="yes">"はい"</string>
+    <string name="zenui_update">"ZenUI インスタントアップデート"</string>
+    <string description="toast message: Compress files fail" maxwidth="-1" name="zip_fail">ファイルの圧縮に失敗しました</string>
+    <string description="compress dialog message" maxwidth="-1" name="zip_progress_msg">実行中</string>
+    <string description="toast message: Compress files successly" maxwidth="-1" name="zip_success">ファイルを圧縮しました</string>
+</resources>

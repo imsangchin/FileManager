@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="uf_sdk_number_of_subscribers_format">
+        <item quantity="one">"%1$s kedveli ezt a témát"</item>
+        <item quantity="other">"%1$s kedveli ezt a témát"</item>
+    </plurals>
+    <plurals name="uf_sdk_topics">
+        <item quantity="one">"téma"</item>
+        <item quantity="other">"téma"</item>
+    </plurals>
+    <plurals name="uv_comments">
+        <item quantity="one">"hozzászólás"</item>
+        <item quantity="other">"hozzászólás"</item>
+    </plurals>
+    <plurals name="uv_number_of_subscribers_format">
+        <item quantity="one">"%1$s érdekesnek találja az ötletet"</item>
+        <item quantity="other">"%1$s érdekesnek találja az ötletet"</item>
+    </plurals>
+    <plurals name="uv_people">
+        <item quantity="one">"ember"</item>
+        <item quantity="other">"ember"</item>
+    </plurals>
+    <plurals name="uv_subscribers">
+        <item quantity="one">"feliratkozó"</item>
+        <item quantity="other">"feliratkozó"</item>
+    </plurals>
+    <string description="label for trending searches" maxwidth="-1" name="trending_searches">"Népszerű keresések"</string>
+    <string name="uf_sdk_already_give_5star">"Már 5 csillagos minősítést adtam"</string>
+    <string description="%d is a number, don&apos;t translate" name="uf_sdk_article_read_count">"%d megtekintés"</string>
+    <string name="uf_sdk_attachment_format_warning">"Rossz fájlformátum. Csak képfájl csatolható"</string>
+    <string name="uf_sdk_attachment_total_size">"Összesen"</string>
+    <string name="uf_sdk_attachment_warning">"A melléklet mérete meghaladja a korlátot."</string>
+    <string maxwidth="-1" name="uf_sdk_cancel_btn_content">"Mégse"</string>
+    <string name="uf_sdk_choosertitle_sharevia">"Megosztás itt:"</string>
+    <string name="uf_sdk_connection_error_msg">"A szerver megszakította a kapcsolatot. Kérjük, próbálkozzon újra később."</string>
+    <string name="uf_sdk_connection_error_title">"Csatlakozási hiba"</string>
+    <string name="uf_sdk_discard">"Elvet"</string>
+    <string name="uf_sdk_email_illigal">"Az e-mail cím már használatban van"</string>
+    <string maxwidth="-1" name="uf_sdk_empty_notification">"Üres :)"</string>
+    <string name="uf_sdk_faq">"GYIK"</string>
+    <string name="uf_sdk_feedback_and_help">"Visszajelzés és súgó"</string>
+    <string name="uf_sdk_forum_description">"Kapcsolódjon be az ASUS-felhasználók beszélgetéseibe megoldások kereséséhez és megosztásához"</string>
+    <string maxwidth="-1" name="uf_sdk_grant_permission_title">"Engedély megadása a(z) alkalmazásnak"</string>
+    <string name="uf_sdk_help">"Súgó"</string>
+    <string name="uf_sdk_instant_answer_question">"Hasznos ez a GYIK?"</string>
+    <string name="uf_sdk_like">"Tetszik"</string>
+    <string maxwidth="-1" name="uf_sdk_message">"Értesítések"</string>
+    <string name="uf_sdk_msg_bad_email_format">"Az e-mail cím nem érvényes. Próbálja újra."</string>
+    <string name="uf_sdk_msg_confirm_discard_topic">"Piszkozata nem lesz mentve. Mégis törölni szeretné?"</string>
+    <string name="uf_sdk_msg_confirm_discard_topic_title">"Törli a közzétételt?"</string>
+    <string name="uf_sdk_msg_subscribe">"A téma állapotával kapcsolatos értesítésekre a feliratkozását e-mailben fogja megkapni."</string>
+    <string name="uf_sdk_msg_subscribe_success">"Sikeres feliratkozás"</string>
+    <string name="uf_sdk_msg_ticket_created">"Az ASUS sikeresen fogadta az Ön visszajelzését"</string>
+    <string name="uf_sdk_msg_topic_created">"Sikeresen közzétéve"</string>
+    <string name="uf_sdk_msg_unsubscribe">"Sikeres leiratkozás"</string>
+    <string name="uf_sdk_name_hint">"Adja meg nevét"</string>
+    <string name="uf_sdk_name_illigal">"A felhasználónév már foglalt"</string>
+    <string name="uf_sdk_network_error">"Nincs internetkapcsolat. Kérjük, ellenőrizze a hálózati beállításokat."</string>
+    <string description="zenui news" maxwidth="" name="uf_sdk_news">"Hírek"</string>
+    <string name="uf_sdk_no_network_connection_content">"A kapcsolatot a szerver megszakította. Próbálja újra később."</string>
+    <string name="uf_sdk_no_network_connection_title">"Kapcsolódási hiba"</string>
+    <string name="uf_sdk_nothing_found">"Nincs találat"</string>
+    <string name="uf_sdk_notice">"Értesítés"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category1">"Közlemények"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category2">"Oktatóprogramok és tippek"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category3">"Promóciók"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category4">"Események"</string>
+    <string name="uf_sdk_publish_an_topic">"Új téma közzététele"</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_rate_now">"Értékelés most"</string>
+    <string description="%s is AP name, don&apos;t translate" maxWidth="" name="uf_sdk_rate_us_detail">"Ha szívesen használja a(z) %s alkalmazást, kérjük, adjon nekünk 5 csillagos minősítést a Play Store áruházban."</string>
+    <string maxWidth="" name="uf_sdk_rate_us_detail_new">"5 csillagos minősítéssel arra ösztönözne bennünket, hogy a terméket továbbfejlesszük!"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_rating">"Értékelés 5 csillaggal"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title">"Értékeljen bennünket!"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title_new">"Értékeljen bennünket!"</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_scroll_up_toast">"Görgessen fel az értékeléshez"</string>
+    <string name="uf_sdk_search_hint">"Keresés"</string>
+    <string name="uf_sdk_select_common_bug">"Általános hiba kiválasztása"</string>
+    <string name="uf_sdk_send_feedback">"Visszajelzés küldése"</string>
+    <string name="uf_sdk_send_feedback_help">"Visszajelzését és e-mail címét elküldjük az ASUS-nak. A szervizcsoport megkeresi Önt e-mailben."</string>
+    <string maxwidth="-1" name="uf_sdk_setting_btn_content">"Beállítások"</string>
+    <string description="recommend title" maxwidth="" name="uf_sdk_settings_encourage_us_title">"Motiváljon bennünket"</string>
+    <string maxwidth="-1" name="uf_sdk_storage_permission_description">"A multimédiás fájlok eléréséhez a funkciónak hozzáférésre van szüksége a tárhelyhez. \n\nHa szeretné engedélyezni a funkciót, a Beállítások gombbal lépjen a(z) Beállítások oldalára, majd az engedély megadásához használja az „Alkalmazásinformációk” > „Engedélyek” pontot.\n"</string>
+    <string name="uf_sdk_submit_topic">"Közzétesz"</string>
+    <string name="uf_sdk_subscribe_dialog_title">"Feliratkozás erre a témára"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_answered">"Megválaszolva"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_completed">"Kész"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_declined">"Elutasítva"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_implemented">"Elvégezve"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_planned">"Eltervezve"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_under_review">"Felülvizsgálat alatt"</string>
+    <string name="uf_sdk_thanks_for_your_feedback">"Köszönjük a visszajelzését!"</string>
+    <string description="%s is a application name, don&apos;t translate" name="uf_sdk_ticket_hint">"Írja be a visszajelzését a(z) %s alkalmazásról"</string>
+    <string name="uf_sdk_title_topic">"Téma"</string>
+    <string name="uf_sdk_topic">"Téma"</string>
+    <string name="uf_sdk_topic_description_heading">"Leírás"</string>
+    <string name="uf_sdk_topic_description_hint">"Írja le részletesen a témáját"</string>
+    <string name="uf_sdk_topic_filter">"TÉMÁK"</string>
+    <string name="uf_sdk_topic_form_help">"Amikor témát tesz közzé a felhasználói fórumon, mások feliratkozhatnak és kommenteket írhatnak rá. Amikor az ASUS fejlesztői csapata válaszol a témára, e-mailben értesíteni fogjuk Önt."</string>
+    <string name="uf_sdk_topic_form_title">"Új téma közzététele"</string>
+    <string name="uf_sdk_topic_text_heading">"Fórum"</string>
+    <string name="uf_sdk_topic_text_hint">"Írja be témája címét"</string>
+    <string name="uf_sdk_topic_title">"Cím"</string>
+    <string name="uf_sdk_translation_10117605">"Fordítási probléma"</string>
+    <string name="uf_sdk_translation_117562">"Visszajelzés típusa"</string>
+    <string name="uf_sdk_translation_2529543">"Programhiba bejelentése"</string>
+    <string name="uf_sdk_translation_2529544">"Egyéb"</string>
+    <string name="uf_sdk_translation_2530478">"Javaslat"</string>
+    <string name="uf_sdk_unhelpful_article_message_question">"Szeretne visszajelzést küldeni az ASUS fejlesztői csapatának?"</string>
+    <string name="uf_sdk_user_forum">"Felhasználói fórum"</string>
+    <string name="uf_sdk_warning">"Figyelmeztetés"</string>
+    <string name="uf_sdk_wifi_settings">"Wi-Fi-beállítások"</string>
+    <string name="uf_sdk_wlan_settings">"WLAN-beállítások"</string>
+    <string name="uf_sdk_write_your_feedback">"Írja be a visszajelzését"</string>
+    <string name="uf_sdk_your_draft_will_be_discarded">"Piszkozata elvetésre kerül."</string>
+    <string description="description for empty search result" maxwidth="-1" name="unable_to_find_artlcles">"Nem találhatók \u0022%s\u0022 témájú cikkek"</string>
+    <string name="uv_admin_response_format">"Admin válasza: %1$s"</string>
+    <string name="uv_all_articles">"Összes cikk"</string>
+    <string name="uv_all_results_filter">"MIND"</string>
+    <string name="uv_android_sdk">Android SDK</string>
+    <string name="uv_article_browse_question">"Hasznos volt ez a cikk?"</string>
+    <string name="uv_article_instant_answer_question">"Hasznos ez a GYIK?"</string>
+    <string name="uv_cancel">"Mégse"</string>
+    <string name="uv_category">"Kategória"</string>
+    <string name="uv_close">"Bezárás"</string>
+    <string name="uv_comment_hint">"Írja be a hozzászólását"</string>
+    <string name="uv_confirm">"Megerősít"</string>
+    <string name="uv_contact_continue_button">"Továbbra is szeretnék üzenetet küldeni"</string>
+    <string name="uv_contact_hint">"Írja be a kérdését vagy visszajelzését"</string>
+    <string name="uv_contact_us">"Forduljon hozzánk"</string>
+    <string name="uv_display_name">"Megjelenített név"</string>
+    <string name="uv_email_address">"E-mail cím"</string>
+    <string name="uv_email_address_hint">"azoncime@email.com (szükséges)"</string>
+    <string name="uv_error">"Hiba"</string>
+    <string name="uv_failed_signin_error">"Helytelen e-mail vagy jelszó"</string>
+    <string name="uv_forgot_password">"Elfelejtettem a jelszót"</string>
+    <string name="uv_helpful_article_message_question">"Továbbra is szeretne üzenetet küldeni?"</string>
+    <string name="uv_i_want_this">"Kell!"</string>
+    <string name="uv_idea_description_heading">"Írja le részletesebben az ötletét"</string>
+    <string name="uv_idea_description_hint">"(nem kötelező)"</string>
+    <string name="uv_idea_text_heading">"Azt javaslom..."</string>
+    <string name="uv_loading">"Betöltés…"</string>
+    <string name="uv_matching_articles">"Keresésnek megfelelő cikkek"</string>
+    <string name="uv_matching_articles_and_ideas">"Keresésnek megfelelő cikkek és ötletek"</string>
+    <string name="uv_menu_attach">"Csatolás"</string>
+    <string name="uv_menu_search">"Keresés"</string>
+    <string name="uv_msg_bad_email_format">"Adjon meg érvényes e-mail címet."</string>
+    <string name="uv_msg_comment_posted">"Hozzászólása elküldve"</string>
+    <string name="uv_msg_confirm_discard_message">"Biztosan elveti az üzenetet?"</string>
+    <string name="uv_msg_custom_fields_validation">"Töltse ki az összes szükséges mezőt."</string>
+    <string name="uv_msg_forgot_password">"Jelszóemlékeztető e-mail elküldve"</string>
+    <string name="uv_msg_idea_created">"Ötlete létrehozva"</string>
+    <string name="uv_msg_ticket_created">"Üzenete elküldve"</string>
+    <string name="uv_msg_user_identity_validation">"Adja meg az e-mail címét"</string>
+    <string name="uv_name_hint">"Névtelen"</string>
+    <string name="uv_network_error">"Hiba történt a UserVoice-hoz való csatlakozás közben"</string>
+    <string name="uv_nevermind">"Semmi gond"</string>
+    <string name="uv_new_comment">"Új hozzászólás"</string>
+    <string name="uv_next">"Következő"</string>
+    <string name="uv_no">"Nem"</string>
+    <string name="uv_none_of_these_help">"Ezek egyike sem segít"</string>
+    <string name="uv_password">"Jelszó"</string>
+    <string name="uv_password_dialog_title">"Adja meg a jelszavát"</string>
+    <string name="uv_portal_title">"Súgó"</string>
+    <string name="uv_post_a_comment">"Írjon hozzászólást"</string>
+    <string name="uv_post_comment">"Hozzászólás elküldése"</string>
+    <string name="uv_posted_by_format">"Közzétette: %1$s, időpont: %2$s"</string>
+    <string name="uv_powered_by_uservoice">"A UserVoice rendszerére építve"</string>
+    <string name="uv_ranked">"Besorolás: %1$s"</string>
+    <string name="uv_remove_votes">"Szavazatok eltávolítása"</string>
+    <string name="uv_select_none">"(nincs)"</string>
+    <string name="uv_select_one">"Válasszon egyet"</string>
+    <string name="uv_send_message">"Üzenet küldése"</string>
+    <string name="uv_signin_dialog_ok">"Bejelentkezés"</string>
+    <string name="uv_signin_dialog_title">"Bejelentkezés"</string>
+    <string name="uv_status_format">"Állapot: %1$s"</string>
+    <string name="uv_submit_idea">"Ötlet beküldése"</string>
+    <string name="uv_subscribe">"Feliratkozás"</string>
+    <string name="uv_subscribe_dialog_title">"Feliratkozás az ötletre"</string>
+    <string name="uv_suggestion_instant_answer_question">"Segítségére van ez az ötlet?"</string>
+    <string name="uv_thanks">"Köszönjük!"</string>
+    <string name="uv_unhelpful_article_message_question">"Szeretne nekünk üzenetet küldeni?"</string>
+    <string name="uv_value">"Érték"</string>
+    <string name="uv_very_yes">"Igen!"</string>
+    <string name="uv_yes">"Igen"</string>
+    <string name="uv_your_email_address">"Az Ön e-mail címe"</string>
+    <string name="uv_your_name">"Az Ön neve"</string>
+</resources>

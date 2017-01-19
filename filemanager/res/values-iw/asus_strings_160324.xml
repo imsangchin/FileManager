@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Sylvia Cheng, 2016/03/22, Setting page -->
+    <string name="action_settings" description="menu title for setting" maxwidth="-1">"הגדרות"</string>
+    <string name="setting_view_group">"הצג הגדרות"</string>
+    <string name="setting_view_hide_files">"הסתר קובצי מערכת"</string>
+    <string name="setting_notification_group">"הודעות"</string>
+    <string name="setting_notification_large_files">"הודעת קובץ גדול"</string>
+    <string name="setting_notification_recent_files">"הודעת קבצים אחרונים"</string>
+    <string name="setting_notification_wireless_transfer">"הודעת העברה באלחוט"</string>
+    <string name="setting_display_group">"הצג"</string>
+    <string name="tools_storage_analyzer">"ניתוח אחסון"</string>
+    <string name="tools_zenui_instant_update">"עדכון מיידי"</string>
+    <string name="category_others">"אחרים"</string>
+    <string name="large_files_content_hint">"מחפש קבצים גדולים למחיקה באישורך."</string>
+    <string name="recent_files_content_hint">"מחפש קבצים אחרונים למחיקה באישורך."</string>
+    <string name="fragment_analyzer_more_hint">"עוד"</string>
+    <string name="fragment_analyzer_chart_total_hint">"סך הכל:"</string>
+    <string name="fragment_analyzer_chart_free_hint">"פנוי:"</string>
+    <string name="fragment_analyzer_chart_used_hint">"בשימוש"</string>
+    <string name="fragment_analyzer_allfiles_used_hint">"בשימוש:"</string>
+    <string name="news_v31" maxwidth="">"מנתח האחסון מאפשר לך לדעת את סוגי הקבצים שממלאים את שטח האחסון"</string>
+    <string name="news_v32" maxwidth="">"קטגוריית יישומונים חדשה ומשופרת"</string>
+</resources>

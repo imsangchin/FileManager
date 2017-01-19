@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="file_manager" description="Application Name shown on title" maxwidth="">"ファイルマネージャー"</string>
+    <string name="ok" description="Dialog Button: ok for dialog" maxwidth="">OK</string>
+    <string name="no" description="Dialog Button: no for dialog" maxwidth="">いいえ</string>
+    <string name="cancel" description="Dialog Button: cancel for dialog" maxwidth="">キャンセル</string>
+    <string name="select_all" description="Menu Option: select all checkbox" maxwidth="">全て選択</string>
+    <string name="clear_all" description="Menu Option: clear all checkbox" maxwidth="">全てクリア</string>
+    <string name="open_fail" description="Toast: open file fails" maxwidth="-1">ファイルを開くのに失敗しました。</string>
+    <string name="permission_deny" description="Toast: operation permission deny" maxwidth="-1">認証が拒否されました。</string>
+    <string name="target_exist" description="Toast: target file exists" maxwidth="-1">指定したファイルは存在します。</string>
+    <string name="target_folder_exist" description="Toast: target folder exists. %s is variable string." maxwidth="-1">"フォルダー: [%s] は既に存在します。"</string>
+    <string name="rename" description="Context Menu: options of context menu" maxwidth="">名前変更</string>
+    <string name="rename_dialog" description="Dialog Title: rename dialog title" maxwidth="">名前変更</string>
+    <string name="rename_fail" description="Toast: rename fails" maxwidth="-1">ファイル名の変更に失敗しました。</string>
+    <string name="delete" description="Context Menu: options of context menu" maxwidth="">削除</string>
+    <string name="delete_dialog" description="Dialog Title: delete dialog title" maxwidth="">ファイルの削除</string>
+    <string name="delete_one_files" description="Dialog Content: text in dialog" maxwidth="">ファイルを削除しますか？</string>
+    <string name="delete_more_files" description="Dialog Content: text in dialog. %d is variable number." maxwidth="">%d 個の項目を削除しますか？</string>
+    <string name="delete_size" description="Dialog Content: text in dialog" maxwidth="">"サイズ： "</string>
+    <string name="delete_progress" description="Progress Content: text in progress dialog" maxwidth="">削除中...</string>
+    <string name="delete_fail" description="Toast: delete fails" maxwidth="-1">ファイルを削除しました。</string>
+    <string name="delete_success_one" description="Toast: delete success. %s is variable string." maxwidth="-1">"\"%s\" は削除されました。"</string>
+    <string name="delete_success_more" description="Toast: delete success" maxwidth="-1">選択したファイルは削除されました。</string>
+    <string name="new_folder_dialog" description="Dialog Title: create new folder" maxwidth="">新しいフォルダーの作成</string>
+    <string name="new_folder_fail" description="Toast: new folder fails" maxwidth="-1">新しいフォルダーの作成に失敗しました。</string>
+    <string name="new_folder_success" description="Toast: new folder success. %s is variable string." maxwidth="-1">"フォルダー\"%s\" を作成しました。"</string>
+    <string name="copy" description="Context Menu: options of context menu" maxwidth="">コピー</string>
+    <string name="copy_ready_one" description="Toast: copy ready. %s is variable string." maxwidth="-1">"\"%s\" をコピーしました。貼り付けることができます。"</string>
+    <string name="copy_ready_more" description="Toast: copy ready" maxwidth="-1">選択したファイルはコピーされ、貼り付けることができます。</string>
+    <string name="cut" description="Context Menu: options of context menu" maxwidth="">切り取り</string>
+    <string name="cut_ready_one" description="Toast: cut ready. %s is variable string." maxwidth="-1">"\"%s\" を切り取りました。貼り付けることができます。"</string>
+    <string name="cut_ready_more" description="Toast: cut ready" maxwidth="-1">選択したファイルは切り取り、貼り付けることができます。</string>
+    <string name="paste" description="Context Menu: options of context menu" maxwidth="">貼り付け</string>
+    <string name="paste_exist_dialog" description="Dialog Title: paste exist dialog title" maxwidth="">同じファイル名</string>
+    <string name="paste_exist_file" description="Dialog Content: text in dialog. %s is variable string." maxwidth="">"ファイル[%s] は既に存在します。"</string>
+    <string name="paste_exist_replace" description="Dialog Content: text in dialog" maxwidth="">新しいものに置き換えますか？</string>
+    <string name="paste_exist_to" description="Dialog Content: text in dialog" maxwidth="">から</string>
+    <string name="paste_exist_apply" description="Dialog Content: text in dialog" maxwidth="">全てに適用</string>
+    <string name="paste_progress" description="Progress Content: text in progress dialog" maxwidth="">貼り付け中...</string>
+    <string name="paste_fail" description="Toast: paste fails" maxwidth="-1">ファイルの貼り付けに失敗しました。</string>
+    <string name="paste_success" description="Toast: paste success. %s is variable string." maxwidth="-1">"ファイルを \"%s\"に追加しました。"</string>
+    <!-- Guoliang_Lin, 2011/04/01, UI required, new feature -->
+    <string name="no_space_fail" description="Toast: No space to copy file and left on device" maxwidth="-1">ストレージがいっぱいです。</string>
+    <!-- Guoliang Lin, 2011/04/27, UI required, new feature -->
+    <string name="action_add_folder" description="cutstom action bar view title for add folder" maxwidth="-1">フォルダーの追加</string>
+    <string name="action_hind_system_file" description="cutstom action bar view title for hinde system file" maxwidth="-1">システムの非表示</string>
+    <string name="deselect_all" description="cutstom action bar view title for deselect all checkbox" maxwidth="">全て選択解除</string>
+    <!-- Guoliang Lin, 2011/05/11, UI required, new feature -->
+    <string name="file_info_dialog_title" description="Dialog Title: File information dialog title" maxwidth="-1">ファイル情報</string>
+    <string name="dir_info_dialog_title" description="Dialog Title: Directory information dialog title" maxwidth="-1">ディレクトリー情報</string>
+    <string name="info" description="Context Menu: options of context menu" maxwidth="-1">情報</string>
+    <string name="info_name" description="file info textview context" maxwidth="-1">"名前： "</string>
+    <string name="info_file_num" description="file info textview context" maxwidth="-1">"ファイルの数： "</string>
+    <string name="info_permission" description="file info textview context" maxwidth="-1">"許可： "</string>
+    <string name="info_modified" description="file info textview context" maxwidth="-1">"修正日： "</string>
+    <!-- Guoliang Lin, 2011/05/27, UI required, new feature -->
+    <string name="action_about" description="cutstom action bar view title for about" maxwidth="-1">バージョン情報</string>
+    <!-- Johnson Chen, 2011/08/05, UI required, new feature -->
+    <string name="select_folder" description="Title: select the folder" maxwidth="-1">フォルダーの選択</string>
+    <string name="invalid_directory_path" description="Invalid directory path" maxwidth="-1">無効なディレクトリパス</string>
+    <string name="short_cuts_title" description="shortcit title" maxwidth="-1">ショートカット</string>
+    <string name="type" description="button text for sort file by type" maxwidth="-1">ファイルの種類</string>
+    <string name="name" description="button text for sort file by name" maxwidth="-1">名前</string>
+    <string name="size" description="button text for sort file by size" maxwidth="-1">サイズ</string>
+    <string name="date" description="button text for sort file by date" maxwidth="-1">日付</string>
+    <string name="name_ascending" description="button text for sort file by name ascending" maxwidth="-1">名前(降順)</string>
+    <string name="name_descending" description="button text for sort file by name descending" maxwidth="-1">名前(昇順)</string>
+    <string name="size_ascending" description="button text for sort file by size ascending" maxwidth="-1">サイズ(昇順)</string>
+    <string name="size_descending" description="button text for sort file by size descending" maxwidth="-1">サイズ(降順)</string>
+    <string name="date_ascending" description="button text for sort file by date ascending" maxwidth="-1">更新日時(降順)</string>
+    <string name="date_descending" description="button text for sort file by date descending" maxwidth="-1">更新日時(昇順)</string>
+    <string name="my_storage_title" description="storage label" maxwidth="-1">マイストレージ</string>
+    <string name="internal_storage_title" description="storage label" maxwidth="-1">内部ストレージ</string>
+    <string name="my_picture_title" description="shortcut label" maxwidth="-1">画像</string>
+    <string name="my_camera_title" description="shortcut label" maxwidth="-1">カメラ</string>
+    <string name="my_music_title" description="shortcut label" maxwidth="-1">音楽</string>
+    <string name="my_download_title" description="shortcut label" maxwidth="-1">ダウンロード</string>
+    <string name="dialog_create_zip_title" description="compress dialog title" maxwidth="-1">アーカイブ名の入力</string>
+    <string name="zip_progress_msg" description="compress dialog message" maxwidth="-1">実行中</string>
+    <string name="zip_fail" description="toast message: Compress files fail" maxwidth="-1">ファイルの圧縮に失敗しました</string>
+    <string name="zip_success" description="toast message: Compress files successly" maxwidth="-1">ファイルを圧縮しました</string>
+    <string name="search_label" description="cutstom action bar view title for search" maxwidth="-1">ファイルの検索</string>
+    <string name="search_progress" description="search dialog message" maxwidth="-1">検索中...</string>
+    <string name="location" description="button text for sort file by date" maxwidth="-1">"位置情報"</string>
+    <plurals name="number_search_items">
+        <item quantity="one">"%d件のファイルが見つかりました"</item>
+        <item quantity="other">"%d件のファイルが見つかりました"</item>
+    </plurals>
+    <string name="search_result_title" description=" text for search result" formatted="false" maxwidth="-1">%sで%sを検索中: %dファイルが見つかりました</string>
+    <string name="dialog_extract_zip_title" description="extract zip file dialog title. %s is a dynamic string. It is zip file name." maxwidth="-1">%s の解凍先：</string>
+    <string name="unzip_progress_msg" description="extract file dialog message" maxwidth="-1">解凍中：</string>
+    <string name="unzip_fail" description="toast message: extract files fail" maxwidth="-1">ファイルの解凍に失敗しました。</string>
+    <string name="unzip_success" description="toast message: extract files successly" maxwidth="-1">ファイルの解凍に成功しました。</string>
+    <string name="action_clear_history" description="cutstom action bar view title for clear search history" maxwidth="">検索履歴のクリア</string>
+    <plurals name="drag_items">
+        <item quantity="one">"項目をドラッグ"</item>
+        <item quantity="other">"項目をドラッグ"</item>
+    </plurals>
+    <string name="drag_items_one">項目をドラッグ</string>
+    <string name="drag_items_other">項目をドラッグ</string>
+    <string name="toast_drag_copied_items" description="Toast: The item(s) has been copied completely" maxwidth="-1">項目をコピーしました。</string>
+    <string name="toast_warning_copy_folders" description="Toast: Sorry, copy folders has not been supported" maxwidth="-1">"申し訳ありません。コピーファイルに対応していません"</string>
+    <string name="toast_warning_copy_comple_cut_fail" description="Toast: Sorry, copy files complete but cut fail" maxwidth="-1">"申し訳ありません。コピーファイルは完了しましたが古いファイルの削除に失敗しました"</string>
+    <string name="toast_drag_moved_items" description="Toast: The item(s) has been moved completely" maxwidth="-1">項目を移動しました。</string>
+    <string name="move" description="Hint: move the items" maxwidth="-1">移動</string>
+    <string name="drop_target_to" description="Hint: the target folder which you want to do something" maxwidth="-1">移動先：</string>
+    <string name="drop_incorrect_hint" description="Hint: the operation is incorrect" maxwidth="-1">不正操作</string>
+    <!-- Willie Huang, 2012/01/20, UI required, new feature -->
+    <string name="dialog_unzip_preview_title" description="show zip info dialog title. %s is a dynamic string. Is is a zip file name" maxwidth="-1">%sを解凍</string>
+    <string name="extract" description="Dialog Button: extract file for dialog" maxwidth="-1">解凍</string>
+    <plurals name="dialog_unzip_preview_size_text">
+        <item quantity="one">合計: %1$d ファイル、%2$s</item>
+        <item quantity="other">合計: %1$dファイル、%2$s</item>
+    </plurals>
+    <string name="encode" description="Dialog Button: click to open the encoding list dialog" maxwidth="-1">テキストエンコード</string>
+    <string name="dialog_text_encoding_title" description="text encoding dialog title" maxwidth="-1">テキストエンコード</string>
+    <string-array name="charset_array">
+        <item>"ラテン-1 (ISO-8859-1)"</item>
+        <item>"Unicode (UTF-8)"</item>
+        <item>"中国語（GBK）"</item>
+        <item>"中国語（Big5）"</item>
+        <item>"日本語（ISO-2022-JP）"</item>
+        <item>"日本語（SHIFT_JIS）"</item>
+        <item>"日本語（EUC-JP）"</item>
+        <item>"韓国語（EUC-KR）"</item>
+    </string-array>
+    <!-- Willie Huang, 2012/03/28, UI required, new feature -->
+    <string name="info_aperture" description="file info textview context" maxwidth="-1">"絞り: "</string>
+    <string name="info_datetime" description="file info textview context" maxwidth="-1">"取得データ"</string>
+    <string name="info_exposure_time" description="file info textview context" maxwidth="-1">"露出時間: "</string>
+    <string name="info_flash" description="file info textview context" maxwidth="-1">"フラッシュ: "</string>
+    <string name="info_focal_length" description="file info textview context" maxwidth="-1">"レンズ焦点距離: "</string>
+    <string name="info_image_height" description="file info textview context" maxwidth="-1">"高さ: "</string>
+    <string name="info_image_x" description="file info textview context" maxwidth="-1">" x "</string>
+    <string name="info_image_width" description="file info textview context" maxwidth="-1">"幅"</string>
+    <string name="info_iso" description="file info textview context" maxwidth="-1">"ISO: "</string>
+    <string name="info_location" description="file info textview context" maxwidth="-1">"場所: "</string>
+    <string name="info_maker" description="file info textview context" maxwidth="-1">"メーカー: "</string>
+    <string name="info_model" description="file info textview context" maxwidth="-1">"モデル: "</string>
+    <string name="info_orientation" description="file info textview context" maxwidth="-1">"画面の向き: "</string>
+    <string name="info_white_balance" description="file info textview context" maxwidth="-1">"ホワイトバランス: "</string>
+    <string name="flash_on" description="string indicating camera flash is fired" maxwidth="-1">フラッシュON</string>
+    <string name="flash_off" description="string indicating camera flash is not used" maxwidth="-1">フラッシュOFF</string>
+    <string name="unit_mm" description="string indicating the length units in milli-meters" maxwidth="-1">mm</string>
+    <string name="manual" description="string indicating how camera shooting feature is used" maxwidth="-1">マニュアル</string>
+    <string name="auto" description="string indicating how camera shooting feature is used" maxwidth="-1">オート</string>
+    <!-- Guoliang_Lin, 2012/03/20, UI required, new feature -->
+    <string name="wait">"お待ちください..."</string>
+    <!-- Johnson Chen, 2012/04/13, UI required, new feature -->
+    <string name="select_album">フォルダを選択</string>
+    <string name="select_photo">画像ファイルを選択</string>
+    <string name="back_button_label" description="button text." maxwidth="-1">戻る</string>
+    <!-- Willie Huang, 2012/05/18, UI required, new feature -->
+    <string name="action_apply_selected_file" description="View title of custom action bar, apply to multiple selected files" maxwidth="-1">適用</string>
+    <!-- Willie Huang, 2013/01/03, UI required, new feature -->
+    <string name="loading" description="text for progress bar" maxwidth="-1">"読み込んでいます..."</string>
+    <string name="version" description="version" maxwidth="-1">バージョン</string>
+    <string name="title" description="title" maxwidth="-1">法律情報:</string>
+    <string name="content" description="content" maxwidth="-1">本ソフトウェアをご利用いただくには、ASUSオフィシャルサイトで公開の利用規約・条項の遵守をお約束いただきます。 \n（http://www.asus.com）</string>
+    <string name="action_share" description="cutstom action bar view title for sharing" maxwidth="-1">"共有"</string>
+    <!-- Johnson Chen, 2012/05/18, UI required, new feature-->
+    <string name="photo_selection_limit_number_toast" description="Toast: You may not select more than %s photos." maxwidth="-1">最大%s枚の写真を選択</string>
+    <!-- Alex6 Lin, -->
+    <string name="action_sort_by" description="String for asking for the rule of sorting" maxwidth="-1">並び替え</string>
+    <plurals name="number_selected_items">
+        <item quantity="one">"%d件選択済み"</item>
+        <item quantity="other">"%d件選択済み</item>
+    </plurals>
+    <string name="info_type" description="file info textview context" maxwidth="-1">タイプ:</string>
+    <string name="type_document" description="document type" maxwidth="-1">"ドキュメント"</string>
+    <string name="type_audio" description="document type" maxwidth="-1">"音声o"</string>
+    <string name="type_video" description="document type" maxwidth="-1">"動画o"</string>
+    <string name="type_playlist" description="document type" maxwidth="-1">"再生リスト"</string>
+    <string name="type_image" description="document type" maxwidth="-1">"画像"</string>
+    <string name="type_book" description="document type" maxwidth="-1">"Eブック"</string>
+    <string name="type_zip" description="document type" maxwidth="-1">"Zip"</string>
+    <string name="type_apk" description="document type" maxwidth="-1">"Androidアプリ"</string>
+    <string name="type_abu" description="document type" maxwidth="-1">Asusアプリバックアップ"</string>
+    <string name="type_file" description="document type" maxwidth="-1">"ファイル"</string>
+    <string name="type_directory" description="document type" maxwidth="-1">"ディレクトリ"</string>
+    <string name="search_action">"検索"</string>
+    <string name="fileList_Nofiles">ファイルはありません</string>
+    <!-- Johnson Chen, 2012/05/18, UI required, new feature-->
+    <string name="wifidirect_available_devices" description="Available devices" maxwidth="-1">使用可能なデバイス</string>
+    <string name="wifidirect_connect_hint_title" description="Dialog title text: Invitation to connect" maxwidth="-1">接続の招待</string>
+    <string name="wifidirect_connect_hint" description="Do you want to connect to device" maxwidth="-1">接続しますか</string>
+    <string name="wifidirect_connecting_hint_title" description="Dialog title text: Wi-Fi Direct connecting" maxwidth="-1">Wi-Fi Direct接続中...</string>
+    <string name="wifidirect_disconnect_hint" description=">Do you want to disconnect" maxwidth="-1">切断しますか</string>
+    <string name="shared_folder" description="Context Menu: options of context menu: share folder via Wi-Fi Direct" maxwidth="">Wi-Fi Direct経由で共有</string>
+    <string name="unshared_folder" description="Context Menu: options of context menu: unshare folder" maxwidth="-1">非共有</string>
+    <string name="remote_storage_title" description="remote storage label" maxwidth="-1">リモートストレージ</string>
+    <string name="remote_connected_error_hint" description="network is unavailable, please try again" maxwidth="-1">ネットワークが使用できません。再試行してください</string>
+    <string name="wifidirect_peer_device_title" description="peer devices title" maxwidth="-1">ピアデバイス</string>
+    <string name="wifidirect_scanning" description="searching" maxwidth="-1">検索中です...</string>
+    <string name="wifidirect_touch_to_connect" description="click to connect" maxwidth="-1">クリックして接続する</string>
+    <string name="wifidirect_connectted" description="connectted" maxwidth="-1">接続済み</string>
+    <string name="wifidirect_action_bar_scan" description="search" maxwidth="-1">検索</string>
+    <string name="wifidirect_storage_title" description="Search Wi-Fi Direct device" maxwidth="-1">Wi-Fi Directデバイスの検索</string>
+    <string name="wifidirect_peer_device_info" description="peer devices infomation" maxwidth="-1">"Wi-Fi Directの招待を受け取るには、接続しているデバイスがファイルマネージャーの\"Peer devices\"ページに留まっていることを確認してください。"</string>
+    <string name="wifidirect_disconnect_hint_title" description="Disconnect Wi-Fi Direct" maxwidth="-1">Wi-Fi Directの切断</string>
+    <string name="wifi_p2p_turn_on_wifi_title" description="title for turn on WiFi dialog" width="-1">Wi-Fi をオンにする</string>
+    <string name="wifi_p2p_turn_on_wifi_msg" description="message for request to turn on Wi-Fi" width="-1">Wi-FiをオンにしてWi-Fi Directサービスを使用します。 今Wi-Fi Directをオンにしますか?</string>
+    <!-- Johnson Chen, 2013/03/22, UI required, new feature-->
+    <string name="cloud_storage_title" description="Add more cloud storage" maxwidth="-1">クラウドストレージをさらに追加する</string>
+    <string name="add_cloud_storage_dialog_title" description="Dialog title: Add cloud storage" maxwidth="-1">クラウドストレージの追加</string>
+    <string name="cloud_storage_remove_hint" description=">Do you want to remove" maxwidth="-1">"\"%s\"アカウントをログアウトしますか?"</string>
+    <string name="cloud_storage_remove_hint_title" description="Dialog title: Remove cloud storage" maxwidth="-1">ログアウト</string>
+    <string name="add_progress" description="Progress Content: text in progress dialog" maxwidth="">作成しています...</string>
+    <string name="logging_cloud_storage" description="Progress Content: text in progress dialog" maxwidth="">ログインしています...</string>
+    <string name="wifi_p2p_connection_msg" description="message for request to connect Network" width="-1">クラウドサービスを使用するためのネットワーク接続を確立してください。</string>
+    <string name="wifi_p2p_connection_title" description="title for request to connect Network" width="-1">ネットワーク接続の確立</string>
+    <string name="logout_account" description="logout account" width="-1">ログアウト</string>
+    <string name="renaming_file" description="renaming file" width="-1">名前の変更</string>
+    <string name="rename_success" description="Toast: rename success" maxwidth="-1">ファイル名を変更しました。</string>
+    <string name="login_fail" description="Toast: login account fail" width="-1">ログインできませんでした</string>
+    <string name="starred" description="shortcut title: my favorite files" width="-1">"マーク済み"</string>
+    <string name="recently_used" description="shortcut title: recently used files" width="-1">"最近使用したファイル"</string>
+    <string name="trash_can" description="shortcut title: trash can" width="-1">"ごみ箱"</string>
+    <!-- Settings Page -->
+    <string name="menu_general_preferences" description="The title of a menu for General Preferences.Pressing the menu item lets user to view and edit his general settings" maxwidth="30">"全般設定"</string>
+    <string name="preferences_title" description="This is the title of the screen for setting user preferences." maxwidth="-1">"設定"</string>
+    <string name="settings_space_used" description="This is the title of space used for setting user preferences." maxwidth="-1">"使用済み領域"</string>
+    <string name="settings_clear_search_history" description="This is the title of clearing search history action for setting user preferences." maxwidth="-1">"検索履歴を消去"</string>
+    <string name="settings_hide_system_files" description="This is the title of hiding system files action for setting user preferences." maxwidth="-1">"システムファイルを非表示"</string>
+    <string name="settings_trash_can" description="This is the title of trash can information for setting user preferences." maxwidth="-1">"ごみ箱"</string>
+    <string name="settings_moved_to_the_trash_can" description="This is the title of moving to the trash can." maxwidth="-1">"ごみ箱に移動しました"</string>
+    <string name="settings_user_name" description="This is the title of user name" maxwidth="-1">"ユーザー名"</string>
+    <string name="settings_documents_cache" description="This is the title of documents cache" maxwidth="-1">"ドキュメントキャッシュ"</string>
+    <string name="settings_cache_size_title" description="This is the title of cache size" maxwidth="-1">"キャッシュサイズ"</string>
+    <string name="settings_set_cache_size" description="Set the cache size to %s" maxwidth="-1">"キャッシュサイズは\"%s\"に設定されています"</string>
+    <string name="settings_clear_cache_title" description="Clear the cache" maxwidth="-1">"キャッシュをクリア"</string>
+    <string name="settings_clear_cache_info" description="Remove all cache documents" maxwidth="-1">"すべてのキャッシュドキュメントを削除"</string>
+    <string name="settings_remove_account" description="Remove account" maxwidth="-1">"アカウントを削除"</string>
+    <string name="drawer_open">"ナビゲーションドロワーを開く"</string>
+    <string name="drawer_close">"ナビゲーションドロワーを閉じる"</string>
+    <!-- begin add new server -->
+    <string name="samba_storage_title">"SAMBA"</string>
+    <string name="samba_storage_add_title">"ネットワークプレース"</string>
+    <string name="server_title">サーバー</string>
+    <string name="domain">"ドメイン"</string>
+    <string name="domain_hint">"空にすることができます"</string>
+    <string name="server">"サーバー:"</string>
+    <string name="server_hint">"172.0.0.1/ShareFolder"</string>
+    <string name="example">"例:"</string>
+    <string name="user">ユーザー名</string>
+    <string name="user_hint">管理者</string>
+    <string name="password">パスワード</string>
+    <string name="display">"名前を付けて表示"</string>
+    <string name="display_hint">"マイコンピューター、空にすることができます"</string>
+    <string name="samba_input_error">ユーザー名またはパスワードは空白にすることはできません！</string>
+    <string name="samba_client_config_check" description="account config dialog remind message" maxwidth="-1">ユーザー名とパスワードを記憶し、次回直接接続します</string>
+    <string name="pullfreshlistview_header_hint_normal">プルダウンする</string>
+    <string name="pullfreshlistview_header_hint_ready">リリースしてリフレッシュ</string>
+    <string name="pullfreshlistview_header_hint_loading">リフレッシュしています...</string>
+    <string name="pullfreshlistview_header_last_time">最後にリフレッシュした時刻:</string>
+    <string name="pullfreshlistview_footer_hint_normal">さらに読み取る</string>
+    <string name="pullfreshlistview_footer_hint_ready">リリースしてさらに読み取る</string>
+    <string name="cloud_preview_action_fail" description="Toast: cloud preview action" maxwidth="-1">クラウドファイルをプレビューできませんでした。</string>
+    <string name="cloud_share_action_fail" description="Toast: cloud share action" maxwidth="-1">クラウドファイルを共有できませんでした。</string>
+    <string name="cloud_paste_backgroud" description="diaglog cloud background paste">バックグラウンド</string>
+    <string name="cloud_paste_uploading" description="diaglog cloud  paste uploading">ファイルをアップロードしています</string>
+    <string name="cloud_paste_downloading" description="diaglog cloud  paste">ファイルをダウンロードしています</string>
+    <string name="cloud_paste_total" description="diaglog cloud  total">合計</string>
+    <string name="cloud_paste_current" description="diaglog cloud  current">現在</string>
+    <string name="cloud_paste_copying" description="diaglog cloud  now is copy files">コピーしています...</string>
+    <string name="cloud_paste_deleting" description="diaglog cloud  now is delete source files">ソースファイルを削除しています...</string>
+    <string name="cloud_token_invalidate" description="diaglog cloud  token is invalidate">トークンが無効になっています。再度ログインしてください！</string>
+    <string name="cloud_homebox_status_offline" description="home cloud device is offline">デバイスがオフラインになっています</string>
+    <string name="cloud_homebox_status__info_offline" description="home cloud device is offline">オフライン</string>
+    <string name="cloud_homebox_status__info_online" description="home cloud device is online">オンライン</string>
+    <string name="cloud_homebox_status__info_Sleep" description="home cloud device is sleep">"スリープ"</string>
+    <string name="cloud_homebox_no_available_devices" description="home cloud has no available devices">利用可能なHomeCloudデバイスはありません</string>
+    <string name="cloud_homebox_get_devices_fail" description="home cloud get available devices fail">利用可能なHomeCloudデバイスをスキャンできません</string>
+<!--  <string name="cloud_paste_string_format"  description="diaglog cloud  paste string format" maxwidth="-1">%d / %d</string>-->
+    <string name="storage_type_cloud">クラウドストレージ</string>
+    <string name="storage_type_local">ローカルストレージ</string>
+    <string name="storagetype_add_account">アカウントを追加する</string>
+    <string name="network_cta_hint">"ネットワーク接続の承認してください"</string>
+ <string name="action_refresh_cloudfile">"更新"</string>
+ <string name="baidu_storage_title">"百度云"</string>
+ <string name="dialog_load_stream_url_info">必要な情報をサーバーから取得しています</string>
+ <string name="paste_progress_title">他のコピータスクを実行しています...</string>
+ <string name="single_drm_file_forbidden_operation">DRM 保護により、この操作は禁止されています。</string>
+ <string name="multi_drm_file_forbidden_operation">選択したファイルの一部が DRM 保護になっているため、この操作は禁止されています。</string>
+ <string name="samba_login_error">入力したユーザー名またはパスワードが正しくありません。</string>
+     <string name="action_search" description="cutstom action bar view title for search" maxwidth="">検索</string>
+ <string name="cloud_upload_flie_limit_space" description="Toast: The size is over the limit and cannot be uploaded" maxwidth="-1">ファイルサイズが上限を超えているため、アップロードできません</string>
+ <string name="cloud_download_flie_limit_space" description="Toast: The size is over the limit and cannot be uploaded" maxwidth="-1">ファイルサイズが上限を超えているため、アップロードできません</string>
+ <string name="invalid_account" description="Toast: the account is invalid" maxwidth="-1">"アカウントが正しくありません"</string>
+ <string name="homecloud_access_error" description="Can’t connect to HomeCloud." maxwidth="-1">HomeCloudへの接続に失敗しました。 HomeCloudサービスがオンラインであることを確認してください。</string>
+ <string name="cloud_flie_name_not_supported" description="Toast: The name of the file uploaded is not supported by cloud server" maxwidth="-1">"ファイル名がクラウドサーバーでサポートされていないので操作を完了できませんでした。"</string>
+ <string name="action_cancel" description="action cancel" maxwidth="-1">キャンセル</string>
+ <string name="action_add" description="action add files" maxwidth="-1">追加</string>
+ <string name="no_share_folder">このデバイスに共有されているファイルがありません</string>
+ <string name="edit_toast_special_char">特殊文字は使用できません。</string>
+ <string name="delete_one_directory" description="Dialog Content: text in dialog" maxwidth="">ディレクトリを削除しますか？</string>
+ <string name="type_dialog_title">次のファイルタイプで開く</string>
+ <string name="type_dialog_text">"テキスト"</string>
+ <string name="type_dialog_image">画像</string>
+ <string name="type_dialog_audio">"音声"</string>
+ <string name="type_dialog_video">"動画"</string>
+ <string name="target_directory_is_child_of_source">"ターゲットディレクトリーがソースディレクトリーの子なので操作を完了できませんでした。"</string>
+ <string name="edit_toast_name_too_long">文字数が上限を越えました</string>
+ <string name="settings_description">"ローカルフォルダーとファイル"</string>
+ <string name="clear_account_info">全てのアカウントを消去</string>
+ <string name="type_rar" description="document type" maxwidth="-1">"RAR"</string>
+ <string name="set_ring">"リングとして設定する"</string>
+    <string name="action_zip" description="cutstom action bar view title for zip" maxwidth="">圧縮</string>
+    <string name="signout_account" description="signout account" width="-1">"接続を解除"</string>
+    <string name="cloud_storage_sign_out" description=">Do you want to signout" maxwidth="-1">"\"%s\"をサインアウトしますか？"</string>
+    <string name="cloud_storage_sign_out_title" description="Dialog title: Signout cloud storage" maxwidth="-1">"接続を解除"</string>
+    <string name="cloud_storage_sign_in" description=">Do you want to signin" maxwidth="-1">次のアカウントを使用して接続:</string>
+    <string name="cloud_storage_sign_in_title" description="Dialog title: Signin cloud storage" maxwidth="-1">%sに接続</string>
+    <!-- start add for CTA check  -->
+    <string name="cta_dialog_title">"ネットワークの使用"</string>
+    <string name="cta_dialog_content"><b>File Manager</b> attempts to use the network, it may apply other charges depending on your subscriptions.</string>
+    <string name="cta_check_title">"注意"</string>
+    <string name="cta_agree">"許可"</string>
+    <string name="cta_disagree">"拒否"</string>
+    <string name="cta_show_menu">"ネットワークパーミッション"</string>
+    <!-- end add for CTA check  -->
+    <string name="move_to">移動先</string>
+    <string name="copy_to">コピー先</string>
+    <string name="category_title_category">カテゴリ</string>
+    <string name="category_title_local_storage">ローカルストレージ</string>
+    <string name="category_image">画像</string>
+    <string name="category_music">音楽</string>
+    <string name="category_video">動画</string>
+    <string name="category_apk">アプリ</string>
+    <string name="category_download">ダウンロード</string>
+    <string name="category_favorite">お気に入り</string>
+    <string name="category_count">"%s"</string>
+    <string name="open">開く</string>
+    <string name="add_favorite">お気に入りに追加</string>
+    <string name="remove_favorite">お気に入りから削除</string>
+    <string name="add_favorite_success">お気に入りに保存</string>
+    <string name="rename_favorite_folder">お気に入りフォルダーの名前変更</string>
+    <string name="rename_favorite_success">名前が変更され、お気に入りに保存されました</string>
+    <string name="rename_favorite_notice">お気に入りフォルダーに同じ名前のフォルダーがあります。名前を変更しますか？</string>
+    <string name="remove_favorite_notice_one">"お気に入りフォルダーから \"%s\" を削除しますか？"</string>
+    <string name="remove_favorite_notice_more">お気に入りフォルダーから %d アイテムを削除しますか？</string>
+    <string name="remove_favorite_success">削除完了</string>
+    <string name="tutorial_skip">スキップ</string>
+    <string name="tutorial_done">完了</string>
+    <string name="tutorial_page_one_title">"ファイルマネージャー"</string>
+    <string name="tutorial_page_one_content">ASUS ファイルマネージャーでは、内部、外部、ローカルエリアのネットワークまたはクラウドストレージに保存されているファイルを簡単に管理できます。</string>
+    <string name="tutorial_page_two_title">ホームページ</string>
+    <string name="tutorial_page_two_content">使いやすいカテゴリでローカルストレージのファイルにすばやくアクセスできます。</string>
+    <string name="tutorial_page_three_title">アクション一覧を右スワイプする</string>
+    <string name="tutorial_page_three_content">アイテムを右方向にスワイプすると、お気に入りに追加、名前変更、移動先、コピー先、その他のファイル管理オプションなど、アクションが表示されます。</string>
+    <string name="tutorial_page_four_title">お気に入り</string>
+    <string name="tutorial_page_four_content">頻繁に利用するフォルダーをお気に入りとして設定すれば、すばやく簡単にアクセスできます。</string>
+    <string name="saf_permission_tutorial_title">SD カードを操作するためのアクセスを要求</string>
+    <string name="saf_permission_tutorial_content">ASUS ファイルマネージャーは SD カードを操作するためのアクセスを要求しています。 アクセスを与えますか？</string>
+    <string name="saf_tutorial_step_one">メニューアイコンをタップし、SD カードの表示をタップします。</string>
+    <string name="saf_tutorial_step_two">画面の左端をスワイプし、引き出しを表示し、SD カードをタップします。</string>
+    <string name="saf_tutorial_step_three">"SD カードの選択をタップし、ASUS ファイルマネージャーにアクセスを与えます。"</string>
+    <string name="device_root_path">ルート</string>
+    <string name="tap_to_exit">終了するにはもう一度タップします</string>
+    <string name="info_path" description="file info textview context" maxwidth="-1">"パス: "</string>
+    <string name="recruit_beta_user" description="recruit beta user" maxwidth="-1">プレビュー版を入手する</string>
+    <string name="rate_us" description="rate us" maxwidth="-1">"評価にご協力ください"</string>
+    <string name="scroll_up_toast" description="rate now" maxwidth="">上にスクロールし評価してください</string>
+    <string name="settings_encourage_us_detail" description="recommend text" maxwidth="">"%sをご利用いただきありがとうございます。Playストアで本ツールの5段階の評価にご協力ください。今後の製品開発・品質向上に大変役立ちます。"</string>
+    <string name="yes">"はい"</string>
+    <string name="menu_tutorial" description="settings menu tutorial" maxwidth="-1">チュートリアル</string>
+    <string name="about">基本情報</string>
+    <string name="version_text">バージョン</string>
+    <string name="tell_friend" description="" maxwidth="">友達に教える</string>
+    <string name="toolbar_item_title_encourage_us" maxwidth="35">"評価にご協力ください"</string>
+    <string name="zenui_update">"ZenUI インスタントアップデート"</string>
+    <string name="whats_new_label">新着情報</string>
+    <string name="next">次へ</string>
+    <string name="invite_friends" description="sticker detail page button name" maxwidth="-1">"友人を招待する"</string>
+    <string name="news_mark1" maxwidth="">"★  "</string>
+</resources>

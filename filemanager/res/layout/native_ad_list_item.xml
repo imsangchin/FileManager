@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:minHeight="@dimen/native_ad_item_height" >
+
+    <com.google.android.gms.ads.formats.NativeAppInstallAdView
+        android:id="@+id/native_app_install_ad"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/native_ad_background_color" >
+
+        <RelativeLayout
+            android:id="@+id/app_download_trigger_area"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/file_item_padding_vertical"
+            android:addStatesFromChildren="true"
+            android:background="?android:attr/selectableItemBackground" >
+
+            <ImageView
+                android:id="@+id/app_icon"
+                android:layout_width="@dimen/file_list_height"
+                android:layout_height="@dimen/file_list_height"
+                android:layout_marginEnd="@dimen/native_ad_icon_margin_right"
+                android:layout_marginRight="@dimen/native_ad_icon_margin_right"
+                android:layout_marginTop="@dimen/native_ad_icon_margin_top" />
+
+            <RelativeLayout
+                android:id="@+id/app_name_button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignTop="@id/app_icon"
+                android:layout_marginEnd="@dimen/file_list_info_container_marginLeft"
+                android:layout_marginRight="@dimen/file_list_info_container_marginLeft"
+                android:layout_marginTop="2dp"
+                android:layout_toRightOf="@id/app_icon"
+                android:addStatesFromChildren="true"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:id="@+id/app_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:ellipsize="end"
+                    android:fontFamily="Roboto Medium"
+                    android:singleLine="true"
+                    android:textColor="@color/native_ad_title_color"
+                    android:textSize="@dimen/native_ad_title_text_size" />
+            </RelativeLayout>
+
+            <TextView
+                android:id="@+id/app_download_icon"
+                android:layout_width="@dimen/native_ad_download_icon_width"
+                android:layout_height="@dimen/native_ad_download_icon_height"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:background="@drawable/button_green"
+                android:ellipsize="end"
+                android:fontFamily="Roboto Medium"
+                android:gravity="center"
+                android:maxLines="1"
+                android:textAllCaps="true"
+                android:textColor="@android:color/white"
+                android:textSize="@dimen/native_ad_download_text_size" />
+
+            <TextView
+                android:id="@+id/app_description"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/app_name_button"
+                android:layout_marginEnd="@dimen/file_list_info_container_marginLeft"
+                android:layout_marginRight="@dimen/file_list_info_container_marginLeft"
+                android:layout_marginTop="@dimen/file_list_item_date_margintop"
+                android:layout_toEndOf="@id/app_icon"
+                android:layout_toLeftOf="@id/app_download_icon"
+                android:layout_toRightOf="@id/app_icon"
+                android:ellipsize="end"
+                android:lineSpacingExtra="@dimen/native_ad_description_text_line_spacing"
+                android:maxLines="3"
+                android:textColor="@color/native_ad_description_color"
+                android:textSize="@dimen/native_ad_description_text_size" />
+        </RelativeLayout>
+    </com.google.android.gms.ads.formats.NativeAppInstallAdView>
+
+    <ImageView
+        android:id="@+id/ad_attribution"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/recommended_ad" />
+
+    <View
+        android:id="@+id/fake_divider"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dividerHeight"
+        android:layout_alignParentTop="true"
+        android:background="?filelist_pathcontainer_divider_color" />
+
+</RelativeLayout>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/select_all_action"
+        android:icon="@drawable/asus_ep_ic_select_all"
+        app:showAsAction="ifRoom"
+        android:title="@string/select_all">
+    </item>
+
+    <item
+        android:id="@+id/deselect_all_action"
+        android:icon="@drawable/asus_ep_ic_unselect_all"
+        app:showAsAction="ifRoom"
+        android:title="@string/deselect_all"
+        android:visible="false">
+    </item>
+
+    <item
+        android:id="@+id/delete_action"
+        android:icon="@drawable/asus_ep_ic_delete"
+        app:showAsAction="ifRoom"
+        android:title="@string/action_clean">
+    </item>
+</menu>

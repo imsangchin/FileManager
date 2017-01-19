@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content">
+    <ScrollView
+        android:id="@+id/info_dialog_scrollview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:id="@+id/info_dialog_container"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <LinearLayout android:layout_width="wrap_content"
+                          android:layout_height="wrap_content"
+                          android:orientation="vertical"
+                          android:paddingTop="20dp">
+
+                <TextView android:layout_width="wrap_content"
+                          android:layout_height="wrap_content"
+                          android:text="@string/info_name"
+                          android:textAppearance="?android:attr/textAppearanceSmall"
+                          android:textSize="18dp"
+                          android:textColor="?title_color" />
+
+                <TextView android:id="@+id/info_file_name"
+                          android:paddingTop="4dp"
+                          android:layout_width="wrap_content"
+                          android:layout_height="wrap_content"
+                          android:textAppearance="?android:attr/textAppearanceSmall"
+                          android:textSize="15dp"
+                          android:textColor="?subtitle_color" />
+            </LinearLayout>
+
+            <LinearLayout android:layout_width="wrap_content"
+                          android:layout_height="wrap_content"
+                          android:orientation="vertical"
+                          android:paddingTop="20dp">
+
+                <TextView android:layout_width="wrap_content"
+                          android:layout_height="wrap_content"
+                          android:text="@string/trash_info_path"
+                          android:textAppearance="?android:attr/textAppearanceSmall"
+                          android:textSize="18dp"
+                          android:textColor="?title_color" />
+
+                <TextView android:id="@+id/info_file_path"
+                          android:paddingTop="4dp"
+                          android:layout_width="wrap_content"
+                          android:layout_height="wrap_content"
+                          android:textAppearance="?android:attr/textAppearanceSmall"
+                          android:textSize="15dp"
+                          android:textColor="?subtitle_color" />
+            </LinearLayout>
+
+            <LinearLayout android:layout_width="wrap_content"
+                          android:layout_height="wrap_content"
+                          android:orientation="vertical"
+                          android:gravity="center_vertical"
+                          android:paddingTop="20dp">
+
+                <TextView android:layout_width="wrap_content"
+                          android:layout_height="wrap_content"
+                          android:text="@string/info_size"
+                          android:textAppearance="?android:attr/textAppearanceSmall"
+                          android:textSize="18dp"
+                          android:textColor="?title_color" />
+
+                <TextView android:id="@+id/info_file_size"
+                          android:paddingTop="4dp"
+                          android:layout_width="wrap_content"
+                          android:layout_height="wrap_content"
+                          android:textAppearance="?android:attr/textAppearanceSmall"
+                          android:textSize="15dp"
+                          android:textColor="?subtitle_color" />
+
+            </LinearLayout>
+
+            <LinearLayout android:layout_width="wrap_content"
+                          android:layout_height="wrap_content"
+                          android:orientation="vertical"
+                          android:paddingTop="20dp">
+                <TextView android:layout_width="wrap_content"
+                          android:layout_height="wrap_content"
+                          android:text="@string/trash_info_deleted"
+                          android:textAppearance="?android:attr/textAppearanceSmall"
+                          android:textSize="18dp"
+                          android:textColor="?title_color" />
+
+                <TextView android:id="@+id/info_file_modified"
+                          android:paddingTop="4dp"
+                          android:layout_width="wrap_content"
+                          android:layout_height="wrap_content"
+                          android:textAppearance="?android:attr/textAppearanceSmall"
+                          android:textSize="15dp"
+                          android:textColor="?subtitle_color" />
+            </LinearLayout>
+
+            <LinearLayout android:layout_width="wrap_content"
+                          android:layout_height="wrap_content"
+                          android:orientation="horizontal"
+                          android:paddingBottom="20dp">
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+</FrameLayout>

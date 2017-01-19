@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:id="@+id/ud_sdk_list_view_footer"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="@dimen/ud_sdk_list_view_footer_layout_layout_height"
+              android:paddingStart="@dimen/ud_sdk_list_view_footer_layout_paddingStart"
+              android:paddingEnd="@dimen/ud_sdk_list_view_footer_layout_paddingEnd"
+              android:paddingTop="@dimen/ud_sdk_list_view_footer_layout_paddingTop"
+              android:paddingBottom="@dimen/ud_sdk_list_view_footer_layout_paddingBottom"
+              android:focusable="true">
+
+    <TextView
+            android:id="@+id/ud_sdk_list_view_footer_no_app_text"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/ud_sdk_all_app_update"
+            android:textSize="@dimen/ud_sdk_list_view_button_more_text_size"
+            android:textColor="@color/ud_sdk_list_view_footer_no_app_text_color"
+            android:visibility="gone"
+            android:gravity="center_vertical|center_horizontal"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_above="@+id/ud_sdk_list_view_button_more"/>
+
+    <Button
+                android:id="@+id/ud_sdk_list_view_button_more"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/ud_sdk_list_view_button_more_height"
+                android:text="@string/ud_sdk_more_zen_family"
+                android:textSize="@dimen/ud_sdk_list_view_button_more_text_size"
+                android:textAllCaps="false"
+                android:textColor="@color/ud_sdk_list_view_footer_button_text_color"
+                android:background="@drawable/ud_sdk_item_button_shape"
+                android:layout_alignParentBottom="true"/>
+</RelativeLayout>
+

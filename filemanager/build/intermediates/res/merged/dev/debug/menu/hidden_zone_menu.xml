@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:id="@+id/setup_account"
+        android:showAsAction="never"
+        android:title="@string/hidden_zone_setup_account"
+        android:visible="false"/>
+    <item
+        android:id="@+id/change_password"
+        android:showAsAction="never"
+        android:title="@string/hidden_zone_change_password" />
+    <item
+        android:id="@+id/fingerprint_to_unlock"
+        android:showAsAction="never"
+        android:title="@string/hidden_zone_fingerprint_to_unlock"
+        android:checkable="true"
+        />
+</menu>

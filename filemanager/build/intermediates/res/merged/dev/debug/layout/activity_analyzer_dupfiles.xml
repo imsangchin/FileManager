@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="?cardview_background_color" >
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <ExpandableListView
+        android:id="@+id/activity_analyzer_dupfiles_expandable_listview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="@dimen/activity_storage_analyzer_margin"
+        android:layout_marginRight="@dimen/activity_storage_analyzer_margin"
+        android:layout_marginStart="@dimen/activity_storage_analyzer_margin"
+        android:layout_marginEnd="@dimen/activity_storage_analyzer_margin"
+        android:groupIndicator="@null"
+        android:childDivider="#00000000"
+        android:divider="@android:color/transparent"
+        android:dividerHeight="1dp"
+        >
+    </ExpandableListView>
+
+    <!-- empty hint-->
+    <TextView
+        android:id="@+id/activity_analyzer_dupfiles_empty"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:paddingLeft="15dip"
+        android:paddingRight="15dip"
+        android:paddingStart="15dip"
+        android:paddingEnd="15dip"
+        android:text="@string/empty_folder_title"
+        android:textColor="?text_color"
+        android:textSize="16dp"
+        android:visibility="gone"/>
+    </FrameLayout>
+
+    <!-- loading hint -->
+    <LinearLayout
+        android:id="@+id/activity_analyzer_dupfiles_loading"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <ProgressBar
+            style="?android:attr/progressBarStyleLarge"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <TextView
+            android:id="@+id/activity_analyzer_dupfiles_loading_hint"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:singleLine="true"
+            android:ellipsize="middle"
+            android:layout_marginLeft = "@dimen/loading_hint_margin"
+            android:layout_marginStart = "@dimen/loading_hint_margin"
+            android:layout_marginRight = "@dimen/loading_hint_margin"
+            android:layout_marginEnd = "@dimen/loading_hint_margin"
+            android:text="@string/loading"
+            android:textColor="?text_color"
+            android:textAppearance="?android:attr/textAppearanceSmall"/>
+    </LinearLayout>
+
+</RelativeLayout>

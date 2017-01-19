@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="file_manager" description="Application Name shown on title" maxwidth="">Správca súborov</string>
+    <string name="ok" description="Dialog Button: ok for dialog" maxwidth="">OK</string>
+    <string name="no" description="Dialog Button: no for dialog" maxwidth="">Nie</string>
+    <string name="cancel" description="Dialog Button: cancel for dialog" maxwidth="">Zrušiť</string>
+    <string name="select_all" description="Menu Option: select all checkbox" maxwidth="">Vybrať všetky</string>
+    <string name="clear_all" description="Menu Option: clear all checkbox" maxwidth="">Vymazať všetky</string>
+    <string name="open_fail" description="Toast: open file fails" maxwidth="-1">Chyba pri otváraní súboru.</string>
+    <string name="permission_deny" description="Toast: operation permission deny" maxwidth="-1">Povolenie bolo odmietnuté.</string>
+    <string name="target_exist" description="Toast: target file exists" maxwidth="-1">Cieľový súbor existuje.</string>
+    <string name="target_folder_exist" description="Toast: target folder exists. %s is variable string." maxwidth="-1">"Priečinok: \"%s\" už existuje."</string>
+    <string name="rename" description="Context Menu: options of context menu" maxwidth="">Premenovať</string>
+    <string name="rename_dialog" description="Dialog Title: rename dialog title" maxwidth="">Premenovať</string>
+    <string name="rename_fail" description="Toast: rename fails" maxwidth="-1">Chybné premenovanie súboru.</string>
+    <string name="delete" description="Context Menu: options of context menu" maxwidth="">Vymazať</string>
+    <string name="delete_dialog" description="Dialog Title: delete dialog title" maxwidth="">Odstránenie súboru</string>
+    <string name="delete_one_files" description="Dialog Content: text in dialog" maxwidth="">Chcete vymazať súbor?</string>
+    <string name="delete_more_files" description="Dialog Content: text in dialog. %d is variable number." maxwidth="">Chcete vymazať %d položiek?</string>
+    <string name="delete_size" description="Dialog Content: text in dialog" maxwidth="">"Veľkosť: "</string>
+    <string name="delete_progress" description="Progress Content: text in progress dialog" maxwidth="">Mazanie...</string>
+    <string name="delete_fail" description="Toast: delete fails" maxwidth="-1">Chybné vymazanie súboru.</string>
+    <string name="delete_success_one" description="Toast: delete success. %s is variable string." maxwidth="-1">"\"%s\" bol vymazaný."</string>
+    <string name="delete_success_more" description="Toast: delete success" maxwidth="-1">Vybrané súbory boli vymazané.</string>
+    <string name="new_folder_dialog" description="Dialog Title: create new folder" maxwidth="">Vytvoriť nový priečinok</string>
+    <string name="new_folder_fail" description="Toast: new folder fails" maxwidth="-1">Vytvorenie nového priečinka zlyhalo.</string>
+    <string name="new_folder_success" description="Toast: new folder success. %s is variable string." maxwidth="-1">Priečinok \"%s\" bol vytvorený.</string>
+    <string name="copy" description="Context Menu: options of context menu" maxwidth="">Kopírovať</string>
+    <string name="copy_ready_one" description="Toast: copy ready. %s is variable string." maxwidth="-1">\"%s\" bol skopírovaný a je pripravený na prilepenie.</string>
+    <string name="copy_ready_more" description="Toast: copy ready" maxwidth="-1">Vybrané súbory boli skopírované a sú pripravené na prilepenie.</string>
+    <string name="cut" description="Context Menu: options of context menu" maxwidth="">Vystrihnúť</string>
+    <string name="cut_ready_one" description="Toast: cut ready. %s is variable string." maxwidth="-1">"\"%s\" je vystrihnutý a je pripravený na prilepenie."</string>
+    <string name="cut_ready_more" description="Toast: cut ready" maxwidth="-1">Vybrané súbory boli vystrihnuté a sú pripravené na prilepenie.</string>
+    <string name="paste" description="Context Menu: options of context menu" maxwidth="">Prilepiť</string>
+    <string name="paste_exist_dialog" description="Dialog Title: paste exist dialog title" maxwidth="">Rovnaký názov súboru</string>
+    <string name="paste_exist_file" description="Dialog Content: text in dialog. %s is variable string." maxwidth="">"Súbor \"%s\" už existuje."</string>
+    <string name="paste_exist_replace" description="Dialog Content: text in dialog" maxwidth="">Chcete ho nahradiť novým?</string>
+    <string name="paste_exist_to" description="Dialog Content: text in dialog" maxwidth="">Do</string>
+    <string name="paste_exist_apply" description="Dialog Content: text in dialog" maxwidth="">Aplikovať na všetky</string>
+    <string name="paste_progress" description="Progress Content: text in progress dialog" maxwidth="">Prilepuje sa...</string>
+    <string name="paste_fail" description="Toast: paste fails" maxwidth="-1">Prilepovanie súborov zlyhalo.</string>
+    <string name="paste_success" description="Toast: paste success. %s is variable string." maxwidth="-1">"Súbory boli pridané do \"%s\"."</string>
+    <!-- Guoliang_Lin, 2011/04/01, UI required, new feature -->
+    <string name="no_space_fail" description="Toast: No space to copy file and left on device" maxwidth="-1">Nedostatočná kapacita ukladacieho priestoru</string>
+    <!-- Guoliang Lin, 2011/04/27, UI required, new feature -->
+    <string name="action_add_folder" description="cutstom action bar view title for add folder" maxwidth="-1">Pridať priečinok</string>
+    <string name="action_hind_system_file" description="cutstom action bar view title for hinde system file" maxwidth="-1">Skryť systémové súbory</string>
+    <string name="deselect_all" description="cutstom action bar view title for deselect all checkbox" maxwidth="">Zrušiť označenie všetkých</string>
+    <!-- Guoliang Lin, 2011/05/11, UI required, new feature -->
+    <string name="file_info_dialog_title" description="Dialog Title: File information dialog title" maxwidth="-1">Informácie o súbore</string>
+    <string name="dir_info_dialog_title" description="Dialog Title: Directory information dialog title" maxwidth="-1">Informácie o adresári</string>
+    <string name="info" description="Context Menu: options of context menu" maxwidth="-1">Informácie</string>
+    <string name="info_name" description="file info textview context" maxwidth="-1">"Názov: "</string>
+    <string name="info_file_num" description="file info textview context" maxwidth="-1">"Počet súborov: "</string>
+    <string name="info_permission" description="file info textview context" maxwidth="-1">"Povolenie: "</string>
+    <string name="info_modified" description="file info textview context" maxwidth="-1">"Dátum úpravy: "</string>
+    <!-- Guoliang Lin, 2011/05/27, UI required, new feature -->
+    <string name="action_about" description="cutstom action bar view title for about" maxwidth="-1">O</string>
+    <!-- Johnson Chen, 2011/08/05, UI required, new feature -->
+    <string name="select_folder" description="Title: select the folder" maxwidth="-1">Vybrať zložku</string>
+    <string name="invalid_directory_path" description="Invalid directory path" maxwidth="-1">Nesprávna prístupová cesta do adresára</string>
+    <string name="short_cuts_title" description="shortcit title" maxwidth="-1">Skratka</string>
+    <string name="type" description="button text for sort file by type" maxwidth="-1">Typ</string>
+    <string name="name" description="button text for sort file by name" maxwidth="-1">Názov</string>
+    <string name="size" description="button text for sort file by size" maxwidth="-1">Veľkosť</string>
+    <string name="date" description="button text for sort file by date" maxwidth="-1">Dátum</string>
+    <string name="name_ascending" description="button text for sort file by name ascending" maxwidth="-1">Meno (z - a)</string>
+    <string name="name_descending" description="button text for sort file by name descending" maxwidth="-1">Meno (a - z)</string>
+    <string name="size_ascending" description="button text for sort file by size ascending" maxwidth="-1">Veľkosť (veľké - malé)</string>
+    <string name="size_descending" description="button text for sort file by size descending" maxwidth="-1">Veľkosť (malé - veľké)</string>
+    <string name="date_ascending" description="button text for sort file by date ascending" maxwidth="-1">Dátum (najstarší - najnovší)</string>
+    <string name="date_descending" description="button text for sort file by date descending" maxwidth="-1">Dátum (najnovší - najstarší)</string>
+    <string name="my_storage_title" description="storage label" maxwidth="-1">Moja pamäť</string>
+    <string name="internal_storage_title" description="storage label" maxwidth="-1">Vnútorná pamäť</string>
+    <string name="my_picture_title" description="shortcut label" maxwidth="-1">Obrázok</string>
+    <string name="my_camera_title" description="shortcut label" maxwidth="-1">Kamera</string>
+    <string name="my_music_title" description="shortcut label" maxwidth="-1">Hudba</string>
+    <string name="my_download_title" description="shortcut label" maxwidth="-1">Stiahnuť</string>
+    <string name="dialog_create_zip_title" description="compress dialog title" maxwidth="-1">Zadanie názvu archívu</string>
+    <string name="zip_progress_msg" description="compress dialog message" maxwidth="-1">Komprimovanie...</string>
+    <string name="zip_fail" description="toast message: Compress files fail" maxwidth="-1">Zlyhala kompresia súborov</string>
+    <string name="zip_success" description="toast message: Compress files successly" maxwidth="-1">Kompresia súborov bola úspešná</string>
+    <string name="search_label" description="cutstom action bar view title for search" maxwidth="-1">Vyhľadávanie súborov</string>
+    <string name="search_progress" description="search dialog message" maxwidth="-1">Vyhľadávanie...</string>
+    <string name="location" description="button text for sort file by date" maxwidth="-1">"Poloha"</string>
+    <plurals name="number_search_items">
+        <item quantity="one">"%d súbor sa našiel"</item>
+        <item quantity="other">"Nájdené súbory: %d"</item>
+    </plurals>
+    <string name="search_result_title" description=" text for search result" formatted="false" maxwidth="-1">Vyhľadávanie % v %s: Našli sa súbory %d</string>
+    <string name="dialog_extract_zip_title" description="extract zip file dialog title. %s is a dynamic string. It is zip file name." maxwidth="-1">Extrahovať %s do:</string>
+    <string name="unzip_progress_msg" description="extract file dialog message" maxwidth="-1">Extrahovanie...</string>
+    <string name="unzip_fail" description="toast message: extract files fail" maxwidth="-1">Chyba pri extrahovaní súborov</string>
+    <string name="unzip_success" description="toast message: extract files successly" maxwidth="-1">Úspešne extrahované súbory</string>
+    <string name="action_clear_history" description="cutstom action bar view title for clear search history" maxwidth="">Vymazať históriu vyhľadávania</string>
+    <plurals name="drag_items">
+        <item quantity="one">Presunúť položku</item>
+        <item quantity="other">Presunúť položky</item>
+    </plurals>
+    <string name="drag_items_one">Presunúť položku</string>
+    <string name="drag_items_other">Presunúť položky</string>
+    <string name="toast_drag_copied_items" description="Toast: The item(s) has been copied completely" maxwidth="-1">Úspešne skopírované položky.</string>
+    <string name="toast_warning_copy_folders" description="Toast: Sorry, copy folders has not been supported" maxwidth="-1">"Ľutujeme, kopírovanie súborov nebolo podporované"</string>
+    <string name="toast_warning_copy_comple_cut_fail" description="Toast: Sorry, copy files complete but cut fail" maxwidth="-1">"Ľutujeme, kopírovanie súborov bolo dokončené, ale odstránenie starých súborov bolo neúspešné"</string>
+    <string name="toast_drag_moved_items" description="Toast: The item(s) has been moved completely" maxwidth="-1">Úspešne premiestnené položky.</string>
+    <string name="move" description="Hint: move the items" maxwidth="-1">Presunúť</string>
+    <string name="drop_target_to" description="Hint: the target folder which you want to do something" maxwidth="-1">Cieľ do:</string>
+    <string name="drop_incorrect_hint" description="Hint: the operation is incorrect" maxwidth="-1">Nesprávna činnosť</string>
+    <!-- Willie Huang, 2012/01/20, UI required, new feature -->
+    <string name="dialog_unzip_preview_title" description="show zip info dialog title. %s is a dynamic string. Is is a zip file name" maxwidth="-1">Vybrať %s</string>
+    <string name="extract" description="Dialog Button: extract file for dialog" maxwidth="-1">Vybrať</string>
+    <plurals name="dialog_unzip_preview_size_text">
+        <item quantity="one">Spolu: %1$d súbor, %2$s</item>
+        <item quantity="other">Spolu: %1$d súborov, %2$s</item>
+    </plurals>
+    <string name="encode" description="Dialog Button: click to open the encoding list dialog" maxwidth="-1">Kódovanie textu</string>
+    <string name="dialog_text_encoding_title" description="text encoding dialog title" maxwidth="-1">Kódovanie textu</string>
+    <string-array name="charset_array">
+        <item>"Latin-1 (ISO-8859-1)"</item>
+        <item>"Unicode (UTF-8)"</item>
+        <item>"Čínština (GBK)"</item>
+        <item>"Čínština (Big5)"</item>
+        <item>"Japončina (ISO-2022-JP)"</item>
+        <item>"Japončina (SHIFT_JIS)"</item>
+        <item>"Japončina (EUC-JP)"</item>
+        <item>"Kórejčina (EUC-KR)"</item>
+    </string-array>
+    <!-- Willie Huang, 2012/03/28, UI required, new feature -->
+    <string name="info_aperture" description="file info textview context" maxwidth="-1">"Clona: "</string>
+    <string name="info_datetime" description="file info textview context" maxwidth="-1">"Dátum nasnímania: "</string>
+    <string name="info_exposure_time" description="file info textview context" maxwidth="-1">"Doba expozície: "</string>
+    <string name="info_flash" description="file info textview context" maxwidth="-1">"Blesk: "</string>
+    <string name="info_focal_length" description="file info textview context" maxwidth="-1">"Ohnisk. vzd.: "</string>
+    <string name="info_image_height" description="file info textview context" maxwidth="-1">"Výška: "</string>
+    <string name="info_image_x" description="file info textview context" maxwidth="-1">" x "</string>
+    <string name="info_image_width" description="file info textview context" maxwidth="-1">"Šírka"</string>
+    <string name="info_iso" description="file info textview context" maxwidth="-1">"ISO: "</string>
+    <string name="info_location" description="file info textview context" maxwidth="-1">"Poloha: "</string>
+    <string name="info_maker" description="file info textview context" maxwidth="-1">"Autor: "</string>
+    <string name="info_model" description="file info textview context" maxwidth="-1">"Model: "</string>
+    <string name="info_orientation" description="file info textview context" maxwidth="-1">"Orientácia: "</string>
+    <string name="info_white_balance" description="file info textview context" maxwidth="-1">"Vyváženie bielej: "</string>
+    <string name="flash_on" description="string indicating camera flash is fired" maxwidth="-1">S bleskom</string>
+    <string name="flash_off" description="string indicating camera flash is not used" maxwidth="-1">Bez blesku</string>
+    <string name="unit_mm" description="string indicating the length units in milli-meters" maxwidth="-1">mm</string>
+    <string name="manual" description="string indicating how camera shooting feature is used" maxwidth="-1">Ručne</string>
+    <string name="auto" description="string indicating how camera shooting feature is used" maxwidth="-1">Auto</string>
+    <!-- Guoliang_Lin, 2012/03/20, UI required, new feature -->
+    <string name="wait">"Čakajte..."</string>
+    <!-- Johnson Chen, 2012/04/13, UI required, new feature -->
+    <string name="select_album">Vybrať album</string>
+    <string name="select_photo">Vyberte fotografiu</string>
+    <string name="back_button_label" description="button text." maxwidth="-1">Späť</string>
+    <!-- Willie Huang, 2012/05/18, UI required, new feature -->
+    <string name="action_apply_selected_file" description="View title of custom action bar, apply to multiple selected files" maxwidth="-1">Použiť</string>
+    <!-- Willie Huang, 2013/01/03, UI required, new feature -->
+    <string name="loading" description="text for progress bar" maxwidth="-1">"Prebieha načítavanie..."</string>
+    <string name="version" description="version" maxwidth="-1">"Verzia"</string>
+    <string name="title" description="title" maxwidth="-1">"Právne informácie:"</string>
+    <string name="content" description="content" maxwidth="-1">"Používanie tohto softvéru sa riadi podmienkami a ustanoveniami na webovej stránke ASUS: \nhttp://www.asus.com"</string>
+    <string name="action_share" description="cutstom action bar view title for sharing" maxwidth="-1">"Zdieľať"</string>
+    <!-- Johnson Chen, 2012/05/18, UI required, new feature-->
+    <string name="photo_selection_limit_number_toast" description="Toast: You may not select more than %s photos." maxwidth="-1">Vyberte maximálne %s fotografií</string>
+    <!-- Alex6 Lin, -->
+    <string name="action_sort_by" description="String for asking for the rule of sorting" maxwidth="-1">Zoradiť podľa</string>
+    <plurals name="number_selected_items">
+        <item quantity="one">%d položka vybraná</item>
+        <item quantity="other">%d položiek vybraných</item>
+    </plurals>
+    <string name="info_type" description="file info textview context" maxwidth="-1">Тyp:</string>
+    <string name="type_document" description="document type" maxwidth="-1">"Dokument"</string>
+    <string name="type_audio" description="document type" maxwidth="-1">"Zvuk"</string>
+    <string name="type_video" description="document type" maxwidth="-1">"Video"</string>
+    <string name="type_playlist" description="document type" maxwidth="-1">"Zoznam titulov"</string>
+    <string name="type_image" description="document type" maxwidth="-1">"Obrázok"</string>
+    <string name="type_book" description="document type" maxwidth="-1">"E-kniha"</string>
+    <string name="type_zip" description="document type" maxwidth="-1">"ZIP"</string>
+    <string name="type_apk" description="document type" maxwidth="-1">"Aplikácia pre Android"</string>
+    <string name="type_abu" description="document type" maxwidth="-1">"Záloha aplikácie Asus"</string>
+    <string name="type_file" description="document type" maxwidth="-1">"Súbor"</string>
+    <string name="type_directory" description="document type" maxwidth="-1">"Priečinok"</string>
+    <string name="search_action">"Hľadať"</string>
+    <string name="fileList_Nofiles">Žiadne súbory</string>
+    <!-- Johnson Chen, 2012/05/18, UI required, new feature-->
+    <string name="wifidirect_available_devices" description="Available devices" maxwidth="-1">Dostupné zariadenia</string>
+    <string name="wifidirect_connect_hint_title" description="Dialog title text: Invitation to connect" maxwidth="-1">Výzva na pripojenie</string>
+    <string name="wifidirect_connect_hint" description="Do you want to connect to device" maxwidth="-1">Chcete sa spojiť s</string>
+    <string name="wifidirect_connecting_hint_title" description="Dialog title text: Wi-Fi Direct connecting" maxwidth="-1">Pripája sa Wi-Fi Direct...</string>
+    <string name="wifidirect_disconnect_hint" description=">Do you want to disconnect" maxwidth="-1">Chcete sa odpojiť od</string>
+    <string name="shared_folder" description="Context Menu: options of context menu: share folder via Wi-Fi Direct" maxwidth="">Zdieľ. cez Wi-Fi Direct</string>
+    <string name="unshared_folder" description="Context Menu: options of context menu: unshare folder" maxwidth="-1">Zrušiť zdieľanie</string>
+    <string name="remote_storage_title" description="remote storage label" maxwidth="-1">Vzdialené úložisko</string>
+    <string name="remote_connected_error_hint" description="network is unavailable, please try again" maxwidth="-1">Sieť nie je k dispozícii, skúste to prosím znova</string>
+    <string name="wifidirect_peer_device_title" description="peer devices title" maxwidth="-1">Rovnocenné zariadenia</string>
+    <string name="wifidirect_scanning" description="searching" maxwidth="-1">Vyhľadáva sa...</string>
+    <string name="wifidirect_touch_to_connect" description="click to connect" maxwidth="-1">Kliknite na tlačidlo Pripojiť</string>
+    <string name="wifidirect_connectted" description="connectted" maxwidth="-1">Pripojené</string>
+    <string name="wifidirect_action_bar_scan" description="search" maxwidth="-1">Vyhľadať</string>
+    <string name="wifidirect_storage_title" description="Search Wi-Fi Direct device" maxwidth="-1">Hľadať zariadenie Wi-Fi Direct</string>
+    <string name="wifidirect_peer_device_info" description="peer devices infomation" maxwidth="-1">"Ak chcete získať pozvanie Wi-Fi Direct, Vaše pripojené zariadenie musí v aplikácii Správca súborov zostať na stránke „Rovnocenné zariadenia“."</string>
+    <string name="wifidirect_disconnect_hint_title" description="Disconnect Wi-Fi Direct" maxwidth="-1">Odpojiť Wi-Fi Direct</string>
+    <string name="wifi_p2p_turn_on_wifi_title" description="title for turn on WiFi dialog" width="-1">Zapnúť Wi-Fi</string>
+    <string name="wifi_p2p_turn_on_wifi_msg" description="message for request to turn on Wi-Fi" width="-1">Na používanie služieb Wi-Fi Direct musí byť zapnuté Wi-Fi. Zapnúť Wi-Fi teraz?</string>
+    <!-- Johnson Chen, 2013/03/22, UI required, new feature-->
+    <string name="cloud_storage_title" description="Add more cloud storage" maxwidth="-1">Pridať ďalšie Cloud Storage</string>
+    <string name="add_cloud_storage_dialog_title" description="Dialog title: Add cloud storage" maxwidth="-1">Pridať Cloud Storage</string>
+    <string name="cloud_storage_remove_hint" description=">Do you want to remove" maxwidth="-1">"Chcete sa odhlásiť z konta \"%s\"?"</string>
+    <string name="cloud_storage_remove_hint_title" description="Dialog title: Remove cloud storage" maxwidth="-1">Odhlásiť sa</string>
+    <string name="add_progress" description="Progress Content: text in progress dialog" maxwidth="">Vytvára sa...</string>
+    <string name="logging_cloud_storage" description="Progress Content: text in progress dialog" maxwidth="">Prihlasuje sa...</string>
+    <string name="wifi_p2p_connection_msg" description="message for request to connect Network" width="-1">Ak chcete používať služby Cloud, vytvorte pripojenie k sieti.</string>
+    <string name="wifi_p2p_connection_title" description="title for request to connect Network" width="-1">Vytvoriť pripojenie k sieti</string>
+    <string name="logout_account" description="logout account" width="-1">Odhlásiť sa</string>
+    <string name="renaming_file" description="renaming file" width="-1">Premenovať</string>
+    <string name="rename_success" description="Toast: rename success" maxwidth="-1">Súbor bol úspešne premenovaný.</string>
+    <string name="login_fail" description="Toast: login account fail" width="-1">Prihlásenie zlyhalo</string>
+    <string name="starred" description="shortcut title: my favorite files" width="-1">"Obľúbené"</string>
+    <string name="recently_used" description="shortcut title: recently used files" width="-1">Najnovšie</string>
+    <string name="trash_can" description="shortcut title: trash can" width="-1">"Kôš"</string>
+    <!-- Settings Page -->
+    <string name="menu_general_preferences" description="The title of a menu for General Preferences.Pressing the menu item lets user to view and edit his general settings" maxwidth="30">"Všeobecné nastavenia"</string>
+    <string name="preferences_title" description="This is the title of the screen for setting user preferences." maxwidth="-1">"Nastavenie"</string>
+    <string name="settings_space_used" description="This is the title of space used for setting user preferences." maxwidth="-1">"Využité miesto"</string>
+    <string name="settings_clear_search_history" description="This is the title of clearing search history action for setting user preferences." maxwidth="-1">"Vymazať históriu hľadania"</string>
+    <string name="settings_hide_system_files" description="This is the title of hiding system files action for setting user preferences." maxwidth="-1">"Skryť systémové súbory"</string>
+    <string name="settings_trash_can" description="This is the title of trash can information for setting user preferences." maxwidth="-1">"Kôš"</string>
+    <string name="settings_moved_to_the_trash_can" description="This is the title of moving to the trash can." maxwidth="-1">"Presunuté do Koša"</string>
+    <string name="settings_user_name" description="This is the title of user name" maxwidth="-1">"Používateľské meno"</string>
+    <string name="settings_documents_cache" description="This is the title of documents cache" maxwidth="-1">"Vyrov. pamäť dokumentov"</string>
+    <string name="settings_cache_size_title" description="This is the title of cache size" maxwidth="-1">"Veľkosť vyrov. pamäte"</string>
+    <string name="settings_set_cache_size" description="Set the cache size to %s" maxwidth="-1">"Veľkosť vyrov. pamäte je nastavená na \"%s\""</string>
+    <string name="settings_clear_cache_title" description="Clear the cache" maxwidth="-1">"Vymazať vyrov. pamäť"</string>
+    <string name="settings_clear_cache_info" description="Remove all cache documents" maxwidth="-1">"Odstrániť všetky dokumenty z vyrov. pamäte"</string>
+    <string name="settings_remove_account" description="Remove account" maxwidth="-1">"Odstrániť konto"</string>
+    <string name="drawer_open">"Otvoriť navigačný panel"</string>
+    <string name="drawer_close">"Zavrieť navigačný panel"</string>
+    <!-- begin add new server -->
+    <string name="samba_storage_title">"SAMBA"</string>
+    <string name="samba_storage_add_title">"Miesto v sieti"</string>
+    <string name="server_title">Server</string>
+    <string name="domain">"Doména:"</string>
+    <string name="domain_hint">"Môže byť prázdne"</string>
+    <string name="server">"Server:"</string>
+    <string name="server_hint">"172.0.0.1/ShareFolder"</string>
+    <string name="example">"Príklad:"</string>
+    <string name="user">Používateľské meno</string>
+    <string name="user_hint">správca</string>
+    <string name="password">Heslo</string>
+    <string name="display">"Zobraziť ako"</string>
+    <string name="display_hint">"Tento počítač, môže byť prázdne"</string>
+    <string name="samba_input_error">Používateľské meno alebo heslo nemôže byť prázdne!</string>
+    <string name="samba_client_config_check" description="account config dialog remind message" maxwidth="-1">Zapamätajte si používateľské meno a heslo, aby ste sa nabudúce mohli pripojiť priamo</string>
+    <string name="pullfreshlistview_header_hint_normal">Potiahnuť dolu</string>
+    <string name="pullfreshlistview_header_hint_ready">Uvoľnením obnoviť</string>
+    <string name="pullfreshlistview_header_hint_loading">Obnovuje sa...</string>
+    <string name="pullfreshlistview_header_last_time">Čas poslednej obnovy:</string>
+    <string name="pullfreshlistview_footer_hint_normal">Načítať viac</string>
+    <string name="pullfreshlistview_footer_hint_ready">Uvoľnením načítať viac</string>
+    <string name="cloud_preview_action_fail" description="Toast: cloud preview action" maxwidth="-1">Náhľad súborov Cloud zlyhal.</string>
+    <string name="cloud_share_action_fail" description="Toast: cloud share action" maxwidth="-1">Zdieľanie súborov Cloud zlyhalo.</string>
+    <string name="cloud_paste_backgroud" description="diaglog cloud background paste">Pozadie</string>
+    <string name="cloud_paste_uploading" description="diaglog cloud  paste uploading">Nahrávanie súborov</string>
+    <string name="cloud_paste_downloading" description="diaglog cloud  paste">Preberanie súborov</string>
+    <string name="cloud_paste_total" description="diaglog cloud  total">Celkom</string>
+    <string name="cloud_paste_current" description="diaglog cloud  current">Aktuálny</string>
+    <string name="cloud_paste_copying" description="diaglog cloud  now is copy files">Kopíruje sa...</string>
+    <string name="cloud_paste_deleting" description="diaglog cloud  now is delete source files">Odstraňujú sa zdrojové súbory...</string>
+    <string name="cloud_token_invalidate" description="diaglog cloud  token is invalidate">Tento znak je neplatný. Prihláste sa znova!</string>
+    <string name="cloud_homebox_status_offline" description="home cloud device is offline">Zariadenie nie je pripojené</string>
+    <string name="cloud_homebox_status__info_offline" description="home cloud device is offline">Nepripojené</string>
+    <string name="cloud_homebox_status__info_online" description="home cloud device is online">Pripojené</string>
+    <string name="cloud_homebox_status__info_Sleep" description="home cloud device is sleep">Spánok</string>
+    <string name="cloud_homebox_no_available_devices" description="home cloud has no available devices">Žiadne dostupné zariadenia so službou HomeCloud</string>
+    <string name="cloud_homebox_get_devices_fail" description="home cloud get available devices fail">Vyhľadanie dostupných zariadení so službou HomeCloud zlyhalo</string>
+<!--  <string name="cloud_paste_string_format"  description="diaglog cloud  paste string format" maxwidth="-1">%d / %d</string>-->
+    <string name="storage_type_cloud">Cloud Storage</string>
+    <string name="storage_type_local">Miestna pamäť</string>
+    <string name="storagetype_add_account">Pridať Google konto</string>
+    <string name="network_cta_hint">"Prijmite pripojenie k sieti"</string>
+ <string name="action_refresh_cloudfile">"Obnoviť"</string>
+ <string name="baidu_storage_title">"百度云"</string>
+ <string name="dialog_load_stream_url_info">Získavam potrebné informácie zo servera</string>
+ <string name="paste_progress_title">Spustená je iná úloha kopírovania...</string>
+ <string name="single_drm_file_forbidden_operation">Táto akcia je zakázaná, preto že je chránená DRM.</string>
+ <string name="multi_drm_file_forbidden_operation">Táto akcia je zakázaná, pretože niektoré vybrané súbory sú chránené DRM.</string>
+ <string name="samba_login_error">Zadali ste nesprávne užívateľské meno alebo heslo.</string>
+     <string name="action_search" description="cutstom action bar view title for search" maxwidth="">Hľadať</string>
+ <string name="cloud_upload_flie_limit_space" description="Toast: The size is over the limit and cannot be uploaded" maxwidth="-1">Veľkosť prekračuje limit a súbor nemožno nahrať</string>
+ <string name="cloud_download_flie_limit_space" description="Toast: The size is over the limit and cannot be uploaded" maxwidth="-1">Veľkosť prekračuje limit a súbor nemožno nahrať</string>
+ <string name="invalid_account" description="Toast: the account is invalid" maxwidth="-1">"Neplatné konto"</string>
+ <string name="homecloud_access_error" description="Can’t connect to HomeCloud." maxwidth="-1">Pripojenie k službe HomeCloud zlyhalo. Skontrolujte, že služba HomeCloud je on-line.</string>
+ <string name="cloud_flie_name_not_supported" description="Toast: The name of the file uploaded is not supported by cloud server" maxwidth="-1">"Činnosť nemôže byť dokončená, pretože server služby Cloud nepodporuje názov súboru."</string>
+ <string name="action_cancel" description="action cancel" maxwidth="-1">Zrušiť</string>
+ <string name="action_add" description="action add files" maxwidth="-1">Pridať</string>
+ <string name="no_share_folder">V tomto zariadení nie je žiadny zdieľaný súbor</string>
+ <string name="edit_toast_special_char">Nemožno používať špeciálne znaky.</string>
+ <string name="delete_one_directory" description="Dialog Content: text in dialog" maxwidth="">Chcete odstrániť adresár?</string>
+ <string name="type_dialog_title">Otvoriť ako</string>
+ <string name="type_dialog_text">Text</string>
+ <string name="type_dialog_image">Obrázok</string>
+ <string name="type_dialog_audio">Zvuk</string>
+ <string name="type_dialog_video">Video</string>
+ <string name="target_directory_is_child_of_source">"Činnosť nemôže byť dokončená, pretože cieľový priečinok je podpriečinok zdrojového priečinka."</string>
+ <string name="edit_toast_name_too_long">Dosiahli ste maximálny počet znakov</string>
+ <string name="settings_description">"Lokálne priečinky a súbory"</string>
+ <string name="clear_account_info">Zabudnúť všetky kontá</string>
+ <string name="type_rar" description="document type" maxwidth="-1">"RAR"</string>
+ <string name="set_ring">"Nastaviť ako zvonenie"</string>
+    <string name="action_zip" description="cutstom action bar view title for zip" maxwidth="">Skomprimovať</string>
+    <string name="signout_account" description="signout account" width="-1">Odpojiť</string>
+    <string name="cloud_storage_sign_out" description=">Do you want to signout" maxwidth="-1">Naozaj sa chcete odhlásiť?</string>
+    <string name="cloud_storage_sign_out_title" description="Dialog title: Signout cloud storage" maxwidth="-1">Odpojiť</string>
+    <string name="cloud_storage_sign_in" description=">Do you want to signin" maxwidth="-1">Pripojiť pomocou nasledovného konta:</string>
+    <string name="cloud_storage_sign_in_title" description="Dialog title: Signin cloud storage" maxwidth="-1">Pripojiť pomocou %s</string>
+    <!-- start add for CTA check  -->
+    <string name="cta_dialog_title">"Používanie siete"</string>
+    <string name="cta_dialog_content"><b>Správca súborov</b> sa pokúša použiť sieť, v závislosti od predplatenia môžu byť účtované ďalšie poplatky.</string>
+    <string name="cta_check_title">"Zapamätať"</string>
+    <string name="cta_agree">"Povoliť"</string>
+    <string name="cta_disagree">"Zamietnuť"</string>
+    <string name="cta_show_menu">"Povolenie siete"</string>
+    <!-- end add for CTA check  -->
+    <string name="move_to">Pres. do</string>
+    <string name="copy_to">Skopírovať do</string>
+    <string name="category_title_category">Kategória</string>
+    <string name="category_title_local_storage">Miestna pamäť</string>
+    <string name="category_image">Obraz</string>
+    <string name="category_music">Hudba</string>
+    <string name="category_video">Video</string>
+    <string name="category_apk">Aplikácie</string>
+    <string name="category_download">Prevziať</string>
+    <string name="category_favorite">Obľúbené</string>
+    <string name="category_count">"%s"</string>
+    <string name="open">Otvoriť</string>
+    <string name="add_favorite">Pridať do obľúb.</string>
+    <string name="remove_favorite">Presun. z obľúbených</string>
+    <string name="add_favorite_success">Uložiť do obľúb.</string>
+    <string name="rename_favorite_folder">Premenovať zložku Obľúbené</string>
+    <string name="rename_favorite_success">Priečinok bol úspešne premenovaný a uložený do zložky Obľúbené</string>
+    <string name="rename_favorite_notice">Priečinok s rovnakým názvom už existuje v zložke Obľúbené, chcete ho premenovať ?</string>
+    <string name="remove_favorite_notice_one">Naozaj chcete odstrániť položky \"%s\" z priečinka Obľúbené?</string>
+    <string name="remove_favorite_notice_more">Naozaj chcete odstrániť položky %d z priečinka Obľúbené?</string>
+    <string name="remove_favorite_success">Odstránenie bolo úspešné</string>
+    <string name="tutorial_skip">Preskočiť</string>
+    <string name="tutorial_done">Hotovo</string>
+    <string name="tutorial_page_one_title">"Správca súborov ASUS"</string>
+    <string name="tutorial_page_one_content">Aplikácia Správca súborov ASUS umožňuje ľahko spravovať súbory uložené vo vnútornej a vonkajšej pamäti, v lokálnej sieti LAN alebo v cloudovom úložisku.</string>
+    <string name="tutorial_page_two_title">Domovská stránka</string>
+    <string name="tutorial_page_two_content">Jednoducho použiteľné kategórie, ktoré umožňujú rýchly prístup k súborom v miestnej pamäti.</string>
+    <string name="tutorial_page_three_title">Zoznam akcií potiahnutia prstom doprava</string>
+    <string name="tutorial_page_three_content">Ak chcete zobraziť akcie, ako napríklad Pridať do obľúbených, Premenovať, Presunúť do, Skopírovať do a ďalšie operácie spravovania súborov, položku potiahnite prstom doprava.</string>
+    <string name="tutorial_page_four_title">Obľúbené</string>
+    <string name="tutorial_page_four_content">Ak chcete získať rýchly a ľahký prístup k priečinkom, často používaný priečinok nastavte ako Obľúbené.</string>
+    <string name="saf_permission_tutorial_title">Požiadavka na prístup na ovládanie karty SD</string>
+    <string name="saf_permission_tutorial_content">Aplikácia ASUS File Manager požaduje prístup na ovládanie vašej karty SD. Chcete prideliť prístup?</string>
+    <string name="saf_tutorial_step_one">Ťuknite na ikonu Ponuka a potom kartu SD zobrazte ťuknutím na ňu.</string>
+    <string name="saf_tutorial_step_two">Ak chcete zobraziť zásuvku, prstom potiahnite od ľavého kraja obrazovky a potom ťuknite na kartu SD.</string>
+    <string name="saf_tutorial_step_three">Ak chcete prideliť prístup k aplikácii Správca súborov ASUS, kartu SD vyberte ťuknutím na ňu.</string>
+    <string name="device_root_path">koreňový priečinok</string>
+    <string name="tap_to_exit">Ak chcete zrušiť, znovu poklepte na</string>
+    <string name="info_path" description="file info textview context" maxwidth="-1">"Cesta: "</string>
+    <string name="recruit_beta_user" description="recruit beta user" maxwidth="-1">Získajte ukážku verzie</string>
+    <string name="rate_us" description="rate us" maxwidth="-1">Ohodnoťte nás</string>
+    <string name="scroll_up_toast" description="rate now" maxwidth="">Ak chcete hodnotiť, posúvajte hore</string>
+    <string name="settings_encourage_us_detail" description="recommend text" maxwidth="">Ak sa vám páči aplikácia %s, dajte nám v Play Store 5 hviezdičiek. Bude to pre nás veľká podpora pri pokračujúcom vylepšovaní produktu!</string>
+    <string name="yes">Áno</string>
+    <string name="menu_tutorial" description="settings menu tutorial" maxwidth="-1">Školiaci program</string>
+    <string name="about">Informácie</string>
+    <string name="version_text">verzia</string>
+    <string name="tell_friend" description="" maxwidth="">Povedať priateľovi</string>
+    <string name="toolbar_item_title_encourage_us" maxwidth="35">Podporte nás</string>
+    <string name="zenui_update">"Okamžité aktual, ap. ZenUI"</string>
+    <string name="whats_new_label">Čo je nové</string>
+    <string name="next">Ďalej</string>
+    <string name="invite_friends" description="sticker detail page button name" maxwidth="-1">"Pozvať priateľov"</string>
+    <string name="news_mark1" maxwidth="">"★  "</string>
+</resources>

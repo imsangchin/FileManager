@@ -1,0 +1,1310 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="alarm_set">
+        <item msgid="6450913786084215050">"지금부터 1분 이내로 알람이 설정됩니다."</item>
+        <item msgid="6002066367368421848">"지금부터 <ns1:g id="DAYS">%1$s</ns1:g> 후로 알람이 설정됩니다."</item>
+        <item msgid="8824719306247973774">"지금부터 <ns1:g id="HOURS">%2$s</ns1:g> 후로 알람이 설정됩니다."</item>
+        <item msgid="8182406852935468862">"지금부터 <ns1:g id="DAYS">%1$s</ns1:g>, <ns1:g id="HOURS">%2$s</ns1:g> 후로 알람이 설정됩니다."</item>
+        <item msgid="2532279224777213194">"지금부터 <ns1:g id="MINUTES">%3$s</ns1:g> 후로 알람이 설정됩니다."</item>
+        <item msgid="5936557894247187717">"지금부터 <ns1:g id="DAYS">%1$s</ns1:g> <ns1:g id="MINUTES">%3$s</ns1:g> 후로 알람이 설정됩니다."</item>
+        <item msgid="9115697840826129603">"지금부터 <ns1:g id="HOURS">%2$s</ns1:g> <ns1:g id="MINUTES">%3$s</ns1:g> 후로 알람이 설정됩니다."</item>
+        <item msgid="2332583385137381060">"지금부터 <ns1:g id="DAYS">%1$s</ns1:g> <ns1:g id="HOURS">%2$s</ns1:g> <ns1:g id="MINUTES">%3$s</ns1:g> 후로 알람이 설정되었습니다."</item>
+    </string-array>
+    <string-array name="charset_array">
+        <item>"라틴어-1(ISO-8859-1)"</item>
+        <item>"유니코드(UTF-8)"</item>
+        <item>"중국어(GBK)"</item>
+        <item>"중국어(Big5)"</item>
+        <item>"일본어(ISO-2022-JP)"</item>
+        <item>"일본어(SHIFT_JIS)"</item>
+        <item>"일본어(EUC-JP)"</item>
+        <item>"한국어(EUC-KR)"</item>
+    </string-array>
+    <string-array name="country_names">
+        <item>아루바</item>
+        <item>아프가니스탄(جمهوری اسلامی افغانستان)</item>
+        <item>앙골라(República de Angola)</item>
+        <item>앙귈라</item>
+        <item>알바니아(Shqipëri)</item>
+        <item>안도라(Principat d\'Andorra)</item>
+        <item>네덜란드령 안틸</item>
+        <item>아랍 에미리트 연합국(دولة الإمارات العربية المتحدة‎)</item>
+        <item>아르헨티나(República Argentina)</item>
+        <item>아르메니아(Hayastan)</item>
+        <item>미국령 사모아</item>
+        <item>남극 대륙</item>
+        <item>프랑스 남부 지방</item>
+        <item>앤티가 바부다</item>
+        <item>오스트레일리아(Australia)</item>
+        <item>오스트리아(Österreich)</item>
+        <item>아제르바이잔</item>
+        <item>부룬디</item>
+        <item>벨기에(België)</item>
+        <item>베냉</item>
+        <item>부르키나 파소</item>
+        <item>방글라데시(বাংলাদেশ)</item>
+        <item>불가리아(България / Balgariya)</item>
+        <item>바레인(مملكة البحرين)</item>
+        <item>바하마</item>
+        <item>보스니아/헤르체코비나(Bosna i Hercegovina)</item>
+        <item>벨로루시(Беларусь)</item>
+        <item>벨리즈</item>
+        <item>버뮤다</item>
+        <item>볼리비아</item>
+        <item>브라질</item>
+        <item>바베이도스</item>
+        <item>브루나이 다루살람(بروني دارالسلام)</item>
+        <item>부탄</item>
+        <item>부베 섬</item>
+        <item>보츠와나(Lefatshe la Botswana)</item>
+        <item>중앙아프리카 공화국(République centrafricaine)</item>
+        <item>캐나다</item>
+        <item>코코스 제도(킬링 제도)</item>
+        <item>스위스(Suisse)</item>
+        <item>칠레</item>
+        <item>중국(中國)</item>
+        <item>코트디부아르</item>
+        <item>카메룬</item>
+        <item>콩고</item>
+        <item>쿡 제도</item>
+        <item>콜롬비아</item>
+        <item>코모로</item>
+        <item>카보베르데</item>
+        <item>코스타리카</item>
+        <item>쿠바</item>
+        <item>크리스마스 섬</item>
+        <item>케이맨 제도</item>
+        <item>키프로스(Euro)</item>
+        <item>체코 공화국(Česká republika)</item>
+        <item>독일(Deutschland)</item>
+        <item>지부티</item>
+        <item>도미니카</item>
+        <item>덴마크(Danmark)</item>
+        <item>도미니카 공화국</item>
+        <item>알제리</item>
+        <item>에콰도르</item>
+        <item>이집트(مصر‎)</item>
+        <item>에리트레아</item>
+        <item>서사하라</item>
+        <item>스페인(España)</item>
+        <item>에스토니아(Eesti)</item>
+        <item>에티오피아</item>
+        <item>핀랜드(Suomi)</item>
+        <item>피지</item>
+        <item>포클랜드 제도</item>
+        <item>프랑스(France)</item>
+        <item>벨기에(Belgique)</item>
+        <item>패로 제도</item>
+        <item>미크로네시아</item>
+        <item>가봉</item>
+        <item>영국(United Kingdom)</item>
+        <item>그루지야(საქართველო)</item>
+        <item>가나</item>
+        <item>지브롤터</item>
+        <item>기니</item>
+        <item>과들루프</item>
+        <item>감비아</item>
+        <item>기니비사우</item>
+        <item>적도 기니</item>
+        <item>그리스(Ελλάδα)</item>
+        <item>그레나다</item>
+        <item>그린랜드</item>
+        <item>과테말라</item>
+        <item>프랑스령 기아나</item>
+        <item>괌</item>
+        <item>가이아나</item>
+        <item>홍콩(香港)</item>
+        <item>허드와 맥도널드 제도</item>
+        <item>온두라스</item>
+        <item>크로아티아(Hrvatska)</item>
+        <item>아이티</item>
+        <item>헝가리(Magyarország)</item>
+        <item>인도네시아(Republik Indonesia)</item>
+        <item>인도(भारत गणराज्य )</item>
+        <item>영국령 인도양 식민지</item>
+        <item>아일랜드(Ireland)</item>
+        <item>이란(ایران)</item>
+        <item>이라크(العراق)</item>
+        <item>아이슬란드(Ísland)</item>
+        <item>이스라엘(מְדִינַת יִשְׂרָאֵל  /  دَوْلَةُ إِسْرَائِيلَ)</item>
+        <item>이탈리아(Italia)</item>
+        <item>자메이카</item>
+        <item>요르단(L\'Ürdünn)</item>
+        <item>일본(日本国)</item>
+        <item>카자흐스탄</item>
+        <item>케냐(Jamhuri ya Kenya)</item>
+        <item>키르기스스탄</item>
+        <item>캄보디아(कम्बोजदेश)</item>
+        <item>키리바시</item>
+        <item>세인트키츠네비스</item>
+        <item>한국(대한민국)</item>
+        <item>쿠웨이트(دولة الكويت)</item>
+        <item>라오스</item>
+        <item>레바논(اَلْجُمْهُورِيَّة اَللُّبْنَانِيَّة)</item>
+        <item>라이베리아</item>
+        <item>리비아</item>
+        <item>세인트루시아</item>
+        <item>리히텐슈타인(Liechtenstein)</item>
+        <item>스리랑카(இலங்கை ஜனநாயக சமத்துவ)</item>
+        <item>레소토</item>
+        <item>리투아니아(Lietuva)</item>
+        <item>룩셈부르크(Lëtzebuerg)</item>
+        <item>라트비아(Latvija)</item>
+        <item>마카오</item>
+        <item>모로코</item>
+        <item>모나코(Monaco)</item>
+        <item>몰도바(Moldova)</item>
+        <item>마다가스카르</item>
+        <item>몰디브</item>
+        <item>멕시코</item>
+        <item>마샬 군도</item>
+        <item>마케도니아</item>
+        <item>말리</item>
+        <item>몰타(Malta)</item>
+        <item>미얀마(Pyidaunzu Thanmăda Myăma Nainngandaw)</item>
+        <item>몽골</item>
+        <item>북마리아나제도</item>
+        <item>모잠비크</item>
+        <item>모리타니아</item>
+        <item>몬트세라트</item>
+        <item>마르티니크(Martinique)</item>
+        <item>모리셔스(Republik Moris)</item>
+        <item>말라위</item>
+        <item>말레이시아(Persekutuan Malaysia)</item>
+        <item>마요트 섬</item>
+        <item>나미비아</item>
+        <item>뉴칼레도니아(Nouvelle-Calédonie)</item>
+        <item>니제르</item>
+        <item>노퍽 섬(Norfuk Ailen)</item>
+        <item>나이지리아(Republik Nijeriya)</item>
+        <item>니카라과</item>
+        <item>니우에 섬</item>
+        <item>네덜란드(Nederland)</item>
+        <item>노르웨이(Norge)</item>
+        <item>네팔(सङ्घीय लोकतान्त्रिक गणतन्त्र नेपाल)</item>
+        <item>나우루</item>
+        <item>뉴질랜드(New Zealand)</item>
+        <item>오만(لطنة عمان)</item>
+        <item>파키스탄(پاکِستان)</item>
+        <item>파나마</item>
+        <item>피트케언 섬</item>
+        <item>페루</item>
+        <item>필리핀(Pilipinas)</item>
+        <item>팔라우</item>
+        <item>파푸아뉴기니</item>
+        <item>폴랜드(Polska)</item>
+        <item>푸에르토리코</item>
+        <item>북한</item>
+        <item>포르투갈(Portugal)</item>
+        <item>파라과이</item>
+        <item>프랑스령 폴리네시아</item>
+        <item>카타르</item>
+        <item>레위니옹</item>
+        <item>루마니아(România)</item>
+        <item>러시아(Россия)</item>
+        <item>르완다</item>
+        <item>사우디 아라비아(المملكة العربية السعودية)</item>
+        <item>세르비아 몬테네그로</item>
+        <item>수단(جمهورية السودان)</item>
+        <item>세네갈</item>
+        <item>싱가포르(Singapore)</item>
+        <item>사우스조지아 섬과 샌드위치 제도</item>
+        <item>세인트 헬레나</item>
+        <item>스발바르와 얀 마이엔 제도</item>
+        <item>솔로몬 제도(Solomon Islands)</item>
+        <item>시에라리온</item>
+        <item>엘살바도르</item>
+        <item>산마리노(San Marino)</item>
+        <item>소말리아</item>
+        <item>생피에르에 미클롱 섬(St. Pierre and Miquelon)</item>
+        <item>상투메 프린시페</item>
+        <item>수리남</item>
+        <item>슬로바키아(Slovensko)</item>
+        <item>슬로베니아(Slovenija)</item>
+        <item>스웨덴(Sverige)</item>
+        <item>스와질란드(Swatini)</item>
+        <item>세이셸</item>
+        <item>시리아(جمهورية العربية السورية)</item>
+        <item>터크스카이코스 제도</item>
+        <item>차드</item>
+        <item>토고</item>
+        <item>태국(ราชอาณาจักรไทย)</item>
+        <item>타지키스탄</item>
+        <item>토켈라우</item>
+        <item>투르크메니스탄</item>
+        <item>동티모르</item>
+        <item>통가</item>
+        <item>트리니다드토바고</item>
+        <item>튀니지</item>
+        <item>터키(Türkiye)</item>
+        <item>투발루</item>
+        <item>대만(台灣)</item>
+        <item>탄자니아</item>
+        <item>우간다(Jamhuri ya Uganda)</item>
+        <item>우크라이나(Україна)</item>
+        <item>미국령 군소 제도</item>
+        <item>우루과이</item>
+        <item>미국</item>
+        <item>우즈베키스탄</item>
+        <item>바티칸 시국(Stato della Città del Vaticano)</item>
+        <item>세인트빈센트 그레나딘</item>
+        <item>베네수엘라</item>
+        <item>버진 제도(British)</item>
+        <item>버진 제도(US)</item>
+        <item>베트남(Việt Nam)</item>
+        <item>바누아투</item>
+        <item>월리스 푸투나 제도</item>
+        <item>사모아</item>
+        <item>예멘</item>
+        <item>남아프리카 공화국(Republiek van Suid-Afrika)</item>
+        <item>자이르</item>
+        <item>잠비아</item>
+        <item>짐바브웨(Simudzai Mureza wedu WeZimbabwe)</item>
+    </string-array>
+    <plurals name="dialog_unzip_preview_size_text">
+        <item quantity="one">합계: %1$d개의 파일, %2$s</item>
+        <item quantity="other">합계: %1$d개의 파일, %2$s</item>
+    </plurals>
+    <plurals name="drag_items">
+        <item quantity="one">항목 드래그</item>
+        <item quantity="other">여러 항목 드래그</item>
+    </plurals>
+    <plurals name="number_search_items">
+        <item quantity="one">"%d개 파일 발견"</item>
+        <item quantity="other">"%d개 파일 발견"</item>
+    </plurals>
+    <plurals name="number_selected_items">
+        <item quantity="one">%d개 선택됨</item>
+        <item quantity="other">%d개 선택됨</item>
+    </plurals>
+    <plurals name="uf_sdk_number_of_subscribers_format">
+        <item quantity="one">"%1$s이(가) 이 주제를 좋아합니다"</item>
+        <item quantity="other">"%1$s이(가) 이 주제를 좋아합니다"</item>
+    </plurals>
+    <plurals name="uf_sdk_topics">
+        <item quantity="one">"주제"</item>
+        <item quantity="other">"주제"</item>
+    </plurals>
+    <plurals name="uv_comments">
+        <item quantity="one">"댓글"</item>
+        <item quantity="other">"댓글"</item>
+    </plurals>
+    <plurals name="uv_number_of_subscribers_format">
+        <item quantity="one">"%1$s이(가) 이 아이디어를 원합니다."</item>
+        <item quantity="other">"%1$s이(가) 이 아이디어를 원합니다."</item>
+    </plurals>
+    <plurals name="uv_people">
+        <item quantity="one">"사람"</item>
+        <item quantity="other">"사람"</item>
+    </plurals>
+    <plurals name="uv_subscribers">
+        <item quantity="one">"구독자"</item>
+        <item quantity="other">"구독자"</item>
+    </plurals>
+    <string name="AsusWebstroage">AsusWebstorage</string>
+    <string name="AuCloud">AuCloud</string>
+    <string name="BaiDuPCS">BaiDuPCS</string>
+    <string name="Default">기본값</string>
+    <string name="Dropbox">Dropbox</string>
+    <string name="Google_Drive">Google Drive</string>
+    <string name="HomeCloud">HomeCloud</string>
+    <string name="OneDrive">OneDrive</string>
+    <string name="Yandex">Yandex</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"홈 탐색"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"위로 탐색"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"옵션 더보기"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"완료"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"전체 보기"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"앱 선택"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"사용 안함"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"사용"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"검색..."</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"검색어 삭제"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"검색어"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"검색"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"검색어 보내기"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"음성 검색"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"공유 대상"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"%s와(과) 공유"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"접기"</string>
+    <string name="about">정보</string>
+    <string name="account_asus">ASUS</string>
+    <string maxwidth="-1" name="action">로그인</string>
+    <string description="cutstom action bar view title for about" maxwidth="-1" name="action_about">정보</string>
+    <string description="action add files" maxwidth="-1" name="action_add">추가</string>
+    <string description="cutstom action bar view title for add folder" maxwidth="-1" name="action_add_folder">폴더 추가</string>
+    <string description="View title of custom action bar, apply to multiple selected files" maxwidth="-1" name="action_apply_selected_file">적용</string>
+    <string description="action cancel" maxwidth="-1" name="action_cancel">취소</string>
+    <string maxwidth="-1" name="action_clean">"정리"</string>
+    <string maxwidth="-1" name="action_clean_all">"모두 정리"</string>
+    <string description="cutstom action bar view title for clear search history" maxwidth="" name="action_clear_history">검색 기록 제거</string>
+    <string description="cutstom action bar view title for edit" maxwidth="" name="action_edit">"편집"</string>
+    <string maxwidth="" name="action_hidden_zone">"숨겨진 캐비닛으로 이동"</string>
+    <string description="cutstom action bar view title for hinde system file" maxwidth="-1" name="action_hind_system_file">시스템 파일 숨기기</string>
+    <string name="action_loading">"로딩 중…"</string>
+    <string description="cutstom action bar view title for open with" maxwidth="" name="action_open_with">"다른 프로그램으로 열기..."</string>
+    <string name="action_refresh_cloudfile">"새로 고침"</string>
+    <string maxwidth="-1" name="action_restore">"복원"</string>
+    <string maxwidth="-1" name="action_restore_all">"모두 복원"</string>
+    <string description="cutstom action bar view title for search" maxwidth="" name="action_search">검색</string>
+    <string description="cutstom action bar view title for set as" maxwidth="" name="action_set_as">"그림을 다음으로 설정"</string>
+    <string description="menu title for setting" maxwidth="-1" name="action_settings">"설정"</string>
+    <string description="cutstom action bar view title for sharing" maxwidth="-1" name="action_share">"공유"</string>
+    <string description="String for asking for the rule of sorting" maxwidth="-1" name="action_sort_by">정렬 기준</string>
+    <string description="cutstom action bar view title for zip" maxwidth="" name="action_zip">압축</string>
+    <string description="Dialog title: Add cloud storage" maxwidth="-1" name="add_cloud_storage_dialog_title">클라우드 저장소 추가</string>
+    <string name="add_favorite">즐겨찾기에 추가</string>
+    <string name="add_favorite_folder">"즐겨찾기 폴더 추가"</string>
+    <string name="add_favorite_success">즐겨찾기에 저장</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="add_progress">만드는 중...</string>
+    <string description="Don&apos;t remind me again" maxwidth="-1" name="alert_cb_msg">다시 묻지 않음.</string>
+    <string description="ASUS ZenUI Services is not support, need update ASUS ZenUI Services" maxwidth="-1" name="alert_msg_azs_update">%1$s가 ASUS ZenUI 서비스의 최신 버전을 필요로합니다. 지금 설치하십시오.</string>
+    <string description="Client app is not support, need update client app" maxwidth="-1" name="alert_msg_client_update">새 버전 %1$s이(가) 있습니다. 지금 설치하십시오.</string>
+    <string description="Client app version is compatible with ASUS ZenUI Services" maxwidth="-1" name="alert_msg_compatible">%1$s 버전은 ASUS ZenUI Services와 호환되지 않습니다.</string>
+    <string description="Client app version is match with ASUS ZenUI Services" maxwidth="-1" name="alert_msg_match">%1$s 버전이 ASUS ZenUI Services와 일치합니다.</string>
+    <string description="ASUS ZenUI Services is not found on device" maxwidth="-1" name="alert_msg_not_found">ASUS ZenUI Services가 설치되지 않았습니다!\n\n다운로드 받아 설치하시겠습니까?</string>
+    <string description="Dialog title" maxwidth="-1" name="alert_title">참고</string>
+    <string description="Dialog title" maxwidth="-1" name="alert_title_update">업데이트 권장</string>
+    <string name="app_cloudstorage_name">CloudStorage</string>
+    <string name="app_upload_complete">"%s 업로드 완료"</string>
+    <string description="" name="article_one">ASUS \"<u>사용 공지사항 이용 약관</u>\", ASUS \"<u>개인정보 보호정책</u>\", ASUS WebStorage \"<u>사용 공지사항 이용 약관</u>\", ASUS WebStorage \"<u>개인정보 보호정책</u>\"에 동의합니다.</string>
+    <string description="" name="article_two">eDMs를 통해 ASUS 뉴스, 소프트웨어 업데이트 및 최신 제품 및 서비스 정보를 최신으로 유지합니다.</string>
+    <string description="Text for create asus account button." maxwidth="" name="asus_account_create_button">새로 만들기</string>
+    <string name="asus_account_integrate_dialog_content">ASUS 클라우드 저장소 서비스와 귀하의 ASUS 계정을 통합하시겠습니까? \n\n 통합을 한 후 모든 ASUS 서비스를 같은 계정에서 사용할 수 있습니다.</string>
+    <string name="asus_account_integrate_dialog_skip">건너뛰기</string>
+    <string name="asus_account_integrate_dialog_title">ASUS 서비스 통합</string>
+    <string name="asus_account_integrate_dialog_yes">예</string>
+    <string description="Text for asus account content 1st." maxwidth="" name="asus_account_msg_content_1">개인 ASUS 지원 서비스와 등록된 제품에 대한 보증 연장.</string>
+    <string description="Text for asus account content 2nd." maxwidth="" name="asus_account_msg_content_2">5GB의 무료 클라우드 저장 공간.</string>
+    <string description="Text for asus account content 3rd." maxwidth="" name="asus_account_msg_content_3">액세서리와 리퍼 제품에 대한 최신 정보.</string>
+    <string description="Text for asus account content title." maxwidth="" name="asus_account_msg_title">다음을 받을 ASUS 계정 만들기:</string>
+    <string name="asus_account_only_one_alert">"하나의 ASUS 계정만 추가할 수 있습니다. 새 계정으로 교체하기 전에 현재 계정을 삭제해야 합니다."</string>
+    <string name="asus_account_prefc">"설정"</string>
+    <string name="asus_account_prefc_advc">"고급 설정"</string>
+    <string name="asus_account_registe_country_error">하나의 국가 지역을 선택하십시오!</string>
+    <string name="asus_account_registe_id_error">이메일 오류</string>
+    <string name="asus_account_registe_policy_error">ASUS 계정을 등록하려면 ASUS 정책에 동의해야 합니다!</string>
+    <string name="asus_account_registe_pw_error_1">비밀번호는 반드시 입력해야 합니다!</string>
+    <string name="asus_account_registe_pw_error_2">비밀번호 확인은 반드시 입력해야 합니다!</string>
+    <string name="asus_account_registe_pw_error_3">비밀번호와 확인은 동일해야 합니다!</string>
+    <string name="asus_account_registe_pw_error_4">"비밀번호는 8 ~ 25개의 문자여야 합니다."</string>
+    <string name="asus_account_removeaccount_dialog_content">"계정 통합에 성공했습니다. 새 계정을 사용하여 다시 로그인하십시오."</string>
+    <string name="asus_account_removeaccount_dialog_title">"ASUS 계정 통합 성공"</string>
+    <string name="asus_commonui_activity_chooser_view_see_all">"전체 보기"</string>
+    <string name="asus_commonui_activity_resolver_use_always">"항상"</string>
+    <string name="asus_commonui_activity_resolver_use_once">"한 번만"</string>
+    <string name="asus_commonui_activitychooserview_choose_application">"앱 선택"</string>
+    <string name="asus_commonui_activitychooserview_choose_application_error">
+        "<ns1:g id="APPLICATION_NAME">%s</ns1:g>을(를) 실행할 수 없습니다."</string>
+    <string name="asus_commonui_cancel_label">"취소"</string>
+    <string name="asus_commonui_chooseActivity">"작업 선택"</string>
+    <string msgid="3968620852217927702" name="asus_commonui_day_picker_description">"월별 바둑판식 날짜 표시"</string>
+    <string msgid="6908431551612331381" name="asus_commonui_deleted_key">"<ns1:g id="KEY">%1$s</ns1:g> 삭제됨"</string>
+    <string name="asus_commonui_done_label">"확인"</string>
+    <string msgid="7586639618712934060" name="asus_commonui_hour_picker_description">"시간 원형 슬라이더"</string>
+    <string msgid="2674929164900463786" name="asus_commonui_item_is_selected">"<ns1:g id="ITEM">%1$s</ns1:g>이(가) 선택됨"</string>
+    <string msgid="6024811202872705251" name="asus_commonui_minute_picker_description">"분 원형 슬라이더"</string>
+    <string name="asus_commonui_noApplications">"작업을 수행할 수 있는 앱이 없습니다."</string>
+    <string name="asus_commonui_no_url_handler">URL을 열 수 있는 앱이 없음</string>
+    <string name="asus_commonui_privacy_policy">개인 정보 보호 정책</string>
+    <string name="asus_commonui_privacy_policy_url">http://www.asus.com/KR/Terms_of_Use_Notice_Privacy_Policy/Privacy_Policy</string>
+    <string msgid="3973338219107019769" name="asus_commonui_select_day">"월/일 선택"</string>
+    <string msgid="7651068754188418859" name="asus_commonui_select_hours">"시간 선택"</string>
+    <string msgid="8327182090226828481" name="asus_commonui_select_minutes">"분 선택"</string>
+    <string msgid="2603330600102539372" name="asus_commonui_select_year">"연도 선택"</string>
+    <string name="asus_commonui_shareactionprovider_share_with">"공유 대상:"</string>
+    <string name="asus_commonui_shareactionprovider_share_with_application">
+        "<ns1:g id="APPLICATION_NAME">%s</ns1:g>와(과) 공유"</string>
+    <string name="asus_commonui_terms_of_use_notice">이용 약관</string>
+    <string name="asus_commonui_terms_of_use_notice_url">http://www.asus.com/KR/Terms_of_Use_Notice_Privacy_Policy/Official_Site/</string>
+    <string name="asus_commonui_whichApplication">"작업을 수행할 때 사용하는 애플리케이션"</string>
+    <string name="asus_commonui_whichHomeApplication">"홈 앱 선택"</string>
+    <string msgid="6963340404644587098" name="asus_commonui_year_picker_description">"년"</string>
+    <string name="asus_feedback_and_help">피드백 &amp; 도움말</string>
+    <string name="asus_registe_success_title">"ASUS 계정 등록 성공"</string>
+    <string name="asus_response_resultdata">"이 계정은 이미 등록되었습니다."</string>
+    <string name="asusaccount_app_name">ASUS 계정</string>
+    <string maxwidth="-1" name="attribution_notice">"특성 알림"</string>
+    <string maxwidth="-1" name="attribution_notice_content">
+    "\n이 제품에는 아래 나열된 오픈 소스가 포함되어 있습니다:
+\n\nuservoice-android-sdk, Apache 라이센스 버전 2.0 하에 사용 허가됨. 라이센스는 http://www.apache.org/licenses/LICENSE-2.0.html에서 다운로드할 수 있습니다.
+        \n\nangular-filemanager, MIT 하에 사용 허가됨. 라이센스는 https://github.com/joni2back/angular-filemanager/blob/master/LICENSE에서 다운로드할 수 있습니다.
+        \n\nprogressbar, MIT 하에 사용 허가됨. 라이센스는 https://github.com/kimmobrunfeldt/progressbar.js/blob/master/LICENSE에서 다운로드할 수 있습니다.
+        \n\ntoastr, Copyright (c) 2012-2015 John Papa, Tim Ferrell, Hans Fjällemark\n이 소프트웨어 사본과 관련 문서 파일(“소프트웨어”)을 구입한 사람에게 소프트웨어의 사본을 사용, 복사, 수정, 병합, 게시, 배포, 재라이센스 배포 및/또는 판매할 수 있는 권한을 포함하여(이에 국한되지 않음) 제한 없이 소프트웨어를 다루고 다음 조건에 따라 소프트웨어가 제공된 사람에게 사용을 허가하는 권한이 무상으로 부여됩니다.
+        상기 저작권 고지 및 본 권한 고지가 소프트웨어의 모든 사본 또는 후속 버전에 포함되어야 합니다. 본 소프트웨어는 상품성, 특정 목적에의 적합성, 비침해 등을 포함하여(이에 국한되지 않음) 명시적이거나 암묵적이든 어떠한 종류의 보증 없이 “있는 그대로” 제공됩니다. 어떤 경우에도 작성자 또는 저작권 소지자는 계약에 따른 행위, 과실 또는 그 밖의 불법적 행위에 관계없이 소프트웨어 또는 소프트웨어 사용으로 인해 발생하는 어떤 소송, 손해에 대해 책임을 지지 않습니다."
+    </string>
+    <string name="aucloud_account_only_one_alert">"하나의 au Cloud 계정만 추가할 수 있습니다. 새 계정으로 교체하기 전에 현재 계정을 삭제해야 합니다."</string>
+    <string description="string indicating how camera shooting feature is used" maxwidth="-1" name="auto">자동</string>
+    <string maxwidth="-1" name="aws_install_contnet">WebStorage가 설치되지 않았습니다. Play Store에서 다운로드하여 설치하시겠습니까?</string>
+    <string maxwidth="" name="aws_install_title">WebStorage 설치되지 않음</string>
+    <string description="button text." maxwidth="-1" name="back_button_label">뒤로</string>
+    <string name="baidu_alert_info">"Baidu의 플랫폼에 따라, 이 장치는 "My Application Data\\asus\\"에서만 데이터에 액세스할 수 있습니다."</string>
+    <string name="baidu_alert_title">"Baidu 클라우드 스토리지"</string>
+    <string name="baidu_storage_title">"百度云"</string>
+    <string name="baidupcs_account_only_one_alert">"하나의 ASUS 계정용 Baidu만 추가할 수 있습니다. 새 계정으로 교체하기 전에 현재 계정을 삭제해야 합니다."</string>
+    <string name="btn_OK">확인</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="calculate_progress">"처리 중..."</string>
+    <string description="Toast: can not open in hidden zone" maxwidth="-1" name="can_not_open_in_hidden_zone">"숨겨진 캐비닛에서 열 수 없습니다."</string>
+    <string description="Dialog Button: cancel for dialog" maxwidth="" name="cancel">취소</string>
+    <string name="cancle">취소</string>
+    <string name="category_apk">앱</string>
+    <string maxwidth="11" name="category_app1">"앱"</string>
+    <string name="category_compress">"압축됨"</string>
+    <string maxwidth="11" name="category_compressed1">"압축됨"</string>
+    <string name="category_count">"%s"</string>
+    <string maxwidth="11" name="category_document1">"문서"</string>
+    <string name="category_documents">"문서"</string>
+    <string name="category_download">다운로드</string>
+    <string maxwidth="11" name="category_download1">"다운로드"</string>
+    <string name="category_favorite">즐겨찾기</string>
+    <string maxwidth="11" name="category_favorite1">"즐겨찾기"</string>
+    <string name="category_game">"게임"</string>
+    <string name="category_image">이미지</string>
+    <string maxwidth="11" name="category_image1">"이미지"</string>
+    <string maxwidth="11" name="category_large_file1">"대용량 파일"</string>
+    <string name="category_music">음악</string>
+    <string maxwidth="11" name="category_music1">"음악"</string>
+    <string name="category_name_app_wallpaper">"라이브 배경화면"</string>
+    <string name="category_name_app_widgets">"위젯"</string>
+    <string name="category_name_books_and_reference">"도서 및 참고자료"</string>
+    <string name="category_name_business">"비즈니스"</string>
+    <string name="category_name_comics">"만화"</string>
+    <string name="category_name_communication">"커뮤니케이션"</string>
+    <string name="category_name_education">"교육"</string>
+    <string name="category_name_entertainment">"엔터테인먼트"</string>
+    <string name="category_name_finance">"금융"</string>
+    <string name="category_name_game">"게임"</string>
+    <string name="category_name_game_action">"액션"</string>
+    <string name="category_name_game_adventure">"어드벤처"</string>
+    <string name="category_name_game_arcade">"아케이드"</string>
+    <string name="category_name_game_board">"보드"</string>
+    <string name="category_name_game_card">"카드"</string>
+    <string name="category_name_game_casino">"카지노"</string>
+    <string name="category_name_game_casual">"캐주얼 게임"</string>
+    <string name="category_name_game_educational">"교육"</string>
+    <string name="category_name_game_family">"가족"</string>
+    <string name="category_name_game_music">"음악"</string>
+    <string name="category_name_game_puzzle">"퍼즐"</string>
+    <string name="category_name_game_racing">"자동차 경주"</string>
+    <string name="category_name_game_role_playing">"롤플레잉"</string>
+    <string name="category_name_game_simulation">"시뮬레이션"</string>
+    <string name="category_name_game_sports">"스포츠"</string>
+    <string name="category_name_game_strategy">"전략"</string>
+    <string name="category_name_game_trivia">"퀴즈"</string>
+    <string name="category_name_game_word">"단어"</string>
+    <string name="category_name_health_and_fitness">"건강/운동"</string>
+    <string name="category_name_libraries_and_demo">"라이브러리 및 데모"</string>
+    <string name="category_name_lifestyle">"라이프스타일"</string>
+    <string name="category_name_media_and_video">"미디어 및 동영상"</string>
+    <string name="category_name_medical">"의료"</string>
+    <string name="category_name_music_and_audio">"음악 및 오디오"</string>
+    <string name="category_name_news_and_magazines">"뉴스 및 잡지"</string>
+    <string name="category_name_personalization">"데코레이션"</string>
+    <string name="category_name_photography">"사진"</string>
+    <string name="category_name_productivity">"생산성"</string>
+    <string name="category_name_shopping">"쇼핑"</string>
+    <string name="category_name_social">"소셜"</string>
+    <string name="category_name_sports">"스포츠"</string>
+    <string name="category_name_tools">"도구"</string>
+    <string name="category_name_transportation">"교통"</string>
+    <string name="category_name_travel_and_local">"여행 및 지역정보"</string>
+    <string name="category_name_weather">"날씨"</string>
+    <string name="category_others">"기타"</string>
+    <string maxwidth="11" name="category_recent1">"최근"</string>
+    <string name="category_recent_files">"최근에 추가됨"</string>
+    <string name="category_sorting_summary">"범주 패널에 표시되는 항목 선택"</string>
+    <string name="category_title_category">범주</string>
+    <string name="category_title_local_storage">로컬 저장소</string>
+    <string name="category_title_tools">"도구"</string>
+    <string name="category_toast_invalid_item_size_6_or_9">"6개 또는 9개 항목을 선택하십시오."</string>
+    <string name="category_toast_invalid_item_size_9">"9개 항목을 선택하십시오."</string>
+    <string name="category_toast_invalid_remove">"이 항목을 제거할 수 없습니다."</string>
+    <string name="category_toast_max_item_size">"최대 9개 항목 선택"</string>
+    <string name="category_video">동영상</string>
+    <string maxwidth="11" name="category_video1">"동영상"</string>
+    <string name="clear_account_info">모든 계정 잊음</string>
+    <string description="Menu Option: clear all checkbox" maxwidth="" name="clear_all">전체 제거</string>
+    <string name="click_plus_to_add_favorite_folder">"즐겨찾기 폴더를 추가하려면 + 를 누르십시오."</string>
+    <string description="Toast: The size is over the limit and cannot be uploaded" maxwidth="-1" name="cloud_download_flie_limit_space">크기가 제한을 초과하여 업로드할 수 없습니다.</string>
+    <string description="Toast: The name of the file uploaded is not supported by cloud server" maxwidth="-1" name="cloud_flie_name_not_supported">"파일 이름이 클라우드 서버에서 지원되지 않으므로 작업을 완료할 수 없습니다."</string>
+    <string description="home cloud get available devices fail" name="cloud_homebox_get_devices_fail">사용할 수 있는 HomeCloud 장치 검색 실패</string>
+    <string description="home cloud has no available devices" name="cloud_homebox_no_available_devices">사용할 수 있는 HomeCloud 장치 없음</string>
+    <string description="home cloud device is sleep" name="cloud_homebox_status__info_Sleep">대기 모드</string>
+    <string description="home cloud device is offline" name="cloud_homebox_status__info_offline">오프라인</string>
+    <string description="home cloud device is online" name="cloud_homebox_status__info_online">온라인</string>
+    <string description="home cloud device is offline" name="cloud_homebox_status_offline">장치가 오프라인 상태입니다.</string>
+    <string description="diaglog cloud background paste" name="cloud_paste_backgroud">배경</string>
+    <string description="diaglog cloud  now is copy files" name="cloud_paste_copying">복사 중...</string>
+    <string description="diaglog cloud  current" name="cloud_paste_current">현재</string>
+    <string description="diaglog cloud  now is delete source files" name="cloud_paste_deleting">소스 파일 삭제 중...</string>
+    <string description="diaglog cloud  paste" name="cloud_paste_downloading">파일 다운로드</string>
+    <string description="diaglog cloud  total" name="cloud_paste_total">합계</string>
+    <string description="diaglog cloud  paste uploading" name="cloud_paste_uploading">파일 업로드</string>
+    <string description="Toast: cloud preview action" maxwidth="-1" name="cloud_preview_action_fail">클라우드 파일 미리보기 실패.</string>
+    <string description="Toast: cloud share action" maxwidth="-1" name="cloud_share_action_fail">클라우드 파일 공유 실패.</string>
+    <string description=">Do you want to remove" maxwidth="-1" name="cloud_storage_remove_hint">"\"%s\" 계정을 로그아웃하시겠습니까?"</string>
+    <string description="Dialog title: Remove cloud storage" maxwidth="-1" name="cloud_storage_remove_hint_title">로그아웃</string>
+    <string description=">Do you want to signin" maxwidth="-1" name="cloud_storage_sign_in">다음 계정으로 연결:</string>
+    <string description="Dialog title: Signin cloud storage" maxwidth="-1" name="cloud_storage_sign_in_title">%s 연결</string>
+    <string description=">Do you want to signout" maxwidth="-1" name="cloud_storage_sign_out">"로그아웃 하시겠습니까?"</string>
+    <string description="Dialog title: Signout cloud storage" maxwidth="-1" name="cloud_storage_sign_out_title">연결 끊음</string>
+    <string description="Add more cloud storage" maxwidth="-1" name="cloud_storage_title">더 많은 클라우드 저장소 추가</string>
+    <string description="diaglog cloud  token is invalidate" name="cloud_token_invalidate">토큰이 무효화되었습니다. 다시 로그인 하십시오!</string>
+    <string description="Toast: The size is over the limit and cannot be uploaded" maxwidth="-1" name="cloud_upload_flie_limit_space">크기가 제한을 초과하여 업로드할 수 없습니다.</string>
+    <string name="com_facebook_image_download_unknown_error">이미지를 다운로드하는 중 예기치 않은 오류가 발생했습니다.</string>
+    <string name="com_facebook_internet_permission_error_message">WebView에 로그인하려면 인터넷 권한이 필요합니다</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifest 오류</string>
+    <string name="com_facebook_like_button_liked">좋아요</string>
+    <string name="com_facebook_like_button_not_liked">좋아요</string>
+    <string name="com_facebook_loading">읽어들이는 중...</string>
+    <string name="com_facebook_loginview_cancel_action">취소</string>
+    <string name="com_facebook_loginview_log_in_button">로그인</string>
+    <string name="com_facebook_loginview_log_in_button_long">Facebook으로 로그인</string>
+    <string name="com_facebook_loginview_log_out_action">로그아웃</string>
+    <string name="com_facebook_loginview_log_out_button">로그아웃</string>
+    <string name="com_facebook_loginview_logged_in_as">로그인할 이름: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Facebook 계정으로 로그인함</string>
+    <string name="com_facebook_send_button_text">보내기</string>
+    <string name="com_facebook_share_button_text">공유하기</string>
+    <string name="com_facebook_tooltip_default">새로운 기능! 이제 앱과 어떤 정보를 공유할지 자유롭게 선택할 수 있습니다.</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"사용 설정"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"Google Play 서비스를 사용하도록 설정해야 <ns1:g id="APP_NAME">%1$s</ns1:g>이(가) 작동합니다."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Google Play 서비스 사용"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"설치"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"기기에 Google Play 서비스가 설치되어 있어야 <ns1:g id="APP_NAME">%1$s</ns1:g>이(가) 실행됩니다."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Google Play 서비스 설치"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Google Play 서비스 오류"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g>에서 Google Play 서비스를 사용하는 데 문제가 있습니다. 다시 시도하세요."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>은(는) Google Play 서비스 없이는 실행되지 않으나, 기기에서 Google Play 서비스를 지원하지 않습니다."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"업데이트"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"Google Play 서비스를 업데이트해야 <ns1:g id="APP_NAME">%1$s</ns1:g>이(가) 실행됩니다."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Google Play 서비스 업데이트"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"현재 업데이트 중인 Google Play 서비스가 있어야 <ns1:g id="APP_NAME">%1$s</ns1:g>이(가) 실행됩니다."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"새 버전의 Google Play 서비스가 필요합니다. 곧 자동으로 업데이트됩니다."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"스마트폰에서 열기"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"로그인"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Google 계정으로 로그인"</string>
+    <string name="confirm">"확인"</string>
+    <string maxwidth="-1" name="confirm_ok">확인</string>
+    <string description="confirm password textview title" name="confirm_password">비밀번호 확인</string>
+    <string description="ask user to enter password again to confirm" name="confirm_password_edit">비밀번호를 다시 입력하십시오.</string>
+    <string description="content" maxwidth="-1" name="content">이 소프트웨어의 사용은 다음 ASUS 웹사이트에 있는 약관에 따릅니다.  \nhttp://www.asus.com</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="copy">복사</string>
+    <string description="Toast: copy ready" maxwidth="-1" name="copy_ready_more">선택된 파일이 복사되었고 붙여넣기가 준비되었습니다.</string>
+    <string description="Toast: copy ready. %s is variable string." maxwidth="-1" name="copy_ready_one">\"%s\" 이/가 복사되었고 붙여넣기가 준비되었습니다.</string>
+    <string name="copy_to">복사 위치</string>
+    <string description="country region textview title" name="country_region">국가 지역</string>
+    <string description="ack user to select on country" name="country_region_select">지역을 선택하십시오.</string>
+    <string name="create_shortcut">"바로가기 만들기"</string>
+    <string name="create_shortcut_dialog">"시작 관리자에서 바로가기 만들기"</string>
+    <string name="create_shortcut_toast">"시작 관리자에서 바로가기 만들기가 완료되었습니다."</string>
+    <string name="cta_agree">"허용"</string>
+    <string name="cta_check_title">"저장"</string>
+    <string name="cta_dialog_content"><b>파일 관리자</b>가 네트워크 사용을 시도합니다. 구독에 따라 기타 비용이 부과될 수 있습니다.</string>
+    <string name="cta_dialog_title">"네트워크 사용"</string>
+    <string name="cta_disagree">"거부"</string>
+    <string name="cta_show_menu">"네트워크 권한"</string>
+    <string name="current_folder">"현재 폴더"</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="cut">자르기</string>
+    <string description="Toast: cut ready" maxwidth="-1" name="cut_ready_more">선택된 파일이 잘라졌고 붙여넣기가 준비되었습니다.</string>
+    <string description="Toast: cut ready. %s is variable string." maxwidth="-1" name="cut_ready_one">\"%s\" 이/가 잘라졌고 붙여넣기가 준비되었습니다.</string>
+    <string description="button text for sort file by date" maxwidth="-1" name="date">날짜</string>
+    <string description="button text for sort file by date ascending" maxwidth="-1" name="date_ascending">날짜(구-신)</string>
+    <string description="button text for sort file by date descending" maxwidth="-1" name="date_descending">날짜(신-구)</string>
+    <string msgid="7984755014526510295" name="day">"1일"</string>
+    <string msgid="2070509222727852210" name="days">"<ns1:g id="DAYS">%s</ns1:g>일"</string>
+    <string maxwidth="-1" name="dbx_install_contnet">Dropbox가 설치되지 않았습니다. Play Store에서 다운로드하여 설치하시겠습니까?</string>
+    <string maxwidth="" name="dbx_install_title">Dropbox 설치되지 않음</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="delete">삭제</string>
+    <string description="Dialog Title: delete dialog title" maxwidth="" name="delete_dialog">파일 삭제</string>
+    <string description="Toast: delete fails" maxwidth="-1" name="delete_fail">파일 삭제 실패.</string>
+    <string description="Dialog Content: text in dialog. %d is variable number." maxwidth="" name="delete_more_files">%d 항목을 삭제하시겠습니까?</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="delete_one_directory">디렉토리를 삭제하시겠습니까?</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="delete_one_files">파일을 삭제하시겠습니까?</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="delete_progress">삭제 중...</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="delete_size">"크기 : "</string>
+    <string description="Toast: delete success" maxwidth="-1" name="delete_success_more">선택된 파일이 삭제되었습니다.</string>
+    <string description="Toast: delete success. %s is variable string." maxwidth="-1" name="delete_success_one">\"%s\" 삭제되었습니다.</string>
+    <string description="cutstom action bar view title for deselect all checkbox" maxwidth="" name="deselect_all">모두 선택 취소</string>
+    <string name="device_root_path">루트</string>
+    <string description="compress dialog title" maxwidth="-1" name="dialog_create_zip_title">압축 파일 이름 입력</string>
+    <string description="extract zip file dialog title. %s is a dynamic string. It is zip file name." maxwidth="-1" name="dialog_extract_zip_title">%s를 다음으로 압축 해제:</string>
+    <string name="dialog_load_stream_url_info">서버에서 필요한 정보를 검색하는 중</string>
+    <string name="dialog_msg_market_login_account">"Google 계정으로 로그인하여 앱을 다운로드 받으십시오."</string>
+    <string description="text encoding dialog title" maxwidth="-1" name="dialog_text_encoding_title">텍스트 인코딩</string>
+    <string name="dialog_title_market_login_account">"계정 추가"</string>
+    <string description="show zip info dialog title. %s is a dynamic string. Is is a zip file name" maxwidth="-1" name="dialog_unzip_preview_title">%s 압축 풀기</string>
+    <string description="Dialog Title: Directory information dialog title" maxwidth="-1" name="dir_info_dialog_title">디렉터리 정보</string>
+    <string name="display">"다음으로 표시"</string>
+    <string name="display_hint">"내 컴퓨터, 비워둘 수 있음"</string>
+    <string name="dm_openfile">"파일 열기"</string>
+    <string name="do_not_show_again">"다시 표시하지 않음"</string>
+    <string name="domain">"도메인:"</string>
+    <string name="domain_hint">"비워둘 수 있음"</string>
+    <string name="download_fail">다운로드 실패!</string>
+    <string name="download_sucess">다운로드 성공!</string>
+    <string name="drag_items_one">항목 드래그</string>
+    <string name="drag_items_other">여러 항목 드래그</string>
+    <string name="drawer_close">"탐색 드로어 닫기"</string>
+    <string name="drawer_home">집</string>
+    <string name="drawer_open">"탐색 드로어 열기"</string>
+    <string description="Hint: the operation is incorrect" maxwidth="-1" name="drop_incorrect_hint">잘못된 작업</string>
+    <string description="Hint: the target folder which you want to do something" maxwidth="-1" name="drop_target_to">대상 위치:</string>
+    <string name="dumdownloadfrom">다운로드 소스</string>
+    <string name="dumuploadto">업로드 위치</string>
+    <string name="duplicate_files">"중복 파일"</string>
+    <string name="duplicate_files_content_hint">"중복 파일을 찾아 권한으로 삭제하십시오."</string>
+    <string name="edit_toast_name_too_long">사용한 최대 문자 수</string>
+    <string name="edit_toast_special_char">특수 문자는 포함할 수 없습니다.</string>
+    <string name="editcategory_hint">"편집 버튼을 눌러 범주 패널을 사용자 지정합니다."</string>
+    <string description="describe the empty folder" maxwidth="-1" name="empty_folder_title">"파일 없음"</string>
+    <string description="Dialog Button: click to open the encoding list dialog" maxwidth="-1" name="encode">텍스트 인코딩</string>
+    <string description="ask user to enter password" maxwidth="-1" name="enter_password">"비밀번호 입력"</string>
+    <string name="eula_content_description">
+        \n본 최종사용자 라이선스 계약(“EULA”)은 아래에 명시된 바와 같이 ASUSTeK Computer Inc.(“ASUS“)와 사용자 간에 ASUS 소프트웨어(“소프트웨어”) 사용에 관한 구속력 있는 유효한 계약을 성립하기 위한 목적입니다. 소프트웨어를 설치하고 계속해서 사용하는 것은 본 EULA와 최신 버전의 조항 내용을 읽고 준수함에 동의함을 명시적으로 확인하는 것입니다. 
+\n\n1.소프트웨어 향후 프로그래밍 수정 사항, 업데이트, 업그레이드, 수정된 버전을 포함하여(이에 국한되지 않음) 해당 ASUS 제품에 포함되거나 제품과 함께 제공되는 ASUS 소프트웨어를 의미합니다.
+\n본 소프트웨어는 www.opensource.org/licenses에 명시된 대로 하나 이상의 자유 오픈 소스 소프트웨어 라이센스 하에 사용 허가를 받은 다른 ASUS 또는 제3자가 생성한 소프트웨어와 함께 제공될 수 있습니다. 그러한 자유 오픈 소스 소프트웨어는 동봉된 해당 라이센스 계약 또는 저작권 고지 또는 소프트웨어가 동봉된 FOSS 라이센스 파일에 따라 독점적으로 사용자에게 제공됩니다.
+\n\n2.라이센스 본 EULA 조항에 따라 ASUS는 ASUS의 제품에 포함된 소프트웨어만을 사용할 수 있는 제한된 비상업적, 비독점적인 개인 라이선스를 부여합니다. 사용자는 백업 용도로만 백업 사본 및 원본에 포함된 모든 저작권 및 기타 재산 고지 사항이 포함되었다는 전제 하에, 기계 판독이 가능한 형식으로 소프트웨어의 사본을 한 개를 만들 수 있습니다. 이 라이선스는 본 EULA 하에 모든 권리를 영구적으로 양도하고 소프트웨어의 전체 또는 부분적으로 사본을 보관하지 않으며 수령인이 본 EULA 조항에 동의한다는 전제 하에, 소프트웨어를 포함한 전체 ASUS 제품의 소유권을 양도하는 개인 또는 단체를 제외하고는 하위 라이선스를 부여하거나 양도할 수 없습니다.
+\n\n3.역제한 준거법에서 시행을 금지한 범위까지를 제외하고 사용자는 본 소프트웨어를 엔지니어링의 역활용, 암호 해독 또는 분해하거나 그러한 유사 행위를 하도록 허가 또는 유도해서는 안 됩니다.
+\n\n4.기밀성 사용자는 영업기밀, 저작권 자료를 포함해 어떠한 형태로든 제3자에게 소프트웨어의 기밀 정보 전체 또는 일부를 공개하거나 공개를 초래하지 않도록 보호할 의무가 있습니다.
+\n\n5.지적재산권(“IP 권리”) 사용자는 소프트웨어에서 발생한 모든 IP 권리, 소유권 및 이권이 ASUS 또는 사용 허가자의 단독 재산으로 귀속됨을 확인하고 동의합니다. IP 권리의 무단 사용은 본 EULA에 위배될 뿐만아니라 저작권 및 상표법을 포함해 지식재산권법을 위반하는 것입니다.
+\n본 소프트웨어를 통해 개인정보를 제외한 모든 정보, 자료, 아이디어, 컨셉 또는 기법을 ASUS로 전송함으로써(“피드백”), 사용자는 다음의 사항을 확인하고 동의하게 됩니다. (i) 사용자의 피드백에 기밀 또는 재산 정보가 포함되어 있지 않습니다. (ii) ASUS는 사용자의 피드백과 관련하여 명시적으로 또는 암묵적으로 어떠한 종류의 기밀 보호에 대한 의무가 없습니다. (iii)ASUS는 ASUS의 단독 재량으로 전세계적으로 어떤 용도나 방식으로든 해당 피드백을 이용하거나 공개할 권한이 있습니다. (iv) 사용자의 피드백은 사용자에게 대한 ASUS의 어떠한 의무 없이 ASUS의 재산으로 귀속됩니다. (6v) 사용자는 어떤 형태로든 피드백에 대해 보상이나 배상을 받을 권리가 없습니다.
+\n\n6.기간 및 계약 해지 본 EULA는 사용자가 소프트웨어를 설치한 날로부터 효력이 발생됩니다. 사용자는 언제든지 모든 소프트웨어의 사용을 중단하고 ASUS 제품에서 소프트웨어를 제거함으로써 본 라이선스를 해지할 수 있습니다. 사용자가 본 EULA의 조항을 준수하지 않은 것으로 판단되는 경우 ASUS로부터 사전 통보 없이 사용자의 권리가 박탈될 수 있습니다.
+\n\n7.보증 부인 정보 및 책임의 제한 사용자는 본 소프트웨어가 "있는 그대로" 제공됨을 확인합니다. 본 소프트웨어의 품질 및 성능과 관련하여 서비스나 수리에 필요한 모든 관련 비용을 포함해 수반될 수 있는 전체적인 위험은 사용자가 부담합니다. 법에서 허용하는 범위까지 ASUS는 상품성, 특정 목적에의 적합성, 비침해 또는 소프트웨어의 사용이나 수행 과정에서 발생하는 모든 보증을 포함하여 본 소프트웨어 또는 EULA 하에 소프트웨어와 함께 제공되는 다른 모든 정보나 문서와 관련해서 명시적으로 혹은 암묵적으로 어떤 보증도 하지 않습니다. 일부 관할 지역에서도 우발적 또는 부수적 손해에 대한 제외 또는 제한 사항을 허용하지 않으므로 위 제한 또는 제외 사항이 적용되지 않을 수도 있습니다.
+\n본 소프트웨어의 사용이나 성능으로 인해 발생하는 전체 위험은 사용자가 부담합니다. 어떤 경우에도 ASUS와 라이선스 소유자 또는 해당 임원, 직원, 대행업체 또는 제휴사는 EULA에 위배되어 본 소프트웨어의 사용 또는 사용할 수 없으므로 인한 모든 손해(영업 이익 손실, 영업 중단 또는 정보 손실을 포함하되 이에 제한되지 않음)나 부수적, 결과적, 직접적, 간접적, 특수적, 징벌적 또는 기타 손해에 대하여 어떠한 경우에도 책임을 지지 않으며 이는 인텔이 그와 같은 손해의 가능성을 사전에 알고 있었던 경우에도 적용됩니다. 일부 관할 지역에서도 우발적 또는 부수적 손해에 대한 제외 또는 제한 사항을 허용하지 않으므로 위 제한 또는 제외 사항이 적용되지 않을 수도 있습니다.
+\n\n8.면책 사용자는 본 소프트웨어의 이용 또는 본 EULA의 위반으로 인해 손실 보전의 대상을 상대로 손해 배상 또는 소송을 초래하는 모든 청구, 손실, 책임, 손해, 수수료, 경비 또는 비용(변호사 비용, 법원 비용, 손해 배상, 정산 금액 포함)으로부터 ASUS, 해당 제휴사, 연합체, 유통업체, 라이선스 소유자, 경영진, 이사 및 직원(손실보전 대상)를 보호하고 면책하며 피해를 입지 않도록 할 의무가 있습니다.
+    </string>
+    <string name="eula_content_title">"최종사용자 라이선스 계약"</string>
+    <string description="Do not translate ASUS" maxwidth="" name="eula_description">ASUS 애플리케이션과 사용자 간의 법적 계약서</string>
+    <string maxwidth="" name="eula_title">"최종사용자 라이선스 계약"</string>
+    <string name="example">"예:"</string>
+    <string description="Dialog Button: extract file for dialog" maxwidth="-1" name="extract">압축 풀기</string>
+    <string name="facebook_app_invite">"Facebook 연락처"</string>
+    <string name="fb_request_error_permissions">"이 앱은 해당 작업을 수행할 권한이 없습니다. 앱에 로깅을 다시 시도하십시오."</string>
+    <string name="fileList_Nofiles">파일 없음</string>
+    <string description="Dialog Title: File information dialog title" maxwidth="-1" name="file_info_dialog_title">파일 정보</string>
+    <string description="Application Name shown on title" maxwidth="" name="file_manager">파일 관리자</string>
+    <string description="string indicating camera flash is not used" maxwidth="-1" name="flash_off">플래시 없음</string>
+    <string description="string indicating camera flash is fired" maxwidth="-1" name="flash_on">플래시 터짐</string>
+    <string description="click to retrieve password" maxwidth="-1" name="forget_password">"<u>비밀번호를 잊으셨습니까?</u>"</string>
+    <string name="fragment_analyzer_allfiles_used_hint">"사용한 공간:"</string>
+    <string name="fragment_analyzer_chart_free_hint">"사용 가능:"</string>
+    <string name="fragment_analyzer_chart_total_hint">"전체:"</string>
+    <string name="fragment_analyzer_chart_used_hint">"사용한 공간"</string>
+    <string name="fragment_analyzer_more_hint">"더 보기"</string>
+    <string name="google_app_invite">"Google 연락처"</string>
+    <string name="group_title_installed">"설치됨"</string>
+    <string name="group_title_not_installed">"설치되지 않음"</string>
+    <string name="group_title_others">"기타"</string>
+    <string name="group_title_recommended">"추천"</string>
+    <string name="hidden_zone_change_password">"암호 변경"</string>
+    <string name="hidden_zone_confirm_password">"PIN 코드 확인"</string>
+    <string name="hidden_zone_enter_password">"PIN 코드 입력"</string>
+    <string name="hidden_zone_fingerprint_to_unlock">"지문으로 잠금 해제"</string>
+    <string name="hidden_zone_forget_password">"암호 분실"</string>
+    <string name="hidden_zone_introduction_description">"숨겨진 캐비닛에 비공개 파일을 숨기십시오. 숨겨진 캐비닛을 열려면 PIN 코드가 필요합니다."</string>
+    <string name="hidden_zone_password_mismatch">"PIN 코드가 일치하지 않습니다."</string>
+    <string name="hidden_zone_set_password_success">"암호가 성공적으로 설정되었습니다."</string>
+    <string name="hidden_zone_setup_account">"계정 설정"</string>
+    <string name="hidden_zone_setup_password">"4자리 PIN 코드 입력"</string>
+    <string name="hidden_zone_wrong_password">"잘못된 PIN 코드"</string>
+    <string description="Can’t connect to HomeCloud." maxwidth="-1" name="homecloud_access_error">HomeCloud에 연결 실패. HomeCloud 서비스가 온라인 상태인지 확인하십시오.</string>
+    <string name="homecloud_notice_1">ASUS HomeCloud는 Windows 시스템에서 실행되는 서버 소프트웨어의 일부입니다. 간소화된 NAS는 가정용 디지털 콘텐츠 라이브러리로서 고안되었으며 현재 클라우드 스토리지 및 멀티미디어 스트리밍 서비스를 제공하고 향후 더 많은 서비스를 확장할 것으로 보입니다.</string>
+    <string name="homecloud_notice_2">지금 다운로드해서 경험해 보십시오. </string>
+    <string name="homecloud_notice_3">http://home.asuscloud.com/</string>
+    <string name="homecloud_toast_udp_unsupported">네트워크가 제한됨, 네트워크 관리자에게 문의하거나 다른 네트워크로 전환하십시오.</string>
+    <string msgid="2546819039651509323" name="hour">"1시간"</string>
+    <string msgid="2071487018566991613" name="hours">"<ns1:g id="HOURS">%s</ns1:g>시간"</string>
+    <string maxwidth="" name="httpserver_acquire_permission_message">"HTTP 파일 서버가 닫히고 작업이 중단될 수 있습니다. 계속하시겠습니까?"</string>
+    <string maxwidth="" name="httpserver_connectwifiname">"Wi-Fi AP가 연결된:"</string>
+    <string maxwidth="" name="httpserver_description">"서비스를 시작하여 모바일 장치를 PC에 연결하십시오."</string>
+    <string maxwidth="" name="httpserver_instruction">"PC에서 브라우저에 대해 다음 주소를 입력하십시오:"</string>
+    <string maxwidth="" name="httpserver_need_saf">"PC에서 외부 저장소를 관리하려면, 권한을 부여해야 합니다."</string>
+    <string maxwidth="" name="httpserver_no_network">"동일한 Wi-Fi 네트워크에 장치 연결"</string>
+    <string maxwidth="" name="httpserver_no_permission_message">"적절한 권한이 없으면 외부 저장소에 쓸 수 없습니다. 계속하시겠습니까?"</string>
+    <string maxwidth="" name="httpserver_no_permission_title">"무선 파일 전송 시작"</string>
+    <string maxwidth="" name="httpserver_start">"시작"</string>
+    <string maxwidth="" name="httpserver_stop">"중지"</string>
+    <string maxwidth="" name="httpserver_title">"PC에 무선 파일 보내기"</string>
+    <string description="Context Menu: options of context menu" maxwidth="-1" name="info">정보</string>
+    <string description="file info textview context" maxwidth="-1" name="info_aperture">"조리개: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_datetime">"촬영 날짜: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_exposure_time">"노출 시간: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_file_num">"파일 수: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_flash">"플래시: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_focal_length">"초점 거리: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_image_height">"높이: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_image_width">"너비"</string>
+    <string description="file info textview context" maxwidth="-1" name="info_image_x">" x "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_iso">"ISO: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_location">"위치: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_maker">"제조업체: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_model">"모델: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_modified">"수정 날짜: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_name">"이름: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_orientation">"방향: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_path">"경로: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_permission">"사용 권한: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_type">형식:</string>
+    <string description="file info textview context" maxwidth="-1" name="info_white_balance">"화이트 밸런스: "</string>
+    <string description="Do not translate ASUS" maxwidth="" name="inspire_asus_description">"ASUS에서 사용 데이터를 수집하여 제품과 사용자 경험을 향상시킵니다."</string>
+    <string name="inspire_asus_title">"ASUS 개선을 위한 사용자 패턴 수집"</string>
+    <string name="install">"설치"</string>
+    <string description="storage label" maxwidth="-1" name="internal_storage_title">내부 저장소</string>
+    <string description="Toast: the account is invalid" maxwidth="-1" name="invalid_account">"잘못된 계정"</string>
+    <string description="Invalid directory path" maxwidth="-1" name="invalid_directory_path">디렉터리 경로가 잘못되었습니다.</string>
+    <string name="invalid_server_id">"잘못된 서버 ID"</string>
+    <string name="invalid_xml">"잘못된 xml"</string>
+    <string name="inviteContentTitle">%1$s은(는) 귀하가 ASUS 파일 관리자를 다운로드하여 설치하도록 초대합니다.</string>
+    <string name="inviteContent_p1">ASUS 파일 관리자는 스마트 장치에서 파일을 이상적으로 관리하는 방법입니다. 이 파일 관리 앱을 사용하면 전화 메모리, microSD 카드, LAN, 심지어 클라우드에 저장된 다양한 파일을 쉽게 처리하고 정렬할 수 있습니다.</string>
+    <string name="inviteContent_p2">ASUS 파일 관리자로 파일을 효율적이고 쉽게 관리하십시오! ASUS 파일 관리자를 사용하면 장치의 메모리, microSD 카드, LAN, 그리고 당사의 ASUS HomeCloud 및 Webstorage와 Dropbox, Google Drive 또는 Microsoft OneDrive와 같은 타사 클라우드 서비스 등 파일이 저장된 것이 어디이든 사용자의 모든 파일을 쉽게 처리할 수 있습니다.</string>
+    <string name="inviteContent_p3">ASUS 파일 관리자는 재미있습니다. 지금 사용해보십시오! :D</string>
+    <string description="sticker detail page button name" maxwidth="-1" name="invite_friends">"친구 초대"</string>
+    <string name="item">항목</string>
+    <string name="items">항목</string>
+    <string name="keep">"보관"</string>
+    <string name="kk_sd_permission_warning">Android 한계 때문에 Android 4.4에서는 타사 애플리케이션으로 외장 SD 카드를 수정할 수 없습니다.</string>
+    <string name="large_files_content_hint">"대용량 파일을 찾아 사용자 권한으로 삭제하십시오."</string>
+    <string description="linked file is missing" maxwidth="-1" name="linked_file_missing">"링크로 연결된 파일이 없습니다."</string>
+    <string description="text for progress bar" maxwidth="-1" name="loading">"로드 중.."</string>
+    <string name="local">로컬</string>
+    <string description="button text for sort file by date" maxwidth="-1" name="location">"위치"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="logging_cloud_storage">로깅 중...</string>
+    <string name="login_account_miss">"Facebook 앱이 Android 계정 관리자 등록에 실패했습니다. Facebook 앱을 통해 로그아웃한 후 다시 로그인하십시오."</string>
+    <string name="login_again_later">"현재 서버를 사용할 수 없습니다. 나중에 다시 시도하십시오."</string>
+    <string description="dialog title, key in the asus ID and PW to Login account" maxwidth="-1" name="login_asus_id">"ASUS 계정 로그인"</string>
+    <string description="Toast: login account fail" name="login_fail" width="-1">로그인 실패</string>
+    <string description="login account name" maxwidth="-1" name="login_id">"계정 이름/웹 스토리지 ID"</string>
+    <string description="logout account" name="logout_account" width="-1">로그아웃</string>
+    <string name="low_storage_tutorial_description">탭하고 누른 채로 파일을 선택한 후 Google Drive로 "이동"을 선택합니다.</string>
+    <string name="low_storage_tutorial_title">파일을 Google Drive로 이동합니다.</string>
+    <string name="m_permission_dialog_message">"[설정]을 터치하여 [앱 정보] > [권한]에서 [%2$s] 권한을 켠 다음, %1$s을(를) 다시 시작하십시오."</string>
+    <string name="m_permission_dialog_positive_button">"설정"</string>
+    <string name="m_permission_setting_subtitle_files">"%1$s이(가) 장치의 파일에 액세스하기 위해 %2$s 권한이 필요합니다."</string>
+    <string name="m_permission_setting_title_cloud_storage">"클라우드 저장소에 액세스할 수 없습니다."</string>
+    <string name="m_permission_setting_title_files">"파일에 액세스할 수 없습니다."</string>
+    <string name="m_permission_setting_turn_on">"켜기"</string>
+    <string description="string indicating how camera shooting feature is used" maxwidth="-1" name="manual">수동</string>
+    <string name="market_app_error">"장치에 설치된 마켓 애플리케이션 앱에 오류가 있습니다!"</string>
+    <string description="ask user to enter email address as account name" maxwidth="-1" name="member_id_hint">"이메일 주소 입력"</string>
+    <string description="The title of a menu for General Preferences.Pressing the menu item lets user to view and edit his general settings" maxwidth="30" name="menu_general_preferences">"일반 설정"</string>
+    <string description="settings menu tutorial" maxwidth="-1" name="menu_tutorial">자습서</string>
+    <string name="messenger_send_button_text">보내기</string>
+    <string msgid="2486157997434653710" name="minute">"1분"</string>
+    <string msgid="6115838729146292526" name="minutes">"<ns1:g id="MINUTES">%s</ns1:g>분"</string>
+    <string description="Hint: move the items" maxwidth="-1" name="move">이동</string>
+    <string name="move_or_delete_msg">"지금 항목을 휴지통에 일시적으로 삭제하시겠습니까?\n(항목을 영구히 삭제하려면 아래 상자를 선택하십시오.)"</string>
+    <string name="move_to">이동 위치</string>
+    <string description="Toast: move to recycle bin fails" maxwidth="-1" name="move_to_hidden_zone_fail">"숨겨진 캐비닛으로 이동 실패"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="move_to_hidden_zone_progress">"숨겨진 캐비닛으로 이동 중..."</string>
+    <string description="Toast: move to recycle bin success" maxwidth="-1" name="move_to_hidden_zone_success_more">"선택한 파일이 숨겨진 캐비닛으로 이동되었습니다."</string>
+    <string description="Toast: move to recycle bin success. %s is variable string." maxwidth="-1" name="move_to_hidden_zone_success_one">"\"%s\"이(가) 숨겨진 캐비닛으로 이동되었습니다."</string>
+    <string description="Toast: move to recycle bin fails" maxwidth="-1" name="move_to_trash_fail">"휴지통으로 이동 실패"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="move_to_trash_progress">"휴지통으로 이동 중..."</string>
+    <string description="Toast: move to recycle bin success" maxwidth="-1" name="move_to_trash_success_more">"선택한 파일을 휴지통으로 이동했습니다."</string>
+    <string description="Toast: move to recycle bin success. %s is variable string." maxwidth="-1" name="move_to_trash_success_one">"\"%s\"을(를) 휴지통을 이동했습니다."</string>
+    <string name="msg_too_big_to_recycle">"항목이 너무 커서 휴지통에 버릴 수 없습니다.\n영구히 삭제하시겠습니까?"</string>
+    <string name="multi_drm_file_forbidden_operation">선택한 파일 일부가 DRM 보호 처리되어 있어서 이 작업은 금지됩니다.</string>
+    <string description="shortcut label" maxwidth="-1" name="my_camera_title">카메라</string>
+    <string description="shortcut label" maxwidth="-1" name="my_download_title">다운로드</string>
+    <string description="shortcut label" maxwidth="-1" name="my_music_title">음악</string>
+    <string description="shortcut label" maxwidth="-1" name="my_picture_title">이미지</string>
+    <string description="storage label" maxwidth="-1" name="my_storage_title">내 저장소</string>
+    <string description="button text for sort file by name" maxwidth="-1" name="name">이름</string>
+    <string description="button text for sort file by name ascending" maxwidth="-1" name="name_ascending">이름(z-a)</string>
+    <string description="button text for sort file by name descending" maxwidth="-1" name="name_descending">이름(a-z)</string>
+    <string name="network_cta_hint">"네트워크에 연결하려면 수락하십시오."</string>
+    <string name="network_invalid">"네트워크 연결이 잘못됨"</string>
+    <string name="network_invalid_info">"연결이 잘못되었습니다. 연결을 다시 확인하십시오."</string>
+    <string name="network_not_available">"네트워크 연결에 실패했습니다."</string>
+    <string description="Can’t connect to networkpalce" maxwidth="-1" name="networkplace_access_error">"연결에 실패했습니다. 서버가 온라인 상태인지 확인하십시오."</string>
+    <string name="networkplace_storage_title">"네트워크 위치"</string>
+    <string description="Dialog Title: create new folder" maxwidth="" name="new_folder_dialog">새 폴더 만들기</string>
+    <string description="Toast: new folder fails" maxwidth="-1" name="new_folder_fail">새 폴더 만들기 실패.</string>
+    <string description="Toast: new folder success. %s is variable string." maxwidth="-1" name="new_folder_success">\"%s\" 폴더가 생성되었습니다.</string>
+    <string maxwidth="" name="news_1"><b>사용자 지정 가능 홈 패널</b>: 이제 다른 범주와 순서로 홈 패널을 사용자 지정할 수 있습니다.</string>
+    <string maxwidth="" name="news_2"><b>즐겨찾기 picker</b>: 즐겨찾기 범주에서 직접 즐겨찾기 폴더를 추가하십시오.</string>
+    <string maxwidth="" name="news_3"><b>파일 관리자 위젯</b>: 시작 관리자에서 폴더 바로가기를 만드십시오.</string>
+    <string maxwidth="" name="news_mark1">"★  "</string>
+    <string maxwidth="" name="news_subtitle">"다음은 놓쳐서는 안 될 주요한 업데이트입니다."</string>
+    <string maxwidth="" name="news_title">"새로운 기능"</string>
+    <string maxwidth="" name="news_v21"><b>PC에/로부터 무선 파일 보내기/받기</b>: PC에/로부터 파일을 보내고 받거나 관리함</string>
+    <string maxwidth="" name="news_v23">"성능 개선 및 버그 수정"</string>
+    <string maxwidth="" name="news_v31">"저장소 분석기를 이용하면 저장소 공간을 차지하는 파일 유형을 확인할 수 있습니다."</string>
+    <string maxwidth="" name="news_v32">"새롭게 향상된 앱 범주"</string>
+    <string name="news_v41">"숨겨진 캐비닛에 비공개 파일 숨기기"</string>
+    <string name="news_v42">"휴지통에서 삭제된 파일 복구"</string>
+    <string name="news_v43">"저장소 분석기에서 중복 파일 제거"</string>
+    <string name="news_v44">"새 디스플레이 기능 - 어두운 모드"</string>
+    <string name="news_v45">"향상된 성능"</string>
+    <string name="news_v46">"버그 수정"</string>
+    <string name="newversion_description">"파일 관리자의 업데이트 버전을 지금 사용할 수 있습니다. 지금 업데이트하시겠습니까?"</string>
+    <string name="newversion_title">"새 버전"</string>
+    <string name="next">다음</string>
+    <string description="Dialog Button: no for dialog" maxwidth="" name="no">아니오</string>
+    <string name="no_device">"장치가 없음"</string>
+    <string name="no_items">"항목이 없음"</string>
+    <string name="no_network">"네트워크 연결이 없음"</string>
+    <string description="The description to inform users when there is no internet access" maxwidth="-1" name="no_network_connection_message">"연결을 확인하고 다시 시도하십시오."</string>
+    <string name="no_network_info">"이 애플리케이션에 액세스하는 데 인터넷 연결이 필요합니다. 설정에서 모바일 네트워크 또는 Wi-Fi를 활성화하십시오."</string>
+    <string name="no_password">"비밀번호를 입력하십시오."</string>
+    <string name="no_right">"로그인할 수 있는 권한이 계정에 없습니다."</string>
+    <string name="no_share_folder">이 장치에 공유된 파일 없음</string>
+    <string description="Toast: No space to copy file and left on device" maxwidth="-1" name="no_space_fail">저장 공간이 부족합니다.</string>
+    <string name="no_user_exist">"사용자 이름이 존재하지 않습니다."</string>
+    <string name="no_username">"먼저 사용자 이름을 입력하십시오."</string>
+    <string name="notification_gdrive_redeem_content">"Google Drive에서 지금 받아보세요. "</string>
+    <string name="notification_gdrive_redeem_title">"100GB의 무료 저장 공간!"</string>
+    <string name="occur_error_do_relogin">"%s에 다시 로그인"</string>
+    <string description="Dialog Button: ok for dialog" maxwidth="" name="ok">확인</string>
+    <string name="onedrive_account_only_one_alert">"하나의 ASUS 계정용 OneDrive만 추가할 수 있습니다. 새 계정으로 교체하기 전에 현재 계정을 삭제해야 합니다."</string>
+    <string name="open">열기</string>
+    <string description="Toast: open file fails" maxwidth="-1" name="open_fail">파일 열기 실패.</string>
+    <string maxwidth="" name="open_source_license_description">"오픈 소스 소프트웨어에 대한 라이센스 고지사항"</string>
+    <string maxwidth="" name="open_source_license_title">"오픈소스 라이센스"</string>
+    <string name="othersforum_site_url">http://www.asus.com/Terms_of_Use_Notice_Privacy_Policy/OthersForum_Site/</string>
+    <string name="password">비밀번호</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="paste">붙여넣기</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="paste_exist_apply">모두 적용</string>
+    <string description="Dialog Title: paste exist dialog title" maxwidth="" name="paste_exist_dialog">파일 이름 중복</string>
+    <string description="Dialog Content: text in dialog. %s is variable string." maxwidth="" name="paste_exist_file">\"%s\" 파일이 이미 존재합니다.</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="paste_exist_replace">새 파일로 바꾸기 하시겠습니까?</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="paste_exist_to">바꾸기</string>
+    <string description="Toast: paste fails" maxwidth="-1" name="paste_fail">파일 붙여넣기 실패.</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="paste_progress">붙여넣기 중...</string>
+    <string name="paste_progress_title">다른 복사 작업이 진행 중입니다...</string>
+    <string description="Toast: paste success. %s is variable string." maxwidth="-1" name="paste_success">파일이 \"%s\" 에 추가되었습니다.</string>
+    <string name="permanently_delete">"영구히 삭제"</string>
+    <string description="Toast: operation permission deny" maxwidth="-1" name="permission_deny">사용 권한이 없습니다.</string>
+    <string name="permission_dialog_title">"애플리케이션 권한"</string>
+    <string name="permission_essential">"권한이 필요합니다. 설정으로 이동하여 권한을 활성화하십시오!"</string>
+    <string name="permission_reason_contact">"클라우드 스토리지에 로그인하려면 파일 관리자가 계정 정보에 액세스할 수 있어야 합니다."</string>
+    <string name="permission_reason_storage">"제대로 작동하려면 파일 관리자가 장치의 저장소에 액세스할 수 있어야 합니다."</string>
+    <string description="Toast: You may not select more than %s photos." maxwidth="-1" name="photo_selection_limit_number_toast">최대 %s장의 사진 선택</string>
+    <string description="This is the title of the screen for setting user preferences." maxwidth="-1" name="preferences_title">"설정"</string>
+    <string name="previous_folder">"이전 폴더"</string>
+    <string maxwidth="" name="privacy_policy">"개인정보 보호정책"</string>
+    <string name="privacy_policy_url">http://www.asus.com/us/Terms_of_Use_Notice_Privacy_Policy/Privacy_Policy/</string>
+    <string name="processing_picture">"사진 처리 중"</string>
+    <string name="processing_video">"비디오 처리 중"</string>
+    <string name="progressactivity_title">Transmission Manager</string>
+    <string name="promote_darkmode_message">"%s에서 기본 설정 변경"</string>
+    <string name="promote_darkmode_title">"새 디스플레이 기능 - 어두운 모드"</string>
+    <string name="promotion_notification_content">"\"무선 파일 전송\"을 시도해야 합니다!"</string>
+    <string name="promotion_notification_title">"파일을 전송하기 위해 USB 케이블을 계속 사용하시겠습니까?"</string>
+    <string name="publish">"게시"</string>
+    <string name="pullfreshlistview_footer_hint_normal">추가 로드</string>
+    <string name="pullfreshlistview_footer_hint_ready">해제하여 추가 로드</string>
+    <string name="pullfreshlistview_header_hint_loading">새로 고치는 중...</string>
+    <string name="pullfreshlistview_header_hint_normal">아래로 끌어내림</string>
+    <string name="pullfreshlistview_header_hint_ready">해제하여 새로 고침</string>
+    <string name="pullfreshlistview_header_last_time">마지막 새로 고친 시간:</string>
+    <string name="rate_later">"나중에"</string>
+    <string name="rate_now">"지금 평가하기"</string>
+    <string description="rate us" maxwidth="-1" name="rate_us">평가하기</string>
+    <string name="rating_dialog_message_v3_1">"%s 사용을 좋아하세요? Google Play에서 당사을 평가하여 격려해주세요!"</string>
+    <string name="rating_dialog_message_v3_2">"제안 사항과 의견은 %s을(를) 통해 당사에 서면으로 보내주십시오."</string>
+    <string name="recent_files_content_hint">"최근 파일을 찾아 사용자 권한으로 삭제하십시오."</string>
+    <string description="shortcut title: recently used files" name="recently_used" width="-1">최근</string>
+    <string name="recommend_clean_master_msg">"세계에서 가장 신뢰할 수 있는 Android Optimizer, Speed Booster, Battery Saver 및 Free Anti-Virus 앱. \n지금 다운로드하시겠습니까?"</string>
+    <string name="recommend_clean_master_title">"앱 권장 사항"</string>
+    <string name="recommend_scan_qr_code">"이 QR 코드를 스캔하여 친구에게\n 이 앱을 다운로드하도록 알립니다."</string>
+    <string description="recruit beta user" maxwidth="-1" name="recruit_beta_user">미리 보기 불러오기 버전</string>
+    <string name="recycle_bin_content_hint">"삭제된 모든 파일과 폴더가 포함되어 있습니다."</string>
+    <string description="dialog title, key in the asus ID and PW to Login account" maxwidth="-1" name="regist_asus_id">"ASUS 계정을 만드는 중"</string>
+    <string description="ask user to enter email address to registe New Account" name="registe_id">계정 이름</string>
+    <string description="ask user to enter new password" name="registe_password">8~25개의 문자를 입력하십시오.</string>
+    <string description="sign up registe action" name="registe_sign_up">등록</string>
+    <string description="network is unavailable, please try again" maxwidth="-1" name="remote_connected_error_hint">네트워크를 사용할 수 없습니다. 다시 시도하십시오.</string>
+    <string description="remote storage label" maxwidth="-1" name="remote_storage_title">원격 저장소</string>
+    <string name="remove_favorite">즐겨찾기에서 제거</string>
+    <string name="remove_favorite_notice_more">즐겨찾기 폴더에서 %d개의 항목을 제거하시겠습니까?</string>
+    <string name="remove_favorite_notice_one">즐겨찾기 폴더에서 \"%s\"을(를) 제거하시겠습니까?</string>
+    <string name="remove_favorite_success">성공적으로 제거</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="rename">이름 변경</string>
+    <string description="Dialog Title: rename dialog title" maxwidth="" name="rename_dialog">이름 변경</string>
+    <string description="Toast: rename fails" maxwidth="-1" name="rename_fail">파일 이름 변경 실패</string>
+    <string name="rename_favorite_folder">즐겨찾기 폴더 이름 바꾸기</string>
+    <string name="rename_favorite_notice">즐겨찾기 폴더에 이름이 동일한 폴더가 이미 존재합니다. 이름을 바꾸시겠습니까?</string>
+    <string name="rename_favorite_success">성공적으로 이름을 바꾸고 즐겨찾기에 저장</string>
+    <string description="Toast: rename success" maxwidth="-1" name="rename_success">파일 이름 바꾸기 성공.</string>
+    <string description="renaming file" name="renaming_file" width="-1">이름 바꾸기</string>
+    <string name="replace">"교체"</string>
+    <string description="Toast: restore fails" maxwidth="-1" name="restore_fail">"복원 실패"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="restore_progress">"복원 중..."</string>
+    <string description="Toast: restore success" maxwidth="-1" name="restore_success_more">"선택한 파일이 복원되었습니다."</string>
+    <string description="Toast: restore success. %s is variable string." maxwidth="-1" name="restore_success_one">"\"%s\"이(가) 복원되었습니다."</string>
+    <string name="retention_notification_large_file">"대형 파일을 %1$s개 추가했습니다. 지금 보십시오."</string>
+    <string name="retention_notification_recent_file">"최신 파일들이 %1$s의 공간을 사용합니다. 지금 보십시오."</string>
+    <string name="saf_permission_tutorial_content">ASUS File Manager가 SD 카드 작동을 위한 액세스를 요청합니다. 액세스를 허용하시겠습니까?</string>
+    <string name="saf_permission_tutorial_content_v2">"%s 액세스 권한을 부여하려면 특정 단계를 수행해야 합니다."</string>
+    <string name="saf_permission_tutorial_dialog">"SD 카드 액세스 권한을 부여하는 절차를 수행해야 합니다. 계속하시겠습니까?"</string>
+    <string name="saf_permission_tutorial_title">SD 카드 작동을 위한 액세스 요청</string>
+    <string name="saf_tutorial_step_one">메뉴 아이콘을 탭한 후 SD 카드 표시를 탭합니다.</string>
+    <string name="saf_tutorial_step_three">SD 카드 선택을 탭하여 ASUS 파일 관리자에 대한 액세스를 허용합니다.</string>
+    <string name="saf_tutorial_step_three_v2">"ASUS 파일 관리자에 액세스 권한을 부여하려면 %s을(를) 탭해서 선택하십시오."</string>
+    <string name="saf_tutorial_step_two">화면의 왼쪽 가장자리를 살짝 밀어 서랍을 표시한 후 SD 카드를 탭합니다.</string>
+    <string name="saf_tutorial_step_two_v2">"드로어를 표시하려면 화면의 왼쪽에서 스와이프한 다음, %s을(를) 탭하십시오."</string>
+    <string name="saf_tutorial_title">SD 카드를 사용할 수 있는 권한</string>
+    <string name="saf_tutorial_title_v2">"%s 작동 권한"</string>
+    <string description="account config dialog remind message" maxwidth="-1" name="samba_client_config_check">사용자 이름과 비밀번호를 기억했다 다음 번에 곧장 연결하십시오.</string>
+    <string name="samba_input_error">사용자 이름 또는 비밀번호는 필수 항목입니다!</string>
+    <string name="samba_login_error">입력한 사용자 이름 또는 비밀번호가 잘못되었습니다.</string>
+    <string name="samba_storage_add_title">"네트워크 위치"</string>
+    <string name="samba_storage_title">"SAMBA"</string>
+    <string name="scan_qr_code">"QR 코드 스캔"</string>
+    <string description="rate now" maxwidth="" name="scroll_up_toast">위로 스크롤하여 평가하십시오.</string>
+    <string maxwidth="-1" name="sd_label">ASUS용 Sky 드라이버</string>
+    <string name="search_action">"검색"</string>
+    <string description="search hint message" maxwidth="-1" name="search_hint">파일 이름 입력</string>
+    <string description="cutstom action bar view title for search" maxwidth="-1" name="search_label">파일 검색</string>
+    <string description="search dialog message" maxwidth="-1" name="search_progress">검색 중...</string>
+    <string description=" text for search result" formatted="false" maxwidth="-1" name="search_result_title">%s에서 %s을(를) 검색 중: %d개의 파일이 검색됨</string>
+    <string name="select_album">앨범 선택</string>
+    <string description="Menu Option: select all checkbox" maxwidth="" name="select_all">전체 선택</string>
+    <string description="Title: select the folder" maxwidth="-1" name="select_folder">폴더 선택</string>
+    <string name="select_folder_by_ok_button">"이 폴더를 선택하려면 %1$s을(를) 누르십시오."</string>
+    <string name="select_photo">사진 선택</string>
+    <string name="server">"서버:"</string>
+    <string name="server_error">"서버 오류"</string>
+    <string name="server_hint">"172.0.0.1/ShareFolder"</string>
+    <string name="server_title">서버</string>
+    <string maxwidth="-1" name="service_not_available_in_your_country">"해당 국가에서는 이 항목을 사용할 수 없습니다."</string>
+    <string name="set_password_title">"PIN 코드 만들기"</string>
+    <string name="set_ring">"링으로 설정"</string>
+    <string name="setting_display_group">"디스플레이"</string>
+    <string name="setting_notification_group">"알림"</string>
+    <string name="setting_notification_large_files">"대용량 파일 알림"</string>
+    <string name="setting_notification_recent_files">"최근 파일 알림"</string>
+    <string name="setting_notification_wireless_transfer">"무선 전송 알림"</string>
+    <string name="setting_view_group">"설정 보기"</string>
+    <string name="setting_view_hide_files">"시스템 파일 숨기기"</string>
+    <string name="settings">"설정"</string>
+    <string description="This is the title of cache size" maxwidth="-1" name="settings_cache_size_title">"캐시 크기"</string>
+    <string description="Remove all cache documents" maxwidth="-1" name="settings_clear_cache_info">"모든 캐시 문서 제거"</string>
+    <string description="Clear the cache" maxwidth="-1" name="settings_clear_cache_title">"캐시 삭제"</string>
+    <string description="This is the title of clearing search history action for setting user preferences." maxwidth="-1" name="settings_clear_search_history">"검색 기록 제거"</string>
+    <string name="settings_darkmode_message">"어두운 모드 적용"</string>
+    <string name="settings_description">"로컬 폴더 및 파일"</string>
+    <string description="This is the title of documents cache" maxwidth="-1" name="settings_documents_cache">"문서 캐시"</string>
+    <string description="recommend text" maxwidth="" name="settings_encourage_us_detail">%s 사용이 만족스러우시면 Play Store에서 별 5개로 평점해 주세요. 제품을 개선하는데 많은 도움이 됩니다!</string>
+    <string description="This is the title of hiding system files action for setting user preferences." maxwidth="-1" name="settings_hide_system_files">"시스템 파일 숨기기"</string>
+    <string description="This is the title of moving to the trash can." maxwidth="-1" name="settings_moved_to_the_trash_can">"휴지통으로 이동됨"</string>
+    <string description="Remove account" maxwidth="-1" name="settings_remove_account">"계정 제거"</string>
+    <string description="Set the cache size to %s" maxwidth="-1" name="settings_set_cache_size">"캐시 크기가 \"%s\"(으)로 설정되었습니다."</string>
+    <string description="This is the title of space used for setting user preferences." maxwidth="-1" name="settings_space_used">"사용한 공간"</string>
+    <string description="This is the title of trash can information for setting user preferences." maxwidth="-1" name="settings_trash_can">"휴지통"</string>
+    <string description="This is the title of user name" maxwidth="-1" name="settings_user_name">"사용자 이름"</string>
+    <string name="setup">"설정"</string>
+    <string name="setup_account_description">"PIN 코드를 확인하려면 이메일 계정을 설정하십시오."</string>
+    <string name="setup_account_no_internet_connection">"인터넷 연결 없음"</string>
+    <string name="setup_account_skip">"건너뛰기"</string>
+    <string name="setup_account_title">"PIN 코드 확인"</string>
+    <string name="setup_fingerprint_message">"지문으로 잠금 해제를 활성화하시겠습니까? 숨겨진 캐비닛은 지문 인식을 지원합니다. 시작하려면 설정에서 지문을 스캔하십시오."</string>
+    <string name="setup_my_digital_code">"PIN 코드 설정"</string>
+    <string name="share_more">"기타"</string>
+    <string name="share_with_friend">"이 앱을 친구와 공유"</string>
+    <string description="Context Menu: options of context menu: share folder via Wi-Fi Direct" maxwidth="" name="shared_folder">Wi-Fi Direct를 통해 공유</string>
+    <string description="shortcit title" maxwidth="-1" name="short_cuts_title">바로 가기</string>
+    <string name="shortcut_hint">"범주 또는 폴더를 길게 눌러 시작 관리자에 바로 가기를 만듭니다."</string>
+    <string description="check if user want to show password" name="show_passwd">비밀번호 표시</string>
+    <string description="show when sign in failed" maxwidth="-1" name="signin_failed">"로그인에 실패했습니다."</string>
+    <string description="signout account" name="signout_account" width="-1">연결 끊음</string>
+    <string name="single_drm_file_forbidden_operation">DRM 보호로 인해 이 작업은 금지됩니다.</string>
+    <string description="button text for sort file by size" maxwidth="-1" name="size">크기</string>
+    <string description="button text for sort file by size ascending" maxwidth="-1" name="size_ascending">크기(대-소)</string>
+    <string description="button text for sort file by size descending" maxwidth="-1" name="size_descending">크기(소-대)</string>
+    <string name="ssl_err_msg_info">"서버에 보안 연결을 할 수 없습니다. 계속하시겠습니까?"</string>
+    <string name="ssl_err_msg_title">"SSL 연결 오류"</string>
+    <string description="shortcut title: my favorite files" name="starred" width="-1">"별표"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="storage_type_cloud">클라우드 저장소</string>
+    <string name="storage_type_cloud_att">"네트워크 스토리지"</string>
+    <string name="storage_type_local">로컬 저장소</string>
+    <string name="storage_type_shortcut">"바로가기"</string>
+    <string name="storagetype_add_account">계정 추가</string>
+    <string name="tap_to_exit">다시 탭핑하면 종료됩니다.</string>
+    <string name="target_directory_is_child_of_source">"대상 디렉토리가 소스 디렉토리의 하위 항목이므로 작업을 완료할 수 없습니다."</string>
+    <string description="Toast: target file exists" maxwidth="-1" name="target_exist">대상 파일이 존재합니다.</string>
+    <string description="Toast: target folder exists. %s is variable string." maxwidth="-1" name="target_folder_exist">\"%s\" 폴더가 이미 존재합니다.</string>
+    <string description="" maxwidth="" name="tell_friend">친구에게 알리기</string>
+    <string maxwidth="" name="terms_of_service">"이용 약관 고지 사항"</string>
+    <string maxwidth="" name="terms_of_service_url">http://www.asus.com/us/Terms_of_Use_Notice_Privacy_Policy/Official-Site/</string>
+    <string description="title" maxwidth="-1" name="title">법적 정보:</string>
+    <string name="toast_auto_lock_notify_message">"장치가 잠겼을 때 숨겨진 캐비닛 잠그기"</string>
+    <string description="Toast: The item(s) has been copied completely" maxwidth="-1" name="toast_drag_copied_items">항목이 성공적으로 복사되었습니다.</string>
+    <string description="Toast: The item(s) has been moved completely" maxwidth="-1" name="toast_drag_moved_items">항목이 성공적으로 이동되었습니다.</string>
+    <string description="Toast: Sorry, copy files complete but cut fail" maxwidth="-1" name="toast_warning_copy_comple_cut_fail">"죄송합니다. 파일 복사가 완료되었으나 이전 파일 삭제가 실패했습니다."</string>
+    <string description="Toast: Sorry, copy folders has not been supported" maxwidth="-1" name="toast_warning_copy_folders">"죄송합니다. 폴더 복사가 지원되지 않습니다."</string>
+    <string maxwidth="35" name="toolbar_item_title_encourage_us">격려해주세요.</string>
+    <string name="tools_clean_master">"정크 메일 지우기"</string>
+    <string name="tools_file_transfer">"PC 파일 전송"</string>
+    <string name="tools_hidden_zone">"숨겨진 캐비닛"</string>
+    <string name="tools_recycle_bin">"휴지통"</string>
+    <string name="tools_storage_analyzer">"저장소 분석기"</string>
+    <string name="tools_tip_animation">"도구의 성능을 높일 수 있습니다!"</string>
+    <string name="tools_zenui_instant_update">"즉시 업데이트"</string>
+    <string description="shortcut title: trash can" name="trash_can" width="-1">"휴지통"</string>
+    <string maxwidth="-1" name="trash_info_deleted">"삭제 날짜: "</string>
+    <string maxwidth="-1" name="trash_info_path">"원본 경로: "</string>
+    <string description="label for trending searches" maxwidth="-1" name="trending_searches">"트렌딩 검색"</string>
+    <string name="tutorial_analyzer_content">"저장소 분석기를 통해 어떤 파일이 디스크 공간을 차지하고 있는지 확인할 수 있습니다."</string>
+    <string name="tutorial_category_content">"ASUS 파일 관리자의 범주 보기를 사용하면 전보다 훨씬 쉽게 파일을 검색할 수 있습니다."</string>
+    <string name="tutorial_category_title">"범주 보기"</string>
+    <string name="tutorial_cloud_content">"스마트폰, PC 및 클라우드 저장소에서 파일을 액세스할 수 있습니다."</string>
+    <string name="tutorial_cloud_title">"클라우드 저장소"</string>
+    <string name="tutorial_done">완료</string>
+    <string name="tutorial_page_content_long_press">탭하고 눌러 항목을 선택한 후 \"메뉴\" 아이콘을 탭하여 다른 동작 옵션을 표시하십시오.</string>
+    <string name="tutorial_page_four_content">자주 사용하는 폴더를 즐겨찾기로 설정하면 폴더를 빠르고 쉽게 액세스할 수 있습니다.</string>
+    <string name="tutorial_page_four_title">즐겨찾기</string>
+    <string name="tutorial_page_one_content">ASUS 파일 관리자로 내부, 외부, LAN 또는 클라우드 스토리지에 저장된 파일을 쉽게 관리할 수 있습니다.</string>
+    <string name="tutorial_page_one_title">ASUS 파일 관리자</string>
+    <string name="tutorial_page_three_content">항목을 오른쪽으로 살짝 밀어 즐겨찾기에 추가, 이름 바꾸기, 이동 위치, 복사 위치 및 기타 파일 관리 옵션과 같은 동작을 표시할 수 있습니다.</string>
+    <string name="tutorial_page_three_title">오른쪽으로 살짝 밀기 동작 목록</string>
+    <string name="tutorial_page_title_long_press">동작 메뉴 표시</string>
+    <string name="tutorial_page_two_content">로컬 저장소에 있는 파일을 빠르게 액세스할 수 있는, 사용법이 간편한 범주.</string>
+    <string name="tutorial_page_two_title">홈 페이지</string>
+    <string name="tutorial_skip">건너뛰기</string>
+    <string description="button text for sort file by type" maxwidth="-1" name="type">형식</string>
+    <string description="document type" maxwidth="-1" name="type_abu">"Asus 앱 백업"</string>
+    <string description="document type" maxwidth="-1" name="type_apk">"Android 앱"</string>
+    <string description="document type" maxwidth="-1" name="type_audio">"오디오"</string>
+    <string description="document type" maxwidth="-1" name="type_book">"전자도서"</string>
+    <string name="type_dialog_audio">오디오</string>
+    <string name="type_dialog_image">이미지</string>
+    <string name="type_dialog_text">텍스트</string>
+    <string name="type_dialog_title">열기</string>
+    <string name="type_dialog_video">비디오</string>
+    <string description="document type" maxwidth="-1" name="type_directory">"디렉토리"</string>
+    <string description="document type" maxwidth="-1" name="type_document">"문서"</string>
+    <string description="document type" maxwidth="-1" name="type_file">"파일"</string>
+    <string description="document type" maxwidth="-1" name="type_image">"이미지"</string>
+    <string description="document type" maxwidth="-1" name="type_playlist">"재생목록"</string>
+    <string description="document type" maxwidth="-1" name="type_rar">"RAR"</string>
+    <string description="document type" maxwidth="-1" name="type_video">"동영상"</string>
+    <string description="document type" maxwidth="-1" name="type_zip">"압축"</string>
+    <string name="ud_sdk_all_app_update">"모든 앱이 현재 버전을 실행 중입니다."</string>
+    <string name="ud_sdk_asus_app_slogan">유용한 앱</string>
+    <string name="ud_sdk_downloads">다운로드</string>
+    <string name="ud_sdk_free_download">무료 다운로드</string>
+    <string name="ud_sdk_important_remind_text">"중요 사항"</string>
+    <string name="ud_sdk_install">설치</string>
+    <string name="ud_sdk_more_zen_family">ZenUI 앱 추가 검색</string>
+    <string name="ud_sdk_no_network_connection_content">데이터를 업데이트할 수 없습니다. 네트워크 설정을 확인하십시오.</string>
+    <string name="ud_sdk_no_network_connection_title">네트워크 연결 없음</string>
+    <string name="ud_sdk_open">열기</string>
+    <string name="ud_sdk_update">업데이트</string>
+    <string maxwidth="-1" name="ud_sdk_update_sdk">ZenUI 제품군</string>
+    <string maxwidth="-1" name="ud_sdk_update_sdk_asus">ZenUI 즉시 업데이트</string>
+    <string name="ud_sdk_wifi_settings">Wi-Fi 설정</string>
+    <string name="uf_sdk_already_give_5star">"이미 별 5개 평점을 매겼습니다."</string>
+    <string description="%d is a number, don&apos;t translate" name="uf_sdk_article_read_count">"%d개 보기"</string>
+    <string name="uf_sdk_attachment_format_warning">"잘못된 파일 형식. 이미지 파일만 첨부할 수 있습니다."</string>
+    <string name="uf_sdk_attachment_total_size">"합계"</string>
+    <string name="uf_sdk_attachment_warning">"첨부 파일 크기가 허용 한계를 초과했습니다."</string>
+    <string maxwidth="-1" name="uf_sdk_cancel_btn_content">"취소"</string>
+    <string name="uf_sdk_choosertitle_sharevia">"공유에 사용할 애플리케이션:"</string>
+    <string name="uf_sdk_connection_error_msg">"연결이 서버에 의해 중단되었습니다. 나중에 다시 시도하십시오."</string>
+    <string name="uf_sdk_connection_error_title">"연결 오류"</string>
+    <string name="uf_sdk_discard">"취소"</string>
+    <string name="uf_sdk_email_illigal">"이메일 주소가 이미 사용 중입니다."</string>
+    <string maxwidth="-1" name="uf_sdk_empty_notification">"비어 있음 :)"</string>
+    <string name="uf_sdk_faq">"FAQ"</string>
+    <string name="uf_sdk_feedback_and_help">"피드백 &amp; 도움말"</string>
+    <string name="uf_sdk_forum_description">"ASUS 사용자와의 대화에 참여하여 해결책을 찾고 공유하십시오."</string>
+    <string maxwidth="-1" name="uf_sdk_grant_permission_title">"에 대한 권한 부여"</string>
+    <string name="uf_sdk_help">"도움말"</string>
+    <string name="uf_sdk_instant_answer_question">"이 질문이 도움이 됩니까?"</string>
+    <string name="uf_sdk_like">"좋아요"</string>
+    <string maxwidth="-1" name="uf_sdk_message">"알림"</string>
+    <string name="uf_sdk_msg_bad_email_format">"이메일 주소가 유효하지 않습니다. 다시 시도하십시오."</string>
+    <string name="uf_sdk_msg_confirm_discard_topic">"초안은 저장되지 않습니다. 그래도 삭제하시겠습니까?"</string>
+    <string name="uf_sdk_msg_confirm_discard_topic_title">"게시를 삭제하시겠습니까?"</string>
+    <string name="uf_sdk_msg_subscribe">"주제 상태 알림 구독은 이메일로 전달됩니다."</string>
+    <string name="uf_sdk_msg_subscribe_success">"구독 완료"</string>
+    <string name="uf_sdk_msg_ticket_created">"귀하의 의견이 ASUS에 전송되었습니다."</string>
+    <string name="uf_sdk_msg_topic_created">"게시되었습니다."</string>
+    <string name="uf_sdk_msg_unsubscribe">"구독 취소 완료"</string>
+    <string name="uf_sdk_name_hint">"이름 입력"</string>
+    <string name="uf_sdk_name_illigal">"사용자 이름이 이미 사용 중입니다."</string>
+    <string name="uf_sdk_network_error">"인터넷에 연결되지 않았습니다. 네트워크 설정을 확인하십시오."</string>
+    <string description="zenui news" maxwidth="" name="uf_sdk_news">"소식"</string>
+    <string name="uf_sdk_no_network_connection_content">"데이터를 업데이트할 수 없습니다. 네트워크 설정을 확인하십시오. "</string>
+    <string name="uf_sdk_no_network_connection_title">"네트워크 연결 없음"</string>
+    <string name="uf_sdk_nothing_found">"아무 것도 없음"</string>
+    <string name="uf_sdk_notice">"알림"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category1">"공지 사항"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category2">"자습서 및 팁"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category3">"프로모션"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category4">"이벤트"</string>
+    <string name="uf_sdk_publish_an_topic">"새 주제 게시하기"</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_rate_now">"지금 평가하기"</string>
+    <string description="%s is AP name, don&apos;t translate" maxWidth="" name="uf_sdk_rate_us_detail">"%s을(를) 즐겨 사용하는 경우 Play Store에서 당사를 별 5개로 평가해주세요."</string>
+    <string maxWidth="" name="uf_sdk_rate_us_detail_new">"별 5개 평가로 성원해주시면 당사가 작업을 계속하는 데 격려가 됩니다!"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_rating">"별 5개 평가"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title">"평가해주세요!"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title_new">"격려하기!"</string>
+    <string description="Menu item for userFeedback sdk" maxwidth="-1" name="uf_sdk_report_bug">버그 보고</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_scroll_up_toast">"위로 스크롤하여 평가하십시오."</string>
+    <string name="uf_sdk_search_hint">"검색"</string>
+    <string name="uf_sdk_select_common_bug">"공통 버그 선택"</string>
+    <string name="uf_sdk_send_feedback">"의견 보내기"</string>
+    <string name="uf_sdk_send_feedback_help">"의견과 이메일 주소가 ASUS로 전송됩니다. 서비스 팀이 이메일로 연락합니다."</string>
+    <string maxwidth="-1" name="uf_sdk_setting_btn_content">"설정"</string>
+    <string description="recommend title" maxwidth="" name="uf_sdk_settings_encourage_us_title">"격려하기"</string>
+    <string maxwidth="-1" name="uf_sdk_storage_permission_description">"이 기능은 멀티미디어 파일에 액세스하기 위해 저장소 권한을 획득해야 합니다. \n\n이 기능을 활성화하려면 설정 버튼을 탭해서 의 설정 페이지로 들어간 다음, \"앱 정보\" > \"권한\"에서 권한을 부여하도록 설정하십시오.\n"</string>
+    <string name="uf_sdk_submit_topic">"게시하기"</string>
+    <string name="uf_sdk_subscribe_dialog_title">"이 주제 구독"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_answered">"회신함"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_completed">"완료됨"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_declined">"거부됨"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_implemented">"구현됨"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_planned">"계획됨"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_under_review">"검토 중"</string>
+    <string name="uf_sdk_thanks_for_your_feedback">"의견을 주셔서 감사합니다!"</string>
+    <string description="%s is a application name, don&apos;t translate" name="uf_sdk_ticket_hint">"%s에 대한 의견 입력"</string>
+    <string name="uf_sdk_title_topic">"주제"</string>
+    <string name="uf_sdk_topic">"주제"</string>
+    <string name="uf_sdk_topic_description_heading">"설명"</string>
+    <string name="uf_sdk_topic_description_hint">"주제를 자세히 설명해 주세요"</string>
+    <string name="uf_sdk_topic_filter">"주제"</string>
+    <string name="uf_sdk_topic_form_help">"포럼에 주제를 게시하면 다른 사람들이 구독할 수 있고 댓글을 달 수 있습니다. ASUS 개발팀이 주제에 답을 하면 이메일로 통지합니다."</string>
+    <string name="uf_sdk_topic_form_title">"새 주제 게시하기"</string>
+    <string name="uf_sdk_topic_text_heading">"포럼"</string>
+    <string name="uf_sdk_topic_text_hint">"주제 제목을 입력하십시오"</string>
+    <string name="uf_sdk_topic_title">"제목"</string>
+    <string name="uf_sdk_translation_10117605">"번역 문제"</string>
+    <string name="uf_sdk_translation_117562">"피드백 종류"</string>
+    <string name="uf_sdk_translation_2529543">"버그 보고서"</string>
+    <string name="uf_sdk_translation_2529544">"기타"</string>
+    <string name="uf_sdk_translation_2530478">"제안"</string>
+    <string name="uf_sdk_unhelpful_article_message_question">"ASUS 개발팀에 의견을 보내시겠습니까?"</string>
+    <string name="uf_sdk_user_forum">"사용자 포럼"</string>
+    <string name="uf_sdk_warning">"경고"</string>
+    <string name="uf_sdk_wifi_settings">"Wi-Fi 설정"</string>
+    <string name="uf_sdk_wlan_settings">"WLAN 설정"</string>
+    <string name="uf_sdk_write_your_feedback">"여기에 의견을 입력하십시오."</string>
+    <string name="uf_sdk_your_draft_will_be_discarded">"임시 보관함이 삭제됩니다."</string>
+    <string description="description for empty search result" maxwidth="-1" name="unable_to_find_artlcles">"\u0022%s\u0022 관련 문서를 찾을 수 없습니다."</string>
+    <string description="string indicating the length units in milli-meters" maxwidth="-1" name="unit_mm">mm</string>
+    <string description="Context Menu: options of context menu: unshare folder" maxwidth="-1" name="unshared_folder">공유하지 않음</string>
+    <string name="unsupported_area">"이 지역은 지원되지 않습니다."</string>
+    <string description="toast message: extract files fail" maxwidth="-1" name="unzip_fail">이 파일의 압축 해제에 실패했습니다</string>
+    <string description="extract file dialog message" maxwidth="-1" name="unzip_progress_msg">압축 해제 중...</string>
+    <string description="toast message: extract files successly" maxwidth="-1" name="unzip_success">압축 해제에 성공했습니다</string>
+    <string name="update">"업데이트"</string>
+    <string name="update_fb_app">"Facebook 모바일 앱이 최신 버전이 아닙니다.  Google Play에서 최신 버전을 설치하십시오."</string>
+    <string name="upgrade_notification_content">완전히 새로워진 홈 화면에서 형식별로 파일을 볼 수 있습니다.</string>
+    <string name="upgrade_notification_title">지금 새 파일 관리자를 사용해보십시오!</string>
+    <string name="upload_complete">"업로드 완료"</string>
+    <string name="upload_complete_dialog_message">"비디오를 업로드 했습니다."</string>
+    <string name="upload_complete_dialog_title">"완료"</string>
+    <string name="upload_failed">"업로드 실패"</string>
+    <string name="upload_picture_toast">"사진을 업로드 했습니다. 알림창에서 진행 상황을 확인하십시오."</string>
+    <string name="upload_toast">"비디오를 업로드 했습니다. 알림창에서 진행 상황을 확인하십시오."</string>
+    <string name="uploading_picture">"사진 업로드 중"</string>
+    <string name="uploading_video">"비디오 업로드 중..."</string>
+    <string name="user">사용자 이름</string>
+    <string name="user_hint">관리자</string>
+    <string name="uv_admin_response_format">"관리자 응답: %1$s"</string>
+    <string name="uv_all_articles">"모든 기사"</string>
+    <string name="uv_all_results_filter">"모두"</string>
+    <string name="uv_android_sdk">Android SDK</string>
+    <string name="uv_article_browse_question">"이 기사가 도움이 되었습니까?"</string>
+    <string name="uv_article_instant_answer_question">"이 FAQ가 도움이 됩니까?"</string>
+    <string name="uv_cancel">"취소"</string>
+    <string name="uv_category">"범주"</string>
+    <string name="uv_close">"닫기"</string>
+    <string name="uv_comment_hint">"댓글 입력"</string>
+    <string name="uv_confirm">"확인"</string>
+    <string name="uv_contact_continue_button">"그래도 메시지를 보내겠습니다."</string>
+    <string name="uv_contact_hint">"질문 또는 피드백을 입력하십시오."</string>
+    <string name="uv_contact_us">"연락처"</string>
+    <string name="uv_display_name">"표시 이름"</string>
+    <string name="uv_email_address">"이메일 주소"</string>
+    <string name="uv_email_address_hint">"your@email.com (필수)"</string>
+    <string name="uv_error">"오류"</string>
+    <string name="uv_failed_signin_error">"잘못된 이메일 또는 암호"</string>
+    <string name="uv_forgot_password">"암호 분실"</string>
+    <string name="uv_helpful_article_message_question">"그래도 메시지를 보내시겠습니까?"</string>
+    <string name="uv_i_want_this">"원해요!"</string>
+    <string name="uv_idea_description_heading">"아이디어를 보다 자세히 설명해 주십시오."</string>
+    <string name="uv_idea_description_hint">"(옵션)"</string>
+    <string name="uv_idea_text_heading">"다음을 제안합니다..."</string>
+    <string name="uv_loading">"로드 중..."</string>
+    <string name="uv_matching_articles">"일치하는 기사"</string>
+    <string name="uv_matching_articles_and_ideas">"일치하는 기사 및 아이디어"</string>
+    <string name="uv_menu_attach">"첨부"</string>
+    <string name="uv_menu_search">"검색"</string>
+    <string name="uv_msg_bad_email_format">"유효한 이메일 주소를 입력하십시오."</string>
+    <string name="uv_msg_comment_posted">"댓글이 게시되었습니다."</string>
+    <string name="uv_msg_confirm_discard_message">"메시지를 삭제하시겠습니까?"</string>
+    <string name="uv_msg_custom_fields_validation">"모든 필수 필드를 작성하십시오."</string>
+    <string name="uv_msg_forgot_password">"암호 분실 이메일 전송됨"</string>
+    <string name="uv_msg_idea_created">"아이디어가 생성되었습니다."</string>
+    <string name="uv_msg_ticket_created">"메시지가 전송되었습니다."</string>
+    <string name="uv_msg_user_identity_validation">"이메일 주소를 입력하십시오."</string>
+    <string name="uv_name_hint">"익명"</string>
+    <string name="uv_network_error">"UserVoice에 연결하는 중 오류가 발생했습니다."</string>
+    <string name="uv_nevermind">"안 함"</string>
+    <string name="uv_new_comment">"새 댓글"</string>
+    <string name="uv_next">"다음"</string>
+    <string name="uv_no">"아니요"</string>
+    <string name="uv_none_of_these_help">"이러한 도움말 없음"</string>
+    <string name="uv_password">"암호"</string>
+    <string name="uv_password_dialog_title">"암호를 입력하십시오."</string>
+    <string name="uv_portal_title">"도움말"</string>
+    <string name="uv_post_a_comment">"댓글 게시"</string>
+    <string name="uv_post_comment">"댓글 게시"</string>
+    <string name="uv_posted_by_format">"%1$s이(가) 게시, %2$s"</string>
+    <string name="uv_powered_by_uservoice">"UserVoice 제공"</string>
+    <string name="uv_ranked">"%1$s 등급"</string>
+    <string name="uv_remove_votes">"투표 제거"</string>
+    <string name="uv_select_none">"(없음)"</string>
+    <string name="uv_select_one">"하나 선택"</string>
+    <string name="uv_send_message">"메시지 보내기"</string>
+    <string name="uv_signin_dialog_ok">"로그인"</string>
+    <string name="uv_signin_dialog_title">"로그인"</string>
+    <string name="uv_status_format">"상태: %1$s"</string>
+    <string name="uv_submit_idea">"아이디어 제출"</string>
+    <string name="uv_subscribe">"구독"</string>
+    <string name="uv_subscribe_dialog_title">"이 아이디어 구독"</string>
+    <string name="uv_suggestion_instant_answer_question">"이 아이디어가 도움이 됩니까?"</string>
+    <string name="uv_thanks">"감사합니다!"</string>
+    <string name="uv_unhelpful_article_message_question">"저희에게 메시지를 보내시겠습니까?"</string>
+    <string name="uv_value">"값"</string>
+    <string name="uv_very_yes">"예!"</string>
+    <string name="uv_yes">"예"</string>
+    <string name="uv_your_email_address">"이메일 주소"</string>
+    <string name="uv_your_name">"이름"</string>
+    <string description="version" maxwidth="-1" name="version">버전</string>
+    <string name="version_text">버전</string>
+    <string name="wait">"잠시 기다려 주세요..."</string>
+    <string name="warning_stophttpserver">"모바일 장치와 PC 간의 연결이 끊깁니다. 종료하시겠습니까?"</string>
+    <string name="whats_new_label">새 소식</string>
+    <string description="message for request to connect Network" name="wifi_p2p_connection_msg" width="-1">클라우드 서비스를 사용할 네트워크 연결을 설정하십시오.</string>
+    <string description="title for request to connect Network" name="wifi_p2p_connection_title" width="-1">네트워크 연결 설정</string>
+    <string description="message for request to turn on Wi-Fi" name="wifi_p2p_turn_on_wifi_msg" width="-1">Wi-Fi Direct 서비스를 사용하려면 Wi-Fi를 켭니다. 지금 Wi-Fi를 켜시겠습니까?</string>
+    <string description="title for turn on WiFi dialog" name="wifi_p2p_turn_on_wifi_title" width="-1">Wi-Fi 켜기</string>
+    <string description="search" maxwidth="-1" name="wifidirect_action_bar_scan">검색</string>
+    <string description="Available devices" maxwidth="-1" name="wifidirect_available_devices">사용 가능한 장치</string>
+    <string description="Do you want to connect to device" maxwidth="-1" name="wifidirect_connect_hint">연결하시겠습니까</string>
+    <string description="Dialog title text: Invitation to connect" maxwidth="-1" name="wifidirect_connect_hint_title">연결에 초대</string>
+    <string description="Dialog title text: Wi-Fi Direct connecting" maxwidth="-1" name="wifidirect_connecting_hint_title">Wi-Fi Direct 연결 중...</string>
+    <string description="connectted" maxwidth="-1" name="wifidirect_connectted">연결됨</string>
+    <string description=">Do you want to disconnect" maxwidth="-1" name="wifidirect_disconnect_hint">연결을 끊으시겠습니까</string>
+    <string description="Disconnect Wi-Fi Direct" maxwidth="-1" name="wifidirect_disconnect_hint_title">Wi-Fi Direct 연결 끊기</string>
+    <string description="peer devices infomation" maxwidth="-1" name="wifidirect_peer_device_info">Wi-Fi Direct 초대를 수신하려면 연경 장치가 파일 관리자에서 \"피어 장치\" 페이지에 머물러 있는지 확인하십시오.</string>
+    <string description="peer devices title" maxwidth="-1" name="wifidirect_peer_device_title">피어 장치</string>
+    <string description="searching" maxwidth="-1" name="wifidirect_scanning">검색 중...</string>
+    <string description="Search Wi-Fi Direct device" maxwidth="-1" name="wifidirect_storage_title">Wi-Fi Direct 장치 검색</string>
+    <string description="click to connect" maxwidth="-1" name="wifidirect_touch_to_connect">클릭하여 연결</string>
+    <string name="yandex_account_only_one_alert">"하나의 Yandex 계정만 추가할 수 있습니다. 새 계정으로 교체하기 전에 현재 계정을 삭제해야 합니다."</string>
+    <string name="yes">예</string>
+    <string name="zenui_update">"ZenUI 즉시 업데이트"</string>
+    <string description="toast message: Compress files fail" maxwidth="-1" name="zip_fail">파일을 압축하는데 실패했습니다.</string>
+    <string description="compress dialog message" maxwidth="-1" name="zip_progress_msg">진행 중...</string>
+    <string description="toast message: Compress files successly" maxwidth="-1" name="zip_success">성공적으로 파일이 압축되었습니다.</string>
+</resources>

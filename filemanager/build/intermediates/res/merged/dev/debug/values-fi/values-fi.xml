@@ -1,0 +1,1311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="alarm_set">
+        <item msgid="6450913786084215050">"Herätykseen on aikaa alle minuutti."</item>
+        <item msgid="6002066367368421848">"Herätykseen on aikaa <ns1:g id="DAYS">%1$s</ns1:g>."</item>
+        <item msgid="8824719306247973774">"Herätykseen on aikaa <ns1:g id="HOURS">%2$s</ns1:g>."</item>
+        <item msgid="8182406852935468862">"Herätykseen on aikaa <ns1:g id="DAYS">%1$s</ns1:g> ja <ns1:g id="HOURS">%2$s</ns1:g>."</item>
+        <item msgid="2532279224777213194">"Herätykseen on aikaa <ns1:g id="MINUTES">%3$s</ns1:g>."</item>
+        <item msgid="5936557894247187717">"Herätykseen on aikaa <ns1:g id="DAYS">%1$s</ns1:g> ja <ns1:g id="MINUTES">%3$s</ns1:g>."</item>
+        <item msgid="9115697840826129603">"Herätykseen on aikaa <ns1:g id="HOURS">%2$s</ns1:g> ja <ns1:g id="MINUTES">%3$s</ns1:g>."</item>
+        <item msgid="2332583385137381060">"Herätykseen on aikaa <ns1:g id="DAYS">%1$s</ns1:g>, <ns1:g id="HOURS">%2$s</ns1:g> ja <ns1:g id="MINUTES">%3$s</ns1:g>."</item>
+    </string-array>
+    <string-array name="charset_array">
+        <item>"Latin-1 (ISO-8859-1)"</item>
+        <item>"Unicode (UTF-8)"</item>
+        <item>"kiina (GBK)"</item>
+        <item>"kiina (Big5)"</item>
+        <item>"japani (ISO-2022-JP)"</item>
+        <item>"japani (SHIFT_JIS)"</item>
+        <item>"japani (EUC-JP)"</item>
+        <item>"korea (EUC-KR)"</item>
+    </string-array>
+    <string-array name="country_names">
+        <item>Aruba</item>
+        <item>Afganistan (جمهوری اسلامی افغانستان)</item>
+        <item>Angola (República de Angola)</item>
+        <item>Anguilla</item>
+        <item>Albania (Shqipëri)</item>
+        <item>Andorra (Principat d\'Andorra)</item>
+        <item>Alankomaiden Antillit</item>
+        <item>Yhdistyneet-arabiemiirikunnat (دولة الإمارات العربية المتحدة‎)</item>
+        <item>Argentiina (República Argentina)</item>
+        <item>Armenia (Hayastan)</item>
+        <item>Amerikan Samoa</item>
+        <item>Antarktis</item>
+        <item>Ranskan eteläiset territoriot</item>
+        <item>Antigua ja Barbuda</item>
+        <item>Australia (Australia)</item>
+        <item>Itävalta (Österreich)</item>
+        <item>Azerbaidžan</item>
+        <item>Burundi</item>
+        <item>Belgia (België)</item>
+        <item>Benin</item>
+        <item>Burkina Faso</item>
+        <item>Bangladesh (বাংলাদেশ)</item>
+        <item>Bulgaria (България / Balgariya)</item>
+        <item>Bahrain (مملكة البحرين)</item>
+        <item>Bahama</item>
+        <item>Bosnia ja Hertsegovina (Bosna i Hercegovina)</item>
+        <item>Valkovenäjä (Беларусь)</item>
+        <item>Belize</item>
+        <item>Bermuda</item>
+        <item>Bolivia</item>
+        <item>Brasilia</item>
+        <item>Barbados</item>
+        <item>Brunei Darussalam (بروني دارالسلام)</item>
+        <item>Bhutan</item>
+        <item>Bouvet Island</item>
+        <item>Botswana (Lefatshe la Botswana)</item>
+        <item>Keski-Afrikan tasavalta (République centrafricaine)</item>
+        <item>Kanada</item>
+        <item>Kookossaaret (Keeling-saaret)</item>
+        <item>Sveitsi (Suisse)</item>
+        <item>Chile</item>
+        <item>Kiina (中國)</item>
+        <item>Norsunluurannikko</item>
+        <item>Kamerun</item>
+        <item>Kongo</item>
+        <item>Cook-saaret</item>
+        <item>Kolumbia</item>
+        <item>Komorit</item>
+        <item>Cape Verde</item>
+        <item>Costa Rica</item>
+        <item>Kuuba</item>
+        <item>Joulusaari</item>
+        <item>Cayman-saaret</item>
+        <item>Kypros (Euro)</item>
+        <item>Tšekin tasavalta (Česká republika)</item>
+        <item>Saksa (Deutschland)</item>
+        <item>Djibouti</item>
+        <item>Dominica</item>
+        <item>Tanska (Danmark)</item>
+        <item>Dominikaaninen tasavalta</item>
+        <item>Algeria</item>
+        <item>Ecuador</item>
+        <item>Egypti (مصر‎)</item>
+        <item>Eritrea</item>
+        <item>Länsi-Sahara</item>
+        <item>Espanja (España)</item>
+        <item>Viro (Eesti)</item>
+        <item>Etiopia</item>
+        <item>Suomi</item>
+        <item>Fidži</item>
+        <item>Falklandinsaaret</item>
+        <item>Ranska (France)</item>
+        <item>Belgia (Belgique)</item>
+        <item>Färsaaret</item>
+        <item>Mikronesia</item>
+        <item>Gabon</item>
+        <item>Yhdistynyt kuningaskunta (United Kingdom)</item>
+        <item>Georgia (საქართველო)</item>
+        <item>Ghana</item>
+        <item>Gibraltar</item>
+        <item>Guinea</item>
+        <item>Guadeloupe</item>
+        <item>Gambia</item>
+        <item>Guinea-Bissau</item>
+        <item>Päiväntasaajan Guinea</item>
+        <item>Kreikka (Ελλάδα)</item>
+        <item>Grenada</item>
+        <item>Grönlanti</item>
+        <item>Guatemala</item>
+        <item>Ranskan Guayana</item>
+        <item>Guam</item>
+        <item>Guyana</item>
+        <item>Hong Kong (香港)</item>
+        <item>Heard ja McDonaldinsaaret</item>
+        <item>Honduras</item>
+        <item>Kroatia (Hrvatska)</item>
+        <item>Haiti</item>
+        <item>Unkari (Magyarország)</item>
+        <item>Indonesia (Indonesian tasavalta)</item>
+        <item>Intia (भारत गणराज्य )</item>
+        <item>Brittiläinen Intian valtameren alue</item>
+        <item>Irlanti (Ireland)</item>
+        <item>Iran (ایران)</item>
+        <item>Irak (العراق)</item>
+        <item>Islanti (Ísland)</item>
+        <item>Israel (מְדִינַת יִשְׂרָאֵל  /  دَوْلَةُ إِسْرَائِيلَ)</item>
+        <item>Italia</item>
+        <item>Jamaika</item>
+        <item>Jordania (L\'Ürdünn)</item>
+        <item>Japani (日本国)</item>
+        <item>Kazakstan</item>
+        <item>Kenia (Jamhuri ya Kenya)</item>
+        <item>Kirgisia</item>
+        <item>Kambodža (कम्बोजदेश)</item>
+        <item>Kiribati</item>
+        <item>Saint Kitts ja Nevis</item>
+        <item>Korean tasavalta (대한민국)</item>
+        <item>Kuwait (دولة الكويت)</item>
+        <item>Laosin demokraattinen kansantasavalta</item>
+        <item>Libanon (اَلْجُمْهُورِيَّة اَللُّبْنَانِيَّة)</item>
+        <item>Liberia</item>
+        <item>Libya</item>
+        <item>Saint Lucia</item>
+        <item>Liechtenstein</item>
+        <item>Sri Lanka (இலங்கை ஜனநாயக சமத்துவ)</item>
+        <item>Lesotho</item>
+        <item>Liettua (Lietuva)</item>
+        <item>Luxemburg (Lëtzebuerg)</item>
+        <item>Latvia (Latvija)</item>
+        <item>Macao</item>
+        <item>Marokko</item>
+        <item>Monaco</item>
+        <item>Moldova</item>
+        <item>Madagascar</item>
+        <item>Malediivit</item>
+        <item>Meksiko</item>
+        <item>Marshall-saaret</item>
+        <item>Makedonia</item>
+        <item>Mali</item>
+        <item>Malta</item>
+        <item>Myanmar (Pyidaunzu Thanmăda Myăma Nainngandaw)</item>
+        <item>Mongolia</item>
+        <item>Pohjois-Mariaanit</item>
+        <item>Mosambik</item>
+        <item>Mauritania</item>
+        <item>Montserrat</item>
+        <item>Martinique</item>
+        <item>Mauritius (Republik Moris)</item>
+        <item>Malawi</item>
+        <item>Malesia (Persekutuan Malaysia)</item>
+        <item>Mayotte</item>
+        <item>Namibia</item>
+        <item>Uusi-Kaledonia (Nouvelle-Calédonie)</item>
+        <item>Niger</item>
+        <item>Norfolkinsaari (Norfuk Ailen)</item>
+        <item>Nigeria (Republik Nijeriya)</item>
+        <item>Nicaragua</item>
+        <item>Niue</item>
+        <item>Alankomaat (Nederland)</item>
+        <item>Norja (Norge)</item>
+        <item>Nepal (सङ्घीय लोकतान्त्रिक गणतन्त्र नेपाल)</item>
+        <item>Nauru</item>
+        <item>Uusi-Seelanti (New Zealand)</item>
+        <item>Oman (لطنة عمان)</item>
+        <item>Pakistan (پاکِستان)</item>
+        <item>Panama</item>
+        <item>Pitcairn</item>
+        <item>Peru</item>
+        <item>Filippiinit (Pilipinas)</item>
+        <item>Palau</item>
+        <item>Papua-Uusi-Guinea</item>
+        <item>Puola (Polska)</item>
+        <item>Puerto Rico</item>
+        <item>Korean demokraattinen kansantasavalta</item>
+        <item>Portugali (Portugal)</item>
+        <item>Paraguay</item>
+        <item>Ranskan Polynesia</item>
+        <item>Qatar</item>
+        <item>Reunion</item>
+        <item>Romania (România)</item>
+        <item>Venäjä (Россия)</item>
+        <item>Ruanda</item>
+        <item>Saudi-Arabia (المملكة العربية السعودية)</item>
+        <item>Serbia ja Montenegro</item>
+        <item>Sudan (جمهورية السودان)</item>
+        <item>Senegal</item>
+        <item>Singapore (Singapore)</item>
+        <item>Etelä-Georgia ja Eteläiset Sandwichsaaret</item>
+        <item>St. Helena</item>
+        <item>Svalbard ja Jan Mayen</item>
+        <item>Salomonsaaret (Solomon Islands)</item>
+        <item>Sierra Leone</item>
+        <item>El Salvador</item>
+        <item>San Marino</item>
+        <item>Somalia</item>
+        <item>St. Pierre ja Miquelon (St. Pierre and Miquelon)</item>
+        <item>Sao Tome ja Principe</item>
+        <item>Surinam</item>
+        <item>Slovakia (Slovensko)</item>
+        <item>Slovenia (Slovenija)</item>
+        <item>Ruotsi (Sverige)</item>
+        <item>Swazimaa (Swatini)</item>
+        <item>Seychellit</item>
+        <item>Syyria (جمهورية العربية السورية)</item>
+        <item>Turks- ja Caicossaaret</item>
+        <item>Tšad</item>
+        <item>Togo</item>
+        <item>Thaimaa (ราชอาณาจักรไทย)</item>
+        <item>Tadžikistan</item>
+        <item>Tokelau</item>
+        <item>Turkmenistan</item>
+        <item>Itä-Timor</item>
+        <item>Tonga</item>
+        <item>Trinidad ja Tobago</item>
+        <item>Tunisia</item>
+        <item>Turkkki (Türkiye)</item>
+        <item>Tuvalu</item>
+        <item>TAIWAN, Kiinan tasavalta (台灣)</item>
+        <item>Tansania</item>
+        <item>Uganda (Jamhuri ya Uganda)</item>
+        <item>Ukraina (Україна)</item>
+        <item>Yhdysvaltain pienet erillissaaret</item>
+        <item>Uruguay</item>
+        <item>Yhdysvallat</item>
+        <item>Uzbekistan</item>
+        <item>Vatikaanivaltio (Stato della Città del Vaticano)</item>
+        <item>Saint Vincent ja Grenadiinit</item>
+        <item>Venezuela</item>
+        <item>Brittiläiset Neitsytsaaret</item>
+        <item>Yhdysvaltain Neitsytsaaret</item>
+        <item>Vietnam (Việt Nam)</item>
+        <item>Vanuatu</item>
+        <item>Wallis ja Futuna</item>
+        <item>Samoa</item>
+        <item>Jemen</item>
+        <item>Etelä-Afrikka (Republiek van Suid-Afrika)</item>
+        <item>Zaire</item>
+        <item>Sambia</item>
+        <item>Zimbabwe (Simudzai Mureza wedu WeZimbabwe)</item>
+    </string-array>
+    <plurals name="dialog_unzip_preview_size_text">
+        <item quantity="one">Yhteensä: %1$d tiedosto, %2$s</item>
+        <item quantity="other">Yhteensä: %1$d tiedostoa, %2$s</item>
+    </plurals>
+    <plurals name="drag_items">
+        <item quantity="one">Vedä kohde</item>
+        <item quantity="other">Vedä kohteita</item>
+    </plurals>
+    <plurals name="number_search_items">
+        <item quantity="one">"%d tiedosto löytyi"</item>
+        <item quantity="other">"%d tiedostoa löytyi"</item>
+    </plurals>
+    <plurals name="number_selected_items">
+        <item quantity="one">%d kohde valittu</item>
+        <item quantity="other">%d kohdetta valittu</item>
+    </plurals>
+    <plurals name="uf_sdk_number_of_subscribers_format">
+        <item quantity="one">"%1$s tykkää tästä aiheesta"</item>
+        <item quantity="other">"%1$s tykkää tästä aiheesta"</item>
+    </plurals>
+    <plurals name="uf_sdk_topics">
+        <item quantity="one">"aihe"</item>
+        <item quantity="other">"aiheet"</item>
+    </plurals>
+    <plurals name="uv_comments">
+        <item quantity="one">"kommentti"</item>
+        <item quantity="other">"kommentit"</item>
+    </plurals>
+    <plurals name="uv_number_of_subscribers_format">
+        <item quantity="one">"%1$s haluaa tämän idean"</item>
+        <item quantity="other">"%1$s haluaa tämän idean"</item>
+    </plurals>
+    <plurals name="uv_people">
+        <item quantity="one">"henkilö"</item>
+        <item quantity="other">"henkilöt"</item>
+    </plurals>
+    <plurals name="uv_subscribers">
+        <item quantity="one">"tilaaja"</item>
+        <item quantity="other">"tilaajat"</item>
+    </plurals>
+    <string name="AsusWebstroage">AsusWebstorage</string>
+    <string name="AuCloud">AuCloud</string>
+    <string name="BaiDuPCS">BaiDuPCS</string>
+    <string name="Default">Oletus</string>
+    <string name="Dropbox">Dropbox</string>
+    <string name="Google_Drive">Google Drive</string>
+    <string name="HomeCloud">HomeCloud</string>
+    <string name="OneDrive">OneDrive</string>
+    <string name="Yandex">Yandex</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Siirry etusivulle"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Siirry ylös"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Lisää"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Valmis"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Näytä kaikki"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Valitse sovellus"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"POIS KÄYTÖSTÄ"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"KÄYTÖSSÄ"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Haku…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Tyhjennä kysely"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Hakulauseke"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Haku"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Lähetä kysely"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Puhehaku"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Jakaminen:"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Jakaminen: %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Kutista"</string>
+    <string name="about">Tietoja</string>
+    <string name="account_asus">ASUS</string>
+    <string maxwidth="-1" name="action">Kirj. sis</string>
+    <string description="cutstom action bar view title for about" maxwidth="-1" name="action_about">Tietoja</string>
+    <string description="action add files" maxwidth="-1" name="action_add">Lisää</string>
+    <string description="cutstom action bar view title for add folder" maxwidth="-1" name="action_add_folder">Lisää kansio</string>
+    <string description="View title of custom action bar, apply to multiple selected files" maxwidth="-1" name="action_apply_selected_file">Käytä</string>
+    <string description="action cancel" maxwidth="-1" name="action_cancel">Peruuta</string>
+    <string maxwidth="-1" name="action_clean">"Puhdista"</string>
+    <string maxwidth="-1" name="action_clean_all">"Poista kaikki"</string>
+    <string description="cutstom action bar view title for clear search history" maxwidth="" name="action_clear_history">Tyhjennä hakuhistoria</string>
+    <string description="cutstom action bar view title for edit" maxwidth="" name="action_edit">"Muokkaa"</string>
+    <string maxwidth="" name="action_hidden_zone">"Siirrä piilokaappiin"</string>
+    <string description="cutstom action bar view title for hinde system file" maxwidth="-1" name="action_hind_system_file">Piilota järjestelmätiedostot</string>
+    <string name="action_loading">"Ladataan..."</string>
+    <string description="cutstom action bar view title for open with" maxwidth="" name="action_open_with">"Avaa sovelluksella..."</string>
+    <string name="action_refresh_cloudfile">"Päivitä"</string>
+    <string maxwidth="-1" name="action_restore">"Palauta"</string>
+    <string maxwidth="-1" name="action_restore_all">"Palauta kaikki"</string>
+    <string description="cutstom action bar view title for search" maxwidth="" name="action_search">Haku</string>
+    <string description="cutstom action bar view title for set as" maxwidth="" name="action_set_as">"Aseta kuva muotoon"</string>
+    <string description="menu title for setting" maxwidth="-1" name="action_settings">"Asetukset"</string>
+    <string description="cutstom action bar view title for sharing" maxwidth="-1" name="action_share">"Jaa"</string>
+    <string description="String for asking for the rule of sorting" maxwidth="-1" name="action_sort_by">Lajitteluperuste</string>
+    <string description="cutstom action bar view title for zip" maxwidth="" name="action_zip">Pakkaa</string>
+    <string description="Dialog title: Add cloud storage" maxwidth="-1" name="add_cloud_storage_dialog_title">Lisää pilvitallennustila</string>
+    <string name="add_favorite">Lisää suosikkeihin</string>
+    <string name="add_favorite_folder">"Lisää suosikkikansio"</string>
+    <string name="add_favorite_success">Tallenna suosikkeihin</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="add_progress">Luodaan...</string>
+    <string description="Don&apos;t remind me again" maxwidth="-1" name="alert_cb_msg">Älä muistuta uudelleen</string>
+    <string description="ASUS ZenUI Services is not support, need update ASUS ZenUI Services" maxwidth="-1" name="alert_msg_azs_update">%1$s vaatii ASUS ZenUI -palveluiden uusimman version. Asenna se nyt.</string>
+    <string description="Client app is not support, need update client app" maxwidth="-1" name="alert_msg_client_update">%1$s:n uusi versio on käytettävissä. Asenna se nyt.</string>
+    <string description="Client app version is compatible with ASUS ZenUI Services" maxwidth="-1" name="alert_msg_compatible">%1$s-versio on yhteensopiva ASUS ZenUI -palveluiden kanssa.</string>
+    <string description="Client app version is match with ASUS ZenUI Services" maxwidth="-1" name="alert_msg_match">%1$s-versio vastaa ASUS ZenUI -palveluita.</string>
+    <string description="ASUS ZenUI Services is not found on device" maxwidth="-1" name="alert_msg_not_found">ASUS ZenUI -palveluja ei ole asennettu!\n\nSiirry lataamaan ja asentamaan ne?</string>
+    <string description="Dialog title" maxwidth="-1" name="alert_title">Huomautus</string>
+    <string description="Dialog title" maxwidth="-1" name="alert_title_update">Päivitä suositeltu</string>
+    <string name="app_cloudstorage_name">Pilvitallennustila</string>
+    <string name="app_upload_complete">"%s siirtoa suoritettu loppuun"</string>
+    <string description="" name="article_one">Hyväksyn ASUS \"<u>Käyttöehtoilmoituksen</u>\", ASUS \"<u>Tietosuojakäytännön</u>\", ASUS Web-tallennustilan \"<u>Käyttöehtoilmoituksen</u>\", ASUS Web-tallennustilan \"<u>Tietosuojakäytännön</u>\".</string>
+    <string description="" name="article_two">Pidä minut ajan tasalla eDM:stä ASUS-uutisilla, ohjelmistopäivityksillä ja uusimmilla tuote- ja palvelutiedoilla.</string>
+    <string description="Text for create asus account button." maxwidth="" name="asus_account_create_button">Luo uusi</string>
+    <string name="asus_account_integrate_dialog_content">Haluatko integroida ASUS-pilvitallennuspalvelun ASUS-tilisi kanssa? \n\n Tämän integraation jälkeen kaikkia ASUS-palveluita voi käyttää samalta tililtä.</string>
+    <string name="asus_account_integrate_dialog_skip">Ohita</string>
+    <string name="asus_account_integrate_dialog_title">Integroi ASUS-palvelut</string>
+    <string name="asus_account_integrate_dialog_yes">Kyllä</string>
+    <string description="Text for asus account content 1st." maxwidth="" name="asus_account_msg_content_1">Henkilökohtaisia ASUS-tukipalveluita ja takuulaajennuksen rekisteröidyille tuotteille.</string>
+    <string description="Text for asus account content 2nd." maxwidth="" name="asus_account_msg_content_2">5 Gt ilmaista pilvitallennustilaa.</string>
+    <string description="Text for asus account content 3rd." maxwidth="" name="asus_account_msg_content_3">Uusimmat tiedot lisävarusteista ja parannetuista tuotteista.</string>
+    <string description="Text for asus account content title." maxwidth="" name="asus_account_msg_title">Luo ASUS-tili saadaksesi:</string>
+    <string name="asus_account_only_one_alert">"Vain yhden ASUS-tilin lisääminen on sallittu. Sinun on poistettava nykyinen tilisi ennen sen korvaamista uudella."</string>
+    <string name="asus_account_prefc">"Asetukset"</string>
+    <string name="asus_account_prefc_advc">"Lisäasetukset"</string>
+    <string name="asus_account_registe_country_error">Valitse yksi maan alue!</string>
+    <string name="asus_account_registe_id_error">Sähköpostivirhe</string>
+    <string name="asus_account_registe_policy_error">Sinun on hyväksyttävä ASUS-käytäntö voidaksesi rekisteröidä ASUS-tilin!</string>
+    <string name="asus_account_registe_pw_error_1">Salasana ei voi olla tyhjä!</string>
+    <string name="asus_account_registe_pw_error_2">Vahvistussalasana ei voi olla tyhjä!</string>
+    <string name="asus_account_registe_pw_error_3">Salasanan ja vahvistuksen on oltava samat!</string>
+    <string name="asus_account_registe_pw_error_4">"Salasanan pituuden tulee olla 8–25 merkkiä."</string>
+    <string name="asus_account_removeaccount_dialog_content">"Tilin integraatio onnistui. Kirjaudu uudelleen sisään käyttämällä uutta tiliä."</string>
+    <string name="asus_account_removeaccount_dialog_title">"ASUS-tilin integraatio onnistui"</string>
+    <string name="asus_commonui_activity_chooser_view_see_all">"Näytä kaikki"</string>
+    <string name="asus_commonui_activity_resolver_use_always">"Aina"</string>
+    <string name="asus_commonui_activity_resolver_use_once">"Vain kerran"</string>
+    <string name="asus_commonui_activitychooserview_choose_application">"Valitse sovellus"</string>
+    <string name="asus_commonui_activitychooserview_choose_application_error">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> ei käynnisty"</string>
+    <string name="asus_commonui_cancel_label">"Peruuta"</string>
+    <string name="asus_commonui_chooseActivity">"Valitse toiminto"</string>
+    <string msgid="3968620852217927702" name="asus_commonui_day_picker_description">"Päiväruudukko kuukausittain"</string>
+    <string msgid="6908431551612331381" name="asus_commonui_deleted_key">"<ns1:g id="KEY">%1$s</ns1:g> poistettiin"</string>
+    <string name="asus_commonui_done_label">"OK"</string>
+    <string msgid="7586639618712934060" name="asus_commonui_hour_picker_description">"Tuntien ympyränmuotoinen liukusäädin"</string>
+    <string msgid="2674929164900463786" name="asus_commonui_item_is_selected">"<ns1:g id="ITEM">%1$s</ns1:g> on valittu"</string>
+    <string msgid="6024811202872705251" name="asus_commonui_minute_picker_description">"Minuuttien ympyränmuotoinen liukusäädin"</string>
+    <string name="asus_commonui_noApplications">"Yksikään sovellus ei voi suorittaa tätä toimintoa."</string>
+    <string name="asus_commonui_no_url_handler">URL-osoitteen avaamiseen sopivaa sovellusta ei löydy</string>
+    <string name="asus_commonui_privacy_policy">Tietosuojakäytäntö</string>
+    <string name="asus_commonui_privacy_policy_url">http://www.asus.com/FI/Terms_of_Use_Notice_Privacy_Policy/Privacy_Policy</string>
+    <string msgid="3973338219107019769" name="asus_commonui_select_day">"Valitse kuukausi ja päivä"</string>
+    <string msgid="7651068754188418859" name="asus_commonui_select_hours">"Valitse tunnit"</string>
+    <string msgid="8327182090226828481" name="asus_commonui_select_minutes">"Valitse minuutit"</string>
+    <string msgid="2603330600102539372" name="asus_commonui_select_year">"Valitse vuosi"</string>
+    <string name="asus_commonui_shareactionprovider_share_with">"Jaa seuraavien kanssa:"</string>
+    <string name="asus_commonui_shareactionprovider_share_with_application">
+        "Jaa sovelluksessa <ns1:g id="APPLICATION_NAME">%s</ns1:g>"
+    </string>
+    <string name="asus_commonui_terms_of_use_notice">Käyttöehtoilmoitus</string>
+    <string name="asus_commonui_terms_of_use_notice_url">http://www.asus.com/FI/Terms_of_Use_Notice_Privacy_Policy/Official_Site/</string>
+    <string name="asus_commonui_whichApplication">"Tee toiminto käyttäen sovellusta"</string>
+    <string name="asus_commonui_whichHomeApplication">"Valitse aloitusruutusovellus"</string>
+    <string msgid="6963340404644587098" name="asus_commonui_year_picker_description">"Vuosiluettelo"</string>
+    <string name="asus_feedback_and_help">Palaute ja Ohje</string>
+    <string name="asus_registe_success_title">"ASUS-tilin rekisteröinti onnistui"</string>
+    <string name="asus_response_resultdata">"Tämä tili on jo rekisteröity."</string>
+    <string name="asusaccount_app_name">ASUS-tili</string>
+    <string maxwidth="-1" name="attribution_notice">"Tekijänoikeustietoja"</string>
+    <string maxwidth="-1" name="attribution_notice_content">
+    "
+    \nTämä tuote sisältää seuraavat avoimet lähdekoodit:
+\n\nuservoice-android-sdk, joka on lisensoitu Apache-lisenssiversion 2.0 mukaisesti. Lisenssin voi ladata osoitteesta http://www.apache.org/licenses/LICENSE-2.0.html .
+        \n\nangular-filemanager, joka on lisensoitu MIT-lisenssin mukaisesti. Lisenssin voi ladata osoitteesta https://github.com/joni2back/angular-filemanager/blob/master/LICENSE .
+        \n\nprogressbar, joka on lisensoitu MIT-lisenssin mukaisesti. Lisenssin voi ladata osoitteesta https://github.com/kimmobrunfeldt/progressbar.js/blob/master/LICENSE .
+        \n\ntoastr, Copyright (c) 2012-2015 John Papa, Tim Ferrell, Hans Fjällemark\nTäten myönnetään veloituksetta kaikille henkilöille, jotka saavat tämän ohjelmiston ja siihen liittyvien asiakirjatiedostojen (”Ohjelmisto”) kopion, oikeus käyttää ohjelmistoa rajoituksetta, mukaan lukien muun muassa oikeus käyttää, kopioida, muokata, yhdistää, julkaista, jaella, alilisensoida ja/tai myydä ohjelmiston kopioita sekä sallia henkilöiden, joille ohjelma on toimitettu, tehdä näin, kunhan noudatetaan seuraavia ehtoja:
+        Yllä esitetty tekijänoikeusilmoitus ja tämä käyttöoikeusilmoitus on sisällytettävä kaikkiin ohjelmiston kopioihin tai sen huomattaviin osiin. OHJELMISTO TARJOTAAN ”SELLAISENAAN” ILMAN MINKÄÄNLAISTA NIMENOMAISTA TAI EPÄSUORAA TAKUUTA, MUKAAN LUKIEN MUUN MUASSA KAUPANKÄYNTIKELPOISUUTTA, TIETTYYN TARKOITUKSEEN SOVELTUVUUTTA JA OIKEUKSIEN LOUKKAAMATTOMUUTTA KOSKEVAT TAKUUT. TEKIJÄT TAI TEKIJÄNOIKEUKSIEN HALTIJAT EIVÄT MISSÄÄN TAPAUKSESSA OLE VASTUUSSA MISTÄÄN VAATEISTA, KORVAUSVAATIMUKSISTA TAI MUISTA VASTUISTA HUOLIMATTA SIITÄ, OVATKO NE SOPIMUS- VAI RIKKOMUSPERUSTEISIA TAI MUUTOIN PERUSTELTUJA, KUN NE AIHEUTUVAT OHJELMISTOSTA TAI SEN KÄYTÖSTÄ TAI MUUSTA OHJELMISTON KÄSITTELYSTÄ TAI LIITTYVÄT NÄIHIN."
+    </string>
+    <string name="aucloud_account_only_one_alert">"Vain yhden au-pilven lisääminen on sallittu. Sinun on poistettava nykyinen tilisi ennen sen korvaamista uudella."</string>
+    <string description="string indicating how camera shooting feature is used" maxwidth="-1" name="auto">Autom.</string>
+    <string maxwidth="-1" name="aws_install_contnet">Web-tallennustilaa ei ole asennettu. Haluatko ladata ja asentaa sen play store -kaupasta?</string>
+    <string maxwidth="" name="aws_install_title">Web-tallennustilaa ei ole asennettu</string>
+    <string description="button text." maxwidth="-1" name="back_button_label">Takaisin</string>
+    <string name="baidu_alert_info">"Perustuen Baidun alustaan, tämä laite voi käyttää vain kohdassa"My Application Data\\asus\\" olevia tietoja."</string>
+    <string name="baidu_alert_title">"Baidu-pilvitallennustila"</string>
+    <string name="baidu_storage_title">"百度云"</string>
+    <string name="baidupcs_account_only_one_alert">"Vain yhden ASUS-tilin Baidun lisääminen on sallittu. Sinun on poistettava nykyinen tilisi ennen sen korvaamista uudella."</string>
+    <string name="btn_OK">OK</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="calculate_progress">"Prosessi etenee..."</string>
+    <string description="Toast: can not open in hidden zone" maxwidth="-1" name="can_not_open_in_hidden_zone">"Ei voi avata piilokaapissa"</string>
+    <string description="Dialog Button: cancel for dialog" maxwidth="" name="cancel">Peruuta</string>
+    <string name="cancle">Peru</string>
+    <string name="category_apk">Sovellukset</string>
+    <string maxwidth="11" name="category_app1">"Sovellukset"</string>
+    <string name="category_compress">"Pakattu"</string>
+    <string maxwidth="11" name="category_compressed1">"Pakattu"</string>
+    <string name="category_count">"%s"</string>
+    <string maxwidth="11" name="category_document1">"Asiakirjat"</string>
+    <string name="category_documents">"Asiakirjat"</string>
+    <string name="category_download">Lataa</string>
+    <string maxwidth="11" name="category_download1">"Lataukset"</string>
+    <string name="category_favorite">Suosikki</string>
+    <string maxwidth="11" name="category_favorite1">"Suosikit"</string>
+    <string name="category_game">"Pelit"</string>
+    <string name="category_image">Kuva</string>
+    <string maxwidth="11" name="category_image1">"Kuvat"</string>
+    <string maxwidth="11" name="category_large_file1">"Suuret tiedostot"</string>
+    <string name="category_music">Musiikki</string>
+    <string maxwidth="11" name="category_music1">"Musiikki"</string>
+    <string name="category_name_app_wallpaper">"Live-taustakuva"</string>
+    <string name="category_name_app_widgets">"Widgetit"</string>
+    <string name="category_name_books_and_reference">"Kirjasovellukset"</string>
+    <string name="category_name_business">"Yritys"</string>
+    <string name="category_name_comics">"Sarjakuvat"</string>
+    <string name="category_name_communication">"Viestintä"</string>
+    <string name="category_name_education">"Koulutus"</string>
+    <string name="category_name_entertainment">"Viihde"</string>
+    <string name="category_name_finance">"Talous"</string>
+    <string name="category_name_game">"Pelit"</string>
+    <string name="category_name_game_action">"Toiminta"</string>
+    <string name="category_name_game_adventure">"Seikkailu"</string>
+    <string name="category_name_game_arcade">"Pelihalli"</string>
+    <string name="category_name_game_board">"Lautapelit"</string>
+    <string name="category_name_game_card">"Korttipelit"</string>
+    <string name="category_name_game_casino">"Kasinopelit"</string>
+    <string name="category_name_game_casual">"Vapaa-ajan pelit"</string>
+    <string name="category_name_game_educational">"Opetus"</string>
+    <string name="category_name_game_family">"Perhe"</string>
+    <string name="category_name_game_music">"Musiikki"</string>
+    <string name="category_name_game_puzzle">"Älypelit"</string>
+    <string name="category_name_game_racing">"Kilpa-ajo"</string>
+    <string name="category_name_game_role_playing">"Roolipelit"</string>
+    <string name="category_name_game_simulation">"Simulaatio"</string>
+    <string name="category_name_game_sports">"Urheilupelit"</string>
+    <string name="category_name_game_strategy">"Strategia"</string>
+    <string name="category_name_game_trivia">"Tietokilpailu"</string>
+    <string name="category_name_game_word">"Sanapelit"</string>
+    <string name="category_name_health_and_fitness">"Terveys ja kuntoilu"</string>
+    <string name="category_name_libraries_and_demo">"Demot"</string>
+    <string name="category_name_lifestyle">"Elämäntapa"</string>
+    <string name="category_name_media_and_video">"Media ja video"</string>
+    <string name="category_name_medical">"Lääketiede"</string>
+    <string name="category_name_music_and_audio">"Musiikki ja audio"</string>
+    <string name="category_name_news_and_magazines">"Uutiset ja lehdet"</string>
+    <string name="category_name_personalization">"Personointi"</string>
+    <string name="category_name_photography">"Valokuvaus"</string>
+    <string name="category_name_productivity">"Tuottavuus"</string>
+    <string name="category_name_shopping">"Shoppailu"</string>
+    <string name="category_name_social">"Sosiaaliset"</string>
+    <string name="category_name_sports">"Urheilu"</string>
+    <string name="category_name_tools">"Työkalut"</string>
+    <string name="category_name_transportation">"Kuljetus"</string>
+    <string name="category_name_travel_and_local">"Matkailu"</string>
+    <string name="category_name_weather">"Sää"</string>
+    <string name="category_others">"Muut"</string>
+    <string maxwidth="11" name="category_recent1">"Nykyinen"</string>
+    <string name="category_recent_files">"Lisätty hiljattain"</string>
+    <string name="category_sorting_summary">"Valitse kohteet, jotka näyttävät luokkapaneelin"</string>
+    <string name="category_title_category">Luokka</string>
+    <string name="category_title_local_storage">Paikallinen tallennustila</string>
+    <string name="category_title_tools">"Työkalut"</string>
+    <string name="category_toast_invalid_item_size_6_or_9">"Valitse 6 tai 9 kohdetta"</string>
+    <string name="category_toast_invalid_item_size_9">"Valitse 9 kohdetta"</string>
+    <string name="category_toast_invalid_remove">"Tätä kohdetta ei voi poistaa."</string>
+    <string name="category_toast_max_item_size">"Valitse enintään 9 kohdetta"</string>
+    <string name="category_video">Video</string>
+    <string maxwidth="11" name="category_video1">"Videot"</string>
+    <string name="clear_account_info">Unohda kaikki tilit</string>
+    <string description="Menu Option: clear all checkbox" maxwidth="" name="clear_all">Tyhjennä kaikki</string>
+    <string name="click_plus_to_add_favorite_folder">"Napauta + lisätäksesi suosikkikansion"</string>
+    <string description="Toast: The size is over the limit and cannot be uploaded" maxwidth="-1" name="cloud_download_flie_limit_space">Tiedoston koko ylittää rajan eikä sitä voi siirtää</string>
+    <string description="Toast: The name of the file uploaded is not supported by cloud server" maxwidth="-1" name="cloud_flie_name_not_supported">"Toimintoa ei voitu suorittaa, koska pilvipalvelin ei tue tiedostonimeä."</string>
+    <string description="home cloud get available devices fail" name="cloud_homebox_get_devices_fail">Käytettävissä olevien HomeCloud-laitteiden haku epäonnistui</string>
+    <string description="home cloud has no available devices" name="cloud_homebox_no_available_devices">Ei käytettävissä olevia HomeCloud-laitteita</string>
+    <string description="home cloud device is sleep" name="cloud_homebox_status__info_Sleep">Lepotila</string>
+    <string description="home cloud device is offline" name="cloud_homebox_status__info_offline">Offline</string>
+    <string description="home cloud device is online" name="cloud_homebox_status__info_online">Online</string>
+    <string description="home cloud device is offline" name="cloud_homebox_status_offline">Laite on offline-tilassa.</string>
+    <string description="diaglog cloud background paste" name="cloud_paste_backgroud">Tausta</string>
+    <string description="diaglog cloud  now is copy files" name="cloud_paste_copying">Kopioidaan...</string>
+    <string description="diaglog cloud  current" name="cloud_paste_current">Nykyinen</string>
+    <string description="diaglog cloud  now is delete source files" name="cloud_paste_deleting">Poistetaan lähdetiedostoja...</string>
+    <string description="diaglog cloud  paste" name="cloud_paste_downloading">Ladataan tiedostoja</string>
+    <string description="diaglog cloud  total" name="cloud_paste_total">Yhteensä</string>
+    <string description="diaglog cloud  paste uploading" name="cloud_paste_uploading">Siirretään tiedostoja</string>
+    <string description="Toast: cloud preview action" maxwidth="-1" name="cloud_preview_action_fail">Pilvitiedostojen esikatselu epäonnistui.</string>
+    <string description="Toast: cloud share action" maxwidth="-1" name="cloud_share_action_fail">Pilvitiedostojen jakaminen epäonnistui.</string>
+    <string description=">Do you want to remove" maxwidth="-1" name="cloud_storage_remove_hint">"Haluatko kirjautua ulos \"%s\"-tililtä?"</string>
+    <string description="Dialog title: Remove cloud storage" maxwidth="-1" name="cloud_storage_remove_hint_title">Kirjaudu ulos</string>
+    <string description=">Do you want to signin" maxwidth="-1" name="cloud_storage_sign_in">Liitä käyttämällä seuraavaa tiliä:</string>
+    <string description="Dialog title: Signin cloud storage" maxwidth="-1" name="cloud_storage_sign_in_title">Yhdistä %s</string>
+    <string description=">Do you want to signout" maxwidth="-1" name="cloud_storage_sign_out">Haluatko varmasti kirjautua ulos?</string>
+    <string description="Dialog title: Signout cloud storage" maxwidth="-1" name="cloud_storage_sign_out_title">Irrota</string>
+    <string description="Add more cloud storage" maxwidth="-1" name="cloud_storage_title">Lisää pilvitallennustilaa</string>
+    <string description="diaglog cloud  token is invalidate" name="cloud_token_invalidate">Tunniste kumottiin. Kirjaudu sisään uudelleen!</string>
+    <string description="Toast: The size is over the limit and cannot be uploaded" maxwidth="-1" name="cloud_upload_flie_limit_space">Tiedoston koko ylittää rajan eikä sitä voi siirtää</string>
+    <string name="com_facebook_image_download_unknown_error">Odottamaton virhe kuvan palvelimesta lataamisen aikana.</string>
+    <string name="com_facebook_internet_permission_error_message">WebView-kirjautuminen edellyttää INTERNET-käyttöoikeutta</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifest-virhe</string>
+    <string name="com_facebook_like_button_liked">Tykätty</string>
+    <string name="com_facebook_like_button_not_liked">Tykkää</string>
+    <string name="com_facebook_loading">Ladataan...</string>
+    <string name="com_facebook_loginview_cancel_action">Peruuta</string>
+    <string name="com_facebook_loginview_log_in_button">Kirjaudu sisään</string>
+    <string name="com_facebook_loginview_log_in_button_long">Kirjaudu sisään Facebookin avulla</string>
+    <string name="com_facebook_loginview_log_out_action">Kirjaudu ulos</string>
+    <string name="com_facebook_loginview_log_out_button">Kirjaudu ulos</string>
+    <string name="com_facebook_loginview_logged_in_as">Sisäänkirjautunut nimellä: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Sisäänkirjautunut Facebookin avulla</string>
+    <string name="com_facebook_send_button_text">Lähetä</string>
+    <string name="com_facebook_share_button_text">Jaa</string>
+    <string name="com_facebook_tooltip_default">Uutta! Sinä päätät – valitse, mitä haluat jakaa sovellusten kanssa.</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Ota käyttöön"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ei toimi, ellet ota Google Play Palveluita käyttöön."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Ota Google Play Palvelut käyttöön"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Asenna"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ei toimi ilman Google Play Palveluita, jotka puuttuvat laitteeltasi."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Asenna Google Play Palvelut"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Virhe Google Play -palveluissa"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"Sovelluksella <ns1:g id="APP_NAME">%1$s</ns1:g> on ongelmia Google Play Palveluiden kanssa. Yritä uudelleen."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ei toimi ilman Google Play Palveluita, joita laitteesi ei tue."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Päivitä"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ei toimi, ellet päivitä Google Play Palveluita."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Päivitä Google Play Palvelut"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ei toimi ilman Google Play Palveluita, joita päivitetään tällä hetkellä."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Uusi Google Play Palveluiden versio tarvitaan. Se päivittyy pian."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Avaa puhelimessa"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Kirjaudu sisään"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Kirjaudu Google-tilille"</string>
+    <string name="confirm">"Vahvista"</string>
+    <string maxwidth="-1" name="confirm_ok">OK</string>
+    <string description="confirm password textview title" name="confirm_password">Vahvista salasana</string>
+    <string description="ask user to enter password again to confirm" name="confirm_password_edit">Anna salasana uudelleen</string>
+    <string description="content" maxwidth="-1" name="content">"Tämän ohjelmiston käyttöön sovelletaan ASUS-verkkosivustossa olevia käyttöehtoja: \nhttp://www.asus.com"</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="copy">Kopioi</string>
+    <string description="Toast: copy ready" maxwidth="-1" name="copy_ready_more">Valitut tiedostot on kopioitu ja valmiina liitettäväksi.</string>
+    <string description="Toast: copy ready. %s is variable string." maxwidth="-1" name="copy_ready_one">"\"%s\" on kopioitu ja valmis liitettäväksi."</string>
+    <string name="copy_to">Kopioi kohteeseen</string>
+    <string description="country region textview title" name="country_region">Maan alue</string>
+    <string description="ack user to select on country" name="country_region_select">Valitse alueesi</string>
+    <string name="create_shortcut">"Luo pikavalinta"</string>
+    <string name="create_shortcut_dialog">"Luo pikavalinta Käynnistysohjelmassa"</string>
+    <string name="create_shortcut_toast">"Pikavalinnan luominen Käynnistysohjelmassa on valmis"</string>
+    <string name="cta_agree">"Salli"</string>
+    <string name="cta_check_title">"Muista"</string>
+    <string name="cta_dialog_content"><b>Tiedostonhallinta</b> yrittää käyttää verkkoa; verkon käytöstä voidaan veloittaa liittymäsopimuksesi mukainen maksu.</string>
+    <string name="cta_dialog_title">"Verkon käyttö"</string>
+    <string name="cta_disagree">"Hylkää"</string>
+    <string name="cta_show_menu">"Verkon käyttöoikeus"</string>
+    <string name="current_folder">"Nykyinen kansio"</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="cut">Leikkaa</string>
+    <string description="Toast: cut ready" maxwidth="-1" name="cut_ready_more">Valitut tiedostot on leikattu ja valmiina liitettäväksi.</string>
+    <string description="Toast: cut ready. %s is variable string." maxwidth="-1" name="cut_ready_one">"\"%s\" on leikattu ja valmis liitettäväksi."</string>
+    <string description="button text for sort file by date" maxwidth="-1" name="date">Päiväys</string>
+    <string description="button text for sort file by date ascending" maxwidth="-1" name="date_ascending">Päivämäärä (vanhin-uusin)</string>
+    <string description="button text for sort file by date descending" maxwidth="-1" name="date_descending">Päivämäärä (uusin-vanhin)</string>
+    <string msgid="7984755014526510295" name="day">"1 päivä"</string>
+    <string msgid="2070509222727852210" name="days">"<ns1:g id="DAYS">%s</ns1:g> päivää"</string>
+    <string maxwidth="-1" name="dbx_install_contnet">Dropboxia ei ole asennettu. Haluatko ladata ja asentaa sen play store -kaupasta?</string>
+    <string maxwidth="" name="dbx_install_title">Dropboxia ei ole asennettu</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="delete">Poista</string>
+    <string description="Dialog Title: delete dialog title" maxwidth="" name="delete_dialog">Tiedoston poisto</string>
+    <string description="Toast: delete fails" maxwidth="-1" name="delete_fail">Tiedoston poistaminen epäonnistui.</string>
+    <string description="Dialog Content: text in dialog. %d is variable number." maxwidth="" name="delete_more_files">Haluatko poistaa nämä %d kohdetta?</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="delete_one_directory">Haluatko poistaa tämän hakemiston?</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="delete_one_files">Haluatko poistaa tämän tiedoston?</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="delete_progress">Poistetaan...</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="delete_size">"Koko: "</string>
+    <string description="Toast: delete success" maxwidth="-1" name="delete_success_more">Valitut tiedostot on poistettu.</string>
+    <string description="Toast: delete success. %s is variable string." maxwidth="-1" name="delete_success_one">\"%s\" on poistettu.</string>
+    <string description="cutstom action bar view title for deselect all checkbox" maxwidth="" name="deselect_all">Poista valinta kaikista</string>
+    <string name="device_root_path">juuri</string>
+    <string description="compress dialog title" maxwidth="-1" name="dialog_create_zip_title">Anna arkiston nimi</string>
+    <string description="extract zip file dialog title. %s is a dynamic string. It is zip file name." maxwidth="-1" name="dialog_extract_zip_title">Pura %s kohteeseen:</string>
+    <string name="dialog_load_stream_url_info">Välttämättömien tietojen noutaminen palvelimelta</string>
+    <string name="dialog_msg_market_login_account">"Kirjaudu sisään Google-tilillesi ladataksesi sovelluksen"</string>
+    <string description="text encoding dialog title" maxwidth="-1" name="dialog_text_encoding_title">Tekstin koodaus</string>
+    <string name="dialog_title_market_login_account">"Lisää tili"</string>
+    <string description="show zip info dialog title. %s is a dynamic string. Is is a zip file name" maxwidth="-1" name="dialog_unzip_preview_title">Pura %s</string>
+    <string description="Dialog Title: Directory information dialog title" maxwidth="-1" name="dir_info_dialog_title">Hakemistotiedot</string>
+    <string name="display">"Näytä seuraavana:"</string>
+    <string name="display_hint">"Oma tietokone ei voi olla tyhjä"</string>
+    <string name="dm_openfile">"Avaa tiedosto"</string>
+    <string name="do_not_show_again">"Älä näytä uudelleen"</string>
+    <string name="domain">"Verkko-alue:"</string>
+    <string name="domain_hint">"Voi olla tyhjä"</string>
+    <string name="download_fail">lataaminen epäonnistui!</string>
+    <string name="drag_items_one">Vedä kohde</string>
+    <string name="drag_items_other">Vedä kohteita</string>
+    <string name="drawer_close">"Sulje siirtymisruutu"</string>
+    <string name="drawer_home">Koti</string>
+    <string name="drawer_open">"Avaa siirtymisruutu"</string>
+    <string description="Hint: the operation is incorrect" maxwidth="-1" name="drop_incorrect_hint">Virheellinen toiminto</string>
+    <string description="Hint: the target folder which you want to do something" maxwidth="-1" name="drop_target_to">Kohteeseen:</string>
+    <string name="dumdownloadfrom">Lataa kohteesta</string>
+    <string name="dumuploadto">Siirrä kohteeseen</string>
+    <string name="duplicate_files">"Jäljennä tiedostot"</string>
+    <string name="duplicate_files_content_hint">"Etsi jäljennetyt tiedostot ja poista ne niin, että annat tähän luvan."</string>
+    <string name="edit_toast_name_too_long">Merkkien enimmäismäärä saavutettu</string>
+    <string name="edit_toast_special_char">Erikoismerkkiä ei voi sisällyttää</string>
+    <string name="editcategory_hint">"Napauta Muokkaa-painiketta mukauttaaksesi Luokka-paneelin."</string>
+    <string description="describe the empty folder" maxwidth="-1" name="empty_folder_title">"Ei tiedostoja"</string>
+    <string description="Dialog Button: click to open the encoding list dialog" maxwidth="-1" name="encode">Tekstin koodaus</string>
+    <string description="ask user to enter password" maxwidth="-1" name="enter_password">"Syötä salasana"</string>
+    <string name="eula_content_description">
+        \nTämä Loppukäyttäjän lisenssisopimus ("EULA") on pätevä ja sitova sopimus ASUSTeK Computer Inc. -yhtiön ("ASUS") ja Sinun, eli käyttäjän, välillä siitä, että käytät ASUS-ohjelmistoa ("Ohjelmisto") alla ilmaistulla tavalla. Asentamalla Ohjelmiston ja jatkamalla sen käyttöä ILMAISET SELVÄSTI, ETTÄ OLET LUKENUT JA YMMÄRTÄNYT SEKÄ HYVÄKSYT SEN, ETTÄ LOPPUKÄYTTÄJÄN LISENSSISOPIMUS SITOO SINUA, SAMOIN KUIN SEN TULEVAT VERSIOT. 
+\n\n1.OHJELMISTO tarkoittaa tarjottua ASUS-ohjelmistoa tai ASUS-tuotetta, mukaan lukien tulevat ohjelmiston korjaukset, päivitykset ja muokatut versiot, mutta näihin rajoittumatta.
+\nOhjelmiston mukana saattaa tulla muita ASUS-ohjelmia tai kolmannen osapuolen ohjelmia, joiden lisenssi on yhden tai useamman vapaan avoimen lähdekoodin lisenssin mukainen, kuten listattu kohdassa www.opensource.org/licenses. Tällaiset Vapaat Avoimen Lähdekoodin Ohjelmistot tarjotaan sinulle vain niitä koskevan lisenssin mukaisina tai mukana tulevan tai Ohjelmiston mukana olevan FOSS-lisenssitiedoston kopiosuojailmoituksen alaisina. EULA:n ehtoja ei sovelleta tällaisiin Vapaisiin Avoimen Lähdekoodin Ohjelmistoihin.
+\n\n2.LISENSSI Tämän loppukäyttäjän lisenssisopimuksen mukaan ASUS antaa sinulle rajallisen, ei-kaupallisen, ei-eksklusiivisen lisenssin käyttää Ohjelmistoa yksinomaan ASUS-tuotteisiin liitettynä. Voit tehdä yhden koneen luettavassa muodossa olevan kopion Ohjelmistosta ainoastaan varmuuskopiotarkoituksiin, ja varmuuskopioon on sisällytettävä kaikki alkuperäisen version kopiosuoja- tai muut omistusoikeushuomiot. Lisenssiä ei tule alilisensoida eikä se ole siirrettävissä, paitsi henkilölle tai taholle jolle siirrät myös Ohjelmistoa käyttävän ASUS-tuotteeen koko omistajuuden, olettaen että tähän sisältyy oikeuksien pysyvä siirto tämän EULAn sisällä etkä säilytä itselläsi yhtään täyttä tai osittaista kopiota Ohjelmistosta ja että vastaanottaja myöntyy Loppukäyttäjän lisenssisopimuksen ehtoihin.
+\n\n3.TAKAISINMALLINNAN KIELTO Et takaisinmallinna, dekompiloi, tai pura Ohjelmistoa, tai poista sen salausta, tai anna lupaa tai kehota edellä olevaan, paitsi siinä mitassa, kun sovellettava laki estää aiemmin sanotun lainmukaisuuden.
+\n\n4.LUOTTAMUKSELLINEN ITY Sinulla on velvollisuus suojella ja olla paljastamatta tai aiheuttaa Ohjelmistoa koskevien luottamuksellisten tietojen paljastumista kolmansille osapuolille, liittyen, mutta ei rajoittuen, kauppasalaisuuksiin ja kaikkiin kopiosuojan alaisiin materiaaleihin.
+\n\n5.ImmateriaaliOIKEUDET ("IP-oikeudet") Todennat sen ja suostut siihen, että kaikki immateriaalioikeudet Ohjelmistoon tai siitä seuraten ovat ja ovat jatkossakin ASUSin ja sen lisensoijan yksilöllistä omaisuutta. Mikään tässä loppukäyttäjän lisenssisopimuksessa ei siirrä näitä IP-oikeuksia Sinulle. Kaikki IP-oikeuksien valtuuttamaton käyttö lasketaan tämän loppukäyttäjän lisenssisopimuksen loukkaukseksi sekä immateriaalioikeuksien loukkaukseksi. Tämä sisältää kopiosuojalait ja tavaramerkkilait, mutta ei rajoitu näihin.
+\nLähettämällä tietoja, materiaaleja, ideoita, konsepteja ja tekniikkoja, henkilötietoja lukuunottamatta, ASUSille Ohjelmiston kautta ("Palautteet"), Sinä hyväksyt ja suostut siihen että: (i) Sinun Palautteesi ei sisällä luottamuksellista tai omistuksellista tietoa; (ii) ASUS ei ole velvollinen pitämään luottamuksellisuutta, suoraa tai implikoitua, Palautteiden suhteen; (iii) ASUS on oikeutettu käyttämään tai ilmoittamaan omasta suostumuksestaan Palautteet kaikkiin tarkoituksiin koko maailmassa; (iv) Palautteista tulee ASUSin omaisuutta ilman mitään velvoitteita Sinulle; ja (v) et ole oikeutettu minkäänlaiseen korvaukseen tai takaisinmaksuun.
+\n\n6.KAUSI JA LOPETUS Tämä EULA pätee ohjelmiston asennuspäivästä alkaen. Voit lopettaa tämän lisenssin minä hetkenä tahansa lopettamalla Ohjelmiston käyttämisen ja poistamalla Ohjelmiston ASUS-tuotteesta. Oikeutesi loppetetaan ilman aiempaa huomiota ASUSilta jos uskomme, ettet noudata jotain tämän Loppukäyttäjän lisenssisopimuksen ehtoa.
+\n\n7.Takuuhuomautus ja vastuun rajaus HYVÄKSYT, ETTÄ OHJELMISTO TOIMITETAAN "SELLAISENAAN". KAIKKI RISKIT LIITTYEN OHJELMISTON LAATUUN JA SUORITUSKYKYYN OVAT SINUN VASTUULLASI, SISÄLTÄEN KAIKKI TARVITTAVAN PALVELUN JA KORJAAMISEN KUSTANNUKSET NIIHIN KUITENKAAN RAJOITTUMATTA. LAIN SALLIMISSA RAJOISSA ASUS EI ANNA TAKUITA, SUORIA TAI VÄLILLISIÄ, TÄMÄN OHJELMISTON SUHTEEN TAI MUUN  LOPPUKÄYTTÄJÄN LISENSSISOPIMUKSEN ALAISENA TAI TÄLLE OHJELMISTOLLE TARJOTTAVAN TIEDON TAI DOKUMENTAATION SUHTEEN, MUKAAN LUKIEN TAKUUTA MARKKINOITAVUUDESTA TAI SOPIVUUDESTA MIHINKÄÄN TARKOITUKSEEN TAI TAKUUTA SOPIMUSRIKKOMUKSIA VASTAAN, TAI TAKUU JOKA JOHTUU KÄYTÖSTÄ TAI SUORITUKSESTA. ASUS EI ANNA TAKUUTA MYÖS MISTÄÄN OHJELMISTON KÄYTÖN TULOKSESTA TAI OHJELMISTON KÄYTÖN TULOKSENA SAATAVASTA TIEDOSTA. JOTKUT OIKEUSALUEET EIVÄT MAHDOLLISTA TIETTYJEN TAKUIDEN POISTAMISTA TAI VASTUUN RAJAAMISTA TAI POISTAMISTA TIETYISTÄ VAHINGOISTA. TÄTEN JOTKUT YLLÄ OLEVISTA KOHDISTA JA RAJOITUKSISTA EIVÄT VÄLTTÄMÄTTÄ PÄDE SINUUN.
+\nKOKO OHJELMISTOSTA JA/TAI SUORITUKSESTA SEURAAVA RISKI ON HARTEILLASI. MISSÄÄN TAPAUKSESSA ASUS, SEN LISENSOIJAT TAI MITKÄÄN LIITTYVISTÄ ESIMIEHISTÄ, JOHTAJISTA, TYÖNTEKIJÖISTÄ, ASIAMIEHISTÄ TAI TYTÄRYHTIÖISTÄ EIVÄT OLE VASTUUSSA MISTÄÄN VÄLILLISISTÄ, SATUNNAISISTA, SUORISTA, EPÄSUORISTA, ERITYISISTÄ, RANGAISTUKSELLISISTA TAI MUISTA VAHINGOISTA (SISÄLTÄEN RAJOITTAMATTA VAHINGOT TULON MENETYKSESTÄ, KESKEYTYKSETÄ, TIETOJEN MENETYKSESTÄ TAI MUISTA RAHALLISISTA MENETYKSISTÄ) JOTKA JOHTUVAT TÄSTÄ EULASTA TAI LIITTYVÄT SIIHEN, TAI OHJELMISTON KÄYTÖSTÄ TAI KÄYTTÖKYVYTTÖMYYDESTÄ, SILLOINKIN KUN ASUSILLE ON TIEDOTETTU TÄLLLAISTEN VAHINKOJEN MAHDOLLISUUKSISTA. TIETYT OIKEUSTOIMIALUEET EIVÄT SALLI TIETTYJEN TAKUIDEN POISTAMISTA TAI RAJOITTAMISTA TAI TIETTYJEN VAHINKOJEN VASTUUN POISTAMISTA. TÄTEN TIETYT RAJOITUKSET EIVÄT VÄLTTÄMÄTTÄ PÄDE SINUUN.
+\n\n8.Vastuuvapaus SINÄ sovit puolustavasi ASUSia ja sen tytäryhtiöitä, palveluntarjoajia, syndikaattoreita, jakelijoita, lisenssinantajia, johtajia, esimiehiä ja työntekijöitä, ja vapauttavasi nämä vastuusta, riippuen mihinkään menetykseen, vahinkoon, vastuuseen ja kuluun joka johtuu mistään syytteestä tai vaatimuksesta (ml. järkevän suuruiset asianajokulut ja oikeuskulut) joka johtuu siitä, että SINÄ olet rikkonut tätä loppukäyttäjän lisenssisopimusta tai mitään soveltuvaa lakia tai säädöstä tai kolmannen osapuolen oikeutta.
+    </string>
+    <string name="eula_content_title">"Loppukäyttäjän lisenssisopimus"</string>
+    <string description="Do not translate ASUS" maxwidth="" name="eula_description">"Laillinen sopimus ASUS-sovellusten ja loppukäyttäjien välillä"</string>
+    <string maxwidth="" name="eula_title">"Loppukäyttäjän lisenssisopimus"</string>
+    <string name="example">"Esimerkki:"</string>
+    <string description="Dialog Button: extract file for dialog" maxwidth="-1" name="extract">Pura</string>
+    <string name="facebook_app_invite">"Facebook-yhteystiedot"</string>
+    <string name="fb_request_error_permissions">"Tällä sovelluksella ei ole käyttöoikeuksia tehdä tätä. Kokeile kirjautua sisään sovellukseen uudelleen."</string>
+    <string name="fileList_Nofiles">Ei tiedostoja</string>
+    <string description="Dialog Title: File information dialog title" maxwidth="-1" name="file_info_dialog_title">Tiedostotiedot</string>
+    <string description="Application Name shown on title" maxwidth="" name="file_manager">Tiedostonhallinta</string>
+    <string description="string indicating camera flash is not used" maxwidth="-1" name="flash_off">Ei salamaa</string>
+    <string description="string indicating camera flash is fired" maxwidth="-1" name="flash_on">Salama käyt.</string>
+    <string description="click to retrieve password" maxwidth="-1" name="forget_password">"<u>Unohtuiko salasana?</u>"</string>
+    <string name="fragment_analyzer_allfiles_used_hint">"Käytetty:"</string>
+    <string name="fragment_analyzer_chart_free_hint">"Vapaana:"</string>
+    <string name="fragment_analyzer_chart_total_hint">"Yhteensä:"</string>
+    <string name="fragment_analyzer_chart_used_hint">"KÄYTETTY"</string>
+    <string name="fragment_analyzer_more_hint">"lisää"</string>
+    <string name="google_app_invite">"Google-yhteystiedot"</string>
+    <string name="group_title_installed">"Asennettu"</string>
+    <string name="group_title_not_installed">"Ei asennettu"</string>
+    <string name="group_title_others">"Muut"</string>
+    <string name="group_title_recommended">"Suositeltu"</string>
+    <string name="hidden_zone_change_password">"Vaihda salasana"</string>
+    <string name="hidden_zone_confirm_password">"Vahvista PIN-koodi"</string>
+    <string name="hidden_zone_enter_password">"Syötä PIN-koodisi"</string>
+    <string name="hidden_zone_fingerprint_to_unlock">"Avaa lukitus sormenjäljellä"</string>
+    <string name="hidden_zone_forget_password">"Salasana unohtui"</string>
+    <string name="hidden_zone_introduction_description">"Piilota yksityiset tiedostosi piilokappiin. Piilokaapin avaamiseen tarvitaan PIN-koodi."</string>
+    <string name="hidden_zone_password_mismatch">"PIN-koodi ei täsmää"</string>
+    <string name="hidden_zone_set_password_success">"Salasanan asetus onnistui"</string>
+    <string name="hidden_zone_setup_account">"Luo tili"</string>
+    <string name="hidden_zone_setup_password">"Syötä 4-numeroinen PIN-koodi"</string>
+    <string name="hidden_zone_wrong_password">"Väärä PIN-koodi"</string>
+    <string description="Can’t connect to HomeCloud." maxwidth="-1" name="homecloud_access_error">Yhteyden muodostaminen HomeCloud-palveluun ei onnistu. Varmista, että HomeCloud-palvelu on online-tilassa.</string>
+    <string name="homecloud_notice_1">ASUS HomeCloud on osa Windows-järjestelmässä toimivaa palvelinohjelmistoa. Se on suunniteltu digitaalisten sisältöjen kirjastoksi kotikäyttöön ja se tarjoaa pilvitallennuspalveluita ja multimediasuoratoistopalveluita tällä hetkellä ja mahdollisuuden palvelujen laajentamiseen tulevaisuudessa.</string>
+    <string name="homecloud_notice_2">Voit ladata ja käyttää sitä heti. </string>
+    <string name="homecloud_notice_3">http://home.asuscloud.com/</string>
+    <string name="homecloud_toast_udp_unsupported">Rajoitettu verkko, ota yhteys verkon pääkäyttäjään tai vaihda toiseen verkkoon.</string>
+    <string msgid="2546819039651509323" name="hour">"1 tunti"</string>
+    <string msgid="2071487018566991613" name="hours">"<ns1:g id="HOURS">%s</ns1:g> tuntia"</string>
+    <string maxwidth="" name="httpserver_acquire_permission_message">"HTTP-tiedostopalvelin sulkeutuu ja toiminnat voivat keskeytyä. Jatketaanko?"</string>
+    <string maxwidth="" name="httpserver_connectwifiname">"Yhdistetty Wi-Fi-tukiasema:"</string>
+    <string maxwidth="" name="httpserver_description">"Käynnistä palvelu yhdistääksesi mobiililaitteen PC-tietokoneeseen."</string>
+    <string maxwidth="" name="httpserver_instruction">"Näppäile tämä osoite PC-tietokoneen selaimeen:"</string>
+    <string maxwidth="" name="httpserver_need_saf">"Jos haluat hallita ulkoista tallennustilaasi PC-tietokoneelta, sinun on myönnettävä käyttöoikeus."</string>
+    <string maxwidth="" name="httpserver_no_network">"Liitä laitteesi samaan Wi-Fi-verkkoon"</string>
+    <string maxwidth="" name="httpserver_no_permission_message">"Et voi kirjoittaa ulkoiseen tallennustilaan ilman riittäviä käyttöoikeuksia. Jatketaanko?"</string>
+    <string maxwidth="" name="httpserver_no_permission_title">"Käynnistä langaton tiedostonsiirto"</string>
+    <string maxwidth="" name="httpserver_start">"Käynnistä"</string>
+    <string maxwidth="" name="httpserver_stop">"Pysäytä"</string>
+    <string maxwidth="" name="httpserver_title">"Langaton tiedostonsiirto PC-tietokoneeseen"</string>
+    <string description="Context Menu: options of context menu" maxwidth="-1" name="info">Tiedot</string>
+    <string description="file info textview context" maxwidth="-1" name="info_aperture">"Aukko: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_datetime">"Ottamispäivä: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_exposure_time">"Valotusaika: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_file_num">"Tiedostojen lukumäärä: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_flash">"Salama: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_focal_length">"Polttoväli: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_image_height">"Korkeus: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_image_width">"Leveys"</string>
+    <string description="file info textview context" maxwidth="-1" name="info_image_x">" x "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_iso">"ISO: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_location">"Sijainti: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_maker">"Tekijä: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_model">"Malli: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_modified">"Muutospäivämäärä: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_name">"Nimi: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_orientation">"Suunta: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_path">"Polku: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_permission">"Oikeus: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_type">"Tyyppi: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_white_balance">"Valkotasapaino: "</string>
+    <string description="Do not translate ASUS" maxwidth="" name="inspire_asus_description">"Käyttötietojen kerääminen ASUKSELLE tuotteen ja käyttäjäkokemuksen parantamiseksi"</string>
+    <string name="inspire_asus_title">"Inspiroi ASUSTA"</string>
+    <string name="install">"Asenna"</string>
+    <string description="storage label" maxwidth="-1" name="internal_storage_title">Sisäinen säilytystila</string>
+    <string description="Toast: the account is invalid" maxwidth="-1" name="invalid_account">"Virheellinen tili"</string>
+    <string description="Invalid directory path" maxwidth="-1" name="invalid_directory_path">Hakemistopolku ei kelpaa</string>
+    <string name="invalid_server_id">"Palvelintunnus ei kelpaa"</string>
+    <string name="invalid_xml">"xml ei kelpaa"</string>
+    <string name="inviteContentTitle">%1$s kutsuu sinut lataamaan ja asentamaan ASUS-tiedostonhallinnan.</string>
+    <string name="inviteContent_p1">"ASUS-tiedostonhallinnan on ihanteellinen tapa hallita tiedostojasi älylaitteella. Tämä tiedostonhallintasovellus auttaa sinua käsittelemään ja lajittelemaan erilaisia tiedostoja, jotka on tallennettu puhelimesi muistiin, microSD-kortille, lähiverkkoon tai jopa pilveen."</string>
+    <string name="inviteContent_p2">Hallitse tiedostojasi tehokkaasti ja helposti ASUS-tiedostonhallinnan! ASUS-tiedostonhallinnan auttaa sinua käsittelemään kaikkia tiedostojasi olipa ne tallennettu laitteittesi muistiin, microSD-kortille, lähiverkkoon ja pilvipalvelutileille, kuten oma ASUS HomeCloud ja Webstorage, ja muihin pilvipalveluihin, kuten Dropbox, Google Drive tai Microsoft OneDrive.</string>
+    <string name="inviteContent_p3">"ASUS-tiedostonhallinnan on hauska käyttää. Kokeile sitä NYT! :D"</string>
+    <string description="sticker detail page button name" maxwidth="-1" name="invite_friends">"Kutsu ystäviä"</string>
+    <string name="item">kohde</string>
+    <string name="items">kohdetta</string>
+    <string name="keep">"Säilytä"</string>
+    <string name="kk_sd_permission_warning">Android-rajoituksen vuoksi, Android 4.4 ei salli kolmannen osapuolen sovellusten mukauttaa ulkoisia SD-kortteja.</string>
+    <string name="large_files_content_hint">"Etsi suuria tiedostoja ja poista ne luvallasi."</string>
+    <string description="linked file is missing" maxwidth="-1" name="linked_file_missing">"Linkitetty tiedosto puuttuu"</string>
+    <string description="text for progress bar" maxwidth="-1" name="loading">"Ladataan…"</string>
+    <string name="local">Paikallinen</string>
+    <string description="button text for sort file by date" maxwidth="-1" name="location">"Sijainti"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="logging_cloud_storage">Kirjaudutaan sisään...</string>
+    <string name="login_account_miss">"Facebook-sovellus ei onnistunut rekisteröimään Android-tilinhallintaa. Yritä kirjautua ulos Facebook-sovelluksella ja kirjaudu sitten uudelleen sisään."</string>
+    <string name="login_again_later">"Palvelin ei ole nyt käytettävissä. Yritä myöhemmin uudelleen."</string>
+    <string description="dialog title, key in the asus ID and PW to Login account" maxwidth="-1" name="login_asus_id">"ASUS-tilin sisäänkirjautuminen"</string>
+    <string description="Toast: login account fail" name="login_fail" width="-1">Kirjautuminen epäonnistui</string>
+    <string description="login account name" maxwidth="-1" name="login_id">"Tilin nimi / Web-tallennustilan tunnus"</string>
+    <string description="logout account" name="logout_account" width="-1">Kirjaudu ulos</string>
+    <string name="low_storage_tutorial_description">Napauta ja pidä valitaksesi tiedostosi ja valitse sitten "Siirrä kohteeseen" Google Drive</string>
+    <string name="low_storage_tutorial_title">Siirrä tiedostot Google Drive -palveluun</string>
+    <string name="m_permission_dialog_message">"Napauta [Asetukset] laittaaksesi päälle [%2$s]-luvan kohdasta [Sovellustiedot] > [Luvat], sitten käynnistä %1$s uudelleen."</string>
+    <string name="m_permission_dialog_positive_button">"Asetukset"</string>
+    <string name="m_permission_setting_subtitle_files">"%1$s tarvitsee %2$s-luvan päästäkseen laitteellasi oleviin tiedostoihisi."</string>
+    <string name="m_permission_setting_title_cloud_storage">"Pilvivarastoon ei päästä"</string>
+    <string name="m_permission_setting_title_files">"Tiedostoihin ei päästä"</string>
+    <string name="m_permission_setting_turn_on">"Laita päälle"</string>
+    <string description="string indicating how camera shooting feature is used" maxwidth="-1" name="manual">Manuaalinen</string>
+    <string name="market_app_error">"Laitteellesi asennetussa kaupan APP-sovelluksessa ilmeni virhe!"</string>
+    <string description="ask user to enter email address as account name" maxwidth="-1" name="member_id_hint">"Syötä sähköpostiosoite"</string>
+    <string description="The title of a menu for General Preferences.Pressing the menu item lets user to view and edit his general settings" maxwidth="30" name="menu_general_preferences">"Yleiset asetukset"</string>
+    <string description="settings menu tutorial" maxwidth="-1" name="menu_tutorial">Opetusohjelma</string>
+    <string name="messenger_send_button_text">Lähetä</string>
+    <string msgid="2486157997434653710" name="minute">"1 minuutti"</string>
+    <string msgid="6115838729146292526" name="minutes">"<ns1:g id="MINUTES">%s</ns1:g> minuuttia"</string>
+    <string description="Hint: move the items" maxwidth="-1" name="move">Siirrä</string>
+    <string name="move_or_delete_msg">"Poista kohteet väliaikaisesti kierrätysastiaan nyt?\n(Valitse alla oleva laatikko poistaaksesi kohteet pysyvästi.)"</string>
+    <string name="move_to">Siirrä kohteeseen</string>
+    <string description="Toast: move to recycle bin fails" maxwidth="-1" name="move_to_hidden_zone_fail">"Siirtäminen piilokaappiin epäonnistui"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="move_to_hidden_zone_progress">"Siirretään piilokaappiin..."</string>
+    <string description="Toast: move to recycle bin success" maxwidth="-1" name="move_to_hidden_zone_success_more">"Valitut tiedostot on siirretty piilokaappiin."</string>
+    <string description="Toast: move to recycle bin success. %s is variable string." maxwidth="-1" name="move_to_hidden_zone_success_one">"\"%s\" on siirretty piilokaappiin."</string>
+    <string description="Toast: move to recycle bin fails" maxwidth="-1" name="move_to_trash_fail">"Siirrä Kierrätysastiaan -toiminto epäonnistui"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="move_to_trash_progress">"Siirretään Kierrätysastiaan..."</string>
+    <string description="Toast: move to recycle bin success" maxwidth="-1" name="move_to_trash_success_more">"Valitut tiedostot on siirretty Kierrätysastiaan"</string>
+    <string description="Toast: move to recycle bin success. %s is variable string." maxwidth="-1" name="move_to_trash_success_one">"\"%s\" on siirretty Kierrätysastiaan"</string>
+    <string name="msg_too_big_to_recycle">"Kohteet ovat liian isoja kierrätettäväksi.\nHaluatko poistaa ne pysyvästi?"</string>
+    <string name="multi_drm_file_forbidden_operation">Tämä toiminta on kielletty, koska jotkut valituista tiedostoista ovat DRM-suojattuja.</string>
+    <string description="shortcut label" maxwidth="-1" name="my_camera_title">Kamera</string>
+    <string description="shortcut label" maxwidth="-1" name="my_download_title">Lataa</string>
+    <string description="shortcut label" maxwidth="-1" name="my_music_title">Musiikki</string>
+    <string description="shortcut label" maxwidth="-1" name="my_picture_title">Kuva</string>
+    <string description="storage label" maxwidth="-1" name="my_storage_title">Oma säilytystila</string>
+    <string description="button text for sort file by name" maxwidth="-1" name="name">Nimi</string>
+    <string description="button text for sort file by name ascending" maxwidth="-1" name="name_ascending">Nimi (z-a)</string>
+    <string description="button text for sort file by name descending" maxwidth="-1" name="name_descending">Nimi (a-z)</string>
+    <string name="network_cta_hint">"Hyväksy yhteyden muodostus verkkoon "</string>
+    <string name="network_invalid">"Verkkoyhteys ei kelpaa"</string>
+    <string name="network_invalid_info">"Yhteys ei kelpaa. Tarkista se uudelleen."</string>
+    <string name="network_not_available">"Verkkoyhteys epäonnistui"</string>
+    <string description="Can’t connect to networkpalce" maxwidth="-1" name="networkplace_access_error">"Yhteyden muodostaminen epäonnistui. Varmista, että palvelin on online-tilassa."</string>
+    <string name="networkplace_storage_title">"Verkkopaikka"</string>
+    <string description="Dialog Title: create new folder" maxwidth="" name="new_folder_dialog">Luo uusi kansio</string>
+    <string description="Toast: new folder fails" maxwidth="-1" name="new_folder_fail">Uuden kansion luominen epäonnistui.</string>
+    <string description="Toast: new folder success. %s is variable string." maxwidth="-1" name="new_folder_success">Kansio \"%s\" on luotu.</string>
+    <string maxwidth="" name="news_1"><b>Mukautettava aloituspaneeli</b>: Nyt voit mukauttaa aloituspaneelisi eri luokilla ja järjestyksillä.</string>
+    <string maxwidth="" name="news_2"><b>Suosikkivalitsin</b>: Lisää suosikkikansio suoraan suosikkiluokasta.</string>
+    <string maxwidth="" name="news_3"><b>Tiedostonhallinta-pienohjelma</b>: Luo kansion pikavalinta Käynnistysohjelmassa.</string>
+    <string maxwidth="" name="news_mark1">"★  "</string>
+    <string maxwidth="" name="news_subtitle">"Tässä on tärkeä päivitys, jota sinun ei pitäisi ohittaa."</string>
+    <string maxwidth="" name="news_title">"Mitä uutta"</string>
+    <string maxwidth="" name="news_v21"><b>Langaton tiedostonsiirto PC-tietokoneeseen/PC-tietokoneesta</b>: Siirrä tiedostoja PC-tietokoneeseen/hallitse tiedostoja PC-tietokoneessa</string>
+    <string maxwidth="" name="news_v23">"Suorituskyvyn parannus ja virheenkorjauksia"</string>
+    <string maxwidth="" name="news_v31">"Tallennustilan analysoija kertoo, minkä tyyppiset tiedostot veivät kaiken tallennustilan"</string>
+    <string maxwidth="" name="news_v32">"Uusi parannettu sovellusluokka"</string>
+    <string name="news_v41">"Piilota yksityiset tiedostosi piilokaappiin"</string>
+    <string name="news_v42">"Palauta poistetut tiedosto roskakorista"</string>
+    <string name="news_v43">"Poista tiedostojen kaksoiskappaleet tallennustilan analysointiohjelmasta"</string>
+    <string name="news_v44">"Uusi näyttöominaisuus –​ pimeä tila"</string>
+    <string name="news_v45">"Parannettu suorituskyky"</string>
+    <string name="news_v46">"Ohjelmistovirheet korjattu"</string>
+    <string name="newversion_description">"Tiedostonhallinnan päivitetty versio on nyt käytettävissä. Haluatko päivittää nyt?"</string>
+    <string name="newversion_title">"Uusi versio"</string>
+    <string name="next">Seuraava</string>
+    <string description="Dialog Button: no for dialog" maxwidth="" name="no">Ei</string>
+    <string name="no_device">"Ei laitetta"</string>
+    <string name="no_items">"Ei kohteita"</string>
+    <string name="no_network">"Ei verkkoyhteyttä"</string>
+    <string description="The description to inform users when there is no internet access" maxwidth="-1" name="no_network_connection_message">"Tarkista yhteytesi ja yritä uudelleen."</string>
+    <string name="no_network_info">"Tämän sovelluksen käyttämiseen tarvitaan internet-yhteys. Ota Asetuksissa käyttöön matkapuhelinverkko tai Wi-Fi-yhteys."</string>
+    <string name="no_password">"Syötä salasanasi"</string>
+    <string name="no_right">"Tililläsi ei ole oikeutta kirjautua sisään."</string>
+    <string name="no_share_folder">Tässä laitteessa ei ole jaettua tiedostoa</string>
+    <string description="Toast: No space to copy file and left on device" maxwidth="-1" name="no_space_fail">Muisti ei riitä</string>
+    <string name="no_user_exist">"Käyttäjänimeä ei ole"</string>
+    <string name="no_username">"Syötä ensin käyttäjänimesi."</string>
+    <string name="notification_gdrive_redeem_content">"Hae se NYT Google Drive -palvelusta. "</string>
+    <string name="notification_gdrive_redeem_title">"Ilmainen 100 Gt:n tallennustila!"</string>
+    <string name="occur_error_do_relogin">"Kirjaudu uudelleen sisään kohteeseen %s"</string>
+    <string description="Dialog Button: ok for dialog" maxwidth="" name="ok">OK</string>
+    <string name="onedrive_account_only_one_alert">"Vain yhden ASUS-tilin OneDriven lisääminen on sallittu. Sinun on poistettava nykyinen tilisi ennen sen korvaamista uudella."</string>
+    <string name="open">Avaa</string>
+    <string description="Toast: open file fails" maxwidth="-1" name="open_fail">Tiedoston avaaminen epäonnistui.</string>
+    <string maxwidth="" name="open_source_license_description">"Avoimen lähdekoodin ohjelmiston lisenssi-ilmoitukset"</string>
+    <string maxwidth="" name="open_source_license_title">"Avoimen lähdekoodin lisenssit"</string>
+    <string name="othersforum_site_url">http://www.asus.com/fi/Terms_of_Use_Notice_Privacy_Policy/OthersForum_Site/</string>
+    <string name="password">Salasana</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="paste">Liitä</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="paste_exist_apply">Käytä kaikkiin</string>
+    <string description="Dialog Title: paste exist dialog title" maxwidth="" name="paste_exist_dialog">Sama tiedostonimi</string>
+    <string description="Dialog Content: text in dialog. %s is variable string." maxwidth="" name="paste_exist_file">"Tiedosto \"%s\" on jo olemassa."</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="paste_exist_replace">Haluatko korvata sen uudella?</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="paste_exist_to">Päättyen</string>
+    <string description="Toast: paste fails" maxwidth="-1" name="paste_fail">Tiedostojen liittäminen epäonnistui.</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="paste_progress">Liitetään...</string>
+    <string name="paste_progress_title">Toinen kopiointitehtävä on käynnissä...</string>
+    <string description="Toast: paste success. %s is variable string." maxwidth="-1" name="paste_success">Tiedostot on lisätty kohteeseen \"%s\".</string>
+    <string name="permanently_delete">"Poista pysyvästi"</string>
+    <string description="Toast: operation permission deny" maxwidth="-1" name="permission_deny">Käyttö estetty.</string>
+    <string name="permission_dialog_title">"Sovelluksen käyttöoikeus"</string>
+    <string name="permission_essential">"Käyttöoikeudet vaaditaan. Siirry asetuksiin ottaaksesi käyttöoikeudet käyttöön!"</string>
+    <string name="permission_reason_contact">"Tiedostonhallinnan on käytettävä tilitietojasi pilvitallennustilaan kirjautumiseen."</string>
+    <string name="permission_reason_storage">"Tiedostonhallinnan on käytettävä laitteesi tallennustilaa toimiakseen oikein"</string>
+    <string description="Toast: You may not select more than %s photos." maxwidth="-1" name="photo_selection_limit_number_toast">Valitse %s-valokuvien maksimimäärä</string>
+    <string description="This is the title of the screen for setting user preferences." maxwidth="-1" name="preferences_title">"Asetukset"</string>
+    <string name="previous_folder">"Edellinen kansio"</string>
+    <string maxwidth="" name="privacy_policy">"Tietosuojakäytäntö"</string>
+    <string name="privacy_policy_url">http://www.asus.com/us/Terms_of_Use_Notice_Privacy_Policy/Privacy_Policy/</string>
+    <string name="processing_picture">"Kuvaa käsitellään"</string>
+    <string name="processing_video">"Videota käsitellään"</string>
+    <string name="progressactivity_title">Transmission Manager</string>
+    <string name="promote_darkmode_message">"Muuta asetuksiasi kohdassa %s"</string>
+    <string name="promote_darkmode_title">"Uusi näyttöominaisuus –​ pimeä tila"</string>
+    <string name="promotion_notification_content">"Sinun on kokeiltava \"Langaton tiedostonsiirto\"-ominaisuutta!"</string>
+    <string name="promotion_notification_title">"Käytätkö vielä USB-kaapelia tiedostojen siirtoon?"</string>
+    <string name="publish">"Julkaise"</string>
+    <string name="pullfreshlistview_footer_hint_normal">Lataa lisää</string>
+    <string name="pullfreshlistview_footer_hint_ready">Vapauta ladataksesi lisää</string>
+    <string name="pullfreshlistview_header_hint_loading">Virkistetään...</string>
+    <string name="pullfreshlistview_header_hint_normal">Vedä alas</string>
+    <string name="pullfreshlistview_header_hint_ready">Vapauta virkistääksesi</string>
+    <string name="pullfreshlistview_header_last_time">Viimeisin virkistämisaika:</string>
+    <string name="rate_later">"Myöhemmin"</string>
+    <string name="rate_now">"Luokittele nyt"</string>
+    <string description="rate us" maxwidth="-1" name="rate_us">Luokittele meidät</string>
+    <string name="rating_dialog_message_v3_1">"Arvostatko %s:n käyttämistä? Luokittele meidät Google Play -kaupassa innoittaaksesi meitä!"</string>
+    <string name="rating_dialog_message_v3_2">"Jos sinulla on ehdotuksia tai palautetta, kirjoita meille %s-kohdassa."</string>
+    <string name="recent_files_content_hint">"Etsi viimeisimmät tiedostot ja poista ne luvallasi."</string>
+    <string description="shortcut title: recently used files" name="recently_used" width="-1">Nykyinen</string>
+    <string name="recommend_clean_master_msg">"Maailman luotetuin Android-optimoija, Nopeuden tehostaja, Akun säästäjä ja ilmainen virustorjuntasovellus. \nLadataanko nyt?"</string>
+    <string name="recommend_clean_master_title">"Sovellussuositus"</string>
+    <string name="recommend_scan_qr_code">"Pyydä kavereitasi lataamaan\ntämä sovellus skannaamalla tämä QR-koodi."</string>
+    <string description="recruit beta user" maxwidth="-1" name="recruit_beta_user">Hanki esikatseluversio</string>
+    <string name="recycle_bin_content_hint">"Sisältää kaikki poistetut tiedostot ja kansiot."</string>
+    <string description="dialog title, key in the asus ID and PW to Login account" maxwidth="-1" name="regist_asus_id">"ASUS-tilin luominen"</string>
+    <string description="ask user to enter email address to registe New Account" name="registe_id">Tilin nimi</string>
+    <string description="ask user to enter new password" name="registe_password">Syötä 8–25 merkkiä</string>
+    <string description="sign up registe action" name="registe_sign_up">Rekisteröidy</string>
+    <string description="network is unavailable, please try again" maxwidth="-1" name="remote_connected_error_hint">Verkko ei ole käytettävissä. Yritä uudelleen</string>
+    <string description="remote storage label" maxwidth="-1" name="remote_storage_title">Etätallennustila</string>
+    <string name="remove_favorite">Poista suosikeista</string>
+    <string name="remove_favorite_notice_more">Haluatko varmasti poistaa %d kohdetta suosikkikansiosta?</string>
+    <string name="remove_favorite_notice_one">"Haluatko varmasti poistaa kohteen \"%s\" suosikkikansiosta?"</string>
+    <string name="remove_favorite_success">Poistaminen onnistui</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="rename">Nimeä uudelleen</string>
+    <string description="Dialog Title: rename dialog title" maxwidth="" name="rename_dialog">Nimeä uudelleen</string>
+    <string description="Toast: rename fails" maxwidth="-1" name="rename_fail">Tiedoston uudelleennimeäminen epäonnistui.</string>
+    <string name="rename_favorite_folder">Nimeä suosikkikansio uudelleen</string>
+    <string name="rename_favorite_notice">Suosikkikansiossa on jo saman niminen kansio. Haluatko nimetä sen uudelleen?</string>
+    <string name="rename_favorite_success">Uudelleen nimeäminen onnistui ja tallennettu suosikkeihin</string>
+    <string description="Toast: rename success" maxwidth="-1" name="rename_success">Tiedoston uudelleennimeäminen onnistui</string>
+    <string description="renaming file" name="renaming_file" width="-1">Uudelleennimeäminen</string>
+    <string name="replace">"Korvaa"</string>
+    <string description="Toast: restore fails" maxwidth="-1" name="restore_fail">"Palautus epäonnistui"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="restore_progress">"Palautetaan..."</string>
+    <string description="Toast: restore success" maxwidth="-1" name="restore_success_more">"Valitut tiedostot on palautettu"</string>
+    <string description="Toast: restore success. %s is variable string." maxwidth="-1" name="restore_success_one">"\"%s\" on palautettu"</string>
+    <string name="retention_notification_large_file">"Olet lisännyt %1$s suurta tiedostoa. Näytä ne nyt."</string>
+    <string name="retention_notification_recent_file">"Nykyiset tiedostot käyttävät %1$s tilaa. Näytä ne nyt."</string>
+    <string name="saf_permission_tutorial_content">ASUS File Manager pyytää oikeutta käyttää SD-korttiasi. Haluatko myöntää luvan?</string>
+    <string name="saf_permission_tutorial_content_v2">"Sinun on suoritettava seuraavat vaiheet, jotta %s saa sille kuuluvat käyttöoikeudet."</string>
+    <string name="saf_permission_tutorial_dialog">"On suoritettava toimenpide SD-kortin käyttöoikeuksien myöntämiseksi. Haluatko jatkaa?"</string>
+    <string name="saf_permission_tutorial_title">Pyydä oikeutta käyttää SD-korttia</string>
+    <string name="saf_tutorial_step_one">Napauta Valikkokuvaketta ja napauta sitten Näytä SD-kortti.</string>
+    <string name="saf_tutorial_step_three">Napauta Valitse SD-kortti myöntääksesi luvan ASUS-tiedostonhallinnan.</string>
+    <string name="saf_tutorial_step_three_v2">"Napauta Valitse %s mahdollistaaksesi pääsy ASUS-tiedostonhallintaan."</string>
+    <string name="saf_tutorial_step_two">Pyyhkäise näytön vasemmasta reunasta näyttääksesi laatikon ja napauta sitten SD-korttia.</string>
+    <string name="saf_tutorial_step_two_v2">"Pyyhkäise näytön vasemmalta puolelta oikealle näyttääksesi vetolaatikon, sitten napauta kohtaa %s."</string>
+    <string name="saf_tutorial_title">Lupa käyttää SD-korttia</string>
+    <string name="saf_tutorial_title_v2">"%s-toimintalupa"</string>
+    <string description="account config dialog remind message" maxwidth="-1" name="samba_client_config_check">Tallenna käyttäjänimi ja salasana liittääksesi suoraan seuraavalla kerralla</string>
+    <string name="samba_input_error">Käyttäjänimi tai salasana ei voi olla tyhjä!</string>
+    <string name="samba_login_error">Antamasi käyttäjätunnus tai salasana on väärä.</string>
+    <string name="samba_storage_add_title">"Verkkopaikka"</string>
+    <string name="samba_storage_title">"SAMBA"</string>
+    <string name="scan_qr_code">"Skannaa QR-koodi"</string>
+    <string description="rate now" maxwidth="" name="scroll_up_toast">Vieritä ylös luokitellaksesi</string>
+    <string maxwidth="-1" name="sd_label">ASUS -OneDrive</string>
+    <string name="search_action">"Haku"</string>
+    <string description="search hint message" maxwidth="-1" name="search_hint">Syötä tiedostonimi</string>
+    <string description="cutstom action bar view title for search" maxwidth="-1" name="search_label">Hae tiedostoja</string>
+    <string description="search dialog message" maxwidth="-1" name="search_progress">Haetaan…</string>
+    <string description=" text for search result" formatted="false" maxwidth="-1" name="search_result_title">Haetaan %s kohteessa %s: %d tiedostoa löytyi</string>
+    <string name="select_album">Valitse albumi</string>
+    <string description="Menu Option: select all checkbox" maxwidth="" name="select_all">Valitse kaikki</string>
+    <string description="Title: select the folder" maxwidth="-1" name="select_folder">Valitse kansio</string>
+    <string name="select_folder_by_ok_button">"Paina %1$s valitaksesi tämän kansion"</string>
+    <string name="select_photo">Valitse valokuva</string>
+    <string name="server">"Palvelin:"</string>
+    <string name="server_error">"Palvelinvirhe"</string>
+    <string name="server_hint">"172.0.0.1/ShareFolder"</string>
+    <string name="server_title">Palvelin</string>
+    <string maxwidth="-1" name="service_not_available_in_your_country">"Tämä kohde ei ole saatavilla maassasi."</string>
+    <string name="set_password_title">"Luo PIN-koodi"</string>
+    <string name="set_ring">"Aseta soittoääneksi"</string>
+    <string name="setting_display_group">"Näyttö"</string>
+    <string name="setting_notification_group">"Ilmoitus"</string>
+    <string name="setting_notification_large_files">"Suuren tiedoston ilmoitus"</string>
+    <string name="setting_notification_recent_files">"Viimeisimmät tiedostot -ilmoitus"</string>
+    <string name="setting_notification_wireless_transfer">"Langattoman siirron ilmoitus"</string>
+    <string name="setting_view_group">"Näytä asetus"</string>
+    <string name="setting_view_hide_files">"Piilota järjestelmätiedostot"</string>
+    <string name="settings">"Asetukset"</string>
+    <string description="This is the title of cache size" maxwidth="-1" name="settings_cache_size_title">"Välimuistin koko"</string>
+    <string description="Remove all cache documents" maxwidth="-1" name="settings_clear_cache_info">"Poista kaikki välimuistiasiakirjat"</string>
+    <string description="Clear the cache" maxwidth="-1" name="settings_clear_cache_title">"Tyhjennä välimuisti"</string>
+    <string description="This is the title of clearing search history action for setting user preferences." maxwidth="-1" name="settings_clear_search_history">"Tyhjennä hakuhistoria"</string>
+    <string name="settings_darkmode_message">"Ota käyttöön pimeä tila"</string>
+    <string name="settings_description">"Paikalliset kansiot ja tiedostot"</string>
+    <string description="This is the title of documents cache" maxwidth="-1" name="settings_documents_cache">"Asiakirjavälimuisti"</string>
+    <string description="recommend text" maxwidth="" name="settings_encourage_us_detail">Jos nautit %s käytöstä, luokittele meidät 5 tähdellä Play Store-kaupassa. Se olisi meille hieno rohkaisu jatkaa tuotteemme parantamista!</string>
+    <string description="This is the title of hiding system files action for setting user preferences." maxwidth="-1" name="settings_hide_system_files">"Piilota järjestelmätiedostot"</string>
+    <string description="This is the title of moving to the trash can." maxwidth="-1" name="settings_moved_to_the_trash_can">"Siirretty roskakoriin"</string>
+    <string description="Remove account" maxwidth="-1" name="settings_remove_account">"Poista tili"</string>
+    <string description="Set the cache size to %s" maxwidth="-1" name="settings_set_cache_size">"Välimuistin kooksi asetettu \"%s\""</string>
+    <string description="This is the title of space used for setting user preferences." maxwidth="-1" name="settings_space_used">"Käytetty tila"</string>
+    <string description="This is the title of trash can information for setting user preferences." maxwidth="-1" name="settings_trash_can">"Roskakori"</string>
+    <string description="This is the title of user name" maxwidth="-1" name="settings_user_name">"Käyttäjätunnus"</string>
+    <string name="setup">"Luo"</string>
+    <string name="setup_account_description">"Määritä sähköpostitili, jotta saat oman PIN-koodisi"</string>
+    <string name="setup_account_no_internet_connection">"Ei internetyhteyttä"</string>
+    <string name="setup_account_skip">"Ohita"</string>
+    <string name="setup_account_title">"Hae PIN-koodi"</string>
+    <string name="setup_fingerprint_message">"Otetaanko käyttöön lukitusten avaaminen sormenjäljellä? Piilokaappi tukee sormenjälkivahvistusta. Lue sormenjälkesi Asetukset-valikossa, niin pääset aloittamaan."</string>
+    <string name="setup_my_digital_code">"Luo PIN-koodi"</string>
+    <string name="share_more">"Muut"</string>
+    <string name="share_with_friend">"Jaa tämä sovellus kavereittesi kanssa"</string>
+    <string description="Context Menu: options of context menu: share folder via Wi-Fi Direct" maxwidth="" name="shared_folder">Jaa Wi-Fi Directillä</string>
+    <string description="shortcit title" maxwidth="-1" name="short_cuts_title">Pikakuvake</string>
+    <string name="shortcut_hint">"Napauta ja pidä luokkaa tai kansiota painettuna luodaksesi pikavalinnan käynnistysohjelmaan."</string>
+    <string description="check if user want to show password" name="show_passwd">Näytä salasana</string>
+    <string description="show when sign in failed" maxwidth="-1" name="signin_failed">"Sisäänkirjautuminen epäonnistui"</string>
+    <string description="signout account" name="signout_account" width="-1">Irrota</string>
+    <string name="single_drm_file_forbidden_operation">Tämä toiminta on kielletty tiedoston DRM-suojauksen vuoksi.</string>
+    <string description="button text for sort file by size" maxwidth="-1" name="size">Koko</string>
+    <string description="button text for sort file by size ascending" maxwidth="-1" name="size_ascending">Koko (suuri-pieni)</string>
+    <string description="button text for sort file by size descending" maxwidth="-1" name="size_descending">Koko (pieni-suuri)</string>
+    <string name="ssl_err_msg_info">"Ei voi muodostaa suojattua yhteyttä palvelimeen. Haluatko jatkaa?"</string>
+    <string name="ssl_err_msg_title">"SSL-yhteysvirhe"</string>
+    <string description="shortcut title: my favorite files" name="starred" width="-1">"Pääosassa"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="storage_type_cloud">Pilvitallennustila</string>
+    <string name="storage_type_cloud_att">"Verkkotallennustila"</string>
+    <string name="storage_type_local">Paikallinen tallennustila</string>
+    <string name="storage_type_shortcut">"Pikavalinta"</string>
+    <string name="storagetype_add_account">Lisää Google tili</string>
+    <string name="tap_to_exit">Lopeta napauttamalla uudelleen</string>
+    <string name="target_directory_is_child_of_source">"Toimintoa ei voitu suorittaa, koska kohdehakemisto on lähdehakemiston alihakemisto."</string>
+    <string description="Toast: target file exists" maxwidth="-1" name="target_exist">Kohdetiedosto on jo olemassa.</string>
+    <string description="Toast: target folder exists. %s is variable string." maxwidth="-1" name="target_folder_exist">"Kansio: \"%s\" on jo olemassa."</string>
+    <string description="" maxwidth="" name="tell_friend">Kerro kaverille</string>
+    <string maxwidth="" name="terms_of_service">"Käyttöehtoilmoitus"</string>
+    <string maxwidth="" name="terms_of_service_url">http://www.asus.com/us/Terms_of_Use_Notice_Privacy_Policy/Official-Site/</string>
+    <string description="title" maxwidth="-1" name="title">"Lain edellyttämät tiedot:"</string>
+    <string name="toast_auto_lock_notify_message">"Lukitse piilokaappi, kun laite on lukittu"</string>
+    <string description="Toast: The item(s) has been copied completely" maxwidth="-1" name="toast_drag_copied_items">Kohteet kopioitu.</string>
+    <string description="Toast: The item(s) has been moved completely" maxwidth="-1" name="toast_drag_moved_items">Kohteet siirretty.</string>
+    <string description="Toast: Sorry, copy files complete but cut fail" maxwidth="-1" name="toast_warning_copy_comple_cut_fail">"Pahoittelemme, tiedostojen kopiointi onnistui, mutta vanhojen tiedostojen tuhoaminen epäonnistui"</string>
+    <string description="Toast: Sorry, copy folders has not been supported" maxwidth="-1" name="toast_warning_copy_folders">"Pahoittelemme, kansioiden kopiointia ei tueta"</string>
+    <string maxwidth="35" name="toolbar_item_title_encourage_us">Rohkaise meitä</string>
+    <string name="tools_clean_master">"Puhdista roskat"</string>
+    <string name="tools_file_transfer">"PC-tiedostonsiirto"</string>
+    <string name="tools_hidden_zone">"Piilokaappi"</string>
+    <string name="tools_recycle_bin">"Kierrätysastia"</string>
+    <string name="tools_storage_analyzer">"Tallennustilan analysoija"</string>
+    <string name="tools_tip_animation">"Pysähdy saadaksesi työkaluja!"</string>
+    <string name="tools_zenui_instant_update">"Pikapäivitys"</string>
+    <string description="shortcut title: trash can" name="trash_can" width="-1">"Roskakori"</string>
+    <string maxwidth="-1" name="trash_info_deleted">"Poistopäivä: "</string>
+    <string maxwidth="-1" name="trash_info_path">"Alkuperäinen polku: "</string>
+    <string description="label for trending searches" maxwidth="-1" name="trending_searches">"Suositut haut"</string>
+    <string name="tutorial_analyzer_content">"Varastoanalysoijan avulla saat tietää, mitkä tiedostot vievät levytilaasi."</string>
+    <string name="tutorial_category_content">"Tiedostojen hakeminen ei ole koskaan ollut yhtä helppoa kuin käyttäessäsi ASUS-tiedostonhallinnan Kategorianäkymää."</string>
+    <string name="tutorial_category_title">"Kategorianäkymä"</string>
+    <string name="tutorial_cloud_content">"Voit päästä tiedostoihisi käsiksi älypuhelimesta, PC:stä ja Pilvivarastoista."</string>
+    <string name="tutorial_cloud_title">"Pilvivarasto"</string>
+    <string name="tutorial_done">Valmis</string>
+    <string name="tutorial_page_content_long_press">"Napauta ja pidä valitaksesi kohteen ja napauta sitten \"Valikko\"-kuvaketta näyttääksesi muita toimintavalintoja."</string>
+    <string name="tutorial_page_four_content">Aseta usein käytetty kansio suosikiksi käyttääksesi kansioita nopeasti ja helposti.</string>
+    <string name="tutorial_page_four_title">Suosikit</string>
+    <string name="tutorial_page_one_content">ASUS-tiedostonhallinnan antaa hallita helposti tiedostoja, jotka on tallennettu sisäiseen, ulkoiseen, lähiverkon tai pilven tallennustilaan.</string>
+    <string name="tutorial_page_one_title">ASUS-tiedostonhallinnan</string>
+    <string name="tutorial_page_three_content">Pyyhkäise kohdetta oikealle näyttääksesi toimintoja, kuten Lisää suosikkeihin, Nimeä uudelleen, Siirrä kohteeseen, Kopioi kohteeseen ja muita tiedostonhallintavalintoja.</string>
+    <string name="tutorial_page_three_title">Pyyhkäise oikealle toimintalistaa</string>
+    <string name="tutorial_page_title_long_press">Näytä toimintavalikko</string>
+    <string name="tutorial_page_two_content">Helppokäyttöiset luokat, jotka antavat sinun käyttää paikallisen tallennustilan tiedostoja nopeasti.</string>
+    <string name="tutorial_page_two_title">Kotisivu</string>
+    <string name="tutorial_skip">Ohita</string>
+    <string description="button text for sort file by type" maxwidth="-1" name="type">Tyyppi</string>
+    <string description="document type" maxwidth="-1" name="type_abu">"Asus-sovellusten varmuuskopiointi"</string>
+    <string description="document type" maxwidth="-1" name="type_apk">"Android-sovellus"</string>
+    <string description="document type" maxwidth="-1" name="type_audio">"Äänet"</string>
+    <string description="document type" maxwidth="-1" name="type_book">"Sähköinen kirja"</string>
+    <string name="type_dialog_audio">Audio</string>
+    <string name="type_dialog_image">Kuva</string>
+    <string name="type_dialog_text">Teksti</string>
+    <string name="type_dialog_title">Avaa muodossa</string>
+    <string name="type_dialog_video">Video</string>
+    <string description="document type" maxwidth="-1" name="type_directory">"Hakemisto"</string>
+    <string description="document type" maxwidth="-1" name="type_document">"Asiakirja"</string>
+    <string description="document type" maxwidth="-1" name="type_file">"Tiedosto"</string>
+    <string description="document type" maxwidth="-1" name="type_image">"Kuva"</string>
+    <string description="document type" maxwidth="-1" name="type_playlist">"Soittolista"</string>
+    <string description="document type" maxwidth="-1" name="type_rar">"RAR"</string>
+    <string description="document type" maxwidth="-1" name="type_video">"Video"</string>
+    <string description="document type" maxwidth="-1" name="type_zip">"Zip"</string>
+    <string name="ud_sdk_all_app_update">"Kaikki sovellukset käyvät nykyisillä versioillaan."</string>
+    <string name="ud_sdk_asus_app_slogan">hyödyllinen sovellus</string>
+    <string name="ud_sdk_downloads">Lataukset</string>
+    <string name="ud_sdk_free_download">Ilmainen lataus</string>
+    <string name="ud_sdk_important_remind_text">"Tärkeä"</string>
+    <string name="ud_sdk_install">Asenna</string>
+    <string name="ud_sdk_more_zen_family">Löydä lisää ZenUI-sovelluksia</string>
+    <string name="ud_sdk_no_network_connection_content">Tietoja ei voi päivittää. Tarkista verkkoasetukset.</string>
+    <string name="ud_sdk_no_network_connection_title">Ei verkkoyhteyttä</string>
+    <string name="ud_sdk_open">Avaa</string>
+    <string name="ud_sdk_update">Päivitä</string>
+    <string maxwidth="-1" name="ud_sdk_update_sdk">ZenUI-perhe</string>
+    <string maxwidth="-1" name="ud_sdk_update_sdk_asus">ZenUI-pikapäivitys</string>
+    <string name="ud_sdk_wifi_settings">Wi-Fi-asetukset</string>
+    <string name="uf_sdk_already_give_5star">"5 tähden luokitus on jo annettu"</string>
+    <string description="%d is a number, don&apos;t translate" name="uf_sdk_article_read_count">"%d näkymää"</string>
+    <string name="uf_sdk_attachment_format_warning">"Väärä tiedostoformaatti. Voit liittää vain kuvatiedoston"</string>
+    <string name="uf_sdk_attachment_total_size">"Yhteensä"</string>
+    <string name="uf_sdk_attachment_warning">"Liitteen koko ylittää sallitun rajan"</string>
+    <string maxwidth="-1" name="uf_sdk_cancel_btn_content">"Peruuta"</string>
+    <string name="uf_sdk_choosertitle_sharevia">"Jaa sovelluksessa"</string>
+    <string name="uf_sdk_connection_error_msg">"Palvelin keskeytti yhteyden. Yritä myöhemmin uudelleen."</string>
+    <string name="uf_sdk_connection_error_title">"Yhteysvirhe"</string>
+    <string name="uf_sdk_discard">"Poista"</string>
+    <string name="uf_sdk_email_illigal">"Sähköpostiosoite on jo käytössä"</string>
+    <string maxwidth="-1" name="uf_sdk_empty_notification">"Tyhjä :)"</string>
+    <string name="uf_sdk_faq">"Usein kysyttyä"</string>
+    <string name="uf_sdk_feedback_and_help">"Palaute ja ohje"</string>
+    <string name="uf_sdk_forum_description">"Liity keskusteluun ASUS-käyttäjien kanssa löytääksesi ja jakaaksesi ratkaisuja"</string>
+    <string maxwidth="-1" name="uf_sdk_grant_permission_title">"Anna sovellukselle lupa"</string>
+    <string name="uf_sdk_help">"Ohje"</string>
+    <string name="uf_sdk_instant_answer_question">"Oliko näistä Usein kysytyistä kysymyksistä apua?"</string>
+    <string name="uf_sdk_like">"Tykkää"</string>
+    <string maxwidth="-1" name="uf_sdk_message">"llmoitukset"</string>
+    <string name="uf_sdk_msg_bad_email_format">"Sähköpostiosoite ei kelpaa. Yritä uudelleen."</string>
+    <string name="uf_sdk_msg_confirm_discard_topic">"Luonnostasi ei tallenneta. Haluatko kuitenkin poistaa sen?"</string>
+    <string name="uf_sdk_msg_confirm_discard_topic_title">"Poistetaanko viesti?"</string>
+    <string name="uf_sdk_msg_subscribe">"Aiheen tilailmoitushuomautus toimitetaan sinulle sähköpostitse."</string>
+    <string name="uf_sdk_msg_subscribe_success">"Tilaus onnistui"</string>
+    <string name="uf_sdk_msg_ticket_created">"Palautteesi lähettäminen ASUS-yhtiölle onnistui."</string>
+    <string name="uf_sdk_msg_topic_created">"Julkaisu onnistui"</string>
+    <string name="uf_sdk_msg_unsubscribe">"Tilauksen peruminen onnistui"</string>
+    <string name="uf_sdk_name_hint">"Syötä nimesi"</string>
+    <string name="uf_sdk_name_illigal">"Käyttäjänimi on jo käytössä"</string>
+    <string name="uf_sdk_network_error">"Ei internet-yhteyttä. Tarkista verkkoasetuksesi."</string>
+    <string description="zenui news" maxwidth="" name="uf_sdk_news">"Uutiset"</string>
+    <string name="uf_sdk_no_network_connection_content">"Palvelu lopetti yhteyden. Yritä uudestaan myöhemmin"</string>
+    <string name="uf_sdk_no_network_connection_title">"Ei verkkoyhteyttä"</string>
+    <string name="uf_sdk_nothing_found">"Mitään ei löytynyt"</string>
+    <string name="uf_sdk_notice">"Ilmoitus"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category1">"Ilmoitukset"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category2">"Oppitunnit &amp; vinkit"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category3">"Promootiot"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category4">"Tapahtumat"</string>
+    <string name="uf_sdk_publish_an_topic">"Julkaise uusi aihe"</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_rate_now">"Luokittele nyt"</string>
+    <string description="%s is AP name, don&apos;t translate" maxWidth="" name="uf_sdk_rate_us_detail">"Jos pidät %s:n käyttämisestä, anna meille 5 tähteä Play Store -kaupassa."</string>
+    <string maxWidth="" name="uf_sdk_rate_us_detail_new">"5 tähden luokituksen antaminen inspiroi meitä jatkamaan työtämme!"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_rating">"5 tähden luokitus"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title">"Arvioi meidät!"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title_new">"Rohkaise meitä!"</string>
+    <string description="Menu item for userFeedback sdk" maxwidth="-1" name="uf_sdk_report_bug">Raportoi virhe</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_scroll_up_toast">"Vieritä ylös antaaksesi arvio"</string>
+    <string name="uf_sdk_search_hint">"Hae apua"</string>
+    <string name="uf_sdk_select_common_bug">"Valitse yleinen virhe"</string>
+    <string name="uf_sdk_send_feedback">"Lähetä palautetta"</string>
+    <string name="uf_sdk_send_feedback_help">"Palautteesi ja sähköpostiosoitteesi lähetetään ASUS-yhtiölle. Palvelutiimi ottaa sinuun yhteyttä sähköpostitse."</string>
+    <string maxwidth="-1" name="uf_sdk_setting_btn_content">"Asetukset"</string>
+    <string description="recommend title" maxwidth="" name="uf_sdk_settings_encourage_us_title">"Rohkaise meitä"</string>
+    <string maxwidth="-1" name="uf_sdk_storage_permission_description">"Tämän toiminnallisuuden on saatava säilytyslupa päästäkseen multimediatiedostoihin. \n\nJos haluat ottaa tämän toiminnallisuuden käyttöön, napauta Asetukset-painiketta päästäksesi sovelluksen Asetukset-sivulle, sitten aseta \"Sovellustiedot\" > \"Luvat\" antaaksesi luvan.\n"</string>
+    <string name="uf_sdk_submit_topic">"Julkaise"</string>
+    <string name="uf_sdk_subscribe_dialog_title">"Tilaa tämä aihe"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_answered">"Vastattu"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_completed">"valmis"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_declined">"kieltäydytty"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_implemented">"Toteutettu"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_planned">"suunniteltu"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_under_review">"tarkistettavana"</string>
+    <string name="uf_sdk_thanks_for_your_feedback">"Kiitos palautteesta!"</string>
+    <string description="%s is a application name, don&apos;t translate" name="uf_sdk_ticket_hint">"Syötä palautteet kohteelle %s"</string>
+    <string name="uf_sdk_title_topic">"Aihe"</string>
+    <string name="uf_sdk_topic">"Aihe"</string>
+    <string name="uf_sdk_topic_description_heading">"Kuvaus"</string>
+    <string name="uf_sdk_topic_description_hint">"Kuvaile aiheesi yksityiskohtaisesti"</string>
+    <string name="uf_sdk_topic_filter">"AIHEET"</string>
+    <string name="uf_sdk_topic_form_help">"Kun julkaiset aiheen käyttäjäfoorumilla, muut käyttäjät voivat tilata sen ja kommentoida sitä. Kun ASUS-kehitystiimi reagoi aiheeseen, sinulle ilmoitetaan sähköpostitse."</string>
+    <string name="uf_sdk_topic_form_title">"Julkaise uusi aihe"</string>
+    <string name="uf_sdk_topic_text_heading">"Foorumi"</string>
+    <string name="uf_sdk_topic_text_hint">"Kirjoita aiheesi otsikko"</string>
+    <string name="uf_sdk_topic_title">"Otsikko"</string>
+    <string name="uf_sdk_translation_10117605">"Käännösongelma"</string>
+    <string name="uf_sdk_translation_117562">"Palautetyyppi"</string>
+    <string name="uf_sdk_translation_2529543">"Virheraportti"</string>
+    <string name="uf_sdk_translation_2529544">"Muut"</string>
+    <string name="uf_sdk_translation_2530478">"Ehdotus"</string>
+    <string name="uf_sdk_unhelpful_article_message_question">"Haluatko lähettää palautetta ASUS-kehitystiimille?"</string>
+    <string name="uf_sdk_user_forum">"Käyttäjäfoorumi"</string>
+    <string name="uf_sdk_warning">"Varoitus"</string>
+    <string name="uf_sdk_wifi_settings">"Wi-Fi-asetukset"</string>
+    <string name="uf_sdk_wlan_settings">"WLAN-asetukset"</string>
+    <string name="uf_sdk_write_your_feedback">"Syötä palautteet tässä"</string>
+    <string name="uf_sdk_your_draft_will_be_discarded">"Ensiversiosi poistetaan."</string>
+    <string description="description for empty search result" maxwidth="-1" name="unable_to_find_artlcles">"Ei löydy hakuun \u0022%s\u0022 liittyviä artikkeleja"</string>
+    <string description="string indicating the length units in milli-meters" maxwidth="-1" name="unit_mm">mm</string>
+    <string description="Context Menu: options of context menu: unshare folder" maxwidth="-1" name="unshared_folder">Lopeta jakaminen</string>
+    <string name="unsupported_area">"Tämä alue ei ole tuettu"</string>
+    <string description="toast message: extract files fail" maxwidth="-1" name="unzip_fail">Tiedoston purkaminen epäonnistui</string>
+    <string description="extract file dialog message" maxwidth="-1" name="unzip_progress_msg">Puretaan...</string>
+    <string description="toast message: extract files successly" maxwidth="-1" name="unzip_success">Tiedostojen purkaminen onnistui</string>
+    <string name="update">"Päivitä"</string>
+    <string name="update_fb_app">"Facebookin mobiilisovellusversio ei ole ajan tasalla.  Asenna uusin versio Google Play -kaupasta."</string>
+    <string name="upgrade_notification_content">Tarkastele tiedostoja tyypin mukaan upo-uudelta alkunäytöltämme.</string>
+    <string name="upgrade_notification_title">Kokeile uutta File Manageria nyt!</string>
+    <string name="upload_complete">"Siirto suoritettu loppuun"</string>
+    <string name="upload_complete_dialog_message">"Videon siirto onnistui."</string>
+    <string name="upload_complete_dialog_title">"Valmis"</string>
+    <string name="upload_fail">siirtäminen epäonnistui!</string>
+    <string name="upload_failed">"Siirto epäonnistui"</string>
+    <string name="upload_picture_toast">"Kuvasi siirretään. Tarkista edistyminen ilmoitukset-ikkunasta."</string>
+    <string name="upload_toast">"Videosi siirretään. Tarkista edistyminen ilmoitukset-ikkunasta."</string>
+    <string name="uploading_picture">"Kuvaa siirretään"</string>
+    <string name="uploading_video">"Videota siirretään..."</string>
+    <string name="user">Käyttäjänimi</string>
+    <string name="user_hint">järjestelmänvalvoja</string>
+    <string name="uv_admin_response_format">"Pääkäyttäjän vastaus: %1$s"</string>
+    <string name="uv_all_articles">"Kaikki artikkelit"</string>
+    <string name="uv_all_results_filter">"KAIKKI"</string>
+    <string name="uv_android_sdk">Android SDK</string>
+    <string name="uv_article_browse_question">"Oliko artikkelista apua?"</string>
+    <string name="uv_article_instant_answer_question">"Oliko näistä Usein kysytyistä kysymyksistä apua?"</string>
+    <string name="uv_cancel">"Peruuta"</string>
+    <string name="uv_category">"Kategoria"</string>
+    <string name="uv_close">"Sulje"</string>
+    <string name="uv_comment_hint">"Syötä kommentti"</string>
+    <string name="uv_confirm">"Varmista"</string>
+    <string name="uv_contact_continue_button">"Haluan edelleen lähettää viestin"</string>
+    <string name="uv_contact_hint">"Syötä kysymykset tai palaute"</string>
+    <string name="uv_contact_us">"Ota yhteyttä"</string>
+    <string name="uv_display_name">"Näytä nimi"</string>
+    <string name="uv_email_address">"Sähköpostiosoite"</string>
+    <string name="uv_email_address_hint">"oma@osoitteesi.fi (vaaditaan)"</string>
+    <string name="uv_error">"Virhe"</string>
+    <string name="uv_failed_signin_error">"Väärä sähköposti tai salasana"</string>
+    <string name="uv_forgot_password">"Salasana unohdettu"</string>
+    <string name="uv_helpful_article_message_question">"Haluatko edelleen lähettää viestin?"</string>
+    <string name="uv_i_want_this">"Haluan tämän!"</string>
+    <string name="uv_idea_description_heading">"Kuvaile ideaasi yksityiskohtaisemmin"</string>
+    <string name="uv_idea_description_hint">"(valinnainen)"</string>
+    <string name="uv_idea_text_heading">"Ehdotan sinulle…"</string>
+    <string name="uv_loading">"Lataa..."</string>
+    <string name="uv_matching_articles">"Soveltuvat artikkelit"</string>
+    <string name="uv_matching_articles_and_ideas">"Soveltuvat artikkelit ja ideat"</string>
+    <string name="uv_menu_attach">"Liitä"</string>
+    <string name="uv_menu_search">"Haku"</string>
+    <string name="uv_msg_bad_email_format">"Syötä käyttökelpoinen sähköpostiosoite."</string>
+    <string name="uv_msg_comment_posted">"Kommenttisi on lähetetty"</string>
+    <string name="uv_msg_confirm_discard_message">"Oletko varma, että haluat poistaa viestisi?"</string>
+    <string name="uv_msg_custom_fields_validation">"Täytä kaikki vaaditut kentät."</string>
+    <string name="uv_msg_forgot_password">"Unohdetun salasanan palautussähköposti on lähetetty"</string>
+    <string name="uv_msg_idea_created">"Ideasi on luotu"</string>
+    <string name="uv_msg_ticket_created">"Viestisi on lähetetty"</string>
+    <string name="uv_msg_user_identity_validation">"Syötä sähköpostiosoitteesi"</string>
+    <string name="uv_name_hint">"“Anonyymi”"</string>
+    <string name="uv_network_error">"UserVoiceen yhdistämisessä oli virhe"</string>
+    <string name="uv_nevermind">"Ei väliä"</string>
+    <string name="uv_new_comment">"Uusi kommentti"</string>
+    <string name="uv_next">"Seuraava"</string>
+    <string name="uv_no">"Ei"</string>
+    <string name="uv_none_of_these_help">"Mikään näistä ei auta"</string>
+    <string name="uv_password">"Salasana"</string>
+    <string name="uv_password_dialog_title">"Syötä salasanasi"</string>
+    <string name="uv_portal_title">"Ohje"</string>
+    <string name="uv_post_a_comment">"Lähetä kommentti"</string>
+    <string name="uv_post_comment">"Lähetä kommentti"</string>
+    <string name="uv_posted_by_format">"%1$s on lähettänyt kommentin päivänä %2$s"</string>
+    <string name="uv_powered_by_uservoice">"UserVoice-käyttöinen"</string>
+    <string name="uv_ranked">"Järjestyksessä %1$s"</string>
+    <string name="uv_remove_votes">"Poista äänet"</string>
+    <string name="uv_select_none">"(ei ole)"</string>
+    <string name="uv_select_one">"Valitse yksi"</string>
+    <string name="uv_send_message">"Lähetä viesti"</string>
+    <string name="uv_signin_dialog_ok">"Kirjaudu sisään"</string>
+    <string name="uv_signin_dialog_title">"Kirjaudu sisään"</string>
+    <string name="uv_status_format">"Tila: %1$s"</string>
+    <string name="uv_submit_idea">"Lähetä idea"</string>
+    <string name="uv_subscribe">"Tilaa"</string>
+    <string name="uv_subscribe_dialog_title">"Tilaa idea"</string>
+    <string name="uv_suggestion_instant_answer_question">"Oliko ideasta apua?"</string>
+    <string name="uv_thanks">"Kiitos!"</string>
+    <string name="uv_unhelpful_article_message_question">"Haluatko lähettää meille viestin?"</string>
+    <string name="uv_value">"Arvo"</string>
+    <string name="uv_very_yes">"Kyllä!"</string>
+    <string name="uv_yes">"Kyllä"</string>
+    <string name="uv_your_email_address">"Sähköpostiosoitteesi"</string>
+    <string name="uv_your_name">"Nimesi"</string>
+    <string description="version" maxwidth="-1" name="version">"Versio"</string>
+    <string name="version_text">versio</string>
+    <string name="wait">"Odota…"</string>
+    <string name="warning_stophttpserver">"Menetät yhteyden mobiililaitteen ja PC-tietokoneen välillä. Haluatko poistua?"</string>
+    <string name="whats_new_label">Mitä uutta</string>
+    <string description="message for request to connect Network" name="wifi_p2p_connection_msg" width="-1">Muodosta verkkoyhteys käyttääksesi pilvipalveluita.</string>
+    <string description="title for request to connect Network" name="wifi_p2p_connection_title" width="-1">Muodosta verkkoyhteys.</string>
+    <string description="message for request to turn on Wi-Fi" name="wifi_p2p_turn_on_wifi_msg" width="-1">Kytke Wi-Fi päälle Wi-Fi Direct -palveluiden käyttämiseksi. Kytketäänkö Wi-Fi päälle nyt?</string>
+    <string description="title for turn on WiFi dialog" name="wifi_p2p_turn_on_wifi_title" width="-1">Kytke Wi-Fi päälle</string>
+    <string description="search" maxwidth="-1" name="wifidirect_action_bar_scan">Hae</string>
+    <string description="Available devices" maxwidth="-1" name="wifidirect_available_devices">Käytettävissä olevat laitteet</string>
+    <string description="Do you want to connect to device" maxwidth="-1" name="wifidirect_connect_hint">Haluatko muodostaa yhteyden</string>
+    <string description="Dialog title text: Invitation to connect" maxwidth="-1" name="wifidirect_connect_hint_title">Kutsu muodostamaan yhteys</string>
+    <string description="Dialog title text: Wi-Fi Direct connecting" maxwidth="-1" name="wifidirect_connecting_hint_title">Wi-Fi Direct muodostaa yhteyttä...</string>
+    <string description="connectted" maxwidth="-1" name="wifidirect_connectted">Yhteys muodostettu</string>
+    <string description=">Do you want to disconnect" maxwidth="-1" name="wifidirect_disconnect_hint">Haluatko katkaista yhteyden</string>
+    <string description="Disconnect Wi-Fi Direct" maxwidth="-1" name="wifidirect_disconnect_hint_title">Katkaise Wi-Fi Direct -yhteys</string>
+    <string description="peer devices infomation" maxwidth="-1" name="wifidirect_peer_device_info">"Varmista Wi-Fi Direct -kutsun vastaanottamiseksi, että yhteydenmuodostuslaitteesi pysyy Tiedostonhallinnan \"Vertaislaitteet\"-sivulla ."</string>
+    <string description="peer devices title" maxwidth="-1" name="wifidirect_peer_device_title">Vertaislaitteet</string>
+    <string description="searching" maxwidth="-1" name="wifidirect_scanning">Haetaan...</string>
+    <string description="Search Wi-Fi Direct device" maxwidth="-1" name="wifidirect_storage_title">Hae Wi-Fi Direct -laitetta</string>
+    <string description="click to connect" maxwidth="-1" name="wifidirect_touch_to_connect">Napsauta muodostaaksesi yhteyden</string>
+    <string name="yandex_account_only_one_alert">"Vain yhden Yandex-tilin lisääminen on sallittu. Sinun on poistettava nykyinen tilisi ennen sen korvaamista uudella."</string>
+    <string name="yes">Kyllä</string>
+    <string name="zenui_update">"ZenUI-pikapäivitykset"</string>
+    <string description="toast message: Compress files fail" maxwidth="-1" name="zip_fail">Tiedostojen pakkaus epäonnistui</string>
+    <string description="compress dialog message" maxwidth="-1" name="zip_progress_msg">Edistyminen...</string>
+    <string description="toast message: Compress files successly" maxwidth="-1" name="zip_success">Tiedostojen pakkaus onnistui</string>
+</resources>

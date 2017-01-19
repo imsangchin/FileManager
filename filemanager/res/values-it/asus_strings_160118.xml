@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="httpserver_title" maxwidth="">"Trasferimento wireless dei file a PC"</string>
+    <string name="httpserver_start" maxwidth="">"Avvia"</string>
+    <string name="httpserver_stop" maxwidth="">"Arresta"</string>
+    <string name="httpserver_need_saf" maxwidth="">"Per gestire l'archivio esterno da PC, è necessario concedere le autorizzazioni."</string>
+    <string name="httpserver_description" maxwidth="">"Avviare il servizio per connettere il dispositivo mobile al PC."</string>
+    <string name="httpserver_instruction" maxwidth="">"Digitare questo indirizzo nel browser del PC:"</string>
+    <string name="httpserver_no_network" maxwidth="">"Collegare il dispositivo alla stessa rete Wi-Fi"</string>
+    <string name="httpserver_no_permission_title" maxwidth="">"Avviare il trasferimento wireless dei file"</string>
+    <string name="httpserver_no_permission_message" maxwidth="">"Non è possibile scrivere sull'archivio esterno se non si dispone dell'autorizzazione corretta. Continuare?"</string>
+    <string name="httpserver_acquire_permission_message" maxwidth="">"Il server file HTTP verrà chiuso e le operazioni potrebbero essere interrotte. Continuare?"</string>
+    <string name="category_title_tools">"Strumenti"</string>
+    <string name="tools_file_transfer">"Trasferimento file PC"</string>
+    <string name="tools_clean_master">"Eliminare i file non desiderati"</string>
+    <string name="retention_notification_large_file">"%1$s file di grandi dimensioni aggiunti. Visualizzarli ora."</string>
+    <string name="retention_notification_recent_file">"I file recenti usano %1$s di spazio. Visualizzarli ora."</string>
+    <string name="recommend_clean_master_msg">"L'applicazione Android Optimizer con il maggior livello di fiducia al mondo, Sprint di velocità, Risparmia-batteria e Anti-Virus gratuito. \nEseguire il download ora?"</string>
+    <string name="recommend_clean_master_title">"Suggerimento applicazione"</string>
+    <string name="tools_tip_animation">"Richiedere gli strumenti!"</string>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!--Text for trash-->
+    <string name="permanently_delete">"Xóa vĩnh viễn"</string>
+    <string name="tools_recycle_bin">"Thùng rác"</string>
+    <!--string name="move_or_delete">Move or delete</string-->
+    <string name="move_or_delete_msg">"Tạm thời xóa các mục này vào thùng rác ngay bây giờ?\n(Nhấp vào hộp chọn bên dưới để xóa các mục này vĩnh viễn.)"</string>
+    <string name="move_to_trash_progress" description="Progress Content: text in progress dialog" maxwidth="">"Đang di chuyển đến Thùng rác..."</string>
+    <string name="move_to_trash_success_one" description="Toast: move to recycle bin success. %s is variable string." maxwidth="-1">"\"%s\" đã được chuyển đến Thùng rác"</string>
+    <string name="move_to_trash_success_more" description="Toast: move to recycle bin success" maxwidth="-1">"Các tập tin được chọn đã được chuyển đến Thùng rác"</string>
+    <string name="move_to_trash_fail" description="Toast: move to recycle bin fails" maxwidth="-1">"Chuyển đến Thùng rác không thành công"</string>
+    <string name="trash_info_deleted" maxwidth="-1">"Ngày xóa: "</string>
+    <string name="trash_info_path" maxwidth="-1">"Đường dẫn gốc: "</string>
+    <string name="action_clean_all" maxwidth="-1">"Xóa tất cả"</string>
+    <string name="action_restore_all" maxwidth="-1">"Khôi phục tất cả"</string>
+    <string name="action_clean" maxwidth="-1">"Xóa"</string>
+    <string name="action_restore" maxwidth="-1">"Khôi phục"</string>
+    <string name="restore_success_one" description="Toast: restore success. %s is variable string." maxwidth="-1">"\"%s\" đã được khôi phục"</string>
+    <string name="restore_success_more" description="Toast: restore success" maxwidth="-1">"Các tập tin được chọn đã được khôi phục"</string>
+    <string name="restore_fail" description="Toast: restore fails" maxwidth="-1">"Khôi phục thất bại"</string>
+    <string name="restore_progress" description="Progress Content: text in progress dialog" maxwidth="">"Đang khôi phục..."</string>
+    <string name="calculate_progress" description="Progress Content: text in progress dialog" maxwidth="">"Đang tiến hành..."</string>
+    <string name="msg_too_big_to_recycle">"Các mục này quá lớn để tái chế.\nBạn có muốn xóa chúng vĩnh viễn?"</string>
+    <string name="duplicate_files">"Tập tin trùng lặp"</string>
+    <string name="duplicate_files_content_hint">"Tìm các tập tin trùng lặp và xóa chúng với sự cho phép của bạn."</string>
+</resources>

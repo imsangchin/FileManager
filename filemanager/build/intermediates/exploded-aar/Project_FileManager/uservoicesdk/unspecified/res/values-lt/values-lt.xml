@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="uf_sdk_number_of_subscribers_format">
+        <item quantity="one">"%1$s patinka ši tema"</item>
+        <item quantity="other">"%1$s patinka ši tema"</item>
+    </plurals>
+    <plurals name="uf_sdk_topics">
+        <item quantity="one">"tema"</item>
+        <item quantity="other">"temos"</item>
+    </plurals>
+    <plurals name="uv_comments">
+        <item quantity="one">"komentaras"</item>
+        <item quantity="other">"komentarai"</item>
+    </plurals>
+    <plurals name="uv_number_of_subscribers_format">
+        <item quantity="one">"%1$s nori šios idėjos"</item>
+        <item quantity="other">"%1$s nori šios idėjos"</item>
+    </plurals>
+    <plurals name="uv_people">
+        <item quantity="one">"asmuo"</item>
+        <item quantity="other">"žmonės"</item>
+    </plurals>
+    <plurals name="uv_subscribers">
+        <item quantity="one">"prenumeratorius"</item>
+        <item quantity="other">"prenumeratoriai"</item>
+    </plurals>
+    <string description="label for trending searches" maxwidth="-1" name="trending_searches">"Populiariausios paieškos"</string>
+    <string name="uf_sdk_already_give_5star">"Jau skyriau 5 žvaigždutes"</string>
+    <string description="%d is a number, don&apos;t translate" name="uf_sdk_article_read_count">"%d peržiūros (-ų)"</string>
+    <string name="uf_sdk_attachment_format_warning">"Blogas failo formatas. Galima pridėti tik vaizdo failą"</string>
+    <string name="uf_sdk_attachment_total_size">"Iš viso"</string>
+    <string name="uf_sdk_attachment_warning">"Priedo dydis viršija leistiną ribą"</string>
+    <string maxwidth="-1" name="uf_sdk_cancel_btn_content">"Atšaukti"</string>
+    <string name="uf_sdk_choosertitle_sharevia">"Bendrinti naudojant"</string>
+    <string name="uf_sdk_connection_error_msg">"Serveris nutraukė ryšį. Bandykite vėliau."</string>
+    <string name="uf_sdk_connection_error_title">"Ryšio klaida"</string>
+    <string name="uf_sdk_discard">"Atsisakyti"</string>
+    <string name="uf_sdk_email_illigal">"El. pašto adresas jau naudojamas"</string>
+    <string maxwidth="-1" name="uf_sdk_empty_notification">"Tuščia :)"</string>
+    <string name="uf_sdk_faq">"DUK"</string>
+    <string name="uf_sdk_feedback_and_help">"Atsiliepimai ir pagalba"</string>
+    <string name="uf_sdk_forum_description">"Prisijunkite prie pokalbio su ASUS naudotojais norėdami surasti ir pasidalinti savo sprendimais"</string>
+    <string maxwidth="-1" name="uf_sdk_grant_permission_title">"Suteikti leidimą"</string>
+    <string name="uf_sdk_help">"Pagalba"</string>
+    <string name="uf_sdk_instant_answer_question">"Ar šis DUK buvo naudingas?"</string>
+    <string name="uf_sdk_like">"Patinka"</string>
+    <string maxwidth="-1" name="uf_sdk_message">"Pranešimai"</string>
+    <string name="uf_sdk_msg_bad_email_format">"El. pašto adresas negalioja, bandykite dar kartą."</string>
+    <string name="uf_sdk_msg_confirm_discard_topic">"Jūsų juodraštis nebus išsaugotas. Ar vis tiek norite jį ištrinti?"</string>
+    <string name="uf_sdk_msg_confirm_discard_topic_title">"Ištrinti įrašą?"</string>
+    <string name="uf_sdk_msg_subscribe">"Temos būsenos pranešimo prenumerata jums bus išsiųsta el. paštu."</string>
+    <string name="uf_sdk_msg_subscribe_success">"Sėkmingai užsiprenumeruota"</string>
+    <string name="uf_sdk_msg_ticket_created">"Jūsų atsiliepimas sėkmingai išsiųstas ASUS"</string>
+    <string name="uf_sdk_msg_topic_created">"Sėkmingai paskelbta"</string>
+    <string name="uf_sdk_msg_unsubscribe">"Sėkmingai anuliuota prenumerata"</string>
+    <string name="uf_sdk_name_hint">"Įveskite savo vardą"</string>
+    <string name="uf_sdk_name_illigal">"Naudotojo vardas jau užimtas"</string>
+    <string name="uf_sdk_network_error">"Nėra interneto ryšio, patikrinkite savo tinklo nustatymus."</string>
+    <string description="zenui news" maxwidth="" name="uf_sdk_news">"Naujienos"</string>
+    <string name="uf_sdk_no_network_connection_content">"Serveris nutraukė ryšį. Bandykite vėliau."</string>
+    <string name="uf_sdk_no_network_connection_title">"Ryšio klaida"</string>
+    <string name="uf_sdk_nothing_found">"Nieko nerasta"</string>
+    <string name="uf_sdk_notice">"Pranešimas"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category1">"Skelbimai"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category2">"Mokomoji medžiaga ir patarimai"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category3">"Akcijos"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category4">"Renginiai"</string>
+    <string name="uf_sdk_publish_an_topic">"Skelbti naują temą"</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_rate_now">"Įvertinti dabar"</string>
+    <string description="%s is AP name, don&apos;t translate" maxWidth="" name="uf_sdk_rate_us_detail">"Jei jums patinka naudotis %s, įvertinkite mus 5 „Play Store“ žvaigždutėmis."</string>
+    <string maxWidth="" name="uf_sdk_rate_us_detail_new">"Jei palaikysite mus įvertindami 5 žvaigždutėmis, įkvėpsite tęsti mūsų darbą!"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_rating">"5 žvaigždučių įvertinimas"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title">"Įvertinkite mus!"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title_new">"Padrąsinkite mus!"</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_scroll_up_toast">"Slinkite aukštyn norėdami įvertinti"</string>
+    <string name="uf_sdk_search_hint">"Paieškos pagalba"</string>
+    <string name="uf_sdk_select_common_bug">"Pasirinkti bendrąją klaidą"</string>
+    <string name="uf_sdk_send_feedback">"Siųsti atsiliepimą"</string>
+    <string name="uf_sdk_send_feedback_help">"Jūsų atsiliepimas ir el. pašto adresas bus persiųsti ASUS. Aptarnavimo komanda su jumis susisieks el. paštu."</string>
+    <string maxwidth="-1" name="uf_sdk_setting_btn_content">"Nustatymai"</string>
+    <string description="recommend title" maxwidth="" name="uf_sdk_settings_encourage_us_title">"Padrąsinkite mus"</string>
+    <string maxwidth="-1" name="uf_sdk_storage_permission_description">"Šiai funkcijai reikia gauti kaupiklio leidimą, kad turėtų prieigą prie multimedijos failų. \n\nJei norite suaktyvinti šią funkciją, bakstelėkite mygtuką „Nustatymai“ norėdami patekti į nustatymų puslapį, tada nustatykite „Programėlių informacija“ > „Leidimai“, kad būtų suteiktas leidimas.\n"</string>
+    <string name="uf_sdk_submit_topic">"Skelbti"</string>
+    <string name="uf_sdk_subscribe_dialog_title">"Prenumeruokite šią temą"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_answered">"Atsakyta"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_completed">"baigta"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_declined">"atmesta"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_implemented">"Pritaikyta"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_planned">"suplanuota"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_under_review">"tikrinama"</string>
+    <string name="uf_sdk_thanks_for_your_feedback">"Dėkojame už atsiliepimą!"</string>
+    <string description="%s is a application name, don&apos;t translate" name="uf_sdk_ticket_hint">"Įvesti atsiliepimus apie %s"</string>
+    <string name="uf_sdk_title_topic">"Tema"</string>
+    <string name="uf_sdk_topic">"Tema"</string>
+    <string name="uf_sdk_topic_description_heading">"Aprašymas"</string>
+    <string name="uf_sdk_topic_description_hint">"Išsamiau aprašykite savo temą"</string>
+    <string name="uf_sdk_topic_filter">"TEMOS"</string>
+    <string name="uf_sdk_topic_form_help">"Jums paskelbus temą vartotojų forume, kiti vartotojai galės ją prenumeruoti ir joje komentuoti. Be to, ASUS kūrybinei komandai reagavus į temą, apie tai būsite informuoti el. paštu."</string>
+    <string name="uf_sdk_topic_form_title">"Skelbti naują temą"</string>
+    <string name="uf_sdk_topic_text_heading">"Forumas"</string>
+    <string name="uf_sdk_topic_text_hint">"Įveskite savo temos pavadinimą"</string>
+    <string name="uf_sdk_topic_title">"Pavadinimas"</string>
+    <string name="uf_sdk_translation_10117605">"Vertimo problema"</string>
+    <string name="uf_sdk_translation_117562">"Atsiliepimo tipas"</string>
+    <string name="uf_sdk_translation_2529543">"Klaidų ataskaita"</string>
+    <string name="uf_sdk_translation_2529544">"Kiti"</string>
+    <string name="uf_sdk_translation_2530478">"Pasiūlymas"</string>
+    <string name="uf_sdk_unhelpful_article_message_question">"Ar norėtumėte ASUS kūrybinei komandai nusiųsti atsiliepimą?"</string>
+    <string name="uf_sdk_user_forum">"Naudotojų forumas"</string>
+    <string name="uf_sdk_warning">"Įspėjimas"</string>
+    <string name="uf_sdk_wifi_settings">"„Wi-Fi“ nustatymai"</string>
+    <string name="uf_sdk_wlan_settings">"WLAN nustatymai"</string>
+    <string name="uf_sdk_write_your_feedback">"Įveskite atsiliepimus čia"</string>
+    <string name="uf_sdk_your_draft_will_be_discarded">"Jūsų juodraščio bus atsisakyta."</string>
+    <string description="description for empty search result" maxwidth="-1" name="unable_to_find_artlcles">"Negalima surasti \u0022%s\u0022 susijusių straipsnių"</string>
+    <string name="uv_admin_response_format">"Administratoriaus atsakymas: %1$s"</string>
+    <string name="uv_all_articles">"Visi straipsniai"</string>
+    <string name="uv_all_results_filter">"VISKAS"</string>
+    <string name="uv_android_sdk">Android SDK</string>
+    <string name="uv_article_browse_question">"Ar šis straipsnis buvo naudingas?"</string>
+    <string name="uv_article_instant_answer_question">"Ar šis DUK naudingas?"</string>
+    <string name="uv_cancel">"Atšaukti"</string>
+    <string name="uv_category">"Kategorija"</string>
+    <string name="uv_close">"Uždaryti"</string>
+    <string name="uv_comment_hint">"Įvesti savo komentarą"</string>
+    <string name="uv_confirm">"Patvirtinti"</string>
+    <string name="uv_contact_continue_button">"Vis dar noriu išsiųsti pranešimą"</string>
+    <string name="uv_contact_hint">"Įveskite savo klausimą arba atsiliepimą"</string>
+    <string name="uv_contact_us">"Kontaktai"</string>
+    <string name="uv_display_name">"Rodyti vardą"</string>
+    <string name="uv_email_address">"El. pašto adresas"</string>
+    <string name="uv_email_address_hint">"jūsų@el.p.adresas.com (būtina)"</string>
+    <string name="uv_error">"Klaida"</string>
+    <string name="uv_failed_signin_error">"Neteisingas el. pašto adresas arba slaptažodis"</string>
+    <string name="uv_forgot_password">"Pamiršau slaptažodį"</string>
+    <string name="uv_helpful_article_message_question">"Ar vis dar norite išsiųsti pranešimą?"</string>
+    <string name="uv_i_want_this">"Noriu to!"</string>
+    <string name="uv_idea_description_heading">"Išsamiau aprašykite savo idėją"</string>
+    <string name="uv_idea_description_hint">"(pasirinktinai)"</string>
+    <string name="uv_idea_text_heading">"Siūlau jums..."</string>
+    <string name="uv_loading">"Įkeliama..."</string>
+    <string name="uv_matching_articles">"Sutampantys straipsniai"</string>
+    <string name="uv_matching_articles_and_ideas">"Sutampantys straipsniai ir idėjos"</string>
+    <string name="uv_menu_attach">"Pridėti"</string>
+    <string name="uv_menu_search">"Ieškoti"</string>
+    <string name="uv_msg_bad_email_format">"Įveskite galiojantį el. pašto adresą."</string>
+    <string name="uv_msg_comment_posted">"Jūsų komentaras paskelbtas"</string>
+    <string name="uv_msg_confirm_discard_message">"Ar tikrai norime atmesti savo pranešimą?"</string>
+    <string name="uv_msg_custom_fields_validation">"Užpildykite visus reikiamus laukelius."</string>
+    <string name="uv_msg_forgot_password">"Išsiųstas el. laiškas dėl užmiršto slaptažodžio"</string>
+    <string name="uv_msg_idea_created">"Jūsų idėja sukurta"</string>
+    <string name="uv_msg_ticket_created">"Jūsų pranešimas išsiųstas"</string>
+    <string name="uv_msg_user_identity_validation">"Įveskite savo el. pašto adresą"</string>
+    <string name="uv_name_hint">"Anonimiškai"</string>
+    <string name="uv_network_error">"Jungiantis prie „UserVoice“ įvyko klaida"</string>
+    <string name="uv_nevermind">"Nesvarbu"</string>
+    <string name="uv_new_comment">"Naujas komentaras"</string>
+    <string name="uv_next">"Toliau"</string>
+    <string name="uv_no">"Ne"</string>
+    <string name="uv_none_of_these_help">"Niekas nebuvo naudinga"</string>
+    <string name="uv_password">"Slaptažodis"</string>
+    <string name="uv_password_dialog_title">"Įveskite savo slaptažodį"</string>
+    <string name="uv_portal_title">"Pagalba"</string>
+    <string name="uv_post_a_comment">"Paskelbti komentarą"</string>
+    <string name="uv_post_comment">"Skelbti komentarą"</string>
+    <string name="uv_posted_by_format">"%1$s paskelbė %2$s"</string>
+    <string name="uv_powered_by_uservoice">"Valdoma su „UserVoice“"</string>
+    <string name="uv_ranked">"Įvertinta %1$s"</string>
+    <string name="uv_remove_votes">"Šalinti balsus"</string>
+    <string name="uv_select_none">"(joks)"</string>
+    <string name="uv_select_one">"Pasirinkti vieną"</string>
+    <string name="uv_send_message">"Siųsti pranešimą"</string>
+    <string name="uv_signin_dialog_ok">"Prisijungti"</string>
+    <string name="uv_signin_dialog_title">"Prisijungti"</string>
+    <string name="uv_status_format">"Būsena: %1$s"</string>
+    <string name="uv_submit_idea">"Pateikti idėją"</string>
+    <string name="uv_subscribe">"Prenumeruoti"</string>
+    <string name="uv_subscribe_dialog_title">"Prenumeruoti šią idėją"</string>
+    <string name="uv_suggestion_instant_answer_question">"Ar ši idėja naudinga?"</string>
+    <string name="uv_thanks">"Ačiū!"</string>
+    <string name="uv_unhelpful_article_message_question">"Ar norite mums išsiųsti pranešimą?"</string>
+    <string name="uv_value">"Reikšmė"</string>
+    <string name="uv_very_yes">"Taip!"</string>
+    <string name="uv_yes">"Taip"</string>
+    <string name="uv_your_email_address">"Jūsų el. pašto adresas"</string>
+    <string name="uv_your_name">"Jūsų vardas"</string>
+</resources>

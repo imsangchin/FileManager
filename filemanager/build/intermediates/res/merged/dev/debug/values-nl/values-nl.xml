@@ -1,0 +1,1311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="alarm_set">
+        <item msgid="6450913786084215050">"Alarm is ingesteld voor minder dan 1 minuut vanaf nu."</item>
+        <item msgid="6002066367368421848">"Alarm is ingesteld voor <ns1:g id="DAYS">%1$s</ns1:g> vanaf nu."</item>
+        <item msgid="8824719306247973774">"Alarm is ingesteld voor <ns1:g id="HOURS">%2$s</ns1:g> vanaf nu."</item>
+        <item msgid="8182406852935468862">"Alarm is ingesteld voor <ns1:g id="DAYS">%1$s</ns1:g> en <ns1:g id="HOURS">%2$s</ns1:g> vanaf nu."</item>
+        <item msgid="2532279224777213194">"Alarm gaat over <ns1:g id="MINUTES">%3$s</ns1:g> minuten af."</item>
+        <item msgid="5936557894247187717">"Alarm is ingesteld voor <ns1:g id="DAYS">%1$s</ns1:g> en <ns1:g id="MINUTES">%3$s</ns1:g> vanaf nu."</item>
+        <item msgid="9115697840826129603">"Alarm is ingesteld voor <ns1:g id="HOURS">%2$s</ns1:g> en <ns1:g id="MINUTES">%3$s</ns1:g> vanaf nu."</item>
+        <item msgid="2332583385137381060">"Alarm is ingesteld voor <ns1:g id="DAYS">%1$s</ns1:g>, <ns1:g id="HOURS">%2$s</ns1:g> en <ns1:g id="MINUTES">%3$s</ns1:g> vanaf nu."</item>
+    </string-array>
+    <string-array name="charset_array">
+        <item>"Latijns-1 (ISO-8859-1)"</item>
+        <item>"Unicode (UTF-8)"</item>
+        <item>"Chinees (GBK)"</item>
+        <item>"Chinees (Big5)"</item>
+        <item>"Japans (ISO-2022-JP)"</item>
+        <item>"Japans (SHIFT_JIS)"</item>
+        <item>"Japans (EUC-JP)"</item>
+        <item>"Koreaans (EUC-KR)"</item>
+    </string-array>
+    <string-array name="country_names">
+        <item>Aruba</item>
+        <item>Afghanistan (جمهوری اسلامی افغانستان)</item>
+        <item>Angola (República de Angola)</item>
+        <item>Anguilla</item>
+        <item>Albanië (Shqipëri)</item>
+        <item>Andorra (Principat d\'Andorra)</item>
+        <item>Nederlandse Antillen</item>
+        <item>Verenigde Arabische Emiraten (دولة الإمارات العربية المتحدة‎)</item>
+        <item>Argentinië (República Argentina)</item>
+        <item>Armenië (Hayastan)</item>
+        <item>Amerikaans Samoa</item>
+        <item>Antarctica</item>
+        <item>Franse zuidelijke territoria</item>
+        <item>Antigua en Barbuda</item>
+        <item>Australië (Australia)</item>
+        <item>Oostenrijk (Österreich)</item>
+        <item>Azerbeidzjan</item>
+        <item>Burundi</item>
+        <item>België (België)</item>
+        <item>Benin</item>
+        <item>Burkina Faso</item>
+        <item>Bangladesh (বাংলাদেশ)</item>
+        <item>Bulgarije (България / Balgariya)</item>
+        <item>Bahrein (مملكة البحرين)</item>
+        <item>Bahamas</item>
+        <item>Bosnië/Herzegovina (Bosna i Hercegovina)</item>
+        <item>Wit-Rusland (Беларусь)</item>
+        <item>Belize</item>
+        <item>Bermuda</item>
+        <item>Bolivia</item>
+        <item>Brazilië</item>
+        <item>Barbados</item>
+        <item>Brunei Darussalam (بروني دارالسلام)</item>
+        <item>Bhutan</item>
+        <item>Bouveteiland</item>
+        <item>Botswana (Lefatshe la Botswana)</item>
+        <item>Centraal-Afrikaanse Republiek (République centrafricaine)</item>
+        <item>Canada</item>
+        <item>Cocos (Keeling)-eilanden</item>
+        <item>Zwitserland (Suisse)</item>
+        <item>Chili</item>
+        <item>China (中國)</item>
+        <item>Ivoorkust</item>
+        <item>Kameroen</item>
+        <item>Kongo</item>
+        <item>Cook-eilanden</item>
+        <item>Colombia</item>
+        <item>Comoren</item>
+        <item>Kaapverdische eilanden</item>
+        <item>Costa Rica</item>
+        <item>Cuba</item>
+        <item>Christmaseiland</item>
+        <item>Kaaimaneilanden</item>
+        <item>Cyprus (Euro)</item>
+        <item>Tsjechische Republiek (Česká republika)</item>
+        <item>Duitsland (Deutschland)</item>
+        <item>Djibouti</item>
+        <item>Dominica</item>
+        <item>Denemarken (Danmark)</item>
+        <item>Dominicaanse Republiek</item>
+        <item>Algerije</item>
+        <item>Ecuador</item>
+        <item>Egypte (مصر‎)</item>
+        <item>Eritrea</item>
+        <item>West-Sahara</item>
+        <item>Spanje (España)</item>
+        <item>Estland Eesti)</item>
+        <item>Ethiopië</item>
+        <item>Finland (Suomi)</item>
+        <item>Fiji</item>
+        <item>Falkland-eilanden</item>
+        <item>Frankrijk (France)</item>
+        <item>België (Belgique)</item>
+        <item>Faroereilanden</item>
+        <item>Micronesië</item>
+        <item>Gabon</item>
+        <item>Verenigd Koninkrijk (United Kingdom)</item>
+        <item>Georgië (საქართველო)</item>
+        <item>Ghana</item>
+        <item>Gibraltar</item>
+        <item>Guinee</item>
+        <item>Guadeloupe</item>
+        <item>Gambia</item>
+        <item>Guinee-Bissau</item>
+        <item>Equatoriaal Guinee</item>
+        <item>Griekenland (Ελλάδα)</item>
+        <item>Grenada</item>
+        <item>Groenland</item>
+        <item>Guatemala</item>
+        <item>Frans-Guyana</item>
+        <item>Guam</item>
+        <item>Guyana</item>
+        <item>Hongkong (香港)</item>
+        <item>Heard- en Mc Donald-eilanden</item>
+        <item>Honduras</item>
+        <item>Kroatië (Hrvatska)</item>
+        <item>Haïti</item>
+        <item>Hongarije (Magyarország)</item>
+        <item>Indonesië (Republik Indonesia)</item>
+        <item>India (भारत गणराज्य )</item>
+        <item>Brits Territorium Indische Oceaan</item>
+        <item>Ierland (Ireland)</item>
+        <item>Iran (ایران)</item>
+        <item>Irak (العراق)</item>
+        <item>IJsland (Ísland)</item>
+        <item>Israël (מְדִינַת יִשְׂרָאֵל  /  دَوْلَةُ إِسْرَائِيلَ)</item>
+        <item>Italië (Italia)</item>
+        <item>Jamaica</item>
+        <item>Jordanië (L\'Ürdünn)</item>
+        <item>Japan (日本国)</item>
+        <item>Kazachstan</item>
+        <item>Kenia (Jamhuri ya Kenya)</item>
+        <item>Kirgizië</item>
+        <item>Cambodja (कम्बोजदेश)</item>
+        <item>Kiribati</item>
+        <item>St. Kitts en Nevis</item>
+        <item>Korea, Republiek van (대한민국)</item>
+        <item>Koeweit (دولة الكويت)</item>
+        <item>Democratische Volksrepubliek Laos</item>
+        <item>Libanon (اَلْجُمْهُورِيَّة اَللُّبْنَانِيَّة)</item>
+        <item>Liberia</item>
+        <item>Libië (Libyan Arab Jamahiriya)</item>
+        <item>Saint Lucia</item>
+        <item>Liechtenstein (Liechtenstein)</item>
+        <item>Sri Lanka (இலங்கை ஜனநாயக சமத்துவ)</item>
+        <item>Lesotho</item>
+        <item>Litouwen (Lietuva)</item>
+        <item>Luxemburg (Lëtzebuerg)</item>
+        <item>Letland (Latvija)</item>
+        <item>Macau</item>
+        <item>Marokko</item>
+        <item>Monaco (Monaco)</item>
+        <item>Moldova (Moldova)</item>
+        <item>Madagaskar</item>
+        <item>Malediven</item>
+        <item>Mexico</item>
+        <item>Marshalleilanden</item>
+        <item>Macedonië</item>
+        <item>Mali</item>
+        <item>Malta (Malta)</item>
+        <item>Myanmar (Pyidaunzu Thanmăda Myăma Nainngandaw)</item>
+        <item>Mongolië</item>
+        <item>Noordelijke Marianen</item>
+        <item>Mozambique</item>
+        <item>Mauritanië</item>
+        <item>Montserrat</item>
+        <item>Martinique (Martinique)</item>
+        <item>Mauritius (Republik Moris)</item>
+        <item>Malawi</item>
+        <item>Maleisië (Persekutuan Malaysia)</item>
+        <item>Mayotte</item>
+        <item>Namibië</item>
+        <item>Nieuw-Caledonië (Nouvelle-Calédonie)</item>
+        <item>Niger</item>
+        <item>Norfolk-eiland (Norfuk Ailen)</item>
+        <item>Nigeria (Republik Nijeriya)</item>
+        <item>Nicaragua</item>
+        <item>Niue</item>
+        <item>Nederland (Nederland)</item>
+        <item>Noorwegen (Norge)</item>
+        <item>Nepal (सङ्घीय लोकतान्त्रिक गणतन्त्र नेपाल)</item>
+        <item>Nauru</item>
+        <item>Nieuw-Zeeland (New Zealand)</item>
+        <item>Oman (لطنة عمان)</item>
+        <item>Pakistan (پاکِستان)</item>
+        <item>Panama</item>
+        <item>Pitcairn</item>
+        <item>Peru</item>
+        <item>Filippijnen (Pilipinas)</item>
+        <item>Palau</item>
+        <item>Papua Nieuw Guinea</item>
+        <item>Polen (Polska)</item>
+        <item>Puerto Rico</item>
+        <item>Korea, Democratische Volksrepubliek</item>
+        <item>Portugal (Portugal)</item>
+        <item>Paraguay</item>
+        <item>Frans Polynesië</item>
+        <item>Katar</item>
+        <item>Reunion</item>
+        <item>Roemenië (România)</item>
+        <item>Rusland (Россия)</item>
+        <item>Rwanda</item>
+        <item>Saoedi-Arabië (المملكة العربية السعودية)</item>
+        <item>Servië en Montenegro</item>
+        <item>Soedan (جمهورية السودان)</item>
+        <item>Senegal</item>
+        <item>Singapore (Singapore)</item>
+        <item>Zuid-Georgië en de Zuidelijke Sandwicheilanden</item>
+        <item>St. Helena</item>
+        <item>Spitsbergen en Jan Mayen-eilanden</item>
+        <item>Salomonseilanden (Solomon Islands)</item>
+        <item>Sierra Leone</item>
+        <item>El Salvador</item>
+        <item>San Marino (San Marino)</item>
+        <item>Somalië</item>
+        <item>St. Pierre en Miquelon (St. Pierre and Miquelon)</item>
+        <item>Sao Tomé en Principe</item>
+        <item>Suriname</item>
+        <item>Slowakije (Slovensko)</item>
+        <item>Slovenië (Slovenija)</item>
+        <item>Zweden (Sverige)</item>
+        <item>Swaziland (Swatini)</item>
+        <item>Seychellen</item>
+        <item>Syrische Arabische Republiek (جمهورية العربية السورية)</item>
+        <item>Turks- en Caicoseilanden</item>
+        <item>Tsjaad</item>
+        <item>Togo</item>
+        <item>Thailand (ราชอาณาจักรไทย)</item>
+        <item>Tadzjikistan</item>
+        <item>Tokelau</item>
+        <item>Turkmenistan</item>
+        <item>Oost-Timor</item>
+        <item>Tonga</item>
+        <item>Trinidad en Tobago</item>
+        <item>Tunesië</item>
+        <item>Turkije (Türkiye)</item>
+        <item>Tuvalu</item>
+        <item>TAIWAN, CVR (台灣)</item>
+        <item>Tanzania</item>
+        <item>Oeganda (Jamhuri ya Uganda)</item>
+        <item>Oekraïne (Україна)</item>
+        <item>Kleine afgelegen eilanden van de Verenigde Staten</item>
+        <item>Uruguay</item>
+        <item>Verenigde Staten</item>
+        <item>Oezbekistan</item>
+        <item>Vaticaanstad (Stato della Città del Vaticano)</item>
+        <item>St. Vincent en de Grenadines</item>
+        <item>Venezuela</item>
+        <item>Maagdeneilanden (Brits)</item>
+        <item>Maagdeneilanden (VS)</item>
+        <item>Vietnam (Việt Nam)</item>
+        <item>Vanuatu</item>
+        <item>Wallis- en Futuna-eilanden</item>
+        <item>Samoa</item>
+        <item>Jemen</item>
+        <item>Zuid-Afrika (Republiek van Suid-Afrika)</item>
+        <item>Zaïre</item>
+        <item>Zambia</item>
+        <item>Zimbabwe (Simudzai Mureza wedu WeZimbabwe)</item>
+    </string-array>
+    <plurals name="dialog_unzip_preview_size_text">
+        <item quantity="one">Totaal: %1$d bestand, %2$s</item>
+        <item quantity="other">Totaal: %1$d bestanden, %2$s</item>
+    </plurals>
+    <plurals name="drag_items">
+        <item quantity="one">Item slepen</item>
+        <item quantity="other">Items slepen</item>
+    </plurals>
+    <plurals name="number_search_items">
+        <item quantity="one">"%d bestand gevonden"</item>
+        <item quantity="other">"%d bestand gevonden"</item>
+    </plurals>
+    <plurals name="number_selected_items">
+        <item quantity="one">%d item geselecteerd</item>
+        <item quantity="other">%d items geselecteerd</item>
+    </plurals>
+    <plurals name="uf_sdk_number_of_subscribers_format">
+        <item quantity="one">"%1$s vindt dit onderwerp leuk"</item>
+        <item quantity="other">"%1$s vinden dit onderwerp leuk"</item>
+    </plurals>
+    <plurals name="uf_sdk_topics">
+        <item quantity="one">"onderwerp"</item>
+        <item quantity="other">"onderwerpen"</item>
+    </plurals>
+    <plurals name="uv_comments">
+        <item quantity="one">"opmerking"</item>
+        <item quantity="other">"opmerkingen"</item>
+    </plurals>
+    <plurals name="uv_number_of_subscribers_format">
+        <item quantity="one">"%1$s wil dit idee"</item>
+        <item quantity="other">"%1$s willen dit idee"</item>
+    </plurals>
+    <plurals name="uv_people">
+        <item quantity="one">"persoon"</item>
+        <item quantity="other">"mensen"</item>
+    </plurals>
+    <plurals name="uv_subscribers">
+        <item quantity="one">"abonnee"</item>
+        <item quantity="other">"abonnees"</item>
+    </plurals>
+    <string name="AsusWebstroage">AsusWebstorage</string>
+    <string name="AuCloud">AuCloud</string>
+    <string name="BaiDuPCS">BaiDuPCS</string>
+    <string name="Default">Standaard</string>
+    <string name="Dropbox">Dropbox</string>
+    <string name="Google_Drive">Google Drive</string>
+    <string name="HomeCloud">HomeCloud</string>
+    <string name="OneDrive">OneDrive</string>
+    <string name="Yandex">Yandex</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Navigeren naar startpositie"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Omhoog navigeren"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Meer opties"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Gereed"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Alles weergeven"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Een app selecteren"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"UIT"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"AAN"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Zoeken…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Zoekopdracht wissen"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Zoekopdracht"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Zoeken"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Zoekopdracht verzenden"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Gesproken zoekopdracht"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Delen met"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Delen met %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Samenvouwen"</string>
+    <string name="about">Over</string>
+    <string name="account_asus">ASUS</string>
+    <string maxwidth="-1" name="action">Aanmelden</string>
+    <string description="cutstom action bar view title for about" maxwidth="-1" name="action_about">Over</string>
+    <string description="action add files" maxwidth="-1" name="action_add">Toevoegen</string>
+    <string description="cutstom action bar view title for add folder" maxwidth="-1" name="action_add_folder">Map toevoegen</string>
+    <string description="View title of custom action bar, apply to multiple selected files" maxwidth="-1" name="action_apply_selected_file">Toepassen</string>
+    <string description="action cancel" maxwidth="-1" name="action_cancel">Annuleren</string>
+    <string maxwidth="-1" name="action_clean">"Verwijderen"</string>
+    <string maxwidth="-1" name="action_clean_all">"Alles verwijderen"</string>
+    <string description="cutstom action bar view title for clear search history" maxwidth="" name="action_clear_history">Zoekhistorie wissen</string>
+    <string description="cutstom action bar view title for edit" maxwidth="" name="action_edit">"Bewerken"</string>
+    <string maxwidth="" name="action_hidden_zone">"Verplaatsen naar Verborgen archief""</string>
+    <string description="cutstom action bar view title for hinde system file" maxwidth="-1" name="action_hind_system_file">Systeembestanden verbergen</string>
+    <string name="action_loading">"Bezig met laden..."</string>
+    <string description="cutstom action bar view title for open with" maxwidth="" name="action_open_with">"Openen met..."</string>
+    <string name="action_refresh_cloudfile">"Vernieuwen"</string>
+    <string maxwidth="-1" name="action_restore">"Terugzetten"</string>
+    <string maxwidth="-1" name="action_restore_all">"Alles terugzetten"</string>
+    <string description="cutstom action bar view title for search" maxwidth="" name="action_search">Zoeken</string>
+    <string description="cutstom action bar view title for set as" maxwidth="" name="action_set_as">"Afbeelding instellen als"</string>
+    <string description="menu title for setting" maxwidth="-1" name="action_settings">"Instellingen"</string>
+    <string description="cutstom action bar view title for sharing" maxwidth="-1" name="action_share">"Delen"</string>
+    <string description="String for asking for the rule of sorting" maxwidth="-1" name="action_sort_by">Sorteren op</string>
+    <string description="cutstom action bar view title for zip" maxwidth="" name="action_zip">Comprimeren</string>
+    <string description="Dialog title: Add cloud storage" maxwidth="-1" name="add_cloud_storage_dialog_title">Cloud-opslag toevoegen</string>
+    <string name="add_favorite">Toevoegen aan Favorieten</string>
+    <string name="add_favorite_folder">"Favoriete map toevoegen"</string>
+    <string name="add_favorite_success">Opslaan in Favorieten</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="add_progress">Bezig met maken...</string>
+    <string description="Don&apos;t remind me again" maxwidth="-1" name="alert_cb_msg">Mij niet meer herinneren</string>
+    <string description="ASUS ZenUI Services is not support, need update ASUS ZenUI Services" maxwidth="-1" name="alert_msg_azs_update">%1$s vereist de nieuwste versie van ASUS ZenUI Services. Installeerd deze nu.</string>
+    <string description="Client app is not support, need update client app" maxwidth="-1" name="alert_msg_client_update">Er is een nieuwe versie van %1$s beschikbaar. Installeer deze nu.</string>
+    <string description="Client app version is compatible with ASUS ZenUI Services" maxwidth="-1" name="alert_msg_compatible">%1$s versie is compatibel met ASUS ZenUI Services.</string>
+    <string description="Client app version is match with ASUS ZenUI Services" maxwidth="-1" name="alert_msg_match">%1$s-versie komt overeen met ASUS ZenUI Services.</string>
+    <string description="ASUS ZenUI Services is not found on device" maxwidth="-1" name="alert_msg_not_found">ASUS ZenUI Services is niet geïnstalleerd.\n\nNaar downloaden gaan en het installeren?</string>
+    <string description="Dialog title" maxwidth="-1" name="alert_title">Opmerking</string>
+    <string description="Dialog title" maxwidth="-1" name="alert_title_update">Update aanbevolen</string>
+    <string name="app_cloudstorage_name">Cloudopslag</string>
+    <string name="app_upload_complete">"%s upload voltooid"</string>
+    <string description="" name="article_one">Ik ga akkoord met de \"<u>Gebruiksvoorwaarden</u>\" van ASUS, het \"<u>Privacybeleid</u>\" van ASUS, \"<u>Gebruiksvoorwaarden</u>\" van ASUS WebStorage, \"<u>Privacybeleid</u>\" van ASUS WebStorage.</string>
+    <string description="" name="article_two">Houd me up-to-date via eDMs met ASUS-nieuws, software-updates en de nieuwste product- en service-informatie.</string>
+    <string description="Text for create asus account button." maxwidth="" name="asus_account_create_button">Nieuw maken</string>
+    <string name="asus_account_integrate_dialog_content">Wilt u de ASUS Cloud-opslagservice integreren in uw ASUS-account? \n\n Na deze integraties kunnen alle ASUS-services worden gebruikt vanaf dezelfde account.</string>
+    <string name="asus_account_integrate_dialog_skip">Overslaan</string>
+    <string name="asus_account_integrate_dialog_title">ASUS-services integreren</string>
+    <string name="asus_account_integrate_dialog_yes">Ja</string>
+    <string description="Text for asus account content 1st." maxwidth="" name="asus_account_msg_content_1">Persoonlijke ASUS-ondersteuningsservice en garantieverlenging voor geregistreerde producten.</string>
+    <string description="Text for asus account content 2nd." maxwidth="" name="asus_account_msg_content_2">Gratis cloud-opslagruimte van 5 GB.</string>
+    <string description="Text for asus account content 3rd." maxwidth="" name="asus_account_msg_content_3">De laatste nieuwtjes over accessoires en vernieuwde producten.</string>
+    <string description="Text for asus account content title." maxwidth="" name="asus_account_msg_title">Maak een ASUS-account aan om het volgende te krijgen:</string>
+    <string name="asus_account_only_one_alert">"Er mag slechts één ASUS-account worden toegevoegd." U moet uw huidige account verwijderen voordat u deze vervangt door een nieuwe."</string>
+    <string name="asus_account_prefc">"Instellingen"</string>
+    <string name="asus_account_prefc_advc">"Geavanceerde instellingen"</string>
+    <string name="asus_account_registe_country_error">Selecteer één landregio!</string>
+    <string name="asus_account_registe_id_error">E-mailfout</string>
+    <string name="asus_account_registe_policy_error">U moet akkoord gaan met het ASUS-beleid om een ASUS-account te registreren!</string>
+    <string name="asus_account_registe_pw_error_1">Wachtwoord mag niet leeg zijn!</string>
+    <string name="asus_account_registe_pw_error_2">Wachtwoord bevestigen mag niet leeg zijn!</string>
+    <string name="asus_account_registe_pw_error_3">Wachtwoord en bevestiging moeten identiek zijn!</string>
+    <string name="asus_account_registe_pw_error_4">"Het wachtwoord moet 8 tot 25 tekens lang zijn"</string>
+    <string name="asus_account_removeaccount_dialog_content">"De integratie van de account is gelukt. Meld opnieuw aan met de nieuwe account."</string>
+    <string name="asus_account_removeaccount_dialog_title">"De integratie van de ASUS-account is gelukt"</string>
+    <string name="asus_commonui_activity_chooser_view_see_all">"Alles weergeven"</string>
+    <string name="asus_commonui_activity_resolver_use_always">"Altijd"</string>
+    <string name="asus_commonui_activity_resolver_use_once">"Eén keer"</string>
+    <string name="asus_commonui_activitychooserview_choose_application">"Een app selecteren"</string>
+    <string name="asus_commonui_activitychooserview_choose_application_error">
+        "Kan <ns1:g id="APPLICATION_NAME">%s</ns1:g> niet starten"</string>
+    <string name="asus_commonui_cancel_label">"Annuleren"</string>
+    <string name="asus_commonui_chooseActivity">"Een actie selecteren"</string>
+    <string msgid="3968620852217927702" name="asus_commonui_day_picker_description">"Maandraster van dagen"</string>
+    <string msgid="6908431551612331381" name="asus_commonui_deleted_key">"<ns1:g id="KEY">%1$s</ns1:g> verwijderd"</string>
+    <string name="asus_commonui_done_label">"OK"</string>
+    <string msgid="7586639618712934060" name="asus_commonui_hour_picker_description">"Ronde schuifregelaar voor uren"</string>
+    <string msgid="2674929164900463786" name="asus_commonui_item_is_selected">"<ns1:g id="ITEM">%1$s</ns1:g> geselecteerd"</string>
+    <string msgid="6024811202872705251" name="asus_commonui_minute_picker_description">"Ronde schuifregelaar voor minuten"</string>
+    <string name="asus_commonui_noApplications">"Geen enkele app kan deze actie uitvoeren."</string>
+    <string name="asus_commonui_no_url_handler">Geen app gevonden om URL te openen</string>
+    <string name="asus_commonui_privacy_policy">Privacybeleid</string>
+    <string name="asus_commonui_privacy_policy_url">http://www.asus.com/NL/Terms_of_Use_Notice_Privacy_Policy/Privacy_Policy</string>
+    <string msgid="3973338219107019769" name="asus_commonui_select_day">"Maand en dag selecteren"</string>
+    <string msgid="7651068754188418859" name="asus_commonui_select_hours">"Uren selecteren"</string>
+    <string msgid="8327182090226828481" name="asus_commonui_select_minutes">"Minuten selecteren"</string>
+    <string msgid="2603330600102539372" name="asus_commonui_select_year">"Jaar selecteren"</string>
+    <string name="asus_commonui_shareactionprovider_share_with">"Delen met"</string>
+    <string name="asus_commonui_shareactionprovider_share_with_application">
+        "Delen met <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string name="asus_commonui_terms_of_use_notice">Mededeling gebruiksvoorwaarden</string>
+    <string name="asus_commonui_terms_of_use_notice_url">http://www.asus.com/NL/Terms_of_Use_Notice_Privacy_Policy/Official_Site/</string>
+    <string name="asus_commonui_whichApplication">"Actie voltooien met"</string>
+    <string name="asus_commonui_whichHomeApplication">"Een startscherm-app selecteren"</string>
+    <string msgid="6963340404644587098" name="asus_commonui_year_picker_description">"Jaarlijst"</string>
+    <string name="asus_feedback_and_help">Feedback e Ajuda</string>
+    <string name="asus_registe_success_title">"De registratie van de ASUS-account is gelukt"</string>
+    <string name="asus_response_resultdata">"Deze account is al geregistreerd."</string>
+    <string name="asusaccount_app_name">ASUS-account</string>
+    <string maxwidth="-1" name="attribution_notice">"Mededeling van toewijzing"</string>
+    <string maxwidth="-1" name="attribution_notice_content">
+    \nDit product bevat onderstaande open sources:
+\n\nuservoice-android-sdk, gelicentieerd onder Apachelicentie versie 2.0. De licentie kan worden gedownload op http://www.apache.org/licenses/LICENSE-2.0.html .
+        \n\nangular-filemanager, dat werd gelicentieerd onder MIT. De licentie kan worden gedownload op https://github.com/joni2back/angular-filemanager/blob/master/LICENSE .
+        \n\nprogressbar werd gelicentieerd onder MIT. De licentie kan worden gedownload op  https://github.com/kimmobrunfeldt/progressbar.js/blob/master/LICENSE .
+        \n\ntoastr, Copyright (c) 2012-2015 John Papa, Tim Ferrell, Hans Fjällemark\nHierbij wordt aan iedereen die een kopie van deze software en de bijhorende documentatiebestanden (de "Software") bekomt kosteloos toestemming verleend om de Software te verhandelen, inclusief het recht om onbeperkt kopieën van de Software te gebruiken, kopiëren, modificeren, samenvoegen, publiceren, distribueren of sublicentiëren en om kopieën van de Software te verkopen. Bovendien heeft iedereen aan wie de Software werd verstrekt het recht om dit te doen onder de volgende voorwaarden:
+        De bovenstaande auteursrechtenverklaring zal worden opgenomen in alle kopieën of delen van de Software.
+DE SOFTWARE WORDT GELEVERD IN DE STAAT WAARIN HIJ ZICH BEVINDT, ZONDER ENIGE IMPLICIETE OF EXPLICIETE GARANTIE, MET INBEGRIP VAN MAAR NIET BEPERKT TOT DE GARANTIES VAN VERHANDELBAARHEID, GESCHIKTHEID VOOR EEN SPECIFIEK DOEL EN COMFORMITEIT. DE AUTEURS OF AUTEURSRECHTHOUDERS KUNNEN IN GEEN GEVAL AANSPRAKELIJK WORDEN GESTELD VOOR EISEN, SCHADE OF ANDERE VORMEN VAN AANSPRAKELIJKHEID ONGEACHT OF DIE VOORTVLOEIEN UIT EEN OVEREENKOMST, ONRECHTMATIGE DAAD OF ANDERSZINS VOORTKOMENDE UIT OF OP ENIGE WIJZE VERBAND HOUDEND MET DE SOFTWARE, HET GEBRUIK ERVAN OF ANDERE AAN DE SOFTWARE GEREALTEERDE TRANSACTIES.
+    </string>
+    <string name="aucloud_account_only_one_alert">"Er mag slechts één Cloud-account worden toegevoegd. U moet uw huidige account verwijderen voordat u deze vervangt door een nieuwe."</string>
+    <string description="string indicating how camera shooting feature is used" maxwidth="-1" name="auto">Autom.</string>
+    <string maxwidth="-1" name="aws_install_contnet">Geen webopslag geïnstalleerd. Wilt u van de Play Store downloaden en installeren?</string>
+    <string maxwidth="" name="aws_install_title">Geen WebStorage geïnstalleerd</string>
+    <string description="button text." maxwidth="-1" name="back_button_label">Terug</string>
+    <string name="baidu_alert_info">"Op basis van het platform van Baidu, kan dit apparaat alleen toegang krijgen tot de gegevens onder "My Application Data\\asus\\"."</string>
+    <string name="baidu_alert_title">"Baidu Cloud-opslag"</string>
+    <string name="baidu_storage_title">"百度云"</string>
+    <string name="baidupcs_account_only_one_alert">"Er mag slechts één Baidu voor ASUS-account worden toegevoegd. U moet uw huidige account verwijderen voordat u deze vervangt door een nieuwe."</string>
+    <string name="btn_OK">OK</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="calculate_progress">"Wordt uitgevoerd..."</string>
+    <string description="Toast: can not open in hidden zone" maxwidth="-1" name="can_not_open_in_hidden_zone">"Kan niet worden geopend in Verborgen archief"</string>
+    <string description="Dialog Button: cancel for dialog" maxwidth="" name="cancel">Annuleren</string>
+    <string name="cancle">Annuleren</string>
+    <string name="category_apk">Apps</string>
+    <string maxwidth="11" name="category_app1">"Apps"</string>
+    <string name="category_compress">"Gecomprimeerd"</string>
+    <string maxwidth="11" name="category_compressed1">"Gecomprim."</string>
+    <string name="category_count">"%s"</string>
+    <string maxwidth="11" name="category_document1">"Documenten"</string>
+    <string name="category_documents">"Documenten"</string>
+    <string name="category_download">Downloaden</string>
+    <string maxwidth="11" name="category_download1">"Downloads"</string>
+    <string name="category_favorite">Favoriet</string>
+    <string maxwidth="11" name="category_favorite1">"Favorieten"</string>
+    <string name="category_game">"Games"</string>
+    <string name="category_image">Afbeelding</string>
+    <string maxwidth="11" name="category_image1">"Afbeelding"</string>
+    <string maxwidth="11" name="category_large_file1">"Grote best."</string>
+    <string name="category_music">Muziek</string>
+    <string maxwidth="11" name="category_music1">"Muziek"</string>
+    <string name="category_name_app_wallpaper">"Interactieve achtergrond"</string>
+    <string name="category_name_app_widgets">"Widgets"</string>
+    <string name="category_name_books_and_reference">"Boeken en referentie"</string>
+    <string name="category_name_business">"Zakelijk"</string>
+    <string name="category_name_comics">"Comics"</string>
+    <string name="category_name_communication">"Communicatie"</string>
+    <string name="category_name_education">"Onderwijs"</string>
+    <string name="category_name_entertainment">"Amusement"</string>
+    <string name="category_name_finance">"Financiën"</string>
+    <string name="category_name_game">"Games"</string>
+    <string name="category_name_game_action">"Actie"</string>
+    <string name="category_name_game_adventure">"Avontuur"</string>
+    <string name="category_name_game_arcade">"Arcade"</string>
+    <string name="category_name_game_board">"Bordspellen"</string>
+    <string name="category_name_game_card">"Kaart"</string>
+    <string name="category_name_game_casino">"Casino"</string>
+    <string name="category_name_game_casual">"Casual games"</string>
+    <string name="category_name_game_educational">"Educatief"</string>
+    <string name="category_name_game_family">"Familie"</string>
+    <string name="category_name_game_music">"Muziek"</string>
+    <string name="category_name_game_puzzle">"Puzzel"</string>
+    <string name="category_name_game_racing">"Racen"</string>
+    <string name="category_name_game_role_playing">"Rollenspel"</string>
+    <string name="category_name_game_simulation">"Simulatie"</string>
+    <string name="category_name_game_sports">"Sportgames"</string>
+    <string name="category_name_game_strategy">"Strategie"</string>
+    <string name="category_name_game_trivia">"Trivia"</string>
+    <string name="category_name_game_word">"Woordspellen"</string>
+    <string name="category_name_health_and_fitness">"Gezondheid en fitness"</string>
+    <string name="category_name_libraries_and_demo">"Bibliotheken en demo"</string>
+    <string name="category_name_lifestyle">"Lifestyle"</string>
+    <string name="category_name_media_and_video">"Media en video"</string>
+    <string name="category_name_medical">"Medisch"</string>
+    <string name="category_name_music_and_audio">"Muziek en audio"</string>
+    <string name="category_name_news_and_magazines">"Nieuws en tijdschriften"</string>
+    <string name="category_name_personalization">"Personalisatie"</string>
+    <string name="category_name_photography">"Fotografie"</string>
+    <string name="category_name_productivity">"Productiviteit"</string>
+    <string name="category_name_shopping">"Winkelen"</string>
+    <string name="category_name_social">"Sociaal"</string>
+    <string name="category_name_sports">"Sport"</string>
+    <string name="category_name_tools">"Gereedschap"</string>
+    <string name="category_name_transportation">"Vervoer"</string>
+    <string name="category_name_travel_and_local">"Reizen en lokaal"</string>
+    <string name="category_name_weather">"Weer"</string>
+    <string name="category_others">"Overige"</string>
+    <string maxwidth="11" name="category_recent1">"Recent"</string>
+    <string name="category_recent_files">"Recent toegevoegd"</string>
+    <string name="category_sorting_summary">"Items selecteren die verschijnen op het categoriescherm"</string>
+    <string name="category_title_category">Categorie</string>
+    <string name="category_title_local_storage">Lokale opslag</string>
+    <string name="category_title_tools">"Hulpmiddelen"</string>
+    <string name="category_toast_invalid_item_size_6_or_9">"Selecteer 6 of 9 items"</string>
+    <string name="category_toast_invalid_item_size_9">"Selecteer 9 items"</string>
+    <string name="category_toast_invalid_remove">"Dit item kan niet worden verwijderd"</string>
+    <string name="category_toast_max_item_size">"Selecteer maximum 9 items"</string>
+    <string name="category_video">Video</string>
+    <string maxwidth="11" name="category_video1">"Video's"</string>
+    <string name="clear_account_info">Alle accounts vergeten</string>
+    <string description="Menu Option: clear all checkbox" maxwidth="" name="clear_all">Alles wissen</string>
+    <string name="click_plus_to_add_favorite_folder">"Tik op + om een favoriete map toe te voegen"</string>
+    <string description="Toast: The size is over the limit and cannot be uploaded" maxwidth="-1" name="cloud_download_flie_limit_space">De grootte is boven de limiet en kan niet worden geüpload.</string>
+    <string description="Toast: The name of the file uploaded is not supported by cloud server" maxwidth="-1" name="cloud_flie_name_not_supported">"De bewerking kon niet worden voltooid omdat de bestandsnaam niet wordt ondersteund door de cloudserver."</string>
+    <string description="home cloud get available devices fail" name="cloud_homebox_get_devices_fail">Kan niet scannen op beschikbare HomeCloud-apparaten</string>
+    <string description="home cloud has no available devices" name="cloud_homebox_no_available_devices">Geen beschikbare HomeCloud-apparaten</string>
+    <string description="home cloud device is sleep" name="cloud_homebox_status__info_Sleep">Slaapstand</string>
+    <string description="home cloud device is offline" name="cloud_homebox_status__info_offline">Offline</string>
+    <string description="home cloud device is online" name="cloud_homebox_status__info_online">Online</string>
+    <string description="home cloud device is offline" name="cloud_homebox_status_offline">Het apparaat is offline.</string>
+    <string description="diaglog cloud background paste" name="cloud_paste_backgroud">Achtergrond</string>
+    <string description="diaglog cloud  now is copy files" name="cloud_paste_copying">Bezig met kopiëren...</string>
+    <string description="diaglog cloud  current" name="cloud_paste_current">Huidige</string>
+    <string description="diaglog cloud  now is delete source files" name="cloud_paste_deleting">Bezig met verwijderen van bronbestanden...</string>
+    <string description="diaglog cloud  paste" name="cloud_paste_downloading">Bestanden downloaden</string>
+    <string description="diaglog cloud  total" name="cloud_paste_total">Totaal</string>
+    <string description="diaglog cloud  paste uploading" name="cloud_paste_uploading">Bestanden uploaden</string>
+    <string description="Toast: cloud preview action" maxwidth="-1" name="cloud_preview_action_fail">Voorbeeldweergave cloud-bestanden mislukt.</string>
+    <string description="Toast: cloud share action" maxwidth="-1" name="cloud_share_action_fail">Delen cloud-bestanden mislukt.</string>
+    <string description=">Do you want to remove" maxwidth="-1" name="cloud_storage_remove_hint">"Wilt u zich afmelden bij de \"%s\"-account?"</string>
+    <string description="Dialog title: Remove cloud storage" maxwidth="-1" name="cloud_storage_remove_hint_title">Afmelden</string>
+    <string description=">Do you want to signin" maxwidth="-1" name="cloud_storage_sign_in">Maak een verbinding met de volgende account:</string>
+    <string description="Dialog title: Signin cloud storage" maxwidth="-1" name="cloud_storage_sign_in_title">%s verbinden</string>
+    <string description=">Do you want to signout" maxwidth="-1" name="cloud_storage_sign_out">Weet u zeker dat u wilt afmelden?</string>
+    <string description="Dialog title: Signout cloud storage" maxwidth="-1" name="cloud_storage_sign_out_title">Verbinding verbreken</string>
+    <string description="Add more cloud storage" maxwidth="-1" name="cloud_storage_title">Meer Cloud-opslag toevoegen</string>
+    <string description="diaglog cloud  token is invalidate" name="cloud_token_invalidate">De token is ongeldig gemaakt. Meld opnieuw aan!</string>
+    <string description="Toast: The size is over the limit and cannot be uploaded" maxwidth="-1" name="cloud_upload_flie_limit_space">De grootte is boven de limiet en kan niet worden geüpload.</string>
+    <string name="com_facebook_image_download_unknown_error">Onverwachte fout tijdens het downloaden van een afbeelding.</string>
+    <string name="com_facebook_internet_permission_error_message">Voor aanmelding via webweergave is de toestemming INTERNET vereist</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifest Error</string>
+    <string name="com_facebook_like_button_liked">Vind ik leuk</string>
+    <string name="com_facebook_like_button_not_liked">Vind ik leuk</string>
+    <string name="com_facebook_loading">Laden…</string>
+    <string name="com_facebook_loginview_cancel_action">Annuleren</string>
+    <string name="com_facebook_loginview_log_in_button">Aanmelden</string>
+    <string name="com_facebook_loginview_log_in_button_long">Aanmelden met Facebook</string>
+    <string name="com_facebook_loginview_log_out_action">Afmelden</string>
+    <string name="com_facebook_loginview_log_out_button">Afmelden</string>
+    <string name="com_facebook_loginview_logged_in_as">Aangemeld als: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Aangemeld via Facebook</string>
+    <string name="com_facebook_send_button_text">Verzenden</string>
+    <string name="com_facebook_share_button_text">Delen</string>
+    <string name="com_facebook_tooltip_default">Nieuw! Jij hebt de controle. Kies welke informatie je met apps wilt delen.</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Inschakelen"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> werkt niet, tenzij je Google Play-services inschakelt."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Google Play-services inschakelen"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Installeren"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> kan niet worden uitgevoerd zonder Google Play-services, die je nog niet op je apparaat hebt."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Google Play-services ophalen"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Fout met Google Play-services"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> ondervindt problemen met Google Play-services. Probeer het opnieuw."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> kan niet worden uitgevoerd zonder Google Play-services, die niet worden ondersteund op je apparaat."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Updaten"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> kan niet worden uitgevoerd, tenzij je Google Play-services updatet."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Google Play-services updaten"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> kan niet worden uitgevoerd zonder Google Play-services, die momenteel worden geüpdatet."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Er is een nieuwe versie van Google Play-services vereist. De update wordt binnenkort automatisch uitgevoerd."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Openen op telefoon"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Inloggen"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Inloggen met Google"</string>
+    <string name="confirm">"Bevestigen"</string>
+    <string maxwidth="-1" name="confirm_ok">OK</string>
+    <string description="confirm password textview title" name="confirm_password">Wachtwoord bevestigen</string>
+    <string description="ask user to enter password again to confirm" name="confirm_password_edit">Wachtwoord opnieuw invoeren</string>
+    <string description="content" maxwidth="-1" name="content">Het gebruik van deze software is onderhevig aan de voorwaarden en condities op de ASUS-website: \nhttp://www.asus.com</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="copy">Kopie</string>
+    <string description="Toast: copy ready" maxwidth="-1" name="copy_ready_more">De geselecteerde bestanden zijn gekopieerd en klaar om te plakken.</string>
+    <string description="Toast: copy ready. %s is variable string." maxwidth="-1" name="copy_ready_one">\"%s\" is gekopieerd en klaar om te plakken.</string>
+    <string name="copy_to">Kopiëren naar</string>
+    <string description="country region textview title" name="country_region">Landregio</string>
+    <string description="ack user to select on country" name="country_region_select">Selecteer uw regio</string>
+    <string name="create_shortcut">"Snelkoppeling maken"</string>
+    <string name="create_shortcut_dialog">"Snelkoppeling maken op opstartprogramma"</string>
+    <string name="create_shortcut_toast">"Snelkoppeling maken op opstartprogramma is voltooid"</string>
+    <string name="cta_agree">"Toestaan"</string>
+    <string name="cta_check_title">"Herinneren"</string>
+    <string name="cta_dialog_content"><b>Bestandsbeheer</b> probeert het netwerk te gebruiken. Er kunnen andere kosten in rekening worden gebracht al naargelang uw abonnement.</string>
+    <string name="cta_dialog_title">"Netwerk gebruiken"</string>
+    <string name="cta_disagree">"Weigeren"</string>
+    <string name="cta_show_menu">"Netwerkmachtiging"</string>
+    <string name="current_folder">"Huidige map"</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="cut">Knippen</string>
+    <string description="Toast: cut ready" maxwidth="-1" name="cut_ready_more">De geselecteerde bestanden zijn geknipt en klaar om te plakken.</string>
+    <string description="Toast: cut ready. %s is variable string." maxwidth="-1" name="cut_ready_one">\"%s\" is geknipt en klaar om te plakken.</string>
+    <string description="button text for sort file by date" maxwidth="-1" name="date">Datum</string>
+    <string description="button text for sort file by date ascending" maxwidth="-1" name="date_ascending">Datum (oudste-nieuwste)</string>
+    <string description="button text for sort file by date descending" maxwidth="-1" name="date_descending">Datum (nieuwste-oudste)</string>
+    <string msgid="7984755014526510295" name="day">"1 dag"</string>
+    <string msgid="2070509222727852210" name="days">"<ns1:g id="DAYS">%s</ns1:g> dagen"</string>
+    <string maxwidth="-1" name="dbx_install_contnet">Geen Dropbox geïnstalleerd. Wilt u van de Play Store downloaden en installeren?</string>
+    <string maxwidth="" name="dbx_install_title">Geen Dropbox geïnstalleerd</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="delete">Verwijderen</string>
+    <string description="Dialog Title: delete dialog title" maxwidth="" name="delete_dialog">Bestand verwijderen</string>
+    <string description="Toast: delete fails" maxwidth="-1" name="delete_fail">Bestand verwijderen mislukt.</string>
+    <string description="Dialog Content: text in dialog. %d is variable number." maxwidth="" name="delete_more_files">Wilt u de %d items verwijderen?</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="delete_one_directory">Wilt u de map verwijderen?</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="delete_one_files">Wilt u het bestand verwijderen?</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="delete_progress">Aan het verwijderen...</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="delete_size">"Grootte: "</string>
+    <string description="Toast: delete success" maxwidth="-1" name="delete_success_more">De geselecteerde bestanden zijn verwijderd.</string>
+    <string description="Toast: delete success. %s is variable string." maxwidth="-1" name="delete_success_one">\"%s\" is verwijderd.</string>
+    <string description="cutstom action bar view title for deselect all checkbox" maxwidth="" name="deselect_all">Niets selecteren</string>
+    <string name="device_root_path">hoofdmap</string>
+    <string description="compress dialog title" maxwidth="-1" name="dialog_create_zip_title">Voer de archiefnaam in</string>
+    <string description="extract zip file dialog title. %s is a dynamic string. It is zip file name." maxwidth="-1" name="dialog_extract_zip_title">Verwijderen %s naar:</string>
+    <string name="dialog_load_stream_url_info">De benodigde informatie wordt opgehaald van de server</string>
+    <string name="dialog_msg_market_login_account">"Meld aan bij uw Google-account om de app te downloaden"</string>
+    <string description="text encoding dialog title" maxwidth="-1" name="dialog_text_encoding_title">Tekstcodering</string>
+    <string name="dialog_title_market_login_account">"Account toevoegen"</string>
+    <string description="show zip info dialog title. %s is a dynamic string. Is is a zip file name" maxwidth="-1" name="dialog_unzip_preview_title">%s uitpakken</string>
+    <string description="Dialog Title: Directory information dialog title" maxwidth="-1" name="dir_info_dialog_title">Mapinformatie</string>
+    <string name="display">"Weergeven als"</string>
+    <string name="display_hint">"Mijn Computer kan niet leeg zijn"</string>
+    <string name="dm_openfile">"Bestand openen"</string>
+    <string name="do_not_show_again">"Niet meer weergeven"</string>
+    <string name="domain">"Domein:"</string>
+    <string name="domain_hint">"kan niet leeg zijn"</string>
+    <string name="download_fail">download mislukt.</string>
+    <string name="drag_items_one">Item slepen</string>
+    <string name="drag_items_other">Items slepen</string>
+    <string name="drawer_close">"Navigatielade sluiten"</string>
+    <string name="drawer_home">Thuis</string>
+    <string name="drawer_open">"Navigatielade openen"</string>
+    <string description="Hint: the operation is incorrect" maxwidth="-1" name="drop_incorrect_hint">Onjuiste bewerking</string>
+    <string description="Hint: the target folder which you want to do something" maxwidth="-1" name="drop_target_to">Doel naar:</string>
+    <string name="dumdownloadfrom">Downloaden van</string>
+    <string name="dumuploadto">Uploaden naar</string>
+    <string name="duplicate_files">"Bestanden dupliceren"</string>
+    <string name="duplicate_files_content_hint">"Zoek gedupliceerde bestanden en verwijder ze met uw toestemming."</string>
+    <string name="edit_toast_name_too_long">Maximum aantal tekens bereikt</string>
+    <string name="edit_toast_special_char">Kan geen speciaal teken opnemen</string>
+    <string name="editcategory_hint">"Tik op de bewerkingsknop om het paneel Categorie aan te passen."</string>
+    <string description="describe the empty folder" maxwidth="-1" name="empty_folder_title">"Geen bestanden"</string>
+    <string description="Dialog Button: click to open the encoding list dialog" maxwidth="-1" name="encode">Tekstcodering</string>
+    <string description="ask user to enter password" maxwidth="-1" name="enter_password">"Wachtwoord invoeren"</string>
+    <string name="eula_content_description">
+        \nDeze licentieovereenkomst voor eindgebruikers ("EULA") is een geldige en bindende overeenkomst tussen ASUSTeK Computer Inc. ("ASUS") en u, als gebruiker, met betrekking tot het gebruik van ASUS-software ("Software"), conform de onderstaande bepalingen. Door de software te installeren en te gebruiken BEVESTIGT U DAT U DE VOORWAARDEN VAN DEZE EULA HEBT GELEZEN EN BEGREPEN, EN GAAT U AKKOORD MET DE VOORWAARDEN VAN DEZE EULA EN EVENTUELE NIEUWE VERSIES VAN DEZE OVEREENKOMST. 
+\n\n1.SOFTWARE verwijst naar de door ASUS geleverde Software die wordt meegeleverd met het desbetreffende product, inclusief maar niet beperkt tot programmafixes, updates, upgrades en gewijzigde versies.
+\nDe Software kan met andere Software van ASUS of derden worden geleverd, waarvoor gratis Open Source-softwarelicenties gelden. Een lijst van deze licenties vindt u onder www.opensource.org/licenses. Dergelijke gratis Open Source-software wordt u alleen verstrekt in overeenstemming met de voorwaarden van de respectievelijke licentieovereenkomst, auteursrechtenverklaring of FOSS-licentiebestanden die met de software worden meegeleverd.
+\n\n2.LICENTIE onderhevig aan de voorwaarden van deze EULA verleent ASUS u een beperkte, individuele, niet-commerciële en niet-exclusieve licentie voor het gebruik van de software van ASUS-producten. Het is u toegestaan om voor back-updoeleinden één kopie van de software in machineleesbare vorm te maken, mits alle verklaringen van auteursrechten en eigendom van het origineel in de back-upkopie worden opgenomen. Deze licentie mag niet worden ondergelicentieerd en is niet overdraagbaar, tenzij aan de persoon of entiteit aan wie u de eigendom van de complete ASUS-producten met de software overdraagt en op voorwaarde dat u alle rechten van deze EULA permanent overdraagt, geen volledige of gedeeltelijke kopieën van de software behoudt en de ontvanger akkoord gaat met de voorwaarden van deze EULA.
+\n\n3.REVERSE ENGINEERING-BEPERKING Het is verboden om deze Software te decompileren, te deassembleren of te onderwerpen aan reverse engineering, tenzij dit is toegestaan door rechtstreeks toepasselijke wetgeving.
+\n\n4.GEHEIMHOUDING U bent verplicht tot geheimhouding van vertrouwelijke informatie met betrekking tot de Software, hetzij gedeeltelijk of volledig, inclusief maar niet beperkt tot handelsgeheimen en auteursrechtelijk beschermd materiaal. Het is bovendien niet toegestaan om dergelijke vertrouwelijke informatie openbaar te maken of beschikbaar te stellen aan derden.
+\n\n5.Intellectuele eigendomsrechten ("IP-rechten") U bevestigt en gaat ermee akkoord dat alle IE-rechten, eigendom en belangen van of voortvloeiend uit het gebruik van de software de exclusieve eigendom blijven van ASUS of zijn licentiegever. Deze EULA kent u geen enkele overdracht van IP-rechten toe. Elk onbevoegd gebruik van de intellectuele eigendomsrechten is een inbreuk op deze EULA en houdt een schending in van de wetgeving inzake intellectuele eigendomsrechten, inclusief maar niet beperkt tot wetgeving inzake auteursrechten en handelsmerken.
+\nDoor informatie, materiaal, ideeën, concepten of technieken, met uitzondering van persoonlijke informatie, via de Software ("Feedbacks") naar ASUS te sturen, bevestigt u en gaat u ermee akkoord dat: (i) uw Feedback geen vertrouwelijk of eigendomsinformatie bevat; (ii) ASUS niet verplicht is tot enige vorm van geheimhouding, expliciet of impliciet, inzake Feedback; (iii)ASUS het recht heeft om naar eigen inzicht en goeddunken de Feedback internationaal te gebruiken of openbaar te maken; (iv) Uw Feedback worden eigendom van ASUS zonder dat ASUS enige verplichting heeft ten aanzien van u;(v) U kunt geen aanspraak maken op enige vorm van vergoeding of compensatie.
+\n\n6.GELDIGHEID EN BEËINDIGING Deze EULA geldt vanaf de datum waarop Uu de Software installeert. U kunt deze licentie op elk moment beëindigen door het gebruik van de Software te staken en het ASUS-product te verwijderen. Mochten wij van mening zijn dat u in strijd met een van de voorwaarden van deze EULA hebt gehandeld, dan wordt uw gebruiksrecht zonder kennisgeving vooraf door ASUS beëindigd.
+\n\n7.Garantievrijwaring en aansprakelijkheidsbeperking U ACCEPTEERT DAT DE SOFTWARE "AS IS" WORDT GELEVERD. U AANVAARDT HET VOLLEDIGE RISICO VAN DE KWALITEIT EN PRESTATIES VAN DEZE SOFTWARE, INCLUSIEF MAAR NIET BEPERKT TOT KOSTEN VOOR EVENTUEEL ONDERHOUD EN REPARATIE. IN ZOVERRE DE WET DIT TOETSTAAT, VERLEENT ASUS GEEN EXPLICIETE OF IMPLICIETE GARANTIE MET BETREKKING TOT DEZE SOFTWARE OF ENIGE ANDERE INFORMATIE OF DOCUMENTATIE IN HET KADER VAN DEZE EULA OF SOFTWARE, INCLUSIEF MAAR NIET BEPERKT TOT ENIGE GARANTIE VAN VERKOOPBAARHEID OF GESCHIKTHEID VOOR EEN BEPAALD DOELEINDE OF TEGEN EEN INBREUK, OF OM HET EVEN WELKE ANDERE GARANTIE DIE UIT HET GEBRUIK OF PRESTATIES KAN RESULTEREN. ASUS VERSTREKT OOK GEEN GARANTIE MET BETREKKING TOT BEHAALDE RESULTATEN DOOR HET GEBRUIK VAN DEZE SOFTWARE OF DE NAUWKEURIGHEID OF BETROUWBAARHEID VAN INFORMATIE DIE VIA DEZE SOFTWARE WERD VERKREGEN. BEPAALDE RECHTSGEBIEDEN STAAN DE UITSLUITING VAN BEPAALDE GARANTIES NIET TOE OF STAAN DE BEPERKING OF UITSLUITING VAN AANSPRAKELIJKHEID VOOR BEPAALDE SCHADE NIET TOE. SOMMIGE VAN DE BOVENSTAANDE VRIJWARINGEN EN BEPERKINGEN ZIJN MOGELIJK NIET VAN TOEPASSING VOOR U.
+\nU AANVAARDT HET VOLLEDIGE RISICO DAT VOORTVLOEIT UIT HET GEBRUIK EN/OF PRESTATIES VAN DEZE SOFTWARE. IN GEEN ENKEL GEVAL ZAL ASUS, ZIJN LICENTIEGEVERS OF EEN VAN ZIJN MANAGERS, DIRECTEURS, WERKNEMERS, VERTEGENWOORDIGERS OF GELIEERDE ONDERNEMINGEN AANSPRAKELIJK ZIJN VOOR ENIGERLEI SCHADE, MET INBEGRIP VAN MAAR NIET BEPERKT TOT GEVOLG-, INCIDENTELE, DIRECTE, INDIRECTE, SPECIALE, PUNITIEVE OF ANDERSOORTIGE SCHADE (INCLUSIEF MAAR NIET BEPERKT TOT WINSTVERLIES, WERKONDERBREKING, INFORMATIEVERLIES OF ANDERE VORMEN VAN ECONOMISCH VERLIES) DIE AL DAN NIET VOORTVLOEIT UIT DEZE EULA OF HET GEBRUIK OF HET ONVERMOGEN VAN GEBRUIK VAN DE SOFTWARE OF EEN DEEL ERVAN, ZELFS INDIEN ASUS OP DE HOOGTE IS GESTELD VAN DE MOGELIJKHEID VAN DERGELIJKE SCHADE. BEPAALDE RECHTSGEBIEDEN SLUITEN DE UITSLUITING VAN BEPAALDE GARANTIE UIT OF STAAN DE BEPERKING OF UITSLUITING VAN GARANTIE VOOR BEPAALDE SCHADE NIET TOE.
+\n\n8.Vrijwaring en schadevergoeding U gaat ermee akkoord om ASUS en zijn gelieerde ondernemingen, serviceproviders, leveranciers, licentiegevers, managers, directeurs en werknemers te vrijwaren en schadeloos te stellen voor alle vormen van verlies, schade, aansprakelijkheid en kosten die voortvloeien uit claims (inclusief advocaten- en rechtbankkosten) als gevolg van handelen in strijd met deze EULA, met de geldende wetten, regelgeving of rechten van derden.
+    </string>
+    <string name="eula_content_title">"Licentieovereenkomst voor eindgebruikers"</string>
+    <string description="Do not translate ASUS" maxwidth="" name="eula_description">"Een wettelijke overeenkomst tussen ASUS-toepassingen en de eindgebruikers"</string>
+    <string maxwidth="" name="eula_title">"Licentieovereenkomst voor eindgebruikers"</string>
+    <string name="example">Voorbeeld:</string>
+    <string description="Dialog Button: extract file for dialog" maxwidth="-1" name="extract">Uitpakken</string>
+    <string name="facebook_app_invite">"Facebook-contacten"</string>
+    <string name="fb_request_error_permissions">"Deze app heeft geen toestemming hiervoor. Probeer aan te melden bij de app."</string>
+    <string name="fileList_Nofiles">Geen bestanden</string>
+    <string description="Dialog Title: File information dialog title" maxwidth="-1" name="file_info_dialog_title">Bestandsinformatie</string>
+    <string description="Application Name shown on title" maxwidth="" name="file_manager">Bestandsbeheer</string>
+    <string description="string indicating camera flash is not used" maxwidth="-1" name="flash_off">Geen flits</string>
+    <string description="string indicating camera flash is fired" maxwidth="-1" name="flash_on">Geflitst</string>
+    <string description="click to retrieve password" maxwidth="-1" name="forget_password">"<u>Wachtwoord vergeten?</u>"</string>
+    <string name="fragment_analyzer_allfiles_used_hint">"Gebruikt:"</string>
+    <string name="fragment_analyzer_chart_free_hint">"Vrij:"</string>
+    <string name="fragment_analyzer_chart_total_hint">"Totaal:"</string>
+    <string name="fragment_analyzer_chart_used_hint">"GEBRUIKT"</string>
+    <string name="fragment_analyzer_more_hint">"Meer"</string>
+    <string name="google_app_invite">"Google-contacten"</string>
+    <string name="group_title_installed">"Geïnstalleerd"</string>
+    <string name="group_title_not_installed">"Niet geïnstalleerd"</string>
+    <string name="group_title_others">"Andere"</string>
+    <string name="group_title_recommended">"Aanbevolen"</string>
+    <string name="hidden_zone_change_password">"Wachtwoord wijzigen"</string>
+    <string name="hidden_zone_confirm_password">"PIN-code bevestigen"</string>
+    <string name="hidden_zone_enter_password">"Voer uw PIN-code in"</string>
+    <string name="hidden_zone_fingerprint_to_unlock">"Vingerafdruk om te ontgrendelen"</string>
+    <string name="hidden_zone_forget_password">"Wachtwoord vergeten"</string>
+    <string name="hidden_zone_introduction_description">"Verberg uw privébestanden in Verborgen archief. PIN-code is is vereist om Verborgen archief te openen."</string>
+    <string name="hidden_zone_password_mismatch">"PIN-code komt niet overeen"</string>
+    <string name="hidden_zone_set_password_success">"Wachtwoord is opnieuw ingesteld"</string>
+    <string name="hidden_zone_setup_account">"Account instellen"</string>
+    <string name="hidden_zone_setup_password">"Voer een 4-cijferige PIN-code in"</string>
+    <string name="hidden_zone_wrong_password">"Verkeerde PIN-code"</string>
+    <string description="Can’t connect to HomeCloud." maxwidth="-1" name="homecloud_access_error">Kan geen verbinding maken met HomeCloud. Controleer of de HomeCloud-service online is.</string>
+    <string name="homecloud_notice_1">ASUS HomeCloud is een deel van serversoftware die wordt uitgevoerd op het Windows-systeem. Het is ontworpen als een bibliotheek van digitale inhoud voor thuis en biedt nu services voor cloudopslag en multimediastreaming. In de toekomst wordt dit uitgebreid met meer services.</string>
+    <string name="homecloud_notice_2">U kunt dit nu downloaden en ontdekken. </string>
+    <string name="homecloud_notice_3">http://home.asuscloud.com/</string>
+    <string name="homecloud_toast_udp_unsupported">Beperkt netwerk. Neem contact op met uw netwerkbeheerder of schakel naar een andere netwerk.</string>
+    <string msgid="2546819039651509323" name="hour">"1 uur"</string>
+    <string msgid="2071487018566991613" name="hours">"<ns1:g id="HOURS">%s</ns1:g> uur"</string>
+    <string maxwidth="" name="httpserver_acquire_permission_message">"HTTP-bestandsserver wordt gesloten en bewerkingen kunnen worden onderbroken. Doorgaan?"</string>
+    <string maxwidth="" name="httpserver_connectwifiname">"Verbonden Wi-Fi-AP:"</string>
+    <string maxwidth="" name="httpserver_description">"Start de service om uw mobiel apparaat te verbinden met de pc."</string>
+    <string maxwidth="" name="httpserver_instruction">"Typ dit adres in de browser van uw pc:"</string>
+    <string maxwidth="" name="httpserver_need_saf">"Als u uw externe opslag vanaf de pc wilt beheren, moet u toestemming verlenen."</string>
+    <string maxwidth="" name="httpserver_no_network">"Sluit uw apparaat aan op hetzelfde wifi-netwerk"</string>
+    <string maxwidth="" name="httpserver_no_permission_message">"U kunt niet schrijven naar de externe opslag zonder de juiste toestemming. Doorgaan?"</string>
+    <string maxwidth="" name="httpserver_no_permission_title">"Draadloze bestandsoverdracht starten"</string>
+    <string maxwidth="" name="httpserver_start">"Starten"</string>
+    <string maxwidth="" name="httpserver_stop">"Stoppen"</string>
+    <string maxwidth="" name="httpserver_title">"Draadloze bestandsoverdracht naar pc"</string>
+    <string description="Context Menu: options of context menu" maxwidth="-1" name="info">Informatie</string>
+    <string description="file info textview context" maxwidth="-1" name="info_aperture">"Diafragma: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_datetime">"Gemaakt op: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_exposure_time">"Belichtingstijd: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_file_num">"Aantal bestanden: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_flash">"Flits: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_focal_length">"Brandpuntsafst: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_image_height">"Hoogte: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_image_width">"Breedte"</string>
+    <string description="file info textview context" maxwidth="-1" name="info_image_x">" x "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_iso">"ISO: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_location">"Locatie: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_maker">"Maker: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_model">"Model: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_modified">"Datum aanvulling:  "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_name">"Naam: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_orientation">"Stand: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_path">"Pad: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_permission">"Toestemming: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_type">Type:</string>
+    <string description="file info textview context" maxwidth="-1" name="info_white_balance">"Witbalans: "</string>
+    <string description="Do not translate ASUS" maxwidth="" name="inspire_asus_description">"Verzamel gebruiksgegevens en stuur ze naar ASUS voor verbeterde producten en gebruikerservaring"</string>
+    <string name="inspire_asus_title">"ASUS inspireren"</string>
+    <string name="install">"Installeren"</string>
+    <string description="storage label" maxwidth="-1" name="internal_storage_title">Interne opslag</string>
+    <string description="Toast: the account is invalid" maxwidth="-1" name="invalid_account">"Ongeldige account"</string>
+    <string description="Invalid directory path" maxwidth="-1" name="invalid_directory_path">Ongeldig directorypad</string>
+    <string name="invalid_server_id">"Ongeldige server-ID"</string>
+    <string name="invalid_xml">"Ongeldige xml"</string>
+    <string name="inviteContentTitle">"%1$s nodigt u uit voor het downloaden en installeren van ASUS-bestandsbeheer"</string>
+    <string name="inviteContent_p1">"ASUS-bestandsbeheer is de ideale manier voor het beheren van bestanden met uw smart-apparaat. Deze app voor bestandsbeheer helpt u bij het omgaan met en sorteren van de verschillende bestanden die zijn opgeslagen in uw telefoongeheugen, microSD-kaart, LAN-netwerk en zelfs in de cloud."</string>
+    <string name="inviteContent_p2">"Beheer uw bestanden efficiënt en gemakkelijk met ASUS-bestandsbeheer! ASUS-bestandsbeheer helpt u bij het omgaan met al uw bestanden, ongeacht of ze zijn opgeslagen op het apparaatgeheugen, de microSD-kaart, het LAN-netwerk en cloud-opslagaccounts, zoals uw eigen ASUS HomeCloud en webopslag en andere cloudservices zoals Dropbox, Google Drive of Microsoft OneDrive."</string>
+    <string name="inviteContent_p3">"Ik heb plezier met ASUS-bestandsbeheer. Probeer het NU! :D"</string>
+    <string description="sticker detail page button name" maxwidth="-1" name="invite_friends">"Vrienden uitnodigen"</string>
+    <string name="item">item</string>
+    <string name="items">items</string>
+    <string name="keep">"Behouden"</string>
+    <string name="kk_sd_permission_warning">Vanwege een beperking van Android staat Android 4.4 niet toe dat applicaties van derden de externe SD-kaarten aanpassen.</string>
+    <string name="large_files_content_hint">"Grote bestanden zoeken en verwijderen met uw toestemming."</string>
+    <string description="linked file is missing" maxwidth="-1" name="linked_file_missing">"Gekoppelde bestand ontbreekt"</string>
+    <string description="text for progress bar" maxwidth="-1" name="loading">"Laden..."</string>
+    <string name="local">Lokaal</string>
+    <string description="button text for sort file by date" maxwidth="-1" name="location">"Locatie"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="logging_cloud_storage">Bezig met registreren...</string>
+    <string name="login_account_miss">"Facebook-app kan Android Account Manager niet registreren. Probeer af te melden via de Facebook-app en meld vervolgens opnieuw aan."</string>
+    <string name="login_again_later">"Service is nu niet beschikbaar. Probeer het later opnieuw."</string>
+    <string description="dialog title, key in the asus ID and PW to Login account" maxwidth="-1" name="login_asus_id">"Aanmelding ASUS-account"</string>
+    <string description="Toast: login account fail" name="login_fail" width="-1">Aanmelden mislukt</string>
+    <string description="login account name" maxwidth="-1" name="login_id">"Accountnaam/WebStorage-ID"</string>
+    <string description="logout account" name="logout_account" width="-1">Afmelden</string>
+    <string name="low_storage_tutorial_description">Tikken en aangeraakt houden voor het selecteren van uw bestanden en kies vervolgens "Verplaatsen naar" Google Drive</string>
+    <string name="low_storage_tutorial_title">Bestanden verplaatsen naar Google Drive</string>
+    <string name="m_permission_dialog_message">"Tik op [Instellingen] om de machtiging [%2$s] in te schakelen in [Appinformatie] > [Machtigingen] en herstart %1$s."</string>
+    <string name="m_permission_dialog_positive_button">"Instellingen"</string>
+    <string name="m_permission_setting_subtitle_files">"%1$s vereist de machtiging %2$s voor toegang tot de bestanden op uw apparaat."</string>
+    <string name="m_permission_setting_title_cloud_storage">"Geen toegang tot cloudopslag"</string>
+    <string name="m_permission_setting_title_files">"Geen toegang tot bestanden"</string>
+    <string name="m_permission_setting_turn_on">"Inschakelen"</string>
+    <string description="string indicating how camera shooting feature is used" maxwidth="-1" name="manual">Handmatig</string>
+    <string name="market_app_error">"Er is een probleem met de markttoepassing-app die op uw apparaat is geïnstalleerd."</string>
+    <string description="ask user to enter email address as account name" maxwidth="-1" name="member_id_hint">"E-mailadres invoeren"</string>
+    <string description="The title of a menu for General Preferences.Pressing the menu item lets user to view and edit his general settings" maxwidth="30" name="menu_general_preferences">"Algemene instellingen"</string>
+    <string description="settings menu tutorial" maxwidth="-1" name="menu_tutorial">Handleiding</string>
+    <string name="messenger_send_button_text">Verzenden</string>
+    <string msgid="2486157997434653710" name="minute">"1 minuut"</string>
+    <string msgid="6115838729146292526" name="minutes">"<ns1:g id="MINUTES">%s</ns1:g> minuten"</string>
+    <string description="Hint: move the items" maxwidth="-1" name="move">Verplaatsen</string>
+    <string name="move_or_delete_msg">"Wilt u nu de items tijdelijk verplaatsen naar de prullenbak?\n(schakel het onderstaande selectievakje in om de items permanent te verwijderen.)"</string>
+    <string name="move_to">Verplaatsen naar</string>
+    <string description="Toast: move to recycle bin fails" maxwidth="-1" name="move_to_hidden_zone_fail">"Verplaatsen naar Verborgen archief mislukt"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="move_to_hidden_zone_progress">"Bezig met verplaatsen naar Verborgen archief..."</string>
+    <string description="Toast: move to recycle bin success" maxwidth="-1" name="move_to_hidden_zone_success_more">"De geselecteerde bestanden zijn verplaatst naar Verborgen archief."</string>
+    <string description="Toast: move to recycle bin success. %s is variable string." maxwidth="-1" name="move_to_hidden_zone_success_one">"\"%s\" is verplaatst naar Verborgen archief."</string>
+    <string description="Toast: move to recycle bin fails" maxwidth="-1" name="move_to_trash_fail">"Verplaatsen naar prullenbak is mislukt"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="move_to_trash_progress">"Bezig met verplaatsen naar de prullenbak..."</string>
+    <string description="Toast: move to recycle bin success" maxwidth="-1" name="move_to_trash_success_more">"De geselecteerde bestanden zijn verplaatst naar de prullenbak"</string>
+    <string description="Toast: move to recycle bin success. %s is variable string." maxwidth="-1" name="move_to_trash_success_one">"\"%s\" is verplaatst naar de prullenbak"</string>
+    <string name="msg_too_big_to_recycle">"De items zijn te groot voor de prullenbak.\nWilt u ze permanent verwijderen?"</string>
+    <string name="multi_drm_file_forbidden_operation">Deze actie is verboden omdat enkele geselecteerde bestanden door DRM worden beschermd.</string>
+    <string description="shortcut label" maxwidth="-1" name="my_camera_title">Camera</string>
+    <string description="shortcut label" maxwidth="-1" name="my_download_title">Download</string>
+    <string description="shortcut label" maxwidth="-1" name="my_music_title">Muziek</string>
+    <string description="shortcut label" maxwidth="-1" name="my_picture_title">Afbeelding</string>
+    <string description="storage label" maxwidth="-1" name="my_storage_title">Mijn opslag</string>
+    <string description="button text for sort file by name" maxwidth="-1" name="name">Naam</string>
+    <string description="button text for sort file by name ascending" maxwidth="-1" name="name_ascending">Naam (z-a)</string>
+    <string description="button text for sort file by name descending" maxwidth="-1" name="name_descending">Naam (a-z)</string>
+    <string name="network_cta_hint">"Ga akkoord om een verbinding te maken met het netwerk"</string>
+    <string name="network_invalid">"Ongeldige netwerkverbinding"</string>
+    <string name="network_invalid_info">"De verbinding is ongeldig. Controleer opnieuw."</string>
+    <string name="network_not_available">"Netwerkverbinding mislukt"</string>
+    <string description="Can’t connect to networkpalce" maxwidth="-1" name="networkplace_access_error">"Verbinding mislukt. Zorg ervoor dat de server online is."</string>
+    <string name="networkplace_storage_title">"Netwerklocatie"</string>
+    <string description="Dialog Title: create new folder" maxwidth="" name="new_folder_dialog">Nieuwe folder creëren</string>
+    <string description="Toast: new folder fails" maxwidth="-1" name="new_folder_fail">Creëren nieuwe folder mislukt.</string>
+    <string description="Toast: new folder success. %s is variable string." maxwidth="-1" name="new_folder_success">Folder \"%s\" is gecreëerd.</string>
+    <string maxwidth="" name="news_1"><b>Aanpasbaar startscherm</b>: u kunt nu uw startscherm aanpassen met verschillende categorieën en orders.</string>
+    <string maxwidth="" name="news_2"><b>Favorietenkiezer</b>: voeg de favoriete map direct toe van de favoriete categorie.</string>
+    <string maxwidth="" name="news_3"><b>Widget Bestandsbeheer</b>: maak een mapsnelkoppeling op het opstartprogramma.</string>
+    <string maxwidth="" name="news_mark1">"★  "</string>
+    <string maxwidth="" name="news_subtitle">"Hier is de belangrijke update die u niet mag missen."</string>
+    <string maxwidth="" name="news_title">"Nieuw"</string>
+    <string maxwidth="" name="news_v21"><b>Draadloze bestandsoverdracht naar/van pc</b>: Bestanden overdragen naar/van en beheren op pc</string>
+    <string maxwidth="" name="news_v23">"Prestatieverbetering en foutoplossingen"</string>
+    <string maxwidth="" name="news_v31">"Met opslaganalyse weet u welk type bestanden de volledige opslagruimte in beslag nemen"</string>
+    <string maxwidth="" name="news_v32">"Categorie verbeterde app"</string>
+    <string name="news_v41">"Verberg uw privébestanden in de Verborgen archief"</string>
+    <string name="news_v42">"Zet verwijderde bestanden in de prullenbak terug"</string>
+    <string name="news_v43">"Verwijder dubbele bestanden uit Storage Analyzer"</string>
+    <string name="news_v44">"Nieuwe displayfunctie - donkere modus"</string>
+    <string name="news_v45">"Verbeterde prestaties"</string>
+    <string name="news_v46">"Bugs opgelost"</string>
+    <string name="newversion_description">"Er is nu een bijgewerkte versie van Bestandsbeheer beschikbaar. Wilt u nu bijwerken?"</string>
+    <string name="newversion_title">"Nieuwe versie"</string>
+    <string name="next">Volgende</string>
+    <string description="Dialog Button: no for dialog" maxwidth="" name="no">Nee</string>
+    <string name="no_device">"Geen apparaat"</string>
+    <string name="no_items">"Geen items"</string>
+    <string name="no_network">"Geen netwerkverbinding"</string>
+    <string description="The description to inform users when there is no internet access" maxwidth="-1" name="no_network_connection_message">"Controleer uw verbinding en probeer het opnieuw"</string>
+    <string name="no_network_info">"Er is een internetverbinding vereist om toegang te krijgen tot deze toepassing. Schakel in Instellingen het mobiele netwerk of wifi in."</string>
+    <string name="no_password">"Voer uw wachtwoord in"</string>
+    <string name="no_right">"Uw account heeft geen rechten om aan te melden."</string>
+    <string name="no_share_folder">Geen bestand gedeeld in dit apparaat</string>
+    <string description="Toast: No space to copy file and left on device" maxwidth="-1" name="no_space_fail">Onvoldoende opslag</string>
+    <string name="no_user_exist">"Gebruikersnaam bestaat niet"</string>
+    <string name="no_username">"Voer eerst uw gebruikersnaam in."</string>
+    <string name="notification_gdrive_redeem_content">"Verkrijg het NU van Google Drive. "</string>
+    <string name="notification_gdrive_redeem_title">"Gratis 100GB opslag!"</string>
+    <string name="occur_error_do_relogin">"Meld opnieuw aan bij %s"</string>
+    <string description="Dialog Button: ok for dialog" maxwidth="" name="ok">OK</string>
+    <string name="onedrive_account_only_one_alert">"Er mag slechts één OneDrive voor ASUS-account worden toegevoegd. U moet uw huidige account verwijderen voordat u deze vervangt door een nieuwe."</string>
+    <string name="open">Openen</string>
+    <string description="Toast: open file fails" maxwidth="-1" name="open_fail">Openen bestand mislukt.</string>
+    <string maxwidth="" name="open_source_license_description">"Licentiemededelingen voor open source-software"</string>
+    <string maxwidth="" name="open_source_license_title">"Open source-licenties"</string>
+    <string name="othersforum_site_url">http://www.asus.com/nl/Terms_of_Use_Notice_Privacy_Policy/OthersForum_Site/</string>
+    <string name="password">Wachtwoord</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="paste">Plakken</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="paste_exist_apply">Op alles toepassen</string>
+    <string description="Dialog Title: paste exist dialog title" maxwidth="" name="paste_exist_dialog">Dezelfde bestandsnaam</string>
+    <string description="Dialog Content: text in dialog. %s is variable string." maxwidth="" name="paste_exist_file">Het bestand \"%s\" bestaat al.</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="paste_exist_replace">Wilt u deze vervangen met de nieuwe?</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="paste_exist_to">Naar</string>
+    <string description="Toast: paste fails" maxwidth="-1" name="paste_fail">Plakken van bestanden is mislukt.</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="paste_progress">Aan het plakken...</string>
+    <string name="paste_progress_title">Er wordt een andere kopieertaak uitgevoerd...</string>
+    <string description="Toast: paste success. %s is variable string." maxwidth="-1" name="paste_success">De bestanden zijn toegevoegd aan \"%s\".</string>
+    <string name="permanently_delete">"Permanent verwijderen"</string>
+    <string description="Toast: operation permission deny" maxwidth="-1" name="permission_deny">Toegang geweigerd.</string>
+    <string name="permission_dialog_title">"Toepassingsmachtiging"</string>
+    <string name="permission_essential">"Machtigingen vereist. Ga naar Instellingen om machtigingen in te schakelen."</string>
+    <string name="permission_reason_contact">"Bestandsbeheer vereist toegang tot uw accountgegevens om aan te melden bij uw cloudopslag."</string>
+    <string name="permission_reason_storage">"Bestandsbeheer vereist toegang tot de opslag van uw apparaat om goed te werken"</string>
+    <string description="Toast: You may not select more than %s photos." maxwidth="-1" name="photo_selection_limit_number_toast">Maximum van %s foto\'s selecteren</string>
+    <string description="This is the title of the screen for setting user preferences." maxwidth="-1" name="preferences_title">"Instellingen"</string>
+    <string name="previous_folder">"Vorige map"</string>
+    <string maxwidth="" name="privacy_policy">"Privacybeleid"</string>
+    <string name="privacy_policy_url">http://www.asus.com/us/Terms_of_Use_Notice_Privacy_Policy/Privacy_Policy/</string>
+    <string name="processing_picture">"Beeld verwerken"</string>
+    <string name="processing_video">"Video verwerken"</string>
+    <string name="progressactivity_title">Transmission Manager</string>
+    <string name="promote_darkmode_message">"Wijzig uw voorkeur in %s"</string>
+    <string name="promote_darkmode_title">"Nieuwe displayfunctie - donkere modus"</string>
+    <string name="promotion_notification_content">"U moet absoluut \"Draadloze bestandsoverdracht\" proberen!"</string>
+    <string name="promotion_notification_title">"Gebruikt u nog steeds een USB-kabel voor de overdracht van bestanden?"</string>
+    <string name="publish">"Publiceren"</string>
+    <string name="pullfreshlistview_footer_hint_normal">Meer laden</string>
+    <string name="pullfreshlistview_footer_hint_ready">Loslaten om meer te laden</string>
+    <string name="pullfreshlistview_header_hint_loading">Bezig met vernieuwen...</string>
+    <string name="pullfreshlistview_header_hint_normal">Omlaag trekken</string>
+    <string name="pullfreshlistview_header_hint_ready">Loslaten om te vernieuwen</string>
+    <string name="pullfreshlistview_header_last_time">Laatste tijd voor vernieuwen:</string>
+    <string name="rate_later">"Later"</string>
+    <string name="rate_now">"Nu beoordelen"</string>
+    <string description="rate us" maxwidth="-1" name="rate_us">Beoordeel ons</string>
+    <string name="rating_dialog_message_v3_1">"Vindt u %s leuk? Beoordeel ons op Google om ons gestimuleerd te houden!"</string>
+    <string name="rating_dialog_message_v3_2">"Als u suggesties en feedback hebt, kunt u ons schrijven via %s."</string>
+    <string name="recent_files_content_hint">"Recente bestanden zoeken en verwijderen met uw toestemming."</string>
+    <string description="shortcut title: recently used files" name="recently_used" width="-1">Recent</string>
+    <string name="recommend_clean_master_msg">"De meest vertrouwde Android-optimalisatie, snelheidsverhoging, batterijbesparing en gratis antivirus-app. \nNu downloaden?"</string>
+    <string name="recommend_clean_master_title">"App-aanbeveling"</string>
+    <string name="recommend_scan_qr_code">"Vraag uw vrienden om deze app te\ndownloaden door deze QR-code te scannen."</string>
+    <string description="recruit beta user" maxwidth="-1" name="recruit_beta_user">Voorbeeldversie ophalen</string>
+    <string name="recycle_bin_content_hint">"Bevat alle verwijderde bestanden en mappen."</string>
+    <string description="dialog title, key in the asus ID and PW to Login account" maxwidth="-1" name="regist_asus_id">"ASUS-account maken"</string>
+    <string description="ask user to enter email address to registe New Account" name="registe_id">Accountnaam</string>
+    <string description="ask user to enter new password" name="registe_password">Voer 8~25 tekens in</string>
+    <string description="sign up registe action" name="registe_sign_up">Inschrijven</string>
+    <string description="network is unavailable, please try again" maxwidth="-1" name="remote_connected_error_hint">Netwerk niet beschikbaar. Probeer het opnieuw.</string>
+    <string description="remote storage label" maxwidth="-1" name="remote_storage_title">Externe opslag</string>
+    <string name="remove_favorite">Verwijderen uit Favorieten</string>
+    <string name="remove_favorite_notice_more">Weet u zeker dat u de %d items uit de favoriete map wilt verwijderen?</string>
+    <string name="remove_favorite_notice_one">Weet u zeker dat u de \"%s\" uit de favoriete map wilt verwijderen?</string>
+    <string name="remove_favorite_success">Het verwijderen is gelukt</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="rename">Naam wijzigen</string>
+    <string description="Dialog Title: rename dialog title" maxwidth="" name="rename_dialog">Naam wijzigen</string>
+    <string description="Toast: rename fails" maxwidth="-1" name="rename_fail">Wijzigen bestandsnaam mislukt.</string>
+    <string name="rename_favorite_folder">Naam favorietenmap wijzigen</string>
+    <string name="rename_favorite_notice">Er is ook een map met dezelfde naam in de favorietenmap. Wilt u de naam ervan wijzigen?</string>
+    <string name="rename_favorite_success">Het wijzigen van de naam is gelukt en opgeslagen in favorieten</string>
+    <string description="Toast: rename success" maxwidth="-1" name="rename_success">De naam van het bestand is gewijzigd.</string>
+    <string description="renaming file" name="renaming_file" width="-1">Naam wijzigen</string>
+    <string name="replace">"Vervangen"</string>
+    <string description="Toast: restore fails" maxwidth="-1" name="restore_fail">"Terugzetten mislukt"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="restore_progress">"Bezig met terugzetten..."</string>
+    <string description="Toast: restore success" maxwidth="-1" name="restore_success_more">"De geselecteerde bestanden zijn teruggezet"</string>
+    <string description="Toast: restore success. %s is variable string." maxwidth="-1" name="restore_success_one">"\"%s\" is teruggezet"</string>
+    <string name="retention_notification_large_file">"U hebt %1$s grote bestanden toegevoegd. Bekijk ze nu."</string>
+    <string name="retention_notification_recent_file">"Uw recente bestanden verbruiken %1$s ruimte. Bekijk ze nu."</string>
+    <string name="saf_permission_tutorial_content">ASUS-bestandsbeheer vraagt toegang tot uw SD-kaart. Wilt u toegang verlenen?</string>
+    <string name="saf_permission_tutorial_content_v2">"U moet bepaalde stappen uitoveren om %s toegangsrechten te verlenen."</string>
+    <string name="saf_permission_tutorial_dialog">"Er moet een procedure worden uitgevoerd om de SD-kaart toegangsrechten te verlenen. Wilt u doorgaan?"</string>
+    <string name="saf_permission_tutorial_title">Toegang tot de SD-kaart aanvragen</string>
+    <string name="saf_tutorial_step_one">Tik op het menupictogram en tik dan op SD-kaart weergeven.</string>
+    <string name="saf_tutorial_step_three">Tik op SD-kaart selecteren om toegang te verlenen tot ASUS-bestandsbeheer.</string>
+    <string name="saf_tutorial_step_three_v2">"Tik op Selecteren %s om toegang te verlenen aan ASUS bestandsbeheer."</string>
+    <string name="saf_tutorial_step_two">Veeg aan de linkerrand van het scherm om de lade weer te geven en tik dan op SD-kaart.</string>
+    <string name="saf_tutorial_step_two_v2">"Veeg vaaf de linkerschermrand om de lade weer te geven en tik vervolgens op %s."</string>
+    <string name="saf_tutorial_title">Rechten om SD-kaart te gebruiken</string>
+    <string name="saf_tutorial_title_v2">"Gebruiksmachtiging van %s"</string>
+    <string description="account config dialog remind message" maxwidth="-1" name="samba_client_config_check">Gebruikersnaam en wachtwoord onthouden, volgende keer direct verbinden.</string>
+    <string name="samba_input_error">Gebruikersnaam of wachtwoord mag niet leeg zijn!</string>
+    <string name="samba_login_error">De gebruikersnaam of het wachtwoord dat u hebt ingevoerd, is onjuist.</string>
+    <string name="samba_storage_add_title">"NetWerkplaats"</string>
+    <string name="samba_storage_title">"SAMBA"</string>
+    <string name="scan_qr_code">"Scan QR-code"</string>
+    <string description="rate now" maxwidth="" name="scroll_up_toast">Scroll omhoog om te beoordelen</string>
+    <string maxwidth="-1" name="sd_label">OneDrive voor ASUS</string>
+    <string name="search_action">"Zoeken"</string>
+    <string description="search hint message" maxwidth="-1" name="search_hint">Naam bestand invoeren</string>
+    <string description="cutstom action bar view title for search" maxwidth="-1" name="search_label">Bestanden zoeken</string>
+    <string description="search dialog message" maxwidth="-1" name="search_progress">Zoeken...</string>
+    <string description=" text for search result" formatted="false" maxwidth="-1" name="search_result_title">Bezig met zoeken van %s in %s: %d bestanden gevonden</string>
+    <string name="select_album">Album selecteren</string>
+    <string description="Menu Option: select all checkbox" maxwidth="" name="select_all">Alles selecteren</string>
+    <string description="Title: select the folder" maxwidth="-1" name="select_folder">Selecteer de map</string>
+    <string name="select_folder_by_ok_button">"Druk op %1$s om deze map te selecteren"</string>
+    <string name="select_photo">Foto selecteren</string>
+    <string name="server">"Server:"</string>
+    <string name="server_error">"Serverfout"</string>
+    <string name="server_hint">"172.0.0.1/ShareFolder"</string>
+    <string name="server_title">Server</string>
+    <string maxwidth="-1" name="service_not_available_in_your_country">"Dit item is niet beschikbaar voor uw land."</string>
+    <string name="set_password_title">"Een PIN-code aanmaken"</string>
+    <string name="set_ring">"Instellen als Ring"</string>
+    <string name="setting_display_group">"Display"</string>
+    <string name="setting_notification_group">"Melding"</string>
+    <string name="setting_notification_large_files">"Melding groot bestand"</string>
+    <string name="setting_notification_recent_files">"Melding recente bestanden"</string>
+    <string name="setting_notification_wireless_transfer">"Melding draadloze overdracht"</string>
+    <string name="setting_view_group">"Weergave-instelling"</string>
+    <string name="setting_view_hide_files">"Systeembestanden verbergen"</string>
+    <string name="settings">"Instellingen"</string>
+    <string description="This is the title of cache size" maxwidth="-1" name="settings_cache_size_title">"Cachegrootte"</string>
+    <string description="Remove all cache documents" maxwidth="-1" name="settings_clear_cache_info">"All cachedocumenten verwijderen"</string>
+    <string description="Clear the cache" maxwidth="-1" name="settings_clear_cache_title">"Cache wissen"</string>
+    <string description="This is the title of clearing search history action for setting user preferences." maxwidth="-1" name="settings_clear_search_history">"Zoekgeschiedenis wissen"</string>
+    <string name="settings_darkmode_message">"Donkere modus toepassen"</string>
+    <string name="settings_description">"Lokale mappen en bestanden"</string>
+    <string description="This is the title of documents cache" maxwidth="-1" name="settings_documents_cache">"Documentencache"</string>
+    <string description="recommend text" maxwidth="" name="settings_encourage_us_detail">Als u geniet van het gebruik van %s, geef ons dan een beoordeling van 5 sterren op Play Store. Het zou een enorme stimulans zijn voor ons om het product te blijven verbeteren.</string>
+    <string description="This is the title of hiding system files action for setting user preferences." maxwidth="-1" name="settings_hide_system_files">"Systeembestanden verbergen"</string>
+    <string description="This is the title of moving to the trash can." maxwidth="-1" name="settings_moved_to_the_trash_can">"Verplaatst naar prullenbak"</string>
+    <string description="Remove account" maxwidth="-1" name="settings_remove_account">"Account verwijderen"</string>
+    <string description="Set the cache size to %s" maxwidth="-1" name="settings_set_cache_size">"Cachegrootte is ingesteld op \"%s\""</string>
+    <string description="This is the title of space used for setting user preferences." maxwidth="-1" name="settings_space_used">"Ruimte gebruikt"</string>
+    <string description="This is the title of trash can information for setting user preferences." maxwidth="-1" name="settings_trash_can">"Prullenbak"</string>
+    <string description="This is the title of user name" maxwidth="-1" name="settings_user_name">"Gebruikersnaam"</string>
+    <string name="setup">"Installeren"</string>
+    <string name="setup_account_description">"Stel een e-mailaccount in om uw PIN-code op te halen"</string>
+    <string name="setup_account_no_internet_connection">"Geen internetverbinding"</string>
+    <string name="setup_account_skip">"Overslaan"</string>
+    <string name="setup_account_title">"PIN-code ophalen"</string>
+    <string name="setup_fingerprint_message">"Vingerafdruk instellen voor ontgrendelen? Verborgen archief ondersteunt vingerafdrukverificatie. Scan om te beginnen uw vingerafdruk in Instellingen."</string>
+    <string name="setup_my_digital_code">"PIN-code instellen"</string>
+    <string name="share_more">"Overige"</string>
+    <string name="share_with_friend">"Deel deze app met uw vrienden"</string>
+    <string description="Context Menu: options of context menu: share folder via Wi-Fi Direct" maxwidth="" name="shared_folder">Delen via Wi-Fi Direct</string>
+    <string description="shortcit title" maxwidth="-1" name="short_cuts_title">Snelkoppeling</string>
+    <string name="shortcut_hint">"Tik en houd een categorie of map vast om een snelkoppeling te maken op Opstartprogramma."</string>
+    <string description="check if user want to show password" name="show_passwd">Wachtwoord weergeven</string>
+    <string description="show when sign in failed" maxwidth="-1" name="signin_failed">"Aanmelden mislukt"</string>
+    <string description="signout account" name="signout_account" width="-1">Verbinding verbreken</string>
+    <string name="single_drm_file_forbidden_operation">Deze actie is verboden omdat deze door DRM wordt beschermd.</string>
+    <string description="button text for sort file by size" maxwidth="-1" name="size">Omvang</string>
+    <string description="button text for sort file by size ascending" maxwidth="-1" name="size_ascending">Grootte (groot-klein)</string>
+    <string description="button text for sort file by size descending" maxwidth="-1" name="size_descending">Grootte (klein-groot)</string>
+    <string name="ssl_err_msg_info">"Kan geen beveiligde verbinding met de server maken. Wilt u doorgaan?"</string>
+    <string name="ssl_err_msg_title">"SSL-verbindingsfout"</string>
+    <string description="shortcut title: my favorite files" name="starred" width="-1">"Gemarkeerd"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="storage_type_cloud">Cloud-opslag</string>
+    <string name="storage_type_cloud_att">"Netwerkopslag"</string>
+    <string name="storage_type_local">Lokale opslag</string>
+    <string name="storage_type_shortcut">"Snelkoppeling"</string>
+    <string name="storagetype_add_account">Account Google toevoegen</string>
+    <string name="tap_to_exit">Tik opnieuw om af te sluiten</string>
+    <string name="target_directory_is_child_of_source">"De bewerking kon niet worden voltooid omdat de doelmap ondergeschikt is aan de bronmap."</string>
+    <string description="Toast: target file exists" maxwidth="-1" name="target_exist">Doelbestand bestaat.</string>
+    <string description="Toast: target folder exists. %s is variable string." maxwidth="-1" name="target_folder_exist">De map: \"%s\" bestaat reeds.</string>
+    <string description="" maxwidth="" name="tell_friend">Een vriend vertellen</string>
+    <string maxwidth="" name="terms_of_service">"Mededeling gebruiksvoorwaarden"</string>
+    <string maxwidth="" name="terms_of_service_url">http://www.asus.com/us/Terms_of_Use_Notice_Privacy_Policy/Official-Site/</string>
+    <string description="title" maxwidth="-1" name="title">Wettelijke informatie:</string>
+    <string name="toast_auto_lock_notify_message">"Vergrendel Verborgen archief als het apparaat is vergrendeld"</string>
+    <string description="Toast: The item(s) has been copied completely" maxwidth="-1" name="toast_drag_copied_items">Item(s) gekopieerd.</string>
+    <string description="Toast: The item(s) has been moved completely" maxwidth="-1" name="toast_drag_moved_items">Item(s) verplaatst.</string>
+    <string description="Toast: Sorry, copy files complete but cut fail" maxwidth="-1" name="toast_warning_copy_comple_cut_fail">"Sorry, mappen kopiëren is voltooid, maar oude bestanden konden niet worden verwijderd"</string>
+    <string description="Toast: Sorry, copy folders has not been supported" maxwidth="-1" name="toast_warning_copy_folders">"Sorry, mappen kopiëren werd niet ondersteund"</string>
+    <string maxwidth="35" name="toolbar_item_title_encourage_us">Moedig ons aan</string>
+    <string name="tools_clean_master">"Afval opruimen"</string>
+    <string name="tools_file_transfer">"Pc-bestandsoverdracht"</string>
+    <string name="tools_hidden_zone">"Verborgen archief"</string>
+    <string name="tools_recycle_bin">"Prullenbak"</string>
+    <string name="tools_storage_analyzer">"Opslaganalyse"</string>
+    <string name="tools_tip_animation">"Trek omhoog voor hulpmiddelen."</string>
+    <string name="tools_zenui_instant_update">"Onmiddellijk updaten"</string>
+    <string description="shortcut title: trash can" name="trash_can" width="-1">"Prullenbak"</string>
+    <string maxwidth="-1" name="trash_info_deleted">"Datum verwijderd: "</string>
+    <string maxwidth="-1" name="trash_info_path">"Origineel pad: "</string>
+    <string description="label for trending searches" maxwidth="-1" name="trending_searches">"Trending-zoekopdrachten"</string>
+    <string name="tutorial_analyzer_content">"Met Opslaganalyse weet u precies welke bestanden er op uw schijf staan."</string>
+    <string name="tutorial_category_content">"Met Categorieweergave van ASUS-bestandsbeheer kunt u moeiteloos bestanden terugvinden."</string>
+    <string name="tutorial_category_title">"Categorieweergave"</string>
+    <string name="tutorial_cloud_content">"Toegang tot bestanden vanaf uw telefoon, pc en vanaf de cloud."</string>
+    <string name="tutorial_cloud_title">"Cloudopslag"</string>
+    <string name="tutorial_done">Gereed</string>
+    <string name="tutorial_page_content_long_press">Tikken en ingedrukt houden voor het selecteren van een item, vervolgens tikken op het pictogram \"Menu\" voor het weergeven van andere actie-opties.</string>
+    <string name="tutorial_page_four_content">Stel een vaak gebruikte map in als Favoriet om snel en eenvoudig toegang te krijgen tot de mappen.</string>
+    <string name="tutorial_page_four_title">Favorieten</string>
+    <string name="tutorial_page_one_content">ASUS-bestandsbeheer biedt u een eenvoudig beheer van uw bestanden die op uw intern of extern geheugen, het LAN-netwerk of de cloudopslag zijn opgeslagen.</string>
+    <string name="tutorial_page_one_title">ASUS-bestandsbeheer</string>
+    <string name="tutorial_page_three_content">Veeg een item naar rechts om de acties weer te geven, zoals Toevoegen aan favorieten, Naam wijzigen, Verplaatsen naar, Kopiëren naar en andere opties voor het beheren van bestanden.</string>
+    <string name="tutorial_page_three_title">Veeg naar rechts in de actielijst</string>
+    <string name="tutorial_page_title_long_press">Actiemenu weergeven</string>
+    <string name="tutorial_page_two_content">Gebruiksvriendelijke categorieën die u snel toegang bieden tot uw bestanden op uw lokale opslag.</string>
+    <string name="tutorial_page_two_title">Startpagina</string>
+    <string name="tutorial_skip">Overslaan</string>
+    <string description="button text for sort file by type" maxwidth="-1" name="type">Type</string>
+    <string description="document type" maxwidth="-1" name="type_abu">"Asus App back-up"</string>
+    <string description="document type" maxwidth="-1" name="type_apk">"Android App"</string>
+    <string description="document type" maxwidth="-1" name="type_audio">"Audio"</string>
+    <string description="document type" maxwidth="-1" name="type_book">"EBook"</string>
+    <string name="type_dialog_audio">Audio</string>
+    <string name="type_dialog_image">Afbeelding</string>
+    <string name="type_dialog_text">Tekst</string>
+    <string name="type_dialog_title">Openen als</string>
+    <string name="type_dialog_video">Video</string>
+    <string description="document type" maxwidth="-1" name="type_directory">"Map"</string>
+    <string description="document type" maxwidth="-1" name="type_document">"Document"</string>
+    <string description="document type" maxwidth="-1" name="type_file">"Bestand"</string>
+    <string description="document type" maxwidth="-1" name="type_image">"Beeld"</string>
+    <string description="document type" maxwidth="-1" name="type_playlist">"Afspeellijst"</string>
+    <string description="document type" maxwidth="-1" name="type_rar">"RAR"</string>
+    <string description="document type" maxwidth="-1" name="type_video">"Video"</string>
+    <string description="document type" maxwidth="-1" name="type_zip">"Zip"</string>
+    <string name="ud_sdk_all_app_update">"Alle apps voeren hun huidige versie uit."</string>
+    <string name="ud_sdk_asus_app_slogan">nuttige app</string>
+    <string name="ud_sdk_downloads">Downloads</string>
+    <string name="ud_sdk_free_download">Gratis downloaden</string>
+    <string name="ud_sdk_important_remind_text">"Belangrijk"</string>
+    <string name="ud_sdk_install">Installeren</string>
+    <string name="ud_sdk_more_zen_family">Ontdek meer ZenUI-apps</string>
+    <string name="ud_sdk_no_network_connection_content">Kan gegevens niet bijwerken. Controleer uw netwerkinstellingen.</string>
+    <string name="ud_sdk_no_network_connection_title">Geen netwerkverbinding</string>
+    <string name="ud_sdk_open">Openen</string>
+    <string name="ud_sdk_update">Update</string>
+    <string maxwidth="-1" name="ud_sdk_update_sdk">ZenUI-familie</string>
+    <string maxwidth="-1" name="ud_sdk_update_sdk_asus">ZenUI onmiddellijke updates</string>
+    <string name="ud_sdk_wifi_settings">Wi-Fi-instellingen</string>
+    <string name="uf_sdk_already_give_5star">"Al een beoordeling van 5 sterren gegeven"</string>
+    <string description="%d is a number, don&apos;t translate" name="uf_sdk_article_read_count">"%d bekeken"</string>
+    <string name="uf_sdk_attachment_format_warning">"Verkeerde bestandsindeling. U kunt alleen imagebestanden toevoegen"</string>
+    <string name="uf_sdk_attachment_total_size">"Totaal"</string>
+    <string name="uf_sdk_attachment_warning">"De grootte van de bijlage overschrijdt de toegestane  limiet"</string>
+    <string maxwidth="-1" name="uf_sdk_cancel_btn_content">"Annuleren"</string>
+    <string name="uf_sdk_choosertitle_sharevia">"Delen via"</string>
+    <string name="uf_sdk_connection_error_msg">"Verbinding verbroken door de server. Probeer het later opnieuw."</string>
+    <string name="uf_sdk_connection_error_title">"Verbindingsfout"</string>
+    <string name="uf_sdk_discard">"Verwijderen"</string>
+    <string name="uf_sdk_email_illigal">"Het e-mailadres is al in gebruik"</string>
+    <string maxwidth="-1" name="uf_sdk_empty_notification">"Leeg :)"</string>
+    <string name="uf_sdk_faq">"Veelgestelde vragen"</string>
+    <string name="uf_sdk_feedback_and_help">"Feedback en help"</string>
+    <string name="uf_sdk_forum_description">"Neem deel aan het gesprek met ASUS-gebruikers om oplossingen te zoeken en te delen"</string>
+    <string maxwidth="-1" name="uf_sdk_grant_permission_title">"Machtiging verlenen"</string>
+    <string name="uf_sdk_help">"Help"</string>
+    <string name="uf_sdk_instant_answer_question">"Zijn deze FAQ nuttig?"</string>
+    <string name="uf_sdk_like">"Like"</string>
+    <string maxwidth="-1" name="uf_sdk_message">"Meldingen"</string>
+    <string name="uf_sdk_msg_bad_email_format">"Het e-mailadres is ongeldig. Probeer het opnieuw."</string>
+    <string name="uf_sdk_msg_confirm_discard_topic">"Uw concept wordt niet opgeslagen. Wilt u het toch verwijderen?"</string>
+    <string name="uf_sdk_msg_confirm_discard_topic_title">"Publicatie verwijderen?"</string>
+    <string name="uf_sdk_msg_subscribe">"Uw abonnement op statusmeldingen over het onderwerp ontvangt u via e-mail."</string>
+    <string name="uf_sdk_msg_subscribe_success">"U bent geabonneerd"</string>
+    <string name="uf_sdk_msg_ticket_created">"Uw feedback is naar ASUS verzonden"</string>
+    <string name="uf_sdk_msg_topic_created">"Publicatie gelukt"</string>
+    <string name="uf_sdk_msg_unsubscribe">"Abonnement opgezegd"</string>
+    <string name="uf_sdk_name_hint">"Voer uw naam in"</string>
+    <string name="uf_sdk_name_illigal">"De gebruikersnaam wordt al gebruikt"</string>
+    <string name="uf_sdk_network_error">"Geen internetverbinding. Controleer uw netwerkinstellingen."</string>
+    <string description="zenui news" maxwidth="" name="uf_sdk_news">"Nieuws"</string>
+    <string name="uf_sdk_no_network_connection_content">"Kan gegevens niet bijwerken. Controleer uw netwerkinstellingen."</string>
+    <string name="uf_sdk_no_network_connection_title">"Geen netwerkverbinding"</string>
+    <string name="uf_sdk_nothing_found">"Niets gevonden"</string>
+    <string name="uf_sdk_notice">"Opmerking"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category1">"Aankondigingen"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category2">"Handleiding &amp; tips"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category3">"Promoties"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category4">"Gebeurtenissen"</string>
+    <string name="uf_sdk_publish_an_topic">"Nieuw onderwerp publiceren"</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_rate_now">"Nu beoordelen"</string>
+    <string description="%s is AP name, don&apos;t translate" maxWidth="" name="uf_sdk_rate_us_detail">"Gebruikt u %s graag, geef ons dan een beoordeling van 5 sterren op Play Store."</string>
+    <string maxWidth="" name="uf_sdk_rate_us_detail_new">"Uit uw 5-sterrenbeoordeling putten wij kracht om verder te werken!"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_rating">"5-sterrenbeoordeling"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title">"Beoordeel ons!"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title_new">"Moedig ons aan!"</string>
+    <string description="Menu item for userFeedback sdk" maxwidth="-1" name="uf_sdk_report_bug">Fout melden</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_scroll_up_toast">"Scroll omhoog om te beoordelen"</string>
+    <string name="uf_sdk_search_hint">"Zoeken in Help"</string>
+    <string name="uf_sdk_select_common_bug">"Algemene fout selecteren"</string>
+    <string name="uf_sdk_send_feedback">"Feedback verzenden"</string>
+    <string name="uf_sdk_send_feedback_help">"Uw feedback en e-mailadres worden verzonden naar ASUS. Het serviceteam zal contact met u opnemen via e-mail."</string>
+    <string maxwidth="-1" name="uf_sdk_setting_btn_content">"Instellingen"</string>
+    <string description="recommend title" maxwidth="" name="uf_sdk_settings_encourage_us_title">"Moedig ons aan"</string>
+    <string maxwidth="-1" name="uf_sdk_storage_permission_description">"Deze functie vereist de opslagmachtiging voor toegang tot de multimediabestanden. \n\nWilt u deze functie inschakelen, tik dan op de knop Instellingen om de instellingspagina van te openen en stel \"Appinformatie\" > \"Machtigingen\" in om de machtiging te verlenen.\n"</string>
+    <string name="uf_sdk_submit_topic">"Publiceren"</string>
+    <string name="uf_sdk_subscribe_dialog_title">"Abonneren op dit onderwerp"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_answered">"Beantwoord"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_completed">"Voltooid"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_declined">"Geweigerd"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_implemented">"Geïmplementeerd"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_planned">"Gepland"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_under_review">"Wordt gecontroleerd"</string>
+    <string name="uf_sdk_thanks_for_your_feedback">"Bedankt voor uw feedback."</string>
+    <string description="%s is a application name, don&apos;t translate" name="uf_sdk_ticket_hint">"Voer feedback in voor %s"</string>
+    <string name="uf_sdk_title_topic">"Onderwerp"</string>
+    <string name="uf_sdk_topic">"Onderwerp"</string>
+    <string name="uf_sdk_topic_description_heading">"Beschrijving"</string>
+    <string name="uf_sdk_topic_description_hint">"Beschrijf uw onderwerp in detail"</string>
+    <string name="uf_sdk_topic_filter">"ONDERWERPEN"</string>
+    <string name="uf_sdk_topic_form_help">"Als u een onderwerp publiceert op het gebruikersforum kunnen andere gebruikers zich hierop abonneren en er commentaar op geven. Als het ASUS-ontwikkelteam op het onderwerp reageert, wordt u daarvan op de hoogte gebracht via e-mail."</string>
+    <string name="uf_sdk_topic_form_title">"Nieuw onderwerp publiceren"</string>
+    <string name="uf_sdk_topic_text_heading">"Forum"</string>
+    <string name="uf_sdk_topic_text_hint">"Voer de titel van uw onderwerp in"</string>
+    <string name="uf_sdk_topic_title">"Titel"</string>
+    <string name="uf_sdk_translation_10117605">"Vertaalprobleem"</string>
+    <string name="uf_sdk_translation_117562">"Feedbacktype"</string>
+    <string name="uf_sdk_translation_2529543">"Bugrapport"</string>
+    <string name="uf_sdk_translation_2529544">"Overige"</string>
+    <string name="uf_sdk_translation_2530478">"Suggestie"</string>
+    <string name="uf_sdk_unhelpful_article_message_question">"Wilt u feedback verzenden naar het ASUS-ontwikkelteam?"</string>
+    <string name="uf_sdk_user_forum">"Gebruikersforum"</string>
+    <string name="uf_sdk_warning">"Waarschuwing"</string>
+    <string name="uf_sdk_wifi_settings">"Wi-Fi-instellingen"</string>
+    <string name="uf_sdk_wlan_settings">"WLAN-instellingen"</string>
+    <string name="uf_sdk_write_your_feedback">"Voer hier feedback in"</string>
+    <string name="uf_sdk_your_draft_will_be_discarded">"Uw concept wordt verwijderd."</string>
+    <string description="description for empty search result" maxwidth="-1" name="unable_to_find_artlcles">"Kan geen gerelateerde artikelen met \u0022%s\u0022 vinden"</string>
+    <string description="string indicating the length units in milli-meters" maxwidth="-1" name="unit_mm">mm</string>
+    <string description="Context Menu: options of context menu: unshare folder" maxwidth="-1" name="unshared_folder">Delen opheffen</string>
+    <string name="unsupported_area">"Dit gebied wordt niet ondersteund"</string>
+    <string description="toast message: extract files fail" maxwidth="-1" name="unzip_fail">Kon de bestanden niet verwijderen</string>
+    <string description="extract file dialog message" maxwidth="-1" name="unzip_progress_msg">Verwijderen...</string>
+    <string description="toast message: extract files successly" maxwidth="-1" name="unzip_success">De bestanden zijn succesvol verwijderd</string>
+    <string name="update">"Bijwerken"</string>
+    <string name="update_fb_app">"De mobiele versie van de Facebook-app is niet up-to-date.  Installeer de nieuwste versie vanaf Google Play."</string>
+    <string name="upgrade_notification_content">Bestanden weergeven op type vanaf ons gloednieuw startscherm.</string>
+    <string name="upgrade_notification_title">Probeer nu het nieuwe bestandsbeheer!</string>
+    <string name="upload_complete">"Uploaden voltooid"</string>
+    <string name="upload_complete_dialog_message">"De video is geüpload."</string>
+    <string name="upload_complete_dialog_title">"Voltooid"</string>
+    <string name="upload_fail">upload mislukt.</string>
+    <string name="upload_failed">"Uploaden mislukt"</string>
+    <string name="upload_picture_toast">"Uw afbeelding wordt geüpload. Controleer de voortgang in het meldingsvenster."</string>
+    <string name="upload_toast">"Uw video wordt geüpload. Controleer de voortgang in het meldingsvenster."</string>
+    <string name="uploading_picture">"Beeld uploaden"</string>
+    <string name="uploading_video">"Bezig met uploaden van video..."</string>
+    <string name="user">Gebruikersnaam</string>
+    <string name="user_hint">beheerder</string>
+    <string name="uv_admin_response_format">"Antwoord beheerder: %1$s"</string>
+    <string name="uv_all_articles">"Alle artikels"</string>
+    <string name="uv_all_results_filter">"ALLES"</string>
+    <string name="uv_android_sdk">Android SDK</string>
+    <string name="uv_article_browse_question">"Was dit artikel nuttig?"</string>
+    <string name="uv_article_instant_answer_question">"Zijn deze FAQ nuttig?"</string>
+    <string name="uv_cancel">"Annuleren"</string>
+    <string name="uv_category">"Categorie"</string>
+    <string name="uv_close">"Sluiten"</string>
+    <string name="uv_comment_hint">"Voer uw opmerking in"</string>
+    <string name="uv_confirm">"Bevestigen"</string>
+    <string name="uv_contact_continue_button">"Ik wil mijn bericht nog steeds verzenden"</string>
+    <string name="uv_contact_hint">"Voer uw vraag of feedback in"</string>
+    <string name="uv_contact_us">"Contactgegevens"</string>
+    <string name="uv_display_name">"Gebruikersnaam"</string>
+    <string name="uv_email_address">"E-mailadres"</string>
+    <string name="uv_email_address_hint">"uw@email.com (verplicht)"</string>
+    <string name="uv_error">"Fout"</string>
+    <string name="uv_failed_signin_error">"E-mail of wachtwoord is onjuist"</string>
+    <string name="uv_forgot_password">"Wachtwoord vergeten"</string>
+    <string name="uv_helpful_article_message_question">"Wilt u nog steeds een bericht verzenden?"</string>
+    <string name="uv_i_want_this">"Ik wil dit!"</string>
+    <string name="uv_idea_description_heading">"Beschrijf uw idee in meer detail"</string>
+    <string name="uv_idea_description_hint">"(optioneel)"</string>
+    <string name="uv_idea_text_heading">"Ik stel u voor..."</string>
+    <string name="uv_loading">"Bezig met laden…"</string>
+    <string name="uv_matching_articles">"Bijhorende artikels"</string>
+    <string name="uv_matching_articles_and_ideas">"Bijhorende artikels en ideeën"</string>
+    <string name="uv_menu_attach">"Toevoegen als bijlage"</string>
+    <string name="uv_menu_search">"Zoeken"</string>
+    <string name="uv_msg_bad_email_format">"Voer een geldig e-mailadres in."</string>
+    <string name="uv_msg_comment_posted">"Uw opmerking is gepubliceerd"</string>
+    <string name="uv_msg_confirm_discard_message">"Weet u zeker dat u uw bericht wilt verwijderen?"</string>
+    <string name="uv_msg_custom_fields_validation">"Vul alle vereiste velden in."</string>
+    <string name="uv_msg_forgot_password">"E-mail voor vergeten wachtwoord verzonden"</string>
+    <string name="uv_msg_idea_created">"Uw idee is gemaakt"</string>
+    <string name="uv_msg_ticket_created">"Uw bericht is verzonden"</string>
+    <string name="uv_msg_user_identity_validation">"Voer uw e-mailadres in"</string>
+    <string name="uv_name_hint">"Anoniem"</string>
+    <string name="uv_network_error">"Er is een fout opgetreden bij het verbinden met UserVoice"</string>
+    <string name="uv_nevermind">"Maakt niets uit"</string>
+    <string name="uv_new_comment">"Nieuwe opmerking"</string>
+    <string name="uv_next">"Volgende"</string>
+    <string name="uv_no">"Nee"</string>
+    <string name="uv_none_of_these_help">"Niets van deze Help"</string>
+    <string name="uv_password">"Wachtwoord"</string>
+    <string name="uv_password_dialog_title">"Voer uw wachtwoord in"</string>
+    <string name="uv_portal_title">"Help"</string>
+    <string name="uv_post_a_comment">"Een opmerking publiceren"</string>
+    <string name="uv_post_comment">"Opmerking publiceren"</string>
+    <string name="uv_posted_by_format">"Gepubliceerd door %1$s op %2$s"</string>
+    <string name="uv_powered_by_uservoice">"Aangeboden door UserVoice"</string>
+    <string name="uv_ranked">"Geclassificeerd %1$s"</string>
+    <string name="uv_remove_votes">"Stemmen verwijderen"</string>
+    <string name="uv_select_none">"(geen)"</string>
+    <string name="uv_select_one">"Selecteer een"</string>
+    <string name="uv_send_message">"Bericht verzenden"</string>
+    <string name="uv_signin_dialog_ok">"Aanmelden"</string>
+    <string name="uv_signin_dialog_title">"Aanmelden"</string>
+    <string name="uv_status_format">"Status: %1$s"</string>
+    <string name="uv_submit_idea">"Idee indienen"</string>
+    <string name="uv_subscribe">"Abonneren"</string>
+    <string name="uv_subscribe_dialog_title">"Abonneren op dit idee"</string>
+    <string name="uv_suggestion_instant_answer_question">"Is dit idee nuttig?"</string>
+    <string name="uv_thanks">"Bedankt!"</string>
+    <string name="uv_unhelpful_article_message_question">"Wilt u ons een bericht sturen?"</string>
+    <string name="uv_value">"Waarde"</string>
+    <string name="uv_very_yes">"Ja!"</string>
+    <string name="uv_yes">"Ja"</string>
+    <string name="uv_your_email_address">"Uw e-mailadres"</string>
+    <string name="uv_your_name">"Uw naam"</string>
+    <string description="version" maxwidth="-1" name="version">Versie</string>
+    <string name="version_text">versie</string>
+    <string name="wait">"Een ogenblik geduld..."</string>
+    <string name="warning_stophttpserver">"De verbinding tussen uw mobiel apparaat en pc gaan verloren. Wilt u dit afsluiten?"</string>
+    <string name="whats_new_label">Wat is er nieuw?</string>
+    <string description="message for request to connect Network" name="wifi_p2p_connection_msg" width="-1">Breng een netwerkverbinding tot stand om cloud-services te gebruiken.</string>
+    <string description="title for request to connect Network" name="wifi_p2p_connection_title" width="-1">Netwerkverbinding maken</string>
+    <string description="message for request to turn on Wi-Fi" name="wifi_p2p_turn_on_wifi_msg" width="-1">Wifi inschakelen om Wi-Fi Direct-services te gebruiken. Wifi nu inschakelen?</string>
+    <string description="title for turn on WiFi dialog" name="wifi_p2p_turn_on_wifi_title" width="-1">WiFi inschakelen</string>
+    <string description="search" maxwidth="-1" name="wifidirect_action_bar_scan">Zoeken</string>
+    <string description="Available devices" maxwidth="-1" name="wifidirect_available_devices">Beschikbare apparaten</string>
+    <string description="Do you want to connect to device" maxwidth="-1" name="wifidirect_connect_hint">Wilt u een verbinding maken met</string>
+    <string description="Dialog title text: Invitation to connect" maxwidth="-1" name="wifidirect_connect_hint_title">Uitnodiging voor verbinding</string>
+    <string description="Dialog title text: Wi-Fi Direct connecting" maxwidth="-1" name="wifidirect_connecting_hint_title">Bezig met verbinden met Wi-Fi Direct...</string>
+    <string description="connectted" maxwidth="-1" name="wifidirect_connectted">Verbonden</string>
+    <string description=">Do you want to disconnect" maxwidth="-1" name="wifidirect_disconnect_hint">Wilt u de verbinding verbreken met</string>
+    <string description="Disconnect Wi-Fi Direct" maxwidth="-1" name="wifidirect_disconnect_hint_title">Wi-Fi Direct-verbinding verbreken</string>
+    <string description="peer devices infomation" maxwidth="-1" name="wifidirect_peer_device_info">Om een uitnodiging van Wi-Fi Direct te ontvangen, moet u ervoor zorgen dat uw verbindend apparaat op de pagina \"Peer-apparaten\" in Bestandsbeheer blijft.</string>
+    <string description="peer devices title" maxwidth="-1" name="wifidirect_peer_device_title">Peer-apparaten</string>
+    <string description="searching" maxwidth="-1" name="wifidirect_scanning">Bezig met zoeken…</string>
+    <string description="Search Wi-Fi Direct device" maxwidth="-1" name="wifidirect_storage_title">Wi-Fi Direct-apparaat zoeken</string>
+    <string description="click to connect" maxwidth="-1" name="wifidirect_touch_to_connect">Klikken om te verbinden</string>
+    <string name="yandex_account_only_one_alert">"Er mag slechts één Yandex-account worden toegevoegd." U moet uw huidige account verwijderen voordat u deze vervangt door een nieuwe."</string>
+    <string name="yes">Ja</string>
+    <string name="zenui_update">"Onmiddellijke ZenUI-updates"</string>
+    <string description="toast message: Compress files fail" maxwidth="-1" name="zip_fail">Kan bestanden niet comprimeren</string>
+    <string description="compress dialog message" maxwidth="-1" name="zip_progress_msg">Vorderen...</string>
+    <string description="toast message: Compress files successly" maxwidth="-1" name="zip_success">Bestanden succesvol gecomprimeerd</string>
+</resources>

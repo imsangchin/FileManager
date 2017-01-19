@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="alert_title" description="Dialog title" maxwidth="-1">Poznámka</string>
+    <string name="alert_title_update" description="Dialog title" maxwidth="-1">Je doporučena aktualizace</string>
+
+    <string name="alert_msg_not_found" description="ASUS ZenUI Services is not found on device" maxwidth="-1">Aplikace ASUS ZenUI Services není nainstalována!\n\nStáhnout a nainstalovat?</string>
+    <string name="alert_msg_client_update" description="Client app is not support, need update client app" maxwidth="-1">K dispozici je nová verze %1$s, prosím nainstalujte ji.</string>
+    <string name="alert_msg_azs_update" description="ASUS ZenUI Services is not support, need update ASUS ZenUI Services" maxwidth="-1">%1$s vyžaduje nejnovější verzi služeb ASUS ZenUI, prosím nainstalujte ji.</string>
+    <string name="alert_msg_compatible" description="Client app version is compatible with ASUS ZenUI Services" maxwidth="-1">Verze %1$s není kompatibilní s ASUS ZenUI Services.</string>
+    <string name="alert_msg_match" description="Client app version is match with ASUS ZenUI Services" maxwidth="-1">Verze %1$s vyhovuje ASUS ZenUI Services.</string>
+
+    <string name="alert_cb_msg" description="Don't remind me again" maxwidth="-1">Již se neptat</string>
+
+</resources>

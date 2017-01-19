@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Sylvia Cheng, 2016/03/22, Setting page -->
+    <string name="action_settings" description="menu title for setting" maxwidth="-1">"Nastavitve"</string>
+    <string name="setting_view_group">"Ogled nastavitve"</string>
+    <string name="setting_view_hide_files">"Skrij sistemske datoteke"</string>
+    <string name="setting_notification_group">"Obvestilo"</string>
+    <string name="setting_notification_large_files">"Obvestilo o veliki datoteki"</string>
+    <string name="setting_notification_recent_files">"Obvestilo o nedavnih datotekah"</string>
+    <string name="setting_notification_wireless_transfer">"Obvestilo o brezžičnem prenosu"</string>
+    <string name="setting_display_group">"Zaslon"</string>
+    <string name="tools_storage_analyzer">"Program za analizo shrambe"</string>
+    <string name="tools_zenui_instant_update">"Takojšna posodobitev"</string>
+    <string name="category_others">"Drugi"</string>
+    <string name="large_files_content_hint">"Najdi velike datoteke in jih izbrišite s svojim dovoljenjem."</string>
+    <string name="recent_files_content_hint">"Najdite nedavne datoteke in jih izbrišite s svojim dovoljenjem."</string>
+    <string name="fragment_analyzer_more_hint">"več"</string>
+    <string name="fragment_analyzer_chart_total_hint">"Skupaj:"</string>
+    <string name="fragment_analyzer_chart_free_hint">"Prosto:"</string>
+    <string name="fragment_analyzer_chart_used_hint">"UPORABLJENO"</string>
+    <string name="fragment_analyzer_allfiles_used_hint">"Uporabljeno:"</string>
+    <string name="news_v31" maxwidth="">"Program za analizo shrambe omogoča vpogled v vrste datotek, ki so zavzele ves prostor"</string>
+    <string name="news_v32" maxwidth="">"Kategorija za programe z novimi izboljšavami"</string>
+</resources>

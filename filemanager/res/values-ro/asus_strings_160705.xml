@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="tools_hidden_zone">"Folder ascuns"</string>
+    <string name="action_hidden_zone" maxwidth="">"Mutare în Folder ascuns"</string>
+    <string name="move_to_hidden_zone_progress" description="Progress Content: text in progress dialog" maxwidth="">"Se mută în Folder ascuns..."</string>
+    <string name="move_to_hidden_zone_success_one" description="Toast: move to recycle bin success. %s is variable string." maxwidth="-1">"\"%s\" a fost mutat în Folder ascuns."</string>
+    <string name="move_to_hidden_zone_success_more" description="Toast: move to recycle bin success" maxwidth="-1">"Fişierele selectate au fost mutate în Folder ascuns."</string>
+    <string name="move_to_hidden_zone_fail" description="Toast: move to recycle bin fails" maxwidth="-1">"Mutare în Folder ascuns eşuată"</string>
+    <string name="can_not_open_in_hidden_zone" description="Toast: can not open in hidden zone" maxwidth="-1">"Nu se poate deschide în Folder ascuns"</string>
+    <string name="hidden_zone_setup_password">"Introduceţi un cod PIN de 4 cifre"</string>
+    <string name="hidden_zone_setup_account">"Configurare cont"</string>
+    <string name="hidden_zone_forget_password">"Parolă uitată"</string>
+    <string name="hidden_zone_wrong_password">"Cod PIN greşit"</string>
+    <string name="hidden_zone_change_password">"Schimbare parolă"</string>
+    <string name="hidden_zone_confirm_password">"Confirmare cod PIN"</string>
+    <string name="hidden_zone_set_password_success">"Parola a fost creată cu succes"</string>
+    <string name="hidden_zone_fingerprint_to_unlock">"Amprentă pentru deblocare"</string>
+    <string name="hidden_zone_password_mismatch">"Codul PIN nu se potriveşte"</string>
+    <string name="hidden_zone_introduction_description">"Ascundeţi fişierele private în Folderul ascuns. Este necesar un cod PIN pentru a deschide Folderul ascuns."</string>
+    <string name="hidden_zone_enter_password">"Introduceţi codul PIN"</string>
+    <string name="setup">"Configurare"</string>
+    <string name="set_password_title">"Creare cod PIN"</string>
+    <string name="setup_account_title">"Recuperare cod PIN"</string>
+    <string name="setup_account_description">"Configuraţi un cont de e-mail pentru a recupera codul PIN"</string>
+    <string name="setup_account_no_internet_connection">"Nicio conexiune la internet"</string>
+    <string name="setup_account_skip">"Omitere"</string>
+    <string name="setup_my_digital_code">"Configurare cod PIN"</string>
+    <string name="setup_fingerprint_message">"Activaţi amprenta pentru deblocare? Folderul ascuns acceptă verificarea amprentei. Pentru a începe, scanaţi amprenta în Setări."</string>
+    <string name="toast_auto_lock_notify_message">"Blocare Folder ascuns atunci când dispozitivul este blocat"</string>
+</resources>

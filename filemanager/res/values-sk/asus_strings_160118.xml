@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="httpserver_title" maxwidth="">"Bezdrôtový prenos súborov do počítača"</string>
+    <string name="httpserver_start" maxwidth="">"Spustiť"</string>
+    <string name="httpserver_stop" maxwidth="">"Zastaviť"</string>
+    <string name="httpserver_need_saf" maxwidth="">"Ak chcete svoju externú pamäť spravovať z počítača, musíte udeliť povolenie."</string>
+    <string name="httpserver_description" maxwidth="">"Ak chcete pripojiť svoje mobilné zariadenie k počítaču, spustite službu."</string>
+    <string name="httpserver_instruction" maxwidth="">"Túto adresu zadajte do prehliadača vo vašom počítači:"</string>
+    <string name="httpserver_no_network" maxwidth="">"Svoje zariadenie pripojte k rovnakej sieti Wi-Fi"</string>
+    <string name="httpserver_no_permission_title" maxwidth="">"Spustite bezdrôtový prenos súborov"</string>
+    <string name="httpserver_no_permission_message" maxwidth="">"Bez správneho povolenia nebudete môcť zapisovať do externej pamäte. Pokračovať?"</string>
+    <string name="httpserver_acquire_permission_message" maxwidth="">"Súborový server HTTP bude zatvorený a operácie môžu byť prerušené. Pokračovať?"</string>
+    <string name="category_title_tools">"Nástroje"</string>
+    <string name="tools_file_transfer">"Prenos súboru z počítača"</string>
+    <string name="tools_clean_master">"Vymazať nevyžiadanú poštu"</string>
+    <string name="retention_notification_large_file">"Pridali ste veľké súbory (%1$s). Pozrite si ich hneď."</string>
+    <string name="retention_notification_recent_file">"Vaše najnovšie súbory zaberajú %1$s miesta. Pozrieť ich teraz."</string>
+    <string name="recommend_clean_master_msg">"Najdôveryhodnejšie aplikácie na svete sú Android Optimizer, Speed Booster, Battery Saver a Free Anti-Virus. \nPrevziať teraz?"</string>
+    <string name="recommend_clean_master_title">"Odporúčanie aplikácií"</string>
+    <string name="tools_tip_animation">"Vyžiadajte si nástroje!"</string>
+</resources>

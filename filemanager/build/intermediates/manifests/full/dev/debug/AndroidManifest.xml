@@ -1,0 +1,669 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.asus.filemanager"
+    android:versionCode="0x7FFFFFFF"
+    android:versionName="1.5.0.150707_review-1" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="24" />
+
+    <permission
+        android:name="com.asus.filemanager.provider.OpenFileProvider.PERMISSION.READ"
+        android:label="provider read pomission"
+        android:protectionLevel="signature" />
+    <permission
+        android:name="com.asus.filemanager.provider.OpenFileProvider.PERMISSION.WRITE"
+        android:label="provider write pomission"
+        android:protectionLevel="normal" />
+
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="com.android.email.permission.READ_ATTACHMENT" />
+    <uses-permission android:name="android.permission.EXPAND_STATUS_BAR" />
+    <uses-permission android:name="android.permission.INTERACT_ACROSS_USERS" />
+    <uses-permission android:name="android.permission.MANAGE_USERS" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="com.android.gallery3d.permission.READ_PICASA" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.GET_TASKS" />
+    <uses-permission android:name="android.permission.MANAGE_ACCOUNTS" />
+    <uses-permission android:name="android.permission.AUTHENTICATE_ACCOUNTS" />
+    <uses-permission android:name="android.permission.USE_CREDENTIALS" />
+    <uses-permission android:name="android.permission.WRITE_MEDIA_STORAGE" />
+    <uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT" />
+    <uses-permission android:name="android.permission.USE_FINGERPRINT" />
+    <uses-permission android:name="com.asus.filemanager.provider.OpenFileProvider.PERMISSION.READ" />
+    <uses-permission android:name="com.asus.filemanager.provider.OpenFileProvider.PERMISSION.WRITE" />
+    <uses-permission android:name="com.asus.vzwhelp.provider.permission" />
+
+    <android:uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <android:uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+
+    <permission
+        android:name="com.asus.filemanager.permission.C2D_MESSAGE"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="com.asus.filemanager.permission.C2D_MESSAGE" />
+    <!--
+ AZS library add
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.REORDER_TASKS" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.READ_SETTINGS" />
+
+AZS library add
+    -->
+    <application
+        android:name="com.asus.filemanager.activity.FileManagerApplication"
+        android:allowBackup="false"
+        android:hardwareAccelerated="true"
+        android:icon="@mipmap/app_icon_release"
+        android:label="@string/file_manager"
+        android:theme="@android:style/Theme.DeviceDefault.Light.DarkActionBar" >
+        <activity
+            android:name="com.asus.filemanager.activity.FileManagerActivity"
+            android:configChanges="orientation|screenSize|smallestScreenSize|screenLayout"
+            android:label="@string/file_manager"
+            android:launchMode="singleTop"
+            android:theme="@style/ThemeAppCompatDarkNoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.SEARCH" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.app.searchable"
+                android:resource="@xml/local_searchable" />
+
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data android:scheme="file" />
+                <data android:mimeType="application/zip" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data android:scheme="content" />
+                <data android:mimeType="application/zip" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data android:scheme="filemanager" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.CREATE_SHORTCUT" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.asus.filemanager.activity.FileManagerGetContent"
+            android:label="@string/file_manager"
+            android:theme="@style/ThemeAppCompatDarkNoActionBar" >
+            <intent-filter>
+                <action android:name="com.asus.filemanager.action.MULTIPLE_SELECTION" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.GET_CONTENT" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.OPENABLE" />
+
+                <data android:mimeType="*/*" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.asus.filemanager.activity.TutorialActivity"
+            android:label="@string/file_manager" />
+        <activity
+            android:name="com.asus.filemanager.activity.HttpServerActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="Http file server"
+            android:theme="@style/Theme.BaseActivity" />
+        <activity
+            android:name="com.asus.filemanager.activity.LowStorageTutorialActivity"
+            android:label="@string/file_manager"
+            android:theme="@style/Theme.BaseActivity" />
+        <activity
+            android:name="com.asus.filemanager.dialog.FolderSelection"
+            android:configChanges="orientation|keyboardHidden|keyboard"
+            android:label="@string/file_manager"
+            android:taskAffinity=""
+            android:theme="@style/folder_selection_dialogTheme" >
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.MEDIA_MOUNTED" />
+                <action android:name="android.intent.action.MEDIA_UNMOUNTED" />
+
+                <data android:scheme="file" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.asus.filemanager.dialog.AlbumPicker"
+            android:configChanges="orientation|keyboardHidden|keyboard"
+            android:label="@string/file_manager"
+            android:taskAffinity=""
+            android:theme="@style/photo_selection_dialogTheme" >
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.MEDIA_MOUNTED" />
+                <action android:name="android.intent.action.MEDIA_UNMOUNTED" />
+
+                <data android:scheme="file" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.asus.filemanager.dialog.PhotoPicker"
+            android:configChanges="orientation|keyboardHidden|keyboard"
+            android:label="@string/file_manager"
+            android:taskAffinity=""
+            android:theme="@style/photo_selection_dialogTheme" >
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.MEDIA_MOUNTED" />
+                <action android:name="android.intent.action.MEDIA_UNMOUNTED" />
+
+                <data android:scheme="file" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.asus.filemanager.activity.StorageAnalyzerActivity"
+            android:configChanges="orientation|screenSize"
+            android:theme="@style/Theme.BaseActivity" />
+        <activity
+            android:name="com.asus.filemanager.activity.AnalyzerAllFilesActivity"
+            android:configChanges="orientation|screenSize"
+            android:theme="@style/ThemeAppCompatDarkNoActionBar" />
+        <activity
+            android:name="com.asus.filemanager.activity.AnalyzerDupFilesActivity"
+            android:configChanges="orientation|screenSize"
+            android:theme="@style/Theme.Dark.BaseActivity" />
+
+        <provider
+            android:name="com.asus.filemanager.provider.FileManagerProvider"
+            android:authorities="com.asus.filemanager.provider"
+            android:exported="true" />
+        <provider
+            android:name="com.asus.filemanager.provider.SuggestionsProvider"
+            android:authorities="com.asus.filemanager.SuggestionsProvider"
+            android:exported="true" />
+        <provider
+            android:name="com.asus.filemanager.samba.provider.PCAccountInfoProvider"
+            android:authorities="com.asus.filemanager.samba.PCAccountInfoProvider"
+            android:syncable="false" />
+        <provider
+            android:name="com.asus.filemanager.provider.SearchHistoryProvider"
+            android:authorities="com.asus.filemanager.SearchHistoryProvider"
+            android:exported="true" />
+        <provider
+            android:name="com.asus.filemanager.provider.OpenFileProvider"
+            android:authorities="com.asus.filemanager.OpenFileProvider"
+            android:exported="true"
+            android:grantUriPermissions="false"
+            android:readPermission="com.asus.filemanager.provider.OpenFileProvider.PERMISSION.READ"
+            android:writePermission="com.asus.filemanager.provider.OpenFileProvider.PERMISSION.WRITE" >
+            <grant-uri-permission android:pathPrefix="/file" />
+        </provider>
+
+        <!-- Settings Preference -->
+        <!--
+        <activity android:name="com.asus.filemanager.settings.SettingActivity"
+            android:label="@string/preferences_title"
+            android:theme="@android:style/Theme.DeviceDefault.Light.DarkActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MANAGE_NETWORK_USAGE"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        -->
+
+        <activity
+            android:name="com.asus.filemanager.activity.HandleSearchIntentActivity"
+            android:launchMode="singleTop"
+            android:theme="@style/AppTranslucentTheme" >
+            <intent-filter>
+                <action android:name="android.intent.action.SEARCH" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.app.searchable"
+                android:resource="@xml/searchable" />
+        </activity>
+        <activity
+            android:name="com.uservoice.uservoicesdk.activity.PortalActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:launchMode="singleTop" >
+            <meta-data
+                android:name="android.app.searchable"
+                android:resource="@xml/uf_sdk_searchable" />
+
+            <intent-filter>
+                <action android:name="android.intent.action.SEARCH" />
+            </intent-filter>
+        </activity>
+
+        <service android:name="com.asus.filemanager.service.RemoteServiceMessenger" />
+
+        <receiver android:name="com.asus.filemanager.receiver.FeedbackReceiver" >
+            <intent-filter>
+                <action android:name="com.asus.filemanager.intent.action.USERFEEDBACK" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name="com.asus.service.asuscloud.ASUSAccountLoginActivity"
+            android:configChanges="screenSize|orientation"
+            android:excludeFromRecents="true"
+            android:theme="@style/Theme.ASUSAccountLoginActivity"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name="com.asus.service.asuscloud.AccountIntegrateActivity"
+            android:configChanges="screenSize|orientation"
+            android:exported="true"
+            android:label="@string/asusaccount_app_name"
+            android:launchMode="singleInstance"
+            android:theme="@style/AppTranslucentTheme" />
+
+        <!-- Dropbox Login Activity -->
+        <activity
+            android:name="com.asus.service.DropboxAuthenticator.DbxLoginActivity"
+            android:excludeFromRecents="true"
+            android:exported="true"
+            android:label="@string/asusaccount_app_name"
+            android:launchMode="singleTask"
+            android:theme="@style/AppTranslucentTheme" >
+            <intent-filter>
+                <data android:scheme="db-xjj1ilibw8bryog" />
+
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <!-- OneDrive authenticator  *Start* -->
+        <activity
+            android:name="com.asus.service.OneDriveAuthenticator.SDAuthenticatorActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:windowSoftInputMode="adjustResize" />
+
+        <!-- baidu pcs authenticator  *Start* -->
+        <activity
+            android:name="com.asus.service.BaiduPCS.BaiduAuthenticatorActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:windowSoftInputMode="adjustResize" />
+
+        <!-- Yandex authenticator -->
+        <activity
+            android:name="com.asus.service.yandex.YandexAuthenticatorActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:windowSoftInputMode="adjustResize" />
+
+        <!-- This activity help caller to get token with AccountManager -->
+        <activity
+            android:name="com.asus.service.AccountAuthenticator.helper.TokenHelperActivity"
+            android:configChanges="screenSize|orientation"
+            android:excludeFromRecents="true"
+            android:label="@string/asusaccount_app_name"
+            android:theme="@style/AppTranslucentTheme" />
+
+        <!-- AIDL Service -->
+        <service
+            android:name="com.asus.service.AccountAuthenticator.helper.TokenHelperService"
+            android:exported="true" />
+
+        <!--
+        user databasehelper instead of contentprovider
+        <provider android:name="com.asus.service.AccountAuthenticator.helper.CloudsProvider"
+            android:authorities="com.asus.service.account.clouds"
+            android:exported="true">
+        </provider>
+        -->
+
+        <service
+            android:name="com.asus.service.cloudstorage.CloudStorageService"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:enabled="true"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.UPADTE_ACCOUNTS" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </service>
+
+        <!-- Google Drive authenticator -->
+        <activity
+            android:name="com.asus.service.cloudstorage.googleDrive.GoogleDriveAuthentication"
+            android:configChanges="screenSize|orientation"
+            android:theme="@style/AppTranslucentTheme" />
+
+        <receiver android:name="com.asus.service.cloudstorage.AccountsChangedReceiver" >
+            <intent-filter>
+                <action android:name="android.accounts.LOGIN_ACCOUNTS_CHANGED" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name="com.asus.service.cloudstorage.dumgr.ProgressInfoActivity"
+            android:launchMode="singleInstance"
+            android:theme="@style/ProgressInfoActivityStyle" />
+        <activity
+            android:name="com.asus.filemanager.activity.FileManagerAboutActivity"
+            android:theme="@style/Theme.Dark.BaseActivity" />
+        <activity
+            android:name="com.asus.filemanager.activity.AddCloudAccountActivity"
+            android:theme="@style/ThemeAppCompatFileManagerActivity" />
+        <activity
+            android:name="com.asus.filemanager.activity.CategorySortingActivity"
+            android:theme="@style/Theme.Dark.BaseActivity" />
+        <activity
+            android:name="com.asus.filemanager.activity.FileManagerEULATemplActivity"
+            android:theme="@style/Theme.Dark.BaseActivity" />
+        <activity
+            android:name="com.asus.filemanager.activity.ViewPagerActivity"
+            android:configChanges="screenSize|orientation"
+            android:theme="@style/Theme.FullScreenActivity" />
+        <!-- android:theme="@android:style/Theme.NoTitleBar.Fullscreen" -->
+        <activity
+            android:name="com.asus.filemanager.activity.FileManagerInviteActivity"
+            android:theme="@style/Theme.Dark.BaseActivity" />
+        <activity
+            android:name="com.asus.filemanager.activity.FileManagerSettingActivity"
+            android:theme="@style/Theme.Dark.BaseActivity" />
+
+        <receiver
+            android:name="com.google.android.gms.analytics.AnalyticsReceiver"
+            android:enabled="true" >
+            <intent-filter>
+                <action android:name="com.google.android.gms.analytics.ANALYTICS_DISPATCH" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="com.google.android.gms.analytics.AnalyticsService"
+            android:enabled="true"
+            android:exported="false" />
+
+        <!--
+             Optionally, register CampaignTrackingReceiver and CampaignTrackingService to enable
+             installation campaign reporting
+        -->
+        <receiver
+            android:name="com.google.android.gms.analytics.CampaignTrackingReceiver"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="com.android.vending.INSTALL_REFERRER" />
+            </intent-filter>
+        </receiver>
+
+        <service android:name="com.google.android.gms.analytics.CampaignTrackingService" />
+
+        <receiver android:name="com.asus.updatesdk.analytic.CheckAppUpdateReceiver" />
+
+        <activity
+            android:name="com.asus.updatesdk.activity.ZenFamilyActivity"
+            android:launchMode="singleTop" />
+
+        <receiver
+            android:name="com.asus.updatesdk.ZenFamilyUpdateReceiver"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="com.asus.zenuifamily.action.UPDATE" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.asus.updatesdk.ZenFamilyShareReceiver" >
+            <intent-filter>
+                <action android:name="com.asus.zenuifamily.action.REQUEST_MASTER" />
+            </intent-filter>
+        </receiver>
+
+        <meta-data
+            android:name="com.asus.updatesdk.cache.CacheGlideModule"
+            android:value="GlideModule" />
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <receiver android:name="com.asus.filemanager.receiver.UpgradeBroadcastReceiver" >
+            <intent-filter>
+                <action android:name="android.intent.action.PACKAGE_REMOVED" />
+
+                <data android:scheme="package" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.PACKAGE_REPLACED" />
+
+                <data android:scheme="package" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.PACKAGE_ADDED" />
+
+                <data android:scheme="package" />
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name="com.asus.filemanager.receiver.MediaScannerBroadcastReceiver"
+            android:enabled="true" >
+            <intent-filter>
+                <action android:name="com.asus.filemanager.check_large_file" />
+
+                <data android:scheme="*" />
+            </intent-filter>
+        </receiver>
+
+        <meta-data
+            android:name="com.facebook.sdk.ApplicationId"
+            android:value="@string/facebook_app_id" />
+
+        <activity
+            android:name="com.facebook.FacebookActivity"
+            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+            android:label="@string/file_manager"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <!--
+        <receiver
+                    android:name="com.asus.filemanager.receiver.USBReceiver"
+                    android:enabled="true"
+                    android:exported="true" >
+                    <intent-filter>
+                        <action android:name="android.hardware.usb.action.USB_STATE" />
+                    </intent-filter>
+                </receiver>
+        -->
+
+
+        <!-- CollectionDataSDK -->
+        <!--
+                <service
+                    android:name="com.asus.abcdatasdk.service.CollectionService"
+                    android:exported="false">
+                    <intent-filter>
+                        <action android:name="com.asus.DataCollectionSDK.QuerySDKIntentFilter_V1" />
+                    </intent-filter>
+                </service>
+                <provider
+                    android:name="com.asus.abcdatasdk.provider.CollectionProvider"
+                    android:authorities="com.asus.filemanager.abcdatasdk_provider"
+                    android:exported="true"/>
+                <receiver android:name="com.asus.abcdatasdk.hostmanager.HostManagerReceiver">
+                <intent-filter>
+                    <action android:name="com.asus.abcdatasdk.gethost" />
+                </intent-filter>
+                </receiver>
+        -->
+
+        <provider
+            android:name="com.asus.filemanager.provider.GameAppProvider"
+            android:authorities="com.asus.filemanager.gameappprovier.provider"
+            android:exported="false" />
+
+        <receiver
+            android:name="com.asus.filemanager.adapter.grouper.categoryparser.AppInstallReceiver"
+            android:enabled="false" >
+            <intent-filter>
+                <action android:name="android.intent.action.PACKAGE_ADDED" />
+
+                <data android:scheme="package" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name="com.asus.filemanager.hiddenzone.activity.HiddenZoneIntroActivity"
+            android:label="@string/tools_hidden_zone"
+            android:theme="@style/Theme.Dark.BaseActivity" />
+        <activity
+            android:name="com.asus.filemanager.hiddenzone.activity.SetupPasswordActivity"
+            android:label="@string/tools_hidden_zone"
+            android:theme="@style/ThemeAppCompatFileManagerActivity" />
+        <activity
+            android:name="com.asus.filemanager.hiddenzone.activity.UnlockActivity"
+            android:label="@string/tools_hidden_zone"
+            android:theme="@style/ThemeAppCompatFileManagerActivity" />
+        <activity
+            android:name="com.asus.filemanager.hiddenzone.activity.SetupAccountActivity"
+            android:label="@string/tools_hidden_zone"
+            android:theme="@style/Theme.Dark.BaseActivity" />
+
+        <!--
+        If you wish to temporarily disable Analytics collection, such as to get end-user consent
+        before collecting data, you can set the value of firebase_analytics_collection_enabled
+        to false in your app's AndroidManifest.xml in the application tag.
+        -->
+        <meta-data
+            android:name="firebase_analytics_collection_enabled"
+            android:value="false" />
+
+        <activity
+            android:name="com.asus.filemanager.activity.ShoppingCartDetailActivity"
+            android:label="@string/title_activity_shopping_cart_detail" />
+        <activity android:name="com.asus.lite.facebook.ui.PostVideoActivity" >
+        </activity>
+        <activity
+            android:name="com.uservoice.uservoicesdk.activity.SingleArticleActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize" />
+        <activity
+            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <activity
+            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+            android:excludeFromRecents="true"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <!--
+Service handling Google Sign-In user revocation. For apps that do not integrate with
+            Google Sign-In, this service will never be started.
+        -->
+        <service
+            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+            android:exported="true"
+            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
+
+        <receiver
+            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+            android:exported="true"
+            android:permission="com.google.android.c2dm.permission.SEND" >
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+                <action android:name="com.google.android.c2dm.intent.REGISTRATION" />
+
+                <category android:name="com.asus.filemanager" />
+            </intent-filter>
+        </receiver>
+        <!--
+ Internal (not exported) receiver used by the app to start its own exported services
+             without risk of being spoofed.
+        -->
+        <receiver
+            android:name="com.google.firebase.iid.FirebaseInstanceIdInternalReceiver"
+            android:exported="false" />
+        <!--
+ FirebaseInstanceIdService performs security checks at runtime,
+             no need for explicit permissions despite exported="true"
+        -->
+        <service
+            android:name="com.google.firebase.iid.FirebaseInstanceIdService"
+            android:exported="true" >
+            <intent-filter android:priority="-500" >
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+            </intent-filter>
+        </service>
+
+        <provider
+            android:name="com.google.firebase.provider.FirebaseInitProvider"
+            android:authorities="com.asus.filemanager.firebaseinitprovider"
+            android:exported="false"
+            android:initOrder="100" />
+
+        <receiver
+            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+            android:enabled="true"
+            android:exported="false" >
+        </receiver>
+        <receiver
+            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
+            android:enabled="true"
+            android:permission="android.permission.INSTALL_PACKAGES" >
+            <intent-filter>
+                <action android:name="com.android.vending.INSTALL_REFERRER" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="com.google.android.gms.measurement.AppMeasurementService"
+            android:enabled="true"
+            android:exported="false" />
+
+        <activity
+            android:name="com.google.android.gms.appinvite.PreviewActivity"
+            android:exported="true"
+            android:theme="@style/Theme.AppInvite.Preview" >
+            <intent-filter>
+                <action android:name="com.google.android.gms.appinvite.ACTION_PREVIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

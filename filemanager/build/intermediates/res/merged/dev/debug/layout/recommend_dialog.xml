@@ -1,0 +1,157 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingBottom="13dp"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:scrollbars="vertical"
+        android:fillViewport="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <!-- Layout height is followed by image height. -->
+            <RelativeLayout
+                android:id="@+id/recommend_dialog_background_layout"
+                android:layout_width="match_parent"
+                android:layout_height="132dp"
+                android:orientation="vertical"
+                android:visibility="gone">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="132dp"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/ic_rate_star_bg"
+                    android:contentDescription="@string/toolbar_item_title_encourage_us"/>
+
+                <ImageView
+                    android:layout_width="92dp"
+                    android:layout_height="92dp"
+                    android:layout_centerInParent="true"
+                    android:src="@drawable/dialog_circle_background_white"
+                    android:contentDescription="@string/toolbar_item_title_encourage_us"/>
+
+                <ImageView
+                    android:layout_width="58dp"
+                    android:layout_height="58dp"
+                    android:layout_centerInParent="true"
+                    android:src="@drawable/asus_app_icon_filemanager"
+                    android:contentDescription="@string/toolbar_item_title_encourage_us"/>
+
+            </RelativeLayout>
+
+            <LinearLayout
+                android:id="@+id/stars"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="18dp"
+                android:layout_gravity="center_horizontal"
+                android:visibility="gone">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/ic_rate_star"
+                    android:contentDescription="@string/toolbar_item_title_encourage_us"/>
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginStart="10dp"
+                    android:src="@drawable/ic_rate_star"
+                    android:contentDescription="@string/toolbar_item_title_encourage_us"/>
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginStart="10dp"
+                    android:src="@drawable/ic_rate_star"
+                    android:contentDescription="@string/toolbar_item_title_encourage_us"/>
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginStart="10dp"
+                    android:src="@drawable/ic_rate_star"
+                    android:contentDescription="@string/toolbar_item_title_encourage_us"/>
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginStart="10dp"
+                    android:src="@drawable/ic_rate_star"
+                    android:contentDescription="@string/toolbar_item_title_encourage_us"/>
+
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/recommend_dialog_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="14dp"
+                android:textStyle="bold"
+                android:textSize="22sp"
+                android:textColor="#282929"
+                android:text="@string/toolbar_item_title_encourage_us"
+                android:visibility="gone"/>
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:scaleType="fitCenter"
+                android:src="@drawable/star_empty"
+                android:contentDescription="@string/toolbar_item_title_encourage_us"/>
+
+            <TextView
+                android:id="@+id/recommend_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:paddingLeft="13dp"
+                android:paddingStart="13dp"
+                android:paddingRight="13dp"
+                android:paddingEnd="13dp"
+                android:text="@string/settings_encourage_us_detail"
+                android:textColor="#282929"
+                android:textSize="18sp" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center">
+
+        <Button
+            android:id="@+id/recommend_dialog_button"
+            android:layout_width="260dp"
+            android:layout_height="0dp"
+            android:layout_marginTop="12dp"
+            android:layout_weight="1"
+            android:padding="12dp"
+            android:gravity="center"
+            android:background="@drawable/dialog_button_background"
+            android:text="@string/rate_now"
+            android:textColor="@color/white"
+            android:textSize="18sp"
+            android:visibility="gone"/>
+    </LinearLayout>
+</LinearLayout>

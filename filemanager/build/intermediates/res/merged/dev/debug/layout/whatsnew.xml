@@ -1,0 +1,85 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <LinearLayout android:id="@+id/app_snippet"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:paddingTop="15dp"
+        android:paddingStart="13dp"
+        android:paddingLeft="13dp"
+        android:paddingEnd="?android:attr/listPreferredItemPaddingEnd"
+        android:paddingRight="?android:attr/listPreferredItemPaddingRight"
+        android:orientation="horizontal">
+        <ImageView android:id="@+id/app_icon"
+            android:layout_width="@android:dimen/app_icon_size"
+            android:layout_height="@android:dimen/app_icon_size"
+            android:src="@mipmap/app_icon_release"
+            android:layout_marginEnd="8dip"
+            android:layout_marginRight="8dip"
+            android:scaleType="centerCrop"
+            android:contentDescription="@null"/>
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/app_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="fill_horizontal"
+                android:layout_marginTop="2dip"
+                android:ellipsize="marquee"
+                android:gravity="start"
+                android:singleLine="true"
+                android:text="@string/file_manager"
+                android:textAlignment="viewStart"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+
+            <TextView android:id="@+id/app_version"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="fill_horizontal|top"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:textAlignment="viewStart"
+                android:gravity="start" />
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout android:id="@+id/whats_new_label"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="40dp"
+        android:paddingStart="13dp"
+        android:paddingLeft="13dp"
+        android:paddingEnd="13dp"
+        android:paddingRight="13dp"
+        android:orientation="horizontal"
+        android:visibility="gone" >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="8dip"
+            style="?android:attr/listSeparatorTextViewStyle"
+            android:text="@string/whats_new_label"  />
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_gravity="bottom"
+            android:layout_marginLeft="3dp"
+            android:layout_marginBottom="14dp"
+            android:background="#d6d8d9" />
+    </LinearLayout>
+    <ListView
+        android:id="@+id/new_feature_list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingTop="5dp"
+        android:paddingBottom="30dp"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:dividerHeight="0dp"
+        android:divider="@null"/>
+</LinearLayout>

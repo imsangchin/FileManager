@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="httpserver_title" maxwidth="">"Draadloze bestandsoverdracht naar pc"</string>
+    <string name="httpserver_start" maxwidth="">"Starten"</string>
+    <string name="httpserver_stop" maxwidth="">"Stoppen"</string>
+    <string name="httpserver_need_saf" maxwidth="">"Als u uw externe opslag vanaf de pc wilt beheren, moet u toestemming verlenen."</string>
+    <string name="httpserver_description" maxwidth="">"Start de service om uw mobiel apparaat te verbinden met de pc."</string>
+    <string name="httpserver_instruction" maxwidth="">"Typ dit adres in de browser van uw pc:"</string>
+    <string name="httpserver_no_network" maxwidth="">"Sluit uw apparaat aan op hetzelfde wifi-netwerk"</string>
+    <string name="httpserver_no_permission_title" maxwidth="">"Draadloze bestandsoverdracht starten"</string>
+    <string name="httpserver_no_permission_message" maxwidth="">"U kunt niet schrijven naar de externe opslag zonder de juiste toestemming. Doorgaan?"</string>
+    <string name="httpserver_acquire_permission_message" maxwidth="">"HTTP-bestandsserver wordt gesloten en bewerkingen kunnen worden onderbroken. Doorgaan?"</string>
+    <string name="category_title_tools">"Hulpmiddelen"</string>
+    <string name="tools_file_transfer">"Pc-bestandsoverdracht"</string>
+    <string name="tools_clean_master">"Afval opruimen"</string>
+    <string name="retention_notification_large_file">"U hebt %1$s grote bestanden toegevoegd. Bekijk ze nu."</string>
+    <string name="retention_notification_recent_file">"Uw recente bestanden verbruiken %1$s ruimte. Bekijk ze nu."</string>
+    <string name="recommend_clean_master_msg">"De meest vertrouwde Android-optimalisatie, snelheidsverhoging, batterijbesparing en gratis antivirus-app. \nNu downloaden?"</string>
+    <string name="recommend_clean_master_title">"App-aanbeveling"</string>
+    <string name="tools_tip_animation">"Trek omhoog voor hulpmiddelen."</string>
+</resources>

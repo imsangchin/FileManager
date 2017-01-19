@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="storage_title">
+        <item>@string/internal_storage_title</item>
+        <item>@string/microsd_storage_title</item>
+        <item>@string/usbdisk1_storage_title</item>
+        <item>@string/usbdisk2_storage_title</item>
+        <item>@string/sdreader_storage_title</item>
+        <item>@string/usbdisk3_storage_title</item>
+        <item>@string/usbdisk4_storage_title</item>
+        <item>@string/usbdisk5_storage_title</item>
+        <item>@string/usbdisk6_storage_title</item>
+        <item>@string/usbdisk7_storage_title</item>
+        <item>@string/usbdisk8_storage_title</item>
+    </string-array>
+
+    <string-array name="network_storage_title">
+        <item>@string/networkplace_storage_title</item>
+    </string-array>
+
+    <string-array name="cloud_storage_title">
+        <!--<item>@string/asushomebox_storage_title</item>
+        <item>@string/asuswebstorage_storage_title</item>
+        <item>@string/dropbox_storage_title</item>
+        <item>@string/baidu_storage_title</item>
+        <item>@string/skydrive_storage_title</item>
+        <item>@string/googledrive_storage_title</item>-->
+    </string-array>
+
+    <array name="storage_icon" translatable="false">
+        <item>@drawable/asus_ic_internal</item>
+        <item>@drawable/asus_ep_ic_sdcard</item>
+        <item>@drawable/asus_ep_ic_usb_device</item>
+        <item>@drawable/asus_ep_ic_usb_device</item>
+        <item>@drawable/asus_ep_ic_sdcard</item>
+    </array>
+
+    <array name="network_storage_icon" translatable="false">
+        <item>@drawable/asus_ic_network_place</item>
+        <!--<item>@drawable/asus_ic_homebox</item>
+        <item>@drawable/asus_ic_webstorage</item>
+        <item>@drawable/asus_ic_dropbox</item>
+        <item>@drawable/asus_ic_network_place</item>
+        <item>@drawable/asus_ic_skydrive</item>
+        <item>@drawable/asus_ic_gogdrive</item>-->
+    </array>
+
+    <array name="cloud_storage_icon" translatable="false">
+        <!--<item>@drawable/asus_ic_homebox</item>
+        <item>@drawable/asus_ic_webstorage</item>
+        <item>@drawable/asus_ic_dropbox</item>
+        <item>@drawable/asus_ic_network_place</item>
+        <item>@drawable/asus_ic_skydrive</item>
+        <item>@drawable/asus_ic_gogdrive</item>-->
+    </array>
+
+    <array name="dialog_storage_icon" translatable="false">
+        <item>@drawable/dialog_asus_ic_internal</item>
+        <item>@drawable/dialog_asus_ic_sd</item>
+        <item>@drawable/dialog_asus_ic_usb_disk</item>
+        <item>@drawable/dialog_asus_ic_usb_disk</item>
+        <item>@drawable/dialog_asus_ic_sd</item>
+    </array>
+
+    <array name="dialog_cloud_storage_icon" translatable="false">
+        <item>@drawable/dialog_asus_ic_network</item>
+    </array>
+
+    <string-array name="drop_actions">
+        <item>@string/copy</item>
+        <item>@string/move</item>
+    </string-array>
+
+    <string-array name="encoding_charsets">
+        <item>"ISO-8859-1"</item>
+        <item>"UTF-8"</item>
+        <item>"GBK"</item>
+        <item>"Big5"</item>
+        <item>"ISO-2022-JP"</item>
+        <item>"SHIFT_JIS"</item>
+        <item>"EUC-JP"</item>
+        <item>"EUC-KR"</item>
+    </string-array>
+
+    <string-array name="support_cloud_storages">
+        <item>"Google Drive"</item>
+        <item>"Dropbox"</item>
+        <item>"ASUS webstorage"</item>
+        <item>"SkyDrive"</item>
+        <item>"Home Cloud"</item>
+        <item>"Yandex"</item>
+    </string-array>
+
+    <string-array name="support_cloud_storages_icon">
+        <item>@drawable/asus_ep_menu_google</item>
+        <item>@drawable/asus_ep_menu_dropbox</item>
+        <item>@drawable/asus_ep_menu_asus_webstorage</item>
+        <item>@drawable/asus_ep_menu_sky</item>
+        <item>@drawable/asus_ep_ic_internal_storage</item>
+        <item>@drawable/asus_ep_menu_yandex</item>
+    </string-array>
+
+    <string-array name="cloud_storage_feature">
+        <item>@string/starred</item>
+        <item>@string/recently_used</item>
+        <item>@string/trash_can</item>
+    </string-array>
+
+    <array name="local_storage_icon" translatable="false">
+        <item>@drawable/ic_internal_storage</item>
+        <item>@drawable/ic_micro_sd_card</item>
+        <item>@drawable/ic_usb_disk</item>
+        <item>@drawable/ic_usb_disk</item>
+        <item>@drawable/ic_micro_sd_card</item>
+    </array>
+
+    <array name="new_features" translatable="false">
+        <!--  <item>@string/new_feature_t1</item>-->
+    </array>
+
+    <array name="new_feature_descriptions" translatable="false">
+        <!--  <item>@string/new_feature_d1</item>-->
+    </array>
+</resources>

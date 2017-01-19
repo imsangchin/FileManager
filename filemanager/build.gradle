@@ -1,0 +1,120 @@
+apply plugin: 'android'
+
+dependencies {
+    compile fileTree(include: '*.jar', exclude: ['universal-image-loader-1.9.5.jar'] , dir: 'libs')
+    compile project(':asusui')
+    compile project(':asusaccount')
+    compile project(':azsvclib')
+    compile project(':facebookenginelite')
+    compile project(':uservoicesdk')
+    compile project(':cloudstorage')
+    compile project(':asusupdatesdk')
+    compile 'com.android.support:multidex:1.0.1'
+    compile 'com.google.firebase:firebase-analytics:9.8.0'
+    compile 'com.google.firebase:firebase-crash:9.8.0'
+    compile 'com.google.firebase:firebase-invites:9.8.0'
+    compile 'com.android.support:appcompat-v7:24.0.0'
+    compile 'com.android.support:design:24.0.0'
+    compile 'com.android.support:recyclerview-v7:24.0.0'
+    compile 'com.nostra13.universalimageloader:universal-image-loader:1.9.5'
+    compile 'org.jsoup:jsoup:1.9.2'
+}
+
+repositories{
+    flatDir{
+        dirs 'libs'
+    }
+}
+
+
+
+android {
+    useLibrary 'org.apache.http.legacy'
+    signingConfigs {
+    }
+    compileSdkVersion 25
+    buildToolsVersion '24.0.3'
+    defaultConfig {
+        minSdkVersion 16 //lower than 14 doesn't support multidex
+        targetSdkVersion 24
+        applicationId = "com.asus.filemanager"
+        // Enabling multidex support.
+        multiDexEnabled true
+        vectorDrawables.useSupportLibrary = true
+    }
+
+    productFlavors {
+        // Define separate dev and prod product flavors.
+        dev {
+            // dev utilizes minSDKVersion = 21 to allow the Android gradle plugin
+            // to pre-dex each module and produce an APK that can be tested on
+            // Android Lollipop without time consuming dex merging processes.
+            minSdkVersion 16
+            targetSdkVersion 24
+        }
+        prod {
+            // The actual minSdkVersion for the application.
+            minSdkVersion 16
+            targetSdkVersion 24
+        }
+    }
+
+    packagingOptions {
+        exclude 'META-INF/DEPENDENCIES'
+        exclude 'META-INF/NOTICE'
+        exclude 'META-INF/LICENSE'
+        exclude 'META-INF/LICENSE.txt'
+        exclude 'META-INF/NOTICE.txt'
+        exclude 'META-INF/LICENSE-FIREBASE.txt'
+    }
+
+    dexOptions {
+        //incremental true
+        javaMaxHeapSize "8g"
+    }
+    sourceSets {
+        main {
+            manifest.srcFile 'AndroidManifest.xml'
+            java.srcDirs = ['src']
+            resources.srcDirs = ['src']
+            aidl.srcDirs = ['src']
+            renderscript.srcDirs = ['src']
+            res.srcDirs = ['res']
+            assets.srcDirs = ['assets']
+        }
+
+        // Move the tests to tests/java, tests/res, etc...
+        instrumentTest.setRoot('tests')
+
+        // Move the build types to build-types/<type>
+        // For instance, build-types/debug/java, build-types/debug/AndroidManifest.xml, ...
+        // This moves them out of them default location under src/<type>/... which would
+        // conflict with src/ being used by the main source set.
+        // Adding new build types or product flavors should be accompanied
+        // by a similar customization.
+        debug.setRoot('build-types/debug')
+        release.setRoot('build-types/release')
+    }
+
+    buildTypes {
+        debug {
+            minifyEnabled false
+            shrinkResources false
+            zipAlignEnabled true
+            proguardFiles 'proguard.flags', 'proguard-android.txt', 'proguard-uservoicesdk_2.0_64.pro'
+        }
+        release {
+            minifyEnabled false
+            shrinkResources false
+            zipAlignEnabled true
+            proguardFiles 'proguard.flags', 'proguard-android.txt', 'proguard-uservoicesdk_2.0_64.pro'
+        }
+    }
+
+    lintOptions {
+        checkReleaseBuilds false
+        abortOnError false
+    }
+}
+
+apply plugin: 'com.google.gms.google-services'

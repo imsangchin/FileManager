@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action">"Prijava"</string>
+    <string description="" name="article_one">"Prihvaćam ASUS \"<u>Obavijest o uvjetima korištenja</u>\", ASUS \"<u>Pravila o zaštiti privatnosti</u>\", ASUS WebStorage \"<u>Obavijest o uvjetima korištenja</u>\", ASUS WebStorage \"<u>Pravila o zaštiti privatnosti</u>\"."</string>
+    <string description="" name="article_two">"Obavještavaj me o novostima, ažuriranjima softvera i najnovijim proizvodima te uslužnim informacijama ASUS-a putem eDM-a."</string>
+    <string description="Text for create asus account button." maxwidth="" name="asus_account_create_button">"Registrirajte se"</string>
+    <string name="asus_account_integrate_dialog_content">"Žalite li integrirati ASUS račun s računom za WebStorage? \n\n Nakon integracije moći ćete koristiti sve ASUS usluge."</string>
+    <string name="asus_account_integrate_dialog_skip">"Preskoči"</string>
+    <string name="asus_account_integrate_dialog_title">"Integrirajte Asus usluge"</string>
+    <string name="asus_account_integrate_dialog_yes">"Da"</string>
+    <string description="Text for asus account content 1st." maxwidth="" name="asus_account_msg_content_1">"Primati personalizirane ASUS usluge podrške i produljenje jamstva za registrirane proizvode."</string>
+    <string description="Text for asus account content 2nd." maxwidth="" name="asus_account_msg_content_2">"Dobiti 5 GB besplatnog prostora za pohranu u oblaku."</string>
+    <string description="Text for asus account content 3rd." maxwidth="" name="asus_account_msg_content_3">"Primati najnovije informacije o dodatnoj opremi i obnovljenim proizvodima."</string>
+    <string description="Text for asus account content title." maxwidth="" name="asus_account_msg_title">"Izradite ASUS račun i možete:"</string>
+    <string name="asus_account_only_one_alert">"Dopušteno je dodavanje samo jednog ASUS računa. Morate izbrisati trenutni račun prije njegove zamjene novim."</string>
+    <string name="asus_account_prefc">"Postavke"</string>
+    <string name="asus_account_prefc_advc">"Napredne postavke"</string>
+    <string name="asus_account_registe_country_error">"Odaberite jednu zemlju/regiju!"</string>
+    <string name="asus_account_registe_id_error">"Greška u formatu e-pošte"</string>
+    <string name="asus_account_registe_policy_error">"Morate prihvatiti ASUS pravila za registraciju ASUS računa!"</string>
+    <string name="asus_account_registe_pw_error_1">"Lozinka ne smije biti prazna!"</string>
+    <string name="asus_account_registe_pw_error_2">"Potvrda lozinke ne smije biti prazna!"</string>
+    <string name="asus_account_registe_pw_error_3">"Lozinka i potvrda lozinke moraju biti jednaki!"</string>
+    <string name="asus_account_registe_pw_error_4">"Lozinka mora biti od 8 do 25 znakova."</string>
+    <string name="asus_account_removeaccount_dialog_content">"Integracija računa je uspješna. Ponovno se prijavite koristeći novi račun."</string>
+    <string name="asus_account_removeaccount_dialog_title">"Integracija ASUS računa je uspješna"</string>
+    <string name="asus_registe_success_title">"Registracija ASUS računa je uspješna"</string>
+    <string name="asus_response_resultdata">"Ovaj račun je već registriran."</string>
+    <string name="asusaccount_app_name">"ASUS račun"</string>
+    <string name="aucloud_account_only_one_alert">"Dopušteno je dodavanje samo jednog au Cloud računa. Morate izbrisati trenutni račun prije njegove zamjene novim."</string>
+    <string name="aws_install_contnet">"Nije instaliran ASUS WebStorage. Želite li preuzeti i instalirati iz Play Store?"</string>
+    <string name="aws_install_title">"ASUS Webstorage nije instaliran"</string>
+    <string name="baidu_alert_info">"Na temelju Baidu’s platforme, ovaj uređaj može pristupiti podacima samo u "My Application Data\\asus\\"."</string>
+    <string name="baidu_alert_title">"Pohrana u oblaku Baidu"</string>
+    <string name="baidupcs_account_only_one_alert">"Dopušteno je dodavanje samo jedne značajke Baidu za ASUS račun. Morate izbrisati trenutni račun prije njegove zamjene novim."</string>
+    <string name="confirm">"Potvrdi"</string>
+    <string name="confirm_ok">"U REDU"</string>
+    <string description="confirm password textview title" name="confirm_password">"Potvrdite lozinku"</string>
+    <string description="ask user to enter password again to confirm" name="confirm_password_edit">"Ponovno unesite lozinku"</string>
+    <string description="country region textview title" name="country_region">"Zemlja/Regija"</string>
+    <string description="ack user to select on country" name="country_region_select">"Odabir zemlje/regije"</string>
+    <string name="dbx_install_contnet">"Nije instaliran Dropbox. Želite li preuzeti i instalirati iz Play Store?"</string>
+    <string name="dbx_install_title">"Dropbox nije instaliran"</string>
+    <string description="ask user to enter password" maxwidth="-1" name="enter_password">"Unesite lozinku"</string>
+    <string description="click to retrieve password" maxwidth="-1" name="forget_password">"<u>Zaboravljena lozinka?</u>"</string>
+    <string name="invalid_server_id">"Neispravan ID poslužitelja"</string>
+    <string name="invalid_xml">"Neispravan xml"</string>
+    <string description="dialog title, key in the asus ID and PW to Login account" maxwidth="-1" name="login_asus_id">"Registracija ASUS računa"</string>
+    <string description="login account name" maxwidth="-1" name="login_id">"Naziv računa/WebStorage ID"</string>
+    <string name="market_app_error">"Došlo je do greške s APP aplikacijom tržišta koja je instalirana na uređaju!"</string>
+    <string description="ask user to enter email address as account name" maxwidth="-1" name="member_id_hint">"Unesite adresu e-pošte"</string>
+    <string name="network_invalid">"Neispravna mrežna veza"</string>
+    <string name="network_invalid_info">"Veza je neispravna. Ponovno ju provjerite."</string>
+    <string name="no_device">"Nema uređaja"</string>
+    <string name="no_network">"Nema mrežne veze"</string>
+    <string name="no_network_info">"Za pristup ovoj aplikaciji potrebna je Internetska veza. Unesite mobilnu mrežu ili WiFi u postavke."</string>
+    <string name="no_password">"Unesite lozinku"</string>
+    <string name="no_right">"Račun nema pravo za prijavljivanje."</string>
+    <string name="no_user_exist">"Korisničko ime ne postoji"</string>
+    <string name="no_username">"Prvo unesite korisničko ime."</string>
+    <string name="onedrive_account_only_one_alert">"Dopušteno je dodavanje samo jedne aplikacije OneDrive za ASUS račun. Morate izbrisati trenutni račun prije njegove zamjene novim."</string>
+    <string description="dialog title, key in the asus ID and PW to Login account" maxwidth="-1" name="regist_asus_id">"Izrada ASUS računa"</string>
+    <string description="ask user to enter email address to registe New Account" name="registe_id">"Naziv računa"</string>
+    <string description="ask user to enter new password" name="registe_password">"Unesite 8-25 znakova"</string>
+    <string description="sign up registe action" name="registe_sign_up">"Prijava"</string>
+    <string name="sd_label">"OneDrive za ASUS"</string>
+    <string name="server_error">"Greška poslužitelja"</string>
+    <string name="settings">"Postavke"</string>
+    <string description="check if user want to show password" name="show_passwd">"Prikaži lozinku"</string>
+    <string description="show when sign in failed" maxwidth="-1" name="signin_failed">"Registracija nije uspjela"</string>
+    <string name="ssl_err_msg_info">"Nije moguće ostvarivanje sigurne veze s poslužiteljem. Želite li nastaviti?"</string>
+    <string name="ssl_err_msg_title">"Greška SSL veze"</string>
+    <string name="unsupported_area">"Ovo područje nije podržano"</string>
+    <string name="yandex_account_only_one_alert">"Dopušteno je dodavanje samo jednog Yandex računa. Morate izbrisati trenutni račun prije njegove zamjene novim."</string>
+</resources>

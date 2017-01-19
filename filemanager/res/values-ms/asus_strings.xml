@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="file_manager" description="Application Name shown on title" maxwidth="">Pengurus Fail</string>
+    <string name="ok" description="Dialog Button: ok for dialog" maxwidth="">OK</string>
+    <string name="no" description="Dialog Button: no for dialog" maxwidth="">Tidak</string>
+    <string name="cancel" description="Dialog Button: cancel for dialog" maxwidth="">Batal</string>
+    <string name="select_all" description="Menu Option: select all checkbox" maxwidth="">Pilih semua</string>
+    <string name="clear_all" description="Menu Option: clear all checkbox" maxwidth="">Kosongkan semua</string>
+    <string name="open_fail" description="Toast: open file fails" maxwidth="-1">Gagal membuka fail.</string>
+    <string name="permission_deny" description="Toast: operation permission deny" maxwidth="-1">Kebenaran ditolak.</string>
+    <string name="target_exist" description="Toast: target file exists" maxwidth="-1">Fail sasaran wujud.</string>
+    <string name="target_folder_exist" description="Toast: target folder exists. %s is variable string." maxwidth="-1">Folder \"%s\" sudah wujud.</string>
+    <string name="rename" description="Context Menu: options of context menu" maxwidth="">Namakan Semula</string>
+    <string name="rename_dialog" description="Dialog Title: rename dialog title" maxwidth="">Namakan Semula</string>
+    <string name="rename_fail" description="Toast: rename fails" maxwidth="-1">Gagal menamakan semula fail.</string>
+    <string name="delete" description="Context Menu: options of context menu" maxwidth="">Padam</string>
+    <string name="delete_dialog" description="Dialog Title: delete dialog title" maxwidth="">Padam fail</string>
+    <string name="delete_one_files" description="Dialog Content: text in dialog" maxwidth="">Adakah anda ingin memadam fail?</string>
+    <string name="delete_more_files" description="Dialog Content: text in dialog. %d is variable number." maxwidth="">Adakah anda ingin memadam %d item?</string>
+    <string name="delete_size" description="Dialog Content: text in dialog" maxwidth="">"Saiz: "</string>
+    <string name="delete_progress" description="Progress Content: text in progress dialog" maxwidth="">Memadam...</string>
+    <string name="delete_fail" description="Toast: delete fails" maxwidth="-1">Gagal memadam fail.</string>
+    <string name="delete_success_one" description="Toast: delete success. %s is variable string." maxwidth="-1">"\"%s\" telah dipadam."</string>
+    <string name="delete_success_more" description="Toast: delete success" maxwidth="-1">Fail yang dipilih telah dipadam.</string>
+    <string name="new_folder_dialog" description="Dialog Title: create new folder" maxwidth="">Cipta folder baharu</string>
+    <string name="new_folder_fail" description="Toast: new folder fails" maxwidth="-1">Gagal mencipta folder baharu.</string>
+    <string name="new_folder_success" description="Toast: new folder success. %s is variable string." maxwidth="-1">"Folder \"%s\" telah dicipta."</string>
+    <string name="copy" description="Context Menu: options of context menu" maxwidth="">Salin</string>
+    <string name="copy_ready_one" description="Toast: copy ready. %s is variable string." maxwidth="-1">"\"%s\" telah disalin dan sedia untuk ditampal."</string>
+    <string name="copy_ready_more" description="Toast: copy ready" maxwidth="-1">Fail yang dipilih telah disalin dan sedia untuk ditampal.</string>
+    <string name="cut" description="Context Menu: options of context menu" maxwidth="">Potong</string>
+    <string name="cut_ready_one" description="Toast: cut ready. %s is variable string." maxwidth="-1">\"%s\" telah dipotong dan sedia untuk ditampal.</string>
+    <string name="cut_ready_more" description="Toast: cut ready" maxwidth="-1">Fail yang dipilih telah dipotong dan sedia untuk ditampal.</string>
+    <string name="paste" description="Context Menu: options of context menu" maxwidth="">Tampal</string>
+    <string name="paste_exist_dialog" description="Dialog Title: paste exist dialog title" maxwidth="">Nama fail sama</string>
+    <string name="paste_exist_file" description="Dialog Content: text in dialog. %s is variable string." maxwidth="">"Fail \"%s\" sudah wujud."</string>
+    <string name="paste_exist_replace" description="Dialog Content: text in dialog" maxwidth="">Adakah anda ingin menggantikannya dengan yang baharu?</string>
+    <string name="paste_exist_to" description="Dialog Content: text in dialog" maxwidth="">Kepada</string>
+    <string name="paste_exist_apply" description="Dialog Content: text in dialog" maxwidth="">Gunakan kepada semua</string>
+    <string name="paste_progress" description="Progress Content: text in progress dialog" maxwidth="">Menampal...</string>
+    <string name="paste_fail" description="Toast: paste fails" maxwidth="-1">Gagal menampal fail.</string>
+    <string name="paste_success" description="Toast: paste success. %s is variable string." maxwidth="-1">"Fail telah ditambah ke dalam \"%s\"."</string>
+    <!-- Guoliang_Lin, 2011/04/01, UI required, new feature -->
+    <string name="no_space_fail" description="Toast: No space to copy file and left on device" maxwidth="-1">Storan tidak mencukupi</string>
+    <!-- Guoliang Lin, 2011/04/27, UI required, new feature -->
+    <string name="action_add_folder" description="cutstom action bar view title for add folder" maxwidth="-1">Tambah folder</string>
+    <string name="action_hind_system_file" description="cutstom action bar view title for hinde system file" maxwidth="-1">Sembunyikan fail sistem</string>
+    <string name="deselect_all" description="cutstom action bar view title for deselect all checkbox" maxwidth="">Nyahpilih semua</string>
+    <!-- Guoliang Lin, 2011/05/11, UI required, new feature -->
+    <string name="file_info_dialog_title" description="Dialog Title: File information dialog title" maxwidth="-1">Maklumat fail</string>
+    <string name="dir_info_dialog_title" description="Dialog Title: Directory information dialog title" maxwidth="-1">Maklumat direktori</string>
+    <string name="info" description="Context Menu: options of context menu" maxwidth="-1">Maklumat</string>
+    <string name="info_name" description="file info textview context" maxwidth="-1">"Nama: "</string>
+    <string name="info_file_num" description="file info textview context" maxwidth="-1">"Fail: "</string>
+    <string name="info_permission" description="file info textview context" maxwidth="-1">"Kebenaran: "</string>
+    <string name="info_modified" description="file info textview context" maxwidth="-1">"Tarikh diubah suai: "</string>
+    <!-- Guoliang Lin, 2011/05/27, UI required, new feature -->
+    <string name="action_about" description="cutstom action bar view title for about" maxwidth="-1">Mengenai</string>
+    <!-- Johnson Chen, 2011/08/05, UI required, new feature -->
+    <string name="select_folder" description="Title: select the folder" maxwidth="-1">Pilih folder</string>
+    <string name="invalid_directory_path" description="Invalid directory path" maxwidth="-1">Laluan direktori tidak sah</string>
+    <string name="short_cuts_title" description="shortcit title" maxwidth="-1">Pintasan</string>
+    <string name="type" description="button text for sort file by type" maxwidth="-1">Jenis</string>
+    <string name="name" description="button text for sort file by name" maxwidth="-1">Nama</string>
+    <string name="size" description="button text for sort file by size" maxwidth="-1">Saiz</string>
+    <string name="date" description="button text for sort file by date" maxwidth="-1">Tarikh</string>
+    <string name="name_ascending" description="button text for sort file by name ascending" maxwidth="-1">Nama (z-a)</string>
+    <string name="name_descending" description="button text for sort file by name descending" maxwidth="-1">Nama (a-z)</string>
+    <string name="size_ascending" description="button text for sort file by size ascending" maxwidth="-1">Saiz (besar-kecil)</string>
+    <string name="size_descending" description="button text for sort file by size descending" maxwidth="-1">Saiz (kecil-besar)</string>
+    <string name="date_ascending" description="button text for sort file by date ascending" maxwidth="-1">Tarikh (paling lama-terkini)</string>
+    <string name="date_descending" description="button text for sort file by date descending" maxwidth="-1">Tarikh (terkini-paling lama)</string>
+    <string name="my_storage_title" description="storage label" maxwidth="-1">Storan saya</string>
+    <string name="internal_storage_title" description="storage label" maxwidth="-1">Storan dalaman</string>
+    <string name="my_picture_title" description="shortcut label" maxwidth="-1">Gambar</string>
+    <string name="my_camera_title" description="shortcut label" maxwidth="-1">Kamera</string>
+    <string name="my_music_title" description="shortcut label" maxwidth="-1">Muzik</string>
+    <string name="my_download_title" description="shortcut label" maxwidth="-1">Muat turun</string>
+    <string name="dialog_create_zip_title" description="compress dialog title" maxwidth="-1">Masukkan nama arkib</string>
+    <string name="zip_progress_msg" description="compress dialog message" maxwidth="-1">Berjalan...</string>
+    <string name="zip_fail" description="toast message: Compress files fail" maxwidth="-1">Gagal memampatkan fail</string>
+    <string name="zip_success" description="toast message: Compress files successly" maxwidth="-1">Berjaya memampatkan fail</string>
+    <string name="search_label" description="cutstom action bar view title for search" maxwidth="-1">Cari fail</string>
+    <string name="search_progress" description="search dialog message" maxwidth="-1">Mencari...</string>
+    <string name="location" description="button text for sort file by date" maxwidth="-1">Lokasi</string>
+    <plurals name="number_search_items">
+        <item quantity="one">"%d fail ditemui"</item>
+        <item quantity="other">"%d fail ditemui"</item>
+    </plurals>
+    <string name="search_result_title" description=" text for search result" formatted="false" maxwidth="-1">Mencari %s dalam %s: %d fail ditemui</string>
+    <string name="dialog_extract_zip_title" description="extract zip file dialog title. %s is a dynamic string. It is zip file name." maxwidth="-1">Ekstrak %s ke :</string>
+    <string name="unzip_progress_msg" description="extract file dialog message" maxwidth="-1">Mengekstrak...</string>
+    <string name="unzip_fail" description="toast message: extract files fail" maxwidth="-1">Gagal mengekstrak fail</string>
+    <string name="unzip_success" description="toast message: extract files successly" maxwidth="-1">Berjaya mengekstrak fail</string>
+    <string name="action_clear_history" description="cutstom action bar view title for clear search history" maxwidth="">Kosongkan sejarah carian</string>
+    <plurals name="drag_items">
+        <item quantity="one">Seret item</item>
+        <item quantity="other">Seret item</item>
+    </plurals>
+    <string name="drag_items_one">Seret item</string>
+    <string name="drag_items_other">Seret item</string>
+    <string name="toast_drag_copied_items" description="Toast: The item(s) has been copied completely" maxwidth="-1">Item telah disalin sepenuhnya</string>
+    <string name="toast_warning_copy_folders" description="Toast: Sorry, copy folders has not been supported" maxwidth="-1">Maaf, penyalinan folder tidak disokong</string>
+    <string name="toast_warning_copy_comple_cut_fail" description="Toast: Sorry, copy files complete but cut fail" maxwidth="-1">Maaf, penyalinan fail telah lengkap tetapi pemadaman fail lama gagal</string>
+    <string name="toast_drag_moved_items" description="Toast: The item(s) has been moved completely" maxwidth="-1">Item telah dialihkan sepenuhnya</string>
+    <string name="move" description="Hint: move the items" maxwidth="-1">Alih</string>
+    <string name="drop_target_to" description="Hint: the target folder which you want to do something" maxwidth="-1">Sasaran:</string>
+    <string name="drop_incorrect_hint" description="Hint: the operation is incorrect" maxwidth="-1">Pengendalian salah</string>
+    <!-- Willie Huang, 2012/01/20, UI required, new feature -->
+    <string name="dialog_unzip_preview_title" description="show zip info dialog title. %s is a dynamic string. Is is a zip file name" maxwidth="-1">Ekstrak %s</string>
+    <string name="extract" description="Dialog Button: extract file for dialog" maxwidth="-1">Ekstrak</string>
+    <plurals name="dialog_unzip_preview_size_text">
+        <item quantity="one">Jumlah: %1$d fail, %2$s</item>
+        <item quantity="other">Jumlah: %1$d fail, %2$s</item>
+    </plurals>
+    <string name="encode" description="Dialog Button: click to open the encoding list dialog" maxwidth="-1">Pengekodan teks</string>
+    <string name="dialog_text_encoding_title" description="text encoding dialog title" maxwidth="-1">Pengekodan teks</string>
+    <string-array name="charset_array">
+        <item>"Bahasa Latin-1 (ISO-8859-1)"</item>
+        <item>"Unikod (UTF-8)"</item>
+        <item>"Bahasa Cina (GBK)"</item>
+        <item>"Bahasa Cina (Big5)"</item>
+        <item>"Bahasa Jepun (ISO-2022-JP)"</item>
+        <item>"Bahasa Jepun (SHIFT_JIS)"</item>
+        <item>"Bahasa Jepun (EUC-JP)"</item>
+        <item>"Bahasa Korea (EUC-KR)"</item>
+    </string-array>
+    <!-- Willie Huang, 2012/03/28, UI required, new feature -->
+    <string name="info_aperture" description="file info textview context" maxwidth="-1">"Apertur: "</string>
+    <string name="info_datetime" description="file info textview context" maxwidth="-1">"Tarikh diambil: "</string>
+    <string name="info_exposure_time" description="file info textview context" maxwidth="-1">"Waktu pendedahan: "</string>
+    <string name="info_flash" description="file info textview context" maxwidth="-1">"Denyar: "</string>
+    <string name="info_focal_length" description="file info textview context" maxwidth="-1">"Panjang fokus: "</string>
+    <string name="info_image_height" description="file info textview context" maxwidth="-1">"Tinggi: "</string>
+    <string name="info_image_x" description="file info textview context" maxwidth="-1">" x "</string>
+    <string name="info_image_width" description="file info textview context" maxwidth="-1">"Lebar"</string>
+    <string name="info_iso" description="file info textview context" maxwidth="-1">"ISO: "</string>
+    <string name="info_location" description="file info textview context" maxwidth="-1">"Lokasi: "</string>
+    <string name="info_maker" description="file info textview context" maxwidth="-1">"Pembuat: "</string>
+    <string name="info_model" description="file info textview context" maxwidth="-1">"Model: "</string>
+    <string name="info_orientation" description="file info textview context" maxwidth="-1">"Orientasi: "</string>
+    <string name="info_white_balance" description="file info textview context" maxwidth="-1">"Imbangan putih: "</string>
+    <string name="flash_on" description="string indicating camera flash is fired" maxwidth="-1">Denyar ditembak</string>
+    <string name="flash_off" description="string indicating camera flash is not used" maxwidth="-1">Tiada denyar</string>
+    <string name="unit_mm" description="string indicating the length units in milli-meters" maxwidth="-1">mm</string>
+    <string name="manual" description="string indicating how camera shooting feature is used" maxwidth="-1">Manual</string>
+    <string name="auto" description="string indicating how camera shooting feature is used" maxwidth="-1">Auto</string>
+    <!-- Guoliang_Lin, 2012/03/20, UI required, new feature -->
+    <string name="wait">Sila tunggu\u2026</string>
+    <!-- Johnson Chen, 2012/04/13, UI required, new feature -->
+    <string name="select_album">Pilih album</string>
+    <string name="select_photo">Pilih foto</string>
+    <string name="back_button_label" description="button text." maxwidth="-1">Kembali</string>
+    <!-- Willie Huang, 2012/05/18, UI required, new feature -->
+    <string name="action_apply_selected_file" description="View title of custom action bar, apply to multiple selected files" maxwidth="-1">Guna</string>
+    <!-- Willie Huang, 2013/01/03, UI required, new feature -->
+    <string name="loading" description="text for progress bar" maxwidth="-1">Memuat\u2026</string>
+    <string name="version" description="version" maxwidth="-1">Versi</string>
+    <string name="title" description="title" maxwidth="-1">Maklumat undang-undang:</string>
+    <string name="content" description="content" maxwidth="-1">Penggunaan perisian ini tertakluk pada terma dan syarat di laman web ASUS: \nhttp://www.asus.com</string>
+    <string name="action_share" description="cutstom action bar view title for sharing" maxwidth="-1">Kongsi</string>
+    <!-- Johnson Chen, 2012/05/18, UI required, new feature-->
+    <string name="photo_selection_limit_number_toast" description="Toast: You may not select more than %s photos." maxwidth="-1">Pilih maksimum %s foto</string>
+    <!-- Alex6 Lin, -->
+    <string name="action_sort_by" description="String for asking for the rule of sorting" maxwidth="-1">Isih mengikut</string>
+    <plurals name="number_selected_items">
+        <item quantity="one">%d dipilih</item>
+        <item quantity="other">%d dipilih</item>
+    </plurals>
+    <string name="info_type" description="file info textview context" maxwidth="-1">"Jenis: "</string>
+    <string name="type_document" description="document type" maxwidth="-1">Dokumen</string>
+    <string name="type_audio" description="document type" maxwidth="-1">Audio</string>
+    <string name="type_video" description="document type" maxwidth="-1">Video</string>
+    <string name="type_playlist" description="document type" maxwidth="-1">Senarai main</string>
+    <string name="type_image" description="document type" maxwidth="-1">Imej</string>
+    <string name="type_book" description="document type" maxwidth="-1">E-Buku</string>
+    <string name="type_zip" description="document type" maxwidth="-1">Zip</string>
+    <string name="type_apk" description="document type" maxwidth="-1">Aplikasi Android</string>
+    <string name="type_abu" description="document type" maxwidth="-1">Sandaran Aplikasi Asus</string>
+    <string name="type_file" description="document type" maxwidth="-1">Fail</string>
+    <string name="type_directory" description="document type" maxwidth="-1">Direktori</string>
+    <string name="search_action">Cari</string>
+    <string name="fileList_Nofiles">Tiada fail</string>
+    <!-- Johnson Chen, 2012/05/18, UI required, new feature-->
+    <string name="wifidirect_available_devices" description="Available devices" maxwidth="-1">Peranti tersedia</string>
+    <string name="wifidirect_connect_hint_title" description="Dialog title text: Invitation to connect" maxwidth="-1">Jemputan untuk menyambung</string>
+    <string name="wifidirect_connect_hint" description="Do you want to connect to device" maxwidth="-1">Adakah anda ingin menyambung dengan</string>
+    <string name="wifidirect_connecting_hint_title" description="Dialog title text: Wi-Fi Direct connecting" maxwidth="-1">Wi-Fi Direct menyambung...</string>
+    <string name="wifidirect_disconnect_hint" description=">Do you want to disconnect" maxwidth="-1">Adakah anda ingin memutuskan sambungan dengan</string>
+    <string name="shared_folder" description="Context Menu: options of context menu: share folder via Wi-Fi Direct" maxwidth="">Kongsikan melalui Wi-Fi Direct</string>
+    <string name="unshared_folder" description="Context Menu: options of context menu: unshare folder" maxwidth="-1">Tidak berkongsi</string>
+    <string name="remote_storage_title" description="remote storage label" maxwidth="-1">Storan Jauh</string>
+    <string name="remote_connected_error_hint" description="network is unavailable, please try again" maxwidth="-1">Rangkaian tidak tersedia, sila cuba lagi</string>
+    <string name="wifidirect_peer_device_title" description="peer devices title" maxwidth="-1">Peranti rakan</string>
+    <string name="wifidirect_scanning" description="searching" maxwidth="-1">Mencari...</string>
+    <string name="wifidirect_touch_to_connect" description="click to connect" maxwidth="-1">Klik untuk menyambung</string>
+    <string name="wifidirect_connectted" description="connectted" maxwidth="-1">Bersambung</string>
+    <string name="wifidirect_action_bar_scan" description="search" maxwidth="-1">Cari</string>
+    <string name="wifidirect_storage_title" description="Search Wi-Fi Direct device" maxwidth="-1">Cari peranti Wi-Fi Direct</string>
+    <string name="wifidirect_peer_device_info" description="peer devices infomation" maxwidth="-1">Untuk menerima jemputan Wi-Fi Direct, pastikan bahawa peranti anda yang bersambung kekal pada halaman \"Peranti rakan\" dalam Pengurus Fail.</string>
+    <string name="wifidirect_disconnect_hint_title" description="Disconnect Wi-Fi Direct" maxwidth="-1">Putuskan sambungan Wi-Fi Direct</string>
+    <string name="wifi_p2p_turn_on_wifi_title" description="title for turn on WiFi dialog" width="-1">Hidupkan Wi-Fi</string>
+    <string name="wifi_p2p_turn_on_wifi_msg" description="message for request to turn on Wi-Fi" width="-1">Hidupkan Wi-Fi untuk menggunakan perkhidmatan Wi-Fi Direct. Hidupkan Wi-Fi sekarang?</string>
+    <!-- Johnson Chen, 2013/03/22, UI required, new feature-->
+    <string name="cloud_storage_title" description="Add more cloud storage" maxwidth="-1">Tambah lebih banyak storan awan</string>
+    <string name="add_cloud_storage_dialog_title" description="Dialog title: Add cloud storage" maxwidth="-1">Tambah storan awan</string>
+    <string name="cloud_storage_remove_hint" description=">Do you want to remove" maxwidth="-1">"Adakah anda ingin Melog keluar \"%s\" akaun?"</string>
+    <string name="cloud_storage_remove_hint_title" description="Dialog title: Remove cloud storage" maxwidth="-1">Log keluar</string>
+    <string name="add_progress" description="Progress Content: text in progress dialog" maxwidth="">Mencipta...</string>
+    <string name="logging_cloud_storage" description="Progress Content: text in progress dialog" maxwidth="">Melog...</string>
+    <string name="wifi_p2p_connection_msg" description="message for request to connect Network" width="-1">Sila wujudkan sambungan rangkaian untuk menggunakan perkhidmatan awan.</string>
+    <string name="wifi_p2p_connection_title" description="title for request to connect Network" width="-1">Wujudkan sambungan rangkaian</string>
+    <string name="logout_account" description="logout account" width="-1">Log keluar</string>
+    <string name="renaming_file" description="renaming file" width="-1">Menamakan semula</string>
+    <string name="rename_success" description="Toast: rename success" maxwidth="-1">Berjaya menamakan semula fail.</string>
+    <string name="login_fail" description="Toast: login account fail" width="-1">Gagal melog masuk</string>
+    <string name="starred" description="shortcut title: my favorite files" width="-1">Dibintangkan</string>
+    <string name="recently_used" description="shortcut title: recently used files" width="-1">Terbaru</string>
+    <string name="trash_can" description="shortcut title: trash can" width="-1">Tong sampah</string>
+    <!-- Settings Page -->
+    <string name="menu_general_preferences" description="The title of a menu for General Preferences.Pressing the menu item lets user to view and edit his general settings" maxwidth="30">Tetapan am</string>
+    <string name="preferences_title" description="This is the title of the screen for setting user preferences." maxwidth="-1">Tetapan</string>
+    <string name="settings_space_used" description="This is the title of space used for setting user preferences." maxwidth="-1">Ruang digunakan</string>
+    <string name="settings_clear_search_history" description="This is the title of clearing search history action for setting user preferences." maxwidth="-1">Kosongkan sejarah carian</string>
+    <string name="settings_hide_system_files" description="This is the title of hiding system files action for setting user preferences." maxwidth="-1">Sembunyikan fail sistem</string>
+    <string name="settings_trash_can" description="This is the title of trash can information for setting user preferences." maxwidth="-1">Tong sampah</string>
+    <string name="settings_moved_to_the_trash_can" description="This is the title of moving to the trash can." maxwidth="-1">Dialihkan ke Tong sampah</string>
+    <string name="settings_user_name" description="This is the title of user name" maxwidth="-1">Nama pengguna</string>
+    <string name="settings_documents_cache" description="This is the title of documents cache" maxwidth="-1">Cache Dokumen</string>
+    <string name="settings_cache_size_title" description="This is the title of cache size" maxwidth="-1">Saiz cache</string>
+    <string name="settings_set_cache_size" description="Set the cache size to %s" maxwidth="-1">"Saiz cache ditetapkan kepada \"%s\""</string>
+    <string name="settings_clear_cache_title" description="Clear the cache" maxwidth="-1">Kosongkan cache</string>
+    <string name="settings_clear_cache_info" description="Remove all cache documents" maxwidth="-1">Alih keluar semua dokumen cache</string>
+    <string name="settings_remove_account" description="Remove account" maxwidth="-1">Alih keluar akaun</string>
+    <string name="drawer_open">Buka laci navigasi</string>
+    <string name="drawer_close">Tutup laci navigasi</string>
+    <!-- begin add new server -->
+    <string name="samba_storage_title">"SAMBA"</string>
+    <string name="samba_storage_add_title">Tempat rangkaian</string>
+    <string name="server_title">Pelayan</string>
+    <string name="domain">Domain:</string>
+    <string name="domain_hint">Boleh kosong</string>
+    <string name="server">Pelayan:</string>
+    <string name="server_hint">"172.0.0.1/ShareFolder"</string>
+    <string name="example">Contoh:</string>
+    <string name="user">Nama Pengguna</string>
+    <string name="user_hint">pentadbir</string>
+    <string name="password">Kata Laluan</string>
+    <string name="display">Paparkan sebagai</string>
+    <string name="display_hint">My Computer, boleh kosong</string>
+    <string name="samba_input_error">nama pengguna atau kata laluan tidak boleh kosong!</string>
+    <string name="samba_client_config_check" description="account config dialog remind message" maxwidth="-1">Ingat nama pengguna dan kata laluan, lain kali sambung secara terus</string>
+    <string name="pullfreshlistview_header_hint_normal">Tarik ke bawah</string>
+    <string name="pullfreshlistview_header_hint_ready">Lepaskan untuk menyegar semula</string>
+    <string name="pullfreshlistview_header_hint_loading">Menyegar semula...</string>
+    <string name="pullfreshlistview_header_last_time">Masa segar semula kali terakhir:</string>
+    <string name="pullfreshlistview_footer_hint_normal">Muatkan lagi</string>
+    <string name="pullfreshlistview_footer_hint_ready">Lepaskan untuk memuatkan lebih banyak</string>
+    <string name="cloud_preview_action_fail" description="Toast: cloud preview action" maxwidth="-1">pratonton fail awan telah gagal.</string>
+    <string name="cloud_share_action_fail" description="Toast: cloud share action" maxwidth="-1">perkongsian fail awan telah gagal.</string>
+    <string name="cloud_paste_backgroud" description="diaglog cloud background paste">Latar belakang</string>
+    <string name="cloud_paste_uploading" description="diaglog cloud  paste uploading">Memuat naik fail</string>
+    <string name="cloud_paste_downloading" description="diaglog cloud  paste">Memuat turun fail</string>
+    <string name="cloud_paste_total" description="diaglog cloud  total">Jumlah</string>
+    <string name="cloud_paste_current" description="diaglog cloud  current">Semasa</string>
+    <string name="cloud_paste_copying" description="diaglog cloud  now is copy files">Menyalin...</string>
+    <string name="cloud_paste_deleting" description="diaglog cloud  now is delete source files">Memadam fail sumber...</string>
+    <string name="cloud_token_invalidate" description="diaglog cloud  token is invalidate">Token tidak sah, sila log masuk sekali lagi!</string>
+    <string name="cloud_homebox_status_offline" description="home cloud device is offline">Peranti berada luar talian</string>
+    <string name="cloud_homebox_status__info_offline" description="home cloud device is offline">Luar Talian</string>
+    <string name="cloud_homebox_status__info_online" description="home cloud device is online">Dalam Talian</string>
+    <string name="cloud_homebox_status__info_Sleep" description="home cloud device is sleep">Tidur</string>
+    <string name="cloud_homebox_no_available_devices" description="home cloud has no available devices">Tiada peranti HomeCloud yang tersedia</string>
+    <string name="cloud_homebox_get_devices_fail" description="home cloud get available devices fail">Gagal mengimbas peranti HomeCloud yang tersedia</string>
+<!--  <string name="cloud_paste_string_format"  description="diaglog cloud  paste string format" maxwidth="-1">%d / %d</string>-->
+    <string name="storage_type_cloud">Storan awan</string>
+    <string name="storage_type_local">Storan tempatan</string>
+    <string name="storagetype_add_account">Tambah akaun Google</string>
+    <string name="network_cta_hint">sila terima untuk menyambung ke rangkaian</string>
+ <string name="action_refresh_cloudfile">Segar semula</string>
+ <string name="baidu_storage_title">"百度云"</string>
+ <string name="dialog_load_stream_url_info">Mendapatkan semula maklumat yang perlu daripada pelayan</string>
+ <string name="paste_progress_title">Tugas penyalinan lain sedang berjalan...</string>
+ <string name="single_drm_file_forbidden_operation">Tindakan ini dilarang kerana ia terlindung DRM.</string>
+ <string name="multi_drm_file_forbidden_operation">Tindakan ini dilarang kerana beberapa fail yang dipilih terlindung DRM.</string>
+ <string name="samba_login_error">Nama pengguna atau kata laluan yang anda masukkan salah.</string>
+     <string name="action_search" description="cutstom action bar view title for search" maxwidth="">Cari</string>
+ <string name="cloud_upload_flie_limit_space" description="Toast: The size is over the limit and cannot be uploaded" maxwidth="-1">Gagal memuat naik fail. Saiz fail di atas had maksimum.</string>
+ <string name="cloud_download_flie_limit_space" description="Toast: The size is over the limit and cannot be uploaded" maxwidth="-1">Gagal memuat turun fail. Saiz fail di atas had maksimum.</string>
+ <string name="invalid_account" description="Toast: the account is invalid" maxwidth="-1">Akaun tidak sah</string>
+ <string name="homecloud_access_error" description="Can’t connect to HomeCloud." maxwidth="-1">Gagal menyambung ke HomeCloud. Sila pastikan bahawa perkhidmatan HomeCloud dalam talian.</string>
+ <string name="cloud_flie_name_not_supported" description="Toast: The name of the file uploaded is not supported by cloud server" maxwidth="-1">Operasi tidak dapat dilengkapkan kerana nama fail tidak disokong oleh pelayan awan.</string>
+ <string name="action_cancel" description="action cancel" maxwidth="-1">Batal</string>
+ <string name="action_add" description="action add files" maxwidth="-1">Tambah</string>
+ <string name="no_share_folder">Tiada fail yang dikongsi dalam peranti ini</string>
+ <string name="edit_toast_special_char">Tidak boleh memasukkan aksara khas</string>
+ <string name="delete_one_directory" description="Dialog Content: text in dialog" maxwidth="">Adakah anda ingin memadam direktori tersebut?</string>
+ <string name="type_dialog_title">Buka sebagai</string>
+ <string name="type_dialog_text">Teks</string>
+ <string name="type_dialog_image">Imej</string>
+ <string name="type_dialog_audio">Audio</string>
+ <string name="type_dialog_video">Video</string>
+ <string name="target_directory_is_child_of_source">Operasi tidak dapat dilengkapkan kerana direktori sasaran ialah anak kepada direktori sumber.</string>
+ <string name="edit_toast_name_too_long">Telah mencapai bilangan maksimum aksara</string>
+ <string name="settings_description">"Folder dan fail setempat"</string>
+ <string name="clear_account_info">Lupakan semua akaun</string>
+ <string name="type_rar" description="document type" maxwidth="-1">"RAR"</string>
+ <string name="set_ring">"Tetapkan Sebagai Cincin"</string>
+    <string name="action_zip" description="cutstom action bar view title for zip" maxwidth="">Mampatkan</string>
+    <string name="signout_account" description="signout account" width="-1">Putuskan sambungan</string>
+    <string name="cloud_storage_sign_out" description=">Do you want to signout" maxwidth="-1">Adakah anda pasti ingin mendaftar keluar?</string>
+    <string name="cloud_storage_sign_out_title" description="Dialog title: Signout cloud storage" maxwidth="-1">Putuskan sambungan</string>
+    <string name="cloud_storage_sign_in" description=">Do you want to signin" maxwidth="-1">Sambung menggunakan akaun berikut:</string>
+    <string name="cloud_storage_sign_in_title" description="Dialog title: Signin cloud storage" maxwidth="-1">Sambungkan %s</string>
+    <!-- start add for CTA check  -->
+    <string name="cta_dialog_title">"Menggunakan Rangkaian"</string>
+    <string name="cta_dialog_content"><b>Pengurus Fail</b> cuba menggunakan rangkaian, ia mungkin mengenakan caj lain bergantung pada langganan anda.</string>
+    <string name="cta_check_title">"Ingat"</string>
+    <string name="cta_agree">"Benarkan"</string>
+    <string name="cta_disagree">"Enggan"</string>
+    <string name="cta_show_menu">"Keizinan rangkaian"</string>
+    <!-- end add for CTA check  -->
+    <string name="move_to">Alih ke</string>
+    <string name="copy_to">Salin ke</string>
+    <string name="category_title_category">Kategori</string>
+    <string name="category_title_local_storage">Storan Tempatan</string>
+    <string name="category_image">Imej</string>
+    <string name="category_music">Muzik</string>
+    <string name="category_video">Video</string>
+    <string name="category_apk">Aplikasi</string>
+    <string name="category_download">Muat turun</string>
+    <string name="category_favorite">Kegemaran</string>
+    <string name="category_count">"%s"</string>
+    <string name="open">Buka</string>
+    <string name="add_favorite">Tambah ke Kegemaran</string>
+    <string name="remove_favorite">Alih keluar dari Kegemaran</string>
+    <string name="add_favorite_success">Simpan ke Kegemaran</string>
+    <string name="rename_favorite_folder">Namakan semula folder kegemaran</string>
+    <string name="rename_favorite_success">Berjaya menamakannya semula dan Simpan ke Kegemaran</string>
+    <string name="rename_favorite_notice">Sudah terdapat folder dengan nama yang sama dalam folder kegemaran, adakah anda ingin menamakannya semula?</string>
+    <string name="remove_favorite_notice_one">Adakah anda pasti ingin mengalih keluar \"%s\" dari folder kegemaran?</string>
+    <string name="remove_favorite_notice_more">Adakah anda pasti ingin mengalih keluar %d item dari folder kegemaran?</string>
+    <string name="remove_favorite_success">Berjaya alih keluar</string>
+    <string name="tutorial_skip">Langkau</string>
+    <string name="tutorial_done">Selesai</string>
+    <string name="tutorial_page_one_title">"Pengurus Fail ASUS"</string>
+    <string name="tutorial_page_one_content">Pengurus Fail ASUS membolehkan anda mengurus fail-fail anda yang disimpan dalam storan dalaman, luaran, rangkaian kawasan setempat atau awan dengan mudah.</string>
+    <string name="tutorial_page_two_title">Halaman utama</string>
+    <string name="tutorial_page_two_content">Kategori mudah untuk digunakan membolehkan anda mengakses fail anda dalam storan tempatan anda dengan cepat.</string>
+    <string name="tutorial_page_three_title">Leret ke kanan senarai tindakan</string>
+    <string name="tutorial_page_three_content">Leret item ke kanan untuk memaparkan tindakan seperti Tambah ke Kegemaran, Namakan Semula, Alih ke, Salin ke dan pilihan-pilihan pengurusan fail yang lain.</string>
+    <string name="tutorial_page_four_title">Kegemaran</string>
+    <string name="tutorial_page_four_content">Tetapkan folder yang kerap digunakan sebagai Kegemaran untuk mengakses folder dengan cepat dan mudah.</string>
+    <string name="saf_permission_tutorial_title">Minta akses untuk menjalankan kad SD</string>
+    <string name="saf_permission_tutorial_content">ASUS File Manager meminta akses untuk menjalankan kad SD anda. Adakah anda ingin memberikan akses?</string>
+    <string name="saf_tutorial_step_one">Ketik ikon Menu kemudian ketik Tunjukkan kad SD.</string>
+    <string name="saf_tutorial_step_two">Leret tepi kiri skrin untuk memaparkan laci kemudian ketik kad SD.</string>
+    <string name="saf_tutorial_step_three">Ketik Pilih kad SD untuk memberikan akses kepada Pengurus Fail ASUS.</string>
+    <string name="device_root_path">akar</string>
+    <string name="tap_to_exit">Ketik sekali lagi untuk keluar</string>
+    <string name="info_path" description="file info textview context" maxwidth="-1">"Laluan: "</string>
+    <string name="recruit_beta_user" description="recruit beta user" maxwidth="-1">Dapat Versi Pratonton</string>
+    <string name="rate_us" description="rate us" maxwidth="-1">Nilaikan kami</string>
+    <string name="scroll_up_toast" description="rate now" maxwidth="">Sila skrol ke atas untuk menilai</string>
+    <string name="settings_encourage_us_detail" description="recommend text" maxwidth="">Jika anda seronok menggunakan %s, sila nilaikan kami 5 bintang di Play Store. Ia pastinya satu galakan hebat untuk kami terus meningkatkan produk!</string>
+    <string name="yes">Ya</string>
+    <string name="menu_tutorial" description="settings menu tutorial" maxwidth="-1">Tutorial</string>
+    <string name="about">"Mengenai"</string>
+    <string name="version_text">versi</string>
+    <string name="tell_friend" description="" maxwidth="">Beritahu rakan</string>
+    <string name="toolbar_item_title_encourage_us" maxwidth="35">Galakkan kami</string>
+    <string name="zenui_update">"Kemas Kini Segera ZenUI"</string>
+    <string name="whats_new_label">Apa yang baharu</string>
+    <string name="next">Seterusnya</string>
+    <string name="invite_friends" description="sticker detail page button name" maxwidth="-1">"Jemput Rakan"</string>
+    <string name="news_mark1" maxwidth="">"★  "</string>
+</resources>

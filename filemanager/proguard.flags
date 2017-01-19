@@ -1,0 +1,222 @@
+#-dontshrink
+#-optimizationpasses 5
+#-dontusemixedcaseclassnames
+#-dontskipnonpubliclibraryclasses
+#-dontpreverify
+#-verbose
+-optimizations !code/simplification/arithmetic,!field/*,!class/merging/*
+#-dontobfuscate
+
+-dontskipnonpubliclibraryclassmembers
+-dontusemixedcaseclassnames
+-dontskipnonpubliclibraryclasses
+-verbose
+
+-dontoptimize
+-dontpreverify
+
+-ignorewarnings
+
+-keep public class * extends android.app.Activity
+-keep public class * extends android.app.Application
+-keep public class * extends android.app.Service
+-keep public class * extends android.content.BroadcastReceiver
+-keep public class * extends android.content.ContentProvider
+-keep public class * extends android.app.backup.BackupAgentHelper
+-keep public class * extends android.preference.Preference
+-keep public class com.android.vending.licensing.ILicensingService
+# for google navigation drawer begin (Steve123)
+-keepclassmembers public class android.support.v7.widget.LinearLayoutManager {*;}
+-keep class android.support.design.** {*;}
+-keep interface android.support.design.** {*;}
+# for google navigation drawer end
+
+-keepclasseswithmembernames class * {
+    native <methods>;
+}
+
+-keepclasseswithmembernames class * {
+    public <init>(android.content.Context, android.util.AttributeSet);
+}
+
+-keepclasseswithmembernames class * {
+    public <init>(android.content.Context, android.util.AttributeSet, int);
+}
+
+-keepclassmembers enum * {
+    public static **[] values();
+    public static ** valueOf(java.lang.String);
+}
+
+-keep class * implements android.os.Parcelable {
+  public static final android.os.Parcelable$Creator *;
+}
+
+-keep class android.os.** { *; }
+
+-dontwarn javax.xml.stream.**
+-dontwarn javax.swing.**
+-dontwarn org.apache.**
+-dontwarn org.apache.http.**
+-dontwarn org.jdom.**
+-dontwarn javax.**
+-dontwarn org.apache.commons.**
+-keep class org.apache.http.** { *; }
+-keep interface org.apache.http.**
+#-keep class com.google.android.gms.** { *; }
+#-dontwarn com.google.android.gms.**
+-dontwarn net.n3.nanoxml.**
+-dontwarn java.awt.**
+-dontwarn sun.net.spi.nameservice.**
+-dontwarn org.logicalcobwebs.proxool.**
+-dontwarn com.ecareme.utils.crypto.**
+-dontwarn com.ecareme.utils.log.**
+-dontwarn com.github.junrar.vfs2.provider.rar.RARFileObject
+-dontwarn com.github.junrar.vfs2.provider.rar.RARFileSystem
+
+-keepattributes Signature,RuntimeVisibleAnnotations,AnnotationDefault
+
+-keepclassmembers class * {
+  @com.google.api.client.util.Key <fields>;
+}
+
+# Needed by google-http-client-android when linking against an older platform version
+
+-dontwarn com.google.api.client.extensions.android.**
+
+# Needed by google-api-client-android when linking against an older platform version
+
+-dontwarn com.google.api.client.googleapis.extensions.android.**
+# Needed by google-play-services when linking against an older platform version
+#
+#-keep public class com.google.android.gms.analytics.** {
+#
+#    public protected *;
+#
+#}
+-keep public class com.google.android.gms.analytics.**, com.google.android.gms.common.**, com.google.android.gms.location.** {
+    public protected *;
+}
+
+-keep class com.google.android.gms.common.internal.safeparcel.SafeParcelable {
+    java.lang.String NULL;
+}
+
+-dontwarn com.google.android.gms.**
+
+# Firebase
+-keep public class com.google.firebase.** {
+   public *;
+}
+
+
+# DataCollectionSDK
+-keep class com.google.protobuf.** {
+public *;
+}
+
+# AsusUpdateSdk
+-keep class com.asus.updatesdk.** {
+public *;
+}
+
+# SafeParcelable
+-keep public class com.google.android.gms.common.internal.safeparcel.SafeParcelable {
+public static final *** NULL;
+}
+
+# Glide and GlideModule *�S��external�v���Υu��getApkLatestVersion�h���Υ[
+-keep public class * implements com.bumptech.glide.module.GlideModule
+-keep public enum com.bumptech.glide.load.resource.bitmap.ImageHeaderParser$** {
+**[] $VALUES;
+public *;
+}
+
+#### -- Support Library --
+
+# support-v4
+-dontwarn android.support.v4.**
+-keep class android.support.v4.app.** { *; }
+-keep interface android.support.v4.app.** { *; }
+-keep class android.support.v4.** { *; }
+
+# support-v7
+-dontwarn android.support.v7.**
+-keep class android.support.v7.internal.** { *; }
+-keep interface android.support.v7.internal.** { *; }
+-keep class android.support.v7.** { *; }
+
+# support design
+-keep class android.support.design.** { *; }
+
+# uservoiceSDK
+ #okhttp
+ -keepattributes Signature
+ -keepattributes *Annotation*
+ -keep class com.squareup.okhttp.** { *; }
+ -keep interface com.squareup.okhttp.** { *; }
+ -dontwarn com.squareup.okhttp.**
+ #okio
+ -keep class sun.misc.Unsafe { *; }
+ -dontwarn java.nio.file.*
+ -dontwarn org.codehaus.mojo.animal_sniffer.IgnoreJRERequirement
+ -dontwarn okio.**
+ -keep class org.apache.** {*;}
+ -dontwarn oauth.signpost.commonshttp.**
+ -dontwarn org.apache.commons.codec.binary.Base64
+ -keepnames class * implements android.os.Parcelable {
+     public static final ** CREATOR;
+ }
+
+#asusUi
+-keepclassmembers class * extends android.view.ActionProvider {
+    public protected <init>(...);
+}
+
+#DataSDK
+-keepclasseswithmembernames class com.asus.abcdatasdk.** {
+    native <methods>;
+}
+
+#TrustManager
+-keepclasseswithmembernames class javax.net.ssl.** {
+    native <methods>;
+}
+
+#jsoup
+-keep class org.jsoup.** { *; }
+
+# Reflection is used in the constructor of InflatedOnMenuItemClickListener and the method in MenuState
+-keep public class com.asus.commonui.shareactionwidget.ShareActionProvider
+
+# Used in calabash steps
+-keep public class com.asus.commonui.datetimepicker.date.DayPickerView
+-keep public class com.asus.commonui.datetimepicker.date.YearPickerView
+-keepclassmembers class com.asus.commonui.datetimepicker.time.RadialPickerLayout {
+    public void setTime(int ,int);
+}
+
+-dontwarn com.asus.commonui.**
+
+
+### -- end --
+
+
+
+-dontwarn com.asus.updatesdk.**
+-dontwarn com.bumptech.glide.**
+
+-keeppackagenames org.jsoup.nodes
+
+#for OTG
+-keep public class android.os.storage.DiskInfo{
+   public *;
+}
+-keep public class android.os.storage.StorageEventListener{
+   public *;
+}
+-keep public class android.os.storage.VolumeInfo{
+   public *;
+}
+# for Jsoup library
+-keeppackagenames org.jsoup.nodes

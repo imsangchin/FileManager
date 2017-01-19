@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="alarm_set">
+        <item>Alarme definido para menos de 1 minuto de agora.</item>
+        <item>Alarme definido para <ns1:g example="2 days" id="DAYS">%1$s</ns1:g> de agora.</item>
+        <item>Alarme definido para <ns1:g example="2 hours" id="HOURS">%2$s</ns1:g> de agora.</item>
+        <item>Alarme definido para <ns1:g example="2 days" id="DAYS">%1$s</ns1:g> e <ns1:g example="2 hours" id="HOURS">%2$s</ns1:g> de agora.</item>
+        <item>Alarme definido para <ns1:g example="2 minutes" id="MINUTES">%3$s</ns1:g> de agora.</item>
+        <item>Alarme definido para <ns1:g example="2 days" id="DAYS">%1$s</ns1:g> e <ns1:g example="2 minutes" id="MINUTES">%3$s</ns1:g> de agora.</item>
+        <item>Alarme definido para <ns1:g example="2 hours" id="HOURS">%2$s</ns1:g> e <ns1:g example="2 minutes" id="MINUTES">%3$s</ns1:g> de agora.</item>
+        <item>Alarme definido para <ns1:g example="2 days" id="DAYS">%1$s</ns1:g>, <ns1:g example="2 hours" id="HOURS">%2$s</ns1:g>, e <ns1:g example="2 minutes" id="MINUTES">%3$s</ns1:g> de agora.</item>
+    </string-array>
+    <string name="asus_commonui_activity_chooser_view_see_all">"Ver tudo"</string>
+    <string name="asus_commonui_activity_resolver_use_always">"Sempre"</string>
+    <string name="asus_commonui_activity_resolver_use_once">"Só uma vez"</string>
+    <string name="asus_commonui_activitychooserview_choose_application">"Selecione um aplicativo"</string>
+    <string name="asus_commonui_activitychooserview_choose_application_error">
+        "Não foi possível iniciar o <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string name="asus_commonui_cancel_label">"Cancelar"</string>
+    <string name="asus_commonui_chooseActivity">"Escolher uma ação"</string>
+    <string msgid="3968620852217927702" name="asus_commonui_day_picker_description">"Grade mensal de dias"</string>
+    <string msgid="6908431551612331381" name="asus_commonui_deleted_key">"<ns1:g id="KEY">%1$s</ns1:g> excluído"</string>
+    <string name="asus_commonui_done_label">"OK"</string>
+    <string msgid="7586639618712934060" name="asus_commonui_hour_picker_description">"Controle deslizante circular das horas"</string>
+    <string msgid="2674929164900463786" name="asus_commonui_item_is_selected">"<ns1:g id="ITEM">%1$s</ns1:g> selecionado"</string>
+    <string msgid="6024811202872705251" name="asus_commonui_minute_picker_description">"Controle deslizante circular dos minutos"</string>
+    <string name="asus_commonui_noApplications">"Nenhum aplicativo pode realizar esta ação."</string>
+    <string name="asus_commonui_no_url_handler">Nenhum app encontrado para abrir o URL</string>
+    <string name="asus_commonui_privacy_policy">Política de privacidade</string>
+    <string name="asus_commonui_privacy_policy_url">http://www.asus.com/BR/Terms_of_Use_Notice_Privacy_Policy/Privacy_Policy</string>
+    <string msgid="3973338219107019769" name="asus_commonui_select_day">"Selecione o mês e o dia"</string>
+    <string msgid="7651068754188418859" name="asus_commonui_select_hours">"Selecione as horas"</string>
+    <string msgid="8327182090226828481" name="asus_commonui_select_minutes">"Selecione os minutos"</string>
+    <string msgid="2603330600102539372" name="asus_commonui_select_year">"Selecione o ano"</string>
+    <string name="asus_commonui_shareactionprovider_share_with">"Compartilhar com"</string>
+    <string name="asus_commonui_shareactionprovider_share_with_application">
+        "Compartilhar com <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string name="asus_commonui_terms_of_use_notice">Termos de notificação de uso</string>
+    <string name="asus_commonui_terms_of_use_notice_url">http://www.asus.com/BR/Terms_of_Use_Notice_Privacy_Policy/Official_Site/</string>
+    <string name="asus_commonui_whichApplication">"Complete a ação usando"</string>
+    <string name="asus_commonui_whichHomeApplication">"Selecione um aplicativo de tela inicial"</string>
+    <string msgid="6963340404644587098" name="asus_commonui_year_picker_description">"Lista de anos"</string>
+    <string name="day">"1 dia"</string>
+    <string name="days">"<ns1:g id="days">%s</ns1:g> dias</string>
+    <string name="hour">1 hora</string>
+    <string name="hours"><ns1:g id="hours">%s</ns1:g> horas</string>
+    <string name="minute">"1 minuto"</string>
+    <string name="minutes">"<ns1:g id="minutes">%s</ns1:g> minutos"</string>
+</resources>

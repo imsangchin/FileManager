@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/setup_fingerprint_dialog_padding_top_and_bottom"
+    android:paddingLeft="@dimen/setup_fingerprint_dialog_padding_left_and_right"
+    android:paddingRight="@dimen/setup_fingerprint_dialog_padding_left_and_right"
+    android:paddingTop="@dimen/setup_fingerprint_dialog_padding_top_and_bottom" >
+
+    <ImageView
+        android:layout_width="@dimen/setup_fingerprint_dialog_icon_width"
+        android:layout_height="@dimen/setup_fingerprint_dialog_icon_height"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="@dimen/setup_fingerprint_dialog_padding_top_and_bottom"
+        android:src="@drawable/ic_fingerprint_in_dialog" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:id="@+id/text_fingerprint_message"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="Roboto Regular"
+            android:text="@string/setup_fingerprint_message"
+            android:textSize="@dimen/setup_fingerprint_dialog_message_font_size"
+            android:textColor="?category_text_color" />
+    </ScrollView>
+
+</LinearLayout>

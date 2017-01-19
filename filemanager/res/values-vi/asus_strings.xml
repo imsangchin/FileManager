@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="file_manager" description="Application Name shown on title" maxwidth="">Quản lý file</string>
+    <string name="ok" description="Dialog Button: ok for dialog" maxwidth="">OK</string>
+    <string name="no" description="Dialog Button: no for dialog" maxwidth="">Không</string>
+    <string name="cancel" description="Dialog Button: cancel for dialog" maxwidth="">Hủy</string>
+    <string name="select_all" description="Menu Option: select all checkbox" maxwidth="">Chọn tất cả</string>
+    <string name="clear_all" description="Menu Option: clear all checkbox" maxwidth="">Bỏ chọn tất cả</string>
+    <string name="open_fail" description="Toast: open file fails" maxwidth="-1">Ko thể mở file.</string>
+    <string name="permission_deny" description="Toast: operation permission deny" maxwidth="-1">Giấy phép bị từ chối.</string>
+    <string name="target_exist" description="Toast: target file exists" maxwidth="-1">File m.tiêu đã tồn tại.</string>
+    <string name="target_folder_exist" description="Toast: target folder exists. %s is variable string." maxwidth="-1">Thư mục \"%s\" đã tồn tại.</string>
+    <string name="rename" description="Context Menu: options of context menu" maxwidth="">Đổi tên</string>
+    <string name="rename_dialog" description="Dialog Title: rename dialog title" maxwidth="">Đổi tên</string>
+    <string name="rename_fail" description="Toast: rename fails" maxwidth="-1">Ko thể đổi tên file.</string>
+    <string name="delete" description="Context Menu: options of context menu" maxwidth="">Xóa</string>
+    <string name="delete_dialog" description="Dialog Title: delete dialog title" maxwidth="">Xóa file</string>
+    <string name="delete_one_files" description="Dialog Content: text in dialog" maxwidth="">Bạn muốn xóa file này?</string>
+    <string name="delete_more_files" description="Dialog Content: text in dialog. %d is variable number." maxwidth="">Bạn muốn xóa các mục %d?</string>
+    <string name="delete_size" description="Dialog Content: text in dialog" maxwidth="">"K.thước: "</string>
+    <string name="delete_progress" description="Progress Content: text in progress dialog" maxwidth="">Đang xóa...</string>
+    <string name="delete_fail" description="Toast: delete fails" maxwidth="-1">Ko thể xóa file.</string>
+    <string name="delete_success_one" description="Toast: delete success. %s is variable string." maxwidth="-1">\"%s\" đã bị xóa.</string>
+    <string name="delete_success_more" description="Toast: delete success" maxwidth="-1">Các file vừa chọn đã bị xóa.</string>
+    <string name="new_folder_dialog" description="Dialog Title: create new folder" maxwidth="">Tạo thư mục mới</string>
+    <string name="new_folder_fail" description="Toast: new folder fails" maxwidth="-1">Ko thể tạo thư mục mới.</string>
+    <string name="new_folder_success" description="Toast: new folder success. %s is variable string." maxwidth="-1">Đã tạo thư mục \"%s\".</string>
+    <string name="copy" description="Context Menu: options of context menu" maxwidth="">Chép</string>
+    <string name="copy_ready_one" description="Toast: copy ready. %s is variable string." maxwidth="-1">\"%s\" đã được chép và sẵn sàng dán.</string>
+    <string name="copy_ready_more" description="Toast: copy ready" maxwidth="-1">Các file vừa chọn đã được chép và sẵn sàng dán.</string>
+    <string name="cut" description="Context Menu: options of context menu" maxwidth="">Cắt</string>
+    <string name="cut_ready_one" description="Toast: cut ready. %s is variable string." maxwidth="-1">\"%s\" đã được cắt và sẵn sàng dán.</string>
+    <string name="cut_ready_more" description="Toast: cut ready" maxwidth="-1">Các file vừa chọn đã được cắt và sẵn sàng dán.</string>
+    <string name="paste" description="Context Menu: options of context menu" maxwidth="">Dán</string>
+    <string name="paste_exist_dialog" description="Dialog Title: paste exist dialog title" maxwidth="">Trùng tên file</string>
+    <string name="paste_exist_file" description="Dialog Content: text in dialog. %s is variable string." maxwidth="">File \"%s\" đã tồn tại.</string>
+    <string name="paste_exist_replace" description="Dialog Content: text in dialog" maxwidth="">Bạn muốn thay thế bằng file mới?</string>
+    <string name="paste_exist_to" description="Dialog Content: text in dialog" maxwidth="">Đến</string>
+    <string name="paste_exist_apply" description="Dialog Content: text in dialog" maxwidth="">Áp dụng cho tất cả</string>
+    <string name="paste_progress" description="Progress Content: text in progress dialog" maxwidth="">Đang dán...</string>
+    <string name="paste_fail" description="Toast: paste fails" maxwidth="-1">Ko thể dán file.</string>
+    <string name="paste_success" description="Toast: paste success. %s is variable string." maxwidth="-1">Các file đã được thêm vào \"%s\".</string>
+    <!-- Guoliang_Lin, 2011/04/01, UI required, new feature -->
+    <string name="no_space_fail" description="Toast: No space to copy file and left on device" maxwidth="-1">Thiếu bộ nhớ</string>
+    <!-- Guoliang Lin, 2011/04/27, UI required, new feature -->
+    <string name="action_add_folder" description="cutstom action bar view title for add folder" maxwidth="-1">Thêm thư mục</string>
+    <string name="action_hind_system_file" description="cutstom action bar view title for hinde system file" maxwidth="-1">Ẩn các file hệ thống</string>
+    <string name="deselect_all" description="cutstom action bar view title for deselect all checkbox" maxwidth="">Bỏ chọn tất cả</string>
+    <!-- Guoliang Lin, 2011/05/11, UI required, new feature -->
+    <string name="file_info_dialog_title" description="Dialog Title: File information dialog title" maxwidth="-1">Thông tin file</string>
+    <string name="dir_info_dialog_title" description="Dialog Title: Directory information dialog title" maxwidth="-1">Thông tin thư mục</string>
+    <string name="info" description="Context Menu: options of context menu" maxwidth="-1">Thông tin</string>
+    <string name="info_name" description="file info textview context" maxwidth="-1">"Tên: "</string>
+    <string name="info_file_num" description="file info textview context" maxwidth="-1">"File: "</string>
+    <string name="info_permission" description="file info textview context" maxwidth="-1">"Giấy phép: "</string>
+    <string name="info_modified" description="file info textview context" maxwidth="-1">"Ngày sửa đổi: "</string>
+    <!-- Guoliang Lin, 2011/05/27, UI required, new feature -->
+    <string name="action_about" description="cutstom action bar view title for about" maxwidth="-1">Giới thiệu</string>
+    <!-- Johnson Chen, 2011/08/05, UI required, new feature -->
+    <string name="select_folder" description="Title: select the folder" maxwidth="-1">Chọn thư mục</string>
+    <string name="invalid_directory_path" description="Invalid directory path" maxwidth="-1">Đ.dẫn thư mục ko hợp lệ</string>
+    <string name="short_cuts_title" description="shortcit title" maxwidth="-1">Phím tắt</string>
+    <string name="type" description="button text for sort file by type" maxwidth="-1">Loại</string>
+    <string name="name" description="button text for sort file by name" maxwidth="-1">Tên</string>
+    <string name="size" description="button text for sort file by size" maxwidth="-1">K.thước</string>
+    <string name="date" description="button text for sort file by date" maxwidth="-1">Ngày</string>
+    <string name="name_ascending" description="button text for sort file by name ascending" maxwidth="-1">Tên (z-a)</string>
+    <string name="name_descending" description="button text for sort file by name descending" maxwidth="-1">Tên (a-z)</string>
+    <string name="size_ascending" description="button text for sort file by size ascending" maxwidth="-1">K.thước (lớn-nhỏ)</string>
+    <string name="size_descending" description="button text for sort file by size descending" maxwidth="-1">K.thước (nhỏ-lớn)</string>
+    <string name="date_ascending" description="button text for sort file by date ascending" maxwidth="-1">Ngày (cũ nhất-mới nhất)</string>
+    <string name="date_descending" description="button text for sort file by date descending" maxwidth="-1">Ngày (mới nhất-cũ nhất)</string>
+    <string name="my_storage_title" description="storage label" maxwidth="-1">Bộ nhớ của tôi</string>
+    <string name="internal_storage_title" description="storage label" maxwidth="-1">Bộ nhớ trong</string>
+    <string name="my_picture_title" description="shortcut label" maxwidth="-1">Hình</string>
+    <string name="my_camera_title" description="shortcut label" maxwidth="-1">Camera</string>
+    <string name="my_music_title" description="shortcut label" maxwidth="-1">Nhạc</string>
+    <string name="my_download_title" description="shortcut label" maxwidth="-1">Tải về</string>
+    <string name="dialog_create_zip_title" description="compress dialog title" maxwidth="-1">Nhập tên lưu trữ</string>
+    <string name="zip_progress_msg" description="compress dialog message" maxwidth="-1">Đang xử lý...</string>
+    <string name="zip_fail" description="toast message: Compress files fail" maxwidth="-1">Không thể nén file</string>
+    <string name="zip_success" description="toast message: Compress files successly" maxwidth="-1">Nén file thành công</string>
+    <string name="search_label" description="cutstom action bar view title for search" maxwidth="-1">Tìm kiếm file</string>
+    <string name="search_progress" description="search dialog message" maxwidth="-1">Đang tìm..</string>
+    <string name="location" description="button text for sort file by date" maxwidth="-1">Địa điểm</string>
+    <plurals name="number_search_items">
+        <item quantity="one">"Đã tìm thấy %d tập tin"</item>
+        <item quantity="other">"Đã tìm thấy %d tập tin"</item>
+    </plurals>
+    <string name="search_result_title" description=" text for search result" formatted="false" maxwidth="-1">Đang tìm %s trong %s: Đã tìm thấy %d file</string>
+    <string name="dialog_extract_zip_title" description="extract zip file dialog title. %s is a dynamic string. It is zip file name." maxwidth="-1">Xuất %s sang:</string>
+    <string name="unzip_progress_msg" description="extract file dialog message" maxwidth="-1">Đang xuất...</string>
+    <string name="unzip_fail" description="toast message: extract files fail" maxwidth="-1">Không thể xuất file</string>
+    <string name="unzip_success" description="toast message: extract files successly" maxwidth="-1">Đã xuất file thành công</string>
+    <string name="action_clear_history" description="cutstom action bar view title for clear search history" maxwidth="">Xóa hết lược sử tìm kiếm</string>
+    <plurals name="drag_items">
+        <item quantity="one">Kéo mục</item>
+        <item quantity="other">Kéo các mục</item>
+    </plurals>
+    <string name="drag_items_one">Kéo mục</string>
+    <string name="drag_items_other">Kéo các mục</string>
+    <string name="toast_drag_copied_items" description="Toast: The item(s) has been copied completely" maxwidth="-1">(Các) mục đã được sao chép hoàn toàn</string>
+    <string name="toast_warning_copy_folders" description="Toast: Sorry, copy folders has not been supported" maxwidth="-1">Rất tiếc, chép thư mục không được hỗ trợ</string>
+    <string name="toast_warning_copy_comple_cut_fail" description="Toast: Sorry, copy files complete but cut fail" maxwidth="-1">Rất tiếc, chép file đã hoàn tất nhưng ko thể xóa file cũ</string>
+    <string name="toast_drag_moved_items" description="Toast: The item(s) has been moved completely" maxwidth="-1">(Các) mục đã được di chuyển hoàn toàn</string>
+    <string name="move" description="Hint: move the items" maxwidth="-1">Di chuyển</string>
+    <string name="drop_target_to" description="Hint: the target folder which you want to do something" maxwidth="-1">Mục tiêu:</string>
+    <string name="drop_incorrect_hint" description="Hint: the operation is incorrect" maxwidth="-1">Thao tác sai</string>
+    <!-- Willie Huang, 2012/01/20, UI required, new feature -->
+    <string name="dialog_unzip_preview_title" description="show zip info dialog title. %s is a dynamic string. Is is a zip file name" maxwidth="-1">Xuất %s</string>
+    <string name="extract" description="Dialog Button: extract file for dialog" maxwidth="-1">Xuất</string>
+    <plurals name="dialog_unzip_preview_size_text">
+        <item quantity="one">Tổng: %1$d file, %2$s</item>
+        <item quantity="other">Tổng: %1$d file, %2$s</item>
+    </plurals>
+    <string name="encode" description="Dialog Button: click to open the encoding list dialog" maxwidth="-1">Bảng mã văn bản</string>
+    <string name="dialog_text_encoding_title" description="text encoding dialog title" maxwidth="-1">Bảng mã văn bản</string>
+    <string-array name="charset_array">
+        <item>"Latin-1 (ISO-8859-1)"</item>
+        <item>"Unicode (UTF-8)"</item>
+        <item>"Tiếng Hoa (GBK)"</item>
+        <item>"Tiếng Hoa (Big5)"</item>
+        <item>"Tiếng Nhật (ISO-2022-JP)"</item>
+        <item>"Tiếng Nhật (SHIFT_JIS)"</item>
+        <item>"Tiếng Nhật (EUC-JP)"</item>
+        <item>"Tiếng Hàn (EUC-KR)"</item>
+    </string-array>
+    <!-- Willie Huang, 2012/03/28, UI required, new feature -->
+    <string name="info_aperture" description="file info textview context" maxwidth="-1">"Khẩu độ: "</string>
+    <string name="info_datetime" description="file info textview context" maxwidth="-1">"Ngày chụp: "</string>
+    <string name="info_exposure_time" description="file info textview context" maxwidth="-1">"T.lượng p.sáng: "</string>
+    <string name="info_flash" description="file info textview context" maxwidth="-1">"Đèn flash: "</string>
+    <string name="info_focal_length" description="file info textview context" maxwidth="-1">"Tiêu cự: "</string>
+    <string name="info_image_height" description="file info textview context" maxwidth="-1">"Chiều cao: "</string>
+    <string name="info_image_x" description="file info textview context" maxwidth="-1">" x "</string>
+    <string name="info_image_width" description="file info textview context" maxwidth="-1">"Chiều rộng"</string>
+    <string name="info_iso" description="file info textview context" maxwidth="-1">"ISO:"</string>
+    <string name="info_location" description="file info textview context" maxwidth="-1">"Địa điểm: "</string>
+    <string name="info_maker" description="file info textview context" maxwidth="-1">"Hãng s.xuất: "</string>
+    <string name="info_model" description="file info textview context" maxwidth="-1">"Mẫu: "</string>
+    <string name="info_orientation" description="file info textview context" maxwidth="-1">"Định hướng: "</string>
+    <string name="info_white_balance" description="file info textview context" maxwidth="-1">"Cân bằng trắng: "</string>
+    <string name="flash_on" description="string indicating camera flash is fired" maxwidth="-1">Đã bật đèn flash</string>
+    <string name="flash_off" description="string indicating camera flash is not used" maxwidth="-1">Ko đèn flash</string>
+    <string name="unit_mm" description="string indicating the length units in milli-meters" maxwidth="-1">mm</string>
+    <string name="manual" description="string indicating how camera shooting feature is used" maxwidth="-1">Thủ công</string>
+    <string name="auto" description="string indicating how camera shooting feature is used" maxwidth="-1">Tự động</string>
+    <!-- Guoliang_Lin, 2012/03/20, UI required, new feature -->
+    <string name="wait">Hãy đợi\u2026</string>
+    <!-- Johnson Chen, 2012/04/13, UI required, new feature -->
+    <string name="select_album">Chọn album</string>
+    <string name="select_photo">Chọn ảnh chụp</string>
+    <string name="back_button_label" description="button text." maxwidth="-1">Trở về</string>
+    <!-- Willie Huang, 2012/05/18, UI required, new feature -->
+    <string name="action_apply_selected_file" description="View title of custom action bar, apply to multiple selected files" maxwidth="-1">Áp dụng</string>
+    <!-- Willie Huang, 2013/01/03, UI required, new feature -->
+    <string name="loading" description="text for progress bar" maxwidth="-1">Đang tải\u2026</string>
+    <string name="version" description="version" maxwidth="-1">Phiên bản</string>
+    <string name="title" description="title" maxwidth="-1">Thông tin pháp lý:</string>
+    <string name="content" description="content" maxwidth="-1">Sử dụng phần mềm này theo các điều khoản và điều kiện trên trang web ASUS: \nhttp://www.asus.com</string>
+    <string name="action_share" description="cutstom action bar view title for sharing" maxwidth="-1">Chia sẻ</string>
+    <!-- Johnson Chen, 2012/05/18, UI required, new feature-->
+    <string name="photo_selection_limit_number_toast" description="Toast: You may not select more than %s photos." maxwidth="-1">Chọn tối đa %s ảnh chụp</string>
+    <!-- Alex6 Lin, -->
+    <string name="action_sort_by" description="String for asking for the rule of sorting" maxwidth="-1">Xếp theo</string>
+    <plurals name="number_selected_items">
+        <item quantity="one">Đã chọn %d</item>
+        <item quantity="other">Đã chọn %d</item>
+    </plurals>
+    <string name="info_type" description="file info textview context" maxwidth="-1">"Kiểu: "</string>
+    <string name="type_document" description="document type" maxwidth="-1">Tài liệu</string>
+    <string name="type_audio" description="document type" maxwidth="-1">Âm thanh</string>
+    <string name="type_video" description="document type" maxwidth="-1">Video</string>
+    <string name="type_playlist" description="document type" maxwidth="-1">DS nhạc</string>
+    <string name="type_image" description="document type" maxwidth="-1">Hình ảnh</string>
+    <string name="type_book" description="document type" maxwidth="-1">Sách điện tử</string>
+    <string name="type_zip" description="document type" maxwidth="-1">Nén</string>
+    <string name="type_apk" description="document type" maxwidth="-1">Ứ.dụng Android</string>
+    <string name="type_abu" description="document type" maxwidth="-1">S.lưu ứ.dụng Asus</string>
+    <string name="type_file" description="document type" maxwidth="-1">File</string>
+    <string name="type_directory" description="document type" maxwidth="-1">Thư mục</string>
+    <string name="search_action">Tìm kiếm</string>
+    <string name="fileList_Nofiles">Ko có file</string>
+    <!-- Johnson Chen, 2012/05/18, UI required, new feature-->
+    <string name="wifidirect_available_devices" description="Available devices" maxwidth="-1">Thiết bị có sẵn</string>
+    <string name="wifidirect_connect_hint_title" description="Dialog title text: Invitation to connect" maxwidth="-1">Thư mời kết nối</string>
+    <string name="wifidirect_connect_hint" description="Do you want to connect to device" maxwidth="-1">Bạn muốn kết nối với</string>
+    <string name="wifidirect_connecting_hint_title" description="Dialog title text: Wi-Fi Direct connecting" maxwidth="-1">Đang kết nối Wi-Fi Direct...</string>
+    <string name="wifidirect_disconnect_hint" description=">Do you want to disconnect" maxwidth="-1">Bạn muốn ngắt kết nối với</string>
+    <string name="shared_folder" description="Context Menu: options of context menu: share folder via Wi-Fi Direct" maxwidth="">Chia sẻ qua Wi-Fi Direct</string>
+    <string name="unshared_folder" description="Context Menu: options of context menu: unshare folder" maxwidth="-1">Ko chia sẻ</string>
+    <string name="remote_storage_title" description="remote storage label" maxwidth="-1">Bộ nhớ từ xe</string>
+    <string name="remote_connected_error_hint" description="network is unavailable, please try again" maxwidth="-1">Mạng không có sẵn, hãy thử lại</string>
+    <string name="wifidirect_peer_device_title" description="peer devices title" maxwidth="-1">T.bị ngang hàng</string>
+    <string name="wifidirect_scanning" description="searching" maxwidth="-1">Đang tìm..</string>
+    <string name="wifidirect_touch_to_connect" description="click to connect" maxwidth="-1">Nhấp để kết nối</string>
+    <string name="wifidirect_connectted" description="connectted" maxwidth="-1">Đã kết nối</string>
+    <string name="wifidirect_action_bar_scan" description="search" maxwidth="-1">Tìm kiếm</string>
+    <string name="wifidirect_storage_title" description="Search Wi-Fi Direct device" maxwidth="-1">Tìm thiết bị Wi-Fi Direct</string>
+    <string name="wifidirect_peer_device_info" description="peer devices infomation" maxwidth="-1">"Để nhận thư mời Wi-Fi Direct, đảm bảo thiết bị kết nối của bạn vẫn nằm trên trang \"T.bị ngang hàng\" trong Quản lý file."</string>
+    <string name="wifidirect_disconnect_hint_title" description="Disconnect Wi-Fi Direct" maxwidth="-1">Ngắt kết nối Wi-Fi Direct</string>
+    <string name="wifi_p2p_turn_on_wifi_title" description="title for turn on WiFi dialog" width="-1">Bật Wi-Fi</string>
+    <string name="wifi_p2p_turn_on_wifi_msg" description="message for request to turn on Wi-Fi" width="-1">Bật Wi-Fi để dùng các dịch vụ Wi-Fi Direct. Bật Wi-Fi ngay?</string>
+    <!-- Johnson Chen, 2013/03/22, UI required, new feature-->
+    <string name="cloud_storage_title" description="Add more cloud storage" maxwidth="-1">Thêm nhiều bộ nhớ đám mây</string>
+    <string name="add_cloud_storage_dialog_title" description="Dialog title: Add cloud storage" maxwidth="-1">Thêm bộ nhớ đám mây</string>
+    <string name="cloud_storage_remove_hint" description=">Do you want to remove" maxwidth="-1">Bạn muốn đăng xuất tài khoản \"%s\"?</string>
+    <string name="cloud_storage_remove_hint_title" description="Dialog title: Remove cloud storage" maxwidth="-1">Đăng xuất</string>
+    <string name="add_progress" description="Progress Content: text in progress dialog" maxwidth="">Đang tạo...</string>
+    <string name="logging_cloud_storage" description="Progress Content: text in progress dialog" maxwidth="">Đang đ.nhập...</string>
+    <string name="wifi_p2p_connection_msg" description="message for request to connect Network" width="-1">Hãy thiết lập kết nối mạng để sử dụng các dịch vụ đám mây.</string>
+    <string name="wifi_p2p_connection_title" description="title for request to connect Network" width="-1">Thiết lập kết nối mạng</string>
+    <string name="logout_account" description="logout account" width="-1">Đăng xuất</string>
+    <string name="renaming_file" description="renaming file" width="-1">Đang đổi tên</string>
+    <string name="rename_success" description="Toast: rename success" maxwidth="-1">Đổi tên file thành công.</string>
+    <string name="login_fail" description="Toast: login account fail" width="-1">Ko thể đ.nhập</string>
+    <string name="starred" description="shortcut title: my favorite files" width="-1">Có dấu sao</string>
+    <string name="recently_used" description="shortcut title: recently used files" width="-1">Gần đây</string>
+    <string name="trash_can" description="shortcut title: trash can" width="-1">Thùng rác</string>
+    <!-- Settings Page -->
+    <string name="menu_general_preferences" description="The title of a menu for General Preferences.Pressing the menu item lets user to view and edit his general settings" maxwidth="30">Cài đặt chung</string>
+    <string name="preferences_title" description="This is the title of the screen for setting user preferences." maxwidth="-1">Cài đặt</string>
+    <string name="settings_space_used" description="This is the title of space used for setting user preferences." maxwidth="-1">D.lượng đã dùng</string>
+    <string name="settings_clear_search_history" description="This is the title of clearing search history action for setting user preferences." maxwidth="-1">Xóa hết lược sử tìm kiếm</string>
+    <string name="settings_hide_system_files" description="This is the title of hiding system files action for setting user preferences." maxwidth="-1">Ẩn các file hệ thống</string>
+    <string name="settings_trash_can" description="This is the title of trash can information for setting user preferences." maxwidth="-1">Thùng rác</string>
+    <string name="settings_moved_to_the_trash_can" description="This is the title of moving to the trash can." maxwidth="-1">Đã chuyển vào Thùng rác</string>
+    <string name="settings_user_name" description="This is the title of user name" maxwidth="-1">Tên đăng nhập</string>
+    <string name="settings_documents_cache" description="This is the title of documents cache" maxwidth="-1">BN cache tài liệu</string>
+    <string name="settings_cache_size_title" description="This is the title of cache size" maxwidth="-1">Cỡ BN cache</string>
+    <string name="settings_set_cache_size" description="Set the cache size to %s" maxwidth="-1">Cỡ BN cache đc cài sang \"%s\"</string>
+    <string name="settings_clear_cache_title" description="Clear the cache" maxwidth="-1">Xóa hết BN cache</string>
+    <string name="settings_clear_cache_info" description="Remove all cache documents" maxwidth="-1">Xóa mọi tài liệu trên BN cache</string>
+    <string name="settings_remove_account" description="Remove account" maxwidth="-1">Xóa tài khoản</string>
+    <string name="drawer_open">Mở ngăn kéo điều hướng</string>
+    <string name="drawer_close">Đóng ngăn kéo điều hướng</string>
+    <!-- begin add new server -->
+    <string name="samba_storage_title">"SAMBA"</string>
+    <string name="samba_storage_add_title">Địa điểm mạng</string>
+    <string name="server_title">Máy chủ</string>
+    <string name="domain">Tên miền:</string>
+    <string name="domain_hint">Có thể trống</string>
+    <string name="server">Máy chủ:</string>
+    <string name="server_hint">"172.0.0.1/ShareFolder"</string>
+    <string name="example">Ví dụ:</string>
+    <string name="user">Tên đăng nhập</string>
+    <string name="user_hint">quản trị viên</string>
+    <string name="password">Mật khẩu</string>
+    <string name="display">Hiển thị như</string>
+    <string name="display_hint">Máy tính của tôi có thể trống</string>
+    <string name="samba_input_error">tên đăng nhập hoặc mật khẩu ko thể trống!</string>
+    <string name="samba_client_config_check" description="account config dialog remind message" maxwidth="-1">Nhớ tên đăng nhập và mật khẩu, kết nối trực tiếp lần sau</string>
+    <string name="pullfreshlistview_header_hint_normal">Kéo xuống</string>
+    <string name="pullfreshlistview_header_hint_ready">Nhả để nạp lại</string>
+    <string name="pullfreshlistview_header_hint_loading">Đang nạp lại...</string>
+    <string name="pullfreshlistview_header_last_time">T.gian nạp lại gần nhất:</string>
+    <string name="pullfreshlistview_footer_hint_normal">Tải thêm</string>
+    <string name="pullfreshlistview_footer_hint_ready">Nhả để tải thêm</string>
+    <string name="cloud_preview_action_fail" description="Toast: cloud preview action" maxwidth="-1">ko thể xem trước file đám mây.</string>
+    <string name="cloud_share_action_fail" description="Toast: cloud share action" maxwidth="-1">ko thể chia sẻ file đám mây.</string>
+    <string name="cloud_paste_backgroud" description="diaglog cloud background paste">Phông nền</string>
+    <string name="cloud_paste_uploading" description="diaglog cloud  paste uploading">Đang tải file lên</string>
+    <string name="cloud_paste_downloading" description="diaglog cloud  paste">Đang tải file về</string>
+    <string name="cloud_paste_total" description="diaglog cloud  total">Tổng số</string>
+    <string name="cloud_paste_current" description="diaglog cloud  current">Hiện hành</string>
+    <string name="cloud_paste_copying" description="diaglog cloud  now is copy files">Đang chép...</string>
+    <string name="cloud_paste_deleting" description="diaglog cloud  now is delete source files">Đang xóa các file nguồn...</string>
+    <string name="cloud_token_invalidate" description="diaglog cloud  token is invalidate">Danh tính không hợp lệ, hãy đăng nhập lại!</string>
+    <string name="cloud_homebox_status_offline" description="home cloud device is offline">Thiết bị ngoại tuyến</string>
+    <string name="cloud_homebox_status__info_offline" description="home cloud device is offline">Ngoại tuyến</string>
+    <string name="cloud_homebox_status__info_online" description="home cloud device is online">Trực tuyến</string>
+    <string name="cloud_homebox_status__info_Sleep" description="home cloud device is sleep">C.độ chờ</string>
+    <string name="cloud_homebox_no_available_devices" description="home cloud has no available devices">Ko có sẵn các thiết bị Home Cloud</string>
+    <string name="cloud_homebox_get_devices_fail" description="home cloud get available devices fail">Không thể dò tìm các thiết bị HomeCloud có sẵn</string>
+<!--  <string name="cloud_paste_string_format"  description="diaglog cloud  paste string format" maxwidth="-1">%d / %d</string>-->
+    <string name="storage_type_cloud">Bộ nhớ đám mây</string>
+    <string name="storage_type_local">Bộ nhớ ĐT</string>
+    <string name="storagetype_add_account">Thêm t.khoản Google</string>
+    <string name="network_cta_hint">hãy chấp nhận để kết nối với mạng</string>
+ <string name="action_refresh_cloudfile">Nạp lại</string>
+ <string name="baidu_storage_title">"百度云"</string>
+ <string name="dialog_load_stream_url_info">Đang tìm nạp thông tin cần thiết từ máy chủ</string>
+ <string name="paste_progress_title">T.vụ sao chép khác đang chạy...</string>
+ <string name="single_drm_file_forbidden_operation">Thao tác này bị cấm do được bảo vệ bởi DRM.</string>
+ <string name="multi_drm_file_forbidden_operation">Thao tác này bị cấm do một số file đã chọn được bảo vệ bởi DRM.</string>
+ <string name="samba_login_error">Tên đăng nhập hoặc mật khẩu vừa nhập không đúng.</string>
+     <string name="action_search" description="cutstom action bar view title for search" maxwidth="">Tìm kiếm</string>
+ <string name="cloud_upload_flie_limit_space" description="Toast: The size is over the limit and cannot be uploaded" maxwidth="-1">Không thể tải file lên. Cỡ file vượt quá giới hạn tối đa.</string>
+ <string name="cloud_download_flie_limit_space" description="Toast: The size is over the limit and cannot be uploaded" maxwidth="-1">Không thể tải về file này. Cỡ file vượt quá giới hạn tối đa.</string>
+ <string name="invalid_account" description="Toast: the account is invalid" maxwidth="-1">T.khoản ko hợp lệ</string>
+ <string name="homecloud_access_error" description="Can’t connect to HomeCloud." maxwidth="-1">Không thể kết nối HomeCloud. Xin đảm bảo dịch vụ HomeCloud đang trực tuyến.</string>
+ <string name="cloud_flie_name_not_supported" description="Toast: The name of the file uploaded is not supported by cloud server" maxwidth="-1">Không thể hoàn tất thao tác vì tên file không được hỗ trợ bởi máy chủ đám mây.</string>
+ <string name="action_cancel" description="action cancel" maxwidth="-1">Hủy</string>
+ <string name="action_add" description="action add files" maxwidth="-1">Thêm</string>
+ <string name="no_share_folder">Ko có file chia sẻ trong thiết bị này</string>
+ <string name="edit_toast_special_char">Ko thể bao gồm ký tự đặc biệt</string>
+ <string name="delete_one_directory" description="Dialog Content: text in dialog" maxwidth="">Bạn có muốn xóa danh mục?</string>
+ <string name="type_dialog_title">Mở dạng</string>
+ <string name="type_dialog_text">Văn bản</string>
+ <string name="type_dialog_image">Hình ảnh</string>
+ <string name="type_dialog_audio">Âm thanh</string>
+ <string name="type_dialog_video">Video</string>
+ <string name="target_directory_is_child_of_source">Không thể hoàn tất thao tác vì thư mục đích là con của thư mục nguồn.</string>
+ <string name="edit_toast_name_too_long">Đã quá số ký tự tối đa</string>
+ <string name="settings_description">"Thư mục và tập tin trên thiết bị"</string>
+ <string name="clear_account_info">Quên mọi tài khoản</string>
+ <string name="type_rar" description="document type" maxwidth="-1">"RAR"</string>
+ <string name="set_ring">"Đặt làm chuông"</string>
+    <string name="action_zip" description="cutstom action bar view title for zip" maxwidth="">Nén</string>
+    <string name="signout_account" description="signout account" width="-1">Ngắt kết nối</string>
+    <string name="cloud_storage_sign_out" description=">Do you want to signout" maxwidth="-1">Bạn có chắc muốn đăng xuất?</string>
+    <string name="cloud_storage_sign_out_title" description="Dialog title: Signout cloud storage" maxwidth="-1">Ngắt kết nối</string>
+    <string name="cloud_storage_sign_in" description=">Do you want to signin" maxwidth="-1">Kết nối bằng tài khoản sau:</string>
+    <string name="cloud_storage_sign_in_title" description="Dialog title: Signin cloud storage" maxwidth="-1">Kết nối %s</string>
+    <!-- start add for CTA check  -->
+    <string name="cta_dialog_title">"Sử dụng mạng"</string>
+    <string name="cta_dialog_content"><b>Trình quản lý Tập tin</b> sẽ thử sử dụng mạng, có thể áp dụng các cước phí khác tùy thuộc vào các gói thuê bao của bạn.</string>
+    <string name="cta_check_title">"Ghi nhớ"</string>
+    <string name="cta_agree">"Cho phép"</string>
+    <string name="cta_disagree">"Từ chối"</string>
+    <string name="cta_show_menu">"Giấy phép mạng"</string>
+    <!-- end add for CTA check  -->
+    <string name="move_to">Chuyển đến</string>
+    <string name="copy_to">Chép vào</string>
+    <string name="category_title_category">Hạng mục</string>
+    <string name="category_title_local_storage">Bộ nhớ ĐT</string>
+    <string name="category_image">Hình ảnh</string>
+    <string name="category_music">Nhạc</string>
+    <string name="category_video">Video</string>
+    <string name="category_apk">Ứ.dụng</string>
+    <string name="category_download">Tải về</string>
+    <string name="category_favorite">Mục yêu thích</string>
+    <string name="category_count">"%s"</string>
+    <string name="open">Mở</string>
+    <string name="add_favorite">Thêm vào Mục yêu thích</string>
+    <string name="remove_favorite">Xóa khỏi Mục yêu thích</string>
+    <string name="add_favorite_success">Lưu vào Mục yêu thích</string>
+    <string name="rename_favorite_folder">Đổi tên thư mục yêu thích</string>
+    <string name="rename_favorite_success">Đổi tên thành công và lưu vào Mục yêu thích</string>
+    <string name="rename_favorite_notice">Đã có thư mục trùng tên trong thư mục yêu thích, bạn có muốn đổi tên?</string>
+    <string name="remove_favorite_notice_one">Bạn có chắc muốn xóa \"%s\" khỏi thư mục yêu thích?</string>
+    <string name="remove_favorite_notice_more">Bạn có chắc muốn xóa các mục %d khỏi thư mục yêu thích?</string>
+    <string name="remove_favorite_success">Xóa thành công</string>
+    <string name="tutorial_skip">Bỏ qua</string>
+    <string name="tutorial_done">Xong</string>
+    <string name="tutorial_page_one_title">Quản lý file ASUS</string>
+    <string name="tutorial_page_one_content">Quản lý file ASUS cho phép bạn dễ dàng quản lý các file lưu trên các bộ nhớ trong, ngoài, mạng nội bộ hoặc đám mây.</string>
+    <string name="tutorial_page_two_title">Trang chủ</string>
+    <string name="tutorial_page_two_content">Các mục tiện dụng cho phép bạn truy cập nhanh các file trong bộ nhớ ĐT.</string>
+    <string name="tutorial_page_three_title">Vuốt DS thao tác sang phải</string>
+    <string name="tutorial_page_three_content">Vuốt một mục sang phải để hiển thị các thao tác như Thêm vào Mục yêu thích, Đổi tên, Chuyển sang, Chép vào và các tùy chọn quản lý file khác.</string>
+    <string name="tutorial_page_four_title">Mục yêu thích</string>
+    <string name="tutorial_page_four_content">Cài thư mục thường dùng làm Mục yêu thích để truy cập các thư mục nhanh và dễ.</string>
+    <string name="saf_permission_tutorial_title">Yêu cầu truy cập để dùng thẻ SD</string>
+    <string name="saf_permission_tutorial_content">Quản lý file ASUS yêu cầu truy cập để dùng thẻ SD của bạn. Bạn có muốn cấp phép?</string>
+    <string name="saf_tutorial_step_one">Chạm b.tượng Menu rồi chạm Hiển thị thẻ SD.</string>
+    <string name="saf_tutorial_step_two">Vuốt mép trái màn hình để hiển thị ngăn kéo rồi chạm thẻ SD.</string>
+    <string name="saf_tutorial_step_three">Chạm Chọn thẻ SD để cấp phép truy cập Quản lý file ASUS.</string>
+    <string name="device_root_path">gốc</string>
+    <string name="tap_to_exit">Chạm lại để thoát</string>
+    <string name="info_path" description="file info textview context" maxwidth="-1">"Đ.dẫn: "</string>
+    <string name="recruit_beta_user" description="recruit beta user" maxwidth="-1">Tải phiên bản xem thử</string>
+    <string name="rate_us" description="rate us" maxwidth="-1">X.hạng chúng tôi</string>
+    <string name="scroll_up_toast" description="rate now" maxwidth="">Hãy cuộn lên để xếp hạng</string>
+    <string name="settings_encourage_us_detail" description="recommend text" maxwidth="">Nếu bạn thích thú khi sử dụng Trợ %s, hãy xếp hạng chúng tôi 5 sao trên Play Store. Đó sẽ là sự khích lệ lớn đối với chúng tôi để tiếp tục cải tiến sản phẩm!</string>
+    <string name="yes">Có</string>
+    <string name="menu_tutorial" description="settings menu tutorial" maxwidth="-1">Hướng dẫn</string>
+    <string name="about">"Giới thiệu"</string>
+    <string name="version_text">phiên bản</string>
+    <string name="tell_friend" description="" maxwidth="">Thông báo cho bạn bè</string>
+    <string name="toolbar_item_title_encourage_us" maxwidth="35">Khích lệ chúng tôi</string>
+    <string name="zenui_update">"Bản cập nhật nhanh ZenUI"</string>
+    <string name="whats_new_label">Có gì mới?</string>
+    <string name="next">Kế tiếp</string>
+    <string name="invite_friends" description="sticker detail page button name" maxwidth="-1">"Mời bạn bè"</string>
+    <string name="news_mark1" maxwidth="">"★  "</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Sylvia Cheng, 2016/03/22, Setting page -->
+    <string name="action_settings" description="menu title for setting" maxwidth="-1">"Nastavení"</string>
+    <string name="setting_view_group">"Zobrazit nastavení"</string>
+    <string name="setting_view_hide_files">"Skrýt systémové soubory"</string>
+    <string name="setting_notification_group">"Upozornění"</string>
+    <string name="setting_notification_large_files">"Upozornění na velké soubory"</string>
+    <string name="setting_notification_recent_files">"Upozornění na nedávné soubory"</string>
+    <string name="setting_notification_wireless_transfer">"Upozornění na bezdrátový přenos"</string>
+    <string name="setting_display_group">"Zobrazení"</string>
+    <string name="tools_storage_analyzer">"Analyzátor úložiště"</string>
+    <string name="tools_zenui_instant_update">"Okamžitá aktualizace"</string>
+    <string name="category_others">"Ostatní"</string>
+    <string name="large_files_content_hint">"Vyhledejte velké soubory a odstraňte je na základě svých oprávnění."</string>
+    <string name="recent_files_content_hint">"Vyhledejte nedávné soubory a odstraňte je na základě svých oprávnění."</string>
+    <string name="fragment_analyzer_more_hint">"více"</string>
+    <string name="fragment_analyzer_chart_total_hint">"Celkem:"</string>
+    <string name="fragment_analyzer_chart_free_hint">"Volné:"</string>
+    <string name="fragment_analyzer_chart_used_hint">"VYUŽITÉ"</string>
+    <string name="fragment_analyzer_allfiles_used_hint">"Využité:"</string>
+    <string name="news_v31" maxwidth="">"Analyzátor úložiště umožňuje zjistit typ souborů, které zabírají veškerou úložnou kapacitu"</string>
+    <string name="news_v32" maxwidth="">"Nově vylepšená kategorie aplikací"</string>
+</resources>

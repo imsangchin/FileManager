@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Sylvia Cheng, 2016/03/22, Setting page -->
+    <string name="action_settings" description="menu title for setting" maxwidth="-1">"Sätted"</string>
+    <string name="setting_view_group">"Kuva säte"</string>
+    <string name="setting_view_hide_files">"Peida süsteemifailid"</string>
+    <string name="setting_notification_group">"Teavitus"</string>
+    <string name="setting_notification_large_files">"Suur failiteavitus"</string>
+    <string name="setting_notification_recent_files">"Hiljutised failiteavitused"</string>
+    <string name="setting_notification_wireless_transfer">"Raadioedastuse teavitus"</string>
+    <string name="setting_display_group">"Kuva"</string>
+    <string name="tools_storage_analyzer">"Talletusruumi analüüsija"</string>
+    <string name="tools_zenui_instant_update">"Silmapilkne värskendus"</string>
+    <string name="category_others">"Muud"</string>
+    <string name="large_files_content_hint">"Leia suured failid ja kustuta need teie loal."</string>
+    <string name="recent_files_content_hint">"Leia hiljutised failid ja kustuta need teie loal."</string>
+    <string name="fragment_analyzer_more_hint">"veel"</string>
+    <string name="fragment_analyzer_chart_total_hint">"Kokku:"</string>
+    <string name="fragment_analyzer_chart_free_hint">"Vaba:"</string>
+    <string name="fragment_analyzer_chart_used_hint">"KASUTATUD"</string>
+    <string name="fragment_analyzer_allfiles_used_hint">"Kasutatud:"</string>
+    <string name="news_v31" maxwidth="">"Talletusruumi analüüsija annab teada, millised failid hõivasid kogu talletusruumi"</string>
+    <string name="news_v32" maxwidth="">"Värskelt täiustatud rakendusekategooria"</string>
+</resources>

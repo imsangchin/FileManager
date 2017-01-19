@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Category sorting -->
+    <string name="category_sorting_summary">"Chọn các mục hiển thị trên bảng đ.khiển hạng mục"</string>
+    <string name="category_toast_invalid_item_size_9">"Hãy chọn 9 mục"</string>
+    <string name="category_toast_invalid_item_size_6_or_9">"Hãy chọn 6 hoặc 9 mục"</string>
+    <string name="category_toast_invalid_remove">"Không thể xóa mục này"</string>
+    <string name="category_toast_max_item_size">"Chọn tối đa 9 mục"</string>
+    <string name="category_image1" maxwidth="11">"Hình ảnh"</string>
+    <string name="category_video1" maxwidth="11">"Video"</string>
+    <string name="category_music1" maxwidth="11">"Nhạc"</string>
+    <string name="category_download1" maxwidth="11">"File tải về"</string>
+    <string name="category_favorite1" maxwidth="11">"Mục yêu thích"</string>
+    <string name="category_app1" maxwidth="11">"Ứng dụng"</string>
+    <string name="category_document1" maxwidth="11">"Tài liệu"</string>
+    <string name="category_compressed1" maxwidth="11">"Đã nén"</string>
+    <string name="category_large_file1" maxwidth="11">"File lớn"</string>
+    <string name="category_recent1" maxwidth="11">"Gần đây"</string>
+</resources>

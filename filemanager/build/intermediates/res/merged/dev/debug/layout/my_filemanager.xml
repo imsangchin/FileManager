@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <include layout="@layout/toolbar" />
+
+        <android.support.v4.widget.DrawerLayout
+            android:id="@+id/drawer_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            >
+
+            <!-- include your content layout -->
+            <FrameLayout
+                android:id="@+id/fragment_container"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/preview_background" >
+
+                <fragment
+                    android:id="@+id/homepage"
+                    android:name="com.asus.filemanager.activity.HomePageFragment"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+
+                <fragment
+                    android:id="@+id/filelist"
+                    android:name="com.asus.filemanager.activity.FileListFragment"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+
+                <fragment
+                    android:id="@+id/searchlist"
+                    android:name="com.asus.filemanager.activity.SearchResultFragment"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+            <!--fragment
+android:id="@+id/recyclebin"
+                    android:name="com.asus.filemanager.activity.RecycleBinFragment"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+            <fragment
+                    android:id="@+id/hiddenzone"
+                    android:name="com.asus.filemanager.activity.HiddenZoneFragment"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"/-->
+            </FrameLayout>
+
+            <!-- Navigation view -->
+            <!-- white background is workaournd for unknow green block background-->
+            <!-- invisible drawer_header is workaround for unknow top padding if remove app:headerLayout -->
+            <android.support.design.widget.NavigationView
+                android:id="@+id/navigation_view"
+                android:theme="@style/NavigationViewThememAppCompatLightNoActionBar"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:background="@color/drawer_background"
+                app:itemTextColor="@color/drawer_item_title"
+                android:layout_gravity="start"
+                app:headerLayout="@layout/drawer_header"
+                app:menu="@menu/drawer_view" />
+        </android.support.v4.widget.DrawerLayout>
+    </LinearLayout>
+
+</android.support.design.widget.CoordinatorLayout>

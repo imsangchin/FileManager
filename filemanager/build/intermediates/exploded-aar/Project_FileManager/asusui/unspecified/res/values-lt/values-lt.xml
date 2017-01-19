@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="alarm_set">
+        <item>"Žadintuvo signalas skambės mažiau nei po 1 minutės skaičiuojant nuo dabar."</item>
+        <item>"Žadintuvo signalas skambės po <ns1:g example="2" id="DAYS">%1$s</ns1:g> skaičiuojant nuo dabar."</item>
+        <item>"Žadintuvo signalas skambės po <ns1:g example="2" id="HOURS">%2$s</ns1:g> skaičiuojant nuo dabar."</item>
+        <item>"Žadintuvo signalas skambės po <ns1:g example="2" id="DAYS">%1$s</ns1:g> ir <ns1:g example="2" id="HOURS">%2$s</ns1:g> skaičiuojant nuo dabar."</item>
+        <item>"Žadintuvo signalas skambės po <ns1:g example="2" id="MINUTES">%3$s</ns1:g> skaičiuojant nuo dabar."</item>
+        <item>"Žadintuvo signalas skambės po <ns1:g example="2" id="DAYS">%1$s</ns1:g> ir <ns1:g example="2" id="MINUTES">%3$s</ns1:g> skaičiuojant nuo dabar."</item>
+        <item>"Žadintuvo signalas skambės po <ns1:g example="2" id="HOURS">%2$s</ns1:g> ir <ns1:g example="2" id="MINUTES">%3$s</ns1:g> skaičiuojant nuo dabar."</item>
+        <item>"Žadintuvo signalas skambės po <ns1:g example="2" id="DAYS">%1$s</ns1:g>, <ns1:g example="2" id="HOURS">%2$s</ns1:g> ir <ns1:g example="2" id="MINUTES">%3$s</ns1:g> skaičiuojant nuo dabar."</item>
+    </string-array>
+    <string name="asus_commonui_activity_chooser_view_see_all">Žiūrėti visus</string>
+    <string name="asus_commonui_activity_resolver_use_always">Visada</string>
+    <string name="asus_commonui_activity_resolver_use_once">Tik kartą</string>
+    <string name="asus_commonui_activitychooserview_choose_application">Pasirinkti programą</string>
+    <string name="asus_commonui_activitychooserview_choose_application_error">Klaida</string>
+    <string name="asus_commonui_cancel_label">Atšaukti</string>
+    <string name="asus_commonui_chooseActivity">Pasirinkti veiksmą</string>
+    <string name="asus_commonui_day_picker_description">Mėnesio dienų tinklelis</string>
+    <string name="asus_commonui_deleted_key">
+        <ns1:g example="4" id="key">%1$s</ns1:g> pašalinta</string>
+    <string name="asus_commonui_done_label">Gerai</string>
+    <string name="asus_commonui_hour_picker_description">Apskritas valandų slankiklis</string>
+    <string name="asus_commonui_item_is_selected">
+        <ns1:g example="2013" id="item">%1$s</ns1:g> pasirinkta</string>
+    <string name="asus_commonui_minute_picker_description">Apskritas minučių slankiklis</string>
+    <string name="asus_commonui_noApplications">Jokia taikomoji programa negali atlikti šio veiksmo</string>
+    <string name="asus_commonui_no_url_handler">Nerasta programa, kuria butų galima atidaryti URL</string>
+    <string name="asus_commonui_select_day">Pasirinkti mėnesį ir dieną</string>
+    <string name="asus_commonui_select_hours">Pasirinkti valandas</string>
+    <string name="asus_commonui_select_minutes">Pasirinkti minutes</string>
+    <string name="asus_commonui_select_year">Pasirinkti metus</string>
+    <string name="asus_commonui_shareactionprovider_share_with">Bendrinti (kam)</string>
+    <string name="asus_commonui_shareactionprovider_share_with_application">Bendrinti (kam)</string>
+    <string name="asus_commonui_whichApplication">Baigti veiksmą naudojant</string>
+    <string name="asus_commonui_whichHomeApplication">Pasirinkti pagrindinę programą</string>
+    <string name="asus_commonui_year_picker_description">Metų sąrašas</string>
+    <string name="day">"1 dienos"</string>
+    <string name="days">"<ns1:g id="days">%s</ns1:g> dienų"</string>
+    <string name="hour">"1 valandos"</string>
+    <string name="hours">"
+        <ns1:g id="hours">%s</ns1:g> valandų"</string>
+    <string name="minute">"1 minutės"</string>
+    <string name="minutes">"<ns1:g id="minutes">%s</ns1:g> minučių"</string>
+</resources>

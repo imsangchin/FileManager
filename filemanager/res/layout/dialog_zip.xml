@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_gravity="center"
+	android:background="?dialog_backgroundColor" >
+    <TextView
+        android:id="@+id/zip_extension"
+        android:layout_height="wrap_content"
+	    android:layout_width="wrap_content"
+	    android:layout_centerVertical="true"
+	    android:layout_alignParentRight="true"
+	    android:textSize="20dp"
+		android:textColor="?text_color"
+		android:background="?dialog_backgroundColor"
+        />
+   <EditText
+        android:id="@+id/edit_name"
+        android:layout_toStartOf="@id/zip_extension"
+        android:layout_toLeftOf="@id/zip_extension"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical|left"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:inputType="textCapSentences|textNoSuggestions"
+        android:imeOptions="actionDone"
+	    android:background="?edittext_background" />
+   <TextView android:id="@+id/edit_toast"
+	            android:layout_height="wrap_content"
+	            android:layout_width="wrap_content"
+	            android:layout_below="@+id/edit_name"
+	            android:textColor="@color/edit_toast_color"
+	            android:textSize="@dimen/edit_toast_textsize"
+	            android:visibility="gone"/>
+</RelativeLayout>
+<!-- <LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent">
+    <EditText android:id="@+id/edit_name"
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:singleLine="true"
+        android:inputType="textCapSentences|textNoSuggestions"
+        android:imeOptions="actionDone">
+    </EditText>
+    <TextView android:id="@+id/zip_extension"
+	            android:layout_height="wrap_content"
+	            android:layout_width="wrap_content"
+	            android:textColor="@color/edit_toast_color"
+	            android:textSize="@dimen/edit_toast_textsize"
+	            />
+</LinearLayout> -->

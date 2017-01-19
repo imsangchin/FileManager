@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="alert_title" description="Dialog title" maxwidth="-1">注意</string>
+    <string name="alert_title_update" description="Dialog title" maxwidth="-1">建議更新</string>
+
+    <string name="alert_msg_not_found" description="ASUS ZenUI Services is not found on device" maxwidth="-1">尚未安裝ASUS ZenUI Services\n\n下載並安裝?</string>
+    <string name="alert_msg_client_update" description="Client app is not support, need update client app" maxwidth="-1">%1$s 有新的版本，建議現在安裝。</string>
+    <string name="alert_msg_azs_update" description="ASUS ZenUI Services is not support, need update ASUS ZenUI Services" maxwidth="-1">%1$s 需要最新版的 ASUS ZenUI Services，建議現在安裝。</string>
+
+    <string name="alert_cb_msg" description="Don't remind me again" maxwidth="-1">不再提醒</string>
+
+</resources>

@@ -1,0 +1,1314 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="alarm_set">
+        <item msgid="6450913786084215050">"将闹钟设置为从现在起不到 1 分钟后提醒"</item>
+        <item msgid="6002066367368421848">"将闹钟设置为从现在起 <ns1:g id="DAYS">%1$s</ns1:g>后提醒"</item>
+        <item msgid="8824719306247973774">"将闹钟设置为从现在起 <ns1:g id="HOURS">%2$s</ns1:g>后提醒"</item>
+        <item msgid="8182406852935468862">"将闹钟设置为从现在起 <ns1:g id="DAYS">%1$s</ns1:g> <ns1:g id="HOURS">%2$s</ns1:g>后提醒"</item>
+        <item msgid="2532279224777213194">"将闹钟设置为从现在起 <ns1:g id="MINUTES">%3$s</ns1:g>后提醒"</item>
+        <item msgid="5936557894247187717">"将闹钟设置为从现在起 <ns1:g id="DAYS">%1$s</ns1:g> <ns1:g id="MINUTES">%3$s</ns1:g>后提醒"</item>
+        <item msgid="9115697840826129603">"将闹钟设置为从现在起 <ns1:g id="HOURS">%2$s</ns1:g> <ns1:g id="MINUTES">%3$s</ns1:g>后提醒"</item>
+        <item msgid="2332583385137381060">"将闹钟设置为从现在起 <ns1:g id="DAYS">%1$s</ns1:g> <ns1:g id="HOURS">%2$s</ns1:g> <ns1:g id="MINUTES">%3$s</ns1:g>后提醒"</item>
+    </string-array>
+    <string-array name="charset_array">
+        <item>"拉丁语-1 (ISO-8859-1)"</item>
+        <item>"Unicode (UTF-8)"</item>
+        <item>"中文 (GBK)"</item>
+        <item>"中文 (Big5)"</item>
+        <item>"日语 (ISO-2022-JP)"</item>
+        <item>"日语 (SHIFT_JIS)"</item>
+        <item>"日语 (EUC-JP)"</item>
+        <item>"韩语 (EUC-KR)"</item>
+    </string-array>
+    <string-array name="country_names">
+        <item>阿鲁巴</item>
+        <item>阿富汗 (جمهوری اسلامی افغانستان)</item>
+        <item>安哥拉 (República de Angola)</item>
+        <item>安圭拉</item>
+        <item>阿尔巴尼亚 (Shqipëri)</item>
+        <item>安道尔 (Principat d\'Andorra)</item>
+        <item>荷属安的列斯</item>
+        <item>阿拉伯联合酋长国 (دولة الإمارات العربية المتحدة‎)</item>
+        <item>阿根廷 (República Argentina)</item>
+        <item>亚美尼亚 (Hayastan)</item>
+        <item>美属萨摩亚</item>
+        <item>南极洲</item>
+        <item>法国南部领地</item>
+        <item>安提瓜和巴布达</item>
+        <item>澳大利亚 (Australia)</item>
+        <item>奥地利 (Österreich)</item>
+        <item>阿塞拜疆</item>
+        <item>布隆迪</item>
+        <item>比利时 (België)</item>
+        <item>贝宁</item>
+        <item>布基纳法索</item>
+        <item>孟加拉国 (বাংলাদেশ)</item>
+        <item>保加利亚 (България / Balgariya)</item>
+        <item>巴林 (مملكة البحرين)</item>
+        <item>巴哈马</item>
+        <item>波斯尼亚/黑塞哥维那 (Bosna i Hercegovina)</item>
+        <item>白俄罗斯 (Беларусь)</item>
+        <item>伯利兹</item>
+        <item>百慕大</item>
+        <item>玻利维亚</item>
+        <item>巴西</item>
+        <item>巴巴多斯</item>
+        <item>文莱 (بروني دارالسلام)</item>
+        <item>不丹</item>
+        <item>布韦岛</item>
+        <item>博茨瓦纳 (Lefatshe la Botswana)</item>
+        <item>中非共和国 (République centrafricaine)</item>
+        <item>加拿大</item>
+        <item>科科斯（基林）群岛</item>
+        <item>瑞士 (Suisse)</item>
+        <item>智利</item>
+        <item>中国</item>
+        <item>科特迪瓦</item>
+        <item>喀麦隆</item>
+        <item>刚果</item>
+        <item>库可群岛</item>
+        <item>哥伦比亚</item>
+        <item>科摩罗</item>
+        <item>佛得角</item>
+        <item>哥斯达黎加</item>
+        <item>古巴</item>
+        <item>圣诞岛 </item>
+        <item>开曼群岛</item>
+        <item>塞浦路斯 (Euro)</item>
+        <item>捷克共和国 (Česká republika)</item>
+        <item>德国 (Deutschland)</item>
+        <item>吉布提</item>
+        <item>多米尼克</item>
+        <item>丹麦 (Danmark)</item>
+        <item>多米尼加共和国</item>
+        <item>阿尔及利亚</item>
+        <item>厄瓜多尔</item>
+        <item>埃及 (مصر‎)</item>
+        <item>厄立特里亚</item>
+        <item>西撒哈拉</item>
+        <item>西班牙 (España)</item>
+        <item>爱沙尼亚 (Eesti)</item>
+        <item>埃塞俄比亚</item>
+        <item>芬兰 (Suomi)</item>
+        <item>斐济</item>
+        <item>福克兰群岛</item>
+        <item>法国 (France)</item>
+        <item>比利时 (Belgique)</item>
+        <item>法罗群岛</item>
+        <item>密克罗尼西亚</item>
+        <item>加蓬</item>
+        <item>英国 (United Kingdom)</item>
+        <item>格鲁吉亚 (საქართველო)</item>
+        <item>加纳</item>
+        <item>直布罗陀</item>
+        <item>几内亚</item>
+        <item>瓜德罗普</item>
+        <item>冈比亚</item>
+        <item>几内亚比绍</item>
+        <item>赤道几内亚</item>
+        <item>希腊 (Ελλάδα)</item>
+        <item>格林纳达</item>
+        <item>格陵兰</item>
+        <item>危地马拉</item>
+        <item>法属圭亚那</item>
+        <item>关岛</item>
+        <item>圭亚那</item>
+        <item>香港</item>
+        <item>赫德和麦克唐纳群岛</item>
+        <item>洪都拉斯</item>
+        <item>克罗地亚 (Hrvatska)</item>
+        <item>海地</item>
+        <item>匈牙利 (Magyarország)</item>
+        <item>印度尼西亚 Republik Indonesia)</item>
+        <item>印度 (भारत गणराज्य )</item>
+        <item>英属印度洋领地</item>
+        <item>爱尔兰 (Ireland)</item>
+        <item>伊朗 (ایران)</item>
+        <item>伊拉克 (العراق)</item>
+        <item>冰岛 (Ísland)</item>
+        <item>以色列 (מְדִינַת יִשְׂרָאֵל  /  دَوْلَةُ إِسْرَائِيلَ)</item>
+        <item>意大利 (Italia)</item>
+        <item>牙买加</item>
+        <item>约旦 (L\'Ürdünn)</item>
+        <item>日本 (日本国)</item>
+        <item>哈萨克斯坦</item>
+        <item>肯尼亚 (Jamhuri ya Kenya)</item>
+        <item>吉尔吉斯斯坦</item>
+        <item>柬埔寨 (कम्बोजदेश)</item>
+        <item>基里巴斯</item>
+        <item>圣基茨和尼维斯</item>
+        <item>韩国 (대한민국)</item>
+        <item>科威特 (دولة الكويت)</item>
+        <item>老挝</item>
+        <item>黎巴嫩 (اَلْجُمْهُورِيَّة اَللُّبْنَانِيَّة)</item>
+        <item>利比里亚</item>
+        <item>利比亚</item>
+        <item>圣卢西亚</item>
+        <item>列支敦士登 (Liechtenstein)</item>
+        <item>斯里兰卡 (இலங்கை ஜனநாயக சமத்துவ)</item>
+        <item>莱索托</item>
+        <item>立陶宛 (Lietuva)</item>
+        <item>卢森堡 (Lëtzebuerg)</item>
+        <item>拉脱维亚 (Latvija)</item>
+        <item>澳门           </item>
+        <item>摩洛哥</item>
+        <item>摩纳哥 (Monaco)</item>
+        <item>摩尔多瓦 (Moldova)</item>
+        <item>马达加斯加</item>
+        <item>马尔代夫</item>
+        <item>墨西哥</item>
+        <item>马绍尔群岛</item>
+        <item>马其顿</item>
+        <item>马里</item>
+        <item>马耳他 (Malta)</item>
+        <item>缅甸 (Pyidaunzu Thanmăda Myăma Nainngandaw)</item>
+        <item>蒙古</item>
+        <item>北马里亚纳群岛</item>
+        <item>莫桑比克</item>
+        <item>毛里塔尼亚</item>
+        <item>蒙特塞拉特</item>
+        <item>马提尼克 (Martinique)</item>
+        <item>毛里求斯 (Republik Moris)</item>
+        <item>马拉维</item>
+        <item>马来西亚 (Persekutuan Malaysia)</item>
+        <item>马约特岛</item>
+        <item>纳米比亚</item>
+        <item>新喀里多尼亚 (Nouvelle-Calédonie)</item>
+        <item>尼日尔</item>
+        <item>诺福克岛 (Norfuk Ailen)</item>
+        <item>尼日利亚 (Republik Nijeriya)</item>
+        <item>尼加拉瓜</item>
+        <item>纽埃</item>
+        <item>荷兰 (Nederland)</item>
+        <item>挪威 (Norge)</item>
+        <item>尼泊尔 (सङ्घीय लोकतान्त्रिक गणतन्त्र नेपाल)</item>
+        <item>瑙鲁</item>
+        <item>新西兰 (New Zealand)</item>
+        <item>阿曼 (لطنة عمان)</item>
+        <item>巴基斯坦 (پاکِستان)</item>
+        <item>巴拿马</item>
+        <item>皮特凯恩群岛</item>
+        <item>秘鲁</item>
+        <item>菲律宾 (Pilipinas)</item>
+        <item>帕劳</item>
+        <item>巴布亚新几内亚</item>
+        <item>波兰 (Polska)</item>
+        <item>波多黎各</item>
+        <item>朝鲜</item>
+        <item>葡萄牙 (Portugal)</item>
+        <item>巴拉圭</item>
+        <item>法属波利尼西亚</item>
+        <item>卡塔尔</item>
+        <item>留尼汪岛</item>
+        <item>罗马尼亚 (România)</item>
+        <item>俄罗斯 (Россия)</item>
+        <item>卢旺达</item>
+        <item>沙特阿拉伯 (المملكة العربية السعودية)</item>
+        <item>塞尔维亚和黑山</item>
+        <item>苏丹 (جمهورية السودان)</item>
+        <item>塞内加尔</item>
+        <item>新加坡 (Singapore)</item>
+        <item>南乔治亚岛和南桑威奇群岛</item>
+        <item>圣赫勒拿</item>
+        <item>斯瓦尔巴和扬马延群岛</item>
+        <item>所罗门群岛 (Solomon Islands)</item>
+        <item>塞拉利昂</item>
+        <item>萨尔瓦多</item>
+        <item>圣马力诺 (San Marino)</item>
+        <item>索马里</item>
+        <item>圣皮埃尔和密克隆 (St. Pierre and Miquelon)</item>
+        <item>圣多美和普林西比</item>
+        <item>苏里南</item>
+        <item>斯洛伐克 (Slovensko)</item>
+        <item>斯洛文尼亚 (Slovenija)</item>
+        <item>瑞典 (Sverige)</item>
+        <item>斯威士兰 (Swatini)</item>
+        <item>塞舌尔</item>
+        <item>叙利亚 (جمهورية العربية السورية)</item>
+        <item>特克斯和凯科斯群岛</item>
+        <item>乍得</item>
+        <item>多哥</item>
+        <item>泰国 (ราชอาณาจักรไทย)</item>
+        <item>塔吉克斯坦</item>
+        <item>托克劳群岛</item>
+        <item>土库曼斯坦</item>
+        <item>东帝汶      </item>
+        <item>汤加</item>
+        <item>特立尼达和多巴哥</item>
+        <item>突尼斯</item>
+        <item>土耳其 (Türkiye)</item>
+        <item>图瓦卢</item>
+        <item>台湾</item>
+        <item>坦桑尼亚</item>
+        <item>乌干达 (Jamhuri ya Uganda)</item>
+        <item>乌克兰 (Україна)</item>
+        <item>美国本土外小岛屿</item>
+        <item>乌拉圭</item>
+        <item>美国</item>
+        <item>乌兹别克斯坦</item>
+        <item>梵蒂冈城国 (Stato della Città del Vaticano)</item>
+        <item>圣文森特和格林纳丁斯</item>
+        <item>委内瑞拉</item>
+        <item>英属维尔京群岛</item>
+        <item>美属维尔京群岛</item>
+        <item>越南 (Việt Nam)</item>
+        <item>瓦努阿图</item>
+        <item>瓦利斯群岛和富图纳群岛</item>
+        <item>萨摩亚群岛</item>
+        <item>也门</item>
+        <item>南非 (Republiek van Suid-Afrika)</item>
+        <item>扎伊尔</item>
+        <item>赞比亚</item>
+        <item>津巴布韦 (Simudzai Mureza wedu WeZimbabwe)</item>
+    </string-array>
+    <plurals name="dialog_unzip_preview_size_text">
+        <item quantity="one">总计:%1$d个文件%2$s</item>
+        <item quantity="other">总计:%1$d个文件%2$s</item>
+    </plurals>
+    <plurals name="drag_items">
+        <item quantity="one">拖曳项目</item>
+        <item quantity="other">拖曳一个以上的项目</item>
+    </plurals>
+    <plurals name="number_search_items">
+        <item quantity="one">"已找到 %d 文件"</item>
+        <item quantity="other">"已找到 %d 文件"</item>
+    </plurals>
+    <plurals name="number_selected_items">
+        <item quantity="one">已选 %d 个</item>
+        <item quantity="other">已选 %d 个</item>
+    </plurals>
+    <plurals name="uf_sdk_number_of_subscribers_format">
+        <item quantity="one">%1$s 个人赞了这个主题</item>
+        <item quantity="other">%1$s 个人赞了这个主题</item>
+    </plurals>
+    <plurals name="uf_sdk_topics">
+        <item quantity="one">主题</item>
+        <item quantity="other">主题</item>
+    </plurals>
+    <plurals name="uv_comments">
+        <item quantity="one">评论</item>
+        <item quantity="other">评论</item>
+    </plurals>
+    <plurals name="uv_number_of_subscribers_format">
+        <item quantity="one">%1$s 喜欢这个意见</item>
+        <item quantity="other">%1$s 喜欢这个意见</item>
+    </plurals>
+    <plurals name="uv_people">
+        <item quantity="one">人</item>
+        <item quantity="other">人</item>
+    </plurals>
+    <plurals name="uv_subscribers">
+        <item quantity="one">订阅者</item>
+        <item quantity="other">订阅者</item>
+    </plurals>
+    <string name="AsusWebstroage">AsusWebstorage</string>
+    <string name="AuCloud">AuCloud</string>
+    <string name="BaiDuPCS">百度云</string>
+    <string name="Default">默认</string>
+    <string name="Dropbox">Dropbox</string>
+    <string name="Google_Drive">Google Drive</string>
+    <string name="HomeCloud">HomeCloud</string>
+    <string name="OneDrive">OneDrive</string>
+    <string name="Yandex">Yandex</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"转到主屏幕"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s：%2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s - %2$s：%3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"转到上一层级"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"更多选项"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"完成"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"查看全部"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"选择应用"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"关闭"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"开启"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"搜索…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"清除查询"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"搜索查询"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"搜索"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"提交查询"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"语音搜索"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"分享方式"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"通过%s分享"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"收起"</string>
+    <string name="about">关于</string>
+    <string name="account_asus">ASUS</string>
+    <string maxwidth="-1" name="action">登录</string>
+    <string description="cutstom action bar view title for about" maxwidth="-1" name="action_about">关于</string>
+    <string description="action add files" maxwidth="-1" name="action_add">添加</string>
+    <string description="cutstom action bar view title for add folder" maxwidth="-1" name="action_add_folder">添加文件夹</string>
+    <string description="View title of custom action bar, apply to multiple selected files" maxwidth="-1" name="action_apply_selected_file">应用</string>
+    <string description="action cancel" maxwidth="-1" name="action_cancel">取消</string>
+    <string maxwidth="-1" name="action_clean">"清除档案"</string>
+    <string maxwidth="-1" name="action_clean_all">"清空回收站"</string>
+    <string description="cutstom action bar view title for clear search history" maxwidth="" name="action_clear_history">清除搜索记录</string>
+    <string description="cutstom action bar view title for edit" maxwidth="" name="action_edit">"编辑"</string>
+    <string maxwidth="" name="action_hidden_zone">"移至隐藏柜"</string>
+    <string description="cutstom action bar view title for hinde system file" maxwidth="-1" name="action_hind_system_file">隐藏系统文件</string>
+    <string name="action_loading">"正在载入…"</string>
+    <string description="cutstom action bar view title for open with" maxwidth="" name="action_open_with">"以...开启"</string>
+    <string name="action_refresh_cloudfile">刷新</string>
+    <string maxwidth="-1" name="action_restore">"还原档案"</string>
+    <string maxwidth="-1" name="action_restore_all">"还原所有档案"</string>
+    <string description="cutstom action bar view title for search" maxwidth="" name="action_search">搜索</string>
+    <string description="cutstom action bar view title for set as" maxwidth="" name="action_set_as">"将相片设为"</string>
+    <string description="menu title for setting" maxwidth="-1" name="action_settings">"设定"</string>
+    <string description="cutstom action bar view title for sharing" maxwidth="-1" name="action_share">"分享"</string>
+    <string description="String for asking for the rule of sorting" maxwidth="-1" name="action_sort_by">排序方式</string>
+    <string description="cutstom action bar view title for zip" maxwidth="" name="action_zip">压缩</string>
+    <string description="Dialog title: Add cloud storage" maxwidth="-1" name="add_cloud_storage_dialog_title">添加云存储</string>
+    <string name="add_favorite">加入收藏</string>
+    <string name="add_favorite_folder">"新增收藏文件夹"</string>
+    <string name="add_favorite_success">保存到收藏</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="add_progress">正在创建...</string>
+    <string description="Don&apos;t remind me again" maxwidth="-1" name="alert_cb_msg">\u4e0d\u518d\u63d0\u9192</string>
+    <string description="ASUS ZenUI Services is not support, need update ASUS ZenUI Services" maxwidth="-1" name="alert_msg_azs_update"> %1$s \u9700\u8981\u6700\u65b0\u7248\u7684 ASUS ZenUI Services\uff0c\u5efa\u8bae\u73b0\u5728\u5b89\u88c5\u3002</string>
+    <string description="Client app is not support, need update client app" maxwidth="-1" name="alert_msg_client_update">%1$s \u6709\u65b0\u7684\u7248\u672c\uff0c\u5efa\u8bae\u73b0\u5728\u5b89\u88c5\u3002</string>
+    <string description="Client app version is compatible with ASUS ZenUI Services" maxwidth="-1" name="alert_msg_compatible">%1$s \u7248\u672c\u4e0e ASUS ZenUI Services \u517c\u5bb9\u3002</string>
+    <string description="Client app version is match with ASUS ZenUI Services" maxwidth="-1" name="alert_msg_match">%1$s \u7248\u672c\u4e0e ASUS ZenUI Services \u76f8\u7b26\u3002</string>
+    <string description="ASUS ZenUI Services is not found on device" maxwidth="-1" name="alert_msg_not_found">\u5c1a\u672a\u5b89\u88c5ASUS ZenUI Services\n\n\u4e0b\u8f7d\u5e76\u5b89\u88c5\uff1f</string>
+    <string description="Dialog title" maxwidth="-1" name="alert_title">\u6ce8\u610f</string>
+    <string description="Dialog title" maxwidth="-1" name="alert_title_update">\u5efa\u8bae\u66f4\u65b0</string>
+    <string name="app_cloudstorage_name">CloudStorage</string>
+    <string name="app_upload_complete">"%s \u4e0a\u4f20\u5b8c\u6210"</string>
+    <string description="" name="article_one">我同意 ASUS \"<u>使用条款</u>\"、ASUS \"<u>隐私条款</u>\"、ASUS WebStorage \"<u>使用条款</u>\"、ASUS WebStorage \"<u>隐私条款</u>\"。</string>
+    <string description="" name="article_two">请通过 eDM 告知我最新的 ASUS 新闻、软件更新、以及最新的产品和服务信息。</string>
+    <string description="Text for create asus account button." maxwidth="" name="asus_account_create_button">新建</string>
+    <string name="asus_account_integrate_dialog_content">是否为您的 ASUS 帐户绑定 ASUS 云存储服务?\n\n 绑定后，可以从同一帐户使用所有 ASUS 服务。</string>
+    <string name="asus_account_integrate_dialog_skip">跳过</string>
+    <string name="asus_account_integrate_dialog_title">绑定 ASUS 服务</string>
+    <string name="asus_account_integrate_dialog_yes">是</string>
+    <string description="Text for asus account content 1st." maxwidth="" name="asus_account_msg_content_1">个人 ASUS 支持服务并延长所注册产品的保修。</string>
+    <string description="Text for asus account content 2nd." maxwidth="" name="asus_account_msg_content_2">免费 5GB 云存储空间。</string>
+    <string description="Text for asus account content 3rd." maxwidth="" name="asus_account_msg_content_3">热门优惠活动、促销信息以及最新的华硕资讯。</string>
+    <string description="Text for asus account content title." maxwidth="" name="asus_account_msg_title">创建一个 ASUS 帐户以获取:</string>
+    <string name="asus_account_only_one_alert">"只允许添加一个ASUS帐户。 您必须先删除当前帐户，然后换成新帐户。"</string>
+    <string name="asus_account_prefc">"设置"</string>
+    <string name="asus_account_prefc_advc">"高级设置"</string>
+    <string name="asus_account_registe_country_error">请选择一个国家/地区!</string>
+    <string name="asus_account_registe_id_error">电子邮件错误</string>
+    <string name="asus_account_registe_policy_error">您必须同意 ASUS 条款，才能注册 ASUS 帐户!</string>
+    <string name="asus_account_registe_pw_error_1">密码不能空白!</string>
+    <string name="asus_account_registe_pw_error_2">确认密码不能空白!</string>
+    <string name="asus_account_registe_pw_error_3">密码和确认密码必须相同!</string>
+    <string name="asus_account_registe_pw_error_4">"密码必须是8到25个字符。"</string>
+    <string name="asus_account_removeaccount_dialog_content">"帐户集成已成功。 使用新帐户重新登录。"</string>
+    <string name="asus_account_removeaccount_dialog_title">"ASUS帐户集成成功"</string>
+    <string name="asus_commonui_activity_chooser_view_see_all">"查看全部"</string>
+    <string name="asus_commonui_activity_resolver_use_always">"始终"</string>
+    <string name="asus_commonui_activity_resolver_use_once">"仅此一次"</string>
+    <string name="asus_commonui_activitychooserview_choose_application">"选择应用"</string>
+    <string name="asus_commonui_activitychooserview_choose_application_error">
+        "无法启动“<ns1:g id="APPLICATION_NAME">%s</ns1:g>”"</string>
+    <string name="asus_commonui_cancel_label">"取消"</string>
+    <string name="asus_commonui_chooseActivity">"选择操作"</string>
+    <string msgid="3968620852217927702" name="asus_commonui_day_picker_description">"按月份划分的日期网格"</string>
+    <string msgid="6908431551612331381" name="asus_commonui_deleted_key">"已删除 <ns1:g id="KEY">%1$s</ns1:g>"</string>
+    <string name="asus_commonui_done_label">"确定"</string>
+    <string msgid="7586639618712934060" name="asus_commonui_hour_picker_description">"小时转盘"</string>
+    <string msgid="2674929164900463786" name="asus_commonui_item_is_selected">"已选择 <ns1:g id="ITEM">%1$s</ns1:g>"</string>
+    <string msgid="6024811202872705251" name="asus_commonui_minute_picker_description">"分钟转盘"</string>
+    <string name="asus_commonui_noApplications">"没有应用可执行此操作。"</string>
+    <string name="asus_commonui_no_url_handler">未找到用于打开网址的应用</string>
+    <string name="asus_commonui_privacy_policy">隐私政策</string>
+    <string name="asus_commonui_privacy_policy_url">http://www.asus.com.cn/Terms_of_Use_Notice_Privacy_Policy/Privacy_Policy/</string>
+    <string msgid="3973338219107019769" name="asus_commonui_select_day">"选择月份和日期"</string>
+    <string msgid="7651068754188418859" name="asus_commonui_select_hours">"选择小时"</string>
+    <string msgid="8327182090226828481" name="asus_commonui_select_minutes">"选择分钟"</string>
+    <string msgid="2603330600102539372" name="asus_commonui_select_year">"选择年份"</string>
+    <string name="asus_commonui_shareactionprovider_share_with">"分享方式"</string>
+    <string name="asus_commonui_shareactionprovider_share_with_application">"使用<ns1:g id="APPLICATION_NAME">%s</ns1:g>分享"</string>
+    <string name="asus_commonui_terms_of_use_notice">使用条款</string>
+    <string name="asus_commonui_terms_of_use_notice_url">http://www.asus.com.cn/Terms_of_Use_Notice_Privacy_Policy/Official_Site/</string>
+    <string name="asus_commonui_whichApplication">"选择要使用的应用："</string>
+    <string name="asus_commonui_whichHomeApplication">"选择主屏幕应用"</string>
+    <string msgid="6963340404644587098" name="asus_commonui_year_picker_description">"年份列表"</string>
+    <string name="asus_feedback_and_help">"意见与协助"</string>
+    <string name="asus_registe_success_title">"ASUS帐户注册成功"</string>
+    <string name="asus_response_resultdata">"此帐户已经注册。"</string>
+    <string name="asusaccount_app_name">ASUS 帐户</string>
+    <string maxwidth="-1" name="attribution_notice">"权责声明"</string>
+    <string maxwidth="-1" name="attribution_notice_content">
+    "\n此产品包含下列公开来源：
+\n\nuservoice-android-sdk，其已获“Apache 许可版本 2.0”授权。此许可可从以下链接下载： http://www.apache.org/licenses/LICENSE-2.0.html。
+        \n\nangular-filemanager，其已获 MIT 授权。此许可可从以下链接下载：https://github.com/joni2back/angular-filemanager/blob/master/LICENSE。
+        \n\nprogressbar，其已获 MIT 授权。此许可可从以下链接下载：https://github.com/kimmobrunfeldt/progressbar.js/blob/master/LICENSE。
+        \n\ntoastr, Copyright (c) 2012-2015 John Papa, Tim Ferrell, Hans Fj?llemark\n特此免费授权：任何人都可以获得本软件和相关文档文件的副本（“软件”），并可以不受限制地处理本软件，包括但不限于使用、复制、修改、合并、发布、分发、再许可和/或销售软件副本的权利、以及向特定使用软件的人员授权的权利，但前提是必须符合以下条件：
+        上述版权声明和本授权声明应包括在此软件的所有副本或主要部分内。本软件“按原样”提供，不附带任何明示或默示担保，包括但不限于适销性、针对特定用途的适用性和不侵权的担保。在任何情况下，作者或版权所有者对任何索赔、损坏或其他责任，无论是与此软件本身或此软件使用或处理有关、由此引起或导致的合同行为、侵权行为还是其他原因。"
+    </string>
+    <string name="aucloud_account_only_one_alert">"只允许添加一个au云帐户。 您必须先删除当前帐户，然后换成新帐户。"</string>
+    <string description="string indicating how camera shooting feature is used" maxwidth="-1" name="auto">自动</string>
+    <string maxwidth="-1" name="aws_install_contnet">未安装 WebStorage，是否从应用市场下载并安装?</string>
+    <string maxwidth="" name="aws_install_title">未安装 WebStorage</string>
+    <string description="button text." maxwidth="-1" name="back_button_label">返回</string>
+    <string name="baidu_alert_info">"基于Baidu平台，此设备只能访问"My Application Data\\asus\\"中的数据。"</string>
+    <string name="baidu_alert_title">"Baidu云存储"</string>
+    <string name="baidu_storage_title">"百度云"</string>
+    <string name="baidupcs_account_only_one_alert">"只允许添加一个Baidu for ASUS帐户。 您必须先删除当前帐户，然后换成新帐户。"</string>
+    <string name="btn_OK">确定</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="calculate_progress">"处理中..."</string>
+    <string description="Toast: can not open in hidden zone" maxwidth="-1" name="can_not_open_in_hidden_zone">"无法在隐藏柜中打开"</string>
+    <string description="Dialog Button: cancel for dialog" maxwidth="" name="cancel">取消</string>
+    <string name="cancle">取消</string>
+    <string name="category_apk">应用程序</string>
+    <string maxwidth="11" name="category_app1">"安装包"</string>
+    <string name="category_compress">"压缩"</string>
+    <string maxwidth="11" name="category_compressed1">"压缩"</string>
+    <string name="category_count">"%s"</string>
+    <string maxwidth="11" name="category_document1">"文档"</string>
+    <string name="category_documents">"文档"</string>
+    <string name="category_download">下载</string>
+    <string maxwidth="11" name="category_download1">"下载"</string>
+    <string name="category_favorite">收藏</string>
+    <string maxwidth="11" name="category_favorite1">"收藏"</string>
+    <string name="category_game">"游戏"</string>
+    <string name="category_image">图像</string>
+    <string maxwidth="11" name="category_image1">"图像"</string>
+    <string maxwidth="11" name="category_large_file1">"大型档案"</string>
+    <string name="category_music">音乐</string>
+    <string maxwidth="11" name="category_music1">"音乐"</string>
+    <string name="category_name_app_wallpaper">"动态壁纸"</string>
+    <string name="category_name_app_widgets">"小部件"</string>
+    <string name="category_name_books_and_reference">"图书与工具书"</string>
+    <string name="category_name_business">"商务"</string>
+    <string name="category_name_comics">"动漫"</string>
+    <string name="category_name_communication">"通讯"</string>
+    <string name="category_name_education">"教育"</string>
+    <string name="category_name_entertainment">"娱乐"</string>
+    <string name="category_name_finance">"财务"</string>
+    <string name="category_name_game">"游戏"</string>
+    <string name="category_name_game_action">"动作"</string>
+    <string name="category_name_game_adventure">"冒险"</string>
+    <string name="category_name_game_arcade">"街机"</string>
+    <string name="category_name_game_board">"桌面和棋类"</string>
+    <string name="category_name_game_card">"卡牌"</string>
+    <string name="category_name_game_casino">"赌场"</string>
+    <string name="category_name_game_casual">"休闲"</string>
+    <string name="category_name_game_educational">"教育"</string>
+    <string name="category_name_game_family">"家庭"</string>
+    <string name="category_name_game_music">"音乐"</string>
+    <string name="category_name_game_puzzle">"益智"</string>
+    <string name="category_name_game_racing">"竞速"</string>
+    <string name="category_name_game_role_playing">"角色扮演"</string>
+    <string name="category_name_game_simulation">"模拟"</string>
+    <string name="category_name_game_sports">"体育"</string>
+    <string name="category_name_game_strategy">"策略"</string>
+    <string name="category_name_game_trivia">"知识问答"</string>
+    <string name="category_name_game_word">"文字"</string>
+    <string name="category_name_health_and_fitness">"健康与健身"</string>
+    <string name="category_name_libraries_and_demo">"软件与演示"</string>
+    <string name="category_name_lifestyle">"生活时尚"</string>
+    <string name="category_name_media_and_video">"媒体与视频"</string>
+    <string name="category_name_medical">"医药"</string>
+    <string name="category_name_music_and_audio">"音乐与音频"</string>
+    <string name="category_name_news_and_magazines">"新闻杂志"</string>
+    <string name="category_name_personalization">"个性化"</string>
+    <string name="category_name_photography">"摄影"</string>
+    <string name="category_name_productivity">"效率"</string>
+    <string name="category_name_shopping">"购物"</string>
+    <string name="category_name_social">"社交"</string>
+    <string name="category_name_sports">"体育"</string>
+    <string name="category_name_tools">"工具"</string>
+    <string name="category_name_transportation">"交通运输"</string>
+    <string name="category_name_travel_and_local">"旅游与本地出行"</string>
+    <string name="category_name_weather">"天气"</string>
+    <string name="category_others">"其他"</string>
+    <string maxwidth="11" name="category_recent1">"最近"</string>
+    <string name="category_recent_files">"最近添加"</string>
+    <string name="category_sorting_summary">"选择要显示的类别"</string>
+    <string name="category_title_category">类别</string>
+    <string name="category_title_local_storage">本地存储</string>
+    <string name="category_title_tools">"工具""</string>
+    <string name="category_toast_invalid_item_size_6_or_9">"请选择6个或是9个类别"</string>
+    <string name="category_toast_invalid_item_size_9">"请选择9个类别"</string>
+    <string name="category_toast_invalid_remove">"此类别无法被移除"</string>
+    <string name="category_toast_max_item_size">"最多只能选9个类别"</string>
+    <string name="category_video">视频</string>
+    <string maxwidth="11" name="category_video1">"视频"</string>
+    <string name="clear_account_info">清除所有账号</string>
+    <string description="Menu Option: clear all checkbox" maxwidth="" name="clear_all">全部删除</string>
+    <string name="click_plus_to_add_favorite_folder">"点击 + 以新增收藏文件夹"</string>
+    <string description="Toast: The size is over the limit and cannot be uploaded" maxwidth="-1" name="cloud_download_flie_limit_space">此文件大小超过您允许的单文件下载限制</string>
+    <string description="Toast: The name of the file uploaded is not supported by cloud server" maxwidth="-1" name="cloud_flie_name_not_supported">因为文件名云服务器不支持，操作失败</string>
+    <string description="home cloud get available devices fail" name="cloud_homebox_get_devices_fail">获取可用的HomeCloud设备失败</string>
+    <string description="home cloud has no available devices" name="cloud_homebox_no_available_devices">无可用的HomeCloud设备</string>
+    <string description="home cloud device is sleep" name="cloud_homebox_status__info_Sleep">休眠</string>
+    <string description="home cloud device is offline" name="cloud_homebox_status__info_offline">离线</string>
+    <string description="home cloud device is online" name="cloud_homebox_status__info_online">在线</string>
+    <string description="home cloud device is offline" name="cloud_homebox_status_offline">设备处于离线状态</string>
+    <string description="diaglog cloud background paste" name="cloud_paste_backgroud">后台执行</string>
+    <string description="diaglog cloud  now is copy files" name="cloud_paste_copying">正在复制...</string>
+    <string description="diaglog cloud  current" name="cloud_paste_current">当前</string>
+    <string description="diaglog cloud  now is delete source files" name="cloud_paste_deleting">正在删除源文件...</string>
+    <string description="diaglog cloud  paste" name="cloud_paste_downloading">下载文件</string>
+    <string description="diaglog cloud  total" name="cloud_paste_total">总计</string>
+    <string description="diaglog cloud  paste uploading" name="cloud_paste_uploading">上传文件</string>
+    <string description="Toast: cloud preview action" maxwidth="-1" name="cloud_preview_action_fail">预览云文件失败。</string>
+    <string description="Toast: cloud share action" maxwidth="-1" name="cloud_share_action_fail">共享云文件失败。</string>
+    <string description=">Do you want to remove" maxwidth="-1" name="cloud_storage_remove_hint">"要注销\"%s\" 账户吗？"</string>
+    <string description="Dialog title: Remove cloud storage" maxwidth="-1" name="cloud_storage_remove_hint_title">注销</string>
+    <string description=">Do you want to signin" maxwidth="-1" name="cloud_storage_sign_in">使用如下任一帐号进行连接：</string>
+    <string description="Dialog title: Signin cloud storage" maxwidth="-1" name="cloud_storage_sign_in_title">连接 %s</string>
+    <string description=">Do you want to signout" maxwidth="-1" name="cloud_storage_sign_out">您确定要退出登录？</string>
+    <string description="Dialog title: Signout cloud storage" maxwidth="-1" name="cloud_storage_sign_out_title">断开连接</string>
+    <string description="Add more cloud storage" maxwidth="-1" name="cloud_storage_title">添加更多云存储</string>
+    <string description="diaglog cloud  token is invalidate" name="cloud_token_invalidate">令牌无效，请重新登录!</string>
+    <string description="Toast: The size is over the limit and cannot be uploaded" maxwidth="-1" name="cloud_upload_flie_limit_space">此文件大小超过您允许的单文件上传限制</string>
+    <string name="com_facebook_image_download_unknown_error">下载图片时出现意外错误。</string>
+    <string name="com_facebook_internet_permission_error_message">Web 登录需要互联网许可</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifest 错误</string>
+    <string name="com_facebook_like_button_liked">赞了</string>
+    <string name="com_facebook_like_button_not_liked">赞</string>
+    <string name="com_facebook_loading">正在加载...</string>
+    <string name="com_facebook_loginview_cancel_action">取消</string>
+    <string name="com_facebook_loginview_log_in_button">登录</string>
+    <string name="com_facebook_loginview_log_in_button_long">使用 Facebook 登录</string>
+    <string name="com_facebook_loginview_log_out_action">退出</string>
+    <string name="com_facebook_loginview_log_out_button">退出</string>
+    <string name="com_facebook_loginview_logged_in_as">已以%1$s 身份登录</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">已使用 Facebook 登录</string>
+    <string name="com_facebook_send_button_text">发送</string>
+    <string name="com_facebook_share_button_text">分享</string>
+    <string name="com_facebook_tooltip_default">新增功能！一切任您掌控 — 选择您想通过应用分享的信息。</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"启用"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"您必须先启用 Google Play 服务，然后才能运行<ns1:g id="APP_NAME">%1$s</ns1:g>。"</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"启用 Google Play 服务"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"安装"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"您的设备没有安装 Google Play 服务，因此无法运行<ns1:g id="APP_NAME">%1$s</ns1:g>。"</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"获取 Google Play 服务"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Google Play服务出错"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g>无法访问 Google Play 服务，请重试。"</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"您的设备不支持 Google Play 服务，因此无法运行<ns1:g id="APP_NAME">%1$s</ns1:g>。"</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"更新"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"您必须先更新 Google Play 服务，然后才能运行<ns1:g id="APP_NAME">%1$s</ns1:g>。"</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"更新 Google Play 服务"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"Google Play 服务当前正在更新，因此您无法运行<ns1:g id="APP_NAME">%1$s</ns1:g>。"</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"必须使用新版 Google Play 服务。该服务很快就会自行更新。"</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"在手机上打开"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"登录"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"使用 Google 帐号登录"</string>
+    <string name="confirm">"确认"</string>
+    <string maxwidth="-1" name="confirm_ok">确定</string>
+    <string description="confirm password textview title" name="confirm_password">确认密码</string>
+    <string description="ask user to enter password again to confirm" name="confirm_password_edit">再次输入密码</string>
+    <string description="content" maxwidth="-1" name="content">本软件的使用受到华硕网站上条款及条件的限制. \nhttp://www.asus.com</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="copy">复制</string>
+    <string description="Toast: copy ready" maxwidth="-1" name="copy_ready_more">选择的文件已复制并可粘贴</string>
+    <string description="Toast: copy ready. %s is variable string." maxwidth="-1" name="copy_ready_one">"\"%s\"已复制并可粘贴"</string>
+    <string name="copy_to">复制到</string>
+    <string description="country region textview title" name="country_region">国家/地区</string>
+    <string description="ack user to select on country" name="country_region_select">选择您所在地区</string>
+    <string name="create_shortcut">"添加快捷方式"</string>
+    <string name="create_shortcut_dialog">"添加快捷方式到您的主屏幕"</string>
+    <string name="create_shortcut_toast">"快捷方式已添加到您的主屏幕"</string>
+    <string name="cta_agree">允许</string>
+    <string name="cta_check_title">记住此选择</string>
+    <string name="cta_dialog_content"><b>文件管理器</b>尝试使用网络，使用网络可能会收取其他费用，具体取决于您的网络订阅情况，要避免流量耗费，请在完成后禁用网络。</string>
+    <string name="cta_dialog_title">使用网络</string>
+    <string name="cta_disagree">拒绝</string>
+    <string name="cta_pre_grant_dialog_account_permission">"<b>文件管理器</b>尝试访问您的帐户列表"</string>
+    <string name="cta_pre_grant_dialog_storage_permission">"<b>文件管理器</b>尝试访问您设备上的照片、媒体内容和文件"</string>
+    <string name="cta_show_menu">网络使用授权</string>
+    <string name="current_folder">"当前文件夹"</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="cut">剪切</string>
+    <string description="Toast: cut ready" maxwidth="-1" name="cut_ready_more">选择的文件已剪切并可粘贴</string>
+    <string description="Toast: cut ready. %s is variable string." maxwidth="-1" name="cut_ready_one">\"%s\"已剪切并可粘贴</string>
+    <string description="button text for sort file by date" maxwidth="-1" name="date">日期</string>
+    <string description="button text for sort file by date ascending" maxwidth="-1" name="date_ascending">日期 (最旧-最新)</string>
+    <string description="button text for sort file by date descending" maxwidth="-1" name="date_descending">日期 (最新-最旧)</string>
+    <string msgid="7984755014526510295" name="day">"1 天"</string>
+    <string msgid="2070509222727852210" name="days">"<ns1:g id="DAYS">%s</ns1:g> 天"</string>
+    <string maxwidth="-1" name="dbx_install_contnet">未安装 Dropbox，是否从应用市场下载并安装?</string>
+    <string maxwidth="" name="dbx_install_title">未安装 Dropbox</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="delete">删除</string>
+    <string description="Dialog Title: delete dialog title" maxwidth="" name="delete_dialog">删除文件</string>
+    <string description="Toast: delete fails" maxwidth="-1" name="delete_fail">文件删除失败</string>
+    <string description="Dialog Content: text in dialog. %d is variable number." maxwidth="" name="delete_more_files">您确定要删除%d个项目吗？</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="delete_one_directory">您确定要删除这个文件夹吗？</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="delete_one_files">您确定要删除这个文件吗？</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="delete_progress">删除中...</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="delete_size">"文件大小: "</string>
+    <string description="Toast: delete success" maxwidth="-1" name="delete_success_more">您选择的文件已删除</string>
+    <string description="Toast: delete success. %s is variable string." maxwidth="-1" name="delete_success_one">"\"%s\"已删除"</string>
+    <string description="cutstom action bar view title for deselect all checkbox" maxwidth="" name="deselect_all">取消全选</string>
+    <string name="device_root_path">root</string>
+    <string description="compress dialog title" maxwidth="-1" name="dialog_create_zip_title">输入文件名称</string>
+    <string description="extract zip file dialog title. %s is a dynamic string. It is zip file name." maxwidth="-1" name="dialog_extract_zip_title">解压缩%s至:</string>
+    <string name="dialog_load_stream_url_info">正在从服务器检索必要的信息</string>
+    <string name="dialog_msg_market_login_account">"\u4e0b\u8f7d\u5e94\u7528\u7a0b\u5e8f\u524d\uff0c\u8bf7\u5148\u767b\u5f55\u60a8\u7684\u5e10\u53f7\u3002"</string>
+    <string description="text encoding dialog title" maxwidth="-1" name="dialog_text_encoding_title">文字编码</string>
+    <string name="dialog_title_market_login_account">"\u6dfb\u52a0\u5e10\u53f7"</string>
+    <string description="show zip info dialog title. %s is a dynamic string. Is is a zip file name" maxwidth="-1" name="dialog_unzip_preview_title">解压缩%s</string>
+    <string description="Dialog Title: Directory information dialog title" maxwidth="-1" name="dir_info_dialog_title">文件夹信息</string>
+    <string name="display">"显示为"</string>
+    <string name="display_hint">"我的电脑，可以为空"</string>
+    <string name="dm_openfile">"打开文件"</string>
+    <string name="do_not_show_again">"不要再显示"</string>
+    <string name="domain">"域："</string>
+    <string name="domain_hint">"可以为空"</string>
+    <string name="download_fail">下载失败!</string>
+    <string name="drag_items_one">拖曳项目</string>
+    <string name="drag_items_other">拖曳一个以上的项目</string>
+    <string name="drawer_close">"关闭抽屉式导航栏"</string>
+    <string name="drawer_home">首页</string>
+    <string name="drawer_open">"打开抽屉式导航栏"</string>
+    <string description="Hint: the operation is incorrect" maxwidth="-1" name="drop_incorrect_hint">操作错误</string>
+    <string description="Hint: the target folder which you want to do something" maxwidth="-1" name="drop_target_to">目标:</string>
+    <string name="dumdownloadfrom">下载自</string>
+    <string name="dumuploadto">上传至</string>
+    <string name="duplicate_files">"重复档案"</string>
+    <string name="duplicate_files_content_hint">"查找重复档案, 并在您的许可下将其删除。"</string>
+    <string name="edit_toast_name_too_long">已达字符数上限</string>
+    <string name="edit_toast_special_char">不能包含特殊字符</string>
+    <string name="editcategory_hint">"点击编辑按钮可客制化类别页面。"</string>
+    <string description="describe the empty folder" maxwidth="-1" name="empty_folder_title">"无文件"</string>
+    <string description="Dialog Button: click to open the encoding list dialog" maxwidth="-1" name="encode">文字编码</string>
+    <string description="ask user to enter password" maxwidth="-1" name="enter_password">"输入密码"</string>
+    <string name="eula_content_description">
+        \n本用户软件授权同意书是一份华硕电脑股份有限公司(以下简称本公司)与您之间，基于彼此理解与相互同意所做成，而具有法律约束力的使用者同意书，其目的在于规范您使用本公司授权软件(明确定义详如下述)之相关权利义务，敬请详细阅读。您一旦安装执行并继续使用本公司授权软件，即代表您已经仔细阅读过本同意书并已充分理解其内容，而愿意接受本同意书中所有条款的约束。 
+\n\n一、授权使用 在您遵守本同意书所有条款的前提下，本公司授权您有限的、个别的、不可作为商业用途的、非专属的权利，得以将该授权软件安装使用于本公司的产品中。本授权禁止再授权，亦不可移转；除非您将安装有授权软件的本公司产品并同基于本同意书所享有之权利，全部而终局地转让给他人，自己则毫不保留授权软件任何的复本或备份，并以该继受者亦同意接受本同意书之所有条款为前提条件。
+\n\n二、授权软件 授权软件系指结合于或适用于本公司产品内之软件，包括但不限于其将来的重新编制、更新、升级或其他修改版本。\n\n授权软件可能包含由本公司或第三人开发之自由开放源码软件(下称自由软件)，此等自由软件为使用列于www.opensource.org/license之自由软件授权条款之著作权软件。本同意书条款之效力不及于授权软件所包含之自由软件，您须遵守自由软件所适用之授权条款规范，且本公司仅于该授权条款及/或著作权声明所载明之范围内提供您使用。
+\n\n三、使用限制 除了前述许可外，您不得自行对授权软件进行还原工程、解译破解或反向组译，亦不可容许或引诱他人从事彼等工作；但若相关法令明文禁止上述限制，则不在此限。
+\n\n四、保密义务 对于本授权软件相关的机密信息，包括但不限于以任何形式呈现的商业机密、著作权或其他知识产权，您皆有予以保密的义务，并应防止第三者知悉。
+\n\n五、知识产权 您认知并且同意，本授权软件的知识产权、版权、及其他相关利益，皆仍保留于本公司，本授权仅允许您依合约条款用户许可证软件，唯其知识产权并未随同移转予您。任何未经合法授权的使用行为，除了违反本同意书，亦将构成对相关知识产权法规的违反，包括但不限于著作权法与商标法。
+\n您一旦利用本授权软件传送任何个人信息以外之信息、数据、想法、观念或技术(以下简称回馈)至本公司，您认知并且同意，(1)您的回馈不含有机密或专有信息；(2)本公司对该回馈不负任何明示或默示的保密义务；(3)本公司有权自行决定使用或揭露该回馈于任何目的、任何地域；(4)您的回馈将成为本公司之资产，且本公司对此不负任何义务；以及(5)本公司对您不负任何赔偿或补偿之责任。
+\n\n六、期间与终止 本同意书自您安装授权软件之时起开始生效，您可在停止使用并自行移除本软件的前提下，随时终止本同意书。若您未能遵守本同意书之任何条款或条件，本公司亦有权不予事先通知即径行终止本同意书。
+\n\n七、赔偿责任限制 您知悉，本授权软件是以「现况」及「以目前明示的条件下」的状态提供给您。您需要承担本授权软件在质量及性能方面的全部风险，包括但不限于因此所生之一切必要服务费用及维修费用。在法律允许的范围内，本公司就本授权软件及本同意书，不提供任何明示或默示的担保及保证，包括但不限于商业适销性、特定目的之适用性、未侵害任何他人权利及任何得使用本授权软件或无法使用本授权软件的保证，且本公司对因使用本授权软件而获取的结果或透过本授权软件所获得任何信息之准确性或可靠性不提供担保。由于部分国家或地区可能不允许默示保证责任的排除适用，所以前述限制或排除条款可能对您不适用。
+\n您应自行承担使用本授权软件或与本授权软件的运作相关的所有风险。您明确了解并同意，本公司、本公司之授权人及其各该主管、董事、员工、代理人或关系企业皆无须为您因本同意书、或因使用本授权软件、或因不可归责于本公司的原因而无法使用本授权软件或其任何部分而可能产生的衍生、附随、直接、间接、特别、惩罚或任何其他损失（包括但不限于利益损失、业务中断、数据遗失或其他金钱损失）负责，不论本公司是否被告知发生上开损失之可能性。由于部分国家或地区可能不允许责任的全部免除或对前述损失的责任限制，所以前述限制或排除条款可能对您不适用。
+\n\n八、若本公司因您违反本同意书、其他法律规定或侵害第三人的权利而遭受任何诉追或主张时，您同意为本公司及其各该关系企业、服务或内容提供商、供货商、经销商、授权人、主管、董事及员工抗辩，并赔偿他们因此所承受之损失、损害、责任及费用（包含合理之律师费用及法律费用）。
+    </string>
+    <string name="eula_content_title">"用户软件授权同意书"</string>
+    <string description="Do not translate ASUS" maxwidth="" name="eula_description">"华硕应用程序和用户之间的软件授权合约"</string>
+    <string maxwidth="" name="eula_title">"用户软件授权同意书"</string>
+    <string name="example">"示例："</string>
+    <string description="Dialog Button: extract file for dialog" maxwidth="-1" name="extract">解压缩</string>
+    <string name="facebook_app_invite">"邀请Facebook联络人"</string>
+    <string name="fb_request_error_permissions">"\u6b64\u5e94\u7528\u7a0b\u5e8f\u65e0\u64cd\u4f5c\u6743\u9650\uff0c\u8bf7\u5c1d\u8bd5\u91cd\u65b0\u767b\u5f55\u3002"</string>
+    <string name="fileList_Nofiles">无文件</string>
+    <string description="Dialog Title: File information dialog title" maxwidth="-1" name="file_info_dialog_title">文件信息</string>
+    <string description="Application Name shown on title" maxwidth="" name="file_manager">文件管理器</string>
+    <string description="string indicating camera flash is not used" maxwidth="-1" name="flash_off">未使用闪光灯</string>
+    <string description="string indicating camera flash is fired" maxwidth="-1" name="flash_on">使用了闪光灯</string>
+    <string description="click to retrieve password" maxwidth="-1" name="forget_password">"<u>忘记了密码?</u>"</string>
+    <string name="fragment_analyzer_allfiles_used_hint">"已使用："</string>
+    <string name="fragment_analyzer_chart_free_hint">"剩余空间："</string>
+    <string name="fragment_analyzer_chart_total_hint">"总共存储空间："</string>
+    <string name="fragment_analyzer_chart_used_hint">"已使用"</string>
+    <string name="fragment_analyzer_more_hint">"详细资料"</string>
+    <string name="google_app_invite">"邀请Google联络人"</string>
+    <string name="group_title_installed">"已安装"</string>
+    <string name="group_title_not_installed">"未安装"</string>
+    <string name="group_title_others">"其他"</string>
+    <string name="group_title_recommended">"精品推荐"</string>
+    <string name="hidden_zone_change_password">"更改密码"</string>
+    <string name="hidden_zone_confirm_password">"确认 PIN 码"</string>
+    <string name="hidden_zone_enter_password">"输入您的 PIN 码"</string>
+    <string name="hidden_zone_fingerprint_to_unlock">"指纹解锁"</string>
+    <string name="hidden_zone_forget_password">"忘记密码"</string>
+    <string name="hidden_zone_introduction_description">"隐藏您的私人文件至隐藏柜。需要使用 PIN 码打开隐藏柜。"</string>
+    <string name="hidden_zone_password_mismatch">"PIN 码不符合"</string>
+    <string name="hidden_zone_set_password_success">"密码已设置成功"</string>
+    <string name="hidden_zone_setup_account">"设置账户"</string>
+    <string name="hidden_zone_setup_password">"输入 4 位数 PIN 码"</string>
+    <string name="hidden_zone_wrong_password">"PIN 码错误"</string>
+    <string description="Can’t connect to HomeCloud." maxwidth="-1" name="homecloud_access_error">无法连接到HomeCloud，请确认HomeCloud服务器连接正常。</string>
+    <string name="homecloud_notice_1">ASUS HomeCloud 是华硕为Windows系统提供的软件。您可以利用它來存储家庭数据，并在各种远端装置存取资料，享受影音云端播放。未来将会提供更多的服务。</string>
+    <string name="homecloud_notice_2">通过一下链接，您可了解更多并安装体验</string>
+    <string name="homecloud_notice_3">http://home.asuscloud.com/</string>
+    <string name="homecloud_toast_udp_unsupported">网络已受限制，请联络网络管理员或连接到其他网络</string>
+    <string msgid="2546819039651509323" name="hour">"1 小时"</string>
+    <string msgid="2071487018566991613" name="hours">"<ns1:g id="HOURS">%s</ns1:g> 小时"</string>
+    <string maxwidth="" name="httpserver_acquire_permission_message">"需关闭http file server，正在执行的操作可能因此中断，是否继续执行？"</string>
+    <string maxwidth="" name="httpserver_connectwifiname">"连接的WLAN设备为:"</string>
+    <string maxwidth="" name="httpserver_description">"从PC连接您的行动装置"</string>
+    <string maxwidth="" name="httpserver_instruction">"请在PC上的浏览器输入此位置"</string>
+    <string maxwidth="" name="httpserver_need_saf">"请提供存取权限才能从PC管理手机上的外接储存装置。"</string>
+    <string maxwidth="" name="httpserver_no_network">"请确认装置已连接至WLAN网路"</string>
+    <string maxwidth="" name="httpserver_no_permission_message">"将无权限操作外部储存装置，是否继续执行？"</string>
+    <string maxwidth="" name="httpserver_no_permission_title">"开启无线档案传输"</string>
+    <string maxwidth="" name="httpserver_start">"开启"</string>
+    <string maxwidth="" name="httpserver_stop">"停止"</string>
+    <string maxwidth="" name="httpserver_title">"网页版档案管理员"</string>
+    <string description="Context Menu: options of context menu" maxwidth="-1" name="info">详情</string>
+    <string description="file info textview context" maxwidth="-1" name="info_aperture">"光圈: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_datetime">"拍摄日期："</string>
+    <string description="file info textview context" maxwidth="-1" name="info_exposure_time">"曝光时间: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_file_num">"文件数量: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_flash">"闪光灯: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_focal_length">"焦距: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_image_height">"高度: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_image_width">"宽度"</string>
+    <string description="file info textview context" maxwidth="-1" name="info_image_x">" x "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_iso">"ISO："</string>
+    <string description="file info textview context" maxwidth="-1" name="info_location">"地点: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_maker">"制造商: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_model">"模型: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_modified">"修改日期: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_name">"名称: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_orientation">"浏览模式: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_path">"路径: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_permission">"权限: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_type">类型:</string>
+    <string description="file info textview context" maxwidth="-1" name="info_white_balance">"白平衡: "</string>
+    <string description="Do not translate ASUS" maxwidth="" name="inspire_asus_description">"将产品使用情况发送至ASUS，以协助改善产品设计与使用经验"</string>
+    <string name="inspire_asus_title">"激励ASUS"</string>
+    <string name="install">"安装"</string>
+    <string description="storage label" maxwidth="-1" name="internal_storage_title">内置存储空间</string>
+    <string description="Toast: the account is invalid" maxwidth="-1" name="invalid_account">无效的账号</string>
+    <string description="Invalid directory path" maxwidth="-1" name="invalid_directory_path">无效的路径</string>
+    <string name="invalid_server_id">"服务器ID无效"</string>
+    <string name="invalid_xml">"无效的xml"</string>
+    <string name="inviteContentTitle">%1$s邀请您下载和安装ASUS文件管理器。</string>
+    <string name="inviteContent_p1">ASUS文件管理器是通过您的智能设备来实现文件管理的一种便捷方式。 此文件管理应用程序可以帮助您处理和排序手机内存、microSD卡、LAN、甚至云空间中存储的各种文件。</string>
+    <string name="inviteContent_p2">使用ASUS文件管理器轻松高效地管理您的文件! ASUS文件管理器可以帮助您处理您的各种文件，无论它们存储在您设备的内存、microSD卡、LAN中，还是存储在云存储帐户中（如我们自己的ASUS HomeCloud和Webstorage以及Dropbox、Google Drive或Microsoft OneDrive等其他云服务）。</string>
+    <string name="inviteContent_p3">我对ASUS文件管理器感兴趣。 立即尝试! :D</string>
+    <string description="sticker detail page button name" maxwidth="-1" name="invite_friends">"邀请好友"</string>
+    <string name="item">项目</string>
+    <string name="items">项目</string>
+    <string name="keep">"保持"</string>
+    <string name="kk_sd_permission_warning">由于Android限制，Android 4.4不允许第三方应用程序修改外部SD卡。</string>
+    <string name="large_files_content_hint">"查找大型档案, 并在您的许可下将其删除。"</string>
+    <string description="linked file is missing" maxwidth="-1" name="linked_file_missing">"连结文件遗失"</string>
+    <string description="text for progress bar" maxwidth="-1" name="loading">"正在加载..."</string>
+    <string name="local">本地</string>
+    <string description="button text for sort file by date" maxwidth="-1" name="location">"位置"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="logging_cloud_storage">正在登录...</string>
+    <string name="login_account_miss">"Facebook \u5e94\u7528\u7a0b\u5e8f\u6ce8\u518c Android \u5e10\u53f7\u5931\u8d25\u3002\u8bf7\u91cd\u65b0\u767b\u5f55 Facebook \u5e94\u7528\u7a0b\u5e8f\u3002"</string>
+    <string name="login_again_later">"\u76ee\u524d\u65e0\u6cd5\u8fde\u63a5\u670d\u52a1\u5668\uff0c\u8bf7\u7a0d\u540e\u518d\u8bd5\u3002"</string>
+    <string description="dialog title, key in the asus ID and PW to Login account" maxwidth="-1" name="login_asus_id">"ASUS帐户注册"</string>
+    <string description="Toast: login account fail" name="login_fail" width="-1">登录失败</string>
+    <string description="login account name" maxwidth="-1" name="login_id">"帐户名称/WebStorage ID"</string>
+    <string description="logout account" name="logout_account" width="-1">注销</string>
+    <string name="low_storage_tutorial_description">"点触并按住以选择您的文件，然后选择\"移到\" Google Drive"</string>
+    <string name="low_storage_tutorial_title">将文件移到Google Drive</string>
+    <string name="m_permission_dialog_message">"点击 [设置]，在 [应用程序信息] > [权限] 中打开 [%2$s] 权限，然后重启 %1$s。"</string>
+    <string name="m_permission_dialog_positive_button">"设置"</string>
+    <string name="m_permission_setting_subtitle_files">"%1$s 需要 %2$s 权限来访问设备上的文件。"</string>
+    <string name="m_permission_setting_title_cloud_storage">"无法访问云储存"</string>
+    <string name="m_permission_setting_title_files">"无法访问文件"</string>
+    <string name="m_permission_setting_turn_on">"打开"</string>
+    <string description="string indicating how camera shooting feature is used" maxwidth="-1" name="manual">手动</string>
+    <string name="market_app_error">"您设备中安装的市场应用程序存在错误!"</string>
+    <string description="ask user to enter email address as account name" maxwidth="-1" name="member_id_hint">"输入电子邮件地址"</string>
+    <string description="The title of a menu for General Preferences.Pressing the menu item lets user to view and edit his general settings" maxwidth="30" name="menu_general_preferences">"常规设置"</string>
+    <string description="settings menu tutorial" maxwidth="-1" name="menu_tutorial">教程</string>
+    <string name="messenger_send_button_text">发送</string>
+    <string msgid="2486157997434653710" name="minute">"1 分钟"</string>
+    <string msgid="6115838729146292526" name="minutes">"<ns1:g id="MINUTES">%s</ns1:g> 分钟"</string>
+    <string description="Hint: move the items" maxwidth="-1" name="move">移动</string>
+    <string name="move_or_delete_msg">"将档案暂时移至回收站？\n(或选择永久删除档案)"</string>
+    <string name="move_to">移动到</string>
+    <string description="Toast: move to recycle bin fails" maxwidth="-1" name="move_to_hidden_zone_fail">"移至隐藏柜失败"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="move_to_hidden_zone_progress">"正在移至隐藏柜..."</string>
+    <string description="Toast: move to recycle bin success" maxwidth="-1" name="move_to_hidden_zone_success_more">"选定文件已移至隐藏柜"</string>
+    <string description="Toast: move to recycle bin success. %s is variable string." maxwidth="-1" name="move_to_hidden_zone_success_one">"\"%s\" 已移至隐藏柜"</string>
+    <string description="Toast: move to recycle bin fails" maxwidth="-1" name="move_to_trash_fail">"移至回收站失败"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="move_to_trash_progress">"移至回收站中..."</string>
+    <string description="Toast: move to recycle bin success" maxwidth="-1" name="move_to_trash_success_more">"您选择的档案已移至回收站"</string>
+    <string description="Toast: move to recycle bin success. %s is variable string." maxwidth="-1" name="move_to_trash_success_one">"\"%s\"已移至回收站"</string>
+    <string name="msg_too_big_to_recycle">"档案太大无法放入回收站\n是否要永久删除？"</string>
+    <string name="multi_drm_file_forbidden_operation">由于所选择文件中含有受保护的DRM文件，无法进行该操作。</string>
+    <string description="shortcut label" maxwidth="-1" name="my_camera_title">相机</string>
+    <string description="shortcut label" maxwidth="-1" name="my_download_title">下载</string>
+    <string description="shortcut label" maxwidth="-1" name="my_music_title">音乐</string>
+    <string description="shortcut label" maxwidth="-1" name="my_picture_title">图片</string>
+    <string description="storage label" maxwidth="-1" name="my_storage_title">我的存储设备</string>
+    <string description="button text for sort file by name" maxwidth="-1" name="name">名称</string>
+    <string description="button text for sort file by name ascending" maxwidth="-1" name="name_ascending">名称 (z-a)</string>
+    <string description="button text for sort file by name descending" maxwidth="-1" name="name_descending">名称 (a-z)</string>
+    <string name="network_cta_hint">请允许联网</string>
+    <string name="network_invalid">"网络连接无效"</string>
+    <string name="network_invalid_info">"连接无效。 请重新检查。"</string>
+    <string name="network_not_available">"网络连接失败"</string>
+    <string description="Can’t connect to networkpalce" maxwidth="-1" name="networkplace_access_error">"连线失败。请确认远端伺服器是否还在线上。"</string>
+    <string name="networkplace_storage_title">"网上邻居"</string>
+    <string description="Dialog Title: create new folder" maxwidth="" name="new_folder_dialog">添加文件夹</string>
+    <string description="Toast: new folder fails" maxwidth="-1" name="new_folder_fail">添加文件夹失败</string>
+    <string description="Toast: new folder success. %s is variable string." maxwidth="-1" name="new_folder_success">"\"%s\"文件夹已创建"</string>
+    <string maxwidth="" name="news_1">"<b>定制化主页</b>：现在您可以定制您的主页类别以及它们的顺序。"</string>
+    <string maxwidth="" name="news_2">"<b>我的收藏</b>：直接从我的收藏类别新增我的收藏文件夹。"</string>
+    <string maxwidth="" name="news_3">"<b>文件管理器小部件</b>：在桌面新增文件夹快捷方式。"</string>
+    <string maxwidth="" name="news_mark1">"★  "</string>
+    <string maxwidth="" name="news_subtitle">"您不可错过的重要更新"</string>
+    <string maxwidth="" name="news_title">"新功能"</string>
+    <string maxwidth="" name="news_v21"><b>无线档案传输</b>: 现在支援从PC传送/管理档案。</string>
+    <string maxwidth="" name="news_v23">"效能提升以及臭虫修复。"</string>
+    <string maxwidth="" name="news_v31">"储存空间分析让您知道什么档案占用了最多的空间"</string>
+    <string maxwidth="" name="news_v32">"全新增强版应用程序类别"</string>
+    <string name="news_v41">"将您的私人文件隐藏到隐藏柜中"</string>
+    <string name="news_v42">"从回收站恢复删除的文件"</string>
+    <string name="news_v43">"从存储分析器中删除重复的文件"</string>
+    <string name="news_v44">"新显示特性 - 夜间模式"</string>
+    <string name="news_v45">"已改进性能"</string>
+    <string name="news_v46">"已修正错误"</string>
+    <string name="newversion_description">"有新版文件管理器，是否现在更新"</string>
+    <string name="newversion_title">"新版本"</string>
+    <string name="next">下一步</string>
+    <string description="Dialog Button: no for dialog" maxwidth="" name="no">否</string>
+    <string name="no_device">"没有设备"</string>
+    <string name="no_items">"没有项目"</string>
+    <string name="no_network">"无网络连接"</string>
+    <string description="The description to inform users when there is no internet access" maxwidth="-1" name="no_network_connection_message">"请检查您的连接，然后重试"</string>
+    <string name="no_network_info">"需要通过Internet连接来访问此应用程序。 请在设置中启用移动网络或WiFi。"</string>
+    <string name="no_password">"请输入您的密码"</string>
+    <string name="no_right">"您的帐户没有登录权限。"</string>
+    <string name="no_share_folder">此设备中未设置分享文件</string>
+    <string description="Toast: No space to copy file and left on device" maxwidth="-1" name="no_space_fail">存储空间不足</string>
+    <string name="no_user_exist">"用户名称不存在"</string>
+    <string name="no_username">"先输入您的用户名称。"</string>
+    <string name="no_wifi_when_wifionly">仅在Wi-Fi开启时，请打开Wi-Fi</string>
+    <string name="notification_gdrive_redeem_content">"快到Google 云端硬碟去领取！"</string>
+    <string name="notification_gdrive_redeem_title">"免费 100 GB 云端硬碟！"</string>
+    <string name="occur_error_do_relogin">"请重新登入%s"</string>
+    <string description="Dialog Button: ok for dialog" maxwidth="" name="ok">是</string>
+    <string name="onedrive_account_only_one_alert">"只允许添加一个OneDrive for ASUS帐户。 您必须先删除当前帐户，然后换成新帐户。"</string>
+    <string name="open">打开</string>
+    <string description="Toast: open file fails" maxwidth="-1" name="open_fail">文件开启失败</string>
+    <string maxwidth="" name="open_source_license_description">"开源软件的许可通知"</string>
+    <string maxwidth="" name="open_source_license_title">"开放源代码许可"</string>
+    <string name="othersforum_site_url">http://www.asus.com.cn/Terms_of_Use_Notice_Privacy_Policy/OthersForum_Site/</string>
+    <string name="password">密码</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="paste">粘贴</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="paste_exist_apply">全部皆是</string>
+    <string description="Dialog Title: paste exist dialog title" maxwidth="" name="paste_exist_dialog">文件名称重复</string>
+    <string description="Dialog Content: text in dialog. %s is variable string." maxwidth="" name="paste_exist_file">"\"%s\"文件已经存在"</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="paste_exist_replace">您要以新的文件取代吗？</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="paste_exist_to">是</string>
+    <string description="Toast: paste fails" maxwidth="-1" name="paste_fail">文件粘贴失败</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="paste_progress">粘贴中...</string>
+    <string name="paste_progress_title">其他复制任务正在运行中...</string>
+    <string description="Toast: paste success. %s is variable string." maxwidth="-1" name="paste_success">"文件已添加至\"%s\""</string>
+    <string name="permanently_delete">"永久删除"</string>
+    <string description="Toast: operation permission deny" maxwidth="-1" name="permission_deny">无权限</string>
+    <string name="permission_dialog_title">"应用程式权限"</string>
+    <string name="permission_essential">"应用程式需要特定权限才能正常执行，请至设定打开所需权限！"</string>
+    <string name="permission_reason_contact">"文件管理器需要存取您的通讯录以登入云储存！"</string>
+    <string name="permission_reason_storage">"档案管理员需要存取储存装置的权限才能正常执行!!"</string>
+    <string description="Toast: You may not select more than %s photos." maxwidth="-1" name="photo_selection_limit_number_toast">选择最多%s张照片</string>
+    <string description="This is the title of the screen for setting user preferences." maxwidth="-1" name="preferences_title">"设置"</string>
+    <string name="previous_folder">"前一文件夹"</string>
+    <string maxwidth="" name="privacy_policy">"隐私策略"</string>
+    <string name="privacy_policy_url">http://www.asus.com/us/Terms_of_Use_Notice_Privacy_Policy/Privacy_Policy/</string>
+    <string name="processing_picture">"\u6b63\u5728\u5904\u7406\u76f8\u7247"</string>
+    <string name="processing_video">"\u6b63\u5728\u5904\u7406\u5f71\u7247"</string>
+    <string name="progressactivity_title">上传下载管理器</string>
+    <string name="promote_darkmode_message">"更改 %s 中的偏好"</string>
+    <string name="promote_darkmode_title">"新显示特性 - 夜间模式"</string>
+    <string name="promotion_notification_content">"试试看我们的新功能\"无线文件传输\"！"</string>
+    <string name="promotion_notification_title">"还在使用USB线传文件到PC吗?"</string>
+    <string name="publish">"\u53d1\u5e03"</string>
+    <string name="pullfreshlistview_footer_hint_normal">查看更多</string>
+    <string name="pullfreshlistview_footer_hint_ready">松开载入更多</string>
+    <string name="pullfreshlistview_header_hint_loading">正在加载...</string>
+    <string name="pullfreshlistview_header_hint_normal">下拉刷新</string>
+    <string name="pullfreshlistview_header_hint_ready">释放刷新</string>
+    <string name="pullfreshlistview_header_last_time">上次更新时间：</string>
+    <string name="rate_later">"稍后再说"</string>
+    <string name="rate_now">"开始评分！"</string>
+    <string description="rate us" maxwidth="-1" name="rate_us">鼓励我们</string>
+    <string name="rating_dialog_message_v3_1">"如果您喜欢%s，请至Play商店给我们好评。您的鼓励是我们开发产品的最大动力哦！"</string>
+    <string name="rating_dialog_message_v3_2">"欢迎至「%s」提出您的宝贵建议。"</string>
+    <string name="recent_files_content_hint">"查找最近新增的档案, 并在您的许可下将其删除。"</string>
+    <string description="shortcut title: recently used files" name="recently_used" width="-1">最近</string>
+    <string name="recommend_clean_master_msg">"最受用户信赖的安卓优化软体，在Google Play上已经被用户下载超过6亿次。帮助用户清理2 GB以上的垃圾档，阻止应用在後台反复重启丶异常消耗CPU，极致解决手机空间不足丶运行卡慢和发烫问题。\n下载安装?"</string>
+    <string name="recommend_clean_master_title">"推荐"</string>
+    <string name="recommend_scan_qr_code">"推荐朋友扫瞄并下载"</string>
+    <string description="recruit beta user" maxwidth="-1" name="recruit_beta_user">抢先体验</string>
+    <string name="recycle_bin_content_hint">"包含所有删除的文件和文件夹。"</string>
+    <string description="dialog title, key in the asus ID and PW to Login account" maxwidth="-1" name="regist_asus_id">"创建ASUS帐户"</string>
+    <string description="ask user to enter email address to registe New Account" name="registe_id">帐户名称</string>
+    <string description="ask user to enter new password" name="registe_password">输入 8~25 个字符</string>
+    <string description="sign up registe action" name="registe_sign_up">注册</string>
+    <string description="network is unavailable, please try again" maxwidth="-1" name="remote_connected_error_hint">网络不可用，请再试一次</string>
+    <string description="remote storage label" maxwidth="-1" name="remote_storage_title">远程存储</string>
+    <string name="remove_favorite">从收藏中移除</string>
+    <string name="remove_favorite_notice_more">是否确定将%d项目从收藏文件夹中移除？</string>
+    <string name="remove_favorite_notice_one">是否确定将\"%s\"从收藏文件夹中移除？</string>
+    <string name="remove_favorite_success">移除成功</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="rename">重命名</string>
+    <string description="Dialog Title: rename dialog title" maxwidth="" name="rename_dialog">重命名</string>
+    <string description="Toast: rename fails" maxwidth="-1" name="rename_fail">重命名文件失败</string>
+    <string name="rename_favorite_folder">重命名收藏文件夹</string>
+    <string name="rename_favorite_notice">收藏文件夹中已存在同名文件夹，是否要重命名？</string>
+    <string name="rename_favorite_success">重命名成功，并保存到收藏</string>
+    <string description="Toast: rename success" maxwidth="-1" name="rename_success">重命名文件成功。</string>
+    <string description="renaming file" name="renaming_file" width="-1">重命名</string>
+    <string name="replace">"替换"</string>
+    <string description="Toast: restore fails" maxwidth="-1" name="restore_fail">"还原失败"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="restore_progress">"还原中..."</string>
+    <string description="Toast: restore success" maxwidth="-1" name="restore_success_more">"您选择的档案已还原"</string>
+    <string description="Toast: restore success. %s is variable string." maxwidth="-1" name="restore_success_one">"\"%s\"已还原"</string>
+    <string name="retention_notification_large_file">"您已添加 %1$s 个大型文件。立即进行查看。"</string>
+    <string name="retention_notification_recent_file">"您最近新增的档案占据%1$s储存空间。"</string>
+    <string name="saf_permission_tutorial_content">ASUS File Manager请求获取您SD卡的操作权限。 是否授予权限？</string>
+    <string name="saf_permission_tutorial_content_v2">"请执行後续动作以取得%s存取权限。"</string>
+    <string name="saf_permission_tutorial_dialog">"请执行後续步骤取得外接储存装置的权限。"</string>
+    <string name="saf_permission_tutorial_title">请求获取SD卡的操作权限</string>
+    <string name="saf_tutorial_step_one">点击“菜单”图表，然后点击“显示SD卡”。</string>
+    <string name="saf_tutorial_step_three">点击“选择SD卡”，授予ASUS File Manager的访问权限。</string>
+    <string name="saf_tutorial_step_three_v2">"点选 选择%s 允许存取至华硕档案管理员。"</string>
+    <string name="saf_tutorial_step_two">滑动屏幕左侧边缘，显示抽屉，然后点击SD卡。</string>
+    <string name="saf_tutorial_step_two_v2">"点选左上角开启储存空间选单後，选择%s。"</string>
+    <string name="saf_tutorial_title">SD卡操作权限</string>
+    <string name="saf_tutorial_title_v2">"取得存取%s权限"</string>
+    <string description="account config dialog remind message" maxwidth="-1" name="samba_client_config_check">记住用户名称和密码，下次直接连接</string>
+    <string name="samba_input_error">用户名称或密码不能空白!</string>
+    <string name="samba_login_error">您输入的用户名或密码错误。</string>
+    <string name="samba_storage_add_title">"网上邻居"</string>
+    <string name="samba_storage_title">"SAMBA"</string>
+    <string name="scan_qr_code">"请扫描二维条码"</string>
+    <string description="rate now" maxwidth="" name="scroll_up_toast">请向上滚动以评分</string>
+    <string maxwidth="-1" name="sd_label">OneDrive for ASUS</string>
+    <string name="search_action">"搜索"</string>
+    <string description="search hint message" maxwidth="-1" name="search_hint">输入文件名称</string>
+    <string description="cutstom action bar view title for search" maxwidth="-1" name="search_label">文件搜索</string>
+    <string description="search dialog message" maxwidth="-1" name="search_progress">搜索中...</string>
+    <string description=" text for search result" formatted="false" maxwidth="-1" name="search_result_title">搜索 %s（在 %s 中）： 找到 %d 个文件</string>
+    <string name="select_album">选择相册</string>
+    <string description="Menu Option: select all checkbox" maxwidth="" name="select_all">全选</string>
+    <string description="Title: select the folder" maxwidth="-1" name="select_folder">选择文件夹</string>
+    <string name="select_folder_by_ok_button">"点击%1$s以选择此文件夹"</string>
+    <string name="select_photo">选择照片</string>
+    <string name="server">"服务器："</string>
+    <string name="server_error">"服务器错误"</string>
+    <string name="server_hint">"172.0.0.1/ShareFolder"</string>
+    <string name="server_title">服务器</string>
+    <string maxwidth="-1" name="service_not_available_in_your_country">"该项在您的国家不可用。"</string>
+    <string name="set_password_title">"创建一个 PIN 码"</string>
+    <string name="set_ring">"设置为铃声"</string>
+    <string name="setting_display_group">"显示"</string>
+    <string name="setting_notification_group">"通知"</string>
+    <string name="setting_notification_large_files">"大型档案通知"</string>
+    <string name="setting_notification_recent_files">"最新档案通知"</string>
+    <string name="setting_notification_wireless_transfer">"无线传输通知"</string>
+    <string name="setting_view_group">"查看设定"</string>
+    <string name="setting_view_hide_files">"隐藏系统档案"</string>
+    <string name="settings">"设置"</string>
+    <string description="This is the title of cache size" maxwidth="-1" name="settings_cache_size_title">"缓存大小"</string>
+    <string description="Remove all cache documents" maxwidth="-1" name="settings_clear_cache_info">"删除所有缓存文件"</string>
+    <string description="Clear the cache" maxwidth="-1" name="settings_clear_cache_title">"清除缓存"</string>
+    <string description="This is the title of clearing search history action for setting user preferences." maxwidth="-1" name="settings_clear_search_history">"清除搜索历史"</string>
+    <string name="settings_darkmode_message">"应用夜间模式"</string>
+    <string name="settings_description">本地文件夹和文件</string>
+    <string description="This is the title of documents cache" maxwidth="-1" name="settings_documents_cache">"文件缓存"</string>
+    <string description="recommend text" maxwidth="" name="settings_encourage_us_detail">如果您喜欢使用 %s，请在Play Store给我们五颗星的评价。这对我们持续改善产品将是很大的鼓励！</string>
+    <string description="This is the title of hiding system files action for setting user preferences." maxwidth="-1" name="settings_hide_system_files">"隐藏系统文件"</string>
+    <string description="This is the title of moving to the trash can." maxwidth="-1" name="settings_moved_to_the_trash_can">"移至垃圾箱"</string>
+    <string description="Remove account" maxwidth="-1" name="settings_remove_account">"删除账号"</string>
+    <string description="Set the cache size to %s" maxwidth="-1" name="settings_set_cache_size">"缓存大小设置为 \"%s\""</string>
+    <string description="This is the title of space used for setting user preferences." maxwidth="-1" name="settings_space_used">"已用空间"</string>
+    <string description="This is the title of trash can information for setting user preferences." maxwidth="-1" name="settings_trash_can">"垃圾箱"</string>
+    <string description="This is the title of user name" maxwidth="-1" name="settings_user_name">"用户名"</string>
+    <string name="setup">"设置"</string>
+    <string name="setup_account_description">"请设置一个邮件账户以检索您的 PIN 码"</string>
+    <string name="setup_account_no_internet_connection">"互联网未连接"</string>
+    <string name="setup_account_skip">"跳转"</string>
+    <string name="setup_account_title">"检索 PIN 码"</string>
+    <string name="setup_fingerprint_message">"使用指纹解锁？隐藏柜支持指纹验证。在设置中扫描指纹以开始。"</string>
+    <string name="setup_my_digital_code">"设置 PIN 码"</string>
+    <string name="share_more">"更多"</string>
+    <string name="share_with_friend">"与好友分享我们的应用程序"</string>
+    <string description="Context Menu: options of context menu: share folder via Wi-Fi Direct" maxwidth="" name="shared_folder">通过 WLAN Direct 共享</string>
+    <string description="shortcit title" maxwidth="-1" name="short_cuts_title">快捷方式</string>
+    <string name="shortcut_hint">"长按类别或目录可新增捷径至桌面。"</string>
+    <string description="check if user want to show password" name="show_passwd">显示密码</string>
+    <string description="show when sign in failed" maxwidth="-1" name="signin_failed">"注册失败"</string>
+    <string description="signout account" name="signout_account" width="-1">断开连接</string>
+    <string name="single_drm_file_forbidden_operation">由于这是受保护DRM文件，无法进行该操作。</string>
+    <string description="button text for sort file by size" maxwidth="-1" name="size">大小</string>
+    <string description="button text for sort file by size ascending" maxwidth="-1" name="size_ascending">大小 (大-小)</string>
+    <string description="button text for sort file by size descending" maxwidth="-1" name="size_descending">大小 (小-大)</string>
+    <string name="ssl_err_msg_info">"无法与服务器建立安全连接。 是否继续?"</string>
+    <string name="ssl_err_msg_title">"SSL连接错误"</string>
+    <string description="shortcut title: my favorite files" name="starred" width="-1">"已共享"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="storage_type_cloud">云端存储空间</string>
+    <string name="storage_type_cloud_att">"网络存储空间"</string>
+    <string name="storage_type_local">本地存储空间</string>
+    <string name="storage_type_shortcut">"快捷方式"</string>
+    <string name="storagetype_add_account">添加Google帐户</string>
+    <string name="tap_to_exit">再次点击退出</string>
+    <string name="target_directory_is_child_of_source">目标目录是源目录的子目录，操作无法完成。</string>
+    <string description="Toast: target file exists" maxwidth="-1" name="target_exist">目标文件存在</string>
+    <string description="Toast: target folder exists. %s is variable string." maxwidth="-1" name="target_folder_exist">"\"%s\"文件夹已经存在"</string>
+    <string description="" maxwidth="" name="tell_friend">推荐给好友</string>
+    <string maxwidth="" name="terms_of_service">"使用条款"</string>
+    <string maxwidth="" name="terms_of_service_url">http://www.asus.com/us/Terms_of_Use_Notice_Privacy_Policy/Official-Site/</string>
+    <string description="title" maxwidth="-1" name="title">法律信息:</string>
+    <string name="toast_auto_lock_notify_message">"设备锁定时隐藏柜锁定"</string>
+    <string description="Toast: The item(s) has been copied completely" maxwidth="-1" name="toast_drag_copied_items">已成功复制项目</string>
+    <string description="Toast: The item(s) has been moved completely" maxwidth="-1" name="toast_drag_moved_items">已成功移动项目</string>
+    <string description="Toast: Sorry, copy files complete but cut fail" maxwidth="-1" name="toast_warning_copy_comple_cut_fail">"抱歉，复制文件已完成，但删除旧文件失败"</string>
+    <string description="Toast: Sorry, copy folders has not been supported" maxwidth="-1" name="toast_warning_copy_folders">"抱歉，不支持复制文件夹"</string>
+    <string maxwidth="35" name="toolbar_item_title_encourage_us">鼓励我们</string>
+    <string name="tools_clean_master">"垃圾清理"</string>
+    <string name="tools_file_transfer">"无线档案传输"</string>
+    <string name="tools_hidden_zone">"隐藏柜"</string>
+    <string name="tools_recycle_bin">"回收站"</string>
+    <string name="tools_storage_analyzer">"存储空间分析"</string>
+    <string name="tools_tip_animation">"向上滑动以显示工具！"</string>
+    <string name="tools_zenui_instant_update">"即时更新"</string>
+    <string description="shortcut title: trash can" name="trash_can" width="-1">"垃圾箱"</string>
+    <string maxwidth="-1" name="trash_info_deleted">"删除日期："</string>
+    <string maxwidth="-1" name="trash_info_path">"原始位置："</string>
+    <string description="label for trending searches" maxwidth="-1" name="trending_searches">"热门话题搜索"</string>
+    <string name="tunnelconnection_notice_1">ASUS TunnelConnection 是华硕为Android系统提供的软件, 为ASUS HomeCloud提供tunnel连接服务.</string>
+    <string name="tunnelconnection_notice_2">为了访问ASUS HomeCloud, 您需要通过链接下载并安装. </string>
+    <string name="tunnelconnection_notice_3">https://play.google.com/store/</string>
+    <string name="tutorial_analyzer_content">"存储分析器使您能够了解哪些文件占据了您的磁盘空间。"</string>
+    <string name="tutorial_category_content">"使用 ASUS 文件管理器的类别视图，搜索文件变得如此简单。"</string>
+    <string name="tutorial_category_title">"类别视图"</string>
+    <string name="tutorial_cloud_content">"访问您的智能手机、计算机或云储存中的文件。"</string>
+    <string name="tutorial_cloud_title">"云存储"</string>
+    <string name="tutorial_done">完成</string>
+    <string name="tutorial_page_content_long_press">"点击并按住以选择一个项目，然后点击\"菜单\"图标以显示其他操作选项。"</string>
+    <string name="tutorial_page_four_content">将常用文件夹设为收藏，以便快速访问文件夹。</string>
+    <string name="tutorial_page_four_title">收藏</string>
+    <string name="tutorial_page_one_content">华硕文件管理器允许您轻松管理内部、外部、局域网或云存储器中存储的文件。</string>
+    <string name="tutorial_page_one_title">文件管理器</string>
+    <string name="tutorial_page_three_content">将某一项滑至右侧可显示加入收藏、重命名、移动到、复制到等操作以及其他文件管理选项。</string>
+    <string name="tutorial_page_three_title">向右滑动操作列表</string>
+    <string name="tutorial_page_title_long_press">显示操作菜单</string>
+    <string name="tutorial_page_two_content">易于使用的分类允许您快速访问本地存储器中存储的文件。</string>
+    <string name="tutorial_page_two_title">主页</string>
+    <string name="tutorial_skip">跳过</string>
+    <string description="button text for sort file by type" maxwidth="-1" name="type">类型</string>
+    <string description="document type" maxwidth="-1" name="type_abu">"Asus 应用备份"</string>
+    <string description="document type" maxwidth="-1" name="type_apk">"Android 应用"</string>
+    <string description="document type" maxwidth="-1" name="type_audio">"音频"</string>
+    <string description="document type" maxwidth="-1" name="type_book">"电子书"</string>
+    <string name="type_dialog_audio">音乐</string>
+    <string name="type_dialog_image">图片</string>
+    <string name="type_dialog_text">文本</string>
+    <string name="type_dialog_title">开启</string>
+    <string name="type_dialog_video">视频</string>
+    <string description="document type" maxwidth="-1" name="type_directory">"目录"</string>
+    <string description="document type" maxwidth="-1" name="type_document">"文档"</string>
+    <string description="document type" maxwidth="-1" name="type_file">"文件"</string>
+    <string description="document type" maxwidth="-1" name="type_image">"图像"</string>
+    <string description="document type" maxwidth="-1" name="type_playlist">"播放列表"</string>
+    <string description="document type" maxwidth="-1" name="type_rar">"RAR"</string>
+    <string description="document type" maxwidth="-1" name="type_video">"视频"</string>
+    <string description="document type" maxwidth="-1" name="type_zip">"Zip"</string>
+    <string name="ud_sdk_all_app_update">"所有应用程序都是最新版本。"</string>
+    <string name="ud_sdk_asus_app_slogan">有用的应用程序</string>
+    <string name="ud_sdk_downloads">下载</string>
+    <string name="ud_sdk_free_download">免费下载</string>
+    <string name="ud_sdk_important_remind_text">"重要"</string>
+    <string name="ud_sdk_install">安装</string>
+    <string name="ud_sdk_more_zen_family">发现更多ZenUI应用程序</string>
+    <string name="ud_sdk_no_network_connection_content">无法更新数据。 请检查您的网络设置。</string>
+    <string name="ud_sdk_no_network_connection_title">无网络连接</string>
+    <string name="ud_sdk_open">打开</string>
+    <string name="ud_sdk_update">更新</string>
+    <string maxwidth="-1" name="ud_sdk_update_sdk">ZenUI 系列</string>
+    <string maxwidth="-1" name="ud_sdk_update_sdk_asus">ZenUI 即时更新</string>
+    <string name="ud_sdk_wifi_settings">WLAN设置</string>
+    <string name="uf_sdk_already_give_5star">已给出 5 颗星好评</string>
+    <string description="%d is a number, don&apos;t translate" name="uf_sdk_article_read_count">"%d 次查看"</string>
+    <string name="uf_sdk_attachment_format_warning">格式错误，仅支持图档</string>
+    <string name="uf_sdk_attachment_total_size">"总计"</string>
+    <string name="uf_sdk_attachment_warning">"附件大小超出了允许的限值"</string>
+    <string maxwidth="-1" name="uf_sdk_cancel_btn_content">"取消"</string>
+    <string name="uf_sdk_choosertitle_sharevia">"分享方式"</string>
+    <string name="uf_sdk_connection_error_msg">服务器中断连接，请稍后重试。</string>
+    <string name="uf_sdk_connection_error_title">连接错误</string>
+    <string name="uf_sdk_discard">"舍弃"</string>
+    <string name="uf_sdk_email_illigal">电子邮件地址已存在</string>
+    <string maxwidth="-1" name="uf_sdk_empty_notification">目前没有通知 :)</string>
+    <string name="uf_sdk_faq">常见问题</string>
+    <string name="uf_sdk_feedback_and_help">意见与协助</string>
+    <string name="uf_sdk_forum_description">在此与其他华硕用户分享您的经验与秘籍</string>
+    <string maxwidth="-1" name="uf_sdk_grant_permission_title">"授予权限"</string>
+    <string name="uf_sdk_help">协助</string>
+    <string name="uf_sdk_instant_answer_question">这篇文章对您有帮助吗？</string>
+    <string name="uf_sdk_like">"点赞"</string>
+    <string maxwidth="-1" name="uf_sdk_message">通知</string>
+    <string name="uf_sdk_msg_bad_email_format">电子邮件地址不正确，请再试一次。</string>
+    <string name="uf_sdk_msg_confirm_discard_topic">您的草稿将不会被保存。确定要取消发布吗？</string>
+    <string name="uf_sdk_msg_confirm_discard_topic_title">取消发布？</string>
+    <string name="uf_sdk_msg_subscribe">系统会自动发送所订阅主题的更新通知到您的电子邮箱。</string>
+    <string name="uf_sdk_msg_subscribe_success">订阅成功</string>
+    <string name="uf_sdk_msg_ticket_created">已将您的意见发送给华硕</string>
+    <string name="uf_sdk_msg_topic_created">发布成功</string>
+    <string name="uf_sdk_msg_unsubscribe">取消订阅成功</string>
+    <string name="uf_sdk_name_hint">输入您的姓名</string>
+    <string name="uf_sdk_name_illigal">用户名已存在</string>
+    <string name="uf_sdk_network_error">无网络连接，请检查您的网络设置。</string>
+    <string description="zenui news" maxwidth="" name="uf_sdk_news">最新消息</string>
+    <string name="uf_sdk_no_network_connection_content">升级数据失败，请检查您的网络设置。</string>
+    <string name="uf_sdk_no_network_connection_title">无网络连接</string>
+    <string name="uf_sdk_nothing_found">没有找到符合项目</string>
+    <string name="uf_sdk_notice">注意</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category1">公告</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category2">使用教学</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category3">促销</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category4">活动讯息</string>
+    <string name="uf_sdk_publish_an_topic">发布新主题</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_rate_now">开始评分！</string>
+    <string description="%s is AP name, don&apos;t translate" maxWidth="" name="uf_sdk_rate_us_detail">"如果您喜欢使用%s，请在Play Store中给出5星评价。"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_detail_new">"您的支持和5星评价会激励我们继续努力工作!"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_rating">"5星评价"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title">"评价我们!"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title_new">"鼓励我们"</string>
+    <string description="Menu item for userFeedback sdk" maxwidth="-1" name="uf_sdk_report_bug">"错误报告"</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_scroll_up_toast">请向上滚动以评分</string>
+    <string name="uf_sdk_search_hint">搜索</string>
+    <string name="uf_sdk_select_common_bug">选择常见问题</string>
+    <string name="uf_sdk_send_feedback">传送意见</string>
+    <string name="uf_sdk_send_feedback_help">您的意见反馈与电子邮箱地址将被寄送给华硕，服务团队会以电子邮件与您联系。</string>
+    <string maxwidth="-1" name="uf_sdk_setting_btn_content">"设置"</string>
+    <string description="recommend title" maxwidth="" name="uf_sdk_settings_encourage_us_title">鼓励我们</string>
+    <string maxwidth="-1" name="uf_sdk_storage_permission_description">"此功能需要存储权限以访问多媒体文件。 \n\n如果您要启用此功能，请按“设置”按钮转到 “设置”页面，然后设置 “权限”授予权限。\n"</string>
+    <string name="uf_sdk_submit_topic">发布</string>
+    <string name="uf_sdk_subscribe_dialog_title">订阅此主题</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_answered">"已回答"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_completed">"已完成"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_declined">"已拒绝"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_implemented">"已实施"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_planned">"已计划"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_under_review">"检查中"</string>
+    <string name="uf_sdk_thanks_for_your_feedback">感谢您的建议！</string>
+    <string description="%s is a application name, don&apos;t translate" name="uf_sdk_ticket_hint">提供您对%s的建议</string>
+    <string name="uf_sdk_title_topic">主题</string>
+    <string name="uf_sdk_topic">主题</string>
+    <string name="uf_sdk_topic_description_heading">说明</string>
+    <string name="uf_sdk_topic_description_hint">详细描述您想讨论的主题</string>
+    <string name="uf_sdk_topic_filter">主题</string>
+    <string name="uf_sdk_topic_form_help">当您在用户讨论区发布主题时，其他用户将可以订阅或评论您的主题帖。此外，若华硕研发团队回复了您的主题，系统会发送电子邮件通知您。</string>
+    <string name="uf_sdk_topic_form_title">发布新主题</string>
+    <string name="uf_sdk_topic_text_heading">讨论区</string>
+    <string name="uf_sdk_topic_text_hint">输入您的主题标题</string>
+    <string name="uf_sdk_topic_title">标题</string>
+    <string name="uf_sdk_translation_10117605">"翻译问题"</string>
+    <string name="uf_sdk_translation_117562">意见类型</string>
+    <string name="uf_sdk_translation_2529543">错误报告</string>
+    <string name="uf_sdk_translation_2529544">其他</string>
+    <string name="uf_sdk_translation_2530478">建议</string>
+    <string name="uf_sdk_unhelpful_article_message_question">您是否要提供意见给华硕研发团队？</string>
+    <string name="uf_sdk_user_forum">用户讨论区</string>
+    <string name="uf_sdk_warning">警告</string>
+    <string name="uf_sdk_wifi_settings">WLAN 设置</string>
+    <string name="uf_sdk_wlan_settings">WLAN 设置</string>
+    <string name="uf_sdk_write_your_feedback">在此处提供您的建议</string>
+    <string name="uf_sdk_your_draft_will_be_discarded">"您的草稿将被舍弃。"</string>
+    <string description="description for empty search result" maxwidth="-1" name="unable_to_find_artlcles">"找不到“%s”相关的文章"</string>
+    <string description="string indicating the length units in milli-meters" maxwidth="-1" name="unit_mm">mm</string>
+    <string description="Context Menu: options of context menu: unshare folder" maxwidth="-1" name="unshared_folder">不共享</string>
+    <string name="unsupported_area">"不支持此区域"</string>
+    <string description="toast message: extract files fail" maxwidth="-1" name="unzip_fail">解压缩失败</string>
+    <string description="extract file dialog message" maxwidth="-1" name="unzip_progress_msg">解压缩中...</string>
+    <string description="toast message: extract files successly" maxwidth="-1" name="unzip_success">解压缩成功</string>
+    <string name="update">"\u66f4\u65b0"</string>
+    <string name="update_fb_app">"Facebook\u7684\u5e94\u7528\u7a0b\u5e8f\u4e0d\u662f\u6700\u65b0\u7248, \u8bf7\u81f3Google\u5e94\u7528\u5546\u57ce\u4e0b\u8f7d\u6700\u65b0\u7248\u672c\u3002"</string>
+    <string name="upgrade_notification_content">在我们全新的主画面上按类型查看文件。</string>
+    <string name="upgrade_notification_title">立即尝试新的文件管理器!</string>
+    <string name="upload_complete">"\u4e0a\u4f20\u5b8c\u6210"</string>
+    <string name="upload_complete_dialog_message">"\u4e0a\u4f20\u5f71\u7247\u6210\u529f\u3002"</string>
+    <string name="upload_complete_dialog_title">"\u5b8c\u6210"</string>
+    <string name="upload_fail">上传失败!</string>
+    <string name="upload_failed">"\u4e0a\u4f20\u5931\u8d25"</string>
+    <string name="upload_picture_toast">"\u76f8\u7247\u5c06\u4f1a\u5f00\u59cb\u4e0a\u4f20\uff0c\u8bf7\u5728\u901a\u77e5\u7a97\u53e3\u67e5\u770b\u8fdb\u5ea6\u3002"</string>
+    <string name="upload_toast">"\u5f71\u7247\u5c06\u4f1a\u5f00\u59cb\u4e0a\u4f20\uff0c\u8bf7\u5728\u901a\u77e5\u7a97\u53e3\u67e5\u770b\u8fdb\u5ea6\u3002"</string>
+    <string name="uploading_picture">"\u6b63\u5728\u4e0a\u4f20\u76f8\u7247"</string>
+    <string name="uploading_video">"\u5f71\u7247\u6b63\u5728\u4e0a\u4f20..."</string>
+    <string name="user">用户</string>
+    <string name="user_hint">管理员</string>
+    <string name="uv_admin_response_format">管理员回应：%1$s</string>
+    <string name="uv_all_articles">所有文章</string>
+    <string name="uv_all_results_filter">全部</string>
+    <string name="uv_android_sdk">Android SDK</string>
+    <string name="uv_article_browse_question">这篇文章对您有帮助吗？</string>
+    <string name="uv_article_instant_answer_question">这篇文章对您有帮助吗？</string>
+    <string name="uv_cancel">取消</string>
+    <string name="uv_category">分类</string>
+    <string name="uv_close">关闭</string>
+    <string name="uv_comment_hint">输入您的评论</string>
+    <string name="uv_confirm">确认</string>
+    <string name="uv_contact_continue_button">我仍然想发送信息</string>
+    <string name="uv_contact_hint">输入您的问题或是意见反馈</string>
+    <string name="uv_contact_us">联系我们</string>
+    <string name="uv_display_name">显示名称</string>
+    <string name="uv_email_address">Email 邮箱</string>
+    <string name="uv_email_address_hint">your@email.com（必填）</string>
+    <string name="uv_error">错误</string>
+    <string name="uv_failed_signin_error">Email 或密码错误</string>
+    <string name="uv_forgot_password">忘记密码</string>
+    <string name="uv_helpful_article_message_question">您仍然要发送信息吗？</string>
+    <string name="uv_i_want_this">我想要这个！</string>
+    <string name="uv_idea_description_heading">更详细地描述您的意见</string>
+    <string name="uv_idea_description_hint">（选填）</string>
+    <string name="uv_idea_text_heading">我建议您...</string>
+    <string name="uv_loading">正在读取...</string>
+    <string name="uv_matching_articles">符合的文章</string>
+    <string name="uv_matching_articles_and_ideas">符合的文章和意见</string>
+    <string name="uv_menu_attach">附件</string>
+    <string name="uv_menu_search">搜索</string>
+    <string name="uv_msg_bad_email_format">请输入有效的 Email 邮箱。</string>
+    <string name="uv_msg_comment_posted">您的评论已经发布</string>
+    <string name="uv_msg_confirm_discard_message">您确定要舍弃您的信息？</string>
+    <string name="uv_msg_custom_fields_validation">请输入所有必填栏位。</string>
+    <string name="uv_msg_forgot_password">忘记密码通知邮件已经送出</string>
+    <string name="uv_msg_idea_created">您的意见已经发布</string>
+    <string name="uv_msg_ticket_created">您的信息已发送</string>
+    <string name="uv_msg_user_identity_validation">请输入您的 Email 邮箱</string>
+    <string name="uv_name_hint">“匿名”</string>
+    <string name="uv_network_error">连接到 UserVoice 时发生错误</string>
+    <string name="uv_nevermind">没关系</string>
+    <string name="uv_new_comment">新评论</string>
+    <string name="uv_next">下一页</string>
+    <string name="uv_no">否</string>
+    <string name="uv_none_of_these_help">这些内容没有帮助</string>
+    <string name="uv_password">密码</string>
+    <string name="uv_password_dialog_title">请输入您的密码</string>
+    <string name="uv_portal_title">帮助</string>
+    <string name="uv_post_a_comment">发表一条评论</string>
+    <string name="uv_post_comment">发布评论</string>
+    <string name="uv_posted_by_format">由 %1$s 在 %2$s 发布</string>
+    <string name="uv_powered_by_uservoice">Powered by UserVoice</string>
+    <string name="uv_ranked">"排第 %1$s 名"</string>
+    <string name="uv_remove_votes">移除投票</string>
+    <string name="uv_select_none">（无）</string>
+    <string name="uv_select_one">请选择</string>
+    <string name="uv_send_message">发送信息</string>
+    <string name="uv_signin_dialog_ok">登录</string>
+    <string name="uv_signin_dialog_title">登录</string>
+    <string name="uv_status_format">状态：%1$s</string>
+    <string name="uv_submit_idea">提交意见</string>
+    <string name="uv_subscribe">订阅</string>
+    <string name="uv_subscribe_dialog_title">订阅此意见</string>
+    <string name="uv_suggestion_instant_answer_question">这个意见对您有帮助吗？</string>
+    <string name="uv_thanks">谢谢！</string>
+    <string name="uv_unhelpful_article_message_question">您是否愿意发送信息给我们？</string>
+    <string name="uv_value">值</string>
+    <string name="uv_very_yes">是！</string>
+    <string name="uv_yes">是</string>
+    <string name="uv_your_email_address">您的 Email 邮箱</string>
+    <string name="uv_your_name">您的姓名</string>
+    <string description="version" maxwidth="-1" name="version">版本</string>
+    <string name="version_text">版本</string>
+    <string name="wait">"请稍候..."</string>
+    <string name="warning_stophttpserver">"将中断设备与PC的连线，确定要离开?"</string>
+    <string name="whats_new_label">新功能</string>
+    <string description="message for request to connect Network" name="wifi_p2p_connection_msg" width="-1">请建立网络连接以使用云服务。</string>
+    <string description="title for request to connect Network" name="wifi_p2p_connection_title" width="-1">建立网络连接</string>
+    <string description="message for request to turn on Wi-Fi" name="wifi_p2p_turn_on_wifi_msg" width="-1">打开 WLAN 以使用 WLAN Direct 服务。 现在打开 WLAN Direct？</string>
+    <string description="title for turn on WiFi dialog" name="wifi_p2p_turn_on_wifi_title" width="-1">打开 WLAN</string>
+    <string description="search" maxwidth="-1" name="wifidirect_action_bar_scan">搜索</string>
+    <string description="Available devices" maxwidth="-1" name="wifidirect_available_devices">可用设备</string>
+    <string description="Do you want to connect to device" maxwidth="-1" name="wifidirect_connect_hint">是否连接</string>
+    <string description="Dialog title text: Invitation to connect" maxwidth="-1" name="wifidirect_connect_hint_title">连接邀请</string>
+    <string description="Dialog title text: Wi-Fi Direct connecting" maxwidth="-1" name="wifidirect_connecting_hint_title">WLAN Direct 连接...</string>
+    <string description="connectted" maxwidth="-1" name="wifidirect_connectted">已连接</string>
+    <string description=">Do you want to disconnect" maxwidth="-1" name="wifidirect_disconnect_hint">是否断开连接</string>
+    <string description="Disconnect Wi-Fi Direct" maxwidth="-1" name="wifidirect_disconnect_hint_title">断开 WLAN Direct</string>
+    <string description="peer devices infomation" maxwidth="-1" name="wifidirect_peer_device_info">为了接收 WLAN Direct 邀请，请确保您的连接设备停留在文件管理器的“对等设备”页面。</string>
+    <string description="peer devices title" maxwidth="-1" name="wifidirect_peer_device_title">对等设备</string>
+    <string description="searching" maxwidth="-1" name="wifidirect_scanning">搜索...</string>
+    <string description="Search Wi-Fi Direct device" maxwidth="-1" name="wifidirect_storage_title">搜索 WLAN Direct 设备</string>
+    <string description="click to connect" maxwidth="-1" name="wifidirect_touch_to_connect">单击以连接</string>
+    <string name="yandex_account_only_one_alert">"只允许添加一个Yandex帐户。 您必须先删除当前帐户，然后换成新帐户。"</string>
+    <string name="yes">是</string>
+    <string name="zenui_update">"ZenUI即时更新"</string>
+    <string description="toast message: Compress files fail" maxwidth="-1" name="zip_fail">文件压缩失败</string>
+    <string description="compress dialog message" maxwidth="-1" name="zip_progress_msg">压缩中...</string>
+    <string description="toast message: Compress files successly" maxwidth="-1" name="zip_success">文件压缩成功</string>
+</resources>

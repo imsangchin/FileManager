@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/file_item_height"
+    android:descendantFocusability="blocksDescendants"
+    android:gravity="center"
+    android:paddingBottom="@dimen/file_item_padding_vertical"
+    android:paddingTop="@dimen/file_item_padding_vertical" >
+
+    <RelativeLayout
+        android:id="@+id/file_list_item_container"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/file_list_height"
+        android:gravity="center_vertical" >
+
+        <com.asus.filemanager.ui.RoundedImageView
+            android:id="@+id/recommend_list_item_app_icon"
+            android:layout_width="@dimen/file_list_height"
+            android:layout_height="@dimen/file_list_height"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:background="@android:color/transparent"
+            android:scaleType="fitCenter"
+            android:src="@drawable/asus_ep_ic_folder"
+            app:riv_border_color="#333333"
+            app:riv_border_width="0dip"
+            app:riv_corner_radius="5dip"
+            app:riv_mutate_background="true"
+            app:riv_oval="false"
+            app:riv_tile_mode="clamp" />
+
+        <LinearLayout
+            android:id="@+id/recommend_info_container"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="@dimen/file_list_info_container_marginLeft"
+            android:layout_marginStart="@dimen/file_list_info_container_marginLeft"
+            android:layout_toEndOf="@id/recommend_list_item_app_icon"
+            android:layout_toRightOf="@id/recommend_list_item_app_icon"
+            android:orientation="vertical" >
+
+            <RelativeLayout
+                android:id="@+id/recommend_name_container"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1" >
+
+                <TextView
+                    android:id="@+id/recommend_list_item_app_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_marginBottom="1dp"
+                    android:layout_marginEnd="@dimen/file_list_info_container_marginLeft"
+                    android:layout_marginLeft="0dp"
+                    android:layout_marginRight="@dimen/file_list_info_container_marginLeft"
+                    android:layout_marginStart="0dp"
+                    android:ellipsize="end"
+                    android:fontFamily="Roboto Medium"
+                    android:gravity="left|start"
+                    android:singleLine="true"
+                    android:textColor="@color/recommend_app_title_color"
+                    android:textSize="@dimen/recommend_app_title_text_size" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/recommend_list_category_container"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1" >
+
+                <TextView
+                    android:id="@+id/install_button"
+                    android:layout_width="@dimen/recommend_app_download_icon_width"
+                    android:layout_height="@dimen/recommend_app_download_icon_height"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentRight="true"
+                    android:background="@drawable/button_blue"
+                    android:fontFamily="Roboto Medium"
+                    android:gravity="center"
+                    android:text="@string/install"
+                    android:textAllCaps="true"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/recommend_app_download_text_size" />
+
+                <TextView
+                    android:id="@+id/recommend_list_item_app_category"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_marginEnd="@dimen/file_list_info_container_marginLeft"
+                    android:layout_marginLeft="0dp"
+                    android:layout_marginRight="@dimen/file_list_info_container_marginLeft"
+                    android:layout_marginStart="0dp"
+                    android:layout_marginTop="1dp"
+                    android:layout_toLeftOf="@id/install_button"
+                    android:layout_toStartOf="@id/install_button"
+                    android:ellipsize="middle"
+                    android:fontFamily="Roboto Regular"
+                    android:singleLine="true"
+                    android:textColor="@color/recommend_app_category_color"
+                    android:textSize="@dimen/recommend_app_category_text_size" />
+            </RelativeLayout>
+        </LinearLayout>
+
+        <!-- install button position -->
+
+    </RelativeLayout>
+
+    <!-- Just for work around to avoid RecommendSDK eat onClick event -->
+
+    <View
+        android:id="@+id/recommend_list_item_work_around"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone" />
+
+</RelativeLayout>

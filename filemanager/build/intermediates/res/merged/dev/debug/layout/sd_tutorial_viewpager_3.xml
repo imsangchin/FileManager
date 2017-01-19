@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="?normal_background_color" >
+
+    <include
+        layout="@layout/tutorial_title_content"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/tutorial_margin_left"
+        android:layout_marginStart="@dimen/tutorial_margin_left"
+        android:layout_marginTop="@dimen/tutorial_page_margin_top"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginStart="@dimen/tutorial_margin_left"
+        android:layout_marginEnd="@dimen/tutorial_margin_left"
+        android:gravity="center">
+
+        <ImageView
+            android:id="@+id/view_pager_image"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/ic_tutorial_sd_card_03"
+            android:scaleType="fitCenter"
+            android:focusable="false"
+            android:clickable="false"
+            android:adjustViewBounds="true"
+            android:contentDescription="@null"/>
+    </LinearLayout>
+
+</LinearLayout>

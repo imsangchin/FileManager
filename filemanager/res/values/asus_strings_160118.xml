@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="httpserver_title" maxwidth="">"Wireless file transfer to PC"</string>
+    <string name="httpserver_start" maxwidth="">"Start"</string>
+    <string name="httpserver_stop" maxwidth="">"Stop"</string>
+    <string name="httpserver_need_saf" maxwidth="">"If you would like to manage your external storage from PC, you must grant permission."</string>
+    <string name="httpserver_description" maxwidth="">"Start the service to connect your mobile device to PC."</string>
+    <string name="httpserver_instruction" maxwidth="">"Key in this address to the browser on your PC:"</string>
+    <string name="httpserver_no_network" maxwidth="">"Connect your device to the same Wi-Fi network"</string>
+    <string name="httpserver_no_permission_title" maxwidth="">"Start wireless file transfer"</string>
+    <string name="httpserver_no_permission_message" maxwidth="">"You'll not be able to write to external storage without proper permission. Continue?"</string>
+    <string name="httpserver_acquire_permission_message" maxwidth="">"HTTP file server will be closed and operations may be interrupted. Continue?"</string>
+    <string name="category_title_tools">"Tools"</string>
+    <string name="tools_file_transfer">"PC file transfer"</string>
+    <string name="tools_clean_master">"Clean junk"</string>
+    <string name="retention_notification_large_file">"You have added %1$s large files. View them now."</string>
+    <string name="retention_notification_recent_file">"Your recent files consume %1$s space. View them now."</string>
+    <string name="recommend_clean_master_msg">"The World's most trusted Android Optimizer, Speed Booster, Battery Saver and Free Anti-Virus app. \nDownload now?"</string>
+    <string name="recommend_clean_master_title">"App recommendation"</string>
+    <string name="tools_tip_animation">"Pull up for tools!"</string>
+</resources>

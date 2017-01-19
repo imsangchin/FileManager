@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="httpserver_title" maxwidth="">"Kabellose Dateiübertragung an PC"</string>
+    <string name="httpserver_start" maxwidth="">"Start"</string>
+    <string name="httpserver_stop" maxwidth="">"Stopp"</string>
+    <string name="httpserver_need_saf" maxwidth="">"Wenn Sie Ihren externen Speicher vom PC verwalten möchten, müssen Sie die entsprechende Berechtigung gewähren."</string>
+    <string name="httpserver_description" maxwidth="">"Starten Sie den Dienst zur Verbindung Ihres Mobilgerätes mit dem PC."</string>
+    <string name="httpserver_instruction" maxwidth="">"Geben Sie diese Adresse in den Browser an Ihrem PC ein:"</string>
+    <string name="httpserver_no_network" maxwidth="">"Verbinden Sie Ihr Gerät mit demselben WLAN-Netzwerk"</string>
+    <string name="httpserver_no_permission_title" maxwidth="">"Kabellose Dateiübertragung starten"</string>
+    <string name="httpserver_no_permission_message" maxwidth="">"Sie können den externen Speicher ohne angemessene Berechtigung nicht beschreiben. Fortfahren?"</string>
+    <string name="httpserver_acquire_permission_message" maxwidth="">"HTTP-Dateiserver wird geschlossen und Aktionen werden möglicherweise unterbrochen. Fortfahren?"</string>
+    <string name="category_title_tools">"Werkzeuge"</string>
+    <string name="tools_file_transfer">"PC-Dateiübertragung"</string>
+    <string name="tools_clean_master">"Junk beseitigen"</string>
+    <string name="retention_notification_large_file">"Sie haben %1$s große Dateien hinzugefügt. Jetzt ansehen."</string>
+    <string name="retention_notification_recent_file">"Ihre aktuellen Dateien verbrauchen %1$s Speicherplatz. Jetzt ansehen."</string>
+    <string name="recommend_clean_master_msg">"Die kostenlose App rund um Android- und Geschwindigkeitsoptimierung, Energieeinsparung und Virenschutz, der weltweit am meisten vertraut wird. \nJetzt herunterladen?"</string>
+    <string name="recommend_clean_master_title">"App-Empfehlung"</string>
+    <string name="tools_tip_animation">"Für Werkzeuge nach oben ziehen!"</string>
+</resources>

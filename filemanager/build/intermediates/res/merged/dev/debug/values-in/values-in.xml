@@ -1,0 +1,1295 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="alarm_set">
+        <item msgid="6450913786084215050">"Alarm disetel untuk kurang dari 1 menit dari sekarang."</item>
+        <item msgid="6002066367368421848">"Alarm disetel untuk <ns1:g id="DAYS">%1$s</ns1:g> dari sekarang."</item>
+        <item msgid="8824719306247973774">"Alarm disetel untuk <ns1:g id="HOURS">%2$s</ns1:g> dari sekarang."</item>
+        <item msgid="8182406852935468862">"Alarm disetel untuk <ns1:g id="DAYS">%1$s</ns1:g> dan <ns1:g id="HOURS">%2$s</ns1:g> dari sekarang."</item>
+        <item msgid="2532279224777213194">"Alarm disetel untuk <ns1:g id="MINUTES">%3$s</ns1:g> dari sekarang."</item>
+        <item msgid="5936557894247187717">"Alarm disetel untuk <ns1:g id="DAYS">%1$s</ns1:g> dan <ns1:g id="MINUTES">%3$s</ns1:g> dari sekarang."</item>
+        <item msgid="9115697840826129603">"Alarm disetel untuk <ns1:g id="HOURS">%2$s</ns1:g> dan <ns1:g id="MINUTES">%3$s</ns1:g> dari sekarang."</item>
+        <item msgid="2332583385137381060">"Alarm disetel untuk <ns1:g id="DAYS">%1$s</ns1:g>, <ns1:g id="HOURS">%2$s</ns1:g>, dan <ns1:g id="MINUTES">%3$s</ns1:g> dari sekarang."</item>
+    </string-array>
+    <string-array name="charset_array">
+        <item>"Latin-1 (ISO-8859-1)"</item>
+        <item>"Unicode (UTF-8)"</item>
+        <item>"Cina (GBK)"</item>
+        <item>"Cina (Big5)"</item>
+        <item>"Jepang (ISO-2022-JP)"</item>
+        <item>"Jepang (SHIFT_JIS)"</item>
+        <item>"Jepang (EUC-JP)"</item>
+        <item>"Korea (EUC-KR)"</item>
+    </string-array>
+    <string-array name="country_names">
+        <item>Aruba</item>
+        <item>Afganistan (جمهوری اسلامی افغانستان)</item>
+        <item>Angola (República de Angola)</item>
+        <item>Anguila</item>
+        <item>Albania (Shqipëri)</item>
+        <item>Andorra (Principat d\'Andorra)</item>
+        <item>Antilla Belanda</item>
+        <item>Uni Emirat Arab (دولة الإمارات العربية المتحدة‎)</item>
+        <item>Argentina (República Argentina)</item>
+        <item>Armenia (Hayastan)</item>
+        <item>Samoa Amerika</item>
+        <item>Antartika</item>
+        <item>Wilayah Selatan Prancis</item>
+        <item>Antigua dan Barbuda</item>
+        <item>Australia (Australia)</item>
+        <item>Austria (Österreich)</item>
+        <item>Azerbaijan</item>
+        <item>Burundi</item>
+        <item>Belgia (België)</item>
+        <item>Benin</item>
+        <item>Burkina Faso</item>
+        <item>Bangladesh (বাংলাদেশ)</item>
+        <item>Bulgaria (България/Balgariya)</item>
+        <item>Bahrain (مملكة البحرين)</item>
+        <item>Bahama</item>
+        <item>Bosnia/Herzegovina (Bosna i Hercegovina)</item>
+        <item>Belarus (Беларусь)</item>
+        <item>Belize</item>
+        <item>Bermuda</item>
+        <item>Bolivia</item>
+        <item>Brasil</item>
+        <item>Barbados</item>
+        <item>Brunei Darussalam (بروني دارالسلام)</item>
+        <item>Bhutan</item>
+        <item>Pulau Bouvet</item>
+        <item>Botswana (Lefatshe la Botswana)</item>
+        <item>Republik Afrika Tengah (République Centrafricaine)</item>
+        <item>Kanada</item>
+        <item>Kepulauan Cocos (Keeling)</item>
+        <item>Swiss (Suisse)</item>
+        <item>Cile</item>
+        <item>Cina (中國)</item>
+        <item>Pantai Gading</item>
+        <item>Kamerun</item>
+        <item>Kongo</item>
+        <item>Kepulauan Cook</item>
+        <item>Kolombia</item>
+        <item>Komoro</item>
+        <item>Tanjung Verde</item>
+        <item>Kosta Rika</item>
+        <item>Kuba</item>
+        <item>Pulau Christmas</item>
+        <item>Kepulauan Cayman</item>
+        <item>Siprus (Eropa)</item>
+        <item>Republik Ceko (Česká Republika)</item>
+        <item>Jerman (Deutschland)</item>
+        <item>Jibuti</item>
+        <item>Dominika</item>
+        <item>Denmark (Danmark)</item>
+        <item>Republik Dominika</item>
+        <item>Aljazair</item>
+        <item>Ekuador</item>
+        <item>Mesir (مصر‎)</item>
+        <item>Eritrea</item>
+        <item>Sahara Barat</item>
+        <item>Spanyol (España)</item>
+        <item>Estonia (Eesti)</item>
+        <item>Etiopia</item>
+        <item>Finlandia (Suomi)</item>
+        <item>Fiji</item>
+        <item>Kepulauan Falkland</item>
+        <item>Prancis (France)</item>
+        <item>Belgia (Belgique)</item>
+        <item>Kepulauan Faroe</item>
+        <item>Mikronesia</item>
+        <item>Gabon</item>
+        <item>Inggris (United Kingdom)</item>
+        <item>Georgia (საქართველო)</item>
+        <item>Ghana</item>
+        <item>Gibraltar</item>
+        <item>Guinea</item>
+        <item>Guadeloupe</item>
+        <item>Gambia</item>
+        <item>Guinea-Bissau</item>
+        <item>Guinea Ekuatorial</item>
+        <item>Yunani (Ελλάδα)</item>
+        <item>Grenada</item>
+        <item>Greenland</item>
+        <item>Guatemala</item>
+        <item>Guyana Prancis</item>
+        <item>Guam</item>
+        <item>Guyana</item>
+        <item>Hong Kong (香港)</item>
+        <item>Kepulauan Heard dan Mc Donald</item>
+        <item>Honduras</item>
+        <item>Kroasia (Hrvatska)</item>
+        <item>Haiti</item>
+        <item>Hungaria (Magyarország)</item>
+        <item>Indonesia (Republik Indonesia)</item>
+        <item>India (भारत गणराज्य)</item>
+        <item>Wilayah Samudra Hindia Britania</item>
+        <item>Irlandia (Ireland)</item>
+        <item>Iran (ایران)</item>
+        <item>Irak (العراق)</item>
+        <item>Islandia (Ísland)</item>
+        <item>Israel (מְדִינַת יִשְׂרָאֵל / دَوْلَةُ إِسْرَائِيلَ)</item>
+        <item>Italia (Italia)</item>
+        <item>Jamaika</item>
+        <item>Yordania (L\'Ürdünn)</item>
+        <item>Jepang (日本国)</item>
+        <item>Kazakstan</item>
+        <item>Kenya (Jamhuri ya Kenya)</item>
+        <item>Kirgizstan</item>
+        <item>Kamboja (कम्बोजदेश)</item>
+        <item>Kiribati</item>
+        <item>Saint Kitts dan Nevis</item>
+        <item>Korea Selatan (대한민국)</item>
+        <item>Kuwait (دولة الكويت)</item>
+        <item>Laos</item>
+        <item>Lebanon (اَلْجُمْهُورِيَّة اَللُّبْنَانِيَّة)</item>
+        <item>Liberia</item>
+        <item>Libia</item>
+        <item>Saint Lucia</item>
+        <item>Liechtenstein (Liechtenstein)</item>
+        <item>Sri Lanka (இலங்கை ஜனநாயக சமத்துவ)</item>
+        <item>Lesotho</item>
+        <item>Lituania (Lietuva)</item>
+        <item>Luksemburg (Lëtzebuerg)</item>
+        <item>Latvia (Latvija)</item>
+        <item>Makau</item>
+        <item>Maroko</item>
+        <item>Monako (Monaco)</item>
+        <item>Moldova (Moldova)</item>
+        <item>Madagaskar</item>
+        <item>Maladewa</item>
+        <item>Meksiko</item>
+        <item>Kepulauan Marshall</item>
+        <item>Makedonia</item>
+        <item>Mali</item>
+        <item>Malta (Malta)</item>
+        <item>Myanmar (Pyidaunzu Thanmăda Myăma Nainngandaw)</item>
+        <item>Mongolia</item>
+        <item>Kepulauan Mariana Utara</item>
+        <item>Mozambik</item>
+        <item>Mauritania</item>
+        <item>Montserrat</item>
+        <item>Martinik (Martinique)</item>
+        <item>Mauritius (Republik Moris)</item>
+        <item>Malawi</item>
+        <item>Malaysia (Persekutuan Malaysia)</item>
+        <item>Mayotte</item>
+        <item>Namibia</item>
+        <item>Kaledonia Baru (Nouvelle-Calédonie)</item>
+        <item>Niger</item>
+        <item>Pulau Norfolk (Norfuk Ailen)</item>
+        <item>Nigeria (Republik Nijeriya)</item>
+        <item>Nikaragua</item>
+        <item>Niue</item>
+        <item>Belanda (Nederland)</item>
+        <item>Norwegia (Norge)</item>
+        <item>Nepal (सङ्घीय लोकतान्त्रिक गणतन्त्र नेपाल)</item>
+        <item>Nauru</item>
+        <item>Selandia Baru (New Zealand)</item>
+        <item>Oman (لطنة عمان)</item>
+        <item>Pakistan (پاکِستان)</item>
+        <item>Panama</item>
+        <item>Pitcairn</item>
+        <item>Peru</item>
+        <item>Filipina (Pilipinas)</item>
+        <item>Palau</item>
+        <item>Papua Nugini</item>
+        <item>Polandia (Polska)</item>
+        <item>Puerto Riko</item>
+        <item>Korea Utara</item>
+        <item>Portugal (Portugal)</item>
+        <item>Paraguay</item>
+        <item>Polinesia Prancis</item>
+        <item>Qatar</item>
+        <item>Reunion</item>
+        <item>Rumania (România)</item>
+        <item>Rusia (Россия)</item>
+        <item>Rwanda</item>
+        <item>Arab Saudi (المملكة العربية السعودية)</item>
+        <item>Serbia dan Montenegro</item>
+        <item>Sudan (جمهورية السودان)</item>
+        <item>Senegal</item>
+        <item>Singapura (Singapore)</item>
+        <item>Georgia Selatan dan Kepulauan Sandwich Selatan</item>
+        <item>St. Helena</item>
+        <item>Kepulauan Svalbard dan Jan Mayen</item>
+        <item>Kepulauan Solomon (Solomon Islands)</item>
+        <item>Sierra Leone</item>
+        <item>El Salvador</item>
+        <item>San Marino (San Marino)</item>
+        <item>Somalia</item>
+        <item>St. Pierre dan Miquelon (St. Pierre and Miquelon)</item>
+        <item>Sao Tome dan Principe</item>
+        <item>Suriname</item>
+        <item>Slovakia (Slovensko)</item>
+        <item>Slovenia (Slovenija)</item>
+        <item>Swedia (Sverige)</item>
+        <item>Swaziland (Swatini)</item>
+        <item>Seychelles</item>
+        <item>Republik Arab Suriah (جمهورية العربية السورية)</item>
+        <item>Kepulauan Turks dan Caicos</item>
+        <item>Chad</item>
+        <item>Togo</item>
+        <item>Thailand (ราชอาณาจักรไทย)</item>
+        <item>Tajikistan</item>
+        <item>Tokelau</item>
+        <item>Turkmenistan</item>
+        <item>Timor Timur</item>
+        <item>Tonga</item>
+        <item>Trinidad dan Tobago</item>
+        <item>Tunisia</item>
+        <item>Turki (Türkiye)</item>
+        <item>Tuvalu</item>
+        <item>Taiwan, Republik Cina (台灣)</item>
+        <item>Tanzania</item>
+        <item>Uganda (Jamhuri ya Uganda)</item>
+        <item>Ukraina (Україна)</item>
+        <item>Kepulauan Terluar Kecil Amerika Serikat</item>
+        <item>Uruguay</item>
+        <item>Amerika Serikat</item>
+        <item>Uzbekistan</item>
+        <item>Vatikan (Stato della Città del Vaticano)</item>
+        <item>Saint Vincent dan Grenadines</item>
+        <item>Venezuela</item>
+        <item>Kepulauan Virgin (Inggris)</item>
+        <item>Kepulauan Virgin (AS)</item>
+        <item>Vietnam (Việt Nam)</item>
+        <item>Vanuatu</item>
+        <item>Kepulauan Wallis dan Futuna</item>
+        <item>Samoa</item>
+        <item>Yaman</item>
+        <item>Afrika Selatan (Republiek van Suid-Afrika)</item>
+        <item>Zaire</item>
+        <item>Zambia</item>
+        <item>Zimbabwe (Simudzai Mureza wedu WeZimbabwe)</item>
+    </string-array>
+    <plurals name="dialog_unzip_preview_size_text">
+        <item quantity="one">Total: %1$d file, %2$s</item>
+        <item quantity="other">Total: %1$d file, %2$s</item>
+    </plurals>
+    <plurals name="drag_items">
+        <item quantity="one">Tarik item</item>
+        <item quantity="other">Tarik item</item>
+    </plurals>
+    <plurals name="number_search_items">
+        <item quantity="one">"%d file ditemukan"</item>
+        <item quantity="other">"%d file ditemukan"</item>
+    </plurals>
+    <plurals name="number_selected_items">
+        <item quantity="one">%d dipilih</item>
+        <item quantity="other">%d dipilih</item>
+    </plurals>
+    <plurals name="uf_sdk_number_of_subscribers_format">
+        <item quantity="one">"%1$s menyukai topik ini"</item>
+        <item quantity="other">"%1$s menyukai topik ini"</item>
+    </plurals>
+    <plurals name="uf_sdk_topics">
+        <item quantity="one">"topik"</item>
+        <item quantity="other">"topik"</item>
+    </plurals>
+    <plurals name="uv_comments">
+        <item quantity="one">"komentar"</item>
+        <item quantity="other">"komentar"</item>
+    </plurals>
+    <plurals name="uv_number_of_subscribers_format">
+        <item quantity="one">"%1$s menginginkan ide ini"</item>
+        <item quantity="other">"%1$s menginginkan ide ini"</item>
+    </plurals>
+    <plurals name="uv_people">
+        <item quantity="one">"orang"</item>
+        <item quantity="other">"orang"</item>
+    </plurals>
+    <plurals name="uv_subscribers">
+        <item quantity="one">"pelanggan"</item>
+        <item quantity="other">"pelanggan"</item>
+    </plurals>
+    <string name="AsusWebstroage">AsusWebstorage</string>
+    <string name="AuCloud">AuCloud</string>
+    <string name="BaiDuPCS">BaiDuPCS</string>
+    <string name="Default">Default</string>
+    <string name="Dropbox">Dropbox</string>
+    <string name="Google_Drive">Google Drive</string>
+    <string name="HomeCloud">HomeCloud</string>
+    <string name="OneDrive">OneDrive</string>
+    <string name="Yandex">Yandex</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Navigasi ke beranda"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Navigasi naik"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Opsi lain"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Selesai"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Lihat semua"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Pilih aplikasi"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"NONAKTIF"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"AKTIF"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Telusuri..."</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Hapus kueri"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Kueri penelusuran"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Telusuri"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Kirim kueri"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Penelusuran suara"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Bagikan dengan"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Bagikan dengan %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Ciutkan"</string>
+    <string name="about">"Tentang"</string>
+    <string name="account_asus">ASUS</string>
+    <string name="action">"Sign in"</string>
+    <string description="cutstom action bar view title for about" maxwidth="-1" name="action_about">Tentang</string>
+    <string description="action add files" maxwidth="-1" name="action_add">Tambah</string>
+    <string description="cutstom action bar view title for add folder" maxwidth="-1" name="action_add_folder">Tambahkan folder</string>
+    <string description="View title of custom action bar, apply to multiple selected files" maxwidth="-1" name="action_apply_selected_file">Terapkan</string>
+    <string description="action cancel" maxwidth="-1" name="action_cancel">Batal</string>
+    <string maxwidth="-1" name="action_clean">"Bersihkan"</string>
+    <string maxwidth="-1" name="action_clean_all">"Bersihkan semua"</string>
+    <string description="cutstom action bar view title for clear search history" maxwidth="" name="action_clear_history">Kosongkan riwayat pencarian</string>
+    <string description="cutstom action bar view title for edit" maxwidth="" name="action_edit">"Edit"</string>
+    <string maxwidth="" name="action_hidden_zone">"Pindahkan ke Kabinet Tersembunyi"</string>
+    <string description="cutstom action bar view title for hinde system file" maxwidth="-1" name="action_hind_system_file">Sembunyikan file sistem</string>
+    <string name="action_loading">"Memuat..."</string>
+    <string description="cutstom action bar view title for open with" maxwidth="" name="action_open_with">"Buka dengan..."</string>
+    <string name="action_refresh_cloudfile">Refresh</string>
+    <string maxwidth="-1" name="action_restore">"Pulihkan"</string>
+    <string maxwidth="-1" name="action_restore_all">"Pulihkan semua"</string>
+    <string description="cutstom action bar view title for search" maxwidth="" name="action_search">Cari</string>
+    <string description="cutstom action bar view title for set as" maxwidth="" name="action_set_as">"Atur gambar sebagai"</string>
+    <string description="menu title for setting" maxwidth="-1" name="action_settings">"Pengaturan"</string>
+    <string description="cutstom action bar view title for sharing" maxwidth="-1" name="action_share">Bagi</string>
+    <string description="String for asking for the rule of sorting" maxwidth="-1" name="action_sort_by">Urut berdasarkan</string>
+    <string description="cutstom action bar view title for zip" maxwidth="" name="action_zip">Kompres</string>
+    <string description="Dialog title: Add cloud storage" maxwidth="-1" name="add_cloud_storage_dialog_title">Tambahkan penyimpanan cloud</string>
+    <string name="add_favorite">Tambahkan ke Favorit</string>
+    <string name="add_favorite_folder">"Tambahkan folder favorit"</string>
+    <string name="add_favorite_success">Simpan ke Favorit</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="add_progress">Membuat...</string>
+    <string description="Don&apos;t remind me again" maxwidth="-1" name="alert_cb_msg">Jangan ingatkan saya lagi</string>
+    <string description="ASUS ZenUI Services is not support, need update ASUS ZenUI Services" maxwidth="-1" name="alert_msg_azs_update">%1$s memerlukan versi terbaru Layanan ASUS ZenUI, instal sekarang.</string>
+    <string description="Client app is not support, need update client app" maxwidth="-1" name="alert_msg_client_update">Versi baru 1%$s telah tersedia, instal sekarang.</string>
+    <string description="Client app version is compatible with ASUS ZenUI Services" maxwidth="-1" name="alert_msg_compatible">Versi %1$s kompatibel dengan Layanan ASUS ZenUI.</string>
+    <string description="Client app version is match with ASUS ZenUI Services" maxwidth="-1" name="alert_msg_match">Versi %1$s sesuai dengan Layanan ASUS ZenUI.</string>
+    <string description="ASUS ZenUI Services is not found on device" maxwidth="-1" name="alert_msg_not_found">Layanan ASUS ZenUI belum diinstal!\n\nBuka download, lalu menginstalnya?</string>
+    <string description="Dialog title" maxwidth="-1" name="alert_title">Catatan</string>
+    <string description="Dialog title" maxwidth="-1" name="alert_title_update">Pembaruan disarankan</string>
+    <string name="app_cloudstorage_name">CloudStorage</string>
+    <string name="app_upload_complete">"%s upload selesai"</string>
+    <string description="" name="article_one">Saya menyetujui \"<u>Informasi Persyaratan Penggunaan</u>\" ASUS, \"<u>Kebijakan Privasi</u>\" ASUS, \"<u>Informasi Persyaratan Penggunaan</u>\" ASUS WebStorage, \"<u>Kebijakan Privasi</u>\" ASUS WebStorage.</string>
+    <string description="" name="article_two">Kirimkan berita ASUS, pembaruan perangkat lunak, serta informasi produk dan layanan terbaru kepada saya melalui eDMs.</string>
+    <string description="Text for create asus account button." maxwidth="" name="asus_account_create_button">Buat baru</string>
+    <string name="asus_account_integrate_dialog_content">Apakah Anda ingin mengintegrasikan layanan Penyimpanan Cloud ASUS dengan Account ASUS? \n\n Setelah mengintegrasikan dengan Penyimpanan Cloud ASUS, Anda dapat menggunakan semua layanan ASUS dengan account yang sama.</string>
+    <string name="asus_account_integrate_dialog_skip">Lewati</string>
+    <string name="asus_account_integrate_dialog_title">Integrasikan Layanan ASUS</string>
+    <string name="asus_account_integrate_dialog_yes">Ya</string>
+    <string description="Text for asus account content 1st." maxwidth="" name="asus_account_msg_content_1">Memperoleh layanan dukungan ASUS pribadi dan perpanjangan jaminan untuk produk yang terdaftar.</string>
+    <string description="Text for asus account content 2nd." maxwidth="" name="asus_account_msg_content_2">Memperoleh ruang penyimpanan cloud 5 GB gratis.</string>
+    <string description="Text for asus account content 3rd." maxwidth="" name="asus_account_msg_content_3">Memperoleh informasi terbaru tentang aksesori dan produk yang diperbarui.</string>
+    <string description="Text for asus account content title." maxwidth="" name="asus_account_msg_title">Buat account ASUS agar Anda dapat:</string>
+    <string name="asus_account_only_one_alert">"Hanya satu akun ASUS yang boleh ditambahkan. Anda harus menghapus akun aktif sebelum mengganti dengan yang baru."</string>
+    <string name="asus_account_prefc">"Pengaturan"</string>
+    <string name="asus_account_prefc_advc">"Pengaturan lanjutan"</string>
+    <string name="asus_account_registe_country_error">Pilih satu kawasan negara!</string>
+    <string name="asus_account_registe_id_error">Kesalahan pada email</string>
+    <string name="asus_account_registe_policy_error">Anda harus menyetujui kebijakan ASUS untuk mendaftarkan Account ASUS!</string>
+    <string name="asus_account_registe_pw_error_1">Kolom sandi tidak boleh kosong!</string>
+    <string name="asus_account_registe_pw_error_2">Kolom konfirmasikan sandi tidak boleh kosong!</string>
+    <string name="asus_account_registe_pw_error_3">Isian pada kolom sandi dan konfirmasikan sandi harus sama!</string>
+    <string name="asus_account_registe_pw_error_4">"Sandi harus terdiri atas 8 hingga 25."</string>
+    <string name="asus_account_removeaccount_dialog_content">"Integrasi akun berhasil. Log in lagi menggunakan akun baru."</string>
+    <string name="asus_account_removeaccount_dialog_title">"Integrasi akun ASUS berhasil"</string>
+    <string name="asus_commonui_activity_chooser_view_see_all">"Lihat semua"</string>
+    <string name="asus_commonui_activity_resolver_use_always">"Selalu"</string>
+    <string name="asus_commonui_activity_resolver_use_once">"Hanya sekali"</string>
+    <string name="asus_commonui_activitychooserview_choose_application">"Pilih apl"</string>
+    <string name="asus_commonui_activitychooserview_choose_application_error">
+        "Tidak dapat meluncurkan <ns1:g id="APPLICATION_NAME">%s</ns1:g>"
+    </string>
+    <string name="asus_commonui_cancel_label">"Batal"</string>
+    <string name="asus_commonui_chooseActivity">"Pilih tindakan"</string>
+    <string msgid="3968620852217927702" name="asus_commonui_day_picker_description">"Kisi hari pada bulan"</string>
+    <string msgid="6908431551612331381" name="asus_commonui_deleted_key">"<ns1:g id="KEY">%1$s</ns1:g> dihapus"</string>
+    <string name="asus_commonui_done_label">"Oke"</string>
+    <string msgid="7586639618712934060" name="asus_commonui_hour_picker_description">"Penggeser putar jam"</string>
+    <string msgid="2674929164900463786" name="asus_commonui_item_is_selected">"<ns1:g id="ITEM">%1$s</ns1:g> dipilih"</string>
+    <string msgid="6024811202872705251" name="asus_commonui_minute_picker_description">"Penggeser putar menit"</string>
+    <string name="asus_commonui_noApplications">"Tidak ada apl yang dapat melakukan tindakan ini."</string>
+    <string name="asus_commonui_no_url_handler">Tidak ditemukan aplikasi untuk membuka URL</string>
+    <string name="asus_commonui_privacy_policy">Kebijakan Privasi</string>
+    <string name="asus_commonui_privacy_policy_url">http://www.asus.com/ID/Terms_of_Use_Notice_Privacy_Policy/Privacy_Policy</string>
+    <string msgid="3973338219107019769" name="asus_commonui_select_day">"Pilih bulan dan hari"</string>
+    <string msgid="7651068754188418859" name="asus_commonui_select_hours">"Pilih jam"</string>
+    <string msgid="8327182090226828481" name="asus_commonui_select_minutes">"Pilih menit"</string>
+    <string msgid="2603330600102539372" name="asus_commonui_select_year">"Pilih tahun"</string>
+    <string name="asus_commonui_shareactionprovider_share_with">"Berbagi dengan"</string>
+    <string name="asus_commonui_shareactionprovider_share_with_application">
+        "Berbagi dengan <ns1:g id="APPLICATION_NAME">%s</ns1:g>"\</string>
+    <string name="asus_commonui_terms_of_use_notice">Informasi Persyaratan Penggunaan</string>
+    <string name="asus_commonui_terms_of_use_notice_url">http://www.asus.com/ID/Terms_of_Use_Notice_Privacy_Policy/Official_Site/</string>
+    <string name="asus_commonui_whichApplication">"Tindakan lengkap menggunakan"</string>
+    <string name="asus_commonui_whichHomeApplication">"Pilih aplikasi beranda"</string>
+    <string msgid="6963340404644587098" name="asus_commonui_year_picker_description">"Daftar tahun"</string>
+    <string name="asus_feedback_and_help">Tanggapan dan Bantuan</string>
+    <string name="asus_registe_success_title">"Pendaftaran akun ASUS berhasil"</string>
+    <string name="asus_response_resultdata">"Akun ini telah terdaftar."</string>
+    <string name="asusaccount_app_name">Account ASUS</string>
+    <string maxwidth="-1" name="attribution_notice">"Pemberitahuan Atribut"</string>
+    <string maxwidth="-1" name="attribution_notice_content">
+    "\nProduk berisi sumber terbuka yang tercantum di bawah ini:
+\n\nuservoice-android-sdk, yang berlisensi di bawah Apache License Versi 2.0. Lisensi ini dapat di-download dari http://www.apache.org/licenses/LICENSE-2.0.html .
+        \n\nangular-filemanager, yang berlisensi di bawah MIT. Lisensi ini dapat di-download dari https://github.com/joni2back/angular-filemanager/blob/master/LICENSE .
+        \n\nprogressbar, yang berlisensi di bawah MIT. Lisensi ini dapat di-download dari https://github.com/kimmobrunfeldt/progressbar.js/blob/master/LICENSE .
+        \n\ntoastr, Hak cipta (c) 2012-2015 John Papa, Tim Ferrell, Hans Fjällemark\nIzin dalam hal ini diberikan bebas biaya, kepada setiap orang yang mendapatkan salinan perangkat lunak ini beserta file dokumentasi terkait (the "Perangkat Lunak"), untuk berurusan dalam Perangkat Lunak ini tanpa batas, termasuk tanpa pembatasan hak untuk menggunakan, menyalin, menggabungkan, menerbitkan, mendistribusikan, memberikan sublisensi, dan/atau menjual salinan Perangkat Lunak ini, dan untuk mengizinkan orang yang diberikan Perangkat Lunak ini untuk melakukan hal demikian, dengan tunduk pada ketentuan berikut:
+        Pemberitahuan hak cipta di atas dan pemberitahuan izin ini harus disertakan dalam seluruh salinan atau bagian penting Perangkat Lunak. PERANGKAT LUNAK INI DISEDIAKAN "SEBAGAIMANA ADANYA", TANPA JAMINAN APA PUN, BAIK TERSURAT MAUPUN TERSIRAT, TERMASUK NAMUN TIDAK TERBATAS PADA JAMINAN YANG DIPERDAGANGKAN, KESESUAIAN UNTUK TUJUAN TERTENTU DAN PENYALAHGUNAAN HAK. DALAM KEADAAN APA PUN, PENCIPTA ATAU PEMEGANG HAK CIPTA TIDAK BERTANGGUNG JAWAB ATAS SETIAP KLAIM, KERUSAKAN ATAU KEWAJIBAN LAINNYA, BAIK DALAM TINDAKAN KONTRAK, KESALAHAN MAUPUN HAL LAIN, YANG MUNCUL, YANG DIAKIBATKAN DARI ATAU YANG BERHUBUNGAN DENGAN PERANGKAT LUNAK ATAU PENGGUNAAN ATAU URUSAN LAINNYA DALAM PERANGKAT LUNAK INI."
+    </string>
+    <string name="aucloud_account_only_one_alert">"Hanya satu akun Cloud yang boleh ditambahkan. Anda harus menghapus akun aktif sebelum mengganti dengan yang baru."</string>
+    <string description="string indicating how camera shooting feature is used" maxwidth="-1" name="auto">Otomatis</string>
+    <string name="aws_install_contnet">"Tidak ASUS WebStorage sudah diinstal. Anda ingin men-download dan menginstal dari Play Store?"</string>
+    <string name="aws_install_title">"ASUS Webstorage belum diinstal"</string>
+    <string description="button text." maxwidth="-1" name="back_button_label">Kembali</string>
+    <string name="baidu_alert_info">"Berdasarkan platform Baidu, perangkat ini hanya dapat mengakses data dalam "Data Aplikasi Saya\\asus\\"."</string>
+    <string name="baidu_alert_title">"Penyimpanan Cloud Baidu"</string>
+    <string name="baidu_storage_title">"百度云"</string>
+    <string name="baidupcs_account_only_one_alert">"Hanya satu akun Baidu untuk ASUS yang boleh ditambahkan. Anda harus menghapus akun aktif sebelum mengganti dengan yang baru."</string>
+    <string name="btn_OK">OK</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="calculate_progress">"Sedang berlangsung..."</string>
+    <string description="Toast: can not open in hidden zone" maxwidth="-1" name="can_not_open_in_hidden_zone">"Tidak dapat dibuka dalam Kabinet Tersembunyi"</string>
+    <string description="Dialog Button: cancel for dialog" maxwidth="" name="cancel">Batal</string>
+    <string name="cancle">Batal</string>
+    <string name="category_apk">Aplikasi</string>
+    <string maxwidth="11" name="category_app1">"Aplikasi"</string>
+    <string name="category_compress">"Dikompresi"</string>
+    <string maxwidth="11" name="category_compressed1">"Dikompresi"</string>
+    <string name="category_count">"%s"</string>
+    <string maxwidth="11" name="category_document1">"Dokumen"</string>
+    <string name="category_documents">"Dokumen"</string>
+    <string name="category_download">Download</string>
+    <string maxwidth="11" name="category_download1">"Download"</string>
+    <string name="category_favorite">Favorit</string>
+    <string maxwidth="11" name="category_favorite1">"Favorit"</string>
+    <string name="category_game">"Game"</string>
+    <string name="category_image">Gambar</string>
+    <string maxwidth="11" name="category_image1">"Gambar"</string>
+    <string maxwidth="11" name="category_large_file1">"File besar"</string>
+    <string name="category_music">Musik</string>
+    <string maxwidth="11" name="category_music1">"Musik"</string>
+    <string name="category_name_app_wallpaper">"Wallpaper Animasi"</string>
+    <string name="category_name_app_widgets">"Widget"</string>
+    <string name="category_name_books_and_reference">"Buku &amp; Referensi"</string>
+    <string name="category_name_business">"Bisnis"</string>
+    <string name="category_name_comics">"Komik"</string>
+    <string name="category_name_communication">"Komunikasi"</string>
+    <string name="category_name_education">"Pendidikan"</string>
+    <string name="category_name_entertainment">"Hiburan"</string>
+    <string name="category_name_finance">"Keuangan"</string>
+    <string name="category_name_game">"Game"</string>
+    <string name="category_name_game_action">"Laga"</string>
+    <string name="category_name_game_adventure">"Petualangan"</string>
+    <string name="category_name_game_arcade">"Arkade"</string>
+    <string name="category_name_game_board">"Papan"</string>
+    <string name="category_name_game_card">"Kartu"</string>
+    <string name="category_name_game_casino">"Kasino"</string>
+    <string name="category_name_game_casual">"Santai"</string>
+    <string name="category_name_game_educational">"Pendidikan"</string>
+    <string name="category_name_game_family">"Keluarga"</string>
+    <string name="category_name_game_music">"Musik"</string>
+    <string name="category_name_game_puzzle">"Teka-teki"</string>
+    <string name="category_name_game_racing">"Balapan"</string>
+    <string name="category_name_game_role_playing">"RPG"</string>
+    <string name="category_name_game_simulation">"Simulasi"</string>
+    <string name="category_name_game_sports">"Olahraga"</string>
+    <string name="category_name_game_strategy">"Strategi"</string>
+    <string name="category_name_game_trivia">"Trivia"</string>
+    <string name="category_name_game_word">"Kata"</string>
+    <string name="category_name_health_and_fitness">"Kesehatan &amp; Kebugaran"</string>
+    <string name="category_name_libraries_and_demo">"Perpustakaan &amp; Demo"</string>
+    <string name="category_name_lifestyle">"Gaya Hidup"</string>
+    <string name="category_name_media_and_video">"Media &amp; Video"</string>
+    <string name="category_name_medical">"Kedokteran"</string>
+    <string name="category_name_music_and_audio">"Musik &amp; Audio"</string>
+    <string name="category_name_news_and_magazines">"Berita &amp; Majalah"</string>
+    <string name="category_name_personalization">"Personalisasi"</string>
+    <string name="category_name_photography">"Fotografi"</string>
+    <string name="category_name_productivity">"Produktivitas"</string>
+    <string name="category_name_shopping">"Belanja"</string>
+    <string name="category_name_social">"Sosial"</string>
+    <string name="category_name_sports">"Olahraga"</string>
+    <string name="category_name_tools">"Alat"</string>
+    <string name="category_name_transportation">"Transportasi"</string>
+    <string name="category_name_travel_and_local">"Perjalanan &amp; Lokal"</string>
+    <string name="category_name_weather">"Cuaca"</string>
+    <string name="category_others">"Lainnya"</string>
+    <string maxwidth="11" name="category_recent1">"Terakhir"</string>
+    <string name="category_recent_files">"Baru ditambahkan"</string>
+    <string name="category_sorting_summary">"Pilih item yang ditampilkan pada kategori panel"</string>
+    <string name="category_title_category">Kategori</string>
+    <string name="category_title_local_storage">Penyimpanan Lokal</string>
+    <string name="category_title_tools">"Alat Bantu"</string>
+    <string name="category_toast_invalid_item_size_6_or_9">"Pilih 6 atau 9 item"</string>
+    <string name="category_toast_invalid_item_size_9">"Pilih 9 item"</string>
+    <string name="category_toast_invalid_remove">"Item ini tidak dapat dihapus"</string>
+    <string name="category_toast_max_item_size">"Pilih maksimal 9 item"</string>
+    <string name="category_video">Video</string>
+    <string maxwidth="11" name="category_video1">"Video"</string>
+    <string name="clear_account_info">Lupakan semua akun</string>
+    <string description="Menu Option: clear all checkbox" maxwidth="" name="clear_all">Hapus semua</string>
+    <string name="click_plus_to_add_favorite_folder">"Ketuk + untuk menambahkan folder favorit"</string>
+    <string description="Toast: The size is over the limit and cannot be uploaded" maxwidth="-1" name="cloud_download_flie_limit_space">Download file gagal. Ukuran file melebihi batas maksimum.</string>
+    <string description="Toast: The name of the file uploaded is not supported by cloud server" maxwidth="-1" name="cloud_flie_name_not_supported">Operasi tidak dapat diselesaikan karena nama file tidak didukung server cloud.</string>
+    <string description="home cloud get available devices fail" name="cloud_homebox_get_devices_fail">Pindai perangkat HomeCloud yang tersedia gagal</string>
+    <string description="home cloud has no available devices" name="cloud_homebox_no_available_devices">Perangkat HomeCloud tidak tersedia</string>
+    <string description="home cloud device is sleep" name="cloud_homebox_status__info_Sleep">Tidur</string>
+    <string description="home cloud device is offline" name="cloud_homebox_status__info_offline">Offline</string>
+    <string description="home cloud device is online" name="cloud_homebox_status__info_online">Online</string>
+    <string description="home cloud device is offline" name="cloud_homebox_status_offline">Perangkat sedang offline</string>
+    <string description="diaglog cloud background paste" name="cloud_paste_backgroud">Latar belakang</string>
+    <string description="diaglog cloud  now is copy files" name="cloud_paste_copying">Menyalin...</string>
+    <string description="diaglog cloud  current" name="cloud_paste_current">Saat ini</string>
+    <string description="diaglog cloud  now is delete source files" name="cloud_paste_deleting">Menghapus file sumber...</string>
+    <string description="diaglog cloud  paste" name="cloud_paste_downloading">Men-download file</string>
+    <string description="diaglog cloud  total" name="cloud_paste_total">Total</string>
+    <string description="diaglog cloud  paste uploading" name="cloud_paste_uploading">Meng-upload file</string>
+    <string description="Toast: cloud preview action" maxwidth="-1" name="cloud_preview_action_fail">pratinjau file cloud gagal.</string>
+    <string description="Toast: cloud share action" maxwidth="-1" name="cloud_share_action_fail">berbagi file cloud gagal.</string>
+    <string description=">Do you want to remove" maxwidth="-1" name="cloud_storage_remove_hint">"Anda ingin log out dari akun \"%s\"?"</string>
+    <string description="Dialog title: Remove cloud storage" maxwidth="-1" name="cloud_storage_remove_hint_title">Log out</string>
+    <string description=">Do you want to signin" maxwidth="-1" name="cloud_storage_sign_in">Sambung menggunakan account berikut:</string>
+    <string description="Dialog title: Signin cloud storage" maxwidth="-1" name="cloud_storage_sign_in_title">Sambungkan %s</string>
+    <string description=">Do you want to signout" maxwidth="-1" name="cloud_storage_sign_out">Anda yakin ingin sign out?</string>
+    <string description="Dialog title: Signout cloud storage" maxwidth="-1" name="cloud_storage_sign_out_title">Terputus</string>
+    <string description="Add more cloud storage" maxwidth="-1" name="cloud_storage_title">Tambahkan penyimpanan cloud lainnya</string>
+    <string description="diaglog cloud  token is invalidate" name="cloud_token_invalidate">Tanggal token tidak valid, coba log in lagi!</string>
+    <string description="Toast: The size is over the limit and cannot be uploaded" maxwidth="-1" name="cloud_upload_flie_limit_space">Upload file gagal. Ukuran file melebihi batas maksimum.</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Aktifkan"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> tidak akan berfungsi jika layanan Google Play tidak diaktifkan."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Aktifkan layanan Google Play"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Pasang"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> tidak akan berjalan tanpa layanan Google Play, yang tidak ada di perangkat Anda."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Dapatkan layanan Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Kesalahan layanan Google Play"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> mengalami masalah dengan layanan Google Play. Coba lagi."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> tidak akan berjalan tanpa layanan Google Play, yang tidak didukung oleh perangkat Anda."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Perbarui"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> tidak akan berjalan jika layanan Google Play tidak diperbarui."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Perbarui layanan Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> tidak akan berjalan tanpa layanan Google Play, yang saat ini sedang diperbarui."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Perlu versi baru layanan Google Play. Akan segera memperbarui sendiri."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Buka di ponsel"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Masuk"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Masuk dengan Google"</string>
+    <string name="confirm">"Konfirmasi"</string>
+    <string name="confirm_ok">"OK"</string>
+    <string description="confirm password textview title" name="confirm_password">Konfirmasikan sandi</string>
+    <string description="ask user to enter password again to confirm" name="confirm_password_edit">Masukkan ulang sandi</string>
+    <string description="content" maxwidth="-1" name="content">Penggunaan perangkat lunak ini diatur dalam persyaratan dan ketentuan di situs web ASUS: \nhttp://www.asus.com</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="copy">Salin</string>
+    <string description="Toast: copy ready" maxwidth="-1" name="copy_ready_more">File yang dipilih telah disalin dan siap ditempelkan.</string>
+    <string description="Toast: copy ready. %s is variable string." maxwidth="-1" name="copy_ready_one">"\"%s\" telah disalin dan siap ditempelkan."</string>
+    <string name="copy_to">Salin ke</string>
+    <string description="country region textview title" name="country_region">Kawasan negara</string>
+    <string description="ack user to select on country" name="country_region_select">Pilih kawasan Anda</string>
+    <string name="create_shortcut">"Buat pintasan"</string>
+    <string name="create_shortcut_dialog">"Buat pintasan pada Pengaktif"</string>
+    <string name="create_shortcut_toast">"Membuat pintasan pada Pengaktif selesai"</string>
+    <string name="cta_agree">"Izinkan"</string>
+    <string name="cta_check_title">"Ingat"</string>
+    <string name="cta_dialog_content"><b>Manajer File</b> berupaya menggunakan jaringan, bisa dikenai biaya lain tergantung jenis langganan Anda.</string>
+    <string name="cta_dialog_title">"Menggunakan Jaringan"</string>
+    <string name="cta_disagree">"Tolak"</string>
+    <string name="cta_show_menu">"Izin jaringan"</string>
+    <string name="current_folder">"Folder saat ini"</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="cut">Potong</string>
+    <string description="Toast: cut ready" maxwidth="-1" name="cut_ready_more">File yang dipilih telah dipotong dan siap ditempelkan.</string>
+    <string description="Toast: cut ready. %s is variable string." maxwidth="-1" name="cut_ready_one">"\"%s\" telah dipotong dan siap ditempelkan."</string>
+    <string description="button text for sort file by date" maxwidth="-1" name="date">Tanggal</string>
+    <string description="button text for sort file by date ascending" maxwidth="-1" name="date_ascending">Tanggal (terlama-terbaru)</string>
+    <string description="button text for sort file by date descending" maxwidth="-1" name="date_descending">Tanggal (terbaru-terlama)</string>
+    <string msgid="7984755014526510295" name="day">"1 hari"</string>
+    <string msgid="2070509222727852210" name="days">"<ns1:g id="DAYS">%s</ns1:g> hari"</string>
+    <string name="dbx_install_contnet">"Tidak Dropbox sudah diinstal Anda ingin men-download dan menginstal dari Play Store?"</string>
+    <string name="dbx_install_title">"Dropbox belum diinstal"</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="delete">Hapus</string>
+    <string description="Dialog Title: delete dialog title" maxwidth="" name="delete_dialog">Hapus file</string>
+    <string description="Toast: delete fails" maxwidth="-1" name="delete_fail">Hapus file gagal.</string>
+    <string description="Dialog Content: text in dialog. %d is variable number." maxwidth="" name="delete_more_files">Anda ingin menghapus item %d?</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="delete_one_directory">Anda ingin menghapus direktori?</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="delete_one_files">Anda ingin menghapus file ini?</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="delete_progress">Menghapus...</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="delete_size">"Ukuran: "</string>
+    <string description="Toast: delete success" maxwidth="-1" name="delete_success_more">File yang dipilih telah dihapus.</string>
+    <string description="Toast: delete success. %s is variable string." maxwidth="-1" name="delete_success_one">"\"%s\" telah dihapus."</string>
+    <string description="cutstom action bar view title for deselect all checkbox" maxwidth="" name="deselect_all">Batalkan semua pilihan</string>
+    <string name="device_root_path">akar</string>
+    <string description="compress dialog title" maxwidth="-1" name="dialog_create_zip_title">Masukkan nama arsip</string>
+    <string description="extract zip file dialog title. %s is a dynamic string. It is zip file name." maxwidth="-1" name="dialog_extract_zip_title">Ekstrak %s ke:</string>
+    <string name="dialog_load_stream_url_info">Mengambil informasi yang diperlukan dari server</string>
+    <string name="dialog_msg_market_login_account">"Log in ke akun Google untuk men-download aplikasi"</string>
+    <string description="text encoding dialog title" maxwidth="-1" name="dialog_text_encoding_title">Pengkodean teks</string>
+    <string name="dialog_title_market_login_account">"Tambah akun"</string>
+    <string description="show zip info dialog title. %s is a dynamic string. Is is a zip file name" maxwidth="-1" name="dialog_unzip_preview_title">Ekstrak %s</string>
+    <string description="Dialog Title: Directory information dialog title" maxwidth="-1" name="dir_info_dialog_title">Informasi direktori</string>
+    <string name="display">Tampilkan sebagai</string>
+    <string name="display_hint">Komputer Saya, dapat dikosongkan</string>
+    <string name="dm_openfile">"Buka file"</string>
+    <string name="do_not_show_again">"Jangan tampilkan lagi"</string>
+    <string name="domain">Domain:</string>
+    <string name="domain_hint">Dapat dikosongkan</string>
+    <string name="download_fail">download gagal!</string>
+    <string name="drag_items_one">Tarik item</string>
+    <string name="drag_items_other">Tarik item</string>
+    <string name="drawer_close">Tutup panel navigasi</string>
+    <string name="drawer_home">Beranda</string>
+    <string name="drawer_open">Buka panel navigasi</string>
+    <string description="Hint: the operation is incorrect" maxwidth="-1" name="drop_incorrect_hint">Pengoperasian salah</string>
+    <string description="Hint: the target folder which you want to do something" maxwidth="-1" name="drop_target_to">Target:</string>
+    <string name="dumdownloadfrom">Download dari</string>
+    <string name="dumuploadto">Upload ke</string>
+    <string name="duplicate_files">"Duplikasi file"</string>
+    <string name="duplicate_files_content_hint">"Temukan duplikat file lalu hapus dengan izin Anda."</string>
+    <string name="edit_toast_name_too_long">Jumlah maksimal karakter tercapai</string>
+    <string name="edit_toast_special_char">Tidak boleh berisi karakter khusus</string>
+    <string name="editcategory_hint">"Ketuk tombol edit untuk mengubahsuaikan panel Kategori."</string>
+    <string description="describe the empty folder" maxwidth="-1" name="empty_folder_title">"Tidak ada file"</string>
+    <string description="Dialog Button: click to open the encoding list dialog" maxwidth="-1" name="encode">Pengkodean teks</string>
+    <string description="ask user to enter password" maxwidth="-1" name="enter_password">"Masukkan sandi"</string>
+    <string name="eula_content_description">
+        \nPerjanjian Lisensi Pengguna Akhir (“EULA”) ini mencakup perjanjian mengikat antara ASUSTeK Computer Inc. (“ASUS“) dan Anda, sebagai pengguna, untuk penggunaan Perangkat Lunak ASUS (“Perangkat Lunak”) didefinisikan seperti di bawah ini. Dengan menginstal dan terus menggunakan Perangkat Lunak ini ANDA MENGAKUI BAHWA ANDA TELAH MEMBACA DAN MEMAHAMI DAN SETUJU UNTUK TERIKAT OLEH PERSYARATAN EULA INI BESERTA SETIAP VERSI BARU PERJANJIAN INI. 
+\n\n1.PERANGKAT LUNAK adalah Perangkat Lunak ASUS yang disediakan di dalam atau bersama produk ASUS yang digunakan termasuk namun tidak terbatas pada perbaikan pemrograman masa depan, pembaruan, upgrade dan versi modifikasi.
+\nPerangkat Lunak ini bisa disertai perangkat lunak milik ASUS- lainnya atau milik pihak ketiga yang mendapatkan lisensi di bawah satu atau beberapa lisensi Perangkat Lunak Gratis Sumber Terbuka seperti yang tercantum di www.opensource.org/licenses. Perangkat Lunak Gratis Sumber Terbuka ini disediakan untuk Anda hanya di bawah persyaratan perjanjian lisensi masing-masing atau pemberitahuan hak cipta menyertai atau dalam file lisensi FOSS yang menyertai Perangkat Lunak ini. Ketentuan EULA ini TIDAK berlaku untuk Perangkat Lunak Gratis Sumber Terbuka semacam ini.
+\n\n2.LISENSI Tunduk pada ketentuan EULA ini, ASUS dengan ini memberi Anda lisensi terbatas, pribadi, non-komersial, non-eksklusif untuk menggunakan Perangkat Lunak semata-mata sebagaimana tertanam dalam produk ASUS. Anda boleh membuat satu salinan Perangkat Lunak dalam bentuk yang bisa dibaca oleh mesin untuk tujuan sebagai cadangan saja; asalkan salinan tersebut mencakup juga semua hak cipta atau kepemilikan lainnya yang terdapat pada salinan aslinya. Lisensi ini tidak akan disublisensikan, dan tidak bisa dialihkan kecuali kepada orang atau lembaga yang menerima transfer kepemilikan produk lengkap ASUS yang berisi Perangkat Lunak ini, asalkan Anda secara permanen mentransfer semua hak berdasarkan EULA ini dan tidak menyimpan seluruh atau sebagian salinan dari Perangkat Lunak ini, dan pihak penerima setuju dengan persyaratan EULA ini.
+\n\n3.LARANGAN PEMBALIKAN Anda dilarang merekayasa-balik, mengurai, mendekripsi. atau membongkar Perangkat Lunak atau mengizinkan atau menyebabkan tindakan tersebut, kecuali hukum yang berlaku secara tegas melarang ketentuan ini.
+\n\n4.KERAHASIAAN Anda berkewajiban melindungi dan tidak mengungkapkan atau menyebabkan pengungkapan seluruh atau sebagian dari informasi rahasia Perangkat Lunak ini, termasuk namun tidak terbatas pada rahasia dagang, hak cipta dengan cara apa pun kepada pihak ketiga.
+\n\n5.Hak Kekayaan intelektual (“HKI”) Anda mengakui dan setuju bahwa semua HKI, hak milik, dan kepentingan pada atau yang timbul dari Perangkat Lunak adalah dan akan tetap menjadi milik eksklusif ASUS atau pemberi lisensinya. Tidak ada dalam EULA ini bertujuan mentransfer HKI apa pun kepada Anda. Setiap penggunaan yang tidak sah dari HKI adalah melanggar EULA ini serta melanggar hukum kekayaan intelektual, termasuk namun tidak terbatas pada undang-undang hak cipta dan undang-undang merek dagang.
+\nDengan mengirimkan informasi, materi, ide, konsep atau teknik, kecuali informasi pribadi, kepada ASUS melalui Perangkat Lunak ini(“Masukan”), Anda mengakui dan setuju bahwa: (i) Masukan Anda tidak memuat informasi rahasia atau kepemilikan; (ii) ASUS tidak berkewajiban dalam bentuk apapun untuk menjaga kerahasiaan Masukan, baik secara tersurat maupun tersirat; (iii)ASUS, menurut kebijakannya sendiri berhak untuk menggunakan atau mengungkapkan Masukan untuk tujuan apapun, dengan cara apapun, di seluruh dunia; (iv) Masukan Anda akan menjadi hak milik ASUS tanpa adanya kewajiban apapun dari pihak ASUS kepada Anda; dan (v) Anda tidak berhak atas kompensasi atau penggantian dalam bentuk apapun dari Masukan tersebut.
+\n\n6.MASA BERLAKU DAN PENGHENTIAN EULA ini mulai berlaku sejak tanggal Anda menginstal Perangkat Lunak ini. Anda boleh mengakhiri Lisensi ini setiap saat dengan menghentikan semua penggunaan Perangkat Lunak dan menghapus Perangkat Lunak dari produk ASUS. Hak Anda akan berakhir tanpa pemberitahuan terlebih dahulu dari ASUS jika kami menganggap Anda gagal untuk mematuhi ketentuan EULA ini.
+\n\n7.Penolakan Jaminan dan Batasan Tanggung Jawab ANDA MENGAKUI BAHWA PERANGKAT LUNAK INI DISEDIAKAN "SEBAGAIMANA ADANYA". SEMUA RISIKO KUALITAS DAN KINERJA PERANGKAT LUNAK INI ADALAH TANGGUNG JAWAB ANDA SENDIRI, TERMASUK NAMUN TIDAK TERBATAS PADA BIAYA TERKAIT DARI JASA DAN PERBAIKAN. SEJAUH DIIZINKAN OLEH HUKUM, ASUS TIDAK MEMBERIKAN JAMINAN, SECARA TERSURAT MAUPUN TERSIRAT, TERKAIT DENGAN PERANGKAT LUNAK INI ATAU INFORMASI LAINNYA ATAU DOKUMENTASI YANG DIBERIKAN BERDASARKAN EULA INI ATAU UNTUK PERANGKAT LUNAK INI, TERMASUK NAMUN TIDAK TERBATAS PADA JAMINAN DAPAT DIPERDAGANGKAN ATAU KESESUAIAN UNTUK TERTENTU TUJUAN ATAU BEBAS DARI PELANGGARAN, ATAU JAMINAN DARI PENGGUNAAN ATAU KINERJA. ASUS JUGA TIDAK MEMBERIKAN JAMINAN TERHADAP HASIL YANG BISA DIPEROLEH DARI PENGGUNAAN PERANGKAT LUNAK INI ATAU TERHADAP KEAKURATAN ATAU KEANDALAN INFORMASI YANG DIPEROLEH MELALUI PERANGKAT LUNAK INI. SEBAGIAN YURISDIKSI MELARANG PENGECUALIAN JAMINAN TERTENTU ATAU PEMBATASAN ATAU PENGECUALIAN TANGGUNG JAWAB ATAS KERUSAKAN TERTENTU. DENGAN DEMIKIAN, SEBAGIAN DARI PENOLAKAN TANGGUNG JAWAB DAN PEMBATASAN TANGGUNG JAWAB MUNGKIN TIDAK BERLAKU UNTUK ANDA.
+\nSELURUH RISIKO YANG TIMBUL DARI PENGGUNAAN DAN/ATAU KINERJA PERANGKAT LUNAK INI TETAP MENJADI TANGGUNG JAWAB ANDA. DALAM KONDISI APA PUN ASUS, PEMBERI LISENSI MAUPUN PARA PEJABAT, DIREKSI, KARYAWAN, AGEN ATAU AFILIASINYA TIDAK BERTANGGUNG JAWAB ATAS KERUGIAN AKIBAT, INSIDENTAL, LANGSUNG, TIDAK LANGSUNG, KHUSUS, HUKUMAN, ATAU KERUGIAN LAIN DALAM BENTUK APA PUN (TERMASUK, TANPA BATASAN, KERUGIAN UNTUK HILANGNYA LABA, GANGGUAN, KEHILANGAN INFORMASI, ATAU KERUGIAN FINANSIAL LAINNYA) YANG TIMBUL DARI ATAU BERKAITAN DENGAN EULA INI ATAU PENGGUNAAN ATAU KETIDAKMAMPUAN UNTUK MENGGUNAKAN PERANGKAT LUNAK ATAU BAGIAN DARI PERANGKAT LUNAK INI, MESKIPUN ASUS TELAH DIBERI TAHU TENTANG KEMUNGKINAN KERUGIAN TERSEBUT. SEBAGIAN YURISDIKSI MELARANG PENGECUALIAN JAMINAN TERTENTU ATAU PEMBATASAN ATAU PENGECUALIAN TANGGUNG JAWAB ATAS KERUSAKAN TERTENTU. DENGAN DEMIKIAN, SEBAGIAN DARI PENOLAKAN TANGGUNG JAWAB DAN PEMBATASAN TANGGUNG JAWAB MUNGKIN TIDAK BERLAKU UNTUK ANDA.
+\n\n8.Ganti Rugi ANDA setuju untuk melindungi, mengganti kerugian dan membebaskan ASUS dan afiliasinya, penyedia layanan, sindikasi, distributor, pemberi lisensi, petugas, direktur dan karyawan, dari dan terhadap setiap dan semua kerugian, kerusakan, kewajiban, dan biaya yang timbul dari setiap klaim atau tuntutan (termasuk biaya yang wajar untuk pengacara dan pengadilan), akibat atau terkait dengan pelanggaran ANDA terhadap EULA ini atau terhadap hukum dan peraturan yang berlaku, atau hak pihak ketiga.
+    </string>
+    <string name="eula_content_title">"Perjanjian Lisensi Pengguna Akhir"</string>
+    <string description="Do not translate ASUS" maxwidth="" name="eula_description">"Kontrak hukum antara aplikasi ASUS dengan pengguna terakhir"</string>
+    <string maxwidth="" name="eula_title">"Perjanjian Lisensi Pengguna Akhir"</string>
+    <string name="example">Contoh:</string>
+    <string description="Dialog Button: extract file for dialog" maxwidth="-1" name="extract">Ekstrak</string>
+    <string name="facebook_app_invite">"Kontak Facebook"</string>
+    <string name="fb_request_error_permissions">"Aplikasi ini tidak memiliki izin untuk melakukan tindakan ini. Coba log in kembali ke aplikasi."</string>
+    <string name="fileList_Nofiles">Tidak ada file</string>
+    <string description="Dialog Title: File information dialog title" maxwidth="-1" name="file_info_dialog_title">Informasi file</string>
+    <string description="Application Name shown on title" maxwidth="" name="file_manager">Manajer File</string>
+    <string description="string indicating camera flash is not used" maxwidth="-1" name="flash_off">Tanpa lampu kilat</string>
+    <string description="string indicating camera flash is fired" maxwidth="-1" name="flash_on">Lampu kilat aktif</string>
+    <string description="click to retrieve password" maxwidth="-1" name="forget_password">"<u>Lupa sandi?</u>"</string>
+    <string name="fragment_analyzer_allfiles_used_hint">"Terpakai:"</string>
+    <string name="fragment_analyzer_chart_free_hint">"Bebas:"</string>
+    <string name="fragment_analyzer_chart_total_hint">"Total:"</string>
+    <string name="fragment_analyzer_chart_used_hint">"TERPAKAI"</string>
+    <string name="fragment_analyzer_more_hint">"lainnya"</string>
+    <string name="google_app_invite">"Kontak Google"</string>
+    <string name="group_title_installed">"Terinstal"</string>
+    <string name="group_title_not_installed">"Tidak terinstal"</string>
+    <string name="group_title_others">"Lainnya"</string>
+    <string name="group_title_recommended">"Disarankan"</string>
+    <string name="hidden_zone_change_password">"Ubah sandi"</string>
+    <string name="hidden_zone_confirm_password">"Konfirmasi kode PIN"</string>
+    <string name="hidden_zone_enter_password">"Masukkan kode PIN"</string>
+    <string name="hidden_zone_fingerprint_to_unlock">"Sidik jari untuk membuka kunci"</string>
+    <string name="hidden_zone_forget_password">"Lupa sandi"</string>
+    <string name="hidden_zone_introduction_description">"Sembunyikan file pribadi Anda dalam Kabinet Tersembunyi. Kode PIN diperlukan untuk membuka Kabinet Tersembunyi."</string>
+    <string name="hidden_zone_password_mismatch">"Kode PIN tidak cocok"</string>
+    <string name="hidden_zone_set_password_success">"Sandi telah berhasil disetel"</string>
+    <string name="hidden_zone_setup_account">"Konfigurasi akun"</string>
+    <string name="hidden_zone_setup_password">"Masukkan kode PIN 4 digit"</string>
+    <string name="hidden_zone_wrong_password">"Kode PIN salah"</string>
+    <string description="Can’t connect to HomeCloud." maxwidth="-1" name="homecloud_access_error">Sambungan ke HomeCloud gagal. Pastikan layanan HomeCloud sedang online.</string>
+    <string name="homecloud_notice_1">ASUS HomeCloud merupakan bagian dari perangkat lunak server yang berjalan di sistem Windows. ASUS HomeCloud dirancang sebagai perpustakaan konten digital untuk rumah, memberikan layanan penyimpanan cloud dan layanan streaming multimedia sekarang, serta dapat menyediakan berbagai layanan lainnya di masa mendatang.</string>
+    <string name="homecloud_notice_2">Anda dapat men-download dan menikmatinya sekarang juga. </string>
+    <string name="homecloud_notice_3">http://home.asuscloud.com/</string>
+    <string name="homecloud_toast_udp_unsupported">Jaringan terbatas. Hubungi administrator jaringan Anda atau alihkan ke jaringan lain.</string>
+    <string msgid="2546819039651509323" name="hour">"1 jam"</string>
+    <string msgid="2071487018566991613" name="hours">"<ns1:g id="HOURS">%s</ns1:g> jam"</string>
+    <string maxwidth="" name="httpserver_acquire_permission_message">"Server file HTTP akan ditutup dan operasi bisa terhalang. Lanjutkan?"</string>
+    <string maxwidth="" name="httpserver_connectwifiname">"Aplikasi Wi-Fi yang Tersambung:"</string>
+    <string maxwidth="" name="httpserver_description">"Mulai layanan untuk menyambungkan perangkat seluler ke PC."</string>
+    <string maxwidth="" name="httpserver_instruction">"Masukkan alamat ini ke browser pada PC Anda:"</string>
+    <string maxwidth="" name="httpserver_need_saf">"Jika Anda ingin mengelola penyimpanan eksternal dari PC, Anda harus memberikan izin."</string>
+    <string maxwidth="" name="httpserver_no_network">"Sambungkan perangkat ke jaringan Wi-Fi yang sama"</string>
+    <string maxwidth="" name="httpserver_no_permission_message">"Anda tidak akan bisa menulis penyimpanan eksternal tanpa izin yang benar. Lanjutkan?"</string>
+    <string maxwidth="" name="httpserver_no_permission_title">"Mulai pemindahan file secara nirkabel"</string>
+    <string maxwidth="" name="httpserver_start">"Mulai!"</string>
+    <string maxwidth="" name="httpserver_stop">"Berhenti"</string>
+    <string maxwidth="" name="httpserver_title">"Pemindahan file secara nirkabel ke PC"</string>
+    <string description="Context Menu: options of context menu" maxwidth="-1" name="info">Informasi</string>
+    <string description="file info textview context" maxwidth="-1" name="info_aperture">"Apertur: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_datetime">"Tanggal pengambilan: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_exposure_time">"Waktu pencahayaan: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_file_num">"File: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_flash">"Lampu kilat: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_focal_length">"Jarak fokus: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_image_height">"Tinggi: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_image_width">"Lebar"</string>
+    <string description="file info textview context" maxwidth="-1" name="info_image_x">" x "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_iso">"ISO: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_location">"Lokasi: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_maker">"Pembuat: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_model">"Model: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_modified">"Tanggal modifikasi: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_name">"Nama: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_orientation">"Orientasi: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_path">"Jalur: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_permission">"Izin: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_type">"Jenis: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_white_balance">"Keseimbangan putih: "</string>
+    <string description="Do not translate ASUS" maxwidth="" name="inspire_asus_description">Kumpulkan data penggunaan kepada ASUS untuk meningkatkan produk dan pengalaman pengguna</string>
+    <string name="inspire_asus_title">"Inspirasi ASUS"</string>
+    <string name="install">"Instal"</string>
+    <string description="storage label" maxwidth="-1" name="internal_storage_title">Penyimpanan internal</string>
+    <string description="Toast: the account is invalid" maxwidth="-1" name="invalid_account">Account tidak valid</string>
+    <string description="Invalid directory path" maxwidth="-1" name="invalid_directory_path">Jalur direktori tidak valid</string>
+    <string name="invalid_server_id">"ID server tidak valid"</string>
+    <string name="invalid_xml">"Xml tidak valid"</string>
+    <string name="inviteContentTitle">%1$s mengundang Anda untuk men-download dan menginstal Manajer File ASUS.</string>
+    <string name="inviteContent_p1">Manajer File ASUS adalah cara yang ideal untuk mengelola file di perangkat pintar Anda. Aplikasi manajemen file ini akan membantu Anda menangani dan mengatur beragam file yang tersimpan dalam memori telepon, microSD, jaringan area lokal, bahkan di Cloud Anda.</string>
+    <string name="inviteContent_p2">Kelola file Anda secara efisien dan mudah dengan Manajer File ASUS! Manajer File ASUS akan membantu Anda menangani semua file yang tersimpan dalam memori perangkat, kartu microSD, jaringan area lokal, dan akun penyimpanan cloud seperti ASUS HomeCloud, Webstorage, serta layanan Cloud lainnya milik kami, dan layanan cloud lainnya seperti Dropbox, Google Drive, atau Microsoft OneDrive.</string>
+    <string name="inviteContent_p3">Saya suka Manajer File ASUS. Coba SEKARANG! :D</string>
+    <string description="sticker detail page button name" maxwidth="-1" name="invite_friends">"Undang Teman"</string>
+    <string name="item">item</string>
+    <string name="items">item</string>
+    <string name="keep">"Simpan"</string>
+    <string name="kk_sd_permission_warning">Dikarenakan adanya batasan Android, maka Android 4.4 tidak membolehkan aplikasi pihak ketiga memodifikasi kartu SD eksternal.</string>
+    <string name="large_files_content_hint">"Temukan file berukuran besar lalu hapus dengan izin Anda."</string>
+    <string description="linked file is missing" maxwidth="-1" name="linked_file_missing">"File terkait tidak ada"</string>
+    <string description="text for progress bar" maxwidth="-1" name="loading">Memuat\u2026</string>
+    <string name="local">Lokal</string>
+    <string description="button text for sort file by date" maxwidth="-1" name="location">Lokasi</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="logging_cloud_storage">Sedang log in...</string>
+    <string name="login_account_miss">"Aplikasi Facebook gagal mendaftarkan Manajer Akun Android. Log out melalui aplikasi Facebook, lalu log in kembali."</string>
+    <string name="login_again_later">"Server tidak tersedia sekarang. Coba lagi nanti."</string>
+    <string description="dialog title, key in the asus ID and PW to Login account" maxwidth="-1" name="login_asus_id">"Sign ini akun ASUS"</string>
+    <string description="Toast: login account fail" name="login_fail" width="-1">Log in gagal</string>
+    <string description="login account name" maxwidth="-1" name="login_id">"Nama akun/ID WebStorage"</string>
+    <string description="logout account" name="logout_account" width="-1">Log out</string>
+    <string name="low_storage_tutorial_description">Sentuh terus untuk memilih file, lalu pilih "Pindahkan ke" Google Drive</string>
+    <string name="low_storage_tutorial_title">Pindahkan file ke Google Drive</string>
+    <string name="m_permission_dialog_message">"Ketuk [Setelan] untuk mengaktifkan izin [%2$s] dalam [Info aplikasi] > [Izin], lalu mulai ulang %1$s."</string>
+    <string name="m_permission_dialog_positive_button">"Setelan"</string>
+    <string name="m_permission_setting_subtitle_files">"%1$s perlu izin %2$s untuk mengakses file Anda dalam perangkat."</string>
+    <string name="m_permission_setting_title_cloud_storage">"Tidak dapat mengakses penyimpanan awan"</string>
+    <string name="m_permission_setting_title_files">"Tidak dapat mengakses file"</string>
+    <string name="m_permission_setting_turn_on">"Aktifkan"</string>
+    <string description="string indicating how camera shooting feature is used" maxwidth="-1" name="manual">Manual</string>
+    <string name="market_app_error">"Terjadi kesalahan pada Application APP pasar yang terinstal di perangkat Anda!"</string>
+    <string description="ask user to enter email address as account name" maxwidth="-1" name="member_id_hint">"Masukkan alamat email"</string>
+    <string description="The title of a menu for General Preferences.Pressing the menu item lets user to view and edit his general settings" maxwidth="30" name="menu_general_preferences">Pengaturan umum</string>
+    <string description="settings menu tutorial" maxwidth="-1" name="menu_tutorial">Tutorial</string>
+    <string name="messenger_send_button_text">Kirim</string>
+    <string msgid="2486157997434653710" name="minute">"1 menit"</string>
+    <string msgid="6115838729146292526" name="minutes">"<ns1:g id="MINUTES">%s</ns1:g> menit"</string>
+    <string description="Hint: move the items" maxwidth="-1" name="move">Pindahkan</string>
+    <string name="move_or_delete_msg">"Hapus sementara item ke tempat sampah sekarang?\n(Centang kotak di bawah untuk menghapus item secara permanen.)"</string>
+    <string name="move_to">Pindahkan ke</string>
+    <string description="Toast: move to recycle bin fails" maxwidth="-1" name="move_to_hidden_zone_fail">"Gagal memindahkan ke Kabinet Tersembunyi"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="move_to_hidden_zone_progress">"Memindahkan ke Kabinet Tersembunyi..."</string>
+    <string description="Toast: move to recycle bin success" maxwidth="-1" name="move_to_hidden_zone_success_more">"File yang dipilih telah dipindahkan ke Kabinet Tersembunyi."</string>
+    <string description="Toast: move to recycle bin success. %s is variable string." maxwidth="-1" name="move_to_hidden_zone_success_one">"\"%s\" telah dipindahkan ke Kabinet Tersembunyi."</string>
+    <string description="Toast: move to recycle bin fails" maxwidth="-1" name="move_to_trash_fail">"Gagal dipindahkan ke Tempat Sampah"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="move_to_trash_progress">"Memindahkan ke Tempat Sampah..."</string>
+    <string description="Toast: move to recycle bin success" maxwidth="-1" name="move_to_trash_success_more">"File yang dipilih telah dipindahkan ke Tempat Sampah"</string>
+    <string description="Toast: move to recycle bin success. %s is variable string." maxwidth="-1" name="move_to_trash_success_one">"\"%s\" telah dipindahkan ke Tempat Sampah"</string>
+    <string name="msg_too_big_to_recycle">"Item terlalu besar untuk didaur ulang.\nAnda ingin menghapusnya secara permanen?"</string>
+    <string name="multi_drm_file_forbidden_operation">Tindakan ini dilarang karena beberapa file DRM yang dipilih dilindungi.</string>
+    <string description="shortcut label" maxwidth="-1" name="my_camera_title">Kamera</string>
+    <string description="shortcut label" maxwidth="-1" name="my_download_title">Download</string>
+    <string description="shortcut label" maxwidth="-1" name="my_music_title">Musik</string>
+    <string description="shortcut label" maxwidth="-1" name="my_picture_title">Gambar</string>
+    <string description="storage label" maxwidth="-1" name="my_storage_title">Penyimpanan saya</string>
+    <string description="button text for sort file by name" maxwidth="-1" name="name">Nama</string>
+    <string description="button text for sort file by name ascending" maxwidth="-1" name="name_ascending">Nama (z-a)</string>
+    <string description="button text for sort file by name descending" maxwidth="-1" name="name_descending">Nama (a-z)</string>
+    <string name="network_cta_hint">terima untuk menyambung ke jaringan</string>
+    <string name="network_invalid">"Sambungan jaringan tidak valid"</string>
+    <string name="network_invalid_info">"Sambungan tidak valid. Periksa lagi."</string>
+    <string name="network_not_available">"Sambungan jaringan gagal"</string>
+    <string description="Can’t connect to networkpalce" maxwidth="-1" name="networkplace_access_error">"Koneksi gagal. Pastikan bahwa server online."</string>
+    <string name="networkplace_storage_title">"Lokasi jaringan"</string>
+    <string description="Dialog Title: create new folder" maxwidth="" name="new_folder_dialog">Buat folder baru</string>
+    <string description="Toast: new folder fails" maxwidth="-1" name="new_folder_fail">Buat folder baru gagal.</string>
+    <string description="Toast: new folder success. %s is variable string." maxwidth="-1" name="new_folder_success">"Folder \"%s\" telah dibuat."</string>
+    <string maxwidth="" name="news_1"><b>Panel beranda kustom</b>: Kini Anda dapat menyesuaikan panel beranda dengan berbagai kategori dan susunan.</string>
+    <string maxwidth="" name="news_2"><b>Pilihan favorit</b>: Tambahkan folder favorit langsung dari kategori favorit.</string>
+    <string maxwidth="" name="news_3"><b>Widget Manajer file</b>: Buat folder pintasan pada Pengaktif.</string>
+    <string maxwidth="" name="news_mark1">"★  "</string>
+    <string maxwidth="" name="news_subtitle">"Berikut update utama yang tidak boleh Anda lewatkan."</string>
+    <string maxwidth="" name="news_title">"Terbaru"</string>
+    <string maxwidth="" name="news_v21"><b>Pemindahan file secara nirkabel ke/dari PC</b>: Pindahkan/kelola file ke/dari PC</string>
+    <string maxwidth="" name="news_v23">"Peningkatan performa dan perbaikan bug"</string>
+    <string maxwidth="" name="news_v31">"Penganalisis penyimpanan memungkinkan Anda mengetahui jenis file yang mengisi semua ruang penyimpanan"</string>
+    <string maxwidth="" name="news_v32">"Kategori aplikasi baru ditingkatkan"</string>
+    <string name="news_v41">"Sembunyikan file pribadi Anda dalam Kabinet Tersembunyi"</string>
+    <string name="news_v42">"Pulihkan file yang dihapus dari Tempat Sampah"</string>
+    <string name="news_v43">"Hapus file duplikat dari Peganalisis Penyimpanan"</string>
+    <string name="news_v44">"Fitur tampilan baru - Mode Gelap"</string>
+    <string name="news_v45">"Peningkatan performa"</string>
+    <string name="news_v46">"Perbaikan bug"</string>
+    <string name="newversion_description">"Versi Manajer File terbaru telah tersedia. Update sekarang?"</string>
+    <string name="newversion_title">"Versi baru"</string>
+    <string name="next">Berikutnya</string>
+    <string description="Dialog Button: no for dialog" maxwidth="" name="no">Tidak</string>
+    <string name="no_device">"Tidak ada perangkat"</string>
+    <string name="no_items">"Tidak ada item"</string>
+    <string name="no_network">"Tidak ada sambungan jaringan"</string>
+    <string description="The description to inform users when there is no internet access" maxwidth="-1" name="no_network_connection_message">"Periksa sambungan, dan coba lagi"</string>
+    <string name="no_network_info">"Sambungan Internet diperlukan untuk mengakses aplikasi ini. Aktifkan sambungan jaringan seluler atau Wi-Fi dalam Pengaturan."</string>
+    <string name="no_password">"Masukkan sandi"</string>
+    <string name="no_right">"Akun Anda tidak memiliki hak untuk log in."</string>
+    <string name="no_share_folder">Tidak ada file yang dibagi di perangkat ini.</string>
+    <string description="Toast: No space to copy file and left on device" maxwidth="-1" name="no_space_fail">Penyimpanan tidak memadai</string>
+    <string name="no_user_exist">"Nama pengguna tidak ada"</string>
+    <string name="no_username">"Masukkan dulu nama pengguna."</string>
+    <string name="notification_gdrive_redeem_content">"Dapatkan SEKARANG dari Google Drive. "</string>
+    <string name="notification_gdrive_redeem_title">"Penyimpanan gratis 100GB!"</string>
+    <string name="occur_error_do_relogin">"Log in lagi ke %s"</string>
+    <string description="Dialog Button: ok for dialog" maxwidth="" name="ok">OK</string>
+    <string name="onedrive_account_only_one_alert">"Hanya satu akun OneDrive untuk ASUS yang boleh ditambahkan. Anda harus menghapus akun aktif sebelum mengganti dengan yang baru."</string>
+    <string name="open">Buka</string>
+    <string description="Toast: open file fails" maxwidth="-1" name="open_fail">Buka file gagal.</string>
+    <string maxwidth="" name="open_source_license_description">"Pemberitahuan lisensi untuk perangkat lunak sumber terbuka"</string>
+    <string maxwidth="" name="open_source_license_title">"Lisensi sumber terbuka"</string>
+    <string name="othersforum_site_url">http://www.asus.com/id/Terms_of_Use_Notice_Privacy_Policy/OthersForum_Site/</string>
+    <string name="password">Sandi</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="paste">Tempel</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="paste_exist_apply">Terapkan ke semua</string>
+    <string description="Dialog Title: paste exist dialog title" maxwidth="" name="paste_exist_dialog">Nama file sama</string>
+    <string description="Dialog Content: text in dialog. %s is variable string." maxwidth="" name="paste_exist_file">"File \"%s\" sudah ada."</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="paste_exist_replace">Anda ingin menggantinya dengan yang baru?</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="paste_exist_to">Ke</string>
+    <string description="Toast: paste fails" maxwidth="-1" name="paste_fail">Tempel file gagal.</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="paste_progress">Menempel...</string>
+    <string name="paste_progress_title">Penyalinan tugas lainnya sedang berjalan...</string>
+    <string description="Toast: paste success. %s is variable string." maxwidth="-1" name="paste_success">"File telah ditambahkan ke \"%s\"."</string>
+    <string name="permanently_delete">"Hapus secara permanen"</string>
+    <string description="Toast: operation permission deny" maxwidth="-1" name="permission_deny">Izin ditolak.</string>
+    <string name="permission_dialog_title">"izin aplikasi"</string>
+    <string name="permission_essential">"Izin diperlukan. Buka Pengaturan untuk mengaktifkan izin!"</string>
+    <string name="permission_reason_contact">"Manajer File harus mengakses informasi akun Anda untuk masuk ke penyimpanan cloud."</string>
+    <string name="permission_reason_storage">"Manajer File harus mengakses penyimpanan perangkat Anda agar bekerja dengan benar"</string>
+    <string description="Toast: You may not select more than %s photos." maxwidth="-1" name="photo_selection_limit_number_toast">Pilih maksimal %s foto</string>
+    <string description="This is the title of the screen for setting user preferences." maxwidth="-1" name="preferences_title">Pengaturan</string>
+    <string name="previous_folder">"Folder sebelumnya"</string>
+    <string maxwidth="" name="privacy_policy">"Kebijakan privasi"</string>
+    <string name="privacy_policy_url">http://www.asus.com/us/Terms_of_Use_Notice_Privacy_Policy/Privacy_Policy/</string>
+    <string name="processing_picture">"Memproses gambar"</string>
+    <string name="processing_video">"Memproses video"</string>
+    <string name="progressactivity_title">Manajer Transmission</string>
+    <string name="promote_darkmode_message">"Ubah preferensi Anda dalam %s"</string>
+    <string name="promote_darkmode_title">"Fitur tampilan baru - Mode Gelap"</string>
+    <string name="promotion_notification_content">"Anda harus mencoba \"Pemindahan file secara nirkabel\"!"</string>
+    <string name="promotion_notification_title">"Masih menggunakan kabel USB untuk memindahkan file?"</string>
+    <string name="publish">"Publikasikan"</string>
+    <string name="pullfreshlistview_footer_hint_normal">Muat lainnya</string>
+    <string name="pullfreshlistview_footer_hint_ready">Lepas untuk memuat lainnya</string>
+    <string name="pullfreshlistview_header_hint_loading">Me-refresh...</string>
+    <string name="pullfreshlistview_header_hint_normal">Tarik ke bawah</string>
+    <string name="pullfreshlistview_header_hint_ready">Lepas untuk me-refresh</string>
+    <string name="pullfreshlistview_header_last_time">Waktu terakhir refresh:</string>
+    <string name="rate_later">"Nanti"</string>
+    <string name="rate_now">"Nilai sekarang!"</string>
+    <string description="rate us" maxwidth="-1" name="rate_us">Nilai kami</string>
+    <string name="rating_dialog_message_v3_1">"Suka menggunakan %s? Nilai kami di Google Play agar kami tetap terinspirasi!"</string>
+    <string name="rating_dialog_message_v3_2">"Untuk saran dan umpan balik, surati kami melalui %s."</string>
+    <string name="recent_files_content_hint">"Temukan file terbaru lalu hapus dengan izin Anda."</string>
+    <string description="shortcut title: recently used files" name="recently_used" width="-1">Terbaru</string>
+    <string name="recommend_clean_master_msg">"Android Optimizer, Speed Booster, Penghemat Baterai dan aplikasi Anti-Virus Gratis terpecaya di seluruh dunia. \nDownload sekarang?"</string>
+    <string name="recommend_clean_master_title">"Rekomendasi aplikasi"</string>
+    <string name="recommend_scan_qr_code">"Beri tahu teman-teman Anda untuk men-download\n aplikasi ini dnegan memindai kode QR ini."</string>
+    <string description="recruit beta user" maxwidth="-1" name="recruit_beta_user">Dapatkan Versi Pratinjau</string>
+    <string name="recycle_bin_content_hint">"Berisi semua file dan folder yang dihapus."</string>
+    <string description="dialog title, key in the asus ID and PW to Login account" maxwidth="-1" name="regist_asus_id">"Membuat akun ASUS"</string>
+    <string description="ask user to enter email address to registe New Account" name="registe_id">Nama Account</string>
+    <string description="ask user to enter new password" name="registe_password">Masukkan 8~25 karakter</string>
+    <string description="sign up registe action" name="registe_sign_up">Daftar</string>
+    <string description="network is unavailable, please try again" maxwidth="-1" name="remote_connected_error_hint">Jaringan tidak tersedia, coba lagi</string>
+    <string description="remote storage label" maxwidth="-1" name="remote_storage_title">Penyimpanan Jauh</string>
+    <string name="remove_favorite">Hapus dari Favorit</string>
+    <string name="remove_favorite_notice_more">Hapus item %d dari folder favorit?</string>
+    <string name="remove_favorite_notice_one">"Hapus \"%s\" dari folder favorit?"</string>
+    <string name="remove_favorite_success">Berhasil dihapus</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="rename">Ubah nama</string>
+    <string description="Dialog Title: rename dialog title" maxwidth="" name="rename_dialog">Ubah nama</string>
+    <string description="Toast: rename fails" maxwidth="-1" name="rename_fail">Ubah nama file gagal.</string>
+    <string name="rename_favorite_folder">Ubah nama folder favorit</string>
+    <string name="rename_favorite_notice">Folder dengan nama yang sama sudah ada dalam folder favorit, ubah nama?</string>
+    <string name="rename_favorite_success">Nama berhasil diubah dan disimpan ke Favorit</string>
+    <string description="Toast: rename success" maxwidth="-1" name="rename_success">Ubah nama file berhasil.</string>
+    <string description="renaming file" name="renaming_file" width="-1">Mengubah nama</string>
+    <string name="replace">"Ganti"</string>
+    <string description="Toast: restore fails" maxwidth="-1" name="restore_fail">"Gagal dipulihkan"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="restore_progress">"Memulihkan..."</string>
+    <string description="Toast: restore success" maxwidth="-1" name="restore_success_more">"File yang dipilih telah dipulihkan"</string>
+    <string description="Toast: restore success. %s is variable string." maxwidth="-1" name="restore_success_one">"\"%s\" telah dipulihkan"</string>
+    <string name="retention_notification_large_file">"Anda telah menambahkan %1$s file besar. Lihat file-file itu sekarang."</string>
+    <string name="retention_notification_recent_file">"Fila Anda saat ini menyita %1$s ruang. Lihat file-file itu sekarang."</string>
+    <string name="saf_permission_tutorial_content">ASUS File Manager meminta akses untuk mengoperasikan kartu SD Anda. Berikan akses?</string>
+    <string name="saf_permission_tutorial_content_v2">"Anda harus menjalankan langkah-langkah tertentu untuk memberikan %s hak akses."</string>
+    <string name="saf_permission_tutorial_dialog">"Sebuah prosedur harus dijalankan untuk memberikan hak akses kartu SD. Lanjutkan?"</string>
+    <string name="saf_permission_tutorial_title">Minta akses untuk mengoperasikan kartu SD</string>
+    <string name="saf_tutorial_step_one">Sentuh ikon Menu, lalu sentuh Tampilkan kartu SD.</string>
+    <string name="saf_tutorial_step_three">Sentuh Pilih kartu SD untuk memberikan akses ke Manajer File ASUS.</string>
+    <string name="saf_tutorial_step_three_v2">"Sentuh Pilih %s untuk memberikan akses ke Manajer File ASUS."</string>
+    <string name="saf_tutorial_step_two">Geser tepi kiri layar untuk menampilkan panel, lalu sentuh kartu SD.</string>
+    <string name="saf_tutorial_step_two_v2">"Geser dari sisi kiri layar untuk menampilkan laci, lalu sentuh %s."</string>
+    <string name="saf_tutorial_title">Izin untuk mengoperasikan kartu SD</string>
+    <string name="saf_tutorial_title_v2">"Izin untuk mengoperasikan %s"</string>
+    <string description="account config dialog remind message" maxwidth="-1" name="samba_client_config_check">Ingat nama pengguna dan sandi, sambungkan langsung untuk seterusnya</string>
+    <string name="samba_input_error">nama pegguna atau sandi tidak boleh kosong!</string>
+    <string name="samba_login_error">Nama pengguna atau sandi yang dimasukkan salah.</string>
+    <string name="samba_storage_add_title">Lokasi jaringan</string>
+    <string name="samba_storage_title">"SAMBA"</string>
+    <string name="scan_qr_code">"Pindai kode QR"</string>
+    <string description="rate now" maxwidth="" name="scroll_up_toast">Gulir ke atas untuk menilai</string>
+    <string name="sd_label">"OneDrive untuk ASUS"</string>
+    <string name="search_action">Cari</string>
+    <string description="search hint message" maxwidth="-1" name="search_hint">Masukkan nama file</string>
+    <string description="cutstom action bar view title for search" maxwidth="-1" name="search_label">Cari file</string>
+    <string description="search dialog message" maxwidth="-1" name="search_progress">Mencari…</string>
+    <string description=" text for search result" formatted="false" maxwidth="-1" name="search_result_title">Mencari %s dalam %s: %d file ditemukan</string>
+    <string name="select_album">Pilih album</string>
+    <string description="Menu Option: select all checkbox" maxwidth="" name="select_all">Pilih semua</string>
+    <string description="Title: select the folder" maxwidth="-1" name="select_folder">Pilih folder</string>
+    <string name="select_folder_by_ok_button">"Tekan %1$s untuk memilih folder ini"</string>
+    <string name="select_photo">Pilih foto</string>
+    <string name="server">Server:</string>
+    <string name="server_error">"Kesalahan pada server"</string>
+    <string name="server_hint">"172.0.0.1/ShareFolder"</string>
+    <string name="server_title">Server</string>
+    <string maxwidth="-1" name="service_not_available_in_your_country">"Item ini tidak tersedia di negara Anda."</string>
+    <string name="set_password_title">"Buat kode PIN"</string>
+    <string name="set_ring">"Setel Sebagai Dering"</string>
+    <string name="setting_display_group">"Tampilan"</string>
+    <string name="setting_notification_group">"Pemberitahuan"</string>
+    <string name="setting_notification_large_files">"Pemberitahuan file ukuran besar"</string>
+    <string name="setting_notification_recent_files">"Pemberitahuan file terbaru"</string>
+    <string name="setting_notification_wireless_transfer">"Pemberitahuan transfer nirkabel"</string>
+    <string name="setting_view_group">"Lihat pengaturan"</string>
+    <string name="setting_view_hide_files">"Sembunyikan file sistem"</string>
+    <string name="settings">"Pengaturan"</string>
+    <string description="This is the title of cache size" maxwidth="-1" name="settings_cache_size_title">Ukuran cache</string>
+    <string description="Remove all cache documents" maxwidth="-1" name="settings_clear_cache_info">Hapus semua dokumen cache</string>
+    <string description="Clear the cache" maxwidth="-1" name="settings_clear_cache_title">Kosongkan cache</string>
+    <string description="This is the title of clearing search history action for setting user preferences." maxwidth="-1" name="settings_clear_search_history">Kosongkan riwayat pencarian</string>
+    <string name="settings_darkmode_message">"Terapkan mode Gelap"</string>
+    <string name="settings_description">"Folder dan file lokal"</string>
+    <string description="This is the title of documents cache" maxwidth="-1" name="settings_documents_cache">Cache Dokumen</string>
+    <string description="recommend text" maxwidth="" name="settings_encourage_us_detail">Jika Anda senang menggunakan %s, beri kami nilai 5 bintang di Play Store. Penilaian tersebut akan menjadi dukungan besar bagi kami untuk menyempurnakan produk!</string>
+    <string description="This is the title of hiding system files action for setting user preferences." maxwidth="-1" name="settings_hide_system_files">Sembunyikan file sistem</string>
+    <string description="This is the title of moving to the trash can." maxwidth="-1" name="settings_moved_to_the_trash_can">Dipindahkan ke Folder sampah</string>
+    <string description="Remove account" maxwidth="-1" name="settings_remove_account">Hapus Akun</string>
+    <string description="Set the cache size to %s" maxwidth="-1" name="settings_set_cache_size">"Ukuran cache ditetapkan ke \"%s\""</string>
+    <string description="This is the title of space used for setting user preferences." maxwidth="-1" name="settings_space_used">Ruang digunakan</string>
+    <string description="This is the title of trash can information for setting user preferences." maxwidth="-1" name="settings_trash_can">Folder sampah</string>
+    <string description="This is the title of user name" maxwidth="-1" name="settings_user_name">Nama pengguna</string>
+    <string name="setup">"Konfigurasi"</string>
+    <string name="setup_account_description">"Konfigurasikan akun email untuk mendapatkan kode PIN"</string>
+    <string name="setup_account_no_internet_connection">"Tidak ada sambungan Internet"</string>
+    <string name="setup_account_skip">"Lewati"</string>
+    <string name="setup_account_title">"Dapatkan kode PIN"</string>
+    <string name="setup_fingerprint_message">"Aktifkan sidik jari untuk membuka kunci? Kabinet Tersembunyi mendukung verifikasi sidik jari. Pindai sidik jari Anda dalam Setelan untuk memulai."</string>
+    <string name="setup_my_digital_code">"Konfigurasi kode PIN"</string>
+    <string name="share_more">"Lainnya"</string>
+    <string name="share_with_friend">"Bagikan aplikasi ini dengan teman-teman Anda"</string>
+    <string description="Context Menu: options of context menu: share folder via Wi-Fi Direct" maxwidth="" name="shared_folder">Berbagi melalui Wi-Fi Direct</string>
+    <string description="shortcit title" maxwidth="-1" name="short_cuts_title">Cara pintas</string>
+    <string name="shortcut_hint">"Ketuk lalu tahan sebuah kategori atau folder untuk membuat pintasan pada Pengaktif."</string>
+    <string description="check if user want to show password" name="show_passwd">Tampilkan sandi</string>
+    <string description="show when sign in failed" maxwidth="-1" name="signin_failed">"Sign in gagal"</string>
+    <string description="signout account" name="signout_account" width="-1">Terputus</string>
+    <string name="single_drm_file_forbidden_operation">Tindakan ini dilarang karena dilindungi DRM.</string>
+    <string description="button text for sort file by size" maxwidth="-1" name="size">Ukuran</string>
+    <string description="button text for sort file by size ascending" maxwidth="-1" name="size_ascending">Ukuran (besar-kecil)</string>
+    <string description="button text for sort file by size descending" maxwidth="-1" name="size_descending">Ukuran (kecil-besar)</string>
+    <string name="ssl_err_msg_info">"Tidak dapat membuat sambungan aman ke server. Lanjutkan?"</string>
+    <string name="ssl_err_msg_title">"Sambungan SSL mengalami kesalahan"</string>
+    <string description="shortcut title: my favorite files" name="starred" width="-1">Bertanda bintang</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="storage_type_cloud">Penyimpanan cloud</string>
+    <string name="storage_type_cloud_att">"Penyimpanan jaringan"</string>
+    <string name="storage_type_local">Penyimpanan lokal</string>
+    <string name="storage_type_shortcut">"Pintasan"</string>
+    <string name="storagetype_add_account">Tambahkan account Google</string>
+    <string name="tap_to_exit">Ketuk lagi untuk keluar</string>
+    <string name="target_directory_is_child_of_source">Operasi tidak dapat diselesaikan karena direktori target adalah anak direktori sumber.</string>
+    <string description="Toast: target file exists" maxwidth="-1" name="target_exist">File target ada.</string>
+    <string description="Toast: target folder exists. %s is variable string." maxwidth="-1" name="target_folder_exist">"Folder \"%s\" sudah ada."</string>
+    <string description="" maxwidth="" name="tell_friend">Beri tahu teman</string>
+    <string maxwidth="" name="terms_of_service">"Informasi persyaratan penggunaan"</string>
+    <string maxwidth="" name="terms_of_service_url">http://www.asus.com/us/Terms_of_Use_Notice_Privacy_Policy/Official-Site/</string>
+    <string description="title" maxwidth="-1" name="title">Informasi hukum:</string>
+    <string name="toast_auto_lock_notify_message">"Kunci Kabinet Tersembunyi saat perangkat terkunci"</string>
+    <string description="Toast: The item(s) has been copied completely" maxwidth="-1" name="toast_drag_copied_items">Item telah disalin seluruhnya</string>
+    <string description="Toast: The item(s) has been moved completely" maxwidth="-1" name="toast_drag_moved_items">Item telah dipindahkan seluruhnya</string>
+    <string description="Toast: Sorry, copy files complete but cut fail" maxwidth="-1" name="toast_warning_copy_comple_cut_fail">Maaf, penyalinan file telah selesai, namun file lama gagal dihapus</string>
+    <string description="Toast: Sorry, copy folders has not been supported" maxwidth="-1" name="toast_warning_copy_folders">Maaf, penyalinan folder belum didukung</string>
+    <string maxwidth="35" name="toolbar_item_title_encourage_us">Dukung kami</string>
+    <string name="tools_clean_master">"Bersihkan sampah"</string>
+    <string name="tools_file_transfer">"Pemindahan file PC"</string>
+    <string name="tools_hidden_zone">"Kabinet Tersembunyi"</string>
+    <string name="tools_recycle_bin">"Tempat Sampah"</string>
+    <string name="tools_storage_analyzer">"Penganalisis penyimpanan"</string>
+    <string name="tools_tip_animation">"Tingkatkan alat bantu!"</string>
+    <string name="tools_zenui_instant_update">"Pembaruan seketika"</string>
+    <string description="shortcut title: trash can" name="trash_can" width="-1">Folder sampah</string>
+    <string maxwidth="-1" name="trash_info_deleted">"Tanggal dihapus: "</string>
+    <string maxwidth="-1" name="trash_info_path">"Jalur asli: "</string>
+    <string description="label for trending searches" maxwidth="-1" name="trending_searches">"Pencarian Tren"</string>
+    <string name="tutorial_analyzer_content">"Analis Penyimpanan memungkinkan Anda mengetahui file apa yang menempati ruang disk Anda."</string>
+    <string name="tutorial_category_content">"Mencari file tak pernah semudah ini dengan Tampilan kategori Manajer File ASUS."</string>
+    <string name="tutorial_category_title">"Tampilan kategori"</string>
+    <string name="tutorial_cloud_content">"Akses file dari ponsel pintar, PC, dan Penyimpanan awan."</string>
+    <string name="tutorial_cloud_title">"Penyimpanan awan"</string>
+    <string name="tutorial_done">Selesai</string>
+    <string name="tutorial_page_content_long_press">"Ketuk dan tahan untuk memilih item, lalu ketuk ikon \"Menu\" untuk menampilkan pilihan tindakan lainnya."</string>
+    <string name="tutorial_page_four_content">Tetapkan folder yang sering digunakan sebagai Favorit untuk mengakses folder dengan cepat dan mudah.</string>
+    <string name="tutorial_page_four_title">Favorit</string>
+    <string name="tutorial_page_one_content">Manajer File ASUS memudahkan Anda mengelola file yang tersimpan dalam penyimpanan internal, eksternal, jaringan area lokal, atau cloud.</string>
+    <string name="tutorial_page_one_title">Manajer File ASUS</string>
+    <string name="tutorial_page_three_content">Geser item ke kanan untuk menampilkan tindakan, seperti Tambahkan ke Favorit, Ubah Nama, Pindahkan ke, Salin ke, dan pilihan pengelolaan file lainnya.</string>
+    <string name="tutorial_page_three_title">Daftar tindakan geser kanan</string>
+    <string name="tutorial_page_title_long_press">Tampilkan menu tindakan</string>
+    <string name="tutorial_page_two_content">Kategori praktis yang akan mempercepat akses file dalam penyimpanan lokal.</string>
+    <string name="tutorial_page_two_title">Beranda situs</string>
+    <string name="tutorial_skip">Lewati</string>
+    <string description="button text for sort file by type" maxwidth="-1" name="type">Jenis</string>
+    <string description="document type" maxwidth="-1" name="type_abu">Pencadangan Aplikasi Asus</string>
+    <string description="document type" maxwidth="-1" name="type_apk">Aplikasi Android</string>
+    <string description="document type" maxwidth="-1" name="type_audio">Audio</string>
+    <string description="document type" maxwidth="-1" name="type_book">EBook</string>
+    <string name="type_dialog_audio">Audio</string>
+    <string name="type_dialog_image">Gambar</string>
+    <string name="type_dialog_text">Teks</string>
+    <string name="type_dialog_title">Buka sebagai</string>
+    <string name="type_dialog_video">Video</string>
+    <string description="document type" maxwidth="-1" name="type_directory">Direktori</string>
+    <string description="document type" maxwidth="-1" name="type_document">Dokumen</string>
+    <string description="document type" maxwidth="-1" name="type_file">File</string>
+    <string description="document type" maxwidth="-1" name="type_image">Gambar</string>
+    <string description="document type" maxwidth="-1" name="type_playlist">Daftar putar</string>
+    <string description="document type" maxwidth="-1" name="type_rar">"RAR"</string>
+    <string description="document type" maxwidth="-1" name="type_video">Video</string>
+    <string description="document type" maxwidth="-1" name="type_zip">Zip</string>
+    <string name="ud_sdk_all_app_update">"Semua aplikasi berjalan berdasarkan versi saat ini."</string>
+    <string name="ud_sdk_asus_app_slogan">aplikasi bermanfaat</string>
+    <string name="ud_sdk_downloads">Download</string>
+    <string name="ud_sdk_free_download">Download Gratis</string>
+    <string name="ud_sdk_important_remind_text">"Penting"</string>
+    <string name="ud_sdk_install">Instal</string>
+    <string name="ud_sdk_more_zen_family">Temukan lebih banyak aplikasi ZenUI</string>
+    <string name="ud_sdk_no_network_connection_content">Tidak dapat memperbarui data. Periksa pengaturan jaringan Anda.</string>
+    <string name="ud_sdk_no_network_connection_title">Tidak ada sambungan jaringan</string>
+    <string name="ud_sdk_open">Buka</string>
+    <string name="ud_sdk_update">Perbarui</string>
+    <string maxwidth="-1" name="ud_sdk_update_sdk">Kelompok ZenUI</string>
+    <string maxwidth="-1" name="ud_sdk_update_sdk_asus">Pembaruan Instan ZenUI</string>
+    <string name="ud_sdk_wifi_settings">Pengaturan Wi-Fi</string>
+    <string name="uf_sdk_already_give_5star">"Telah memberikan peringkat 5 bintang"</string>
+    <string description="%d is a number, don&apos;t translate" name="uf_sdk_article_read_count">"%d tampilan"</string>
+    <string name="uf_sdk_attachment_format_warning">"Format file salah. Hanya file gambar yang dapat dilampirkan"</string>
+    <string name="uf_sdk_attachment_total_size">"Total"</string>
+    <string name="uf_sdk_attachment_warning">"Ukuran lampiran melampaui batas yang dibolehkan"</string>
+    <string maxwidth="-1" name="uf_sdk_cancel_btn_content">"Batalkan"</string>
+    <string name="uf_sdk_choosertitle_sharevia">"Bagikan melalui"</string>
+    <string name="uf_sdk_connection_error_msg">"Sambungan digagalkan oleh server. Coba lagi nanti."</string>
+    <string name="uf_sdk_connection_error_title">"Kesalahan sambungan"</string>
+    <string name="uf_sdk_discard">"Buang"</string>
+    <string name="uf_sdk_email_illigal">"Alamat email sudah digunakan"</string>
+    <string maxwidth="-1" name="uf_sdk_empty_notification">"Kosong :)"</string>
+    <string name="uf_sdk_faq">"Tanya Jawab"</string>
+    <string name="uf_sdk_feedback_and_help">"Tanggapan &amp; Bantuan"</string>
+    <string name="uf_sdk_forum_description">"Ikuti percakapan antarpengguna ASUS untuk menemukan dan berbagi solusi"</string>
+    <string maxwidth="-1" name="uf_sdk_grant_permission_title">"Beri izin untuk"</string>
+    <string name="uf_sdk_help">"Bantuan"</string>
+    <string name="uf_sdk_instant_answer_question">"Apakah Tanya Jawab ini membantu?"</string>
+    <string name="uf_sdk_like">"Suka"</string>
+    <string maxwidth="-1" name="uf_sdk_message">"Notifikasi"</string>
+    <string name="uf_sdk_msg_bad_email_format">"Alamat email tidak valid, coba lagi."</string>
+    <string name="uf_sdk_msg_confirm_discard_topic">"Konsep Anda tidak akan disimpan. Anda ingin tetap menghapusnya?"</string>
+    <string name="uf_sdk_msg_confirm_discard_topic_title">"Hapus posting?"</string>
+    <string name="uf_sdk_msg_subscribe">"Langganan notifikasi status topik akan dikirim melalui email Anda."</string>
+    <string name="uf_sdk_msg_subscribe_success">"Berhasil berlangganan"</string>
+    <string name="uf_sdk_msg_ticket_created">"Tanggapan Anda ke ASUS berhasil dikirim"</string>
+    <string name="uf_sdk_msg_topic_created">"Berhasil dipublikasikan"</string>
+    <string name="uf_sdk_msg_unsubscribe">"Berhasil berhenti berlangganan"</string>
+    <string name="uf_sdk_name_hint">"Masukkan nama"</string>
+    <string name="uf_sdk_name_illigal">"Nama pengguna sudah digunakan"</string>
+    <string name="uf_sdk_network_error">"Tidak ada sambungan Internet, periksa pengaturan jaringan Anda."</string>
+    <string description="zenui news" maxwidth="" name="uf_sdk_news">"Berita"</string>
+    <string name="uf_sdk_no_network_connection_content">"Sambungan digagalkan oleh server. Coba lagi nanti."</string>
+    <string name="uf_sdk_no_network_connection_title">"Kesalahan sambungan"</string>
+    <string name="uf_sdk_nothing_found">"Tidak ditemukan"</string>
+    <string name="uf_sdk_notice">"Pemberitahuan"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category1">"Pengumuman"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category2">"Tutorial &amp; tip"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category3">"Promosi"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category4">"Aktivitas"</string>
+    <string name="uf_sdk_publish_an_topic">"Publikasikan topik baru"</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_rate_now">"Nilai sekarang"</string>
+    <string description="%s is AP name, don&apos;t translate" maxWidth="" name="uf_sdk_rate_us_detail">"Jika Anda menyukai %s, nilai kami 5 bintang di Play Store."</string>
+    <string maxWidth="" name="uf_sdk_rate_us_detail_new">"Dukungan 5 bintang Anda akan menginspirasi kami untuk terus berkarya!"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_rating">"Penilaian 5 bintang"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title">"Nilai kami!"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title_new">"Dukung kami!"</string>
+    <string description="Menu item for userFeedback sdk" maxwidth="-1" name="uf_sdk_report_bug">Laporkan Gangguan</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_scroll_up_toast">"Gulir ke atas untuk menilai"</string>
+    <string name="uf_sdk_search_hint">"Cari bantuan"</string>
+    <string name="uf_sdk_select_common_bug">"Pilih bug umum"</string>
+    <string name="uf_sdk_send_feedback">"Kirim tanggapan"</string>
+    <string name="uf_sdk_send_feedback_help">"Tanggapan dan alamat email Anda akan dikirim ke ASUS. Tim Layanan akan menghubungi Anda melalui email."</string>
+    <string maxwidth="-1" name="uf_sdk_setting_btn_content">"Setelan"</string>
+    <string description="recommend title" maxwidth="" name="uf_sdk_settings_encourage_us_title">"Dukung kami"</string>
+    <string maxwidth="-1" name="uf_sdk_storage_permission_description">"Fungsi ini perlu mendapatkan izin penyimpanan untuk mengakses file multimedia. \n\nJika Anda ingin mengaktifkan fungsi ini, ketuk tombol Setelan untuk membuka halaman Setelan, lalu setel \"Info aplikasi\" > \"Izin\" untuk memberikan izin.\n"</string>
+    <string name="uf_sdk_submit_topic">"Publikasikan"</string>
+    <string name="uf_sdk_subscribe_dialog_title">"Berlangganan topik ini"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_answered">"Jawaban"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_completed">"selesai"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_declined">"penolakan"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_implemented">"Penerapan"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_planned">"rencana"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_under_review">"dalam pemeriksaan"</string>
+    <string name="uf_sdk_thanks_for_your_feedback">"Terima kasih atas tanggapan Anda!"</string>
+    <string description="%s is a application name, don&apos;t translate" name="uf_sdk_ticket_hint">"Tulis tanggapan untuk %s"</string>
+    <string name="uf_sdk_title_topic">"Topik"</string>
+    <string name="uf_sdk_topic">"Topik"</string>
+    <string name="uf_sdk_topic_description_heading">"Deskripsi"</string>
+    <string name="uf_sdk_topic_description_hint">"Deskripsikan topik Anda secara rinci"</string>
+    <string name="uf_sdk_topic_filter">"TOPIK"</string>
+    <string name="uf_sdk_topic_form_help">"Jika Anda mempublikasikan topik di forum, pengguna lain dapat berlangganan forum tersebut dan berkomentar. Bila tim pengembangan ASUS merespons topik, Anda akan diberi tahu melalui email."</string>
+    <string name="uf_sdk_topic_form_title">"Publikasikan topik baru"</string>
+    <string name="uf_sdk_topic_text_heading">"Forum"</string>
+    <string name="uf_sdk_topic_text_hint">"Ketik judul topik Anda"</string>
+    <string name="uf_sdk_topic_title">"Judul"</string>
+    <string name="uf_sdk_translation_10117605">"Masalah terjemahan"</string>
+    <string name="uf_sdk_translation_117562">"Jenis tanggapan"</string>
+    <string name="uf_sdk_translation_2529543">"Laporan gangguan"</string>
+    <string name="uf_sdk_translation_2529544">"Lainnya"</string>
+    <string name="uf_sdk_translation_2530478">"Saran"</string>
+    <string name="uf_sdk_unhelpful_article_message_question">"Apakah Anda ingin mengirim tanggapan ke tim pengembangan ASUS?"</string>
+    <string name="uf_sdk_user_forum">"Forum pengguna"</string>
+    <string name="uf_sdk_warning">"Peringatan"</string>
+    <string name="uf_sdk_wifi_settings">"Pengaturan Wi-Fi"</string>
+    <string name="uf_sdk_wlan_settings">"Pengaturan WLAN"</string>
+    <string name="uf_sdk_write_your_feedback">"Tulis tanggapan di sini"</string>
+    <string name="uf_sdk_your_draft_will_be_discarded">"Konsep Anda akan dibuang."</string>
+    <string description="description for empty search result" maxwidth="-1" name="unable_to_find_artlcles">"Tidak dapat menemukan \u0022%s\u0022 artikel terkait"</string>
+    <string description="string indicating the length units in milli-meters" maxwidth="-1" name="unit_mm">mm</string>
+    <string description="Context Menu: options of context menu: unshare folder" maxwidth="-1" name="unshared_folder">Batalkan berbagi</string>
+    <string name="unsupported_area">"Area ini tidak didukung"</string>
+    <string description="toast message: extract files fail" maxwidth="-1" name="unzip_fail">Ekstrak file gagal</string>
+    <string description="extract file dialog message" maxwidth="-1" name="unzip_progress_msg">Mengekstrak...</string>
+    <string description="toast message: extract files successly" maxwidth="-1" name="unzip_success">Ekstrak file berhasil</string>
+    <string name="update">"Perbarui"</string>
+    <string name="update_fb_app">"Versi aplikasi seluler Facebook bukan yang terbaru.  Instal yang terbaru dari Google Play."</string>
+    <string name="upgrade_notification_content">Lihat file berdasarkan jenis dari layar Beranda baru kami.</string>
+    <string name="upgrade_notification_title">Coba Manajer File yang baru sekarang juga!</string>
+    <string name="upload_complete">"Upload selesai"</string>
+    <string name="upload_complete_dialog_message">"Berhasil meng-upload video."</string>
+    <string name="upload_complete_dialog_title">"Selesai"</string>
+    <string name="upload_fail">upload gagal!</string>
+    <string name="upload_failed">"Upload gagal"</string>
+    <string name="upload_picture_toast">"Gambar akan di-upload. Periksa proses di jendela notifikasi."</string>
+    <string name="upload_toast">"Video Anda akan di-upload. Lihat progres di jendela notifikasi."</string>
+    <string name="uploading_picture">"Meng-upload gambar"</string>
+    <string name="uploading_video">"Meng-upload video..."</string>
+    <string name="user">Nama pengguna</string>
+    <string name="user_hint">administrator</string>
+    <string name="uv_admin_response_format">"Respons admin: %1$s"</string>
+    <string name="uv_all_articles">"Semua Artikel"</string>
+    <string name="uv_all_results_filter">"SEMUA"</string>
+    <string name="uv_android_sdk">Android SDK</string>
+    <string name="uv_article_browse_question">"Apakah artikel ini membantu?"</string>
+    <string name="uv_article_instant_answer_question">"Apakah Tanya Jawab ini membantu?"</string>
+    <string name="uv_cancel">"Batal"</string>
+    <string name="uv_category">"Kategori"</string>
+    <string name="uv_close">"Tutup"</string>
+    <string name="uv_comment_hint">"Masukkan komentar Anda"</string>
+    <string name="uv_confirm">"Konfirmasi"</string>
+    <string name="uv_contact_continue_button">"Saya masih ingin mengirim pesan"</string>
+    <string name="uv_contact_hint">"Masukkan pertanyaan atau tanggapan Anda"</string>
+    <string name="uv_contact_us">"Hubungi kami"</string>
+    <string name="uv_display_name">"Nama tampilan"</string>
+    <string name="uv_email_address">"Alamat email"</string>
+    <string name="uv_email_address_hint">"email@Anda.com (wajib diisi)"</string>
+    <string name="uv_error">"Kesalahan"</string>
+    <string name="uv_failed_signin_error">"Email atau sandi salah"</string>
+    <string name="uv_forgot_password">"Lupa sandi"</string>
+    <string name="uv_helpful_article_message_question">"Anda masih ingin mengirim pesan?"</string>
+    <string name="uv_i_want_this">"Saya menginginkan ini!"</string>
+    <string name="uv_idea_description_heading">"Deskripsikan ide Anda secara lebih rinci"</string>
+    <string name="uv_idea_description_hint">"(opsional)"</string>
+    <string name="uv_idea_text_heading">"Saya menyarankan Anda…"</string>
+    <string name="uv_loading">"Memuat…"</string>
+    <string name="uv_matching_articles">"Artikel yang cocok"</string>
+    <string name="uv_matching_articles_and_ideas">"Artikel dan ide yang cocok"</string>
+    <string name="uv_menu_attach">"Lampirkan"</string>
+    <string name="uv_menu_search">"Cari"</string>
+    <string name="uv_msg_bad_email_format">"Masukkan alamat email yang valid."</string>
+    <string name="uv_msg_comment_posted">"Komentar Anda telah diposting"</string>
+    <string name="uv_msg_confirm_discard_message">"Anda yakin ingin membuang pesan Anda?"</string>
+    <string name="uv_msg_custom_fields_validation">"Isi semua bidang yang wajib diisi."</string>
+    <string name="uv_msg_forgot_password">"Email lupa sandi dikirim"</string>
+    <string name="uv_msg_idea_created">"Ide Anda telah dibuat"</string>
+    <string name="uv_msg_ticket_created">"Pesan Anda telah dikirim"</string>
+    <string name="uv_msg_user_identity_validation">"Masukkan alamat email Anda"</string>
+    <string name="uv_name_hint">"“Anonim”"</string>
+    <string name="uv_network_error">"Terjadi kesalahan dalam menyambungkan ke Suara Pengguna"</string>
+    <string name="uv_nevermind">"Tidak apa"</string>
+    <string name="uv_new_comment">"Komentar baru"</string>
+    <string name="uv_next">"Berikutnya"</string>
+    <string name="uv_no">"Tidak"</string>
+    <string name="uv_none_of_these_help">"Tak satu pun bantuan ini"</string>
+    <string name="uv_password">"Sandi"</string>
+    <string name="uv_password_dialog_title">"Masukkan sandi Anda"</string>
+    <string name="uv_portal_title">"Bantuan"</string>
+    <string name="uv_post_a_comment">"Posting komentar"</string>
+    <string name="uv_post_comment">"Posting Komentar"</string>
+    <string name="uv_posted_by_format">"Diposting oleh %1$s pada %2$s"</string>
+    <string name="uv_powered_by_uservoice">"Diberdayakan oleh Suara Pengguna"</string>
+    <string name="uv_ranked">"Peringkat %1$s"</string>
+    <string name="uv_remove_votes">"Hapus Voting"</string>
+    <string name="uv_select_none">"(tak ada)"</string>
+    <string name="uv_select_one">"Pilih satu"</string>
+    <string name="uv_send_message">"Kirim pesan"</string>
+    <string name="uv_signin_dialog_ok">"Masuk"</string>
+    <string name="uv_signin_dialog_title">"Masuk"</string>
+    <string name="uv_status_format">"Status: %1$s"</string>
+    <string name="uv_submit_idea">"Kirim ide"</string>
+    <string name="uv_subscribe">"Berlangganan"</string>
+    <string name="uv_subscribe_dialog_title">"Berlangganan ide ini"</string>
+    <string name="uv_suggestion_instant_answer_question">"Apakah ide ini membantu?"</string>
+    <string name="uv_thanks">"Terima kasih!"</string>
+    <string name="uv_unhelpful_article_message_question">"Anda ingin mengirimi kami pesan?"</string>
+    <string name="uv_value">"Nilai"</string>
+    <string name="uv_very_yes">"Ya!"</string>
+    <string name="uv_yes">"Ya"</string>
+    <string name="uv_your_email_address">"Alamat email Anda"</string>
+    <string name="uv_your_name">"Nama Anda"</string>
+    <string description="version" maxwidth="-1" name="version">Versi</string>
+    <string name="version_text">versi</string>
+    <string name="wait">Tunggu\u2026</string>
+    <string name="warning_stophttpserver">"Anda akan kehilangan sambungan antara perangkat seluler dan PC. Tinggalkan?"</string>
+    <string name="whats_new_label">Terbaru</string>
+    <string description="message for request to connect Network" name="wifi_p2p_connection_msg" width="-1">Untuk menggunakan layanan cloud, buat sambungan jaringan.</string>
+    <string description="title for request to connect Network" name="wifi_p2p_connection_title" width="-1">Buat sambungan jaringan</string>
+    <string description="message for request to turn on Wi-Fi" name="wifi_p2p_turn_on_wifi_msg" width="-1">Aktifkan Wi-Fi untuk menggunakan layanan Wi-Fi Direct. Aktifkan Wi-Fi sekarang?</string>
+    <string description="title for turn on WiFi dialog" name="wifi_p2p_turn_on_wifi_title" width="-1">Aktifkan Wi-Fi</string>
+    <string description="search" maxwidth="-1" name="wifidirect_action_bar_scan">Cari</string>
+    <string description="Available devices" maxwidth="-1" name="wifidirect_available_devices">Perangkat yang tersedia</string>
+    <string description="Do you want to connect to device" maxwidth="-1" name="wifidirect_connect_hint">Anda ingin menyambung dengan</string>
+    <string description="Dialog title text: Invitation to connect" maxwidth="-1" name="wifidirect_connect_hint_title">Undangan untuk menyambung</string>
+    <string description="Dialog title text: Wi-Fi Direct connecting" maxwidth="-1" name="wifidirect_connecting_hint_title">Menyambung ke Wi-Fi Direct...</string>
+    <string description="connectted" maxwidth="-1" name="wifidirect_connectted">Tersambung</string>
+    <string description=">Do you want to disconnect" maxwidth="-1" name="wifidirect_disconnect_hint">Anda ingin memutuskan sambungan dengan</string>
+    <string description="Disconnect Wi-Fi Direct" maxwidth="-1" name="wifidirect_disconnect_hint_title">Putuskan sambungan Wi-Fi Direct</string>
+    <string description="peer devices infomation" maxwidth="-1" name="wifidirect_peer_device_info">"Untuk menerima undangan Wi-Fi Direct, pastikan perangkat yang tersambung tetap pada halaman \"Perangkat penyambung\" di Manajer File."</string>
+    <string description="peer devices title" maxwidth="-1" name="wifidirect_peer_device_title">Perangkat pasangan</string>
+    <string description="searching" maxwidth="-1" name="wifidirect_scanning">Mencari…</string>
+    <string description="Search Wi-Fi Direct device" maxwidth="-1" name="wifidirect_storage_title">Cari perangkat Wi-Fi Direct</string>
+    <string description="click to connect" maxwidth="-1" name="wifidirect_touch_to_connect">Klik untuk menyambung</string>
+    <string name="yandex_account_only_one_alert">"Hanya satu akun Yandex yang boleh ditambahkan. Anda harus menghapus akun aktif sebelum mengganti dengan yang baru."</string>
+    <string name="yes">Ya</string>
+    <string name="zenui_update">"Pembaruan Seketika ZenUI"</string>
+    <string description="toast message: Compress files fail" maxwidth="-1" name="zip_fail">Kompresi file gagal</string>
+    <string description="compress dialog message" maxwidth="-1" name="zip_progress_msg">Memproses...</string>
+    <string description="toast message: Compress files successly" maxwidth="-1" name="zip_success">Kompresi file berhasil</string>
+</resources>

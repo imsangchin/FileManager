@@ -1,0 +1,1046 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="alarm_set">
+        <item msgid="6450913786084215050">"Penggera ditetapkan pada kurang dari 1 minit dari sekarang."</item>
+        <item msgid="6002066367368421848">"Penggera ditetapkan pada <ns1:g id="DAYS">%1$s</ns1:g> dari sekarang."</item>
+        <item msgid="8824719306247973774">"Penggera ditetapkan pada <ns1:g id="HOURS">%2$s</ns1:g> dari sekarang."</item>
+        <item msgid="8182406852935468862">"Penggera ditetapkan pada <ns1:g id="DAYS">%1$s</ns1:g> dan <ns1:g id="HOURS">%2$s</ns1:g> dari sekarang."</item>
+        <item msgid="2532279224777213194">"Penggera ditetapkan pada <ns1:g id="MINUTES">%3$s</ns1:g> dari sekarang."</item>
+        <item msgid="5936557894247187717">"Penggera ditetapkan pada <ns1:g id="DAYS">%1$s</ns1:g> dan <ns1:g id="MINUTES">%3$s</ns1:g> dari sekarang."</item>
+        <item msgid="9115697840826129603">"Penggera ditetapkan pada <ns1:g id="HOURS">%2$s</ns1:g> dan <ns1:g id="MINUTES">%3$s</ns1:g> dari sekarang."</item>
+        <item msgid="2332583385137381060">"Penggera ditetapkan untuk <ns1:g id="DAYS">%1$s</ns1:g>, <ns1:g id="HOURS">%2$s</ns1:g> dan <ns1:g id="MINUTES">%3$s</ns1:g> dari sekarang."</item>
+    </string-array>
+    <string-array name="charset_array">
+        <item>"Bahasa Latin-1 (ISO-8859-1)"</item>
+        <item>"Unikod (UTF-8)"</item>
+        <item>"Bahasa Cina (GBK)"</item>
+        <item>"Bahasa Cina (Big5)"</item>
+        <item>"Bahasa Jepun (ISO-2022-JP)"</item>
+        <item>"Bahasa Jepun (SHIFT_JIS)"</item>
+        <item>"Bahasa Jepun (EUC-JP)"</item>
+        <item>"Bahasa Korea (EUC-KR)"</item>
+    </string-array>
+    <plurals name="dialog_unzip_preview_size_text">
+        <item quantity="one">Jumlah: %1$d fail, %2$s</item>
+        <item quantity="other">Jumlah: %1$d fail, %2$s</item>
+    </plurals>
+    <plurals name="drag_items">
+        <item quantity="one">Seret item</item>
+        <item quantity="other">Seret item</item>
+    </plurals>
+    <plurals name="number_search_items">
+        <item quantity="one">"%d fail ditemui"</item>
+        <item quantity="other">"%d fail ditemui"</item>
+    </plurals>
+    <plurals name="number_selected_items">
+        <item quantity="one">%d dipilih</item>
+        <item quantity="other">%d dipilih</item>
+    </plurals>
+    <plurals name="uf_sdk_number_of_subscribers_format">
+        <item quantity="one">"%1$s menyukai topik ini"</item>
+        <item quantity="other">"%1$s menyukai topik ini"</item>
+    </plurals>
+    <plurals name="uf_sdk_topics">
+        <item quantity="one">"topik"</item>
+        <item quantity="other">"topik"</item>
+    </plurals>
+    <plurals name="uv_comments">
+        <item quantity="one">"komen"</item>
+        <item quantity="other">"komen"</item>
+    </plurals>
+    <plurals name="uv_number_of_subscribers_format">
+        <item quantity="one">"%1$s inginkan idea ini"</item>
+        <item quantity="other">"%1$s inginkan idea ini"</item>
+    </plurals>
+    <plurals name="uv_people">
+        <item quantity="one">"orang"</item>
+        <item quantity="other">"orang"</item>
+    </plurals>
+    <plurals name="uv_subscribers">
+        <item quantity="one">"pelanggan"</item>
+        <item quantity="other">"pelanggan"</item>
+    </plurals>
+    <string name="AsusWebstroage">AsusWebstorage</string>
+    <string name="AuCloud">AuCloud</string>
+    <string name="BaiDuPCS">BaiDuPCS</string>
+    <string name="Default">Lalai</string>
+    <string name="Dropbox">Dropbox</string>
+    <string name="Google_Drive">Google Drive</string>
+    <string name="HomeCloud">HomeCloud</string>
+    <string name="OneDrive">OneDrive</string>
+    <string name="Yandex">Yandex</string>
+    <string name="about">"Mengenai"</string>
+    <string name="action">"Daftar masuk"</string>
+    <string description="cutstom action bar view title for about" maxwidth="-1" name="action_about">Mengenai</string>
+    <string description="action add files" maxwidth="-1" name="action_add">Tambah</string>
+    <string description="cutstom action bar view title for add folder" maxwidth="-1" name="action_add_folder">Tambah folder</string>
+    <string description="View title of custom action bar, apply to multiple selected files" maxwidth="-1" name="action_apply_selected_file">Guna</string>
+    <string description="action cancel" maxwidth="-1" name="action_cancel">Batal</string>
+    <string maxwidth="-1" name="action_clean">"Bersihkan"</string>
+    <string maxwidth="-1" name="action_clean_all">"Bersihkan semua"</string>
+    <string description="cutstom action bar view title for clear search history" maxwidth="" name="action_clear_history">Kosongkan sejarah carian</string>
+    <string description="cutstom action bar view title for edit" maxwidth="" name="action_edit">"Edit"</string>
+    <string maxwidth="" name="action_hidden_zone">"Alihkan ke Kabinet Tersembunyi"</string>
+    <string description="cutstom action bar view title for hinde system file" maxwidth="-1" name="action_hind_system_file">Sembunyikan fail sistem</string>
+    <string name="action_loading">"Memuatkan..."</string>
+    <string description="cutstom action bar view title for open with" maxwidth="" name="action_open_with">"Buka dengan..."</string>
+    <string name="action_refresh_cloudfile">Segar semula</string>
+    <string maxwidth="-1" name="action_restore">"Pulihkan"</string>
+    <string maxwidth="-1" name="action_restore_all">"Pulihkan semua"</string>
+    <string description="cutstom action bar view title for search" maxwidth="" name="action_search">Cari</string>
+    <string description="cutstom action bar view title for set as" maxwidth="" name="action_set_as">"Tetapkan gambar sebagai"</string>
+    <string description="menu title for setting" maxwidth="-1" name="action_settings">"Tetapan"</string>
+    <string description="cutstom action bar view title for sharing" maxwidth="-1" name="action_share">Kongsi</string>
+    <string description="String for asking for the rule of sorting" maxwidth="-1" name="action_sort_by">Isih mengikut</string>
+    <string description="cutstom action bar view title for zip" maxwidth="" name="action_zip">Mampatkan</string>
+    <string description="Dialog title: Add cloud storage" maxwidth="-1" name="add_cloud_storage_dialog_title">Tambah storan awan</string>
+    <string name="add_favorite">Tambah ke Kegemaran</string>
+    <string name="add_favorite_folder">"Tambah folder kegemaran"</string>
+    <string name="add_favorite_success">Simpan ke Kegemaran</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="add_progress">Mencipta...</string>
+    <string description="Don&apos;t remind me again" maxwidth="-1" name="alert_cb_msg">Jangan ingatkan saya lagi</string>
+    <string description="ASUS ZenUI Services is not support, need update ASUS ZenUI Services" maxwidth="-1" name="alert_msg_azs_update">%1$s memerlukan versi terkini Perkhidmatan ASUS ZenUI, sila pasangnya sekarang.</string>
+    <string description="Client app is not support, need update client app" maxwidth="-1" name="alert_msg_client_update">Versi baharu %1$s tersedia, sila pasangnya sekarang.</string>
+    <string description="Client app version is compatible with ASUS ZenUI Services" maxwidth="-1" name="alert_msg_compatible">Versi %1$s tidak serasi dengan ASUS ZenUI Services.</string>
+    <string description="Client app version is match with ASUS ZenUI Services" maxwidth="-1" name="alert_msg_match">Versi %1$s sepadan dengan ASUS ZenUI Services.</string>
+    <string description="ASUS ZenUI Services is not found on device" maxwidth="-1" name="alert_msg_not_found">Perkhidmatan ASUS ZenUI tidak dipasang!\n\nPergi muat turun dan pasangnya?</string>
+    <string description="Dialog title" maxwidth="-1" name="alert_title">Nota</string>
+    <string description="Dialog title" maxwidth="-1" name="alert_title_update">Kemas kini disyorkan</string>
+    <string name="app_cloudstorage_name">CloudStorage</string>
+    <string name="app_upload_complete">"%s muat naik lengkap"</string>
+    <string description="" name="article_one">"Saya bersetuju dengan \"<u>Terma Notis Penggunaan</u>\" ASUS, \"<u>Dasar Privasi</u>\" ASUS, \"<u>Terma Notis Penggunaan</u>\" ASUS WebStorage, \"<u>Dasar Privasi</u>\" ASUS WebStorage."</string>
+    <string description="" name="article_two">"Kekalkan saya dikemas kini oleh eDM dengan berita ASUS terkini, kemas kini perisian dan maklumat produk dan perkhidmatan."</string>
+    <string description="Text for create asus account button." maxwidth="" name="asus_account_create_button">"Daftar"</string>
+    <string name="asus_account_integrate_dialog_content">"Adakah anda ingin menyepadukan akaun ASUS dengan akaun WebStorage? \n\n Selepas penyepaduan, anda akan menikmati semua perkhidmatan ASUS."</string>
+    <string name="asus_account_integrate_dialog_skip">"Langkau"</string>
+    <string name="asus_account_integrate_dialog_title">"Sepadukan Perkhidmatan ASUS"</string>
+    <string name="asus_account_integrate_dialog_yes">"Ya"</string>
+    <string description="Text for asus account content 1st." maxwidth="" name="asus_account_msg_content_1">"Dapat perkhidmatan sokongan ASUS peribadi dan sambungan waranti untuk produk berdaftar."</string>
+    <string description="Text for asus account content 2nd." maxwidth="" name="asus_account_msg_content_2">"Dapat ruang storan Awan 5 GB percuma."</string>
+    <string description="Text for asus account content 3rd." maxwidth="" name="asus_account_msg_content_3">"Dapat maklumat terkini mengenai aksesori dan produk dibaik pulih."</string>
+    <string description="Text for asus account content title." maxwidth="" name="asus_account_msg_title">"Cipta akaun ASUS dan anda boleh:"</string>
+    <string name="asus_account_only_one_alert">"Hanya satu akaun ASUS yang dibenarkan untuk ditambah. Anda perlu memadamkan akaun semasa anda sebelum menggantikannya dengan akaun baharu."</string>
+    <string name="asus_account_prefc">"Tetapan"</string>
+    <string name="asus_account_prefc_advc">"Tetapan lanjutan"</string>
+    <string name="asus_account_registe_country_error">"Sila pilih satu negara/rantau!"</string>
+    <string name="asus_account_registe_id_error">"Ralat format e-mel"</string>
+    <string name="asus_account_registe_policy_error">"Anda hendaklah bersetuju dengan dasar ASUS untuk mendaftar akaun ASUS!"</string>
+    <string name="asus_account_registe_pw_error_1">"Kata laluan tidak boleh nol!"</string>
+    <string name="asus_account_registe_pw_error_2">"Sahkan kata laluan tidak boleh nol!"</string>
+    <string name="asus_account_registe_pw_error_3">"Kata laluan dan sahkan kata laluan mesti sepadan!"</string>
+    <string name="asus_account_registe_pw_error_4">"Kata laluan hendaklah 8 hingga 25 aksara."</string>
+    <string name="asus_account_removeaccount_dialog_content">"Penyediaan akaun berjaya. Log masuk sekali lagi menggunakan akaun baharu."</string>
+    <string name="asus_account_removeaccount_dialog_title">"Penyepaduan akaun ASUS berjaya"</string>
+    <string name="asus_commonui_activity_chooser_view_see_all">"Lihat semua"</string>
+    <string name="asus_commonui_activity_resolver_use_always">"Sentiasa"</string>
+    <string name="asus_commonui_activity_resolver_use_once">"Hanya sekali"</string>
+    <string name="asus_commonui_activitychooserview_choose_application">"Pilih apl"</string>
+    <string name="asus_commonui_activitychooserview_choose_application_error">"Ralat"</string>
+    <string name="asus_commonui_cancel_label">"Batal"</string>
+    <string name="asus_commonui_chooseActivity">"Pilih tindakan"</string>
+    <string msgid="3968620852217927702" name="asus_commonui_day_picker_description">"Grid bulan hari"</string>
+    <string msgid="6908431551612331381" name="asus_commonui_deleted_key">"<ns1:g id="KEY">%1$s</ns1:g> dipadamkan"</string>
+    <string name="asus_commonui_done_label">"OK"</string>
+    <string msgid="7586639618712934060" name="asus_commonui_hour_picker_description">"Penggelangsar bulatan jam"</string>
+    <string msgid="2674929164900463786" name="asus_commonui_item_is_selected">"<ns1:g id="ITEM">%1$s</ns1:g> dipilih"</string>
+    <string msgid="6024811202872705251" name="asus_commonui_minute_picker_description">"Penggelangsar bulatan minit"</string>
+    <string name="asus_commonui_noApplications">"Tiada apl yang boleh menjalankan tindakan ini."</string>
+    <string name="asus_commonui_no_url_handler">Tiada apl dijumpai untuk membuka URL</string>
+    <string name="asus_commonui_privacy_policy">Dasar Privasi</string>
+    <string name="asus_commonui_privacy_policy_url">http://www.asus.com/MY/Terms_of_Use_Notice_Privacy_Policy/Privacy_Policy</string>
+    <string msgid="3973338219107019769" name="asus_commonui_select_day">"Pilih bulan dan hari"</string>
+    <string msgid="7651068754188418859" name="asus_commonui_select_hours">"Pilih jam"</string>
+    <string msgid="8327182090226828481" name="asus_commonui_select_minutes">"Pilih minit"</string>
+    <string msgid="2603330600102539372" name="asus_commonui_select_year">"Pilih tahun"</string>
+    <string name="asus_commonui_shareactionprovider_share_with">"Kongsi dengan"</string>
+    <string name="asus_commonui_shareactionprovider_share_with_application">
+        "Kongsi dengan <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string name="asus_commonui_terms_of_use_notice">Notis Terma Penggunaan</string>
+    <string name="asus_commonui_terms_of_use_notice_url">http://www.asus.com/MY/Terms_of_Use_Notice_Privacy_Policy/Official_Site/</string>
+    <string name="asus_commonui_whichApplication">"Selesaikan tindakan menggunakan"</string>
+    <string name="asus_commonui_whichHomeApplication">Select a home app</string>
+    <string msgid="6963340404644587098" name="asus_commonui_year_picker_description">"Senarai tahun"</string>
+    <string name="asus_feedback_and_help">Maklum Balas &amp; Bantuan</string>
+    <string name="asus_registe_success_title">"Pendaftaran akaun ASUS berjaya"</string>
+    <string name="asus_response_resultdata">"Akaun ini sudah didaftarkan."</string>
+    <string name="asusaccount_app_name">"Akaun ASUS"</string>
+    <string maxwidth="-1" name="attribution_notice">"Notis Pengedaran"</string>
+    <string maxwidth="-1" name="attribution_notice_content">
+    "\nProduk ini mengandungi sumber terbuka yang disenaraikan di bawah:
+\n\nuservoice-android-sdk, yang dilesenkan di bawah Lesen Apache Versi 2.0. Lesen boleh dimuat turun daripada http://www.apache.org/licenses/LICENSE-2.0.html .
+        \n\nangular-filemanager, yang dilesenkan di bawah MIT. Lesen boleh dimuat turun daripada https://github.com/joni2back/angular-filemanager/blob/master/LICENSE .
+        \n\nprogressbar, yang dilesenkan di bawah MIT. Lesen boleh dimuat turun daripada https://github.com/kimmobrunfeldt/progressbar.js/blob/master/LICENSE .
+        \n\ntoastr, Hak Cipta (c) 2012-2015 John Papa, Tim Ferrell, Hans Fjällemark\nKeizinan dengan ini diberikan, secara percuma, kepada sesiapa sahaja yang mendapat salinan perisian dan fail dokumentasi berkaitan ini ("Perisian"), untuk berurusan dengan Perisian tanpa had, termasuk tanpa pengehadan hak untuk menggunakan, menyalin, mengubah suai, menggabungkan, menerbitkan, mengedarkan, mengeluarkan lesen kecil dan/atau menjual salinan Perisian serta untuk membenarkan orang yang Perisian dilengkapkan untuk berbuat demikian, tertakluk pada syarat berikut:
+        Notis hak cipta di atas dan notis keizinan ini hendaklah dimasukkan ke dalam semua salinan atau bahagian Perisian yang penting. PERISIAN DISEDIAKAN “SEADANYA” TANPA SEBARANG JAMINAN DALAM APA JUA BENTUK, TERSURAT ATAU TERSIRAT, TERMASUK TETAPI TIDAK TERHAD KEPADA WARANTI ATAU KEBOLEHDAGANGAN, KESESUAIAN UNTUK TUJUAN DAN KETIDAKLANGGARAN TERTENTU. DALAM APA JUA KEADAAN, PENGARANG ATAU PEMEGANG HAK CIPTA TIDAK AKAN BERTANGGUNGJAWB TERHADAP SEBARANG TUNTUTAN, GANTI RUGI ATAU LIABILITI LAIN, SAMA ADA DALAM TINDAKAN KONTRAK, TORT ATAU YANG TIMBUL DARIPADA ATAU BERKAITAN DENGAN PERISIAN ATAU PENGGUNAAN ATAU URUSAN LAIN DALAM PERISIAN."
+    </string>
+    <string name="aucloud_account_only_one_alert">"Hanya satu akaun Awan au yang dibenarkan untuk ditambah. Anda perlu memadamkan akaun semasa anda sebelum menggantikannya dengan akaun baharu."</string>
+    <string description="string indicating how camera shooting feature is used" maxwidth="-1" name="auto">Auto</string>
+    <string name="aws_install_contnet">"Tiada ASUS WebStorage yang dipasang. Adakah anda ingin memuat turun dan memasang dari Play Store?"</string>
+    <string name="aws_install_title">"ASUS Webstorage tidak dipasang"</string>
+    <string description="button text." maxwidth="-1" name="back_button_label">Kembali</string>
+    <string name="baidu_alert_info">"Berdasarkan platform Baidu, peranti ini hanya boleh mengakses data di bawah "Data Aplikasi Saya\\asus\\" ."</string>
+    <string name="baidu_alert_title">"Storan Awan Baidu"</string>
+    <string name="baidu_storage_title">"百度云"</string>
+    <string name="baidupcs_account_only_one_alert">"Hanya satu Baidu untuk akaun ASUS yang dibenarkan untuk ditambah. Anda perlu memadamkan akaun semasa anda sebelum menggantikannya dengan akaun baharu."</string>
+    <string name="btn_OK">OK</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="calculate_progress">"Sedang berjalan..."</string>
+    <string description="Toast: can not open in hidden zone" maxwidth="-1" name="can_not_open_in_hidden_zone">"Tidak dapat dibuka dalam Kabinet Tersembunyi"</string>
+    <string description="Dialog Button: cancel for dialog" maxwidth="" name="cancel">Batal</string>
+    <string name="cancle">Batal</string>
+    <string name="category_apk">Aplikasi</string>
+    <string maxwidth="11" name="category_app1">"Aplikasi"</string>
+    <string name="category_compress">"Dimampatkan"</string>
+    <string maxwidth="11" name="category_compressed1">"Dimampatkan"</string>
+    <string name="category_count">"%s"</string>
+    <string maxwidth="11" name="category_document1">"Dokumen"</string>
+    <string name="category_documents">"Dokumen"</string>
+    <string name="category_download">Muat turun</string>
+    <string maxwidth="11" name="category_download1">"Muat turun"</string>
+    <string name="category_favorite">Kegemaran</string>
+    <string maxwidth="11" name="category_favorite1">"Kegemaran"</string>
+    <string name="category_game">"Permainan"</string>
+    <string name="category_image">Imej</string>
+    <string maxwidth="11" name="category_image1">"Imej"</string>
+    <string maxwidth="11" name="category_large_file1">"Fail besar"</string>
+    <string name="category_music">Muzik</string>
+    <string maxwidth="11" name="category_music1">"Muzik"</string>
+    <string name="category_name_app_wallpaper">"Kertas Dinding Langsung"</string>
+    <string name="category_name_app_widgets">"Widget"</string>
+    <string name="category_name_books_and_reference">"Buku &amp; Rujukan"</string>
+    <string name="category_name_business">"Perniagaan"</string>
+    <string name="category_name_comics">"Komik"</string>
+    <string name="category_name_communication">"Komunikasi"</string>
+    <string name="category_name_education">"Pendidikan"</string>
+    <string name="category_name_entertainment">"Hiburan"</string>
+    <string name="category_name_finance">"Kewangan"</string>
+    <string name="category_name_game">"Mainan"</string>
+    <string name="category_name_game_action">"Aksi"</string>
+    <string name="category_name_game_adventure">"Cabaran"</string>
+    <string name="category_name_game_arcade">"Arked"</string>
+    <string name="category_name_game_board">"Papan"</string>
+    <string name="category_name_game_card">"Kad"</string>
+    <string name="category_name_game_casino">"Kasino"</string>
+    <string name="category_name_game_casual">"Kasual"</string>
+    <string name="category_name_game_educational">"Pendidikan"</string>
+    <string name="category_name_game_family">"Keluarga"</string>
+    <string name="category_name_game_music">"Muzik"</string>
+    <string name="category_name_game_puzzle">"Teka-teki"</string>
+    <string name="category_name_game_racing">"Perlumbaan"</string>
+    <string name="category_name_game_role_playing">"Lakon Peranan"</string>
+    <string name="category_name_game_simulation">"Penyelakuan"</string>
+    <string name="category_name_game_sports">"Sukan"</string>
+    <string name="category_name_game_strategy">"Strategi"</string>
+    <string name="category_name_game_trivia">"Trivia"</string>
+    <string name="category_name_game_word">"Perkataan"</string>
+    <string name="category_name_health_and_fitness">"Kesihatan &amp; Kecergasan"</string>
+    <string name="category_name_libraries_and_demo">"Perpustakaan &amp; Tunjuk cara"</string>
+    <string name="category_name_lifestyle">"Gaya hidup"</string>
+    <string name="category_name_media_and_video">"Media &amp; Video"</string>
+    <string name="category_name_medical">"Perubatan"</string>
+    <string name="category_name_music_and_audio">"Muzik &amp; Audio"</string>
+    <string name="category_name_news_and_magazines">"Berita &amp; Majalah"</string>
+    <string name="category_name_personalization">"Pemperibadian"</string>
+    <string name="category_name_photography">"Fotografi"</string>
+    <string name="category_name_productivity">"Produktiviti"</string>
+    <string name="category_name_shopping">"Beli-belah"</string>
+    <string name="category_name_social">"Sosial"</string>
+    <string name="category_name_sports">"Sukan"</string>
+    <string name="category_name_tools">"Alatan"</string>
+    <string name="category_name_transportation">"Pengangkutan"</string>
+    <string name="category_name_travel_and_local">"Perjalanan &amp; Tempatan"</string>
+    <string name="category_name_weather">"Cuaca"</string>
+    <string name="category_others">"Lain-lain"</string>
+    <string maxwidth="11" name="category_recent1">"Terbaru"</string>
+    <string name="category_recent_files">"Ditambah baru-baru ini"</string>
+    <string name="category_sorting_summary">"Pilih item yang ditunjukkan pada panel kategori"</string>
+    <string name="category_title_category">Kategori</string>
+    <string name="category_title_local_storage">Storan Tempatan</string>
+    <string name="category_title_tools">"Alat"</string>
+    <string name="category_toast_invalid_item_size_6_or_9">"Sila pilih 6 atau 9 item"</string>
+    <string name="category_toast_invalid_item_size_9">"Sila pilih 9 item"</string>
+    <string name="category_toast_invalid_remove">"Item ini tidak boleh dialih keluar"</string>
+    <string name="category_toast_max_item_size">"Pilih maksimum 9 item"</string>
+    <string name="category_video">Video</string>
+    <string maxwidth="11" name="category_video1">"Video"</string>
+    <string name="clear_account_info">Lupakan semua akaun</string>
+    <string description="Menu Option: clear all checkbox" maxwidth="" name="clear_all">Kosongkan semua</string>
+    <string name="click_plus_to_add_favorite_folder">"Ketik + untuk menambah folder kegemaran"</string>
+    <string description="Toast: The size is over the limit and cannot be uploaded" maxwidth="-1" name="cloud_download_flie_limit_space">Gagal memuat turun fail. Saiz fail di atas had maksimum.</string>
+    <string description="Toast: The name of the file uploaded is not supported by cloud server" maxwidth="-1" name="cloud_flie_name_not_supported">Operasi tidak dapat dilengkapkan kerana nama fail tidak disokong oleh pelayan awan.</string>
+    <string description="home cloud get available devices fail" name="cloud_homebox_get_devices_fail">Gagal mengimbas peranti HomeCloud yang tersedia</string>
+    <string description="home cloud has no available devices" name="cloud_homebox_no_available_devices">Tiada peranti HomeCloud yang tersedia</string>
+    <string description="home cloud device is sleep" name="cloud_homebox_status__info_Sleep">Tidur</string>
+    <string description="home cloud device is offline" name="cloud_homebox_status__info_offline">Luar Talian</string>
+    <string description="home cloud device is online" name="cloud_homebox_status__info_online">Dalam Talian</string>
+    <string description="home cloud device is offline" name="cloud_homebox_status_offline">Peranti berada luar talian</string>
+    <string description="diaglog cloud background paste" name="cloud_paste_backgroud">Latar belakang</string>
+    <string description="diaglog cloud  now is copy files" name="cloud_paste_copying">Menyalin...</string>
+    <string description="diaglog cloud  current" name="cloud_paste_current">Semasa</string>
+    <string description="diaglog cloud  now is delete source files" name="cloud_paste_deleting">Memadam fail sumber...</string>
+    <string description="diaglog cloud  paste" name="cloud_paste_downloading">Memuat turun fail</string>
+    <string description="diaglog cloud  total" name="cloud_paste_total">Jumlah</string>
+    <string description="diaglog cloud  paste uploading" name="cloud_paste_uploading">Memuat naik fail</string>
+    <string description="Toast: cloud preview action" maxwidth="-1" name="cloud_preview_action_fail">pratonton fail awan telah gagal.</string>
+    <string description="Toast: cloud share action" maxwidth="-1" name="cloud_share_action_fail">perkongsian fail awan telah gagal.</string>
+    <string description=">Do you want to remove" maxwidth="-1" name="cloud_storage_remove_hint">"Adakah anda ingin Melog keluar \"%s\" akaun?"</string>
+    <string description="Dialog title: Remove cloud storage" maxwidth="-1" name="cloud_storage_remove_hint_title">Log keluar</string>
+    <string description=">Do you want to signin" maxwidth="-1" name="cloud_storage_sign_in">Sambung menggunakan akaun berikut:</string>
+    <string description="Dialog title: Signin cloud storage" maxwidth="-1" name="cloud_storage_sign_in_title">Sambungkan %s</string>
+    <string description=">Do you want to signout" maxwidth="-1" name="cloud_storage_sign_out">Adakah anda pasti ingin mendaftar keluar?</string>
+    <string description="Dialog title: Signout cloud storage" maxwidth="-1" name="cloud_storage_sign_out_title">Putuskan sambungan</string>
+    <string description="Add more cloud storage" maxwidth="-1" name="cloud_storage_title">Tambah lebih banyak storan awan</string>
+    <string description="diaglog cloud  token is invalidate" name="cloud_token_invalidate">Token tidak sah, sila log masuk sekali lagi!</string>
+    <string description="Toast: The size is over the limit and cannot be uploaded" maxwidth="-1" name="cloud_upload_flie_limit_space">Gagal memuat naik fail. Saiz fail di atas had maksimum.</string>
+    <string name="com_facebook_image_download_unknown_error">Ralat tidak dijangka ketika memuat turun imej.</string>
+    <string name="com_facebook_internet_permission_error_message">Log masuk WebView memerlukan kebenaran INTERNET</string>
+    <string name="com_facebook_internet_permission_error_title">Ralat AndroidManifest</string>
+    <string name="com_facebook_like_button_liked">Disukai</string>
+    <string name="com_facebook_like_button_not_liked">Suka</string>
+    <string name="com_facebook_loading">Memuatkan...</string>
+    <string name="com_facebook_loginview_cancel_action">Batal</string>
+    <string name="com_facebook_loginview_log_in_button">Log masuk</string>
+    <string name="com_facebook_loginview_log_in_button_long">Log masuk dengan Facebook</string>
+    <string name="com_facebook_loginview_log_out_action">Log keluar</string>
+    <string name="com_facebook_loginview_log_out_button">Log keluar</string>
+    <string name="com_facebook_loginview_logged_in_as">Dilog masuk sebagai: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Dilog masuk menggunakan Facebook</string>
+    <string name="com_facebook_send_button_text">Hantar</string>
+    <string name="com_facebook_share_button_text">Kongsi</string>
+    <string name="com_facebook_tooltip_default">Baru! Anda yang mengawal - pilih maklumat yang anda ingin kongsi dengan aplikasi.</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Dayakan"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> tidak akan berfungsi melainkan anda mendayakan perkhidmatan Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Dayakan perkhidmatan Google Play"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Pasang"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> tidak akan berfungsi tanpa perkhidmatan Google Play dan perkhidmatan ini tiada pada peranti anda."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Dapatkan perkhidmatan Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Ralat perkhidmatan Google Play"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> menghadapi masalah berhubung perkhidmatan Google Play. Sila cuba lagi."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> tidak akan berfungsi tanpa perkhidmatan Google Play dan perkhidmatan ini tidak disokong oleh peranti anda."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Kemas kini"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> tidak akan berfungsi kecuali anda mengemas kini perkhidmatan Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Kemaskinikan perkhidmatan Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> tidak akan berfungsi tanpa perkhidmatan Google Play dan perkhidmatan ini sedang dikemaskinikan."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Versi baharu perkhidmatan Google Play diperlukan. Kemas kini automatik akan dijalankan sebentar lagi."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Buka pada telefon"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Log masuk"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Log masuk dengan Google"</string>
+    <string name="confirm">"Sah"</string>
+    <string name="confirm_ok">"OK"</string>
+    <string description="confirm password textview title" name="confirm_password">"Sahkan kata laluan"</string>
+    <string description="ask user to enter password again to confirm" name="confirm_password_edit">"Masukkan kata laluan anda sekali lagi"</string>
+    <string description="content" maxwidth="-1" name="content">Penggunaan perisian ini tertakluk pada terma dan syarat di laman web ASUS: \nhttp://www.asus.com</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="copy">Salin</string>
+    <string description="Toast: copy ready" maxwidth="-1" name="copy_ready_more">Fail yang dipilih telah disalin dan sedia untuk ditampal.</string>
+    <string description="Toast: copy ready. %s is variable string." maxwidth="-1" name="copy_ready_one">"\"%s\" telah disalin dan sedia untuk ditampal."</string>
+    <string name="copy_to">Salin ke</string>
+    <string description="country region textview title" name="country_region">"Negara/Rantau"</string>
+    <string description="ack user to select on country" name="country_region_select">"Pilih negara/rantau anda"</string>
+    <string name="create_shortcut">"Cipta pintasan"</string>
+    <string name="create_shortcut_dialog">"Cipta pintasan pada Pelancar"</string>
+    <string name="create_shortcut_toast">"Lengkap mencipta pintasan pada Pelancar"</string>
+    <string name="cta_agree">"Benarkan"</string>
+    <string name="cta_check_title">"Ingat"</string>
+    <string name="cta_dialog_content"><b>Pengurus Fail</b> cuba menggunakan rangkaian, ia mungkin mengenakan caj lain bergantung pada langganan anda.</string>
+    <string name="cta_dialog_title">"Menggunakan Rangkaian"</string>
+    <string name="cta_disagree">"Enggan"</string>
+    <string name="cta_show_menu">"Keizinan rangkaian"</string>
+    <string name="current_folder">"Folder semasa"</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="cut">Potong</string>
+    <string description="Toast: cut ready" maxwidth="-1" name="cut_ready_more">Fail yang dipilih telah dipotong dan sedia untuk ditampal.</string>
+    <string description="Toast: cut ready. %s is variable string." maxwidth="-1" name="cut_ready_one">\"%s\" telah dipotong dan sedia untuk ditampal.</string>
+    <string description="button text for sort file by date" maxwidth="-1" name="date">Tarikh</string>
+    <string description="button text for sort file by date ascending" maxwidth="-1" name="date_ascending">Tarikh (paling lama-terkini)</string>
+    <string description="button text for sort file by date descending" maxwidth="-1" name="date_descending">Tarikh (terkini-paling lama)</string>
+    <string msgid="7984755014526510295" name="day">"1 hari"</string>
+    <string msgid="2070509222727852210" name="days">"<ns1:g id="DAYS">%s</ns1:g> hari"</string>
+    <string name="dbx_install_contnet">"Tiada Dropbox yang dipasang. Adakah anda ingin memuat turun dan memasang dari Play Store?"</string>
+    <string name="dbx_install_title">"Dropbox tidak dipasang"</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="delete">Padam</string>
+    <string description="Dialog Title: delete dialog title" maxwidth="" name="delete_dialog">Padam fail</string>
+    <string description="Toast: delete fails" maxwidth="-1" name="delete_fail">Gagal memadam fail.</string>
+    <string description="Dialog Content: text in dialog. %d is variable number." maxwidth="" name="delete_more_files">Adakah anda ingin memadam %d item?</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="delete_one_directory">Adakah anda ingin memadam direktori tersebut?</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="delete_one_files">Adakah anda ingin memadam fail?</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="delete_progress">Memadam...</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="delete_size">"Saiz: "</string>
+    <string description="Toast: delete success" maxwidth="-1" name="delete_success_more">Fail yang dipilih telah dipadam.</string>
+    <string description="Toast: delete success. %s is variable string." maxwidth="-1" name="delete_success_one">"\"%s\" telah dipadam."</string>
+    <string description="cutstom action bar view title for deselect all checkbox" maxwidth="" name="deselect_all">Nyahpilih semua</string>
+    <string name="device_root_path">akar</string>
+    <string description="compress dialog title" maxwidth="-1" name="dialog_create_zip_title">Masukkan nama arkib</string>
+    <string description="extract zip file dialog title. %s is a dynamic string. It is zip file name." maxwidth="-1" name="dialog_extract_zip_title">Ekstrak %s ke :</string>
+    <string name="dialog_load_stream_url_info">Mendapatkan semula maklumat yang perlu daripada pelayan</string>
+    <string name="dialog_msg_market_login_account">"Sila log masuk ke akaun Google anda untuk memuat turun aplikasi"</string>
+    <string description="text encoding dialog title" maxwidth="-1" name="dialog_text_encoding_title">Pengekodan teks</string>
+    <string name="dialog_title_market_login_account">"Tambah akaun"</string>
+    <string description="show zip info dialog title. %s is a dynamic string. Is is a zip file name" maxwidth="-1" name="dialog_unzip_preview_title">Ekstrak %s</string>
+    <string description="Dialog Title: Directory information dialog title" maxwidth="-1" name="dir_info_dialog_title">Maklumat direktori</string>
+    <string name="display">Paparkan sebagai</string>
+    <string name="display_hint">My Computer, boleh kosong</string>
+    <string name="dm_openfile">"Buka fail"</string>
+    <string name="do_not_show_again">"Jangan tunjuk lagi"</string>
+    <string name="domain">Domain:</string>
+    <string name="domain_hint">Boleh kosong</string>
+    <string name="download_fail">muat turun gagal!</string>
+    <string name="drag_items_one">Seret item</string>
+    <string name="drag_items_other">Seret item</string>
+    <string name="drawer_close">Tutup laci navigasi</string>
+    <string name="drawer_home">Laman Utama</string>
+    <string name="drawer_open">Buka laci navigasi</string>
+    <string description="Hint: the operation is incorrect" maxwidth="-1" name="drop_incorrect_hint">Pengendalian salah</string>
+    <string description="Hint: the target folder which you want to do something" maxwidth="-1" name="drop_target_to">Sasaran:</string>
+    <string name="dumdownloadfrom">Muat turun daripada</string>
+    <string name="dumuploadto">Muat naik ke</string>
+    <string name="duplicate_files">"Fail duplikasi"</string>
+    <string name="duplicate_files_content_hint">"Cari fail duplikasi dan memadamnya dengan keizinan anda."</string>
+    <string name="edit_toast_name_too_long">Telah mencapai bilangan maksimum aksara</string>
+    <string name="edit_toast_special_char">Tidak boleh memasukkan aksara khas</string>
+    <string name="editcategory_hint">"Ketik butang edit untuk menyesuaikan panel Kategori."</string>
+    <string description="describe the empty folder" maxwidth="-1" name="empty_folder_title">"Tiada fail"</string>
+    <string description="Dialog Button: click to open the encoding list dialog" maxwidth="-1" name="encode">Pengekodan teks</string>
+    <string description="ask user to enter password" maxwidth="-1" name="enter_password">"Masukkan kata laluan"</string>
+    <string name="eula_content_description">
+        \nPerjanjian Lesen Pengguna Akhir ("EULA") ini membentuk satu perjanjian sah dan terikat antara ASUSTeK Computer Inc. ("ASUS") dan Anda, sebagai pengguna, bagi penggunaan Perisian ASUS ("Perisian") yang ditakrifkan seperti yang telah ditetapkan di bawah. Dengan memasang dan meneruskan penggunaan perisian, ANDA DENGAN JELAS MENGAKUI BAHAWA ANDA TELAH MEMBACA DAN MEMAHAMI SERTA BERSETUJU UNTUK TERIKAT OLEH TERMA EULA INI DAN SEBARANG VERSI BAHARU YANG BERKENAAN. 
+\n\n1.PERISIAN bermakna perisian ASUS yang disediakan dalam atau bersama produk ASUS berkenaan termasuk tetapi tidak terhad pada sebarang pembetulan, kemas kini, naik taraf dan versi diubah suai pengaturcaraan akan datang.
+\nPerisian mungkin diikuti dengan perisian dicipta ASUS atau pihak ketiga yang dilesenkan di bawah satu atau lebih lesen Perisian Sumber Terbuka Percuma seperti yang disenaraikan di bawah www.opensource.org/licenses. Perisian Sumber Terbuka Percuma seperti ini disediakan untuk anda sepenuhnya di bawah terma perjanjian lesen atau notis hak cipta masing-masing yang mengikutinya atau dalam fail lesen FOSS yang mengikuti Perisian tersebut. Terma EULA ini TIDAK digunakan untuk Perisian Sumber Terbuka Percuma seperti itu.
+\n\n2.LESEN Tertakluk pada terma EULA ini, ASUS dengan ini memberikan anda lesen bukan eksklusif yang terhad, peribadi dan bukan komersial untuk menggunakan Perisian semata-mata seperti yang dibenamkan dalam produk ASUS. Anda boleh membuat satu salinan Perisian dalam bentuk boleh dibaca mesin untuk tujuan sandaran sahaja; dengan syarat salinan sandaran mesti mengandungi semua hak cipta atau notis proprietari lain yang terkandung dalam salinan asal. Lesen ini tidak boleh disublesenkan dan tidak boleh dipindahkan kecuali kepada seseorang atau entiti yang anda pindahkan pemilikan produk ASUS lengkap mengandungi Perisian, dengan syarat anda kekal memindahkan semua hak di bawah EULA ini dan tidak menyimpan apa-apa salinan penuh atau sebahagian Perisian, dan penerima bersetuju dengan terma EULA ini.
+\n\n3.SEKATAN SONGSANG Anda tidak sepatutnya menyongsang kejuruteraan, menyahkompil, menyahsulit atau menyahhimpun Perisian atau membenarkan atau menyebabkan yang disebut di atas kecuali setakat yang undang-undang berkenaan secara terus melarang penguatkuasaan yang disebut di atas.
+\n\n4.KERAHSIAAN Anda sepatutnya menjalankan tugas untuk melindungi dan tidak mendedahkan atau menyebabkan pendedahan secara keseluruhan atau sebahagian daripada maklumat sulit Perisian termasuk tetapi tidak terhad kepada rahsia perdagangan, bahan berhak cipta dalam apa-apa bentuk kepada mana-mana pihak ketiga.
+\n\n5.HAK Harta Intelektual ("Hak IP") Anda mengakui dan bersetuju bahawa semua Hak IP, tajuk dan kepentingan bagi atau timbul daripada Perisian dan hendaklah kekal milik eksklusif ASUS atau pemberi lesennya. Tiada apa dalam EULA ini yang bertujuan untuk memindahkan apa-apa Hak IP sedemikian kepada Anda. Sebarang penggunaan Hak IP yang tidak sah adalah melanggar EULA ini dan juga melanggar undang-undang harta intelektual, termasuk tetapi tidak terhad kepada undang-undang hak cipta dan undang-undang tanda dagangan.
+\nDengan menghantar apa-apa maklumat, bahan, idea, konsep atau teknik kecuali untuk maklumat peribadi kepada ASUS melalui Perisian (\"Maklum Balas\"), Anda mengakui dan bersetuju bahawa: (i) Maklum balas anda hendaklah tidak mengandungi maklumat sulit atau proprietari; (ii) ASUS adalah tidak bertanggungjawab atas apa-apa jenis kerahsiaan, secara nyata atau tersirat, berkenaan Maklum Balas; (iii) ASUS berhak untuk menggunakan atau mendedahkan, mengikut budi bicara ASUS, Maklum Balas untuk sebarang tujuan, dalam apa jua cara, di seluruh dunia; (iv) Maklum Balas anda akan menjadi milik ASUS tanpa ada sebarang kewajipan ASUS kepada Anda; dan (v) Anda tidak berhak atas apa-apa jenis pampasan atau pembayaran balik.
+\n\n6.TERMA DAN PENAMATAN EULA ini akan berkuat kuasa pada tarikh Anda memasang Perisian. Anda boleh menamatkan Lesen ini pada bila-bila masa dengan menghentikan semua penggunaan Perisian dan mengalih keluar Perisian daripada produk ASUS. Hak anda akan ditamatkan tanpa notis terlebih dahulu dari ASUS jika kami berpendapatan bahawa Anda telah gagal mematuhi mana-mana peruntukan EULA ini.
+\n\n7.Penafian Jaminan dan Had Liabiliti ANDA MENGAKUI BAHAWA PERISIAN DISEDIAKAN "SEADANYA". KESELURUHAN RISIKO MENGENAI KUALITI DAN PRESTASI PERISIAN INI ADALAH DENGAN ANDA, TERMASUK TETAPI TIDAK TERHAD KEPADA KOS BERKAITAN SEMUA SERVIS DAN PEMBAIKAN YANG PERLU. SETAKAT YANG DIBENARKAN OLEH UNDANG-UNDANG, ASUS TIDAK MEMBERI JAMINAN, SECARA NYATA ATAU TERSIRAT, BERHUBUNG PERISIAN INI ATAU SEBARANG MAKLUMAT ATAU DOKUMEN YANG DISEDIAKAN DI BAWAH EULA INI ATAU UNTUK PERISIAN INI, TERMASUK TETAPI TIDAK TERHAD KEPADA SEBARANG JAMINAN KEBOLEHDAGANGAN ATAU KESESUAIAN UNTUK TUJUAN TERTENTU ATAU TERHADAP PELANGGARAN ATAU APA-APA JAMINAN YANG TIMBUL DARIPADA PENGGUNAAN ATAU TERKELUAR DARIPADA RUTIN BIASA. ASUS JUGA TIDAK MEMBERI JAMINAN UNTUK HASIL YANG DIPEROLEHI DARI PENGGUNAAN PERISIAN INI ATAU SEBAGAI KETEPATAN ATAU KEBOLEHPERCAYAAN SEBARANG MAKLUMAT YANG DIPEROLEHI MELALUI PERISIAN INI. SESETENGAH BIDANG KUASA TIDAK MEMBENARKAN PENGECUALIAN JAMINAN TERTENTU ATAU HAD ATAU PENGECUALIAN LIABILITI UNTUK KEROSAKAN TERTENTU. OLEH YANG DEMIKIAN, SESETENGAH PENAFIAN DI ATAS DAN HAD LIABILITI MUNGKIN TIDAK BERKAITAN DENGAN ANDA.
+\nRISIKO KESELURUHAN YANG TIMBUL DARIPADA PENGGUNAAN DAN/ATAU PRESTASI PERISIAN INI ADALAH KEKAL BERSAMA ANDA. DALAM APA JUA KEADAAN, ASUS, PEMBERI LESENNYA ATAU MANA-MANA PEGAWAI, PENGARAH, PEKERJA, EJEN ATAU SEKUTU MASING-MASING AKAN BERTANGGUNGJAWAB ATAS APA-APA SEBAB, SAMPINGAN, LANGSUNG, TIDAK LANGSUNG, KHAS, HUKUMAN, ATAU KERUGIAN YANG LAIN (TERMASUK, TANPA HAD, KEROSAKAN KERANA KEHILANGAN KEUNTUNGAN, GANGGUAN, KEHILANGAN MAKLUMAT ATAU KERUGIAN KEWANGAN LAIN) TIMBUL DARIPADA ATAU BERKAITAN DENGAN EULA INI ATAU PENGGUNAAN ATAU KETIDAKUPAYAAN UNTUK MENGGUNAKAN PERISIAN ATAU MANA-MANA ??BAHAGIAN DARIPADANYA, MESKIPUN ASUS TELAH DINASIHATKAN MENGENAI KEMUNGKINAN KEROSAKAN TERSEBUT. SESETENGAH BIDANG KUASA TIDAK MEMBENARKAN PENGECUALIAN JAMINAN TERTENTU ATAU HAD ATAU PENGECUALIAN LIABILITI UNTUK KEROSAKAN TERTENTU. OLEH YANG DEMIKIAN, SESETENGAH PENAFIAN DI ATAS DAN HAD LIABILITI MUNGKIN TIDAK BERKAITAN DENGAN ANDA.
+\n\n8.Tanggung Rugi ANDA bersetuju untuk mempertahankan, menanggung rugi dan memegang lepas ASUS dan sekutu-sekutunya, pembekal perkhidmatan, sindikator, pengedar, pemberi lesen, pegawai, pengarah dan pekerja, daripada dan terhadap sebarang dan semua kerugian, kerosakan, liabiliti dan perbelanjaan yang timbul daripada apa-apa tuntutan atau permintaan (termasuk yuran guaman dan kos mahkamah yang munasabah), disebabkan oleh atau berkaitan dengan pelanggaran ANDA ke atas EULA ini atau mana-mana undang-undang atau peraturan yang berkenaan, atau hak pihak ketiga.
+    </string>
+    <string name="eula_content_title">"Perjanjian Lesen Pengguna Akhir"</string>
+    <string description="Do not translate ASUS" maxwidth="" name="eula_description">"Kontrak yang sah antara aplikasi ASUS dan pengguna akhir"</string>
+    <string maxwidth="" name="eula_title">"Perjanjian Lesen Pengguna Akhir"</string>
+    <string name="example">Contoh:</string>
+    <string description="Dialog Button: extract file for dialog" maxwidth="-1" name="extract">Ekstrak</string>
+    <string name="facebook_app_invite">"Kenalan Facebook"</string>
+    <string name="fb_request_error_permissions">"Aplikasi ini tidak mempunyai kebenaran untuk melakukan ini. Cuba log masuk ke aplikasi sekali lagi."</string>
+    <string name="fileList_Nofiles">Tiada fail</string>
+    <string description="Dialog Title: File information dialog title" maxwidth="-1" name="file_info_dialog_title">Maklumat fail</string>
+    <string description="Application Name shown on title" maxwidth="" name="file_manager">Pengurus Fail</string>
+    <string description="string indicating camera flash is not used" maxwidth="-1" name="flash_off">Tiada denyar</string>
+    <string description="string indicating camera flash is fired" maxwidth="-1" name="flash_on">Denyar ditembak</string>
+    <string description="click to retrieve password" maxwidth="-1" name="forget_password">"<u>Terlupa kata laluan?</u>"</string>
+    <string name="fragment_analyzer_allfiles_used_hint">"Digunakan:"</string>
+    <string name="fragment_analyzer_chart_free_hint">"Percuma:"</string>
+    <string name="fragment_analyzer_chart_total_hint">"Jumlah:"</string>
+    <string name="fragment_analyzer_chart_used_hint">"DIGUNAKAN"</string>
+    <string name="fragment_analyzer_more_hint">"lebih banyak"</string>
+    <string name="google_app_invite">"Kenalan Google"</string>
+    <string name="group_title_installed">"Dipasang"</string>
+    <string name="group_title_not_installed">"Tidak dipasang"</string>
+    <string name="group_title_others">"Lain-lain"</string>
+    <string name="group_title_recommended">"Disyorkan"</string>
+    <string name="hidden_zone_change_password">"Ubah kata laluan"</string>
+    <string name="hidden_zone_confirm_password">"Sahkan kod PIN"</string>
+    <string name="hidden_zone_enter_password">"Masukkan kod PIN anda"</string>
+    <string name="hidden_zone_fingerprint_to_unlock">"Cap jari untuk membuka kunci"</string>
+    <string name="hidden_zone_forget_password">"Lupa kata laluan"</string>
+    <string name="hidden_zone_introduction_description">"Sembunyikan fail peribadi anda dalam Kabinet Tersembunyi. Kod PIN diperlukan untuk membuka Kabinet Tersembunyi."</string>
+    <string name="hidden_zone_password_mismatch">"Kod PIN tidak sepadan"</string>
+    <string name="hidden_zone_set_password_success">"Kata laluan telah berjaya ditetapkan"</string>
+    <string name="hidden_zone_setup_account">"Sediakan akaun"</string>
+    <string name="hidden_zone_setup_password">"Masukkan 4 digit kod PIN"</string>
+    <string name="hidden_zone_wrong_password">"Kod PIN salah"</string>
+    <string description="Can’t connect to HomeCloud." maxwidth="-1" name="homecloud_access_error">Gagal menyambung ke HomeCloud. Sila pastikan bahawa perkhidmatan HomeCloud dalam talian.</string>
+    <string name="homecloud_notice_1">ASUS HomeCloud adalah sebuah perisian pelayan beroperasi menggunakan sistem Windows.  Ianya direka sebagai pustaka kandungan digital untuk rumah dan menyediakan perkhidmatan storan awan serta perkhidmatan penstriman multimedia sekarang, dan boleh dikembangkan kepada lebih banyak perkhidmatan pada masa hadapan.</string>
+    <string name="homecloud_notice_2">Anda boleh memuat turun dan mengalaminya sekarang. </string>
+    <string name="homecloud_notice_3">http://home.asuscloud.com/</string>
+    <string name="homecloud_toast_udp_unsupported">Rangkaian terhad, sila hubungi pentadbir rangkaian anda atau tukar ke rangkaian lain.</string>
+    <string msgid="2546819039651509323" name="hour">"1 jam"</string>
+    <string msgid="2071487018566991613" name="hours">"<ns1:g id="HOURS">%s</ns1:g> jam"</string>
+    <string maxwidth="" name="httpserver_acquire_permission_message">"Pelayan fail HTTP akan ditutup dan pengendalian mungkin terganggu. Teruskan?"</string>
+    <string maxwidth="" name="httpserver_connectwifiname">"AP Wi-Fi bersambung:"</string>
+    <string maxwidth="" name="httpserver_description">"Mulakan perkhidmatan untuk menyambungkan peranti mudah alih anda ke PC."</string>
+    <string maxwidth="" name="httpserver_instruction">"Masukkan alamat ini ke pelayar pada PC anda:"</string>
+    <string maxwidth="" name="httpserver_need_saf">"Jika anda ingin menguruskan storan luaran anda dari PC, anda mesti memberikan kebenaran."</string>
+    <string maxwidth="" name="httpserver_no_network">"Sambungkan peranti anda ke rangkaian Wi-Fi yang sama"</string>
+    <string maxwidth="" name="httpserver_no_permission_message">"Anda tidak akan dapat menulis ke storan luaran tanpa kebenaran yang betul. Teruskan?"</string>
+    <string maxwidth="" name="httpserver_no_permission_title">"Mulakan pemindahan fail wayarles"</string>
+    <string maxwidth="" name="httpserver_start">"Mula"</string>
+    <string maxwidth="" name="httpserver_stop">"Berhenti"</string>
+    <string maxwidth="" name="httpserver_title">"Pemindahan fail wayarles ke PC"</string>
+    <string description="Context Menu: options of context menu" maxwidth="-1" name="info">Maklumat</string>
+    <string description="file info textview context" maxwidth="-1" name="info_aperture">"Apertur: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_datetime">"Tarikh diambil: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_exposure_time">"Waktu pendedahan: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_file_num">"Fail: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_flash">"Denyar: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_focal_length">"Panjang fokus: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_image_height">"Tinggi: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_image_width">"Lebar"</string>
+    <string description="file info textview context" maxwidth="-1" name="info_image_x">" x "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_iso">"ISO: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_location">"Lokasi: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_maker">"Pembuat: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_model">"Model: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_modified">"Tarikh diubah suai: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_name">"Nama: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_orientation">"Orientasi: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_path">"Laluan: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_permission">"Kebenaran: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_type">"Jenis: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_white_balance">"Imbangan putih: "</string>
+    <string description="Do not translate ASUS" maxwidth="" name="inspire_asus_description">"Kumpul data penggunaan kepada ASUS untuk meningkatkan produk dan pengalaman pengguna"</string>
+    <string name="inspire_asus_title">"Inspirasikan ASUS"</string>
+    <string name="install">"Pasang"</string>
+    <string description="storage label" maxwidth="-1" name="internal_storage_title">Storan dalaman</string>
+    <string description="Toast: the account is invalid" maxwidth="-1" name="invalid_account">Akaun tidak sah</string>
+    <string description="Invalid directory path" maxwidth="-1" name="invalid_directory_path">Laluan direktori tidak sah</string>
+    <string name="invalid_server_id">"ID pelayan tidak sah"</string>
+    <string name="invalid_xml">"Xml tidak sah"</string>
+    <string name="inviteContentTitle">%1$s menjemput anda memuat turun dan memasang Pengurus Fail ASUS.</string>
+    <string name="inviteContent_p1">Pengurus Fail ASUS merupakan cara yang ideal untuk mengurus fail dengan peranti pintar anda. Aplikasi pengurusan fail ini membantu anda mengendali dan mengisih menerusi pelbagai fail yang disimpan dalam memori telefon anda, kad microSD, rangkaian kawasan setempat dan juga dalam Awan.</string>
+    <string name="inviteContent_p2">Urus fail anda dengan cekap dan mudah menggunakan Pengurus Fail ASUS! Pengurus Fail ASUS membantu anda mengendalikan semua fail anda sama ada ia disimpan dalam memori peranti anda, kad microSD, rangkaian kawasan setempat dan akaun storan awan seperti ASUS HomeCloud dan Webstorage kami yang tersendiri dan perkhidmatan Awan lain seperti Dropbox, Google Drive atau Microsoft OneDrive.</string>
+    <string name="inviteContent_p3">Saya seronok dengan Pengurus Fail ASUS. Cubalah SEKARANG! :D</string>
+    <string description="sticker detail page button name" maxwidth="-1" name="invite_friends">"Jemput Rakan"</string>
+    <string name="item">item</string>
+    <string name="items">item-item</string>
+    <string name="keep">"Kekalkan"</string>
+    <string name="kk_sd_permission_warning">Oleh sebab sekatan Android, Android 4.4 tidak membenarkan aplikasi pihak ke-3 untuk mengubah suai kad SD luaran.</string>
+    <string name="large_files_content_hint">"Cari fail besar dan padamkannya dengan keizinan anda."</string>
+    <string description="linked file is missing" maxwidth="-1" name="linked_file_missing">"Fail yang dipaut hilang"</string>
+    <string description="text for progress bar" maxwidth="-1" name="loading">Memuat\u2026</string>
+    <string name="local">Tempatan</string>
+    <string description="button text for sort file by date" maxwidth="-1" name="location">Lokasi</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="logging_cloud_storage">Melog...</string>
+    <string name="login_account_miss">"Aplikasi Facebook gagal untuk mendaftar Pengurus Akaun Android. Sila cuba log keluar melalui aplikasi Facebook, kemudian log masuk sekali lagi."</string>
+    <string name="login_again_later">"Pelayan tidak tersedia sekarang. Sila cuba lagi kemudian."</string>
+    <string description="dialog title, key in the asus ID and PW to Login account" maxwidth="-1" name="login_asus_id">"Daftar masuk akaun ASUS"</string>
+    <string description="Toast: login account fail" name="login_fail" width="-1">Gagal melog masuk</string>
+    <string description="login account name" maxwidth="-1" name="login_id">"Nama akaun/ID WebStorage"</string>
+    <string description="logout account" name="logout_account" width="-1">Log keluar</string>
+    <string name="low_storage_tutorial_description">Ketik-dan-tahan untuk memilih fail anda, kemudian pilih "Alih ke" Google Drive</string>
+    <string name="low_storage_tutorial_title">Alih fail ke Google Drive</string>
+    <string name="m_permission_dialog_message">"Ketik [Tetapan] untuk menghidupkan keizinan [%2$s] dalam [Maklumat Apl] > [Keizinan], kemudian mulakan semula %1$s."</string>
+    <string name="m_permission_dialog_positive_button">"Tetapan"</string>
+    <string name="m_permission_setting_subtitle_files">"%1$s akan memerlukan keizinan %2$s untuk mengakses fail anda dalam peranti."</string>
+    <string name="m_permission_setting_title_cloud_storage">"Tidak boleh mengakses storan awan"</string>
+    <string name="m_permission_setting_title_files">"Tidak boleh mengakses fail"</string>
+    <string name="m_permission_setting_turn_on">"Hidupkan"</string>
+    <string description="string indicating how camera shooting feature is used" maxwidth="-1" name="manual">Manual</string>
+    <string name="market_app_error">"Terdapat ralat dengan APP Aplikasi pasaran yang dipasang pada peranti anda!"</string>
+    <string description="ask user to enter email address as account name" maxwidth="-1" name="member_id_hint">"Masukkan alamat e-mel"</string>
+    <string description="The title of a menu for General Preferences.Pressing the menu item lets user to view and edit his general settings" maxwidth="30" name="menu_general_preferences">Tetapan am</string>
+    <string description="settings menu tutorial" maxwidth="-1" name="menu_tutorial">Tutorial</string>
+    <string name="messenger_send_button_text">Hantar</string>
+    <string msgid="2486157997434653710" name="minute">"1 minit"</string>
+    <string msgid="6115838729146292526" name="minutes">"<ns1:g id="MINUTES">%s</ns1:g> minit"</string>
+    <string description="Hint: move the items" maxwidth="-1" name="move">Alih</string>
+    <string name="move_or_delete_msg">"Padam item secara sementara ke dalam tong sampah sekarang?\n(Tandakan kotak di bawah untuk memadam item secara kekal.)"</string>
+    <string name="move_to">Alih ke</string>
+    <string description="Toast: move to recycle bin fails" maxwidth="-1" name="move_to_hidden_zone_fail">"Alih ke Kabinet Tersembunyi gagal"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="move_to_hidden_zone_progress">"Mengalihkan ke Kabinet Tersembunyi..."</string>
+    <string description="Toast: move to recycle bin success" maxwidth="-1" name="move_to_hidden_zone_success_more">"Fail yang dipilih telah dialihkan ke Kabinet Tersembunyi."</string>
+    <string description="Toast: move to recycle bin success. %s is variable string." maxwidth="-1" name="move_to_hidden_zone_success_one">"\"%s\" telah dialihkan ke Kabinet Tersembunyi."</string>
+    <string description="Toast: move to recycle bin fails" maxwidth="-1" name="move_to_trash_fail">"Gagal mengalihkan ke Tong Sampah"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="move_to_trash_progress">"Mengalihkan ke Tong Sampah..."</string>
+    <string description="Toast: move to recycle bin success" maxwidth="-1" name="move_to_trash_success_more">"Fail yang dipilih telah dialihkan ke Tong Sampah"</string>
+    <string description="Toast: move to recycle bin success. %s is variable string." maxwidth="-1" name="move_to_trash_success_one">"\"%s\" telah dialihkan ke Tong Sampah"</string>
+    <string name="msg_too_big_to_recycle">"Item terlalu besar untuk tong sampah.\nAdakah anda mahu memadamnya secara kekal?"</string>
+    <string name="multi_drm_file_forbidden_operation">Tindakan ini dilarang kerana beberapa fail yang dipilih terlindung DRM.</string>
+    <string description="shortcut label" maxwidth="-1" name="my_camera_title">Kamera</string>
+    <string description="shortcut label" maxwidth="-1" name="my_download_title">Muat turun</string>
+    <string description="shortcut label" maxwidth="-1" name="my_music_title">Muzik</string>
+    <string description="shortcut label" maxwidth="-1" name="my_picture_title">Gambar</string>
+    <string description="storage label" maxwidth="-1" name="my_storage_title">Storan saya</string>
+    <string description="button text for sort file by name" maxwidth="-1" name="name">Nama</string>
+    <string description="button text for sort file by name ascending" maxwidth="-1" name="name_ascending">Nama (z-a)</string>
+    <string description="button text for sort file by name descending" maxwidth="-1" name="name_descending">Nama (a-z)</string>
+    <string name="network_cta_hint">sila terima untuk menyambung ke rangkaian</string>
+    <string name="network_invalid">"Sambungan rangkaian tidak sah"</string>
+    <string name="network_invalid_info">"Sambungan tidak sah. Sila semaknya sekali lagi."</string>
+    <string name="network_not_available">"Sambungan rangkaian gagal"</string>
+    <string description="Can’t connect to networkpalce" maxwidth="-1" name="networkplace_access_error">"Sambungan gagal. Sila pastikan bahawa pelayan sedang dalam talian."</string>
+    <string name="networkplace_storage_title">"Tempat rangkaian"</string>
+    <string description="Dialog Title: create new folder" maxwidth="" name="new_folder_dialog">Cipta folder baharu</string>
+    <string description="Toast: new folder fails" maxwidth="-1" name="new_folder_fail">Gagal mencipta folder baharu.</string>
+    <string description="Toast: new folder success. %s is variable string." maxwidth="-1" name="new_folder_success">"Folder \"%s\" telah dicipta."</string>
+    <string maxwidth="" name="news_1"><b>Panel laman utama boleh suai</b>: Kini anda boleh menyesuaikan panel laman utama anda dengan kategori dan aturan berbeza.</string>
+    <string maxwidth="" name="news_2"><b>Pemilih kegemaran</b>: Tambah folder kegemaran secara terus daripada kategori kegemaran.</string>
+    <string maxwidth="" name="news_3"><b>Widget pengurus fail</b>: Cipta pintasan folder pada Pelancar.</string>
+    <string maxwidth="" name="news_mark1">"★  "</string>
+    <string maxwidth="" name="news_subtitle">"Berikut ialah kemas kini utama yang anda tidak patut terlepas."</string>
+    <string maxwidth="" name="news_title">"Apa Yang Baharu"</string>
+    <string maxwidth="" name="news_v21"><b>Pemindahan fail wayarles ke/dari PC</b>: Pindahkan/uruskan fail ke/dari PC</string>
+    <string maxwidth="" name="news_v23">"Peningkatan prestasi dan pembetulan pepijat"</string>
+    <string maxwidth="" name="news_v31">"Penganalisis storan membolehkan anda mengetahui jenis fail yang menggunakan ruang storan"</string>
+    <string maxwidth="" name="news_v32">"Kategori aplikasi yang baharu dipertingkat"</string>
+    <string name="news_v41">"Sembunyikan fail peribadi anda dalam Kabinet Tersembunyi"</string>
+    <string name="news_v42">"Pulihkan fail  yang dipadam daripada Tong Sampah"</string>
+    <string name="news_v43">"Alih keluar fail duplikasi daripada Penganalisis Storan"</string>
+    <string name="news_v44">"Ciri paparan baharu - Mod gelap"</string>
+    <string name="news_v45">"Prestasi dipertingkat"</string>
+    <string name="news_v46">"Pepijat dibetulkan"</string>
+    <string name="newversion_description">"Versi dikemas kini Pengurus Fail kini tersedia. Adakah anda ingin mengemas kini sekarang?"</string>
+    <string name="newversion_title">"Versi baharu"</string>
+    <string name="next">Seterusnya</string>
+    <string description="Dialog Button: no for dialog" maxwidth="" name="no">Tidak</string>
+    <string name="no_device">"Tiada peranti"</string>
+    <string name="no_items">"Tiada item"</string>
+    <string name="no_network">"Tiada sambungan rangkaian"</string>
+    <string description="The description to inform users when there is no internet access" maxwidth="-1" name="no_network_connection_message">"Sila semak sambungan anda dan cuba lagi"</string>
+    <string name="no_network_info">"Sambungan Internet diperlukan untuk mengakses aplikasi ini. Sila dayakan rangkaian mudah alih atau Wi-Fi dalam Tetapan."</string>
+    <string name="no_password">"Sila masukkan kata laluan anda"</string>
+    <string name="no_right">"Akaun anda tidak mempunyai hak untuk melog masuk."</string>
+    <string name="no_share_folder">Tiada fail yang dikongsi dalam peranti ini</string>
+    <string description="Toast: No space to copy file and left on device" maxwidth="-1" name="no_space_fail">Storan tidak mencukupi</string>
+    <string name="no_user_exist">"Nama pengguna tidak wujud"</string>
+    <string name="no_username">"Masukkan nama pengguna anda dahulu."</string>
+    <string name="notification_gdrive_redeem_content">"Dapatkannya SEKARANG daripada Google Drive. "</string>
+    <string name="notification_gdrive_redeem_title">"Storan 100GB percuma!"</string>
+    <string name="occur_error_do_relogin">"Log masuk sekali lagi ke %s"</string>
+    <string description="Dialog Button: ok for dialog" maxwidth="" name="ok">OK</string>
+    <string name="onedrive_account_only_one_alert">"Hanya satu OneDrive untuk akaun ASUS yang dibenarkan untuk ditambah. Anda perlu memadamkan akaun semasa anda sebelum menggantikannya dengan akaun baharu."</string>
+    <string name="open">Buka</string>
+    <string description="Toast: open file fails" maxwidth="-1" name="open_fail">Gagal membuka fail.</string>
+    <string maxwidth="" name="open_source_license_description">"Notis lesen untuk perisian sumber terbuka"</string>
+    <string maxwidth="" name="open_source_license_title">"Lesen sumber terbuka"</string>
+    <string name="password">Kata Laluan</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="paste">Tampal</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="paste_exist_apply">Gunakan kepada semua</string>
+    <string description="Dialog Title: paste exist dialog title" maxwidth="" name="paste_exist_dialog">Nama fail sama</string>
+    <string description="Dialog Content: text in dialog. %s is variable string." maxwidth="" name="paste_exist_file">"Fail \"%s\" sudah wujud."</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="paste_exist_replace">Adakah anda ingin menggantikannya dengan yang baharu?</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="paste_exist_to">Kepada</string>
+    <string description="Toast: paste fails" maxwidth="-1" name="paste_fail">Gagal menampal fail.</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="paste_progress">Menampal...</string>
+    <string name="paste_progress_title">Tugas penyalinan lain sedang berjalan...</string>
+    <string description="Toast: paste success. %s is variable string." maxwidth="-1" name="paste_success">"Fail telah ditambah ke dalam \"%s\"."</string>
+    <string name="permanently_delete">"Padam secara kekal"</string>
+    <string description="Toast: operation permission deny" maxwidth="-1" name="permission_deny">Kebenaran ditolak.</string>
+    <string name="permission_dialog_title">"Kebenaran Aplikasi"</string>
+    <string name="permission_essential">"Kebenaran diperlukan. Pergi ke Tetapan untuk mendayakan kebenaran!"</string>
+    <string name="permission_reason_contact">"Pengurus Fail perlu mengakses maklumat akaun anda untuk melog masuk ke storan awan."</string>
+    <string name="permission_reason_storage">"Pengurus Fail perlu mengakses storan peranti anda untuk berfungsi dengan betul"</string>
+    <string description="Toast: You may not select more than %s photos." maxwidth="-1" name="photo_selection_limit_number_toast">Pilih maksimum %s foto</string>
+    <string description="This is the title of the screen for setting user preferences." maxwidth="-1" name="preferences_title">Tetapan</string>
+    <string name="previous_folder">"Folder sebelumnya"</string>
+    <string maxwidth="" name="privacy_policy">"Dasar privasi"</string>
+    <string name="privacy_policy_url">http://www.asus.com/us/Terms_of_Use_Notice_Privacy_Policy/Privacy_Policy/</string>
+    <string name="processing_picture">"Memproses gambar"</string>
+    <string name="processing_video">"Memproses video"</string>
+    <string name="progressactivity_title">Pengurus Muat naik/Muat turun</string>
+    <string name="promote_darkmode_message">"Ubah keutamaan anda dalam %s"</string>
+    <string name="promote_darkmode_title">"Ciri paparan baharu - Mod gelap"</string>
+    <string name="promotion_notification_content">"Anda perlu mencuba \"Pemindahan fail wayarles\"!"</string>
+    <string name="promotion_notification_title">"Masih menggunakan kabel USB untuk memindahkan fail?"</string>
+    <string name="publish">"Terbit"</string>
+    <string name="pullfreshlistview_footer_hint_normal">Muatkan lagi</string>
+    <string name="pullfreshlistview_footer_hint_ready">Lepaskan untuk memuatkan lebih banyak</string>
+    <string name="pullfreshlistview_header_hint_loading">Menyegar semula...</string>
+    <string name="pullfreshlistview_header_hint_normal">Tarik ke bawah</string>
+    <string name="pullfreshlistview_header_hint_ready">Lepaskan untuk menyegar semula</string>
+    <string name="pullfreshlistview_header_last_time">Masa segar semula kali terakhir:</string>
+    <string name="rate_later">"Kemudian"</string>
+    <string name="rate_now">"Nilai sekarang"</string>
+    <string description="rate us" maxwidth="-1" name="rate_us">Nilaikan kami</string>
+    <string name="rating_dialog_message_v3_1">"Suka menggunakan %s? Nilaikan kami di Google Play untuk mengekalkan kami berinspirasi!"</string>
+    <string name="rating_dialog_message_v3_2">"Untuk cadangan dan maklum balas, tuliskan kepada kami melalui %s."</string>
+    <string name="recent_files_content_hint">"Cari fail terkini dan padamkannya dengan keizinan anda."</string>
+    <string description="shortcut title: recently used files" name="recently_used" width="-1">Terbaru</string>
+    <string name="recommend_clean_master_msg">"Pengoptimum Android, Perangsang Kelajuan, Penjimat Bateri dan aplikasi AntiVirus Percuma yang paling dipercayai di Dunia. \nMuat turun sekarang?"</string>
+    <string name="recommend_clean_master_title">"Pengesyoran aplikasi"</string>
+    <string name="recommend_scan_qr_code">"Suruh rakan-rakan anda memuat turun\n aplikasi ini dengan mengimbas kod QR ini."</string>
+    <string description="recruit beta user" maxwidth="-1" name="recruit_beta_user">Dapat Versi Pratonton</string>
+    <string name="recycle_bin_content_hint">"Mengandungi semua fail dan folder yang dipadam."</string>
+    <string description="dialog title, key in the asus ID and PW to Login account" maxwidth="-1" name="regist_asus_id">"Mencipta akaun ASUS"</string>
+    <string description="ask user to enter email address to registe New Account" name="registe_id">"Nama akaun"</string>
+    <string description="ask user to enter new password" name="registe_password">"Input 8-25 aksara"</string>
+    <string description="sign up registe action" name="registe_sign_up">"Daftar"</string>
+    <string description="network is unavailable, please try again" maxwidth="-1" name="remote_connected_error_hint">Rangkaian tidak tersedia, sila cuba lagi</string>
+    <string description="remote storage label" maxwidth="-1" name="remote_storage_title">Storan Jauh</string>
+    <string name="remove_favorite">Alih keluar dari Kegemaran</string>
+    <string name="remove_favorite_notice_more">Adakah anda pasti ingin mengalih keluar %d item dari folder kegemaran?</string>
+    <string name="remove_favorite_notice_one">Adakah anda pasti ingin mengalih keluar \"%s\" dari folder kegemaran?</string>
+    <string name="remove_favorite_success">Berjaya alih keluar</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="rename">Namakan Semula</string>
+    <string description="Dialog Title: rename dialog title" maxwidth="" name="rename_dialog">Namakan Semula</string>
+    <string description="Toast: rename fails" maxwidth="-1" name="rename_fail">Gagal menamakan semula fail.</string>
+    <string name="rename_favorite_folder">Namakan semula folder kegemaran</string>
+    <string name="rename_favorite_notice">Sudah terdapat folder dengan nama yang sama dalam folder kegemaran, adakah anda ingin menamakannya semula?</string>
+    <string name="rename_favorite_success">Berjaya menamakannya semula dan Simpan ke Kegemaran</string>
+    <string description="Toast: rename success" maxwidth="-1" name="rename_success">Berjaya menamakan semula fail.</string>
+    <string description="renaming file" name="renaming_file" width="-1">Menamakan semula</string>
+    <string name="replace">"Ganti"</string>
+    <string description="Toast: restore fails" maxwidth="-1" name="restore_fail">"Gagal memulihkan"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="restore_progress">"Memulihkan..."</string>
+    <string description="Toast: restore success" maxwidth="-1" name="restore_success_more">"Fail yang dipilih telah dipulihkan"</string>
+    <string description="Toast: restore success. %s is variable string." maxwidth="-1" name="restore_success_one">"\"%s\" telah dipulihkan"</string>
+    <string name="retention_notification_large_file">"Anda telah menambah %1$s fail besar. Lihatnya sekarang."</string>
+    <string name="retention_notification_recent_file">"Fail semasa anda menggunakan %1$s ruang. Lihatnya sekarang."</string>
+    <string name="saf_permission_tutorial_content">ASUS File Manager meminta akses untuk menjalankan kad SD anda. Adakah anda ingin memberikan akses?</string>
+    <string name="saf_permission_tutorial_content_v2">"Anda mesti melakukan langkah tertentu untuk memberi %s hak akses."</string>
+    <string name="saf_permission_tutorial_dialog">"Satu prosedur mesti dilakukan untuk memberikan hak akses kad SD. Adakah anda ingin teruskan?"</string>
+    <string name="saf_permission_tutorial_title">Minta akses untuk menjalankan kad SD</string>
+    <string name="saf_tutorial_step_one">Ketik ikon Menu kemudian ketik Tunjukkan kad SD.</string>
+    <string name="saf_tutorial_step_three">Ketik Pilih kad SD untuk memberikan akses kepada Pengurus Fail ASUS.</string>
+    <string name="saf_tutorial_step_three_v2">"Ketik Pilih %s untuk memberi akses kepada Pengurus Fail ASUS."</string>
+    <string name="saf_tutorial_step_two">Leret tepi kiri skrin untuk memaparkan laci kemudian ketik kad SD.</string>
+    <string name="saf_tutorial_step_two_v2">"Leret dari sebelah kiri skrin untuk memaparkan laci, kemudian ketik %s."</string>
+    <string name="saf_tutorial_title">Kebenaran untuk mengendalikan kad SD</string>
+    <string name="saf_tutorial_title_v2">"Keizinan untuk mengendalikan %s"</string>
+    <string description="account config dialog remind message" maxwidth="-1" name="samba_client_config_check">Ingat nama pengguna dan kata laluan, lain kali sambung secara terus</string>
+    <string name="samba_input_error">nama pengguna atau kata laluan tidak boleh kosong!</string>
+    <string name="samba_login_error">Nama pengguna atau kata laluan yang anda masukkan salah.</string>
+    <string name="samba_storage_add_title">Tempat rangkaian</string>
+    <string name="samba_storage_title">"SAMBA"</string>
+    <string name="scan_qr_code">"Imbas kod QR"</string>
+    <string description="rate now" maxwidth="" name="scroll_up_toast">Sila skrol ke atas untuk menilai</string>
+    <string name="sd_label">"OneDrive untuk ASUS"</string>
+    <string name="search_action">Cari</string>
+    <string description="search hint message" maxwidth="-1" name="search_hint">Masukkan nama fail</string>
+    <string description="cutstom action bar view title for search" maxwidth="-1" name="search_label">Cari fail</string>
+    <string description="search dialog message" maxwidth="-1" name="search_progress">Mencari...</string>
+    <string description=" text for search result" formatted="false" maxwidth="-1" name="search_result_title">Mencari %s dalam %s: %d fail ditemui</string>
+    <string name="select_album">Pilih album</string>
+    <string description="Menu Option: select all checkbox" maxwidth="" name="select_all">Pilih semua</string>
+    <string description="Title: select the folder" maxwidth="-1" name="select_folder">Pilih folder</string>
+    <string name="select_folder_by_ok_button">"Tekan %1$s untuk memilih folder ini"</string>
+    <string name="select_photo">Pilih foto</string>
+    <string name="server">Pelayan:</string>
+    <string name="server_error">"Ralat pelayan"</string>
+    <string name="server_hint">"172.0.0.1/ShareFolder"</string>
+    <string name="server_title">Pelayan</string>
+    <string maxwidth="-1" name="service_not_available_in_your_country">"Item ini tidak tersedia di negara anda."</string>
+    <string name="set_password_title">"Cipta kod PIN"</string>
+    <string name="set_ring">"Tetapkan Sebagai Cincin"</string>
+    <string name="setting_display_group">"Paparkan"</string>
+    <string name="setting_notification_group">"Pemberitahuan"</string>
+    <string name="setting_notification_large_files">"Pemberitahuan fail besar"</string>
+    <string name="setting_notification_recent_files">"Pemberitahuan fail terkini"</string>
+    <string name="setting_notification_wireless_transfer">"Pemberitahuan pemindahan wayarles"</string>
+    <string name="setting_view_group">"Lihat tetapan"</string>
+    <string name="setting_view_hide_files">"Sembunyikan fail sistem"</string>
+    <string name="settings">"Tetapan"</string>
+    <string description="This is the title of cache size" maxwidth="-1" name="settings_cache_size_title">Saiz cache</string>
+    <string description="Remove all cache documents" maxwidth="-1" name="settings_clear_cache_info">Alih keluar semua dokumen cache</string>
+    <string description="Clear the cache" maxwidth="-1" name="settings_clear_cache_title">Kosongkan cache</string>
+    <string description="This is the title of clearing search history action for setting user preferences." maxwidth="-1" name="settings_clear_search_history">Kosongkan sejarah carian</string>
+    <string name="settings_darkmode_message">"Gunakan Mod gelap"</string>
+    <string name="settings_description">"Folder dan fail setempat"</string>
+    <string description="This is the title of documents cache" maxwidth="-1" name="settings_documents_cache">Cache Dokumen</string>
+    <string description="recommend text" maxwidth="" name="settings_encourage_us_detail">Jika anda seronok menggunakan %s, sila nilaikan kami 5 bintang di Play Store. Ia pastinya satu galakan hebat untuk kami terus meningkatkan produk!</string>
+    <string description="This is the title of hiding system files action for setting user preferences." maxwidth="-1" name="settings_hide_system_files">Sembunyikan fail sistem</string>
+    <string description="This is the title of moving to the trash can." maxwidth="-1" name="settings_moved_to_the_trash_can">Dialihkan ke Tong sampah</string>
+    <string description="Remove account" maxwidth="-1" name="settings_remove_account">Alih keluar akaun</string>
+    <string description="Set the cache size to %s" maxwidth="-1" name="settings_set_cache_size">"Saiz cache ditetapkan kepada \"%s\""</string>
+    <string description="This is the title of space used for setting user preferences." maxwidth="-1" name="settings_space_used">Ruang digunakan</string>
+    <string description="This is the title of trash can information for setting user preferences." maxwidth="-1" name="settings_trash_can">Tong sampah</string>
+    <string description="This is the title of user name" maxwidth="-1" name="settings_user_name">Nama pengguna</string>
+    <string name="setup">"Sediakan"</string>
+    <string name="setup_account_description">"Sila sediakan akaun e-mel untuk mendapatkan semula kod PIN anda"</string>
+    <string name="setup_account_no_internet_connection">"Tiada sambungan internet"</string>
+    <string name="setup_account_skip">"Langkau"</string>
+    <string name="setup_account_title">"Dapatkan semula kod PIN"</string>
+    <string name="setup_fingerprint_message">"Dayakan cap jari untuk membuka kunci? Kabinet Tersembunyi menyokong pengesahan cap jari. Imbas cap jari anda dalam Tetapan untuk bermula."</string>
+    <string name="setup_my_digital_code">"Sediakan kod PIN"</string>
+    <string name="share_more">"Lain-lain"</string>
+    <string name="share_with_friend">"Kongsikan aplikasi ini dengan rakan-rakan anda"</string>
+    <string description="Context Menu: options of context menu: share folder via Wi-Fi Direct" maxwidth="" name="shared_folder">Kongsikan melalui Wi-Fi Direct</string>
+    <string description="shortcit title" maxwidth="-1" name="short_cuts_title">Pintasan</string>
+    <string name="shortcut_hint">"Ketik dan tahan kategori atau folder untuk mencipta pintasan pada Pelancar."</string>
+    <string description="check if user want to show password" name="show_passwd">"Tunjukkan kata laluan"</string>
+    <string description="show when sign in failed" maxwidth="-1" name="signin_failed">"Daftar masuk gagal"</string>
+    <string description="signout account" name="signout_account" width="-1">Putuskan sambungan</string>
+    <string name="single_drm_file_forbidden_operation">Tindakan ini dilarang kerana ia terlindung DRM.</string>
+    <string description="button text for sort file by size" maxwidth="-1" name="size">Saiz</string>
+    <string description="button text for sort file by size ascending" maxwidth="-1" name="size_ascending">Saiz (besar-kecil)</string>
+    <string description="button text for sort file by size descending" maxwidth="-1" name="size_descending">Saiz (kecil-besar)</string>
+    <string name="ssl_err_msg_info">"Tidak dapat membuat sambungan selamat ke pelayan. Adakah anda ingin teruskan?"</string>
+    <string name="ssl_err_msg_title">"Ralat sambungan SSL"</string>
+    <string description="shortcut title: my favorite files" name="starred" width="-1">Dibintangkan</string>
+    <string name="storage_type_cloud">Storan awan</string>
+    <string name="storage_type_cloud_att">"Storan rangkaian"</string>
+    <string name="storage_type_local">Storan tempatan</string>
+    <string name="storage_type_shortcut">"Pintasan"</string>
+    <string name="storagetype_add_account">Tambah akaun Google</string>
+    <string name="tap_to_exit">Ketik sekali lagi untuk keluar</string>
+    <string name="target_directory_is_child_of_source">Operasi tidak dapat dilengkapkan kerana direktori sasaran ialah anak kepada direktori sumber.</string>
+    <string description="Toast: target file exists" maxwidth="-1" name="target_exist">Fail sasaran wujud.</string>
+    <string description="Toast: target folder exists. %s is variable string." maxwidth="-1" name="target_folder_exist">Folder \"%s\" sudah wujud.</string>
+    <string description="" maxwidth="" name="tell_friend">Beritahu rakan</string>
+    <string maxwidth="" name="terms_of_service">"Notis terma penggunaan"</string>
+    <string maxwidth="" name="terms_of_service_url">http://www.asus.com/us/Terms_of_Use_Notice_Privacy_Policy/Official-Site/</string>
+    <string description="title" maxwidth="-1" name="title">Maklumat undang-undang:</string>
+    <string name="toast_auto_lock_notify_message">"Kunci Kabinet Tersembunyi apabila peranti dikunci"</string>
+    <string description="Toast: The item(s) has been copied completely" maxwidth="-1" name="toast_drag_copied_items">Item telah disalin sepenuhnya</string>
+    <string description="Toast: The item(s) has been moved completely" maxwidth="-1" name="toast_drag_moved_items">Item telah dialihkan sepenuhnya</string>
+    <string description="Toast: Sorry, copy files complete but cut fail" maxwidth="-1" name="toast_warning_copy_comple_cut_fail">Maaf, penyalinan fail telah lengkap tetapi pemadaman fail lama gagal</string>
+    <string description="Toast: Sorry, copy folders has not been supported" maxwidth="-1" name="toast_warning_copy_folders">Maaf, penyalinan folder tidak disokong</string>
+    <string maxwidth="35" name="toolbar_item_title_encourage_us">Galakkan kami</string>
+    <string name="tools_clean_master">"Bersihkan sarap"</string>
+    <string name="tools_file_transfer">"Pemindahan fail PC"</string>
+    <string name="tools_hidden_zone">"Kabinet Tersembunyi"</string>
+    <string name="tools_recycle_bin">"Tong Sampah"</string>
+    <string name="tools_storage_analyzer">"Penganalisis storan"</string>
+    <string name="tools_tip_animation">"Tarik ke atas untuk alat!"</string>
+    <string name="tools_zenui_instant_update">"Kemas kini segera"</string>
+    <string description="shortcut title: trash can" name="trash_can" width="-1">Tong sampah</string>
+    <string maxwidth="-1" name="trash_info_deleted">"Tarikh dipadamkan: "</string>
+    <string maxwidth="-1" name="trash_info_path">"Laluan asal: "</string>
+    <string description="label for trending searches" maxwidth="-1" name="trending_searches">"Carian popular"</string>
+    <string name="tutorial_analyzer_content">"Penganalisis Storan membolehkan anda mengetahui fail yang menggunakan ruang cakera anda."</string>
+    <string name="tutorial_category_content">"Pencarian fail sangat mudah dengan pandangan Kategori Pengurus Fail ASUS."</string>
+    <string name="tutorial_category_title">"Pandangan kategori"</string>
+    <string name="tutorial_cloud_content">"Akses fail daripada telefon pintar, PC dan storan Awan anda."</string>
+    <string name="tutorial_cloud_title">"Storan Awan"</string>
+    <string name="tutorial_done">Selesai</string>
+    <string name="tutorial_page_content_long_press">"Ketik dan tahan untuk memilih item kemudian ketik ikon \"Menu\" untuk memaparkan pilihan tindakan lain."</string>
+    <string name="tutorial_page_four_content">Tetapkan folder yang kerap digunakan sebagai Kegemaran untuk mengakses folder dengan cepat dan mudah.</string>
+    <string name="tutorial_page_four_title">Kegemaran</string>
+    <string name="tutorial_page_one_content">Pengurus Fail ASUS membolehkan anda mengurus fail-fail anda yang disimpan dalam storan dalaman, luaran, rangkaian kawasan setempat atau awan dengan mudah.</string>
+    <string name="tutorial_page_one_title">"Pengurus Fail ASUS"</string>
+    <string name="tutorial_page_three_content">Leret item ke kanan untuk memaparkan tindakan seperti Tambah ke Kegemaran, Namakan Semula, Alih ke, Salin ke dan pilihan-pilihan pengurusan fail yang lain.</string>
+    <string name="tutorial_page_three_title">Leret ke kanan senarai tindakan</string>
+    <string name="tutorial_page_title_long_press">"Paparkan menu tindakan"</string>
+    <string name="tutorial_page_two_content">Kategori mudah untuk digunakan membolehkan anda mengakses fail anda dalam storan tempatan anda dengan cepat.</string>
+    <string name="tutorial_page_two_title">Halaman utama</string>
+    <string name="tutorial_skip">Langkau</string>
+    <string description="button text for sort file by type" maxwidth="-1" name="type">Jenis</string>
+    <string description="document type" maxwidth="-1" name="type_abu">Sandaran Aplikasi Asus</string>
+    <string description="document type" maxwidth="-1" name="type_apk">Aplikasi Android</string>
+    <string description="document type" maxwidth="-1" name="type_audio">Audio</string>
+    <string description="document type" maxwidth="-1" name="type_book">E-Buku</string>
+    <string name="type_dialog_audio">Audio</string>
+    <string name="type_dialog_image">Imej</string>
+    <string name="type_dialog_text">Teks</string>
+    <string name="type_dialog_title">Buka sebagai</string>
+    <string name="type_dialog_video">Video</string>
+    <string description="document type" maxwidth="-1" name="type_directory">Direktori</string>
+    <string description="document type" maxwidth="-1" name="type_document">Dokumen</string>
+    <string description="document type" maxwidth="-1" name="type_file">Fail</string>
+    <string description="document type" maxwidth="-1" name="type_image">Imej</string>
+    <string description="document type" maxwidth="-1" name="type_playlist">Senarai main</string>
+    <string description="document type" maxwidth="-1" name="type_rar">"RAR"</string>
+    <string description="document type" maxwidth="-1" name="type_video">Video</string>
+    <string description="document type" maxwidth="-1" name="type_zip">Zip</string>
+    <string name="ud_sdk_all_app_update">"Semua aplikasi sedang menjalankan versi semasanya."</string>
+    <string name="ud_sdk_asus_app_slogan">aplikasi berguna</string>
+    <string name="ud_sdk_downloads">Muat turun</string>
+    <string name="ud_sdk_free_download">Muat Turun Percuma</string>
+    <string name="ud_sdk_important_remind_text">"Penting"</string>
+    <string name="ud_sdk_install">Pasang</string>
+    <string name="ud_sdk_more_zen_family">Temui lebih banyak aplikasi ZenUI</string>
+    <string name="ud_sdk_no_network_connection_content">Tidak dapat mengemas kini data. Sila semak tetapan rangkaian anda.</string>
+    <string name="ud_sdk_no_network_connection_title">Tiada sambungan rangkaian</string>
+    <string name="ud_sdk_open">Buka</string>
+    <string name="ud_sdk_update">Kemas Kini</string>
+    <string maxwidth="-1" name="ud_sdk_update_sdk">Keluarga ZenUI</string>
+    <string maxwidth="-1" name="ud_sdk_update_sdk_asus">Kemas Kini Segera ZenUI</string>
+    <string name="ud_sdk_wifi_settings">Tetapan Wi-Fi</string>
+    <string name="uf_sdk_already_give_5star">"Sudah memberi penarafan 5 bintang"</string>
+    <string description="%d is a number, don&apos;t translate" name="uf_sdk_article_read_count">"%d pandangan"</string>
+    <string name="uf_sdk_attachment_format_warning">"Format fail yang salah. Hanya fail imej boleh dilampirkan"</string>
+    <string name="uf_sdk_attachment_total_size">"Jumlah"</string>
+    <string name="uf_sdk_attachment_warning">"Saiz lampiran melebihi had yang boleh dibenarkan"</string>
+    <string maxwidth="-1" name="uf_sdk_cancel_btn_content">"Batal"</string>
+    <string name="uf_sdk_choosertitle_sharevia">"Kongsi melalui"</string>
+    <string name="uf_sdk_connection_error_msg">"Sambungan dihenti paksa oleh pelayan. Sila cuba kemudian."</string>
+    <string name="uf_sdk_connection_error_title">"Ralat sambungan"</string>
+    <string name="uf_sdk_discard">"Buang"</string>
+    <string name="uf_sdk_email_illigal">"Alamat e-mel sudah digunakan"</string>
+    <string maxwidth="-1" name="uf_sdk_empty_notification">"Kosong :)"</string>
+    <string name="uf_sdk_faq">"Soalan Kerap Ditanya"</string>
+    <string name="uf_sdk_feedback_and_help">"Maklum Balas &amp; Bantuan"</string>
+    <string name="uf_sdk_forum_description">"Sertai perbualan dengan pengguna ASUS untuk mencari dan berkongsi penyelesaian anda"</string>
+    <string maxwidth="-1" name="uf_sdk_grant_permission_title">"Berikan keizinan untuk"</string>
+    <string name="uf_sdk_help">"Bantuan"</string>
+    <string name="uf_sdk_instant_answer_question">"Adakah FAQ ini membantu?"</string>
+    <string name="uf_sdk_like">"Suka"</string>
+    <string maxwidth="-1" name="uf_sdk_message">"Pemberitahuan"</string>
+    <string name="uf_sdk_msg_bad_email_format">"Alamat e-mel tidak sah, sila cuba lagi."</string>
+    <string name="uf_sdk_msg_confirm_discard_topic">"Draf anda tidak akan disimpan. Adakah anda ingin memadamnya juga?"</string>
+    <string name="uf_sdk_msg_confirm_discard_topic_title">"Padamkan pos?"</string>
+    <string name="uf_sdk_msg_subscribe">"Langganan pemberitahuan status topik akan dihantarkan kepada anda melalui e-mel."</string>
+    <string name="uf_sdk_msg_subscribe_success">"Langganan berjaya"</string>
+    <string name="uf_sdk_msg_ticket_created">"Maklum balas anda berjaya dihantar ke ASUS"</string>
+    <string name="uf_sdk_msg_topic_created">"Berjaya diterbitkan"</string>
+    <string name="uf_sdk_msg_unsubscribe">"Buang langganan berjaya"</string>
+    <string name="uf_sdk_name_hint">"Masukkan nama anda"</string>
+    <string name="uf_sdk_name_illigal">"Nama pengguna sudah diambil"</string>
+    <string name="uf_sdk_network_error">"Tiada sambungan Internet, sila semak tetapan rangkaian anda".</string>
+    <string description="zenui news" maxwidth="" name="uf_sdk_news">"Berita"</string>
+    <string name="uf_sdk_no_network_connection_content">"Tidak dapat mengemas kini data. Sila semak tetapan rangkaian anda."</string>
+    <string name="uf_sdk_no_network_connection_title">"Tiada sambungan rangkaian"</string>
+    <string name="uf_sdk_nothing_found">"Tiada apa-apa ditemui"</string>
+    <string name="uf_sdk_notice">"Notis"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category1">"Pengumuman"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category2">"Tutorial &amp; petua"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category3">"Promosi"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category4">"Acara"</string>
+    <string name="uf_sdk_publish_an_topic">"Terbitkan topik baharu"</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_rate_now">"Nilai sekarang"</string>
+    <string description="%s is AP name, don&apos;t translate" maxWidth="" name="uf_sdk_rate_us_detail">"Jika anda seronok menggunakan %s, sila nilaikan kami 5 bintang di Play Store."</string>
+    <string maxWidth="" name="uf_sdk_rate_us_detail_new">"Sokongan anda dengan penarafan 5 bintang akan memberikan kami inspirasi untuk meneruskan kerja kami!"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_rating">"Penarafan 5 bintang"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title">"Nilaikan kami!"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title_new">"Galakkan kami!"</string>
+    <string description="Menu item for userFeedback sdk" maxwidth="-1" name="uf_sdk_report_bug">Laporkan Pepijat</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_scroll_up_toast">"Sila skrol ke atas untuk menilai"</string>
+    <string name="uf_sdk_search_hint">"Cari"</string>
+    <string name="uf_sdk_select_common_bug">"Pilih pepijat biasa"</string>
+    <string name="uf_sdk_send_feedback">"Hantar maklum balas"</string>
+    <string name="uf_sdk_send_feedback_help">"Maklum balas dan alamat e-mel anda akan dihantar kepada ASUS. Pasukan perkhidmatan akan menghubungi anda melalui E-mel."</string>
+    <string maxwidth="-1" name="uf_sdk_setting_btn_content">"Tetapan"</string>
+    <string description="recommend title" maxwidth="" name="uf_sdk_settings_encourage_us_title">"Galakkan kami"</string>
+    <string maxwidth="-1" name="uf_sdk_storage_permission_description">"Kefungsian ini perlu mendapatkan keizinan storan untuk mengakses fail multimedia. \n\nJika anda mahu mendayakan kefungsian ini, sila ketik butang Tetapan untuk pergi ke halaman Tetapan, kemudian tetapkan \"Maklumat Aplikasi\" > \"Keizinan\" untuk memberi keizinan.\n"</string>
+    <string name="uf_sdk_submit_topic">"Terbit"</string>
+    <string name="uf_sdk_subscribe_dialog_title">"Langgan topik ini"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_answered">"Dijawab"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_completed">"Lengkap"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_declined">"Ditolak"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_implemented">"Dilaksanakan"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_planned">"Dirancang"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_under_review">"Sedang disemak semula"</string>
+    <string name="uf_sdk_thanks_for_your_feedback">"Terima kasih atas maklum balas anda!"</string>
+    <string description="%s is a application name, don&apos;t translate" name="uf_sdk_ticket_hint">"Masukkan maklum balas untuk %s"</string>
+    <string name="uf_sdk_title_topic">"Topik"</string>
+    <string name="uf_sdk_topic">"Topik"</string>
+    <string name="uf_sdk_topic_description_heading">"Penerangan"</string>
+    <string name="uf_sdk_topic_description_hint">"Huraikan topik anda secara terperinci"</string>
+    <string name="uf_sdk_topic_filter">"TOPIK-TOPIK"</string>
+    <string name="uf_sdk_topic_form_help">"Apabila anda menerbitkan topik pada forum pengguna, pengguna lain akan dapat melanggan dan memberikan ulasan padanya. Apabila pasukan pembangunan ASUS menjawab topik tersebut, anda akan dimaklumkan melalui E-mel..."</string>
+    <string name="uf_sdk_topic_form_title">"Terbitkan topik baharu"</string>
+    <string name="uf_sdk_topic_text_heading">"Forum"</string>
+    <string name="uf_sdk_topic_text_hint">"Taipkan tajuk topik anda"</string>
+    <string name="uf_sdk_topic_title">"Tajuk"</string>
+    <string name="uf_sdk_translation_10117605">"Isu terjemahan"</string>
+    <string name="uf_sdk_translation_117562">"Jenis maklum balas"</string>
+    <string name="uf_sdk_translation_2529543">"Laporan pepijat"</string>
+    <string name="uf_sdk_translation_2529544">"Lain-lain"</string>
+    <string name="uf_sdk_translation_2530478">"Cadangan"</string>
+    <string name="uf_sdk_unhelpful_article_message_question">"Adakah anda ingin menghantar maklum balas kepada pasukan pembangunan ASUS?"</string>
+    <string name="uf_sdk_user_forum">"Forum pengguna"</string>
+    <string name="uf_sdk_warning">"Amaran"</string>
+    <string name="uf_sdk_wifi_settings">"Tetapan Wi-Fi"</string>
+    <string name="uf_sdk_wlan_settings">"Tetapan WLAN"</string>
+    <string name="uf_sdk_write_your_feedback">"Masukkan maklum balas di sini"</string>
+    <string name="uf_sdk_your_draft_will_be_discarded">"Draf anda akan dibuang."</string>
+    <string description="description for empty search result" maxwidth="-1" name="unable_to_find_artlcles">"Tidak dapat mencari \u0022%s\u0022 artikel berkaitan"</string>
+    <string description="string indicating the length units in milli-meters" maxwidth="-1" name="unit_mm">mm</string>
+    <string description="Context Menu: options of context menu: unshare folder" maxwidth="-1" name="unshared_folder">Tidak berkongsi</string>
+    <string name="unsupported_area">"Kawasan ini tidak disokong"</string>
+    <string description="toast message: extract files fail" maxwidth="-1" name="unzip_fail">Gagal mengekstrak fail</string>
+    <string description="extract file dialog message" maxwidth="-1" name="unzip_progress_msg">Mengekstrak...</string>
+    <string description="toast message: extract files successly" maxwidth="-1" name="unzip_success">Berjaya mengekstrak fail</string>
+    <string name="update">"Kemas Kini"</string>
+    <string name="update_fb_app">"Versi aplikasi mudah alih Facebook tidak terkini.  Sila pasang versi terkini daripada Google Play."</string>
+    <string name="upgrade_notification_content">Lihat fail mengikut jenis daripada skrin Laman Utama kami yang serba baharu.</string>
+    <string name="upgrade_notification_title">Cuba Pengurus Fail baharu sekarang!</string>
+    <string name="upload_complete">"Muat naik lengkap"</string>
+    <string name="upload_complete_dialog_message">"Berjaya memuat naik video."</string>
+    <string name="upload_complete_dialog_title">"Lengkap"</string>
+    <string name="upload_fail">muat naik gagal!</string>
+    <string name="upload_failed">"Muat naik gagal"</string>
+    <string name="upload_picture_toast">"Gambar anda akan dimuat naik. Semak kemajuan dalam tetingkap pemberitahuan."</string>
+    <string name="upload_toast">"Video anda akan dimuat naik. Semak kemajuan dalam tetingkap pemberitahuan."</string>
+    <string name="uploading_picture">"Memuat naik gambar"</string>
+    <string name="uploading_video">"Memuat naik video..."</string>
+    <string name="user">Nama Pengguna</string>
+    <string name="user_hint">pentadbir</string>
+    <string name="uv_admin_response_format">"Respons pentadbir: %1$s"</string>
+    <string name="uv_all_articles">"Semua Artikel"</string>
+    <string name="uv_all_results_filter">"SEMUA"</string>
+    <string name="uv_android_sdk">Android SDK</string>
+    <string name="uv_article_browse_question">"Adakah artikel ini membantu?"</string>
+    <string name="uv_article_instant_answer_question">"Adakah FAQ ini membantu?"</string>
+    <string name="uv_cancel">"Batal"</string>
+    <string name="uv_category">"Kategori"</string>
+    <string name="uv_close">"Tutup"</string>
+    <string name="uv_comment_hint">"Masukkan komen anda"</string>
+    <string name="uv_confirm">"Sahkan"</string>
+    <string name="uv_contact_continue_button">"Saya masih mahu menghantar mesej"</string>
+    <string name="uv_contact_hint">"Masukkan soalan atau maklum balas anda"</string>
+    <string name="uv_contact_us">"Hubungi kami"</string>
+    <string name="uv_display_name">"Nama paparan"</string>
+    <string name="uv_email_address">"Alamat e-mel"</string>
+    <string name="uv_email_address_hint">"your@email.com (diperlukan)"</string>
+    <string name="uv_error">"Ralat"</string>
+    <string name="uv_failed_signin_error">"E-mel atau kata laluan tidak betul"</string>
+    <string name="uv_forgot_password">"Terlupa kata laluan"</string>
+    <string name="uv_helpful_article_message_question">"Adakah anda masih mahu menghantar mesej?"</string>
+    <string name="uv_i_want_this">"Saya mahukan ini!"</string>
+    <string name="uv_idea_description_heading">"Huraikan idea anda dengan lebih terperinci"</string>
+    <string name="uv_idea_description_hint">"(pilihan)"</string>
+    <string name="uv_idea_text_heading">"Saya mencadangkan anda…"</string>
+    <string name="uv_loading">"Memuatkan…"</string>
+    <string name="uv_matching_articles">"Artikel yang sepadan"</string>
+    <string name="uv_matching_articles_and_ideas">"Artikel dan idea yang sepadan"</string>
+    <string name="uv_menu_attach">"Lampirkan"</string>
+    <string name="uv_menu_search">"Cari"</string>
+    <string name="uv_msg_bad_email_format">"Sila masukkan alamat e-mel yang sah."</string>
+    <string name="uv_msg_comment_posted">"Komen anda telah disiarkan"</string>
+    <string name="uv_msg_confirm_discard_message">"Adakah anda pasti anda mahu membuang mesej anda?"</string>
+    <string name="uv_msg_custom_fields_validation">"Sila isikan semua medan diperlukan."</string>
+    <string name="uv_msg_forgot_password">"E-mel lupa kata laluan dihantar"</string>
+    <string name="uv_msg_idea_created">"Idea anda telah dicipta"</string>
+    <string name="uv_msg_ticket_created">"Mesej anda telah dihantar"</string>
+    <string name="uv_msg_user_identity_validation">"Sila masukkan alamat e-mel anda"</string>
+    <string name="uv_name_hint">"Tanpa nama"</string>
+    <string name="uv_network_error">"Terdapat ralat ketika menyambung ke SuaraPengguna"</string>
+    <string name="uv_nevermind">"Tidak mengapa"</string>
+    <string name="uv_new_comment">"Komen baharu"</string>
+    <string name="uv_next">"Seterusnya"</string>
+    <string name="uv_no">"Tidak"</string>
+    <string name="uv_none_of_these_help">"Tiada satu pun bantuan ini"</string>
+    <string name="uv_password">"Kata laluan"</string>
+    <string name="uv_password_dialog_title">"Sila masukkan kata laluan anda"</string>
+    <string name="uv_portal_title">"Bantuan"</string>
+    <string name="uv_post_a_comment">"Siarkan komen"</string>
+    <string name="uv_post_comment">"Siarkan komen"</string>
+    <string name="uv_posted_by_format">"Disiarkan oleh %1$s pada %2$s"</string>
+    <string name="uv_powered_by_uservoice">"Dikuasakan oleh SuaraPengguna"</string>
+    <string name="uv_ranked">"Berkedudukan %1$s"</string>
+    <string name="uv_remove_votes">"Undi Jauh"</string>
+    <string name="uv_select_none">"(tiada)"</string>
+    <string name="uv_select_one">"Pilih satu"</string>
+    <string name="uv_send_message">"Hantar mesej"</string>
+    <string name="uv_signin_dialog_ok">"Daftar masuk"</string>
+    <string name="uv_signin_dialog_title">"Daftar masuk"</string>
+    <string name="uv_status_format">"Status: %1$s"</string>
+    <string name="uv_submit_idea">"Serahkan idea"</string>
+    <string name="uv_subscribe">"Langgan"</string>
+    <string name="uv_subscribe_dialog_title">"Melanggan idea ini"</string>
+    <string name="uv_suggestion_instant_answer_question">"Adakah idea ini membantu?"</string>
+    <string name="uv_thanks">"Terima kasih!"</string>
+    <string name="uv_unhelpful_article_message_question">"Adakah anda ingin menghantar mesej kepada kami?"</string>
+    <string name="uv_value">"Nilai"</string>
+    <string name="uv_very_yes">"Ya!"</string>
+    <string name="uv_yes">"Ya"</string>
+    <string name="uv_your_email_address">"Alamat e-mel anda"</string>
+    <string name="uv_your_name">"Nama anda"</string>
+    <string description="version" maxwidth="-1" name="version">Versi</string>
+    <string name="version_text">versi</string>
+    <string name="wait">Sila tunggu\u2026</string>
+    <string name="warning_stophttpserver">"Anda akan kehilangan sambungan antara peranti mudah alih dan PC anda. Adakah anda ingin pergi?"</string>
+    <string name="whats_new_label">Apa yang baharu</string>
+    <string description="message for request to connect Network" name="wifi_p2p_connection_msg" width="-1">Sila wujudkan sambungan rangkaian untuk menggunakan perkhidmatan awan.</string>
+    <string description="title for request to connect Network" name="wifi_p2p_connection_title" width="-1">Wujudkan sambungan rangkaian</string>
+    <string description="message for request to turn on Wi-Fi" name="wifi_p2p_turn_on_wifi_msg" width="-1">Hidupkan Wi-Fi untuk menggunakan perkhidmatan Wi-Fi Direct. Hidupkan Wi-Fi sekarang?</string>
+    <string description="title for turn on WiFi dialog" name="wifi_p2p_turn_on_wifi_title" width="-1">Hidupkan Wi-Fi</string>
+    <string description="search" maxwidth="-1" name="wifidirect_action_bar_scan">Cari</string>
+    <string description="Available devices" maxwidth="-1" name="wifidirect_available_devices">Peranti tersedia</string>
+    <string description="Do you want to connect to device" maxwidth="-1" name="wifidirect_connect_hint">Adakah anda ingin menyambung dengan</string>
+    <string description="Dialog title text: Invitation to connect" maxwidth="-1" name="wifidirect_connect_hint_title">Jemputan untuk menyambung</string>
+    <string description="Dialog title text: Wi-Fi Direct connecting" maxwidth="-1" name="wifidirect_connecting_hint_title">Wi-Fi Direct menyambung...</string>
+    <string description="connectted" maxwidth="-1" name="wifidirect_connectted">Bersambung</string>
+    <string description=">Do you want to disconnect" maxwidth="-1" name="wifidirect_disconnect_hint">Adakah anda ingin memutuskan sambungan dengan</string>
+    <string description="Disconnect Wi-Fi Direct" maxwidth="-1" name="wifidirect_disconnect_hint_title">Putuskan sambungan Wi-Fi Direct</string>
+    <string description="peer devices infomation" maxwidth="-1" name="wifidirect_peer_device_info">Untuk menerima jemputan Wi-Fi Direct, pastikan bahawa peranti anda yang bersambung kekal pada halaman \"Peranti rakan\" dalam Pengurus Fail.</string>
+    <string description="peer devices title" maxwidth="-1" name="wifidirect_peer_device_title">Peranti rakan</string>
+    <string description="searching" maxwidth="-1" name="wifidirect_scanning">Mencari...</string>
+    <string description="Search Wi-Fi Direct device" maxwidth="-1" name="wifidirect_storage_title">Cari peranti Wi-Fi Direct</string>
+    <string description="click to connect" maxwidth="-1" name="wifidirect_touch_to_connect">Klik untuk menyambung</string>
+    <string name="yandex_account_only_one_alert">"Hanya satu akaun Yandex yang dibenarkan untuk ditambah. Anda perlu memadamkan akaun semasa anda sebelum menggantikannya dengan akaun baharu."</string>
+    <string name="yes">Ya</string>
+    <string name="zenui_update">"Kemas Kini Segera ZenUI"</string>
+    <string description="toast message: Compress files fail" maxwidth="-1" name="zip_fail">Gagal memampatkan fail</string>
+    <string description="compress dialog message" maxwidth="-1" name="zip_progress_msg">Berjalan...</string>
+    <string description="toast message: Compress files successly" maxwidth="-1" name="zip_success">Berjaya memampatkan fail</string>
+</resources>

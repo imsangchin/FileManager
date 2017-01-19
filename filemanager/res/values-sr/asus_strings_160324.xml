@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Sylvia Cheng, 2016/03/22, Setting page -->
+    <string name="action_settings" description="menu title for setting" maxwidth="-1">"Podešavanja"</string>
+    <string name="setting_view_group">"Prikaži podešavanje"</string>
+    <string name="setting_view_hide_files">"Sakrij sistemske datoteke"</string>
+    <string name="setting_notification_group">"Obaveštenje"</string>
+    <string name="setting_notification_large_files">"Obaveštenje o velikoj datoteci"</string>
+    <string name="setting_notification_recent_files">"Obaveštenje o nedavnim datotekama"</string>
+    <string name="setting_notification_wireless_transfer">"Obaveštenje o bežičnom prenosu"</string>
+    <string name="setting_display_group">"Ekran"</string>
+    <string name="tools_storage_analyzer">"Analizator skladišta"</string>
+    <string name="tools_zenui_instant_update">"Trenutno ažuriranje"</string>
+    <string name="category_others">"Ostalo"</string>
+    <string name="large_files_content_hint">"Pronađite velike datoteke i izbrišite ih uz vašu dozvolu."</string>
+    <string name="recent_files_content_hint">"Pronađite velike datoteke i izbrišite ih uz vašu dozvolu."</string>
+    <string name="fragment_analyzer_more_hint">"još"</string>
+    <string name="fragment_analyzer_chart_total_hint">"Ukupno:"</string>
+    <string name="fragment_analyzer_chart_free_hint">"Slobodno:"</string>
+    <string name="fragment_analyzer_chart_used_hint">"ISKORIŠĆENO"</string>
+    <string name="fragment_analyzer_allfiles_used_hint">"Iskorišćeno:"</string>
+    <string name="news_v31" maxwidth="">"Alatka za analizu skladišta vam omogućava da znate koji tip datoteka zauzima sav skladišni prostor"</string>
+    <string name="news_v32" maxwidth="">"Kategorija nedavno poboljšane aplikacije"</string>
+</resources>

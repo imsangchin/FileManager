@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:id="@+id/unzip_back_path_container"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="13dp"
+        android:paddingLeft="24dip"
+        android:paddingBottom="13dp"
+        android:background="?normal_background_color" >
+
+        <ImageView
+            android:id="@+id/unzip_preview_back_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/asus_ep_ic_unzip_preview_back"
+            android:background="@drawable/asus_ep_path_back_bg"
+            android:layout_alignParentLeft="true"
+            android:clickable="true"
+            android:focusable="true"/>
+
+        <TextView
+            android:id="@+id/unzip_preview_current_folder_path"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/unzip_preview_back_button"
+            android:layout_toLeftOf="@+id/unzip_preview_total_size_text"
+            android:layout_centerVertical="true"
+            android:paddingLeft="5dip"
+            android:ellipsize="middle"
+            android:singleLine="true"
+            android:textSize="16sp"
+            android:textColor="?text_color" />
+
+        <TextView
+            android:id="@id/unzip_preview_total_size_text"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_marginRight="10dip"
+            android:layout_marginLeft="10dip"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:textSize="12sp"
+            android:textColor="?text_color" />
+
+    </RelativeLayout>
+
+
+    <RelativeLayout
+        android:layout_height="match_parent"
+        android:layout_width="match_parent">
+
+        <ProgressBar android:id="@+id/unzip_preview_progress"
+            style="?android:attr/progressBarStyleLarge"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"/>
+
+        <View android:layout_width="match_parent"
+          android:layout_height="1dip"
+          android:layout_marginLeft="24dip"
+          android:layout_marginRight="15dip"
+          android:background="@color/unzip_path_divider_gray"/>
+        <ListView
+            android:id="@+id/unzip_preview_file_list_item"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:paddingLeft="24dip"
+            android:paddingRight="15dip"
+            android:visibility="invisible"/>
+
+    </RelativeLayout>
+</LinearLayout>

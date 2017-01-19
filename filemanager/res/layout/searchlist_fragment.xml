@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="?normal_background_color" >
+
+    <LinearLayout android:id="@+id/search_result_title_container"
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/path_view_height"
+        android:gravity="center_vertical">
+
+        <TextView android:id="@+id/search_result_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/search_result_title_font_size"
+            android:paddingLeft="@dimen/search_info_padding_left"
+            android:textColor="?text_color" />
+
+    </LinearLayout>
+
+    <View android:layout_width="match_parent"
+          android:layout_height="@dimen/dividerHeight"
+          android:layout_marginStart="@dimen/listview_item_margin"
+          android:layout_marginLeft="@dimen/listview_item_margin"
+          android:layout_marginEnd="@dimen/listview_item_margin"
+          android:layout_marginRight="@dimen/listview_item_margin"
+          android:background="?filelist_pathcontainer_divider_color" />
+
+    <LinearLayout android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/sort_container_root">
+
+        <RelativeLayout android:id="@+id/sort_type_container"
+            android:layout_width="@dimen/search_sort_type_width"
+            android:layout_height="50dp"
+            android:background="@drawable/asus_ep_sorting_bg"
+            android:clickable="true">
+
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/greyTextStyle"
+                android:text="@string/type"
+                android:layout_centerInParent="true"/>
+
+            <ImageView android:id="@+id/typeImage"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/asus_ep_ic_sorting"
+                android:layout_centerVertical="true"
+                android:layout_alignParentRight="true"
+                android:paddingLeft="15dp"/>
+
+        </RelativeLayout>
+
+        <View android:layout_width="1dp"
+            android:layout_height="50dp"
+            android:background="@drawable/asus_ep_sorting_split_line"/>
+
+        <LinearLayout android:id="@+id/sort_name_container"
+            android:orientation="horizontal"
+            android:layout_width="@dimen/search_sort_name_width"
+            android:layout_height="50dp"
+            android:background="@drawable/asus_ep_sorting_bg"
+            android:gravity="center_vertical"
+            android:clickable="true">
+
+            <TextView android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                style="@style/greyTextStyle"
+                android:text="@string/name"
+                android:paddingLeft="15dp"/>
+
+            <ImageView android:id="@+id/nameImage"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/asus_ep_ic_sorting"
+                android:visible="false"/>
+
+        </LinearLayout>
+
+        <View android:layout_width="1dp"
+            android:layout_height="50dp"
+            android:background="@drawable/asus_ep_sorting_split_line"/>
+
+        <LinearLayout android:id="@+id/sort_location_container"
+            android:orientation="horizontal"
+            android:layout_width="@dimen/search_sort_location_width"
+            android:layout_height="50dp"
+            android:background="@drawable/asus_ep_sorting_bg"
+            android:gravity="center_vertical"
+            android:clickable="true">
+
+            <TextView android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                style="@style/greyTextStyle"
+                android:text="@string/location"
+                android:paddingLeft="15dp"/>
+
+            <ImageView android:id="@+id/locationImage"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/asus_ep_ic_sorting"
+                android:visible="false"/>
+
+        </LinearLayout>
+
+        <View android:layout_width="1dp"
+            android:layout_height="50dp"
+            android:background="@drawable/asus_ep_sorting_split_line"/>
+
+        <LinearLayout android:id="@+id/sort_size_container"
+            android:orientation="horizontal"
+            android:layout_width="@dimen/search_sort_size_width"
+            android:layout_height="50dp"
+            android:background="@drawable/asus_ep_sorting_bg"
+            android:gravity="center_vertical"
+            android:clickable="true">
+
+            <TextView android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                style="@style/greyTextStyle"
+                android:text="@string/size"
+                android:paddingLeft="15dp"/>
+
+            <ImageView android:id="@+id/sizeImage"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/asus_ep_ic_sorting"
+                android:visible="false"/>
+
+        </LinearLayout>
+
+        <View android:layout_width="1dp"
+            android:layout_height="50dp"
+            android:background="@drawable/asus_ep_sorting_split_line"/>
+
+        <LinearLayout android:id="@+id/sort_date_container"
+            android:orientation="horizontal"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="50dp"
+            android:background="@drawable/asus_ep_sorting_bg"
+            android:gravity="center_vertical"
+            android:clickable="true">
+
+            <TextView android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                style="@style/greyTextStyle"
+                android:text="@string/date"
+                android:paddingLeft="15dp"/>
+
+            <ImageView android:id="@+id/dateImage"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/asus_ep_ic_sorting"
+                android:visible="false"/>
+
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout android:id="@+id/progressContainer"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:visibility="gone"
+            android:gravity="center">
+
+        <ProgressBar style="?android:attr/progressBarStyleLarge"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:text="@string/loading"
+                android:textColor="?text_color"
+                android:paddingTop="4dip"
+                android:singleLine="true" />
+
+    </LinearLayout>
+
+    <FrameLayout android:id="@+id/listContainer"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+        <ListView android:id="@android:id/list"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="@dimen/listview_item_margin"
+                android:layout_marginLeft="@dimen/listview_item_margin"
+                android:layout_marginEnd="@dimen/listview_item_margin"
+                android:layout_marginRight="@dimen/listview_item_margin"
+                android:drawSelectorOnTop="false"
+                android:dividerHeight="@dimen/dividerHeight"
+                android:divider="?filelist_divider_color" />
+        <GridView 
+                android:id="@+id/content_gird"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:numColumns="2"
+                android:scrollbars="vertical"
+                android:stretchMode="columnWidth"
+                android:padding="@dimen/listview_item_margin"  
+                android:horizontalSpacing="30dp"  
+                android:columnWidth="60dp"  
+                android:verticalSpacing="20dp"
+                android:visibility="gone">
+        </GridView>
+        <TextView android:id="@android:id/empty"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+    </FrameLayout>
+
+</LinearLayout>

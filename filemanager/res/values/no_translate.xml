@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="MissingTranslation" >
+    <string name="file_manager2" description="Application Name shown on title" maxwidth="">File Manager2</string>
+
+    <string name="action_paste" description="cutstom action bar view title for paste" maxwidth="">@string/paste</string>
+
+    <string name="action_copy" description="cutstom action bar view title for copy" maxwidth="">@string/copy</string>
+    <string name="action_cut" description="cutstom action bar view title for cut" maxwidth="">@string/cut</string>
+    <string name="action_delete" description="cutstom action bar view title for delete" maxwidth="">@string/delete</string>
+
+    <string name="filter_all_file_entry" description="cutstom action bar view title for filter " maxwidth="">All Files</string>
+    <string name="filter_image_file_entry" description="cutstom action bar view title for filter" maxwidth="">Picture</string>
+    <string name="filter_music_file_entry" description="cutstom action bar view title for filter" maxwidth="">Music</string>
+    <string name="filter_video_file_entry" description="cutstom action bar view title for filter" maxwidth="">Video</string>
+    <string name="filter_docs_file_entry" description="cutstom action bar view title for filter" maxwidth="">Document</string>
+
+    <string name="info_size" description="file info textview context" maxwidth="-1">@string/delete_size</string>
+
+    <string name="legal_information" description="content of about dialog" maxwidth="-1">@string/title</string>
+    <string name="legal_content" description="content of about dialog" maxwidth="-1">@string/content</string>
+    <string name="copy_right" description="content of about dialog" maxwidth="-1">cASUSTeK Computer Inc. All rights reserved.</string>
+    <string name="about_version" description="content of about dialog" maxwidth="-1">@string/version</string>
+
+    <string name="microsd_storage_title">MicroSD</string>
+    <string name="usbdisk1_storage_title">USBdisk1</string>
+    <string name="usbdisk2_storage_title">USBdisk2</string>
+    <string name="usbdisk3_storage_title">USBdisk3</string>
+    <string name="usbdisk4_storage_title">USBdisk4</string>
+    <string name="usbdisk5_storage_title">USBdisk5</string>
+    <string name="usbdisk6_storage_title">USBdisk6</string>
+    <string name="usbdisk7_storage_title">USBdisk7</string>
+    <string name="usbdisk8_storage_title">USBdisk8</string>
+    <string name="sdreader_storage_title">SD</string>
+    <string name="asushomebox_storage_title">ASUS HomeCloud</string>
+    <string name="asuswebstorage_storage_title">ASUS WebStorage</string>
+    <string name="dropbox_storage_title">Dropbox</string>
+    <string name="googledrive_storage_title">Drive</string>
+
+    <string name="skydrive_storage_title">OneDrive</string>
+
+    <string name="my_storage_title_new" description="storage label" maxwidth="-1">My storage</string>
+
+    <string name="my_picture_title_new" description="shortcut label" maxwidth="-1">Picture</string>
+    <string name="my_camera_title_new" description="shortcut label" maxwidth="-1">Camera</string>
+    <string name="my_music_title_new" description="shortcut label" maxwidth="-1">Music</string>
+    <string name="my_download_title_new" description="shortcut label" maxwidth="-1">Download</string>
+    <string name="scan_time_out">Scan network pc timeout,please retry later.</string>
+
+    <string name="yandex_storage_title">Yandex</string>
+
+    <string name="appInviteFBLink">https://fb.me/1622459628021064</string>
+    <string name="facebook_app_id">1622300541370306</string>
+
+    <string name="category_pdf1" maxwidth="11">PDF</string>
+
+    <string name="group_title_txt">"Txt"</string>
+    <string name="office_word" translatable="false">"Word"</string>
+    <string name="office_excel" translatable="false">"Excel"</string>
+    <string name="office_powerpoint" translatable="false">"PowerPoint"</string>
+
+    <!--Google Tag Manager containerId -->
+    <string name="containerId" translatable="false">"GTM-NXMR3H"</string>
+</resources>

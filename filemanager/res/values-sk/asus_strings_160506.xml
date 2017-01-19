@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!--Text for trash-->
+    <string name="permanently_delete">"Natrvalo odstrániť"</string>
+    <string name="tools_recycle_bin">"Kôš"</string>
+    <!--string name="move_or_delete">Move or delete</string-->
+    <string name="move_or_delete_msg">"Odstrániť teraz dočasne položky do Koša?\n(Začiarknutím políčka dole odstránite položky natrvalo.)"</string>
+    <string name="move_to_trash_progress" description="Progress Content: text in progress dialog" maxwidth="">"Premiestňuje sa do Koša..."</string>
+    <string name="move_to_trash_success_one" description="Toast: move to recycle bin success. %s is variable string." maxwidth="-1">"\"%s\" premiestnené do Koša"</string>
+    <string name="move_to_trash_success_more" description="Toast: move to recycle bin success" maxwidth="-1">"Vybraný súbor bol premiestnený do Koša"</string>
+    <string name="move_to_trash_fail" description="Toast: move to recycle bin fails" maxwidth="-1">"Nepodarilo sa premiestniť do Koša"</string>
+    <string name="trash_info_deleted" maxwidth="-1">"Dátum odstránenia: "</string>
+    <string name="trash_info_path" maxwidth="-1">"Pôvodné umiestnenie: "</string>
+    <string name="action_clean_all" maxwidth="-1">"Vyčistiť všetko"</string>
+    <string name="action_restore_all" maxwidth="-1">"Obnoviť všetko"</string>
+    <string name="action_clean" maxwidth="-1">"Vyčistiť"</string>
+    <string name="action_restore" maxwidth="-1">"Obnoviť"</string>
+    <string name="restore_success_one" description="Toast: restore success. %s is variable string." maxwidth="-1">"\"%s\" obnovené"</string>
+    <string name="restore_success_more" description="Toast: restore success" maxwidth="-1">"Vybrané súbory boli obnovené"</string>
+    <string name="restore_fail" description="Toast: restore fails" maxwidth="-1">"Nepodarilo sa obnoviť"</string>
+    <string name="restore_progress" description="Progress Content: text in progress dialog" maxwidth="">"Obnovuje sa..."</string>
+    <string name="calculate_progress" description="Progress Content: text in progress dialog" maxwidth="">"Prebieha..."</string>
+    <string name="msg_too_big_to_recycle">"Položky sú príliš veľké na Kôš.\nChcete ich natrvalo odstrániť?"</string>
+    <string name="duplicate_files">"Duplicitné súbory"</string>
+    <string name="duplicate_files_content_hint">"Vyhľadanie duplicitných súborov a ich odstránenie bez vášho dovolenia."</string>
+</resources>

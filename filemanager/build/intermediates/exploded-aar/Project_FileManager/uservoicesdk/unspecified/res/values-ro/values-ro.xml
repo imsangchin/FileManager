@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="uf_sdk_number_of_subscribers_format">
+        <item quantity="one">"%1$s apreciază acest subiect"</item>
+        <item quantity="other">"%1$s apreciază acest subiect"</item>
+    </plurals>
+    <plurals name="uf_sdk_topics">
+        <item quantity="one">"subiect"</item>
+        <item quantity="other">"subiecte"</item>
+    </plurals>
+    <plurals name="uv_comments">
+        <item quantity="one">"comentariu"</item>
+        <item quantity="other">"comentarii"</item>
+    </plurals>
+    <plurals name="uv_number_of_subscribers_format">
+        <item quantity="one">"%1$s le place această idee"</item>
+        <item quantity="other">"%1$s le place această idee"</item>
+    </plurals>
+    <plurals name="uv_people">
+        <item quantity="one">"persoană"</item>
+        <item quantity="other">"persoane"</item>
+    </plurals>
+    <plurals name="uv_subscribers">
+        <item quantity="one">"abonat"</item>
+        <item quantity="other">"abonaţi"</item>
+    </plurals>
+    <string description="label for trending searches" maxwidth="-1" name="trending_searches">"Tendinţe căutări"</string>
+    <string name="uf_sdk_already_give_5star">"A dat deja o evaluare de 5 stele"</string>
+    <string description="%d is a number, don&apos;t translate" name="uf_sdk_article_read_count">"%d vizualizări"</string>
+    <string name="uf_sdk_attachment_format_warning">"Format fişier greşit. Se poate ataşa doar un fişier imagine"</string>
+    <string name="uf_sdk_attachment_total_size">"Total"</string>
+    <string name="uf_sdk_attachment_warning">"Dimensiunea fișierelor atașate depășește limita permisă"</string>
+    <string maxwidth="-1" name="uf_sdk_cancel_btn_content">"Anulare"</string>
+    <string name="uf_sdk_choosertitle_sharevia">"Distribuiţi prin"</string>
+    <string name="uf_sdk_connection_error_msg">"Conexiune abandonată de server. Încercaţi din nou mai târziu."</string>
+    <string name="uf_sdk_connection_error_title">"Eroare de conexiune"</string>
+    <string name="uf_sdk_discard">"Renunţare"</string>
+    <string name="uf_sdk_email_illigal">"Adresă de e-mail deja utilizată"</string>
+    <string maxwidth="-1" name="uf_sdk_empty_notification">"Goală :)"</string>
+    <string name="uf_sdk_faq">"Întrebări frecvente"</string>
+    <string name="uf_sdk_feedback_and_help">"Feedback şi ajutor"</string>
+    <string name="uf_sdk_forum_description">"Alăturaţi-vă conversaţiei cu utilizatorii ASUS pentru a afla soluţii şi pentru a partaja soluţiile găsite de dvs."</string>
+    <string maxwidth="-1" name="uf_sdk_grant_permission_title">"Acordaţi permisiune"</string>
+    <string name="uf_sdk_help">"Ajutor"</string>
+    <string name="uf_sdk_instant_answer_question">"Consideraţi utilă această secţiune de întrebări frecvente?"</string>
+    <string name="uf_sdk_like">"Apreciere"</string>
+    <string maxwidth="-1" name="uf_sdk_message">"Notificări"</string>
+    <string name="uf_sdk_msg_bad_email_format">"Adresa de e-mail nu este validă, încercaţi din nou."</string>
+    <string name="uf_sdk_msg_confirm_discard_topic">"Versiunea dvs. preliminară nu va fi salvată. Doriţi să ştergeţi chiar şi în aceste condiţii?"</string>
+    <string name="uf_sdk_msg_confirm_discard_topic_title">"Ştergeţi postarea?"</string>
+    <string name="uf_sdk_msg_subscribe">"Notificările cu privire la starea subiectului vă vor fi transmise prin e-mail în baza abonamentului."</string>
+    <string name="uf_sdk_msg_subscribe_success">"Abonare finalizată cu succes"</string>
+    <string name="uf_sdk_msg_ticket_created">"Feedbackul dvs. a fost trimis cu succes către ASUS"</string>
+    <string name="uf_sdk_msg_topic_created">"Publicare finalizată cu succes"</string>
+    <string name="uf_sdk_msg_unsubscribe">"Dezabonare finalizată cu succes"</string>
+    <string name="uf_sdk_name_hint">"Introduceţi numele dvs."</string>
+    <string name="uf_sdk_name_illigal">"Nume de utilizator deja utilizat"</string>
+    <string name="uf_sdk_network_error">"Nu aveţi o conexiune la reţea. Verificaţi setările reţelei."</string>
+    <string description="zenui news" maxwidth="" name="uf_sdk_news">"Ştiri"</string>
+    <string name="uf_sdk_no_network_connection_content">"Nu s-au putut actualiza datele. Verificaţi setările reţelei. "</string>
+    <string name="uf_sdk_no_network_connection_title">"Fără conexiune la reţea"</string>
+    <string name="uf_sdk_nothing_found">"Nu s-a găsit nimic"</string>
+    <string name="uf_sdk_notice">"Notă"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category1">"Anunţuri"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category2">"Demonstraţii şi sfaturi"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category3">"Promoţii"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category4">"Evenimente"</string>
+    <string name="uf_sdk_publish_an_topic">"Publicare subiect nou"</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_rate_now">"Evaluați acum"</string>
+    <string description="%s is AP name, don&apos;t translate" maxWidth="" name="uf_sdk_rate_us_detail">"Dacă vă place %s, acordați-ne 5 stele în Magazinul Play."</string>
+    <string maxWidth="" name="uf_sdk_rate_us_detail_new">"Susținerea dvs. printr-o evaluare cu 5 stele ne inspiră să ne continuăm activitatea!"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_rating">"Evaluare cu 5 stele"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title">"Evaluați-ne!"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title_new">"Încurajaţi-ne!"</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_scroll_up_toast">"Defilați în sus pentru a evalua"</string>
+    <string name="uf_sdk_search_hint">"Căutare"</string>
+    <string name="uf_sdk_select_common_bug">"Selectare eroare comună"</string>
+    <string name="uf_sdk_send_feedback">"Trimitere feedback"</string>
+    <string name="uf_sdk_send_feedback_help">"Feedback şi adresa dvs. de e-mail vor fi trimise către ASUS. Echipa de service vă va contacta prin e-mail."</string>
+    <string maxwidth="-1" name="uf_sdk_setting_btn_content">"Setări"</string>
+    <string description="recommend title" maxwidth="" name="uf_sdk_settings_encourage_us_title">"Încurajaţi-ne"</string>
+    <string maxwidth="-1" name="uf_sdk_storage_permission_description">"Pentru a accesa fişierele multimedia, această funcţionalitate necesită permisiune de acces la stocare. \n\nDacă doriţi să activaţi această funcţionalitate, atingeţi butonul Setări pentru a merge la pagina Setări a aplicaţiei, apoi setaţi \"Info apl.\" > \"Permisiuni\" pentru a acorda permisiunea.\n"</string>
+    <string name="uf_sdk_submit_topic">"Publicare"</string>
+    <string name="uf_sdk_subscribe_dialog_title">"Abonaţi-vă la acest subiect"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_answered">"S-a răspuns"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_completed">"Finalizat"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_declined">"Refuzat"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_implemented">"Implementat"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_planned">"Planificat"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_under_review">"În curs de examinare"</string>
+    <string name="uf_sdk_thanks_for_your_feedback">"Vă mulţumim pentru feedback!"</string>
+    <string description="%s is a application name, don&apos;t translate" name="uf_sdk_ticket_hint">"Introduceți feedback-uri pentru %s"</string>
+    <string name="uf_sdk_title_topic">"Subiect"</string>
+    <string name="uf_sdk_topic">"Subiect"</string>
+    <string name="uf_sdk_topic_description_heading">"Descriere"</string>
+    <string name="uf_sdk_topic_description_hint">"Descrieţi subiectul în detaliu"</string>
+    <string name="uf_sdk_topic_filter">"SUBIECTE"</string>
+    <string name="uf_sdk_topic_form_help">"Atunci când publicaţi un subiect pe un forum de utilizatori, alţi utilizatori se vor putea abona la acest subiect şi pot crea comentarii. Veţi fi notificat prin e-mail atunci când echipa ASUS oferă un răspuns la subiect."</string>
+    <string name="uf_sdk_topic_form_title">"Publicare subiect nou"</string>
+    <string name="uf_sdk_topic_text_heading">"Forum"</string>
+    <string name="uf_sdk_topic_text_hint">"Introduceţi titlul subiectului"</string>
+    <string name="uf_sdk_topic_title">"Titlu"</string>
+    <string name="uf_sdk_translation_10117605">"Problemă de traducere"</string>
+    <string name="uf_sdk_translation_117562">"Tip feedback"</string>
+    <string name="uf_sdk_translation_2529543">"Raport erori"</string>
+    <string name="uf_sdk_translation_2529544">"Altele"</string>
+    <string name="uf_sdk_translation_2530478">"Sugestie"</string>
+    <string name="uf_sdk_unhelpful_article_message_question">"Doriţi să trimiteţi feedback echipei de dezvoltare ASUS?"</string>
+    <string name="uf_sdk_user_forum">"Forum utilizatori"</string>
+    <string name="uf_sdk_warning">"Avertisment"</string>
+    <string name="uf_sdk_wifi_settings">"Setări Wi-Fi"</string>
+    <string name="uf_sdk_wlan_settings">"Setări WLAN"</string>
+    <string name="uf_sdk_write_your_feedback">"Introduceţi feedback-uri aici"</string>
+    <string name="uf_sdk_your_draft_will_be_discarded">"Schiţa dvs. va fi îndepărtată."</string>
+    <string description="description for empty search result" maxwidth="-1" name="unable_to_find_artlcles">"Nu se pot găsi articole asociate \u0022%s\u0022"</string>
+    <string name="uv_admin_response_format">"Răspuns administrator: %1$s"</string>
+    <string name="uv_all_articles">"Toate articolele"</string>
+    <string name="uv_all_results_filter">"TOATE"</string>
+    <string name="uv_android_sdk">Android SDK</string>
+    <string name="uv_article_browse_question">"A fost de ajutor acest articol?"</string>
+    <string name="uv_article_instant_answer_question">"Consideraţi utilă această secţiune de întrebări frecvente?"</string>
+    <string name="uv_cancel">"Anulare"</string>
+    <string name="uv_category">"Categorie"</string>
+    <string name="uv_close">"Închidere"</string>
+    <string name="uv_comment_hint">"Introduceţi comentariul"</string>
+    <string name="uv_confirm">"Confirmare"</string>
+    <string name="uv_contact_continue_button">"Încă vreau să trimit un mesaj"</string>
+    <string name="uv_contact_hint">"Introduceţi întrebarea sau feedbackul"</string>
+    <string name="uv_contact_us">"Contactaţi-ne"</string>
+    <string name="uv_display_name">"Nume afişare"</string>
+    <string name="uv_email_address">"Adresă e-mail"</string>
+    <string name="uv_email_address_hint">"adresadvs.@email.com (obligatorie)"</string>
+    <string name="uv_error">"Eroare"</string>
+    <string name="uv_failed_signin_error">"Parolă sau e-mail greşite"</string>
+    <string name="uv_forgot_password">"Aţi uitat parola"</string>
+    <string name="uv_helpful_article_message_question">"Doriţi totuşi să trimiteţi un mesaj?"</string>
+    <string name="uv_i_want_this">"Vreau asta!"</string>
+    <string name="uv_idea_description_heading">"Descrieţi mai detaliat ideea dvs."</string>
+    <string name="uv_idea_description_hint">"(opţional)"</string>
+    <string name="uv_idea_text_heading">"Vă sugerăm să..."</string>
+    <string name="uv_loading">"Încărcare…"</string>
+    <string name="uv_matching_articles">"Articole asemănătoare"</string>
+    <string name="uv_matching_articles_and_ideas">"Articole şi idei asemănătoare"</string>
+    <string name="uv_menu_attach">"Ataşare"</string>
+    <string name="uv_menu_search">"Căutare"</string>
+    <string name="uv_msg_bad_email_format">"Vă rugăm să introduceţi o adresă de e-mail validă."</string>
+    <string name="uv_msg_comment_posted">"Comentariul dvs. a fost publicat"</string>
+    <string name="uv_msg_confirm_discard_message">"Sigur doriţi să renunţaţi la mesaj?"</string>
+    <string name="uv_msg_custom_fields_validation">"Vă rugăm să completaţi toate câmpurile necesare."</string>
+    <string name="uv_msg_forgot_password">"E-mail trimis pentru parolă uitată"</string>
+    <string name="uv_msg_idea_created">"Ideea dvs. a fost creată"</string>
+    <string name="uv_msg_ticket_created">"Mesajul dvs. a fost trimis"</string>
+    <string name="uv_msg_user_identity_validation">"Vă rugăm să vă introduceţi adresa de e-mail"</string>
+    <string name="uv_name_hint">"Anonim"</string>
+    <string name="uv_network_error">"Conectarea la UserVoice a eşuat"</string>
+    <string name="uv_nevermind">"Nu mai contează"</string>
+    <string name="uv_new_comment">"Comentariu nou"</string>
+    <string name="uv_next">"Următorul"</string>
+    <string name="uv_no">"Nu"</string>
+    <string name="uv_none_of_these_help">"Nu ajută niciunul"</string>
+    <string name="uv_password">"Parolă"</string>
+    <string name="uv_password_dialog_title">"Vă rugăm să introduceţi parola"</string>
+    <string name="uv_portal_title">"Ajutor"</string>
+    <string name="uv_post_a_comment">"Publicaţi un comentariu"</string>
+    <string name="uv_post_comment">"Publicare comentariu"</string>
+    <string name="uv_posted_by_format">"Publicat de %1$s pe %2$s"</string>
+    <string name="uv_powered_by_uservoice">"Susţinut de UserVoice"</string>
+    <string name="uv_ranked">"Clasat %1$s"</string>
+    <string name="uv_remove_votes">"Eliminare voturi"</string>
+    <string name="uv_select_none">"(niciunul)"</string>
+    <string name="uv_select_one">"Selectaţi unul"</string>
+    <string name="uv_send_message">"Trimitere mesaj"</string>
+    <string name="uv_signin_dialog_ok">"Conectare"</string>
+    <string name="uv_signin_dialog_title">"Conectare"</string>
+    <string name="uv_status_format">"Stare: %1$s"</string>
+    <string name="uv_submit_idea">"Trimitere idee"</string>
+    <string name="uv_subscribe">"Abonare"</string>
+    <string name="uv_subscribe_dialog_title">"Abonare la această idee"</string>
+    <string name="uv_suggestion_instant_answer_question">"Consideraţi utilă această idee?"</string>
+    <string name="uv_thanks">"Vă mulţumim!"</string>
+    <string name="uv_unhelpful_article_message_question">"Doriţi să ne trimiteţi un mesaj?"</string>
+    <string name="uv_value">"Valoare"</string>
+    <string name="uv_very_yes">"Da!"</string>
+    <string name="uv_yes">"Da"</string>
+    <string name="uv_your_email_address">"Adresa dvs. de e-mail"</string>
+    <string name="uv_your_name">"Numele dvs."</string>
+</resources>

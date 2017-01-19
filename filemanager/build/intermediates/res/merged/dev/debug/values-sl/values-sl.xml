@@ -1,0 +1,1019 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="alarm_set">
+        <item msgid="6450913786084215050">"Alarm je nastavljen na manj kot 1 minuto od zdaj."</item>
+        <item msgid="6002066367368421848">"Alarm je nastavljen na <ns1:g id="DAYS">%1$s</ns1:g> od zdaj."</item>
+        <item msgid="8824719306247973774">"Alarm je nastavljen na <ns1:g id="HOURS">%2$s</ns1:g> od zdaj."</item>
+        <item msgid="8182406852935468862">"Alarm je nastavljen na <ns1:g id="DAYS">%1$s</ns1:g> in <ns1:g id="HOURS">%2$s</ns1:g> od zdaj."</item>
+        <item msgid="2532279224777213194">"Alarm je nastavljen na toliko minut od zdaj: <ns1:g id="MINUTES">%3$s</ns1:g>."</item>
+        <item msgid="5936557894247187717">"Alarm je nastavljen na <ns1:g id="DAYS">%1$s</ns1:g> in <ns1:g id="MINUTES">%3$s</ns1:g> od zdaj."</item>
+        <item msgid="9115697840826129603">"Alarm je nastavljen na <ns1:g id="HOURS">%2$s</ns1:g> in <ns1:g id="MINUTES">%3$s</ns1:g> od zdaj."</item>
+        <item msgid="2332583385137381060">"Alarm je nastavljen na <ns1:g id="DAYS">%1$s</ns1:g>, <ns1:g id="HOURS">%2$s</ns1:g> in <ns1:g id="MINUTES">%3$s</ns1:g> od zdaj."</item>
+    </string-array>
+    <string-array name="charset_array">
+        <item>"Latin-1 (ISO-8859-1)"</item>
+        <item>"Unicode (UTF-8)"</item>
+        <item>"Kitajsko (GBK)"</item>
+        <item>"Kitajsko (Big5)"</item>
+        <item>"Japonsko (ISO-2022-JP)"</item>
+        <item>"Japonsko (SHIFT_JIS)"</item>
+        <item>"Japonsko (EUC-JP)"</item>
+        <item>"Korejsko (EUC-KR)"</item>
+    </string-array>
+    <plurals name="dialog_unzip_preview_size_text">
+        <item quantity="one">"Skupaj: %1$d datoteka, %2$s"</item>
+        <item quantity="other">"Skupaj: %1$d datotek, %2$s"</item>
+    </plurals>
+    <plurals name="drag_items">
+        <item quantity="one">"Povleci element"</item>
+        <item quantity="other">"Povleci elemente"</item>
+    </plurals>
+    <plurals name="number_search_items">
+        <item quantity="one">"%d datoteka najdena"</item>
+        <item quantity="other">"%d datotek najdenih"</item>
+    </plurals>
+    <plurals name="number_selected_items">
+        <item quantity="one">"%d izbrana"</item>
+        <item quantity="other">"%d izbranih"</item>
+    </plurals>
+    <plurals name="uf_sdk_number_of_subscribers_format">
+        <item quantity="one">"%1$s osebi je to všeč"</item>
+        <item quantity="other">"%1$s osebam je to všeč"</item>
+    </plurals>
+    <plurals name="uf_sdk_topics">
+        <item quantity="one">"tema"</item>
+        <item quantity="other">"teme"</item>
+    </plurals>
+    <plurals name="uv_comments">
+        <item quantity="one">"komentar"</item>
+        <item quantity="other">"komentarji"</item>
+    </plurals>
+    <plurals name="uv_number_of_subscribers_format">
+        <item quantity="one">"%1$s si želi ta predlog"</item>
+        <item quantity="other">"%1$s si želijo to idejo"</item>
+    </plurals>
+    <plurals name="uv_people">
+        <item quantity="one">"oseba"</item>
+        <item quantity="other">"oseb"</item>
+    </plurals>
+    <plurals name="uv_subscribers">
+        <item quantity="one">"naročnik"</item>
+        <item quantity="other">"naročnikov"</item>
+    </plurals>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Krmarjenje domov"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Krmarjenje navzgor"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Več možnosti"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Končano"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Pokaži vse"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Izbira aplikacije"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"IZKLOPLJENO"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"VKLOPLJENO"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Iskanje …"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Izbris poizvedbe"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Iskalna poizvedba"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Iskanje"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Pošiljanje poizvedbe"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Glasovno iskanje"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Deljenje z"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Deljenje z:"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Strni"</string>
+    <string name="about">Vizitka</string>
+    <string name="action">"Prijava"</string>
+    <string description="cutstom action bar view title for about" maxwidth="-1" name="action_about">"Vizitka"</string>
+    <string description="action add files" maxwidth="-1" name="action_add">"Dodaj"</string>
+    <string description="cutstom action bar view title for add folder" maxwidth="-1" name="action_add_folder">"Dodaj mapo"</string>
+    <string description="View title of custom action bar, apply to multiple selected files" maxwidth="-1" name="action_apply_selected_file">"Uporabi"</string>
+    <string description="action cancel" maxwidth="-1" name="action_cancel">"Prekliči"</string>
+    <string maxwidth="-1" name="action_clean">"Počisti"</string>
+    <string maxwidth="-1" name="action_clean_all">"Počisti vse"</string>
+    <string description="cutstom action bar view title for clear search history" maxwidth="" name="action_clear_history">"Počisti zgodovino iskanja"</string>
+    <string description="cutstom action bar view title for edit" maxwidth="" name="action_edit">"Uredi"</string>
+    <string maxwidth="" name="action_hidden_zone">"Premakni v skrito omarico"</string>
+    <string description="cutstom action bar view title for hinde system file" maxwidth="-1" name="action_hind_system_file">"Skrij sistemske datoteke"</string>
+    <string name="action_loading">"Nalaganje ..."</string>
+    <string description="cutstom action bar view title for open with" maxwidth="" name="action_open_with">"Za odpiranje uporabi ..."</string>
+    <string name="action_refresh_cloudfile">"Osveži"</string>
+    <string maxwidth="-1" name="action_restore">"Obnovi"</string>
+    <string maxwidth="-1" name="action_restore_all">"Obnovi vse"</string>
+    <string description="cutstom action bar view title for search" maxwidth="" name="action_search">"Iskanje"</string>
+    <string description="cutstom action bar view title for set as" maxwidth="" name="action_set_as">"Nastavi sliko kot"</string>
+    <string description="menu title for setting" maxwidth="-1" name="action_settings">"Nastavitve"</string>
+    <string description="cutstom action bar view title for sharing" maxwidth="-1" name="action_share">"Daj v skupno rabo"</string>
+    <string description="String for asking for the rule of sorting" maxwidth="-1" name="action_sort_by">"Razvrsti po"</string>
+    <string description="cutstom action bar view title for zip" maxwidth="" name="action_zip">"Stisni"</string>
+    <string description="Dialog title: Add cloud storage" maxwidth="-1" name="add_cloud_storage_dialog_title">"Dodaj shrambo v oblaku"</string>
+    <string name="add_favorite">Dodaj med priljubljene</string>
+    <string name="add_favorite_folder">"Dodaj mapo s priljubljenimi"</string>
+    <string name="add_favorite_success">Shrani med priljubljene</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="add_progress">"Ustvarjam ..."</string>
+    <string name="app_upload_complete">"%s prenosa je dokončanega"</string>
+    <string description="" name="article_one">"Strinjam se s »<u>pogoji uporabe</u>« družbe ASUS, »<u>pravilnikom o zasebnosti</u>« družbe ASUS ter »<u>pogoji uporabe</u>« za ASUS WebStorage in »<u>pravilnikom o zasebnosti</u>« za ASUS WebStorage."</string>
+    <string description="" name="article_two">"Prek sistemov elektronskega upravljanja (eDM) me obveščajte o najnovejših novicah, posodobitvah programske opreme ter informacijah o izdelkih in storitvah družbe ASUS."</string>
+    <string description="Text for create asus account button." maxwidth="" name="asus_account_create_button">"Registracija"</string>
+    <string name="asus_account_integrate_dialog_content">"Ali želite integrirati račun ASUS z računom za WebStorage? \n\nPo integraciji boste lahko uporabljali vse storitve družbe ASUS."</string>
+    <string name="asus_account_integrate_dialog_skip">"Preskoči"</string>
+    <string name="asus_account_integrate_dialog_title">"Integracija storitev družbe ASUS"</string>
+    <string name="asus_account_integrate_dialog_yes">"Da"</string>
+    <string description="Text for asus account content 1st." maxwidth="" name="asus_account_msg_content_1">"Uporabljali storitev osebne podpore družbe ASUS in podaljšali jamstvo za registrirane izdelke."</string>
+    <string description="Text for asus account content 2nd." maxwidth="" name="asus_account_msg_content_2">"Pridobili 5 GB brezplačnega prostora za shranjevanje v oblaku."</string>
+    <string description="Text for asus account content 3rd." maxwidth="" name="asus_account_msg_content_3">"Prejemali najnovejše informacije o pripomočkih in prenovljenih izdelkih."</string>
+    <string description="Text for asus account content title." maxwidth="" name="asus_account_msg_title">"Ustvarite račun ASUS, da boste lahko:"</string>
+    <string name="asus_account_only_one_alert">"Dodate lahko samo en račun ASUS. Svoj trenutni račun morate izbrisati, preden ga zamenjate z novim."</string>
+    <string name="asus_account_prefc">"Nastavitve"</string>
+    <string name="asus_account_prefc_advc">"Napredne nastavitve"</string>
+    <string name="asus_account_registe_country_error">"Izberite eno državo/regijo."</string>
+    <string name="asus_account_registe_id_error">"Napaka v obliki e-poštnega naslova"</string>
+    <string name="asus_account_registe_policy_error">"Pred registracijo računa ASUS morate sprejeti pravilnik družbe ASUS."</string>
+    <string name="asus_account_registe_pw_error_1">"Polje z geslom ne sme biti prazno."</string>
+    <string name="asus_account_registe_pw_error_2">"Polje za potrditev gesla ne sme biti prazno."</string>
+    <string name="asus_account_registe_pw_error_3">"Geslo in potrjeno geslo mora biti enaki."</string>
+    <string name="asus_account_registe_pw_error_4">"Geslo mora biti dolgo 8 do 25 znakov."</string>
+    <string name="asus_account_removeaccount_dialog_content">"Integracija računa uspela. Znova se prijavite z novim računom."</string>
+    <string name="asus_account_removeaccount_dialog_title">"Integracija računa ASUS je bila uspešna"</string>
+    <string name="asus_commonui_activity_chooser_view_see_all">"Pokaži vse"</string>
+    <string name="asus_commonui_activity_resolver_use_always">"Vedno"</string>
+    <string name="asus_commonui_activity_resolver_use_once">"Samo tokrat"</string>
+    <string name="asus_commonui_activitychooserview_choose_application">"Izberite program"</string>
+    <string name="asus_commonui_activitychooserview_choose_application_error">
+        "Aplikacije <ns1:g id="APPLICATION_NAME">%s</ns1:g> ni bilo mogoče zagnati"</string>
+    <string name="asus_commonui_cancel_label">"Prekliči"</string>
+    <string name="asus_commonui_chooseActivity">"Izberite dejanje"</string>
+    <string msgid="3968620852217927702" name="asus_commonui_day_picker_description">"Mesečna mreža dni"</string>
+    <string msgid="6908431551612331381" name="asus_commonui_deleted_key">"<ns1:g id="KEY">%1$s</ns1:g> je izbrisana"</string>
+    <string name="asus_commonui_done_label">"V redu"</string>
+    <string msgid="7586639618712934060" name="asus_commonui_hour_picker_description">"Okrogli drsnik za ure"</string>
+    <string msgid="2674929164900463786" name="asus_commonui_item_is_selected">"Izbrano: <ns1:g id="ITEM">%1$s</ns1:g>"</string>
+    <string msgid="6024811202872705251" name="asus_commonui_minute_picker_description">"Okrogli drsnik za minute"</string>
+    <string name="asus_commonui_noApplications">"Tega dejanja ne more izvesti noben program."</string>
+    <string name="asus_commonui_no_url_handler">Ni aplikacije, s katero bi lahko odprli URL</string>
+    <string name="asus_commonui_privacy_policy">Pravilnik o zasebnosti</string>
+    <string msgid="3973338219107019769" name="asus_commonui_select_day">"Izberite mesec in dan"</string>
+    <string msgid="7651068754188418859" name="asus_commonui_select_hours">"Izberite ure"</string>
+    <string msgid="8327182090226828481" name="asus_commonui_select_minutes">"Izberite minute"</string>
+    <string msgid="2603330600102539372" name="asus_commonui_select_year">"Izberite leto"</string>
+    <string name="asus_commonui_shareactionprovider_share_with">"Delite z"</string>
+    <string name="asus_commonui_shareactionprovider_share_with_application">
+        "Delite s programom <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string name="asus_commonui_terms_of_use_notice">Pogoji uporabe</string>
+    <string name="asus_commonui_whichApplication">"Dokončanje dejanja z"</string>
+    <string name="asus_commonui_whichHomeApplication">"Izberite aplikacijo za začetno stran"</string>
+    <string msgid="6963340404644587098" name="asus_commonui_year_picker_description">"Seznam let"</string>
+    <string name="asus_feedback_and_help">Povratne informacije in pomoč</string>
+    <string name="asus_registe_success_title">"Registracija računa ASUS je bila uspešna"</string>
+    <string name="asus_response_resultdata">"Ta račun je že registriran."</string>
+    <string name="asusaccount_app_name">"Račun ASUS"</string>
+    <string maxwidth="-1" name="attribution_notice">"Obvestilo o pripisovanju avtorskih pravic"</string>
+    <string maxwidth="-1" name="attribution_notice_content">
+    "
+    \nTa izdelek vsebuje spodaj navedeno odprto kodno programsko opremo:
+\n\nuservoice-android-sdk, ki ima licenco pod Apache License Version 2.0. Licenco lahko prenesete s spletnega mesta http://www.apache.org/licenses/LICENSE-2.0.html .
+        \n\nangular-filemanager, ki ima licenco pod MIT. Licenco lahko prenesete s spletnega mesta https://github.com/joni2back/angular-filemanager/blob/master/LICENSE .
+        \n\nprogressbar, ki ima licenco pod MIT. Licenco lahko prenesete s spletnega mesta https://github.com/kimmobrunfeldt/progressbar.js/blob/master/LICENSE .
+        \n\ntoastr, Copyright (c) 2012-2015 John Papa, Tim Ferrell, Hans Fjällemark\nDovoljenje je s tem dano, brezplačno, kateri koli osebi, ki pridobi kopijo te programske opreme in povezane datoteke z dokumentacijo (»programska oprema«), za ravnanje s programsko opremo brez omejitev, vključno in brez omejitev, s pravico do uporabe, kopiranja, modificiranja, združevanja, objave, distribucije, podlicenciranja in/ali prodaje kopije programske opreme ter dovoljenja osebam, ki upravičeno prejmejo programsko opremo, pod naslednjimi pogoji:
+        Zgornje obvestilo o avtorskih pravicam in njegovo obvestilo o dovoljenju bo vključeno v vseh kopijah ali znatnem delu programske opreme. PROGRAMSKA OPREMA JE PONUJENA »KOT TAKŠNA«, BREZ KAKRŠNE KOLI GARANCIJE, EKSPLICITNO ALI IMPLICITNE, VKLJUČNO VENDAR NE OMEJENO NA JAMSTVA ZA PRODAJO, USTREZNOSTI ZA DOLOČEN NAMEN IN NEKRŠITEV. V NOBENEM PRIMERU AVTORJI ALI IMETNIKI AVTORSKIH PRAVIC NISO ODGOVORNI ZA VSE ZAHTEVE, ODŠKODNINE ALI DRUGE ODGOVORNOSTI, BODISI V DEJANJU POGODBE, ODŠKODNINSKI ODGOVORNOSTI ALI KAKO DRUGAČE, KI IZHAJAJO IZ PROGRAMSKE OPREME ALI UPORABE OZIROMA DRUGIH RAVNANJIH S PROGRAMSKO OPREMO."
+    </string>
+    <string name="aucloud_account_only_one_alert">"Dodate lahko samo en račun v oblaku. Svoj trenutni račun morate izbrisati, preden ga zamenjate z novim."</string>
+    <string description="string indicating how camera shooting feature is used" maxwidth="-1" name="auto">"Samodejno"</string>
+    <string name="aws_install_contnet">"ASUS WebStorage ni nameščen. Ali ga želite prenesti in namestiti iz Trgovine Play?"</string>
+    <string name="aws_install_title">"ASUS Webstorage ni nameščen"</string>
+    <string description="button text." maxwidth="-1" name="back_button_label">"Nazaj"</string>
+    <string name="baidu_alert_info">"Na osnovi platforme Baidu lahko ima ta naprava dostop samo do podatkov v mapi "My Application Data\\asus\\"."</string>
+    <string name="baidu_alert_title">"Shramba v oblaku Baidu"</string>
+    <string name="baidu_storage_title">"百度云"</string>
+    <string name="baidupcs_account_only_one_alert">"Dodate lahko samo en račun Baidu for ASUS. Svoj trenutni račun morate izbrisati, preden ga zamenjate z novim."</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="calculate_progress">"V teku ..."</string>
+    <string description="Toast: can not open in hidden zone" maxwidth="-1" name="can_not_open_in_hidden_zone">"Ni mogoče odpreti v skriti omarici"</string>
+    <string description="Dialog Button: cancel for dialog" maxwidth="" name="cancel">"Prekliči"</string>
+    <string name="category_apk">Aplikacije</string>
+    <string maxwidth="11" name="category_app1">"Aplikacije"</string>
+    <string name="category_compress">"Stisnjeno"</string>
+    <string maxwidth="11" name="category_compressed1">"Stisnjeno"</string>
+    <string name="category_count">"%s"</string>
+    <string maxwidth="11" name="category_document1">"Dokumenti"</string>
+    <string name="category_documents">"Dokumenti"</string>
+    <string name="category_download">Prenesi</string>
+    <string maxwidth="11" name="category_download1">"Prenosi"</string>
+    <string name="category_favorite">Priljubljeno</string>
+    <string maxwidth="11" name="category_favorite1">"Priljubljeni"</string>
+    <string name="category_game">"Igre"</string>
+    <string name="category_image">Slika</string>
+    <string maxwidth="11" name="category_image1">"Slike"</string>
+    <string maxwidth="11" name="category_large_file1">"Velike datoteke"</string>
+    <string name="category_music">Glasba</string>
+    <string maxwidth="11" name="category_music1">"Glasba"</string>
+    <string name="category_name_app_wallpaper">"Animirano ozadje"</string>
+    <string name="category_name_app_widgets">"Pripomočki"</string>
+    <string name="category_name_books_and_reference">"Knjige in viri"</string>
+    <string name="category_name_business">"Podjetje"</string>
+    <string name="category_name_comics">"Stripi"</string>
+    <string name="category_name_communication">"Komunikacija"</string>
+    <string name="category_name_education">"Izobraževanje"</string>
+    <string name="category_name_entertainment">"Zabava"</string>
+    <string name="category_name_finance">"Finance"</string>
+    <string name="category_name_game">"Igre"</string>
+    <string name="category_name_game_action">"Dejanje"</string>
+    <string name="category_name_game_adventure">"Pustolovske igre"</string>
+    <string name="category_name_game_arcade">"Arkadne igre"</string>
+    <string name="category_name_game_board">"Namizne igre"</string>
+    <string name="category_name_game_card">"Igre s kartami"</string>
+    <string name="category_name_game_casino">"Igre na srečo"</string>
+    <string name="category_name_game_casual">"Priložnostne"</string>
+    <string name="category_name_game_educational">"Izobraževalne igre"</string>
+    <string name="category_name_game_family">"Družinski"</string>
+    <string name="category_name_game_music">"Glasba"</string>
+    <string name="category_name_game_puzzle">"Sestavljanke"</string>
+    <string name="category_name_game_racing">"Dirke"</string>
+    <string name="category_name_game_role_playing">"Igranje vlog"</string>
+    <string name="category_name_game_simulation">"Simulacijske igre"</string>
+    <string name="category_name_game_sports">"Športne igre"</string>
+    <string name="category_name_game_strategy">"Strategija"</string>
+    <string name="category_name_game_trivia">"Kviz"</string>
+    <string name="category_name_game_word">"Besedne igre"</string>
+    <string name="category_name_health_and_fitness">"Zdravo življenje"</string>
+    <string name="category_name_libraries_and_demo">"Knjižnice in predstavitve"</string>
+    <string name="category_name_lifestyle">"Življenjski slog"</string>
+    <string name="category_name_media_and_video">"Večpredstavnost in videovsebina"</string>
+    <string name="category_name_medical">"Medicina"</string>
+    <string name="category_name_music_and_audio">"Glasba in zvočna vsebina"</string>
+    <string name="category_name_news_and_magazines">"Časopisi in revije"</string>
+    <string name="category_name_personalization">"Prilagoditev"</string>
+    <string name="category_name_photography">"Fotografiranje"</string>
+    <string name="category_name_productivity">"Storilnost"</string>
+    <string name="category_name_shopping">"Nakupovanje"</string>
+    <string name="category_name_social">"Družabno"</string>
+    <string name="category_name_sports">"Šport"</string>
+    <string name="category_name_tools">"Orodja"</string>
+    <string name="category_name_transportation">"Prevoz"</string>
+    <string name="category_name_travel_and_local">"Turistične in lokalne informacije"</string>
+    <string name="category_name_weather">"Vreme"</string>
+    <string name="category_others">"Drugi"</string>
+    <string maxwidth="11" name="category_recent1">"Nedavno"</string>
+    <string name="category_recent_files">"Nedavno dodano"</string>
+    <string name="category_sorting_summary">"Izberite elemente, ki bodo prikazani v podoknu s kategorijami"</string>
+    <string name="category_title_category">Kategorija</string>
+    <string name="category_title_local_storage">Lokalni pomnilnik</string>
+    <string name="category_title_tools">"Orodja"</string>
+    <string name="category_toast_invalid_item_size_6_or_9">"Izberite 6 ali 9 elementov"</string>
+    <string name="category_toast_invalid_item_size_9">"Izberite 9 elementov"</string>
+    <string name="category_toast_invalid_remove">"Tega elementa ni mogoče odstraniti"</string>
+    <string name="category_toast_max_item_size">"Izberite največ 9 elementov"</string>
+    <string name="category_video">Videoposnetek</string>
+    <string maxwidth="11" name="category_video1">"Videoposnetki"</string>
+    <string name="clear_account_info">"Pozabi vse račune"</string>
+    <string description="Menu Option: clear all checkbox" maxwidth="" name="clear_all">"Počisti vse"</string>
+    <string name="click_plus_to_add_favorite_folder">"Tapnite +, da dodate mapo s priljubljenimi"</string>
+    <string description="Toast: The size is over the limit and cannot be uploaded" maxwidth="-1" name="cloud_download_flie_limit_space">"Prenos datoteke ni uspel. Velikost datoteke je nad maksimalno omejitvijo."</string>
+    <string description="Toast: The name of the file uploaded is not supported by cloud server" maxwidth="-1" name="cloud_flie_name_not_supported">"Operacije ni mogoče končati, ker strežnik v oblaku ne podpira imena datoteke."</string>
+    <string description="home cloud get available devices fail" name="cloud_homebox_get_devices_fail">"Iskanje razpoložljivih naprav HomeCloud ni uspelo"</string>
+    <string description="home cloud has no available devices" name="cloud_homebox_no_available_devices">"Brez razpoložljivih naprav HomeCloud"</string>
+    <string description="home cloud device is sleep" name="cloud_homebox_status__info_Sleep">"Spanje"</string>
+    <string description="home cloud device is offline" name="cloud_homebox_status__info_offline">"Brez povezave"</string>
+    <string description="home cloud device is online" name="cloud_homebox_status__info_online">"V spletu"</string>
+    <string description="home cloud device is offline" name="cloud_homebox_status_offline">"Naprave je brez povezave"</string>
+    <string description="diaglog cloud background paste" name="cloud_paste_backgroud">"Ozadje"</string>
+    <string description="diaglog cloud  now is copy files" name="cloud_paste_copying">"Kopiram ..."</string>
+    <string description="diaglog cloud  current" name="cloud_paste_current">"Trenutno"</string>
+    <string description="diaglog cloud  now is delete source files" name="cloud_paste_deleting">"Brišem izvorne datoteke ..."</string>
+    <string description="diaglog cloud  paste" name="cloud_paste_downloading">"Prenašam datoteke"</string>
+    <string description="diaglog cloud  total" name="cloud_paste_total">"Skupaj"</string>
+    <string description="diaglog cloud  paste uploading" name="cloud_paste_uploading">"Nalagam datoteke"</string>
+    <string description="Toast: cloud preview action" maxwidth="-1" name="cloud_preview_action_fail">"predogled datotek v oblaku ni uspelo."</string>
+    <string description="Toast: cloud share action" maxwidth="-1" name="cloud_share_action_fail">"skupna raba datotek v oblaku ni uspela."</string>
+    <string description=">Do you want to remove" maxwidth="-1" name="cloud_storage_remove_hint">"Ali se želite izpisati iz računa \"%s\"?"</string>
+    <string description="Dialog title: Remove cloud storage" maxwidth="-1" name="cloud_storage_remove_hint_title">"Izpis"</string>
+    <string description=">Do you want to signin" maxwidth="-1" name="cloud_storage_sign_in">"Poveži se z uporabo naslednjega računa:"</string>
+    <string description="Dialog title: Signin cloud storage" maxwidth="-1" name="cloud_storage_sign_in_title">"Poveži %s"</string>
+    <string description=">Do you want to signout" maxwidth="-1" name="cloud_storage_sign_out">"Ali ste prepričani, da želite prekiniti povezavo \"%s\" ?"</string>
+    <string description="Dialog title: Signout cloud storage" maxwidth="-1" name="cloud_storage_sign_out_title">"Prekini povezavo"</string>
+    <string description="Add more cloud storage" maxwidth="-1" name="cloud_storage_title">"Dodaj več shrambe v oblaku"</string>
+    <string description="diaglog cloud  token is invalidate" name="cloud_token_invalidate">"Žeton je razveljavljen, ponovno se vpišite!"</string>
+    <string description="Toast: The size is over the limit and cannot be uploaded" maxwidth="-1" name="cloud_upload_flie_limit_space">"Prenos datoteke ni uspel. Velikost datoteke je nad maksimalno omejitvijo."</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Omogoči"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"Aplikacija <ns1:g id="APP_NAME">%1$s</ns1:g> ne bo delovala, če ne omogočite storitev Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Omogočanje storitev Google Play"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Namesti"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"Aplikacija <ns1:g id="APP_NAME">%1$s</ns1:g> ne deluje brez storitev Google Play, vendar teh ni v napravi."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Namestitev storitev Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Napaka storitev Google Play"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"Aplikacija <ns1:g id="APP_NAME">%1$s</ns1:g> ima težave s storitvami Google Play. Poskusite znova."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"Aplikacija <ns1:g id="APP_NAME">%1$s</ns1:g> ne deluje brez storitev Google Play, ki jih vaša naprava ne podpira."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Posodobi"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"Aplikacija <ns1:g id="APP_NAME">%1$s</ns1:g> ne bo delovala, če ne posodobite storitev Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Posodobitev storitev Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"Aplikacija <ns1:g id="APP_NAME">%1$s</ns1:g> ne deluje brez storitev Google Play, ki se trenutno posodabljajo."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Potrebujete novo različico storitev Google Play. V kratkem se bodo posodobile."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Odpiranje v telefonu"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Prijava"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Prijava z Google Računom"</string>
+    <string name="confirm">"Potrdite"</string>
+    <string name="confirm_ok">"V redu"</string>
+    <string description="confirm password textview title" name="confirm_password">"Potrdite geslo"</string>
+    <string description="ask user to enter password again to confirm" name="confirm_password_edit">"Znova vnesite geslo"</string>
+    <string description="content" maxwidth="-1" name="content">"Uporaba te programske opreme je predmet pogojev in določil na spletnem mestu ASUS: \nhttp://www.asus.com"</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="copy">"Kopiraj"</string>
+    <string description="Toast: copy ready" maxwidth="-1" name="copy_ready_more">"Izbrane datoteke so kopirane in pripravljene na lepljenje."</string>
+    <string description="Toast: copy ready. %s is variable string." maxwidth="-1" name="copy_ready_one">"\"%s\" je kopirana in pripravljena, da jo prilepite."</string>
+    <string name="copy_to">Kopiraj v</string>
+    <string description="country region textview title" name="country_region">"Država/regija"</string>
+    <string description="ack user to select on country" name="country_region_select">"Izberite državo/regijo"</string>
+    <string name="create_shortcut">"Ustvari bližnjico"</string>
+    <string name="create_shortcut_dialog">"Ustvari bližnjico v zaganjalniku"</string>
+    <string name="create_shortcut_toast">"Ustvarjanje bližnjice v zaganjalniku je dokončano"</string>
+    <string name="cta_agree">"Dovoli"</string>
+    <string name="cta_check_title">"Zapomni si"</string>
+    <string name="cta_dialog_content"><b>Upravitelj datoteke</b> poskuša uporabiti omrežje, morda boste zaradi tega morali plačati druge stroške, odvisno od vaše naročnine.</string>
+    <string name="cta_dialog_title">"Uporabi omrežje"</string>
+    <string name="cta_disagree">"Zavrni"</string>
+    <string name="cta_show_menu">"Dovoljenje za omrežje"</string>
+    <string name="current_folder">"Trenutna mapa"</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="cut">"Izreži"</string>
+    <string description="Toast: cut ready" maxwidth="-1" name="cut_ready_more">"Izbrane datoteke so izrezane in pripravljanje na lepljenje."</string>
+    <string description="Toast: cut ready. %s is variable string." maxwidth="-1" name="cut_ready_one">"\"%s\" je izrezana in pripravljena, da jo prilepite."</string>
+    <string description="button text for sort file by date" maxwidth="-1" name="date">"Datum"</string>
+    <string description="button text for sort file by date ascending" maxwidth="-1" name="date_ascending">"Datum (najstarejše-najnovejše)"</string>
+    <string description="button text for sort file by date descending" maxwidth="-1" name="date_descending">"Datum (najnovejše-najstarejše)"</string>
+    <string msgid="7984755014526510295" name="day">"1 dan"</string>
+    <string msgid="2070509222727852210" name="days">"<ns1:g id="DAYS">%s</ns1:g> dni"</string>
+    <string name="dbx_install_contnet">"Dropbox ni nameščen. Ali ga želite prenesti in namestiti iz Trgovine Play?"</string>
+    <string name="dbx_install_title">"Dropbox ni nameščen"</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="delete">"Izbriši"</string>
+    <string description="Dialog Title: delete dialog title" maxwidth="" name="delete_dialog">"Izbriši datoteko"</string>
+    <string description="Toast: delete fails" maxwidth="-1" name="delete_fail">"Izbris datoteke ni uspel."</string>
+    <string description="Dialog Content: text in dialog. %d is variable number." maxwidth="" name="delete_more_files">"Ali želite izbrisati elemente %d?"</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="delete_one_directory">"Ali želite izbrisati imenik?"</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="delete_one_files">"Ali želite izbrisati datoteko?"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="delete_progress">"Brišem ..."</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="delete_size">"Velikost: "</string>
+    <string description="Toast: delete success" maxwidth="-1" name="delete_success_more">"Izbrane datoteke so izbrisane."</string>
+    <string description="Toast: delete success. %s is variable string." maxwidth="-1" name="delete_success_one">"\"%s\" je izbrisan."</string>
+    <string description="cutstom action bar view title for deselect all checkbox" maxwidth="" name="deselect_all">"Prekliči izbor vseh"</string>
+    <string name="device_root_path">koren</string>
+    <string description="compress dialog title" maxwidth="-1" name="dialog_create_zip_title">"Vnesi ime arhiva"</string>
+    <string description="extract zip file dialog title. %s is a dynamic string. It is zip file name." maxwidth="-1" name="dialog_extract_zip_title">"Ekstrahiraj %s v :"</string>
+    <string name="dialog_load_stream_url_info">"Pridobivam potrebne informacije s strežnika"</string>
+    <string name="dialog_msg_market_login_account">"Prijavite se v svoj Google Račun in prenesite aplikacijo"</string>
+    <string description="text encoding dialog title" maxwidth="-1" name="dialog_text_encoding_title">"Kodiranje besedila"</string>
+    <string name="dialog_title_market_login_account">"Dodaj račun"</string>
+    <string description="show zip info dialog title. %s is a dynamic string. Is is a zip file name" maxwidth="-1" name="dialog_unzip_preview_title">"Ekstrahiraj %s"</string>
+    <string description="Dialog Title: Directory information dialog title" maxwidth="-1" name="dir_info_dialog_title">"Informacije o imeniku"</string>
+    <string name="display">"Prikaži kot"</string>
+    <string name="display_hint">"Moj računalnik je lahko prazen"</string>
+    <string name="dm_openfile">"Odpri datoteko"</string>
+    <string name="do_not_show_again">"Ne kaži več"</string>
+    <string name="domain">"Domena:"</string>
+    <string name="domain_hint">"Lahko je prazno"</string>
+    <string name="drag_items_one">"Povleci element"</string>
+    <string name="drag_items_other">"Povleci elemente"</string>
+    <string name="drawer_close">"Zapri navigacijski predal"</string>
+    <string name="drawer_home">Domov</string>
+    <string name="drawer_open">"Odpri navigacijski predal"</string>
+    <string description="Hint: the operation is incorrect" maxwidth="-1" name="drop_incorrect_hint">"Nepravilna operacija"</string>
+    <string description="Hint: the target folder which you want to do something" maxwidth="-1" name="drop_target_to">"Cilj:"</string>
+    <string name="duplicate_files">"Podvojene datoteke"</string>
+    <string name="duplicate_files_content_hint">"Najdite podvojene datoteke in jih izbrišite z dovoljenjem."</string>
+    <string name="edit_toast_name_too_long">Doseženo je največje dovoljeno število znakov</string>
+    <string name="edit_toast_special_char">"Ne morem vključiti posebnih znakov"</string>
+    <string name="editcategory_hint">"Tapnite gumb Uredi, da prilagodite podokno Kategorija."</string>
+    <string description="describe the empty folder" maxwidth="-1" name="empty_folder_title">"Brez datotek"</string>
+    <string description="Dialog Button: click to open the encoding list dialog" maxwidth="-1" name="encode">"Kodiranje besedila"</string>
+    <string description="ask user to enter password" maxwidth="-1" name="enter_password">"Vnesite geslo"</string>
+    <string name="eula_content_description">
+        \nTa licenčna pogodba za končnega uporabnika (»EULA«) predstavlja veljaven in zavezujoč sporazum med ASUSTeK Computer Inc. (»ASUS«) in vami, kot uporabnikom, za uporabo ASUS programske opreme (»programska oprema« ), opredeljena kot je navedeno spodaj. Z namestitvijo in nadaljnjo uporabo programske opreme IZRECNO PRIZNAVATE, DA STE PREBRALI, RAZUMETE IN SE STRINJATE S POGOJI TE EULA IN VSEMI NOVIMI RAZLIČICAMI TEGA DOKUMENTA. 
+\n\n1.PROGRAMSKA OPREMA pomeni programsko opremo ASUS, ki je priložena z ali se nahaja v izdelku ASUS, vključno, vendar ne omejeno, na kakršne koli prihodnje programske popravke, posodobitve, nadgradnje in spremenjene različice.
+\nProgramsko opremo lahko spremlja programska oprema podjetja ASUS ali tretjih oseb, ki je licencirana z eno ali več licenc za brezplačno odprtokodno programsko opremo, kot je navedeno na www.opensource.org/licenses. Taka brezplačna odprtokodna programska oprema, ki vam je dana izključno pod pogoji ustrezne licenčne pogodbe ali obvestila o avtorskih pravicah, ki je priložen ali se nahaja v licenčni datoteki FOSS, ki spremlja programsko opremo. Določila te licenčne pogodbe NE veljajo za brezplačno odprtokodno programsko opremo.
+\n\n2.LICENCA V skladu z določili te pogodbe EULA, vam ASUS podeljuje omejeno, osebno, nekomercialno, neizključno licenco za uporabo programske opreme izključno kot vdelane v izdelke ASUS. Naredite lahko eno kopijo programske opreme, v strojno berljivi obliki, za varnostne namene; pod pogojem, da varnostna kopija vključuje vse avtorske pravice ali druga lastniška obvestila, ki so v izvirniku. Te licence ne smete licencirati dalje, hkrati pa ni prenosljiva, razen za osebe ali subjekte, katerim boste prenesli lastništvo celotnih izdelkov ASUS, ki vsebujejo programsko opremo, oziroma, boste trajno prenesli vse pravice v tej pogodbi EULA in pri tem ne boste ohranili celih ali delnih kopij programske opreme, prejemnik pa se strinja z določili te pogodbe EULA.
+\n\n3.RAZVELJAVITEV OMEJITEV Ne boste izvršili obratnega inženirstva, povratno dešifrirali ali razstavili programske opreme ali dovolili oz. povzročili slednje, razen v obsegu, ko zakon neposredno prepoveduje izvajanje navedenega.
+\n\n4.ZAUPNOST Dolžni ste čuvati in ne razkrivati, ali povzročiti, da se v celoti ali deloma razkrijejo zaupne informacije o programski opremi, vključno z vendar ne omejeno na poslovne skrivnosti in avtorska gradiva v kakršnikoli obliki, tretjim osebam.
+\n\n5.Pravice intelektualne lastnine (»pravice IL«) Potrjujete in se strinjate, da vse pravice IL, naslov in interes za, ali ki izhaja iz programske opreme, so in ostanejo v izključni lasti podjetja ASUS ali njegovega dajalcev licenc. Nič v tej pogodbi EULA ni namenjeno za prenos teh pravic IL na vas. Nepooblaščena uporaba pravic IL krši to pogodbo EULA, kot tudi pravila intelektualne lastnine, vključno z vendar ne omejeno na zakone o avtorskih pravicah in zakone o blagovnih znamkah.
+\nS pošiljanjem vseh informacij, materialov, idej, konceptov ali tehnik, razen osebnih podatkov podjetju ASUS, prek programske opreme (»povratne informacije«), potrjujete in se strinjate, da: (i) vaše povratne informacije ne bodo vsebovale zaupnih ali lastniških informacij; (ii) ASUS ni obvezan ohranjati zaupnosti, eksplicitni ali implicitni, glede povratnih informacij; (iii) ima ASUS pravico uporabljati ali razkrivati, po lastni presoji podjetja ASUS, povratne informacije za kakršen koli namen, na kakršen koli način, po vsem svetu; (iv) bodo povratne informacije postale last podjetja ASUS, brez obveznosti podjetja ASUS do vas; in (v) da niste upravičeni do kakršne koli odškodnine ali povračila kakršnih koli stroškov.
+\n\n6.OBDOBJE IN PRENEHANJE VELJAVNOSTI Ta pogodba EULA  velja od datuma namestitve programske opreme. To licence lahko prekinete kadarkoli po prenehanju uporabe programske opreme in odstranitvi programske opreme z izdelka ASUS. Vaša pravica preneha veljati brez predhodnega obvestila s strani ASUS, če menimo, da niste delovali v skladu s katero koli določbo te pogodbe EULA.
+\n\n7.Izjava o jamstvu in omejitev odgovornosti SOGLAŠATE, DA JE PROGRAMSKA OPREMA NA VOLJO »KOT JE«. CELOTNO TVEGANJE, TAKO ZA KAKOVOST IN UČINKOVITOST TE PROGRAMSKE OPREME, PREVZEMATI VI, VKLJUČNO VENDAR NE OMEJENO NA POVEZANE STROŠKE VSEH POTREBNIH STORITEV IN POPRAVIL. V OBSEGU, KI GA DOVOLJUJE ZAKONODAJA, PODJETJE ASUS NE DAJE NOBENIH JAMSTEV, EKSPLICITNO ALI IMPLICITNO, GLEDE TE PROGRAMSKE OPREME ALI DRUGIH INFORMACIJ ALI DOKUMENTACIJ V SKLADU S TO POGODBO EULA ALI ZA TO PROGRAMSKO OPREMO, VKLJUČNO Z VENDAR NE OMEJENO NA JAMSTVA UPORABNOSTI, PRIPRAVNOSTI ZA DOLOČEN NAMEN ALI ZOPER KRŠITEV ALI GARANCIJO, KI IZHAJAJO IZ UPORABE ALI IZ IZVAJANJA. ASUS HKRATI NE DAJE NIKAKRŠNEGA JAMSTVA ZA REZULTATE, KI SE LAHKO PRIDOBIJO Z UPORABO TE PROGRAMSKE OPREME, ALI GLEDE TOČNOSTI ALI ZANESLJIVOSTI VSEH INFORMACIJ, PRIDOBLJENIH S TO PROGRAMSKO OPREMO. ZAKONODAJA NEKATERIH DRŽAV NE DOVOLJUJE IZJEM ZA DOLOČENA JAMSTVA ALI OMEJEVANJA OZIROMA IZKLJUČEVANJA ODGOVORNOSTI ZA DOLOČENE ODŠKODNINE. ZATO DEL ZGORNJE IZJAVE IN OMEJITEV ODGOVORNOSTI NE VELJAJO ZA VAS.
+\nCELOTNO TVEGANJE, KI IZHAJA IZ UPORABE IN/ALI UČINKOVITOSTI DELOVANJA TE PROGRAMSKE OPREME OSTAJA Z VAMI. V NOBENEM PRIMERU PODJETJE ASUS, NJEGOVI DAJALCI LICENC ALI KATERI KOLI NJEGOVI URADNIKI, DIREKTORJI, ZAPOSLENI, PREDSTAVNIKI ALI PODRUŽNICE, NISO ODGOVORNI ZA KAKRŠNO KOLI POSLEDIČNO, NAKLJUČNO, NEPOSREDNO, POSREDNO, POSEBNO, KAZENSKO ALI DRUGO ŠKODO (VKLJUČNO Z IN BREZ OMEJITEV, ODŠKODNINO ZA IZGUBO DOBIČKA, PREKINITVIJO, IZGUBO INFORMACIJ ALI DRUGE GMOTNE ŠKODE), KI IZHAJAJO IZ ALI SO V ZVEZI S TO POGODBO EULA ALI UPORABE OZ. NEZMOŽNOSTI UPORABE PROGRAMSKE OPREME ALI KATEREGAKOLI DELA POGODBE, TUDI, ČE JE PODJETJE ASUS OBVEŠČENO O MOŽNOSTI TAKE ŠKODE. NEKATERE ZAKONODAJE NE DOVOLJUJEJO IZKLJUČITVE DOLOČENIH JAMSTEV ALI OMEJITEV OZ. IZKLJUČITVE ODGOVORNOSTI ZA DOLOČENE ODŠKODNINE. ZATO NEKATERE ZGORNJE IZJAVE IN OMEJITVE ODGOVORNOSTI NE VELJAJO ZA VAS.
+\n\n8.Odškodnina Strinjate se, da branite, povrnete odškodnino in potrdite neškodljivost podjetja ASUS in njegovih podružnic, ponudnikov storitev, sindikatov, distributerjev, dajalcev licenc, uradnikov, direktorjev in zaposlenih, od in pred katero koli in vso izgubo, škodo, obveznosti in stroški, ki izhajajo iz vseh terjatev ali povpraševanj (vključno z razumnimi odvetniškimi honorarji in sodnimi\' stroški), zaradi ali v zvezi z VAŠIMI kršitvami te pogodbe EULA ali katerega koli veljavnega zakona ali uredbe oz. pravice tretjih oseb.
+    </string>
+    <string name="eula_content_title">"Licenčna pogodba za končnega uporabnika"</string>
+    <string description="Do not translate ASUS" maxwidth="" name="eula_description">"Pravni sporazum med aplikacijami ASUS in končnimi uporabniki"</string>
+    <string maxwidth="" name="eula_title">"Licenčna pogodba za končnega uporabnika"</string>
+    <string name="example">"Primer:"</string>
+    <string description="Dialog Button: extract file for dialog" maxwidth="-1" name="extract">"Ekstrahiraj"</string>
+    <string name="facebook_app_invite">"Stiki v Facebooku"</string>
+    <string name="fb_request_error_permissions">"Ta aplikacija nima dovoljenja za izvedbo tega dejanja. Poskusite se znova prijaviti v aplikacijo."</string>
+    <string name="fileList_Nofiles">"Brez datotek"</string>
+    <string description="Dialog Title: File information dialog title" maxwidth="-1" name="file_info_dialog_title">"Informacije o datoteki"</string>
+    <string description="Application Name shown on title" maxwidth="" name="file_manager">"Upravitelj datotek"</string>
+    <string description="string indicating camera flash is not used" maxwidth="-1" name="flash_off">"Brez bliskavice"</string>
+    <string description="string indicating camera flash is fired" maxwidth="-1" name="flash_on">"Bliskavica sprožena"</string>
+    <string description="click to retrieve password" maxwidth="-1" name="forget_password">"<u>Ste pozabili geslo?</u>"</string>
+    <string name="fragment_analyzer_allfiles_used_hint">"Uporabljeno:"</string>
+    <string name="fragment_analyzer_chart_free_hint">"Prosto:"</string>
+    <string name="fragment_analyzer_chart_total_hint">"Skupaj:"</string>
+    <string name="fragment_analyzer_chart_used_hint">"UPORABLJENO"</string>
+    <string name="fragment_analyzer_more_hint">"več"</string>
+    <string name="google_app_invite">"Stiki v Googlu"</string>
+    <string name="group_title_installed">"Nameščeno"</string>
+    <string name="group_title_not_installed">"Ni nameščeno"</string>
+    <string name="group_title_others">"Drugo"</string>
+    <string name="group_title_recommended">"Priporočeno"</string>
+    <string name="hidden_zone_change_password">"Spremeni geslo"</string>
+    <string name="hidden_zone_confirm_password">"Potrdi kodo PIN"</string>
+    <string name="hidden_zone_enter_password">"Vnesite vašo kodo PIN"</string>
+    <string name="hidden_zone_fingerprint_to_unlock">"Prstni odtis za odklep"</string>
+    <string name="hidden_zone_forget_password">"Ste pozabili geslo"</string>
+    <string name="hidden_zone_introduction_description">"Skrijte zasebne datoteke v skrito omarico. Za odpiranje skrite omarice je potrebna koda PIN."</string>
+    <string name="hidden_zone_password_mismatch">"Koda PIN se ne ujema"</string>
+    <string name="hidden_zone_set_password_success">"Geslo je bilo uspešno nastavljeno"</string>
+    <string name="hidden_zone_setup_account">"Nastavite račun"</string>
+    <string name="hidden_zone_setup_password">"Vnesite 4-mestno kodo PIN"</string>
+    <string name="hidden_zone_wrong_password">"Napačna koda PIN"</string>
+    <string description="Can’t connect to HomeCloud." maxwidth="-1" name="homecloud_access_error">"Povezava s HomeCloud ni uspela. Poskrbite, da je storitev HomeCloud dosegljiva."</string>
+    <string msgid="2546819039651509323" name="hour">"1 ura"</string>
+    <string msgid="2071487018566991613" name="hours">"<ns1:g id="HOURS">%s</ns1:g> ur"</string>
+    <string maxwidth="" name="httpserver_acquire_permission_message">"Datotečni strežnik HTTP se bo zaprl, postopki pa bodo prekinjeni. Želite nadaljevati?"</string>
+    <string maxwidth="" name="httpserver_connectwifiname">"Povezana dostopna točka omrežja Wi-Fi:"</string>
+    <string maxwidth="" name="httpserver_description">"Zaženite storitev, da vzpostavite povezavo med mobilno napravo in računalnikom."</string>
+    <string maxwidth="" name="httpserver_instruction">"V brskalnik v računalniku vnesite ta naslov:"</string>
+    <string maxwidth="" name="httpserver_need_saf">"Če želite zunanji pomnilnik upravljati v računalniku, morate podeliti dovoljenje."</string>
+    <string maxwidth="" name="httpserver_no_network">"V napravi vzpostavite povezavo z istim omrežjem Wi-Fi"</string>
+    <string maxwidth="" name="httpserver_no_permission_message">"Pisanje v zunanji pomnilnik ne bo mogoče brez ustreznega dovoljenja. Želite nadaljevati?"</string>
+    <string maxwidth="" name="httpserver_no_permission_title">"Začnite prenos datotek prek brezžičnega omrežja"</string>
+    <string maxwidth="" name="httpserver_start">"Zaženi"</string>
+    <string maxwidth="" name="httpserver_stop">"Ustavi"</string>
+    <string maxwidth="" name="httpserver_title">"Prenos datotek prek brezžičnega omrežja v računalnik"</string>
+    <string description="Context Menu: options of context menu" maxwidth="-1" name="info">"Informacije"</string>
+    <string description="file info textview context" maxwidth="-1" name="info_aperture">"Zaslonka: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_datetime">"Datum posnetka: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_exposure_time">"Čas osvetlitve: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_file_num">"Datoteke: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_flash">"Bliskavica: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_focal_length">"Goriščna razdalja: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_image_height">"Višina: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_image_width">"Širina"</string>
+    <string description="file info textview context" maxwidth="-1" name="info_image_x">" x "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_iso">"ISO: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_location">"Lokacija: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_maker">"Avtor: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_model">"Model: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_modified">"Modificiran datum: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_name">"Ime: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_orientation">"Usmerjenost: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_path">"Pot: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_permission">"Dovoljenje: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_type">"Tip: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_white_balance">"Ravnovesje beline: "</string>
+    <string description="Do not translate ASUS" maxwidth="" name="inspire_asus_description">"Zberi podatke o uporabi in jih posreduj družbi ASUS za izboljšanje izdelkov ter uporabniške izkušnje"</string>
+    <string name="inspire_asus_title">"Spodbudite ASUS"</string>
+    <string name="install">"Namesti"</string>
+    <string description="storage label" maxwidth="-1" name="internal_storage_title">"Notranja shramba"</string>
+    <string description="Toast: the account is invalid" maxwidth="-1" name="invalid_account">"Neveljaven račun"</string>
+    <string description="Invalid directory path" maxwidth="-1" name="invalid_directory_path">"Neveljavna pot imenika"</string>
+    <string name="invalid_server_id">"Neveljaven ID strežnika"</string>
+    <string name="invalid_xml">"Neveljaven xml"</string>
+    <string name="inviteContentTitle">%1$s vas vabi, da prenesete in namestite Upravitelja datotek ASUS.</string>
+    <string name="inviteContent_p1">Upravitelj datotek ASUS je idealen način za upravljanje datotek z vašo pametno napravo. Aplikacija vam pomaga pri rokovanju in urejanju različnih datotek, shranjenih v pomnilniku telefona, na kartici microSD, v lokalnem omrežju in celo v oblaku.</string>
+    <string name="inviteContent_p2">Upravljajte svoje datoteke učinkovito in enostavno z Upraviteljem datotek ASUS! Upravitelj datotek ASUS vam omogoča upravljanje datotek, ki so shranjene bodisi v pomnilniku naprave, na kartici microSD, v lokalnem omrežju in računih v oblaku, kot sta vaša zasebna ASUS HomeCloud ter Webstorage in druge storitve v oblaku, kot so Dropbox, Google Drive ali Microsoft OneDrive.</string>
+    <string name="inviteContent_p3">Meni je Upravitelj datotek ASUS všeč. Preskusi ga! :D</string>
+    <string description="sticker detail page button name" maxwidth="-1" name="invite_friends">"Povabi prijatelje"</string>
+    <string name="item">element</string>
+    <string name="items">elementi</string>
+    <string name="keep">"Obdrži"</string>
+    <string name="kk_sd_permission_warning">Zaradi omejitve sistema Android v različici Android 4.4 tretja oseba ne more spreminjati aplikacij na zunanjih karticah SD.</string>
+    <string name="large_files_content_hint">"Najdi velike datoteke in jih izbrišite s svojim dovoljenjem."</string>
+    <string description="linked file is missing" maxwidth="-1" name="linked_file_missing">"Manjka povezana datoteka"</string>
+    <string description="text for progress bar" maxwidth="-1" name="loading">"Nalagam\u2026"</string>
+    <string description="button text for sort file by date" maxwidth="-1" name="location">"Lokacija"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="logging_cloud_storage">"Vpisujem ..."</string>
+    <string name="login_account_miss">"Aplikacije Facebook ni bilo mogoče registrirati v upravitelju računov sistema Android. Poskusite se odjaviti iz aplikacije Facebook in nato znova prijaviti."</string>
+    <string name="login_again_later">"Strežnik trenutno ni na voljo. Poskusite znova pozneje."</string>
+    <string description="dialog title, key in the asus ID and PW to Login account" maxwidth="-1" name="login_asus_id">"Vpis v račun ASUS"</string>
+    <string description="Toast: login account fail" name="login_fail" width="-1">"Prijava ni uspela"</string>
+    <string description="login account name" maxwidth="-1" name="login_id">"Ime računa/ID za shrambo WebStorage"</string>
+    <string description="logout account" name="logout_account" width="-1">"Izpis"</string>
+    <string name="low_storage_tutorial_description">Če želite izbrati datoteke, tapnite in podržite, nato izberite »Premakni v« Google Drive</string>
+    <string name="low_storage_tutorial_title">Premakni datoteke v Google Drive</string>
+    <string name="m_permission_dialog_message">"Tapnite [Nastavitve] za vklop dovoljenja [%2$s] v [informacije o programu] > [Dovoljenja], nato ponovno zaženite %1$s."</string>
+    <string name="m_permission_dialog_positive_button">"Nastavitve"</string>
+    <string name="m_permission_setting_subtitle_files">"%1$s potrebuje dovoljenje %2$s za dostop do datotek v tej napravi."</string>
+    <string name="m_permission_setting_title_cloud_storage">"Dostop do shrambe v oblaku ni mogoč"</string>
+    <string name="m_permission_setting_title_files">"Dostop do datotek ni mogoč"</string>
+    <string name="m_permission_setting_turn_on">"Vklopi"</string>
+    <string description="string indicating how camera shooting feature is used" maxwidth="-1" name="manual">"Ročno"</string>
+    <string name="market_app_error">"Napaka pri tržni aplikaciji APP, ki je nameščena na vaši napravi!"</string>
+    <string description="ask user to enter email address as account name" maxwidth="-1" name="member_id_hint">"Vnesite e-poštni naslov"</string>
+    <string description="The title of a menu for General Preferences.Pressing the menu item lets user to view and edit his general settings" maxwidth="30" name="menu_general_preferences">"Splošne nastavitve"</string>
+    <string description="settings menu tutorial" maxwidth="-1" name="menu_tutorial">Vadnica</string>
+    <string msgid="2486157997434653710" name="minute">"1 minuta"</string>
+    <string msgid="6115838729146292526" name="minutes">"<ns1:g id="MINUTES">%s</ns1:g> minut"</string>
+    <string description="Hint: move the items" maxwidth="-1" name="move">"Premakni"</string>
+    <string name="move_or_delete_msg">"Začasno izbrišem predmete v koš?\n(Obkljukajte spodnje polje za trajni izbris predmetov.)"</string>
+    <string name="move_to">Premakni v</string>
+    <string description="Toast: move to recycle bin fails" maxwidth="-1" name="move_to_hidden_zone_fail">"Premik v skrito omarico ni uspel"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="move_to_hidden_zone_progress">"Premikam v skrito omarico ..."</string>
+    <string description="Toast: move to recycle bin success" maxwidth="-1" name="move_to_hidden_zone_success_more">"Izbrane datoteke so premaknjene v skrito omarico."</string>
+    <string description="Toast: move to recycle bin success. %s is variable string." maxwidth="-1" name="move_to_hidden_zone_success_one">"\"%s\" je premaknjen v skrito omarico."</string>
+    <string description="Toast: move to recycle bin fails" maxwidth="-1" name="move_to_trash_fail">"Premik v koš ni uspel"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="move_to_trash_progress">"Premikam v koš ..."</string>
+    <string description="Toast: move to recycle bin success" maxwidth="-1" name="move_to_trash_success_more">"Izbrane datoteke so premaknjene v koš"</string>
+    <string description="Toast: move to recycle bin success. %s is variable string." maxwidth="-1" name="move_to_trash_success_one">"\"%s\" je premaknjena v koš"</string>
+    <string name="msg_too_big_to_recycle">"Predmeti so preveliki za koš.\nAli jih želite trajno izbrisati?"</string>
+    <string name="multi_drm_file_forbidden_operation">"To dejanje je prepovedano, ker os nekatere izbrane datoteke zaščitene z DRM."</string>
+    <string description="shortcut label" maxwidth="-1" name="my_camera_title">"Kamera"</string>
+    <string description="shortcut label" maxwidth="-1" name="my_download_title">"Prenesi"</string>
+    <string description="shortcut label" maxwidth="-1" name="my_music_title">"Glasba"</string>
+    <string description="shortcut label" maxwidth="-1" name="my_picture_title">"Slika"</string>
+    <string description="storage label" maxwidth="-1" name="my_storage_title">"Moja shramba"</string>
+    <string description="button text for sort file by name" maxwidth="-1" name="name">"Ime"</string>
+    <string description="button text for sort file by name ascending" maxwidth="-1" name="name_ascending">"Ime (z-a)"</string>
+    <string description="button text for sort file by name descending" maxwidth="-1" name="name_descending">"Ime (a-z)"</string>
+    <string name="network_cta_hint">"Sprejmite za povezavo z omrežjem "</string>
+    <string name="network_invalid">"Neveljavna omrežna povezava"</string>
+    <string name="network_invalid_info">"Povezava je neveljavna. Poskusite znova."</string>
+    <string name="network_not_available">"Povezave z omrežjem ni bilo mogoče vzpostaviti"</string>
+    <string description="Can’t connect to networkpalce" maxwidth="-1" name="networkplace_access_error">"Povezave ni bilo mogoče vzpostaviti. Preverite, ali je strežnik dosegljiv."</string>
+    <string name="networkplace_storage_title">"Omrežno mesto"</string>
+    <string description="Dialog Title: create new folder" maxwidth="" name="new_folder_dialog">"Ustvari novo mapo"</string>
+    <string description="Toast: new folder fails" maxwidth="-1" name="new_folder_fail">"Ustvarjanje nove mape ni uspelo."</string>
+    <string description="Toast: new folder success. %s is variable string." maxwidth="-1" name="new_folder_success">"Mapa \"%s\" je ustvarjena."</string>
+    <string maxwidth="" name="news_1"><b>Začetno podokno, ki ga je mogoče prilagoditi</b>: zdaj lahko prilagodite začetno podokno z različnimi kategorijami in vrstnim redom.</string>
+    <string maxwidth="" name="news_2"><b>Izbirnik priljubljenih</b>: dodajte mapo s priljubljenimi neposredno iz kategorije priljubljenih.</string>
+    <string maxwidth="" name="news_3"><b>Pripomoček upravitelja datotek</b>: ustvarite bližnjico do mape v zaganjalniku.</string>
+    <string maxwidth="" name="news_mark1">"★  "</string>
+    <string maxwidth="" name="news_subtitle">"Te velike posodobitve ne smete zamuditi."</string>
+    <string maxwidth="" name="news_title">"Novosti"</string>
+    <string maxwidth="" name="news_v21"><b>Prenos datotek prek brezžičnega omrežja v računalnik in iz njega</b>: Prenos/upravljanje datotek v računalnik in iz njega</string>
+    <string maxwidth="" name="news_v23">"Izboljšana učinkovitost delovanja in odpravljene napake"</string>
+    <string maxwidth="" name="news_v31">"Program za analizo shrambe omogoča vpogled v vrste datotek, ki so zavzele ves prostor"</string>
+    <string maxwidth="" name="news_v32">"Kategorija za programe z novimi izboljšavami"</string>
+    <string name="news_v41">"Skrijte svoje zasebne datoteke v skrito omarico"</string>
+    <string name="news_v42">"Obnovite izbrisane datoteke iz koša"</string>
+    <string name="news_v43">"Odstranite podvojene datoteke s programom za analizo shrambe"</string>
+    <string name="news_v44">"Nova funkcija zaslona - Temni način"</string>
+    <string name="news_v45">"Izboljšano delovanje"</string>
+    <string name="news_v46">"Odpravljeni hrošči"</string>
+    <string name="newversion_description">"na voljo je posodobljena različica aplikacije Upravitelj datotek. Ali jo želite posodobiti zdaj?"</string>
+    <string name="newversion_title">"Nova različica"</string>
+    <string name="next">Naprej</string>
+    <string description="Dialog Button: no for dialog" maxwidth="" name="no">"Ne"</string>
+    <string name="no_device">"Naprava ne obstaja"</string>
+    <string name="no_items">"Ni elementov"</string>
+    <string name="no_network">"Ni omrežne povezave"</string>
+    <string description="The description to inform users when there is no internet access" maxwidth="-1" name="no_network_connection_message">"Preverite svojo povezavo in poskusite znova."</string>
+    <string name="no_network_info">"Za dostop do te aplikacije boste potrebovali internetno povezavo. V nastavitvah omogočite mobilno omrežje ali WiFi."</string>
+    <string name="no_password">"Vnesite vaše geslo"</string>
+    <string name="no_right">"Z vašim računom nimate zadostnih pravic za prijavo."</string>
+    <string name="no_share_folder">"Brez datotek v skupni rabi v tej napravi"</string>
+    <string description="Toast: No space to copy file and left on device" maxwidth="-1" name="no_space_fail">"Ni dovolj prostora v shrambi"</string>
+    <string name="no_user_exist">"Uporabniško ime ne obstaja"</string>
+    <string name="no_username">"Najprej vnesite uporabniško ime."</string>
+    <string name="notification_gdrive_redeem_content">"Pridobite ga ZDAJ v storitvi Google Drive. "</string>
+    <string name="notification_gdrive_redeem_title">"Brezplačnih 100 GB prostora za shranjevanje."</string>
+    <string name="occur_error_do_relogin">"Ponovno se prijavite v %s"</string>
+    <string description="Dialog Button: ok for dialog" maxwidth="" name="ok">"V redu"</string>
+    <string name="onedrive_account_only_one_alert">"Dodate lahko samo en račun OneDrive for ASUS. Svoj trenutni račun morate izbrisati, preden ga zamenjate z novim."</string>
+    <string name="open">Odpri</string>
+    <string description="Toast: open file fails" maxwidth="-1" name="open_fail">"Odpiranje datoteke ni uspelo."</string>
+    <string maxwidth="" name="open_source_license_description">"Licenčna obvestila za odprtokodno programsko opremo"</string>
+    <string maxwidth="" name="open_source_license_title">"Licence za odprto kodo"</string>
+    <string name="password">"Geslo"</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="paste">"Prilepi"</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="paste_exist_apply">"Uporabi za vse"</string>
+    <string description="Dialog Title: paste exist dialog title" maxwidth="" name="paste_exist_dialog">"Enako ime datoteke"</string>
+    <string description="Dialog Content: text in dialog. %s is variable string." maxwidth="" name="paste_exist_file">"Datoteka \"%s\" že obstaja."</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="paste_exist_replace">"Ali jo želite zamenjati z novim?"</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="paste_exist_to">"Do"</string>
+    <string description="Toast: paste fails" maxwidth="-1" name="paste_fail">"Lepljenje datotek ni uspelo."</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="paste_progress">"Lepim ..."</string>
+    <string name="paste_progress_title">"V teku je drugo opravilo kopiranja ... "</string>
+    <string description="Toast: paste success. %s is variable string." maxwidth="-1" name="paste_success">"Datoteke so dodane v \"%s\"."</string>
+    <string name="permanently_delete">"Trajno izbriši"</string>
+    <string description="Toast: operation permission deny" maxwidth="-1" name="permission_deny">"Dovoljenje zavrnjeno."</string>
+    <string name="permission_dialog_title">"Dovoljenje aplikacije"</string>
+    <string name="permission_essential">"Zahtevano je dovoljenje. Odprite nastavitve, da omogočite dovoljenja."</string>
+    <string name="permission_reason_contact">"Upravitelj datotek za prijavo v shrambo v oblaku potrebuje dostop do podatkov vašega računa."</string>
+    <string name="permission_reason_storage">"Upravitelj datotek za pravilno delovanje potrebuje dostop do pomnilnika vaše naprave"</string>
+    <string description="Toast: You may not select more than %s photos." maxwidth="-1" name="photo_selection_limit_number_toast">"Izberi največ %s fotografij"</string>
+    <string description="This is the title of the screen for setting user preferences." maxwidth="-1" name="preferences_title">"Nastavitve"</string>
+    <string name="previous_folder">"Prejšnja mapa"</string>
+    <string maxwidth="" name="privacy_policy">"Pravilnik o zasebnosti"</string>
+    <string name="privacy_policy_url">http://www.asus.com/us/Terms_of_Use_Notice_Privacy_Policy/Privacy_Policy/</string>
+    <string name="processing_picture">"Obdelovanje slike ..."</string>
+    <string name="processing_video">"Obdelovanje videoposnetka ..."</string>
+    <string name="promote_darkmode_message">"Spremenite prednosten nastavitve v %s"</string>
+    <string name="promote_darkmode_title">"Nova funkcija zaslona - Temni način"</string>
+    <string name="promotion_notification_content">"Preskusite \"Prenos datotek prek brezžičnega omrežja\"."</string>
+    <string name="promotion_notification_title">"Ali še vedno uporabljate kabel USB za prenos datotek?"</string>
+    <string name="publish">"Objavi"</string>
+    <string name="pullfreshlistview_footer_hint_normal">"Naloži več"</string>
+    <string name="pullfreshlistview_footer_hint_ready">"Spusti za nalaganje ostalega"</string>
+    <string name="pullfreshlistview_header_hint_loading">"Osvežujem ..."</string>
+    <string name="pullfreshlistview_header_hint_normal">"Povleci navzdol"</string>
+    <string name="pullfreshlistview_header_hint_ready">"Spusti za osvežitev"</string>
+    <string name="pullfreshlistview_header_last_time">"Čas zadnje osvežitve:"</string>
+    <string name="rate_later">"Pozneje"</string>
+    <string name="rate_now">"Oceni zdaj"</string>
+    <string description="rate us" maxwidth="-1" name="rate_us">Ocenite nas</string>
+    <string name="rating_dialog_message_v3_1">"Ali radi uporabljate %s? Ocenite nas v trgovini Google Play in nas navdihnite!"</string>
+    <string name="rating_dialog_message_v3_2">"Če imate predloge in povratne informacije, nam jih posredujte preko %s."</string>
+    <string name="recent_files_content_hint">"Najdite nedavne datoteke in jih izbrišite s svojim dovoljenjem."</string>
+    <string description="shortcut title: recently used files" name="recently_used" width="-1">"Nedavno"</string>
+    <string name="recommend_clean_master_msg">"Najbolj zaupanja vredna aplikacija na svetu za optimiziranje sistema Android, omogočanje hitrejšega delovanja, varčevanje z energijo in zaščito pred virusi. \nJo želite prenesti zdaj?"</string>
+    <string name="recommend_clean_master_title">"Priporočena aplikacija"</string>
+    <string name="recommend_scan_qr_code">"Obvestite prijatelje, naj prenesejo\n to aplikacijo tako, da optično preberejo to kodo QR."</string>
+    <string description="recruit beta user" maxwidth="-1" name="recruit_beta_user">Pridobite različico za predogled</string>
+    <string name="recycle_bin_content_hint">"Vsebuje vse izbrisane datoteke in mape."</string>
+    <string description="dialog title, key in the asus ID and PW to Login account" maxwidth="-1" name="regist_asus_id">"Ustvarjanje računa ASUS"</string>
+    <string description="ask user to enter email address to registe New Account" name="registe_id">"Ime računa"</string>
+    <string description="ask user to enter new password" name="registe_password">"Vnesite od 8 do 25 znakov"</string>
+    <string description="sign up registe action" name="registe_sign_up">"Prijava"</string>
+    <string description="network is unavailable, please try again" maxwidth="-1" name="remote_connected_error_hint">"Omrežje ni na voljo, poskusite znova kasneje"</string>
+    <string description="remote storage label" maxwidth="-1" name="remote_storage_title">"Shramba na daljavo"</string>
+    <string name="remove_favorite">Odstranjevanje iz priljubljenih</string>
+    <string name="remove_favorite_notice_more">Ali res želite odstraniti elemente (%d) iz mape s priljubljenimi?</string>
+    <string name="remove_favorite_notice_one">Ali res želite odstraniti »%s« iz mape s priljubljenimi?</string>
+    <string name="remove_favorite_success">Uspešno odstranjeno</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="rename">"Preimenuj"</string>
+    <string description="Dialog Title: rename dialog title" maxwidth="" name="rename_dialog">"Preimenuj"</string>
+    <string description="Toast: rename fails" maxwidth="-1" name="rename_fail">"Preimenovanje datoteke ni uspelo."</string>
+    <string name="rename_favorite_folder">Preimenuj mapo s priljubljenimi</string>
+    <string name="rename_favorite_notice">To ime mape s priljubljenimi že obstaja. Ali jo želite preimenovati?</string>
+    <string name="rename_favorite_success">Uspešno preimenovano in shranjeno med priljubljene</string>
+    <string description="Toast: rename success" maxwidth="-1" name="rename_success">"Preimenovanje datoteke uspešno."</string>
+    <string description="renaming file" name="renaming_file" width="-1">"Preimenovanje"</string>
+    <string name="replace">"Zamenjaj"</string>
+    <string description="Toast: restore fails" maxwidth="-1" name="restore_fail">"Obnovitev ni uspela"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="restore_progress">"Obnavljam ..."</string>
+    <string description="Toast: restore success" maxwidth="-1" name="restore_success_more">"Izbrane datoteke so obnovljene"</string>
+    <string description="Toast: restore success. %s is variable string." maxwidth="-1" name="restore_success_one">"\"%s\" je obnovljena"</string>
+    <string name="retention_notification_large_file">"Dodali ste %1$s velikih datotek. Oglejte si jih zdaj."</string>
+    <string name="retention_notification_recent_file">"Vaše nedavne datoteke zasedajo %1$s prostora. Oglejte si jih zdaj."</string>
+    <string name="saf_permission_tutorial_content">Upravitelj datotek ASUS zahteva dostop do vaše kartice SD. Ali mu dovolite dostop?</string>
+    <string name="saf_permission_tutorial_content_v2">"Opraviti morate določene korake, da dovolite %s pravice za dostop."</string>
+    <string name="saf_permission_tutorial_dialog">"Izvesti morate postopek, s katerim boste kartici SD podelili pravice za dostop. Ali želite nadaljevati?"</string>
+    <string name="saf_permission_tutorial_title">Zahteva za dostop do kartice SD</string>
+    <string name="saf_tutorial_step_one">Tapnite ikono »Meni« in nato »Pokaži kartico SD«.</string>
+    <string name="saf_tutorial_step_three">Tapnite »Izberi kartico SD«, da Upravitelju datotek ASUS omogočite dostop.</string>
+    <string name="saf_tutorial_step_three_v2">"Tapnite Izberi %s, da dovolite dostop do programa Upravitelj prenosov ASUS."</string>
+    <string name="saf_tutorial_step_two">Podrsnite ob levem robu zaslona, da prikažete predal, in nato tapnite kartico SD.</string>
+    <string name="saf_tutorial_step_two_v2">"Podrsajte na levo stran zaslona, da prikažete predal, nato pritisnite %s."</string>
+    <string name="saf_tutorial_title">Dovoljenje za upravljanje s kartico SD</string>
+    <string name="saf_tutorial_title_v2">"Dovoljenje za uporabo %s"</string>
+    <string description="account config dialog remind message" maxwidth="-1" name="samba_client_config_check">"Zapomni si uporabniško ime in geslo, naslednjič se poveži neposredno"</string>
+    <string name="samba_input_error">"uporabniško ime ali geslo ne moreta biti prazna!"</string>
+    <string name="samba_login_error">"Uporabniško ime ali geslo, ki ste ga vnesli je nepravilno."</string>
+    <string name="samba_storage_add_title">"Omrežni prostor"</string>
+    <string name="samba_storage_title">"SAMBA"</string>
+    <string name="scan_qr_code">"Optično preberi kodo QR"</string>
+    <string description="rate now" maxwidth="" name="scroll_up_toast">"Pomaknite se navzgor, da ocenite"</string>
+    <string name="sd_label">"OneDrive for ASUS"</string>
+    <string name="search_action">"Iskanje"</string>
+    <string description="search hint message" maxwidth="-1" name="search_hint">Vnesite ime datoteke</string>
+    <string description="cutstom action bar view title for search" maxwidth="-1" name="search_label">"Poišči datoteke"</string>
+    <string description="search dialog message" maxwidth="-1" name="search_progress">"Iščem ..."</string>
+    <string description=" text for search result" formatted="false" maxwidth="-1" name="search_result_title">"Iščem %s v %s: "</string>
+    <string name="select_album">"Izberi album"</string>
+    <string description="Menu Option: select all checkbox" maxwidth="" name="select_all">"Izberi vse"</string>
+    <string description="Title: select the folder" maxwidth="-1" name="select_folder">"Izberite mapo"</string>
+    <string name="select_folder_by_ok_button">"Pritisnite %1$s, da izberete to mapo"</string>
+    <string name="select_photo">"Izberi fotografijo"</string>
+    <string name="server">"Strežnik:"</string>
+    <string name="server_error">"Napaka strežnika"</string>
+    <string name="server_hint">"172.0.0.1/ShareFolder"</string>
+    <string name="server_title">"Strežnik"</string>
+    <string maxwidth="-1" name="service_not_available_in_your_country">"Ta predmet ni na voljo v vaši državi."</string>
+    <string name="set_password_title">"Ustvari kodo PIN"</string>
+    <string name="set_ring">"Nastavi kot zvonjenje"</string>
+    <string name="setting_display_group">"Zaslon"</string>
+    <string name="setting_notification_group">"Obvestilo"</string>
+    <string name="setting_notification_large_files">"Obvestilo o veliki datoteki"</string>
+    <string name="setting_notification_recent_files">"Obvestilo o nedavnih datotekah"</string>
+    <string name="setting_notification_wireless_transfer">"Obvestilo o brezžičnem prenosu"</string>
+    <string name="setting_view_group">"Ogled nastavitve"</string>
+    <string name="setting_view_hide_files">"Skrij sistemske datoteke"</string>
+    <string name="settings">"Nastavitve"</string>
+    <string description="This is the title of cache size" maxwidth="-1" name="settings_cache_size_title">"Velikost predpomnilnika"</string>
+    <string description="Remove all cache documents" maxwidth="-1" name="settings_clear_cache_info">"Odstrani vse dokumente v predpomnilniku"</string>
+    <string description="Clear the cache" maxwidth="-1" name="settings_clear_cache_title">"Počisti predpomnilnik"</string>
+    <string description="This is the title of clearing search history action for setting user preferences." maxwidth="-1" name="settings_clear_search_history">"Počisti zgodovino iskanja"</string>
+    <string name="settings_darkmode_message">"Uporabi Temni način"</string>
+    <string name="settings_description">"Lokalne mape in datoteke"</string>
+    <string description="This is the title of documents cache" maxwidth="-1" name="settings_documents_cache">"Predpomnilnik dokumentov"</string>
+    <string description="recommend text" maxwidth="" name="settings_encourage_us_detail">"Če uživate v uporabi %s, dajte oceno 5 zvezdic v Trgovini Play. S tem nas boste spodbujali pri nadaljnjih izboljšavah izdelka!"</string>
+    <string description="This is the title of hiding system files action for setting user preferences." maxwidth="-1" name="settings_hide_system_files">"Skrij sistemske datoteke"</string>
+    <string description="This is the title of moving to the trash can." maxwidth="-1" name="settings_moved_to_the_trash_can">"Premaknjeno v koš"</string>
+    <string description="Remove account" maxwidth="-1" name="settings_remove_account">"Odstrani račun"</string>
+    <string description="Set the cache size to %s" maxwidth="-1" name="settings_set_cache_size">"Velikost predpomnilnika je nastavljena na \"%s\""</string>
+    <string description="This is the title of space used for setting user preferences." maxwidth="-1" name="settings_space_used">"Porabljen prostor"</string>
+    <string description="This is the title of trash can information for setting user preferences." maxwidth="-1" name="settings_trash_can">"Koš"</string>
+    <string description="This is the title of user name" maxwidth="-1" name="settings_user_name">"Uporabniško ime"</string>
+    <string name="setup">"Nastavitev"</string>
+    <string name="setup_account_description">"Za pridobivanje kode PIN nastavite račun za elektronsko pošto"</string>
+    <string name="setup_account_no_internet_connection">"Brez povezave z internetom"</string>
+    <string name="setup_account_skip">"Preskoči"</string>
+    <string name="setup_account_title">"Pridobi kodo PIN"</string>
+    <string name="setup_fingerprint_message">"Želite omogočiti prstni odtis za odklep? Skrita omarica podpira preverjanje prstnega odtisa. Za začetek odčitajte svoj prstni odtis v nastavitvah."</string>
+    <string name="setup_my_digital_code">"Nastavi kodo PIN"</string>
+    <string name="share_more">"Drugi"</string>
+    <string name="share_with_friend">"Delite to aplikacijo s svojimi prijatelji"</string>
+    <string description="Context Menu: options of context menu: share folder via Wi-Fi Direct" maxwidth="" name="shared_folder">"Skupna raba prek Wi-Fi Direct"</string>
+    <string description="shortcit title" maxwidth="-1" name="short_cuts_title">"Bližnjica"</string>
+    <string name="shortcut_hint">"Tapnite in pridržite kategorijo ali mapo, da ustvarite bližnjico v zaganjalniku."</string>
+    <string description="check if user want to show password" name="show_passwd">"Pokaži geslo"</string>
+    <string description="show when sign in failed" maxwidth="-1" name="signin_failed">"Vpis ni uspel"</string>
+    <string description="signout account" name="signout_account" width="-1">"Prekini povezavo"</string>
+    <string name="single_drm_file_forbidden_operation">"To dejanje je prepovedano zaradi zaščite DRM."</string>
+    <string description="button text for sort file by size" maxwidth="-1" name="size">"Velikost"</string>
+    <string description="button text for sort file by size ascending" maxwidth="-1" name="size_ascending">"Velikost (majhno-veliko)"</string>
+    <string description="button text for sort file by size descending" maxwidth="-1" name="size_descending">"Velikost (majhno-veliko)"</string>
+    <string name="ssl_err_msg_info">"Varna povezava s strežnikom ni mogoča. Ali želite nadaljevati?"</string>
+    <string name="ssl_err_msg_title">"Napaka povezave SSL"</string>
+    <string description="shortcut title: my favorite files" name="starred" width="-1">"Z zvezdico"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="storage_type_cloud">"Shramba v oblaku"</string>
+    <string name="storage_type_cloud_att">"Omrežna mapa"</string>
+    <string name="storage_type_local">"Lokalni pomnilnik"</string>
+    <string name="storage_type_shortcut">"Bližnjica"</string>
+    <string name="storagetype_add_account">"Dodaj račun Google"</string>
+    <string name="tap_to_exit">Za izhod znova tapnite</string>
+    <string name="target_directory_is_child_of_source">"Operacije ni mogoče končati, ker je ciljni imenik podrejen izvornemu imeniku."</string>
+    <string description="Toast: target file exists" maxwidth="-1" name="target_exist">"Ciljna datoteka obstaja."</string>
+    <string description="Toast: target folder exists. %s is variable string." maxwidth="-1" name="target_folder_exist">"Mapa \"%s\" že obstaja."</string>
+    <string description="" maxwidth="" name="tell_friend">"Priporočite prijatelju"</string>
+    <string maxwidth="" name="terms_of_service">"Obvestilo o pogojih uporabe"</string>
+    <string maxwidth="" name="terms_of_service_url">http://www.asus.com/us/Terms_of_Use_Notice_Privacy_Policy/Official-Site/</string>
+    <string description="title" maxwidth="-1" name="title">"Pravne informacije:"</string>
+    <string name="toast_auto_lock_notify_message">"Zakleni skrito omarico, ko je naprava zaklenjena"</string>
+    <string description="Toast: The item(s) has been copied completely" maxwidth="-1" name="toast_drag_copied_items">"Element(i) je/so kopiran(i) v celoti"</string>
+    <string description="Toast: The item(s) has been moved completely" maxwidth="-1" name="toast_drag_moved_items">"Element(i) je/so v celoti premaknjen(i)"</string>
+    <string description="Toast: Sorry, copy files complete but cut fail" maxwidth="-1" name="toast_warning_copy_comple_cut_fail">"Nažalost je kopiranje končano, a izbris starih datotek ni uspelo"</string>
+    <string description="Toast: Sorry, copy folders has not been supported" maxwidth="-1" name="toast_warning_copy_folders">"Nažalost kopiranje map ni podprto"</string>
+    <string maxwidth="35" name="toolbar_item_title_encourage_us">Podprite nas</string>
+    <string name="tools_clean_master">"Odstrani neželeno vsebino"</string>
+    <string name="tools_file_transfer">"Prenos datotek v računalnik"</string>
+    <string name="tools_hidden_zone">"Skrita omarica"</string>
+    <string name="tools_recycle_bin">"Koš"</string>
+    <string name="tools_storage_analyzer">"Program za analizo shrambe"</string>
+    <string name="tools_tip_animation">"Povlecite navzgor za orodja"</string>
+    <string name="tools_zenui_instant_update">"Takojšna posodobitev"</string>
+    <string description="shortcut title: trash can" name="trash_can" width="-1">"Koš"</string>
+    <string maxwidth="-1" name="trash_info_deleted">"Podatki izbrisani: "</string>
+    <string maxwidth="-1" name="trash_info_path">"Izvirna pot: "</string>
+    <string description="label for trending searches" maxwidth="-1" name="trending_searches">"Najbolj priljubljena iskanja"</string>
+    <string name="tutorial_analyzer_content">"Analizator shrambe omogoča pregled datotek, ki zasedajo vaš prostor na disku."</string>
+    <string name="tutorial_category_content">"Iskanje datotek še ni bilo lažje s pogledom po kategoriji programa Upravitelj datotek ASUS."</string>
+    <string name="tutorial_category_title">"Pogled po kategoriji"</string>
+    <string name="tutorial_cloud_content">"Dostop do datotek z vašega pametnega telefona, osebnega računalnika in shramb v oblaku."</string>
+    <string name="tutorial_cloud_title">"Shramba v oblaku"</string>
+    <string name="tutorial_done">Končano</string>
+    <string name="tutorial_page_content_long_press">Če želite izbrati člen, ga tapnite in podržite, nato tapnite ikono \"Meni\" in prikažejo se ostali možni ukazi.</string>
+    <string name="tutorial_page_four_content">Nastavite pogosto uporabljeno mapo kot priljubljeno, da omogočite hiter in preprost dostop do nje.</string>
+    <string name="tutorial_page_four_title">Priljubljene</string>
+    <string name="tutorial_page_one_content">Upravitelj datotek ASUS vam omogoča preprosto upravljanje datotek, ki so shranjene v napravi, zunanji napravi, lokalnem omrežju ali shrambah v oblaku.</string>
+    <string name="tutorial_page_one_title">"Upravitelj datotek ASUS"</string>
+    <string name="tutorial_page_three_content">Podrsnite po elementu v desno, da prikažete dejanja, na primer »Dodaj med priljubljene«, »Preimenuj«, »Premakni v«, »Kopiraj v« in druge možnosti za upravljanje datotek.</string>
+    <string name="tutorial_page_three_title">Priročni meni s seznamom dejanj</string>
+    <string name="tutorial_page_title_long_press">Prikaži meni ukazov</string>
+    <string name="tutorial_page_two_content">Preproste kategorije, ki vam omogočajo hiter dostop do datotek v lokalnem pomnilniku.</string>
+    <string name="tutorial_page_two_title">Domača stran</string>
+    <string name="tutorial_skip">Preskoči</string>
+    <string description="button text for sort file by type" maxwidth="-1" name="type">"Tip"</string>
+    <string description="document type" maxwidth="-1" name="type_abu">"Varnostna kopija programa Asus"</string>
+    <string description="document type" maxwidth="-1" name="type_apk">"Program Android"</string>
+    <string description="document type" maxwidth="-1" name="type_audio">"Zvok"</string>
+    <string description="document type" maxwidth="-1" name="type_book">"E-knjiga"</string>
+    <string name="type_dialog_audio">"Zvok"</string>
+    <string name="type_dialog_image">"Slika"</string>
+    <string name="type_dialog_text">"Besedilo"</string>
+    <string name="type_dialog_title">"Odpri kot"</string>
+    <string name="type_dialog_video">"Video"</string>
+    <string description="document type" maxwidth="-1" name="type_directory">"Imenik"</string>
+    <string description="document type" maxwidth="-1" name="type_document">"Dokument"</string>
+    <string description="document type" maxwidth="-1" name="type_file">"Datoteka"</string>
+    <string description="document type" maxwidth="-1" name="type_image">"Slika"</string>
+    <string description="document type" maxwidth="-1" name="type_playlist">"Seznam predvajanja"</string>
+    <string description="document type" maxwidth="-1" name="type_rar">"RAR"</string>
+    <string description="document type" maxwidth="-1" name="type_video">"Video"</string>
+    <string description="document type" maxwidth="-1" name="type_zip">"Zip"</string>
+    <string name="ud_sdk_all_app_update">"Vse aplikacije so v trenutno dostopni različici."</string>
+    <string name="ud_sdk_asus_app_slogan">uporabne aplikacije</string>
+    <string name="ud_sdk_downloads">Prenosi</string>
+    <string name="ud_sdk_free_download">Brezplačen prenos</string>
+    <string name="ud_sdk_important_remind_text">"Pomembno"</string>
+    <string name="ud_sdk_install">Namesti</string>
+    <string name="ud_sdk_more_zen_family">Odkrijte več aplikacij ZenUI</string>
+    <string name="ud_sdk_no_network_connection_content">Podatkov ni bilo mogoče posodobiti. Preverite svoje omrežne nastavitve.</string>
+    <string name="ud_sdk_no_network_connection_title">Ni omrežne povezave</string>
+    <string name="ud_sdk_open">Odpri</string>
+    <string name="ud_sdk_update">Posodobi</string>
+    <string maxwidth="-1" name="ud_sdk_update_sdk">Družina ZenUI</string>
+    <string maxwidth="-1" name="ud_sdk_update_sdk_asus">Takojšnja posodobitev ZenUI</string>
+    <string name="ud_sdk_wifi_settings">Nastavitve Wi-Fi</string>
+    <string name="uf_sdk_already_give_5star">"Sem že podelil(-a) 5 zvezdic"</string>
+    <string description="%d is a number, don&apos;t translate" name="uf_sdk_article_read_count">"%d ogledov"</string>
+    <string name="uf_sdk_attachment_format_warning">"Napačna oblika datoteke. Priložite lahko samo slikovne datoteke"</string>
+    <string name="uf_sdk_attachment_total_size">"Skupaj"</string>
+    <string name="uf_sdk_attachment_warning">"Velikost priloge presega dovoljeno omejitev"</string>
+    <string maxwidth="-1" name="uf_sdk_cancel_btn_content">"Prekliči"</string>
+    <string name="uf_sdk_choosertitle_sharevia">"Skupna raba prek"</string>
+    <string name="uf_sdk_connection_error_msg">"Strežnik je prekinil povezavo. Poskusite znova pozneje."</string>
+    <string name="uf_sdk_connection_error_title">"Napaka pri povezavi"</string>
+    <string name="uf_sdk_discard">"Zavrzi"</string>
+    <string name="uf_sdk_email_illigal">"E-poštni naslov je že v uporabi"</string>
+    <string maxwidth="-1" name="uf_sdk_empty_notification">"Prazno :)"</string>
+    <string name="uf_sdk_faq">"Pogosta vprašanja"</string>
+    <string name="uf_sdk_feedback_and_help">"Povratne informacije in pomoč"</string>
+    <string name="uf_sdk_forum_description">"Pridružite se pogovoru z uporabniki izdelkov ASUS ter delite svoja vprašanja in rešitve z drugimi."</string>
+    <string maxwidth="-1" name="uf_sdk_grant_permission_title">Odobrite dovoljenje"</string>
+    <string name="uf_sdk_help">"Pomoč"</string>
+    <string name="uf_sdk_instant_answer_question">"So vam ti odgovori pomagali?"</string>
+    <string name="uf_sdk_like">"Všeč mi je"</string>
+    <string maxwidth="-1" name="uf_sdk_message">"Obvestila"</string>
+    <string name="uf_sdk_msg_bad_email_format">"E-poštni naslov ni veljaven, prosimo vnesite ga ponovno."</string>
+    <string name="uf_sdk_msg_confirm_discard_topic">"Vaš osnutek ne bo shranjen. Ga želite kljub temu izbrisati?"</string>
+    <string name="uf_sdk_msg_confirm_discard_topic_title">"Želite izbrisati objavo?"</string>
+    <string name="uf_sdk_msg_subscribe">"Obvestila glede naročene teme bodo posredovana na vaš e-poštni naslov."</string>
+    <string name="uf_sdk_msg_subscribe_success">"Naročnina je bila uspešno dodana"</string>
+    <string name="uf_sdk_msg_ticket_created">"Vaše povratne informacije so bile uspešno posredovane podjetju ASUS"</string>
+    <string name="uf_sdk_msg_topic_created">"Objava je bila uspešno objavljena"</string>
+    <string name="uf_sdk_msg_unsubscribe">"Odjava od naročnine je bila uspešna"</string>
+    <string name="uf_sdk_name_hint">"Vnesite svoje ime"</string>
+    <string name="uf_sdk_name_illigal">"Uporabniško ime je že v uporabi"</string>
+    <string name="uf_sdk_network_error">"Ni internetne povezave, preverite nastavitve omrežja."</string>
+    <string description="zenui news" maxwidth="" name="uf_sdk_news">"Novice"</string>
+    <string name="uf_sdk_no_network_connection_content">"Podatkov ni mogoče posodobiti. Preverite nastavitve omrežja."</string>
+    <string name="uf_sdk_no_network_connection_title">"Ni omrežne povezave"</string>
+    <string name="uf_sdk_nothing_found">"Brez zadetkov"</string>
+    <string name="uf_sdk_notice">"Obvestilo"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category1">"Naznanila"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category2">"Vodniki in namigi"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category3">"Oglaševanje"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category4">"Dogodki"</string>
+    <string name="uf_sdk_publish_an_topic">"Objava nove teme"</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_rate_now">"Oceni zdaj"</string>
+    <string description="%s is AP name, don&apos;t translate" maxWidth="" name="uf_sdk_rate_us_detail">"Če vam je aplikacija %s všeč, jo ocenite s 5 zvezdicami v Trgovini Play."</string>
+    <string maxWidth="" name="uf_sdk_rate_us_detail_new">"S podporo v obliki ocene s 5 zvezdicami nas boste spodbudili k nadaljnjemu delu."</string>
+    <string maxWidth="" name="uf_sdk_rate_us_rating">"Ocena s 5 zvezdicami"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title">"Ocenite nas!"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title_new">"Spodbudite nas!"</string>
+    <string description="Menu item for userFeedback sdk" maxwidth="-1" name="uf_sdk_report_bug">Poročilo o napakah</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_scroll_up_toast">"Pomaknite se navzgor, da ocenite"</string>
+    <string name="uf_sdk_search_hint">"Pomoč pri iskanju"</string>
+    <string name="uf_sdk_select_common_bug">"Izberite splošno napako"</string>
+    <string name="uf_sdk_send_feedback">"Pošlji povratne informacije"</string>
+    <string name="uf_sdk_send_feedback_help">"Vaše povratne informacije in e-poštni naslov bodo posredovani podjetju ASUS. Ekipa za tehnično podporo bo z vami navezala stik prek e-pošte."</string>
+    <string maxwidth="-1" name="uf_sdk_setting_btn_content">"Nastavitve"</string>
+    <string description="recommend title" maxwidth="" name="uf_sdk_settings_encourage_us_title">"Spodbudite nas"</string>
+    <string maxwidth="-1" name="uf_sdk_storage_permission_description">"Ta funkcija potrebuje dovoljenje za pomnilnika, da dostopa do večpredstavnostnih datotek. \n\nČe želite omogočiti to funkcijo, tapnite gumb Nastavitve, da s tem odprete stran z nastavitvami za, nato nastavite \"Informacije o programu\" > \"Dovoljenja\", da dodelite dovoljenje.\n"</string>
+    <string name="uf_sdk_submit_topic">"Objavi"</string>
+    <string name="uf_sdk_subscribe_dialog_title">"Naročite se na to temo"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_answered">"Odgovorjeno"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_completed">"dokončano"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_declined">"zavrnjeno"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_implemented">"Uvedeno"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_planned">"načrtovano"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_under_review">"v pregledu"</string>
+    <string name="uf_sdk_thanks_for_your_feedback">"Zahvaljujemo se vam za povratno informacijo."</string>
+    <string description="%s is a application name, don&apos;t translate" name="uf_sdk_ticket_hint">"Vnos povratne informacije za %s"</string>
+    <string name="uf_sdk_title_topic">"Tema"</string>
+    <string name="uf_sdk_topic">"Tema"</string>
+    <string name="uf_sdk_topic_description_heading">"Opis"</string>
+    <string name="uf_sdk_topic_description_hint">"Podroben opis teme"</string>
+    <string name="uf_sdk_topic_filter">"TEME"</string>
+    <string name="uf_sdk_topic_form_help">"Ko objavite novo temo, se bodo lahko drugi uporabniki na njo naročili in objavljali svoje komentarje. Poleg tega boste obveščeni prek e-pošte, ko se bo razvojna skupina podjetja ASUS odzvala na vašo temo."</string>
+    <string name="uf_sdk_topic_form_title">"Objava nove teme"</string>
+    <string name="uf_sdk_topic_text_heading">"Forum"</string>
+    <string name="uf_sdk_topic_text_hint">"Vnesite naslov teme"</string>
+    <string name="uf_sdk_topic_title">"Naslov"</string>
+    <string name="uf_sdk_translation_10117605">"Težava pri prevajanju"</string>
+    <string name="uf_sdk_translation_117562">"Vrsta povratne informacije"</string>
+    <string name="uf_sdk_translation_2529543">"Poročilo o napakah"</string>
+    <string name="uf_sdk_translation_2529544">"Drugi"</string>
+    <string name="uf_sdk_translation_2530478">"Predlog"</string>
+    <string name="uf_sdk_unhelpful_article_message_question">"Želite poslati povratne informacije razvojni skupini podjetja ASUS?"</string>
+    <string name="uf_sdk_user_forum">"Forum uporabnikov"</string>
+    <string name="uf_sdk_warning">"Opozorilo"</string>
+    <string name="uf_sdk_wifi_settings">"Nastavitve omrežja Wi-Fi"</string>
+    <string name="uf_sdk_wlan_settings">"Nastavitve omrežja WLAN"</string>
+    <string name="uf_sdk_write_your_feedback">"Tukaj vnesite povratno informacijo"</string>
+    <string name="uf_sdk_your_draft_will_be_discarded">"Vaš osnutek bo zavržen."</string>
+    <string description="description for empty search result" maxwidth="-1" name="unable_to_find_artlcles">"Ne najdem \u0022%s\u0022 povezanih člankov"</string>
+    <string description="string indicating the length units in milli-meters" maxwidth="-1" name="unit_mm">"mm"</string>
+    <string description="Context Menu: options of context menu: unshare folder" maxwidth="-1" name="unshared_folder">"Prekliči skupno rabo"</string>
+    <string name="unsupported_area">"To območje ni podprto"</string>
+    <string description="toast message: extract files fail" maxwidth="-1" name="unzip_fail">"Ekstrahiranje datotek ni uspelo"</string>
+    <string description="extract file dialog message" maxwidth="-1" name="unzip_progress_msg">"Ekstrahiram ..."</string>
+    <string description="toast message: extract files successly" maxwidth="-1" name="unzip_success">"Ekstrahiranje datotek je uspelo"</string>
+    <string name="update">"Posodobi"</string>
+    <string name="update_fb_app">"Različica aplikacije Facebook za mobilne naprave ni posodobljena. Namestite najnovejšo različico iz trgovine Google Play."</string>
+    <string name="upgrade_notification_content">Oglejte si datoteke, razvrščene po vrsti, na našem prenovljenem začetnem zaslonu.</string>
+    <string name="upgrade_notification_title">Preizkusite novega Upravitelja datotek zdaj!</string>
+    <string name="upload_complete">"Prenos je dokončan"</string>
+    <string name="upload_complete_dialog_message">"Prenos je bil uspešno dokončan."</string>
+    <string name="upload_complete_dialog_title">"Dokončano"</string>
+    <string name="upload_failed">"Prenos ni uspel"</string>
+    <string name="upload_picture_toast">"Vaša slika bo prenesena. Napredek lahko preverite v oknu z obvestili."</string>
+    <string name="upload_toast">"Vaš videoposnetek bo prenesen. Napredek lahko preverite v oknu z obvestili."</string>
+    <string name="uploading_picture">"Prenašanje slike"</string>
+    <string name="uploading_video">"Prenašanje videoposnetka"</string>
+    <string name="user">"Uporabniško ime"</string>
+    <string name="user_hint">"skrbnik"</string>
+    <string name="uv_admin_response_format">"Odgovor administratorja: %1$s"</string>
+    <string name="uv_all_articles">"Vsi članki"</string>
+    <string name="uv_all_results_filter">"VSE"</string>
+    <string name="uv_android_sdk">Android SDK</string>
+    <string name="uv_article_browse_question">"Vam je ta članek pomagal?"</string>
+    <string name="uv_article_instant_answer_question">"So vam ti odgovori na pogosta vprašanja pomagali?"</string>
+    <string name="uv_cancel">"Prekliči"</string>
+    <string name="uv_category">"Kategorija"</string>
+    <string name="uv_close">"Zapri"</string>
+    <string name="uv_comment_hint">"Vnesite svoj komentar"</string>
+    <string name="uv_confirm">"Potrdi"</string>
+    <string name="uv_contact_continue_button">"Še vedno želim poslati sporočilo"</string>
+    <string name="uv_contact_hint">"Vnesite vprašanje ali mnenje"</string>
+    <string name="uv_contact_us">"Stik z nami"</string>
+    <string name="uv_display_name">"Prikaži ime"</string>
+    <string name="uv_email_address">"E-poštni naslov"</string>
+    <string name="uv_email_address_hint">"vaš e-poštni naslov (obvezno)"</string>
+    <string name="uv_error">"Napaka"</string>
+    <string name="uv_failed_signin_error">"Nepravilni e-poštni naslov ali geslo"</string>
+    <string name="uv_forgot_password">"Pozabljeno geslo"</string>
+    <string name="uv_helpful_article_message_question">"Ali še vedno želite poslati sporočilo?"</string>
+    <string name="uv_i_want_this">"To želim!"</string>
+    <string name="uv_idea_description_heading">"Podroben opis vaše ideje"</string>
+    <string name="uv_idea_description_hint">"(neobvezno)"</string>
+    <string name="uv_idea_text_heading">"Predlagam vam ..."</string>
+    <string name="uv_loading">"Nalaganje ..."</string>
+    <string name="uv_matching_articles">"Najdeni članki"</string>
+    <string name="uv_matching_articles_and_ideas">"Podobni članki in ideje"</string>
+    <string name="uv_menu_attach">"Priloži"</string>
+    <string name="uv_menu_search">"Iskanje"</string>
+    <string name="uv_msg_bad_email_format">"Vnesite veljaven e-poštni naslov."</string>
+    <string name="uv_msg_comment_posted">"Vaš komentar je bil poslan"</string>
+    <string name="uv_msg_confirm_discard_message">"Ali ste prepričani, da želite sporočilo zavreči?"</string>
+    <string name="uv_msg_custom_fields_validation">"Prosimo, da izpolnite vsa zahtevana polja."</string>
+    <string name="uv_msg_forgot_password">"E-pošta glede pozabljenega gesla je bila poslala"</string>
+    <string name="uv_msg_idea_created">"Vaš predlog je bil ustvarjen"</string>
+    <string name="uv_msg_ticket_created">"Vaše sporočilo je bilo poslano"</string>
+    <string name="uv_msg_user_identity_validation">"Vnesite svoj e-poštni naslov"</string>
+    <string name="uv_name_hint">"Anonimno"</string>
+    <string name="uv_network_error">"Prišlo je do težave pri povezovanju s storitvijo UserVoice"</string>
+    <string name="uv_nevermind">"Prekliči"</string>
+    <string name="uv_new_comment">"Nov komentar"</string>
+    <string name="uv_next">"Naprej"</string>
+    <string name="uv_no">"Ne"</string>
+    <string name="uv_none_of_these_help">"Nič od tega ne pomaga"</string>
+    <string name="uv_password">"Geslo"</string>
+    <string name="uv_password_dialog_title">"Vnesite svoje geslo"</string>
+    <string name="uv_portal_title">"Pomoč"</string>
+    <string name="uv_post_a_comment">"Objavi komentar"</string>
+    <string name="uv_post_comment">"Objavi komentar"</string>
+    <string name="uv_posted_by_format">"Objavil %1$s dne %2$s"</string>
+    <string name="uv_powered_by_uservoice">"Uporablja tehnologijo UserVoice"</string>
+    <string name="uv_ranked">"Na %1$s. mestu"</string>
+    <string name="uv_remove_votes">"Odstrani glasove"</string>
+    <string name="uv_select_none">"(brez)"</string>
+    <string name="uv_select_one">"Izberi eno"</string>
+    <string name="uv_send_message">"Pošlji sporočilo"</string>
+    <string name="uv_signin_dialog_ok">"Vpis"</string>
+    <string name="uv_signin_dialog_title">"Vpis"</string>
+    <string name="uv_status_format">"Stanje: %1$s"</string>
+    <string name="uv_submit_idea">"Pošlji idejo"</string>
+    <string name="uv_subscribe">"Naroči se"</string>
+    <string name="uv_subscribe_dialog_title">"Naročite se na ta predlog"</string>
+    <string name="uv_suggestion_instant_answer_question">"Vam je ta ideja pomagala?"</string>
+    <string name="uv_thanks">"Hvala."</string>
+    <string name="uv_unhelpful_article_message_question">"Nam želite poslati sporočilo?"</string>
+    <string name="uv_value">"Vrednost"</string>
+    <string name="uv_very_yes">"Da!"</string>
+    <string name="uv_yes">"Da"</string>
+    <string name="uv_your_email_address">"Vaš e-poštni naslov"</string>
+    <string name="uv_your_name">"Vaše ime"</string>
+    <string description="version" maxwidth="-1" name="version">"Različica"</string>
+    <string name="version_text">različica</string>
+    <string name="wait">"Prosimo počakajte\u2026"</string>
+    <string name="warning_stophttpserver">"Povezava med mobilno napravo in računalnikom bo prekinjena. Ali želite zapreti aplikacijo?"</string>
+    <string name="whats_new_label">Novosti</string>
+    <string description="message for request to connect Network" name="wifi_p2p_connection_msg" width="-1">"Vzpostavite omrežno povezavo za uporabo storitev v oblaku."</string>
+    <string description="title for request to connect Network" name="wifi_p2p_connection_title" width="-1">"Vzpostavite omrežno povezavo"</string>
+    <string description="message for request to turn on Wi-Fi" name="wifi_p2p_turn_on_wifi_msg" width="-1">"Vklopite Wi-Fi za uporabo storitev Wi-Fi Direct. Vklopim Wi-Fi zdaj?"</string>
+    <string description="title for turn on WiFi dialog" name="wifi_p2p_turn_on_wifi_title" width="-1">"Vklopi Wi-Fi"</string>
+    <string description="search" maxwidth="-1" name="wifidirect_action_bar_scan">"Iskanje"</string>
+    <string description="Available devices" maxwidth="-1" name="wifidirect_available_devices">"Razpoložljive naprave"</string>
+    <string description="Do you want to connect to device" maxwidth="-1" name="wifidirect_connect_hint">"Ali se želite povezati z"</string>
+    <string description="Dialog title text: Invitation to connect" maxwidth="-1" name="wifidirect_connect_hint_title">"Povabilo za povezavo"</string>
+    <string description="Dialog title text: Wi-Fi Direct connecting" maxwidth="-1" name="wifidirect_connecting_hint_title">"Povezujem Wi-Fi Direct ..."</string>
+    <string description="connectted" maxwidth="-1" name="wifidirect_connectted">"Povezano"</string>
+    <string description=">Do you want to disconnect" maxwidth="-1" name="wifidirect_disconnect_hint">"Ali želite preklicati povezavo z"</string>
+    <string description="Disconnect Wi-Fi Direct" maxwidth="-1" name="wifidirect_disconnect_hint_title">"Prekliči povezavo Wi-Fi Direct"</string>
+    <string description="peer devices infomation" maxwidth="-1" name="wifidirect_peer_device_info">"Za sprejem povabila Wi-Fi Direct poskrbite, da je povezana naprava ostane na strani \"Enakovredne naprave\" v Upravitelju datotek."</string>
+    <string description="peer devices title" maxwidth="-1" name="wifidirect_peer_device_title">"Enakovredne naprave"</string>
+    <string description="searching" maxwidth="-1" name="wifidirect_scanning">"Iščem ..."</string>
+    <string description="Search Wi-Fi Direct device" maxwidth="-1" name="wifidirect_storage_title">"Poišči napravo Wi-Fi Direct"</string>
+    <string description="click to connect" maxwidth="-1" name="wifidirect_touch_to_connect">"Kliknite za povezavo"</string>
+    <string name="yandex_account_only_one_alert">"Dodate lahko samo en račun Yandex. Svoj trenutni račun morate izbrisati, preden ga zamenjate z novim."</string>
+    <string name="yes">"Da"</string>
+    <string name="zenui_update">"Takojšnja posodobitev ZenUI"</string>
+    <string description="toast message: Compress files fail" maxwidth="-1" name="zip_fail">"Stiskanje datotek ni uspelo"</string>
+    <string description="compress dialog message" maxwidth="-1" name="zip_progress_msg">"V teku ..."</string>
+    <string description="toast message: Compress files successly" maxwidth="-1" name="zip_success">"Stiskanje datotek je uspelo"</string>
+</resources>

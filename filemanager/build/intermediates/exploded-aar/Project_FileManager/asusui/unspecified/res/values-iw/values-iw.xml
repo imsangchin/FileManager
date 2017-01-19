@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="alarm_set">
+        <item msgid="6450913786084215050">"ההתראה הוגדרה לעוד פחות מדקה מעכשיו."</item>
+        <item msgid="6002066367368421848">"ההתראה הוגדרה לעוד <ns1:g id="DAYS">%1$s</ns1:g> מעכשיו."</item>
+        <item msgid="8824719306247973774">"ההתראה הוגדרה לעוד <ns1:g id="HOURS">%2$s</ns1:g> מעכשיו."</item>
+        <item msgid="8182406852935468862">"ההתראה הוגדרה לעוד <ns1:g id="DAYS">%1$s</ns1:g> ו-<ns1:g id="HOURS">%2$s</ns1:g> מעכשיו."</item>
+        <item msgid="2532279224777213194">"הוגדרה התראה לעוד <ns1:g id="MINUTES">%3$s</ns1:g> דקות."</item>
+        <item msgid="5936557894247187717">"ההתראה הוגדרה לעוד <ns1:g id="DAYS">%1$s</ns1:g> ו-<ns1:g id="MINUTES">%3$s</ns1:g> מעכשיו."</item>
+        <item msgid="9115697840826129603">"ההתראה הוגדרה לעוד <ns1:g id="HOURS">%2$s</ns1:g> ו-<ns1:g id="MINUTES">%3$s</ns1:g> מעכשיו."</item>
+        <item msgid="2332583385137381060">"ההתראה הוגדרה לעוד <ns1:g id="DAYS">%1$s</ns1:g>, <ns1:g id="HOURS">%2$s</ns1:g> ו-<ns1:g id="MINUTES">%3$s</ns1:g> מעכשיו."</item>
+    </string-array>
+    <string name="asus_commonui_activity_chooser_view_see_all">"הצג הכל"</string>
+    <string name="asus_commonui_activity_resolver_use_always">"תמיד"</string>
+    <string name="asus_commonui_activity_resolver_use_once">"רק פעם אחת"</string>
+    <string name="asus_commonui_activitychooserview_choose_application">"בחר אפליקציה"</string>
+    <string name="asus_commonui_activitychooserview_choose_application_error">
+        "לא ניתן היה להפעיל את <ns1:g id="APPLICATION_NAME">%s</ns1:g>"
+    </string>
+    <string name="asus_commonui_cancel_label">"ביטול"</string>
+    <string name="asus_commonui_chooseActivity">"בחירת פעולה"</string>
+    <string msgid="3968620852217927702" name="asus_commonui_day_picker_description">"בחירת ימים בחודש בתצוגת רשת"</string>
+    <string msgid="6908431551612331381" name="asus_commonui_deleted_key">"<ns1:g id="KEY">%1$s</ns1:g> נמחק"</string>
+    <string name="asus_commonui_done_label">"אישור"</string>
+    <string msgid="7586639618712934060" name="asus_commonui_hour_picker_description">"מחוון שעות מעגלי"</string>
+    <string msgid="2674929164900463786" name="asus_commonui_item_is_selected">"בחרת <ns1:g id="ITEM">%1$s</ns1:g>"</string>
+    <string msgid="6024811202872705251" name="asus_commonui_minute_picker_description">"מחוון דקות מעגלי"</string>
+    <string name="asus_commonui_noApplications">"אין אפליקציות שיכולות לבצע פעולה זו."</string>
+    <string name="asus_commonui_no_url_handler">לא נמצאה אפליקציה לפתיחת כתובת האתר</string>
+    <string name="asus_commonui_privacy_policy">מדיניות פרטיות</string>
+    <string name="asus_commonui_privacy_policy_url">http://www.asus.com/IL/Terms_of_Use_Notice_Privacy_Policy/Privacy_Policy</string>
+    <string msgid="3973338219107019769" name="asus_commonui_select_day">"בחר חודש ויום"</string>
+    <string msgid="7651068754188418859" name="asus_commonui_select_hours">"בחר שעות"</string>
+    <string msgid="8327182090226828481" name="asus_commonui_select_minutes">"בחר דקות"</string>
+    <string msgid="2603330600102539372" name="asus_commonui_select_year">"בחר שנה"</string>
+    <string name="asus_commonui_shareactionprovider_share_with">"שתף עם"</string>
+    <string name="asus_commonui_shareactionprovider_share_with_application">
+        "שתף עם <ns1:g id="APPLICATION_NAME">%s</ns1:g>"
+    </string>
+    <string name="asus_commonui_terms_of_use_notice">הודעה על תנאי השימוש</string>
+    <string name="asus_commonui_terms_of_use_notice_url">http://www.asus.com/IL/Terms_of_Use_Notice_Privacy_Policy/Official_Site/</string>
+    <string name="asus_commonui_whichApplication">"השלמת פעולה באמצעות"</string>
+    <string name="asus_commonui_whichHomeApplication">"בחר אפליקציה לדף הבית"</string>
+    <string msgid="6963340404644587098" name="asus_commonui_year_picker_description">"רשימת שנים"</string>
+    <string msgid="7984755014526510295" name="day">"יום אחד"</string>
+    <string msgid="2070509222727852210" name="days">"<ns1:g id="DAYS">%s</ns1:g> ימים"</string>
+    <string msgid="2546819039651509323" name="hour">"שעה אחת"</string>
+    <string msgid="2071487018566991613" name="hours">"<ns1:g id="HOURS">%s</ns1:g> שעות"</string>
+    <string msgid="2486157997434653710" name="minute">"דקה אחת"</string>
+    <string msgid="6115838729146292526" name="minutes">"<ns1:g id="MINUTES">%s</ns1:g> דקות"</string>
+</resources>

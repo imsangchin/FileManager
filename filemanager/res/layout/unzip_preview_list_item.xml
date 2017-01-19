@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:id="@+id/unzip_preview_container"
+        android:layout_width="match_parent"
+        android:layout_height="50dip"
+        android:background="@drawable/list_selector_holo_light"
+        android:focusable="true"
+        android:clickable="true">
+
+        <ImageView
+            android:id="@+id/unzip_preview_list_item_icon"
+            android:layout_centerVertical="true"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:scaleType="centerInside"/>
+
+        <TextView
+            android:id="@+id/unzip_preview_list_item_name"
+            android:layout_height="match_parent"
+            android:layout_width="wrap_content"
+            android:paddingLeft="5dip"
+            android:paddingRight="5dip"
+            android:layout_toRightOf="@id/unzip_preview_list_item_icon"
+            android:layout_toLeftOf="@+id/unzip_preview_list_item_size"
+            android:ellipsize="start"
+            android:singleLine="true"
+            android:gravity="center_vertical"
+            style="@style/greyTextStyle"/>
+
+        <TextView
+            android:id="@id/unzip_preview_list_item_size"
+            android:layout_height="match_parent"
+            android:layout_width="wrap_content"
+            android:layout_alignParentRight="true"
+            android:paddingRight="5dip"
+            android:gravity="center_vertical"
+            style="@style/greyTextStyle"/>
+
+    </RelativeLayout>
+</LinearLayout>

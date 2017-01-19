@@ -1,0 +1,1067 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="alarm_set">
+        <item msgid="6450913786084215050">"Báo thức được đặt cho dưới 1 phút tính từ bây giờ."</item>
+        <item msgid="6002066367368421848">"Báo thức được đặt cho <ns1:g id="DAYS">%1$s</ns1:g> tính từ bây giờ."</item>
+        <item msgid="8824719306247973774">"Báo thức được đặt cho <ns1:g id="HOURS">%2$s</ns1:g> tính từ bây giờ."</item>
+        <item msgid="8182406852935468862">"Báo thức được đặt cho <ns1:g id="DAYS">%1$s</ns1:g> và <ns1:g id="HOURS">%2$s</ns1:g> tính từ bây giờ."</item>
+        <item msgid="2532279224777213194">"Báo thức được đặt cho <ns1:g id="MINUTES">%3$s</ns1:g> tính từ bây giờ."</item>
+        <item msgid="5936557894247187717">"Báo thức được đặt cho <ns1:g id="DAYS">%1$s</ns1:g> và <ns1:g id="MINUTES">%3$s</ns1:g> tính từ bây giờ."</item>
+        <item msgid="9115697840826129603">"Báo thức được đặt cho <ns1:g id="HOURS">%2$s</ns1:g> và <ns1:g id="MINUTES">%3$s</ns1:g> tính từ bây giờ."</item>
+        <item msgid="2332583385137381060">"Báo thức được đặt cho <ns1:g id="DAYS">%1$s</ns1:g>, <ns1:g id="HOURS">%2$s</ns1:g> và <ns1:g id="MINUTES">%3$s</ns1:g> tính từ bây giờ."</item>
+    </string-array>
+    <string-array name="charset_array">
+        <item>"Latin-1 (ISO-8859-1)"</item>
+        <item>"Unicode (UTF-8)"</item>
+        <item>"Tiếng Hoa (GBK)"</item>
+        <item>"Tiếng Hoa (Big5)"</item>
+        <item>"Tiếng Nhật (ISO-2022-JP)"</item>
+        <item>"Tiếng Nhật (SHIFT_JIS)"</item>
+        <item>"Tiếng Nhật (EUC-JP)"</item>
+        <item>"Tiếng Hàn (EUC-KR)"</item>
+    </string-array>
+    <plurals name="dialog_unzip_preview_size_text">
+        <item quantity="one">Tổng: %1$d file, %2$s</item>
+        <item quantity="other">Tổng: %1$d file, %2$s</item>
+    </plurals>
+    <plurals name="drag_items">
+        <item quantity="one">Kéo mục</item>
+        <item quantity="other">Kéo các mục</item>
+    </plurals>
+    <plurals name="number_search_items">
+        <item quantity="one">"Đã tìm thấy %d tập tin"</item>
+        <item quantity="other">"Đã tìm thấy %d tập tin"</item>
+    </plurals>
+    <plurals name="number_selected_items">
+        <item quantity="one">Đã chọn %d</item>
+        <item quantity="other">Đã chọn %d</item>
+    </plurals>
+    <plurals name="uf_sdk_number_of_subscribers_format">
+        <item quantity="one">"%1$s thích chủ đề này"</item>
+        <item quantity="other">"%1$s thích chủ đề này"</item>
+    </plurals>
+    <plurals name="uf_sdk_topics">
+        <item quantity="one">"chủ đề"</item>
+        <item quantity="other">"chủ đề"</item>
+    </plurals>
+    <plurals name="uv_comments">
+        <item quantity="one">"bình luận"</item>
+        <item quantity="other">"bình luận"</item>
+    </plurals>
+    <plurals name="uv_number_of_subscribers_format">
+        <item quantity="one">"%1$s muốn ý tưởng này"</item>
+        <item quantity="other">"%1$s muốn ý tưởng này"</item>
+    </plurals>
+    <plurals name="uv_people">
+        <item quantity="one">"người"</item>
+        <item quantity="other">"mọi người"</item>
+    </plurals>
+    <plurals name="uv_subscribers">
+        <item quantity="one">"người theo dõi"</item>
+        <item quantity="other">"người theo dõi"</item>
+    </plurals>
+    <string name="AsusWebstroage">AsusWebstorage</string>
+    <string name="AuCloud">AuCloud</string>
+    <string name="BaiDuPCS">BaiDuPCS</string>
+    <string name="Default">Mặc định</string>
+    <string name="Dropbox">Dropbox</string>
+    <string name="Google_Drive">Google Drive</string>
+    <string name="HomeCloud">HomeCloud</string>
+    <string name="OneDrive">OneDrive</string>
+    <string name="Yandex">Yandex</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Điều hướng về trang chủ"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Điều hướng lên trên"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Thêm tùy chọn"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Xong"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Xem tất cả"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Chọn một ứng dụng"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"TẮT"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"BẬT"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Tìm kiếm…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Xóa truy vấn"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Tìm kiếm truy vấn"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Tìm kiếm"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Gửi truy vấn"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Tìm kiếm bằng giọng nói"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Chia sẻ với"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Chia sẻ với %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Thu gọn"</string>
+    <string name="about">"Giới thiệu"</string>
+    <string name="action">"Đăng nhập"</string>
+    <string description="cutstom action bar view title for about" maxwidth="-1" name="action_about">Giới thiệu</string>
+    <string description="action add files" maxwidth="-1" name="action_add">Thêm</string>
+    <string description="cutstom action bar view title for add folder" maxwidth="-1" name="action_add_folder">Thêm thư mục</string>
+    <string description="View title of custom action bar, apply to multiple selected files" maxwidth="-1" name="action_apply_selected_file">Áp dụng</string>
+    <string description="action cancel" maxwidth="-1" name="action_cancel">Hủy</string>
+    <string maxwidth="-1" name="action_clean">"Xóa"</string>
+    <string maxwidth="-1" name="action_clean_all">"Xóa tất cả"</string>
+    <string description="cutstom action bar view title for clear search history" maxwidth="" name="action_clear_history">Xóa hết lược sử tìm kiếm</string>
+    <string description="cutstom action bar view title for edit" maxwidth="" name="action_edit">"Sửa"</string>
+    <string maxwidth="" name="action_hidden_zone">"Di chuyển đến Ngăn tủ Ẩn"</string>
+    <string description="cutstom action bar view title for hinde system file" maxwidth="-1" name="action_hind_system_file">Ẩn các file hệ thống</string>
+    <string name="action_loading">"Đang tải..."</string>
+    <string description="cutstom action bar view title for open with" maxwidth="" name="action_open_with">"Mở bằng..."</string>
+    <string name="action_refresh_cloudfile">Nạp lại</string>
+    <string maxwidth="-1" name="action_restore">"Khôi phục"</string>
+    <string maxwidth="-1" name="action_restore_all">"Khôi phục tất cả"</string>
+    <string description="cutstom action bar view title for search" maxwidth="" name="action_search">Tìm kiếm</string>
+    <string description="cutstom action bar view title for set as" maxwidth="" name="action_set_as">"Cài hình làm"</string>
+    <string description="menu title for setting" maxwidth="-1" name="action_settings">"Cài đặt"</string>
+    <string description="cutstom action bar view title for sharing" maxwidth="-1" name="action_share">Chia sẻ</string>
+    <string description="String for asking for the rule of sorting" maxwidth="-1" name="action_sort_by">Xếp theo</string>
+    <string description="cutstom action bar view title for zip" maxwidth="" name="action_zip">Nén</string>
+    <string description="Dialog title: Add cloud storage" maxwidth="-1" name="add_cloud_storage_dialog_title">Thêm bộ nhớ đám mây</string>
+    <string name="add_favorite">Thêm vào Mục yêu thích</string>
+    <string name="add_favorite_folder">"Thêm thư mục yêu thích"</string>
+    <string name="add_favorite_success">Lưu vào Mục yêu thích</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="add_progress">Đang tạo...</string>
+    <string description="Don&apos;t remind me again" maxwidth="-1" name="alert_cb_msg">Đừng nhắc tôi nữa</string>
+    <string description="ASUS ZenUI Services is not support, need update ASUS ZenUI Services" maxwidth="-1" name="alert_msg_azs_update">%1$s cần dùng phiên bản ASUS ZenUI Services mới nhất, hãy cài đặt nó ngay.</string>
+    <string description="Client app is not support, need update client app" maxwidth="-1" name="alert_msg_client_update">Phiên %1$s bản mới hiện có sẵn, hãy cài đặt nó ngay.</string>
+    <string description="Client app version is compatible with ASUS ZenUI Services" maxwidth="-1" name="alert_msg_compatible">Phiên bản %1$s tương thích với ASUS ZenUI Services.</string>
+    <string description="Client app version is match with ASUS ZenUI Services" maxwidth="-1" name="alert_msg_match">P.bản %1$s phù hợp với ASUS ZenUI Services.</string>
+    <string description="ASUS ZenUI Services is not found on device" maxwidth="-1" name="alert_msg_not_found">ASUS ZenUI Services chưa được cài đặt!\n\nTruy cập để tải về và cài đặt nó?</string>
+    <string description="Dialog title" maxwidth="-1" name="alert_title">Ghi chú</string>
+    <string description="Dialog title" maxwidth="-1" name="alert_title_update">Khuyên dùng cập nhật</string>
+    <string name="app_cloudstorage_name">Lưu trữ đám mây</string>
+    <string name="app_upload_complete">"Hoàn tất tải %s lên."</string>
+    <string description="" name="article_one">"Tôi đồng ý với \"<u>Điều khoản thông báo sử dụng</u>\" ASUS, \"<u>Chính sách quyền riêng tư</u>\" ASUS, \"<u>Điều khoản thông báo sử dụng</u>\" ASUS WebStorage, \"<u>Chính sách quyền riêng tư</u>\" ASUS WebStorage."</string>
+    <string description="" name="article_two">"Hãy cập nhật cho tôi qua eDMs với các tin tức ASUS, cập nhật phần mềm và thông tin sản phẩm và dịch vụ mới nhất."</string>
+    <string description="Text for create asus account button." maxwidth="" name="asus_account_create_button">"Đăng ký"</string>
+    <string name="asus_account_integrate_dialog_content">"Bạn có muốn tích hợp tài khoản ASUS với tài khoản WebStorage? \n\n Sau khi tích hợp, bạn sẽ tận hưởng mọi dịch vụ ASUS."</string>
+    <string name="asus_account_integrate_dialog_skip">"Bỏ qua"</string>
+    <string name="asus_account_integrate_dialog_title">"Tích hợp Dịch vụ ASUS"</string>
+    <string name="asus_account_integrate_dialog_yes">"Có"</string>
+    <string description="Text for asus account content 1st." maxwidth="" name="asus_account_msg_content_1">"Nhận dịch vụ hỗ trợ cá nhân và thông tin gia hạn bảo hành từ ASUS cho các sản phẩm đã đăng ký."</string>
+    <string description="Text for asus account content 2nd." maxwidth="" name="asus_account_msg_content_2">"Nhận dung lượng lưu trữ đám mây 5 GB miễn phí."</string>
+    <string description="Text for asus account content 3rd." maxwidth="" name="asus_account_msg_content_3">"Nhận thông tin mới nhất về các phụ kiện cũng như các sản phẩm tân trang."</string>
+    <string description="Text for asus account content title." maxwidth="" name="asus_account_msg_title">"Tạo tài khoản ASUS và bạn có thể:"</string>
+    <string name="asus_account_only_one_alert">"Bạn chỉ được phép thêm một tài khoản ASUS. Bạn phải xóa tài khoản hiện hành trước khi thay thế bằng tài khoản mới."</string>
+    <string name="asus_account_prefc">"Cài đặt"</string>
+    <string name="asus_account_prefc_advc">"Cài đặt nâng cao"</string>
+    <string name="asus_account_registe_country_error">"Hãy chọn một quốc gia/khu vực!"</string>
+    <string name="asus_account_registe_id_error">"Lỗi định dạng email"</string>
+    <string name="asus_account_registe_policy_error">"Bạn phải đồng ý chính sách ASUS để đăng ký tài khoản ASUS!"</string>
+    <string name="asus_account_registe_pw_error_1">"Mật khẩu ko thể trống!"</string>
+    <string name="asus_account_registe_pw_error_2">"Mật khẩu xác nhận ko thể trống!"</string>
+    <string name="asus_account_registe_pw_error_3">"Mật khẩu và mật khẩu xác nhận phải giống nhau!"</string>
+    <string name="asus_account_registe_pw_error_4">"Mật khẩu phải chứa từ 8 đến 25 ký tự."</string>
+    <string name="asus_account_removeaccount_dialog_content">"Tích hợp tài khoản đã thành công. Đăng nhập lại bằng tài khoản mới."</string>
+    <string name="asus_account_removeaccount_dialog_title">"Tích hợp tài khoản ASUS thành công"</string>
+    <string name="asus_commonui_activity_chooser_view_see_all">"Xem tất cả"</string>
+    <string name="asus_commonui_activity_resolver_use_always">"Luôn chọn"</string>
+    <string name="asus_commonui_activity_resolver_use_once">"Chỉ một lần"</string>
+    <string name="asus_commonui_activitychooserview_choose_application">"Chọn một ứng dụng"</string>
+    <string name="asus_commonui_activitychooserview_choose_application_error">
+        "Không thể khởi chạy <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string name="asus_commonui_cancel_label">"Hủy"</string>
+    <string name="asus_commonui_chooseActivity">"Chọn một tác vụ"</string>
+    <string msgid="3968620852217927702" name="asus_commonui_day_picker_description">"Lưới ngày theo tháng"</string>
+    <string msgid="6908431551612331381" name="asus_commonui_deleted_key">"Đã xóa <ns1:g id="KEY">%1$s</ns1:g>"</string>
+    <string name="asus_commonui_done_label">"OK"</string>
+    <string msgid="7586639618712934060" name="asus_commonui_hour_picker_description">"Thanh trượt giờ hình tròn"</string>
+    <string msgid="2674929164900463786" name="asus_commonui_item_is_selected">"Đã chọn <ns1:g id="ITEM">%1$s</ns1:g>"</string>
+    <string msgid="6024811202872705251" name="asus_commonui_minute_picker_description">"Thanh trượt phút hình tròn"</string>
+    <string name="asus_commonui_noApplications">"Không ứng dụng nào có thể thực hiện tác vụ này."</string>
+    <string name="asus_commonui_no_url_handler">Không tìm thấy ứng dụng nào để mở URL</string>
+    <string name="asus_commonui_privacy_policy">Chính sách quyền riêng tư</string>
+    <string name="asus_commonui_privacy_policy_url">http://www.asus.com/VN/Terms_of_Use_Notice_Privacy_Policy/Privacy_Policy</string>
+    <string msgid="3973338219107019769" name="asus_commonui_select_day">"Chọn tháng và ngày"</string>
+    <string msgid="7651068754188418859" name="asus_commonui_select_hours">"Chọn giờ"</string>
+    <string msgid="8327182090226828481" name="asus_commonui_select_minutes">"Chọn phút"</string>
+    <string msgid="2603330600102539372" name="asus_commonui_select_year">"Chọn năm"</string>
+    <string name="asus_commonui_shareactionprovider_share_with">Chia sẻ với</string>
+    <string name="asus_commonui_shareactionprovider_share_with_application">
+        "Chia sẻ với <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string name="asus_commonui_terms_of_use_notice">Thông báo điều khoản sử dụng</string>
+    <string name="asus_commonui_terms_of_use_notice_url">http://www.asus.com/VN/Terms_of_Use_Notice_Privacy_Policy/Official_Site/</string>
+    <string name="asus_commonui_whichApplication">"Hoàn tất tác vụ đang sử dụng"</string>
+    <string name="asus_commonui_whichHomeApplication">"Chọn ứng dụng gia đình"</string>
+    <string msgid="6963340404644587098" name="asus_commonui_year_picker_description">"Danh sách năm"</string>
+    <string name="asus_feedback_and_help">Phản hồi &amp; Trợ giúp</string>
+    <string name="asus_registe_success_title">"Đăng ký tài khoản ASUS thành công"</string>
+    <string name="asus_response_resultdata">"Tài khoản này đã được đăng ký."</string>
+    <string name="asusaccount_app_name">"Tài khoản ASUS"</string>
+    <string maxwidth="-1" name="attribution_notice">"Thông báo thuộc tính:"</string>
+    <string maxwidth="-1" name="attribution_notice_content">
+    "\nSản phẩm này chứa các mã nguồn mở được liệt kê như dưới:
+       \n\nuservoice-android-sdk, được cấp phép theo giấy phép Apache Phiên bản 2.0. Có thể tải về giấy phép từ http://www.apache.org/licenses/LICENSE-2.0.html .
+        \n\nangular-filemanager, được cấp phép theo MIT. Có thể tải về giấy phép từ https://github.com/joni2back/angular-filemanager/blob/master/LICENSE .
+        \n\nprogressbar, được cấp phép theo MIT. Có thể tải về giấy phép từ https://github.com/kimmobrunfeldt/progressbar.js/blob/master/LICENSE .
+        \n\ntoastr, Bản quyền (c) 2012-2015 John Papa, Tim Ferrell, Hans Fjällemark\nGiấy phép sau đây được cấp quyền, miễn phí, cho bất kỳ ai có bản sao của phần mềm này và các tập tin tài liệu liên quan (gọi tắt là "Phần mềm") để buôn bán Phần mềm mà không có hạn chế, bao gôm nhưng không giới hạn các quyền sử dụng, sao chép, chỉnh sửa, gộp, đăng tải, phân phối, cấp phép phụ, và/hoặc bán các bản sao của Phần mềm, và cho phép những người được cung cấp Phần mềm được làm như vậy, theo các điều kiện sau:
+        Thông báo bản quyền ở trên và thông báo cấp phép này sẽ được đính kèm trong tất cả các bản sao hoặc hạng mục quan trọng của Phần mềm. PHẦN MỀM NÀY ĐƯỢC CUNG CẤP "NGUYÊN TRẠNG", MÀ KHÔNG CÓ BẤT KỲ HÌNH THỨC BẢO HÀNH NÀO, NÊU RÕ HOẶC ÁM CHỈ, BAO GỒM NHƯNG KHÔNG GIỚI HẠN CÁC HÌNH THỨC BẢO HÀNH BÁN HÀNG, ĐỘ PHÙ HỢP ĐỐI VỚI MỤC ĐÍCH CỤ THỂ VÀ KHÔNG XÂM PHẠM. TRONG MỌI TRƯỜNG HỢP, CÁC TÁC GIẢ HOẶC NGƯỜI GIỮ BẢN QUYỀN SẼ KHÔNG PHẢI CHỊU TRÁCH NHIỆM CHO BẤT KỲ KHIẾU NẠI, THIỆT HẠI HOẶC TRÁCH NHIỆM KHÁC, DÙ LÀ HÀNH VI THUỘC HỢP ĐỒNG, VIỆC VI PHẠM HOẶC LỖI KHÁC PHÁT SINH TRONG, NGOÀI HOẶC CÓ LIÊN QUAN ĐẾN PHẦN MỀM HOẶC VIỆC SỬ DỤNG HOẶC CÁC HÀNH VI MUA BÁN KHÁC TRONG PHẦN MỀM."
+    </string>
+    <string name="aucloud_account_only_one_alert">"Bạn chỉ được phép thêm một tài khoản Đám mây. Bạn phải xóa tài khoản hiện hành trước khi thay thế bằng tài khoản mới."</string>
+    <string description="string indicating how camera shooting feature is used" maxwidth="-1" name="auto">Tự động</string>
+    <string name="aws_install_contnet">"Chưa cài đặt ASUS WebStorage. Bạn có muốn tải về và cài đặt từ Play Store?"</string>
+    <string name="aws_install_title">"ASUS Webstorage chưa được cài đặt"</string>
+    <string description="button text." maxwidth="-1" name="back_button_label">Trở về</string>
+    <string name="baidu_alert_info">"Chạy trên nền ứng dụng của Baidu, thiết bị này chỉ có thể truy cập dữ liệu trong "Dữ liệu ứng dụng của tôi\\asus\\"."</string>
+    <string name="baidu_alert_title">"Lưu trữ Đám mây Baidu"</string>
+    <string name="baidu_storage_title">"百度云"</string>
+    <string name="baidupcs_account_only_one_alert">"Bạn chỉ được phép thêm một tài khoản Baidu cho ASUS. Bạn phải xóa tài khoản hiện hành trước khi thay thế bằng tài khoản mới."</string>
+    <string name="btn_OK">OK</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="calculate_progress">"Đang tiến hành..."</string>
+    <string description="Toast: can not open in hidden zone" maxwidth="-1" name="can_not_open_in_hidden_zone">"Không thể được mở trong Ngăn tủ Ẩn"</string>
+    <string description="Dialog Button: cancel for dialog" maxwidth="" name="cancel">Hủy</string>
+    <string name="cancle">Hủy</string>
+    <string name="category_apk">Ứ.dụng</string>
+    <string maxwidth="11" name="category_app1">"Ứng dụng"</string>
+    <string name="category_compress">"Đã nén"</string>
+    <string maxwidth="11" name="category_compressed1">"Đã nén"</string>
+    <string name="category_count">"%s"</string>
+    <string maxwidth="11" name="category_document1">"Tài liệu"</string>
+    <string name="category_documents">"Tài liệu"</string>
+    <string name="category_download">Tải về</string>
+    <string maxwidth="11" name="category_download1">"File tải về"</string>
+    <string name="category_favorite">Mục yêu thích</string>
+    <string maxwidth="11" name="category_favorite1">"Mục yêu thích"</string>
+    <string name="category_game">"Trò chơi"</string>
+    <string name="category_image">Hình ảnh</string>
+    <string maxwidth="11" name="category_image1">"Hình ảnh"</string>
+    <string maxwidth="11" name="category_large_file1">"File lớn"</string>
+    <string name="category_music">Nhạc</string>
+    <string maxwidth="11" name="category_music1">"Nhạc"</string>
+    <string name="category_name_app_wallpaper">"Hình nền động"</string>
+    <string name="category_name_app_widgets">"Tiện ích"</string>
+    <string name="category_name_books_and_reference">"Sách &amp; Tài liệu tham khảo"</string>
+    <string name="category_name_business">"Doanh nghiệp"</string>
+    <string name="category_name_comics">"Truyện tranh"</string>
+    <string name="category_name_communication">"Liên lạc"</string>
+    <string name="category_name_education">"Giáo dục"</string>
+    <string name="category_name_entertainment">"Giải trí"</string>
+    <string name="category_name_finance">"Tài chính"</string>
+    <string name="category_name_game">"Trò chơi"</string>
+    <string name="category_name_game_action">"Tác vụ"</string>
+    <string name="category_name_game_adventure">"Phiêu lưu"</string>
+    <string name="category_name_game_arcade">"Trò chơi điện tử"</string>
+    <string name="category_name_game_board">"Dạng bảng"</string>
+    <string name="category_name_game_card">"Thẻ"</string>
+    <string name="category_name_game_casino">"Sòng bạc"</string>
+    <string name="category_name_game_casual">"Thông thường"</string>
+    <string name="category_name_game_educational">"Giáo dục"</string>
+    <string name="category_name_game_family">"Gia đình"</string>
+    <string name="category_name_game_music">"Âm nhạc"</string>
+    <string name="category_name_game_puzzle">"Câu đố"</string>
+    <string name="category_name_game_racing">"Đua xe"</string>
+    <string name="category_name_game_role_playing">"Nhập vai"</string>
+    <string name="category_name_game_simulation">"Mô phỏng"</string>
+    <string name="category_name_game_sports">"Thể thao"</string>
+    <string name="category_name_game_strategy">"Chiến thuật"</string>
+    <string name="category_name_game_trivia">"Trắc nghiệm kiến thức"</string>
+    <string name="category_name_game_word">"Tìm ô chữ"</string>
+    <string name="category_name_health_and_fitness">"Sức khỏe &amp; Thể hình"</string>
+    <string name="category_name_libraries_and_demo">"Thư viện &amp; Trình diễn"</string>
+    <string name="category_name_lifestyle">"Lối sống"</string>
+    <string name="category_name_media_and_video">"Phương tiện &amp; Video"</string>
+    <string name="category_name_medical">"Y tế"</string>
+    <string name="category_name_music_and_audio">"Nhạc &amp; Âm thanh"</string>
+    <string name="category_name_news_and_magazines">"Tin tức và Tạp chí"</string>
+    <string name="category_name_personalization">"Cá nhân hóa"</string>
+    <string name="category_name_photography">"Nhiếp ảnh"</string>
+    <string name="category_name_productivity">"Sản xuất"</string>
+    <string name="category_name_shopping">"Mua sắm"</string>
+    <string name="category_name_social">"Xã hội"</string>
+    <string name="category_name_sports">"Thể thao"</string>
+    <string name="category_name_tools">"Công cụ"</string>
+    <string name="category_name_transportation">"Vận tải"</string>
+    <string name="category_name_travel_and_local">"Du lịch &amp; Địa phương"</string>
+    <string name="category_name_weather">"Thời tiết"</string>
+    <string name="category_others">"Khác"</string>
+    <string maxwidth="11" name="category_recent1">"Gần đây"</string>
+    <string name="category_recent_files">"Đã thêm gần đây"</string>
+    <string name="category_sorting_summary">"Chọn các mục hiển thị trên bảng đ.khiển hạng mục"</string>
+    <string name="category_title_category">Hạng mục</string>
+    <string name="category_title_local_storage">Bộ nhớ ĐT</string>
+    <string name="category_title_tools">"Công cụ"</string>
+    <string name="category_toast_invalid_item_size_6_or_9">"Hãy chọn 6 hoặc 9 mục"</string>
+    <string name="category_toast_invalid_item_size_9">"Hãy chọn 9 mục"</string>
+    <string name="category_toast_invalid_remove">"Không thể xóa mục này"</string>
+    <string name="category_toast_max_item_size">"Chọn tối đa 9 mục"</string>
+    <string name="category_video">Video</string>
+    <string maxwidth="11" name="category_video1">"Video"</string>
+    <string name="clear_account_info">Quên mọi tài khoản</string>
+    <string description="Menu Option: clear all checkbox" maxwidth="" name="clear_all">Bỏ chọn tất cả</string>
+    <string name="click_plus_to_add_favorite_folder">"Chạm dấu + để thêm mục yêu thích"</string>
+    <string description="Toast: The size is over the limit and cannot be uploaded" maxwidth="-1" name="cloud_download_flie_limit_space">Không thể tải về file này. Cỡ file vượt quá giới hạn tối đa.</string>
+    <string description="Toast: The name of the file uploaded is not supported by cloud server" maxwidth="-1" name="cloud_flie_name_not_supported">Không thể hoàn tất thao tác vì tên file không được hỗ trợ bởi máy chủ đám mây.</string>
+    <string description="home cloud get available devices fail" name="cloud_homebox_get_devices_fail">Không thể dò tìm các thiết bị HomeCloud có sẵn</string>
+    <string description="home cloud has no available devices" name="cloud_homebox_no_available_devices">Ko có sẵn các thiết bị Home Cloud</string>
+    <string description="home cloud device is sleep" name="cloud_homebox_status__info_Sleep">C.độ chờ</string>
+    <string description="home cloud device is offline" name="cloud_homebox_status__info_offline">Ngoại tuyến</string>
+    <string description="home cloud device is online" name="cloud_homebox_status__info_online">Trực tuyến</string>
+    <string description="home cloud device is offline" name="cloud_homebox_status_offline">Thiết bị ngoại tuyến</string>
+    <string description="diaglog cloud background paste" name="cloud_paste_backgroud">Phông nền</string>
+    <string description="diaglog cloud  now is copy files" name="cloud_paste_copying">Đang chép...</string>
+    <string description="diaglog cloud  current" name="cloud_paste_current">Hiện hành</string>
+    <string description="diaglog cloud  now is delete source files" name="cloud_paste_deleting">Đang xóa các file nguồn...</string>
+    <string description="diaglog cloud  paste" name="cloud_paste_downloading">Đang tải file về</string>
+    <string description="diaglog cloud  total" name="cloud_paste_total">Tổng số</string>
+    <string description="diaglog cloud  paste uploading" name="cloud_paste_uploading">Đang tải file lên</string>
+    <string description="Toast: cloud preview action" maxwidth="-1" name="cloud_preview_action_fail">ko thể xem trước file đám mây.</string>
+    <string description="Toast: cloud share action" maxwidth="-1" name="cloud_share_action_fail">ko thể chia sẻ file đám mây.</string>
+    <string description=">Do you want to remove" maxwidth="-1" name="cloud_storage_remove_hint">Bạn muốn đăng xuất tài khoản \"%s\"?</string>
+    <string description="Dialog title: Remove cloud storage" maxwidth="-1" name="cloud_storage_remove_hint_title">Đăng xuất</string>
+    <string description=">Do you want to signin" maxwidth="-1" name="cloud_storage_sign_in">Kết nối bằng tài khoản sau:</string>
+    <string description="Dialog title: Signin cloud storage" maxwidth="-1" name="cloud_storage_sign_in_title">Kết nối %s</string>
+    <string description=">Do you want to signout" maxwidth="-1" name="cloud_storage_sign_out">Bạn có chắc muốn đăng xuất?</string>
+    <string description="Dialog title: Signout cloud storage" maxwidth="-1" name="cloud_storage_sign_out_title">Ngắt kết nối</string>
+    <string description="Add more cloud storage" maxwidth="-1" name="cloud_storage_title">Thêm nhiều bộ nhớ đám mây</string>
+    <string description="diaglog cloud  token is invalidate" name="cloud_token_invalidate">Danh tính không hợp lệ, hãy đăng nhập lại!</string>
+    <string description="Toast: The size is over the limit and cannot be uploaded" maxwidth="-1" name="cloud_upload_flie_limit_space">Không thể tải file lên. Cỡ file vượt quá giới hạn tối đa.</string>
+    <string name="com_facebook_image_download_unknown_error">Lỗi bất ngờ khi tải ảnh xuống.</string>
+    <string name="com_facebook_internet_permission_error_message">Đăng nhập WebView yêu cầu INTERNET cho phép</string>
+    <string name="com_facebook_internet_permission_error_title">Lỗi AndroidManifest</string>
+    <string name="com_facebook_like_button_liked">Đã thích</string>
+    <string name="com_facebook_like_button_not_liked">Thích</string>
+    <string name="com_facebook_loading">Đang tải...</string>
+    <string name="com_facebook_loginview_cancel_action">Hủy</string>
+    <string name="com_facebook_loginview_log_in_button">Đăng nhập</string>
+    <string name="com_facebook_loginview_log_in_button_long">Đăng nhập bằng Facebook</string>
+    <string name="com_facebook_loginview_log_out_action">Đăng xuất</string>
+    <string name="com_facebook_loginview_log_out_button">Đăng xuất</string>
+    <string name="com_facebook_loginview_logged_in_as">Đã đăng nhập với tư cách là: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Đã đăng nhập bằng Facebook</string>
+    <string name="com_facebook_send_button_text">Gửi</string>
+    <string name="com_facebook_share_button_text">Chia sẻ</string>
+    <string name="com_facebook_tooltip_default">Mới! Bạn đang có quyền kiểm soát - hãy chọn thông tin bạn muốn chia sẻ với các ứng dụng.</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Bật"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> sẽ không hoạt động nếu bạn không bật dịch vụ của Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Bật dịch vụ của Google Play"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Cài đặt"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> sẽ không chạy nếu không có dịch vụ của Google Play. Thiết bị của bạn bị thiếu dịch vụ này."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Cài đặt dịch vụ của Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Lỗi dịch vụ của Google Play"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> đang gặp sự cố với các dịch vụ của Google Play. Hãy thử lại."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> sẽ không chạy nếu không có các dịch vụ của Google Play. Thiết bị của bạn không hỗ trợ các dịch vụ này."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Cập nhật"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> sẽ không chạy trừ khi bạn cập nhật Dịch vụ của Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Cập nhật dịch vụ của Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> sẽ không chạy nếu không có dịch vụ của Google Play. Dịch vụ này hiện đang cập nhật."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Cần phiên bản mới của dịch vụ Google Play. Dịch vụ sẽ sớm tự động cập nhật."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Mở trên điện thoại"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Đăng nhập"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Đăng nhập bằng Google"</string>
+    <string name="confirm">"Xác nhận"</string>
+    <string name="confirm_ok">"OK"</string>
+    <string description="confirm password textview title" name="confirm_password">"Xác nhận mật khẩu"</string>
+    <string description="ask user to enter password again to confirm" name="confirm_password_edit">"Nhập lại mật khẩu của bạn"</string>
+    <string description="content" maxwidth="-1" name="content">Sử dụng phần mềm này theo các điều khoản và điều kiện trên trang web ASUS: \nhttp://www.asus.com</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="copy">Chép</string>
+    <string description="Toast: copy ready" maxwidth="-1" name="copy_ready_more">Các file vừa chọn đã được chép và sẵn sàng dán.</string>
+    <string description="Toast: copy ready. %s is variable string." maxwidth="-1" name="copy_ready_one">\"%s\" đã được chép và sẵn sàng dán.</string>
+    <string name="copy_to">Chép vào</string>
+    <string description="country region textview title" name="country_region">"Quốc gia/Khu vực"</string>
+    <string description="ack user to select on country" name="country_region_select">"Chọn quốc gia/khu vực của bạn"</string>
+    <string name="create_shortcut">"Tạo phím tắt"</string>
+    <string name="create_shortcut_dialog">"Tạo phím tắt trên Trình Khởi Động"</string>
+    <string name="create_shortcut_toast">"Đã tạo xong phím tắt trên Trình Khởi Động"</string>
+    <string name="cta_agree">"Cho phép"</string>
+    <string name="cta_check_title">"Ghi nhớ"</string>
+    <string name="cta_dialog_content"><b>Trình quản lý Tập tin</b> sẽ thử sử dụng mạng, có thể áp dụng các cước phí khác tùy thuộc vào các gói thuê bao của bạn.</string>
+    <string name="cta_dialog_title">"Sử dụng mạng"</string>
+    <string name="cta_disagree">"Từ chối"</string>
+    <string name="cta_show_menu">"Giấy phép mạng"</string>
+    <string name="current_folder">"Thư mục h.hành"</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="cut">Cắt</string>
+    <string description="Toast: cut ready" maxwidth="-1" name="cut_ready_more">Các file vừa chọn đã được cắt và sẵn sàng dán.</string>
+    <string description="Toast: cut ready. %s is variable string." maxwidth="-1" name="cut_ready_one">\"%s\" đã được cắt và sẵn sàng dán.</string>
+    <string description="button text for sort file by date" maxwidth="-1" name="date">Ngày</string>
+    <string description="button text for sort file by date ascending" maxwidth="-1" name="date_ascending">Ngày (cũ nhất-mới nhất)</string>
+    <string description="button text for sort file by date descending" maxwidth="-1" name="date_descending">Ngày (mới nhất-cũ nhất)</string>
+    <string msgid="7984755014526510295" name="day">"1 ngày"</string>
+    <string msgid="2070509222727852210" name="days">"<ns1:g id="DAYS">%s</ns1:g> ngày"</string>
+    <string name="dbx_install_contnet">"Chưa cài đặt Dropbox. Bạn có muốn tải về và cài đặt từ Play Store?"</string>
+    <string name="dbx_install_title">"Dropbox chưa được cài đặt"</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="delete">Xóa</string>
+    <string description="Dialog Title: delete dialog title" maxwidth="" name="delete_dialog">Xóa file</string>
+    <string description="Toast: delete fails" maxwidth="-1" name="delete_fail">Ko thể xóa file.</string>
+    <string description="Dialog Content: text in dialog. %d is variable number." maxwidth="" name="delete_more_files">Bạn muốn xóa các mục %d?</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="delete_one_directory">Bạn có muốn xóa danh mục?</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="delete_one_files">Bạn muốn xóa file này?</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="delete_progress">Đang xóa...</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="delete_size">"K.thước: "</string>
+    <string description="Toast: delete success" maxwidth="-1" name="delete_success_more">Các file vừa chọn đã bị xóa.</string>
+    <string description="Toast: delete success. %s is variable string." maxwidth="-1" name="delete_success_one">\"%s\" đã bị xóa.</string>
+    <string description="cutstom action bar view title for deselect all checkbox" maxwidth="" name="deselect_all">Bỏ chọn tất cả</string>
+    <string name="device_root_path">gốc</string>
+    <string description="compress dialog title" maxwidth="-1" name="dialog_create_zip_title">Nhập tên lưu trữ</string>
+    <string description="extract zip file dialog title. %s is a dynamic string. It is zip file name." maxwidth="-1" name="dialog_extract_zip_title">Xuất %s sang:</string>
+    <string name="dialog_load_stream_url_info">Đang tìm nạp thông tin cần thiết từ máy chủ</string>
+    <string name="dialog_msg_market_login_account">"Hãy đăng nhập vào tài khoản Google để tải về ứng dụng"</string>
+    <string description="text encoding dialog title" maxwidth="-1" name="dialog_text_encoding_title">Bảng mã văn bản</string>
+    <string name="dialog_title_market_login_account">"Thêm tài khoản"</string>
+    <string description="show zip info dialog title. %s is a dynamic string. Is is a zip file name" maxwidth="-1" name="dialog_unzip_preview_title">Xuất %s</string>
+    <string description="Dialog Title: Directory information dialog title" maxwidth="-1" name="dir_info_dialog_title">Thông tin thư mục</string>
+    <string name="display">Hiển thị như</string>
+    <string name="display_hint">Máy tính của tôi có thể trống</string>
+    <string name="dm_openfile">"Mở tập tin"</string>
+    <string name="do_not_show_again">"Đừng hiển thị lại"</string>
+    <string name="domain">Tên miền:</string>
+    <string name="domain_hint">Có thể trống</string>
+    <string name="download_fail">không thể tải về!</string>
+    <string name="drag_items_one">Kéo mục</string>
+    <string name="drag_items_other">Kéo các mục</string>
+    <string name="drawer_close">Đóng ngăn kéo điều hướng</string>
+    <string name="drawer_home">M.hình chính</string>
+    <string name="drawer_open">Mở ngăn kéo điều hướng</string>
+    <string description="Hint: the operation is incorrect" maxwidth="-1" name="drop_incorrect_hint">Thao tác sai</string>
+    <string description="Hint: the target folder which you want to do something" maxwidth="-1" name="drop_target_to">Mục tiêu:</string>
+    <string name="dumdownloadfrom">Tải về từ</string>
+    <string name="dumuploadto">Tải lên</string>
+    <string name="duplicate_files">"Tập tin trùng lặp"</string>
+    <string name="duplicate_files_content_hint">"Tìm các tập tin trùng lặp và xóa chúng với sự cho phép của bạn."</string>
+    <string name="edit_toast_name_too_long">Đã quá số ký tự tối đa</string>
+    <string name="edit_toast_special_char">Ko thể bao gồm ký tự đặc biệt</string>
+    <string name="editcategory_hint">"Chạm nút sửa để tùy chỉnh bảng Hạng mục."</string>
+    <string description="describe the empty folder" maxwidth="-1" name="empty_folder_title">"Không có tập tin"</string>
+    <string description="Dialog Button: click to open the encoding list dialog" maxwidth="-1" name="encode">Bảng mã văn bản</string>
+    <string description="ask user to enter password" maxwidth="-1" name="enter_password">"Nhập mật khẩu"</string>
+    <string name="eula_content_description">
+        \nThỏa thuận Giấy phép Người dùng (“EULA”) thiết lập thỏa thuận có hiệu lực và ràng buộc giữa ASUSTeK Computer Inc. (“ASUS”) và Bạn, với tư cách người dùng, về việc sử dụng Phần mềm ASUS (“Phần mềm”) được định nghĩa như từ nay về sau. Bằng việc cài đặt và tiếp tục sử dụng phần mềm này, BẠN THỪAA NHẬN RẰNG BẠN ĐÃ ĐỌC, HIỂU RÕ VÀ ĐỒNG Ý GIAO KẾT THEO CÁC ĐIỀU KHOẢN CỦA EULA NÀY VÀ BẤT CỨ PHIÊN BẢN MỚI NÀO CỦA THỎA THUẬN NÀY. 
+\n\n1.PHẦN MỀM  có nghĩa là Phần mềm ASUS được cung cấp trong hoặc đi kèm với sản phẩm ASUS bao gồm nhưng không giới hạn với bất kỳ bản sửa lỗi lập trình, bản cập nhật hoặc phiên bản chỉnh sửa nào trong tương lai.
+\nPhần mềm này có thể đi kèm với phần mềm khác do ASUS hoặc bên thứ ba tạo ra đã được cấp giấy phép theo một hoặc nhiều giấy phép Phần Mềm Mã Nguồn Mở Miễn Phí theo danh sách liệt kê tại www.opensource.org/licenses. Phần Mềm Mã Nguồn Mở Miễn Phí đó chỉ được cung cấp cho bạn theo các điều khoản của giấy phép hoặc thông báo bản quyền tương ứng đi kèm với nó hoặc trong tập tin giấy phép FOSS đi kèm với Phần mềm. Các điều khoản của EULA này KHÔNG áp dụng cho Phần Mềm Mã Nguồn Mở Miễn Phí đó.
+\n\n2.GIẤY PHÉP Theo các điều khoản của EULA này, ASUS sau đây cấp cho Bạn một giấy phép hạn chế, cá nhân, phi thương mại, không độc quyền để sử dụng Phần mềm như đã được tích hợp trong các sản phẩm ASUS. Bạn có thể tạo bản sao của Phần mềm ở định dạng máy có thể đọc chỉ cho các mục đích sao lưu; miễn là bản sao lưu phải bao hàm toàn bộ bản quyền hoặc các thông báo độc quyền khác có trong bản gốc. Giấy phép này được cấp giấy phép phụ, và không thể chuyển đổi trừ trường hợp bạn chuyển quyền sở hữu các sản phẩm ASUS chứa Phần mềm này cho một cá nhân hoặc tổ chức, miễn là bạn chuyển vĩnh viễn tất cả các quyền theo EULA này và không giữa bạn các bản sao đầy đủ hoặc một phần của Phần mềm, và người nhận chấp thuận các điều khoản của EULA này.
+\n\n3.GIỚI HẠN ĐẢO NGƯỢC bạn không được đảo ngược kỹ thuật, biên dịch phục hồi, giải mã hoặc tháo rời Phần mềm hoặc cho phép hoặc thực hiện những điều nói trên trừ trường hợp pháp luật hiện hành trực tiếp cấm thực hiện những điều nêu trên.
+\n\n4.BẢO MẬT Bạn phải có trách nhiệm bảo vệ và không được tiết lộ hoặc buộc phải tiết lộ toàn bộ hoặc một phần thông tin mật của Phần mềm bao gồm nhưng không giới hạn các bí mật thương mại, tài liệu bản quyền ở bất cứ hình thức nào cho bên thứ ba bất kỳ.
+\n\n5.CÁC QUYỀN Sở hữu Trí tuệ (“các Quyền IP”) Bạn thừa nhận và đồng ý rằng toàn bộ các quyền IP, tiêu đề, và lợi ích đối với hoặc phát sinh từ Phần mềm đang và sẽ là tài sản độc quyền của ASUS hoặc người cấp phép cho phần mềm. Không có điều gì trong EULA này thể hiện ý muốn chuyển nhượng cách quyền IP đó cho Bạn. Bất cứ hành vi sử dụng trái phép các quyền IP đều là vi phạm EULA này cũng như vi phạm luật pháp về sở hữu trí tuệ, bao gồm nhưng không hạn chế đối với luật bản quyền và luật thương hiệu.
+\nBằng việc gửi bất kỳ thông tin, tài liệu, ý tưởng, khái niệm hoặc công nghệ nào, trừ thông tin cá nhân cho ASUS thông qua Phần mềm (“Phản hồi”), BẠN thừa nhận và đồng ý rằng: (i) Phản hồi của BẠN không có bất kỳ thông tin bảo mật hoặc độc quyền nào; (ii) ASUS sẽ không bị ràng buộc về bất kỳ hình thức bảo mật nào, nêu rõ hoặc ngụ ý, liên quan đến Phản hồi; (iii) ASUS sẽ được quyền sử dụng hoặc tiết lộ, theo chủ đích của ASUS, các phản hồi vì bất kỳ mục đích nào theo bất kỳ hình thức nào trên toàn thế giới; (iv) Phản hồi của BẠN sẽ trở thành tài sản của ASUS mà ASUS không có bất kỳ nghĩa vụ nào với BẠN; và (v) BẠN sẽ không được hưởng bất kỳ hình thức bồi hoàn hoặc bồi thường nào.
+\n\n6.ĐIỀU KHOẢN VÀ CHẤM DỨT EULA này sẽ có hiệu lực từ ngày BẠN cài đặt Phần mềm. Bạn có thể chấm dứt Giấy phép này bất cứ lúc nào bằng việc ngừng sử dụng Phần mềm và xóa bỏ Phần mềm khỏi sản phẩm ASUS. Quyền của bạn sẽ chấm dứt mà không được ASUS thông báo trước nếu chúng tôi cho rằng BẠN không tuân thủ bất kỳ điều khoản nào của EULA này.
+\n\n7.Miễn trừ Trách nhiệm Bảo hành và Giới hạn Nghĩa vụ BẠN THỪA NHẬN RẰNG PHẦN MỀM ĐƯỢC CUNG CẤP “NGUYÊN TRẠNG”. BẠN SẼ CHỊU TOÀN BỘ RỦI RO LIÊN QUAN ĐẾN CHẤT LƯỢNG VÀ DỊCH VỤ CỦA PHẦN MỀM NÀY, BAO GỒM NHƯNG KHÔNG GIỚI HẠN CHI PHÍ LIÊN QUAN ĐẾN TOÀN BỘ VIỆC SỬA CHỮA VÀ CÁC DỊCH VỤ CẦN THIẾT. TRONG PHẠM VI LUẬT PHÁP CHO PHÉP, ASUS KHÔNG THỰC HIỆN BẤT KỲ BẢO HÀNH NÀO, NÊU RÕ HOẶC NGỤ Ý, LIÊN QUAN ĐẾN PHẦN MỀM NÀY HOẶC BẤT KỲ THÔNG TIN HAY TÀI LIỆU ĐƯỢC CUNG CẤP THEO EULA NÀY HOẶC ĐỐI VỚI PHẦN MỀM NÀY, BAO GỒM NHƯNG KHÔNG GIỚI HẠN VIỆC BẢO HÀNH VỀ TÍNH THƯƠNG MẠI HOẶC PHÙ HỢP CHO BẤT KỲ MỤC ĐÍCH CỤ THỂ NÀO HOẶC CHỐNG LẠI SỰ VI PHẠM, HOẶC BẤT KỲ BẢO HÀNH NÀO PHÁT SINH NGOÀI VIỆC SỬ DỤNG HOẶC PHẠM VI HOẠT ĐỘNG. ASUS CŨNG KHÔNG THỰC HIỆN ĐẢM BẢO CHO CÁC KẾT QUẢ CÓ THỂ THU ĐƯỢC TỪ VIỆC SỬ DỤNG PHẦN MỀM NÀY HOẶC ĐỐI VỚI SỰ CHÍNH XÁC HOẶC MỨC ĐỘ ĐÁNG TIN CẬY CỦA THÔNG TIN BẤT KỲ THU ĐƯỢC QUA PHẦN MỀM. MỘT VÀI QUYỀN HẠN KHÔNG CHO PHÉP MIỄN TRỪ MỘT SỐ HÌNH THỨC BẢO HÀNH NÀO ĐÓ HOẶC GIỚI HẠN HOẶC MIỄN TRỪ NGHĨA VỤ ĐỐI VỚI CÁC HƯ HẠI NHẤT ĐỊNH. THEO ĐÓ, MỘT VÀI QUYỀN MIỄN TRỪ TRÁCH NHIỆM VÀ GIỚI HẠN NGHĨA VỤ NÓI TRÊN KHÔNG ÁP DỤNG CHO BẠN.
+\nTOÀN BỘ RỦI RO PHÁT SINH KHI SỬ DỤNG VÀ/HOẶC HOẠT ĐỘNG CỦA PHẦN MỀM THUỘC VỀ PHÍA BẠN. TRONG MỌI TƯỜNG HỢP, ASUS, NGƯỜI CẤP PHÉP CHO ASUS HOẶC BẤT KỲ GIỚI CHỨC, GIÁM ĐỐC, NHÂN VIÊN, ĐẠI LÝ HOẶC CHÍNH NHÁNH NÀO CỦA HỌ SẼ KHÔNG PHẢI CHỊU TRÁCH NHIỆM ĐỐI VỚI THIỆT HẠI DO HẬU QUẢ, NGẪU NHIÊN, TRỰC TIẾP, GIÁN TIẾP, ĐẶC BIỆT, TRỪNG PHẠT, HOẶC BẤT KỲ HƯ HẠI NÀO KHÁC (BAO GỒM, NHƯNG KHÔNG GIỚI HẠN THIỆT HẠI ĐỐI VỚI TỔN THẤT LỢI NHUẬN, GIÁN ĐOẠN, MẤT THÔNG TIN HOẶC THIỆT HẠI VỀ TIỀN BẠC KHÁC) PHÁT SINH HOẶC LIÊN QUAN ĐẾN EULA NÀY HOẶC VIỆC SỬ DỤNG HOẶC KHÔNG THỂ SỬ DỤNG PHẦN MỀM NÀY HOẶC BẤT KỲ TÍNH NĂNG NÀO CỦA PHẦN NỀU, DÙ ASUS ĐÃ ĐƯỢC TƯ VẤN VỀ KHẢ NĂNG XẢY RA CÁC THIỆT HẠI ĐÓ. MỘT VÀI QUYỀN HẠN KHÔNG CHO PHÉP MIỄN TRỪ MỘT SỐ HÌNH THỨC BẢO HÀNH NÀO ĐÓ HOẶC GIỚI HẠN HOẶC MIỄN TRỪ NGHĨA VỤ ĐỐI VỚI CÁC HƯ HẠI NHẤT ĐỊNH. THEO ĐÓ, MỘT VÀI QUYỀN MIỄN TRỪ TRÁCH NHIỆM VÀ GIỚI HẠN NGHĨA VỤ NÓI TRÊN KHÔNG ÁP DỤNG CHO BẠN.
+\n\n8.Bồi thường BẠN đồng ý bảo vệ, bồi thường và giữ an toàn cho ASUS và các chi nhánh, nhà cung cấp dịch vụ, nghiệp đoàn, nhà phân phối, nhà cấp phép, giới chức, giám đốc và nhân viên của công ty trước bất kỳ và toàn bộ thiệt hại, hư hại, nghĩa vụ và chi phí phát sinh từ bất kỳ khiếu nại hoặc yêu cầu (bao gồm các chi phí luật sư và chi phí tòa án hợp lý), do hoặc liên quan đến việc BẠN vi phạm EULA này hoặc luật hoặc quy định hiện hành nào, hoặc quyền của bên thứ ba nào.
+    </string>
+    <string name="eula_content_title">"Thỏa thuận giấy phép người dùng cuối cùng"</string>
+    <string description="Do not translate ASUS" maxwidth="" name="eula_description">Hợp đồng pháp lý giữa các ứng dụng ASUS và người dùng cuối</string>
+    <string maxwidth="" name="eula_title">"Thỏa thuận giấy phép người dùng cuối cùng"</string>
+    <string name="example">Ví dụ:</string>
+    <string description="Dialog Button: extract file for dialog" maxwidth="-1" name="extract">Xuất</string>
+    <string name="facebook_app_invite">"Danh bạ Facebook"</string>
+    <string name="fb_request_error_permissions">"Ứ.dụng này không có giấy phép để thực hiện điều này. Thử đăng nhập lại ứng dụng."</string>
+    <string name="fileList_Nofiles">Ko có file</string>
+    <string description="Dialog Title: File information dialog title" maxwidth="-1" name="file_info_dialog_title">Thông tin file</string>
+    <string description="Application Name shown on title" maxwidth="" name="file_manager">Quản lý file</string>
+    <string description="string indicating camera flash is not used" maxwidth="-1" name="flash_off">Ko đèn flash</string>
+    <string description="string indicating camera flash is fired" maxwidth="-1" name="flash_on">Đã bật đèn flash</string>
+    <string description="click to retrieve password" maxwidth="-1" name="forget_password">"<u>Quên mật khẩu?</u>"</string>
+    <string name="fragment_analyzer_allfiles_used_hint">"Đã dùng:"</string>
+    <string name="fragment_analyzer_chart_free_hint">"Còn trống:"</string>
+    <string name="fragment_analyzer_chart_total_hint">"Tổng:"</string>
+    <string name="fragment_analyzer_chart_used_hint">"ĐÃ DÙNG"</string>
+    <string name="fragment_analyzer_more_hint">"xem thêm"</string>
+    <string name="google_app_invite">"Danh bạ Google"</string>
+    <string name="group_title_installed">"Đã cài đặt"</string>
+    <string name="group_title_not_installed">"Chưa cài đặt"</string>
+    <string name="group_title_others">"Khác"</string>
+    <string name="group_title_recommended">"Gợi ý"</string>
+    <string name="hidden_zone_change_password">"Thay đổi mật khẩu"</string>
+    <string name="hidden_zone_confirm_password">"Xác nhận mã PIN"</string>
+    <string name="hidden_zone_enter_password">"Nhập mã PIN của bạn"</string>
+    <string name="hidden_zone_fingerprint_to_unlock">"Vân tay để mở khóa"</string>
+    <string name="hidden_zone_forget_password">"Quên mật khẩu"</string>
+    <string name="hidden_zone_introduction_description">"Ẩn các tập tin riêng tư của bạn trong Ngăn tủ Ẩn. Cần có mã PIN để mở Ngăn tủ Ẩn."</string>
+    <string name="hidden_zone_password_mismatch">"Mã PIN không khớp"</string>
+    <string name="hidden_zone_set_password_success">"Mật khẩu đã được thiết lập thành công"</string>
+    <string name="hidden_zone_setup_account">"Thiết lập tài khoản"</string>
+    <string name="hidden_zone_setup_password">"Nhập mã PIN gồm 4 chữ số"</string>
+    <string name="hidden_zone_wrong_password">"Mã PIN không đúng"</string>
+    <string description="Can’t connect to HomeCloud." maxwidth="-1" name="homecloud_access_error">Không thể kết nối HomeCloud. Xin đảm bảo dịch vụ HomeCloud đang trực tuyến.</string>
+    <string name="homecloud_notice_1">ASUS HomeCloud là một bộ phần mềm máy chủ chạy trên hệ thống Windows. Nó được thiết kế như thư viện nội dung số cho gia đình và hiện cung cấp các dịch vụ lưu trữ đám mây và truyền tải nội dung đa phương tiện, và có thể mở rộng các dịch vụ khác trong tương tai.</string>
+    <string name="homecloud_notice_2">Hiện bạn có thể tải về và trải nghiệm bộ phần mềm này. </string>
+    <string name="homecloud_notice_3">http://home.asuscloud.com/</string>
+    <string name="homecloud_toast_udp_unsupported">Mạng bị giới hạn, hãy liên hệ với quản trị viên mạng của bạn hoặc chuyển sang mạng khác.</string>
+    <string msgid="2546819039651509323" name="hour">"1 giờ"</string>
+    <string msgid="2071487018566991613" name="hours">"<ns1:g id="HOURS">%s</ns1:g> giờ"</string>
+    <string maxwidth="" name="httpserver_acquire_permission_message">"Máy chủ file HTTP sẽ bị đóng và các thao tác có thể bị gián đoạn. Tiếp tục?"</string>
+    <string maxwidth="" name="httpserver_connectwifiname">"AP Wi-Fi đã kết nối:"</string>
+    <string maxwidth="" name="httpserver_description">"Bật dịch vụ để kết nối thiết bị di động với PC."</string>
+    <string maxwidth="" name="httpserver_instruction">"Nhập địa chỉ này vào trình duyệt trên PC:"</string>
+    <string maxwidth="" name="httpserver_need_saf">"Nếu muốn quản lý bộ nhớ ngoài từ PC, bạn phải cấp giấy phép."</string>
+    <string maxwidth="" name="httpserver_no_network">"Kết nối thiết bị của bạn với cùng mạng Wi-Fi."</string>
+    <string maxwidth="" name="httpserver_no_permission_message">"Bạn sẽ không thể ghi vào bộ nhớ ngoài nếu chưa có giấy phép thích hợp. Tiếp tục?"</string>
+    <string maxwidth="" name="httpserver_no_permission_title">"Bắt đầu truyền file không dây"</string>
+    <string maxwidth="" name="httpserver_start">"Bắt đầu"</string>
+    <string maxwidth="" name="httpserver_stop">"Dừng"</string>
+    <string maxwidth="" name="httpserver_title">"Truyền file không dây sang PC"</string>
+    <string description="Context Menu: options of context menu" maxwidth="-1" name="info">Thông tin</string>
+    <string description="file info textview context" maxwidth="-1" name="info_aperture">"Khẩu độ: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_datetime">"Ngày chụp: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_exposure_time">"T.lượng p.sáng: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_file_num">"File: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_flash">"Đèn flash: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_focal_length">"Tiêu cự: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_image_height">"Chiều cao: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_image_width">"Chiều rộng"</string>
+    <string description="file info textview context" maxwidth="-1" name="info_image_x">" x "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_iso">"ISO:"</string>
+    <string description="file info textview context" maxwidth="-1" name="info_location">"Địa điểm: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_maker">"Hãng s.xuất: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_model">"Mẫu: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_modified">"Ngày sửa đổi: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_name">"Tên: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_orientation">"Định hướng: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_path">"Đ.dẫn: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_permission">"Giấy phép: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_type">"Kiểu: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_white_balance">"Cân bằng trắng: "</string>
+    <string description="Do not translate ASUS" maxwidth="" name="inspire_asus_description">"Thu thập dữ liệu sử dụng đối với ASUS để cải thiện các sản phẩm và trải nghiệm người dùng"</string>
+    <string name="inspire_asus_title">"Truyền c.hứng cho ASUS"</string>
+    <string name="install">"Cài đặt"</string>
+    <string description="storage label" maxwidth="-1" name="internal_storage_title">Bộ nhớ trong</string>
+    <string description="Toast: the account is invalid" maxwidth="-1" name="invalid_account">T.khoản ko hợp lệ</string>
+    <string description="Invalid directory path" maxwidth="-1" name="invalid_directory_path">Đ.dẫn thư mục ko hợp lệ</string>
+    <string name="invalid_server_id">"ID máy chủ ko hợp lệ"</string>
+    <string name="invalid_xml">"xml ko hợp lệ"</string>
+    <string name="inviteContentTitle">%1$s mời bạn tải về và cài đặt Quản lý File ASUS.</string>
+    <string name="inviteContent_p1">Quản lý File ASUS là cách lý tưởng để quản lý các file bằng thiết bị thông minh của bạn. Ứng dụng quản lý file này giúp bạn xử lý và phân loại qua nhiều loại file khác nhau được lưu trữ trên bộ nhớ ĐT, thẻ microSD, mạng nội bộ và ngay cả trên Đám mây.</string>
+    <string name="inviteContent_p2">Quản lý file hiệu quả và dễ dàng bằng Quản lý File ASUS! Quản lý File ASUS giúp bạn xử lý tất cả các file dù chúng được lưu trữ trên bộ nhớ thiết bị, thẻ microSD, mạng nội bộ, và các tài khoản đám mây như ASUS HomeCloud và Webstorage riêng của chúng tôi và các dịch vụ Đám mây khác như Dropbox, Google Drive hoặc Microsoft OneDrive.</string>
+    <string name="inviteContent_p3">Tôi rất thích dùng Quản lý File ASUS. Dùng thử NGAY! :D</string>
+    <string description="sticker detail page button name" maxwidth="-1" name="invite_friends">"Mời bạn bè"</string>
+    <string name="item">mục</string>
+    <string name="items">mục</string>
+    <string name="keep">"Giữ lại"</string>
+    <string name="kk_sd_permission_warning">Do hạn chế của Android, Android 4.4 không cho phép các ứng dụng bên thứ 3 sửa đổi các thẻ SD ngoài.</string>
+    <string name="large_files_content_hint">"Tìm tập tin lớn và xóa chúng với sự cho phép của bạn."</string>
+    <string description="linked file is missing" maxwidth="-1" name="linked_file_missing">"Thiếu file vừa liên kết"</string>
+    <string description="text for progress bar" maxwidth="-1" name="loading">Đang tải\u2026</string>
+    <string name="local">Trên ĐT</string>
+    <string description="button text for sort file by date" maxwidth="-1" name="location">Địa điểm</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="logging_cloud_storage">Đang đ.nhập...</string>
+    <string name="login_account_miss">"Ứ.dụng Facebook không thể đăng ký Trình quản lý tài khoản Android. Hãy thử đăng xuất qua ứ.dụng Facebook rồi đăng nhập lại."</string>
+    <string name="login_again_later">"Máy chủ hiện không có sẵn. Hãy thử lại sau."</string>
+    <string description="dialog title, key in the asus ID and PW to Login account" maxwidth="-1" name="login_asus_id">"Đ.nhập tài khoản ASUS"</string>
+    <string description="Toast: login account fail" name="login_fail" width="-1">Ko thể đ.nhập</string>
+    <string description="login account name" maxwidth="-1" name="login_id">"Tên tài khoản/ID WebStorage"</string>
+    <string description="logout account" name="logout_account" width="-1">Đăng xuất</string>
+    <string name="low_storage_tutorial_description">Chạm và giữ để chọn các file rồi chọn "Chuyển sang" Google Drive</string>
+    <string name="low_storage_tutorial_title">Chuyển các file sang Google Drive</string>
+    <string name="m_permission_dialog_message">"Chạm [Cài đặt] để kích hoạt quyền [%2$s] trong [Thông tin ứng dụng] > [Quyền], rồi khởi động lại %1$s."</string>
+    <string name="m_permission_dialog_positive_button">"Cài đặt"</string>
+    <string name="m_permission_setting_subtitle_files">"%1$s sẽ cần quyền %2$s để truy cập và các tập tin của bạn trong thiết bị này."</string>
+    <string name="m_permission_setting_title_cloud_storage">"Không thể truy cập bộ nhớ đám mây"</string>
+    <string name="m_permission_setting_title_files">"Không thể truy cập các tập tin"</string>
+    <string name="m_permission_setting_turn_on">"Bật"</string>
+    <string description="string indicating how camera shooting feature is used" maxwidth="-1" name="manual">Thủ công</string>
+    <string name="market_app_error">"Ứng dụng APP market cài đặt trên thiết bị của bạn đã bị lỗi!"</string>
+    <string description="ask user to enter email address as account name" maxwidth="-1" name="member_id_hint">"Nhập địa chỉ email"</string>
+    <string description="The title of a menu for General Preferences.Pressing the menu item lets user to view and edit his general settings" maxwidth="30" name="menu_general_preferences">Cài đặt chung</string>
+    <string description="settings menu tutorial" maxwidth="-1" name="menu_tutorial">Hướng dẫn</string>
+    <string name="messenger_send_button_text">Gửi</string>
+    <string msgid="2486157997434653710" name="minute">"1 phút"</string>
+    <string msgid="6115838729146292526" name="minutes">"<ns1:g id="MINUTES">%s</ns1:g> phút"</string>
+    <string description="Hint: move the items" maxwidth="-1" name="move">Di chuyển</string>
+    <string name="move_or_delete_msg">"Tạm thời xóa các mục này vào thùng rác ngay bây giờ?\n(Nhấp vào hộp chọn bên dưới để xóa các mục này vĩnh viễn.)"</string>
+    <string name="move_to">Chuyển đến</string>
+    <string description="Toast: move to recycle bin fails" maxwidth="-1" name="move_to_hidden_zone_fail">"Di chuyển đến Ngăn tủ Ẩn thất bại"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="move_to_hidden_zone_progress">"Đang di chuyển đến Ngăn tủ Ẩn..."</string>
+    <string description="Toast: move to recycle bin success" maxwidth="-1" name="move_to_hidden_zone_success_more">"Các tập tin được chọn đã được di chuyển đến Ngăn tủ Ẩn."</string>
+    <string description="Toast: move to recycle bin success. %s is variable string." maxwidth="-1" name="move_to_hidden_zone_success_one">"\"%s\" đã được di chuyển đến Ngăn tủ Ẩn."</string>
+    <string description="Toast: move to recycle bin fails" maxwidth="-1" name="move_to_trash_fail">"Chuyển đến Thùng rác không thành công"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="move_to_trash_progress">"Đang di chuyển đến Thùng rác..."</string>
+    <string description="Toast: move to recycle bin success" maxwidth="-1" name="move_to_trash_success_more">"Các tập tin được chọn đã được chuyển đến Thùng rác"</string>
+    <string description="Toast: move to recycle bin success. %s is variable string." maxwidth="-1" name="move_to_trash_success_one">"\"%s\" đã được chuyển đến Thùng rác"</string>
+    <string name="msg_too_big_to_recycle">"Các mục này quá lớn để tái chế.\nBạn có muốn xóa chúng vĩnh viễn?"</string>
+    <string name="multi_drm_file_forbidden_operation">Thao tác này bị cấm do một số file đã chọn được bảo vệ bởi DRM.</string>
+    <string description="shortcut label" maxwidth="-1" name="my_camera_title">Camera</string>
+    <string description="shortcut label" maxwidth="-1" name="my_download_title">Tải về</string>
+    <string description="shortcut label" maxwidth="-1" name="my_music_title">Nhạc</string>
+    <string description="shortcut label" maxwidth="-1" name="my_picture_title">Hình</string>
+    <string description="storage label" maxwidth="-1" name="my_storage_title">Bộ nhớ của tôi</string>
+    <string description="button text for sort file by name" maxwidth="-1" name="name">Tên</string>
+    <string description="button text for sort file by name ascending" maxwidth="-1" name="name_ascending">Tên (z-a)</string>
+    <string description="button text for sort file by name descending" maxwidth="-1" name="name_descending">Tên (a-z)</string>
+    <string name="network_cta_hint">hãy chấp nhận để kết nối với mạng</string>
+    <string name="network_invalid">"Kết nối mạng không hợp lệ"</string>
+    <string name="network_invalid_info">"Kết nối không hợp lệ. Hãy kiểm tra lại."</string>
+    <string name="network_not_available">"Không thể kết nối mạng"</string>
+    <string description="Can’t connect to networkpalce" maxwidth="-1" name="networkplace_access_error">"Không thể kết nối. Đảm bảo máy chủ đang trực tuyến."</string>
+    <string name="networkplace_storage_title">"Địa điểm mạng"</string>
+    <string description="Dialog Title: create new folder" maxwidth="" name="new_folder_dialog">Tạo thư mục mới</string>
+    <string description="Toast: new folder fails" maxwidth="-1" name="new_folder_fail">Ko thể tạo thư mục mới.</string>
+    <string description="Toast: new folder success. %s is variable string." maxwidth="-1" name="new_folder_success">Đã tạo thư mục \"%s\".</string>
+    <string maxwidth="" name="news_1"><b>Bảng đ.khiển chính có thể tùy chỉnh</b>: Giờ bạn có thể tùy chỉnh bảng đ.khiển chính bằng các hạng mục và trình tự khác nhau.</string>
+    <string maxwidth="" name="news_2"><b>Bảng chọn yêu thích</b>: Thêm thư mục yêu thích trực tiếp từ hạng mục yêu thích.</string>
+    <string maxwidth="" name="news_3"><b>Widget Quản Lý File</b>: Tạo phím tắt thư mục trên Trình Khởi Động.</string>
+    <string maxwidth="" name="news_mark1">"★  "</string>
+    <string maxwidth="" name="news_subtitle">"Đây là cập nhật quan trọng bạn không nên bỏ lỡ."</string>
+    <string maxwidth="" name="news_title">"Có gì mới"</string>
+    <string maxwidth="" name="news_v21"><b>Truyền file không dây sang/từ PC</b>: Truyền/quản lý file sang/từ PC</string>
+    <string maxwidth="" name="news_v23">"Cải thiện hiệu suất và sửa lỗi"</string>
+    <string maxwidth="" name="news_v31">"Trình phân tích bộ nhớ cho phép bạn biết kiểu tập tin nào đã chiếm toàn bộ dung lượng bộ nhớ"</string>
+    <string maxwidth="" name="news_v32">"Danh mục ứng dụng mới được cải tiến"</string>
+    <string name="news_v41">"Ẩn các tập tin riêng tư của bạn trong Ngăn tủ Ẩn"</string>
+    <string name="news_v42">"Khôi phục tất cả tập tin đã xóa từ Thùng Rác"</string>
+    <string name="news_v43">"Xóa bỏ các tập tin trùng lặp khỏi Trình phân tích Bộ nhớ"</string>
+    <string name="news_v44">"Tính năng hiển thị mới - Chế độ Bóng tối"</string>
+    <string name="news_v45">"Tăng cường hiệu suất"</string>
+    <string name="news_v46">"Các lỗi đã sửa"</string>
+    <string name="newversion_description">"Bản cập nhật Quản Lý File hiện đã có sẵn. Bạn có muốn cập nhật ngay?"</string>
+    <string name="newversion_title">"P.bản mới"</string>
+    <string name="next">Kế tiếp</string>
+    <string description="Dialog Button: no for dialog" maxwidth="" name="no">Không</string>
+    <string name="no_device">"Ko có thiết bị"</string>
+    <string name="no_items">"Ko có mục"</string>
+    <string name="no_network">"Không có kết nối mạng"</string>
+    <string description="The description to inform users when there is no internet access" maxwidth="-1" name="no_network_connection_message">"Hãy kiểm tra kết nối của bạn và thử lại"</string>
+    <string name="no_network_info">"Cần kết nối internet để truy cập ứng dụng này. Hãy bật mạng di động hoặc WiFi trong Cài đặt."</string>
+    <string name="no_password">"Hãy nhập mật khẩu của bạn"</string>
+    <string name="no_right">"Tài khoản của bạn không có quyền đăng nhập."</string>
+    <string name="no_share_folder">Ko có file chia sẻ trong thiết bị này</string>
+    <string description="Toast: No space to copy file and left on device" maxwidth="-1" name="no_space_fail">Thiếu bộ nhớ</string>
+    <string name="no_user_exist">"Tên n.dùng không tồn tại"</string>
+    <string name="no_username">"Nhập tên n.dùng của bạn trước."</string>
+    <string name="notification_gdrive_redeem_content">"Nhận NGAY từ Google Drive. "</string>
+    <string name="notification_gdrive_redeem_title">"Bộ nhớ 100GB miễn phí!"</string>
+    <string name="occur_error_do_relogin">"Đăng nhập lại vào %s"</string>
+    <string description="Dialog Button: ok for dialog" maxwidth="" name="ok">OK</string>
+    <string name="onedrive_account_only_one_alert">"Bạn chỉ được phép thêm một tài khoản OneDrive cho ASUS. Bạn phải xóa tài khoản hiện hành trước khi thay thế bằng tài khoản mới."</string>
+    <string name="open">Mở</string>
+    <string description="Toast: open file fails" maxwidth="-1" name="open_fail">Ko thể mở file.</string>
+    <string maxwidth="" name="open_source_license_description">"Thông báo giấy phép dành cho phần mềm mã nguồn mở"</string>
+    <string maxwidth="" name="open_source_license_title">"Giấy phép nguồn mở"</string>
+    <string name="password">Mật khẩu</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="paste">Dán</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="paste_exist_apply">Áp dụng cho tất cả</string>
+    <string description="Dialog Title: paste exist dialog title" maxwidth="" name="paste_exist_dialog">Trùng tên file</string>
+    <string description="Dialog Content: text in dialog. %s is variable string." maxwidth="" name="paste_exist_file">File \"%s\" đã tồn tại.</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="paste_exist_replace">Bạn muốn thay thế bằng file mới?</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="paste_exist_to">Đến</string>
+    <string description="Toast: paste fails" maxwidth="-1" name="paste_fail">Ko thể dán file.</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="paste_progress">Đang dán...</string>
+    <string name="paste_progress_title">T.vụ sao chép khác đang chạy...</string>
+    <string description="Toast: paste success. %s is variable string." maxwidth="-1" name="paste_success">Các file đã được thêm vào \"%s\".</string>
+    <string name="permanently_delete">"Xóa vĩnh viễn"</string>
+    <string description="Toast: operation permission deny" maxwidth="-1" name="permission_deny">Giấy phép bị từ chối.</string>
+    <string name="permission_dialog_title">"Giấy phép ứng dụng"</string>
+    <string name="permission_essential">"Cần có giấy phép. Vào Cài đặt để bật các giấy phép!"</string>
+    <string name="permission_reason_contact">"Quản lý file cần truy cập thông tin tài khoản của bạn để đăng nhập vào bộ nhớ đám mây."</string>
+    <string name="permission_reason_storage">"Quản lý file cần truy cập bộ nhớ trên thiết bị của bạn để hoạt động thích hợp"</string>
+    <string description="Toast: You may not select more than %s photos." maxwidth="-1" name="photo_selection_limit_number_toast">Chọn tối đa %s ảnh chụp</string>
+    <string description="This is the title of the screen for setting user preferences." maxwidth="-1" name="preferences_title">Cài đặt</string>
+    <string name="previous_folder">"Thư mục trước"</string>
+    <string maxwidth="" name="privacy_policy">"Chính sách quyền riêng tư"</string>
+    <string name="privacy_policy_url">http://www.asus.com/us/Terms_of_Use_Notice_Privacy_Policy/Privacy_Policy/</string>
+    <string name="processing_picture">"Đang xử lý hình"</string>
+    <string name="processing_video">"Đang xử lý video"</string>
+    <string name="progressactivity_title">Trình quản lý tải lên/tải về</string>
+    <string name="promote_darkmode_message">"Thay đổi tùy chọn ưu tiên của bạn trong %s"</string>
+    <string name="promote_darkmode_title">"Tính năng hiển thị mới - Chế độ Bóng tối"</string>
+    <string name="promotion_notification_content">"Bạn nên dùng thử \"Truyền file không dây\"!"</string>
+    <string name="promotion_notification_title">"Vẫn sử dụng cáp USB để truyền file?"</string>
+    <string name="publish">"Đăng tải"</string>
+    <string name="pullfreshlistview_footer_hint_normal">Tải thêm</string>
+    <string name="pullfreshlistview_footer_hint_ready">Nhả để tải thêm</string>
+    <string name="pullfreshlistview_header_hint_loading">Đang nạp lại...</string>
+    <string name="pullfreshlistview_header_hint_normal">Kéo xuống</string>
+    <string name="pullfreshlistview_header_hint_ready">Nhả để nạp lại</string>
+    <string name="pullfreshlistview_header_last_time">T.gian nạp lại gần nhất:</string>
+    <string name="rate_later">"Lần sau"</string>
+    <string name="rate_now">"Xếp hạng ngay"</string>
+    <string description="rate us" maxwidth="-1" name="rate_us">X.hạng chúng tôi</string>
+    <string name="rating_dialog_message_v3_1">"Thích sử dụng %s? Xếp hạng chúng tôi trên Google Play để khích lệ chúng tôi!"</string>
+    <string name="rating_dialog_message_v3_2">"Về các đề xuất và ý kiến phản hồi, hãy viết thư cho chúng tôi qua %s."</string>
+    <string name="recent_files_content_hint">"Tìm các tập tin gần đây và xóa chúng với sự cho phép của bạn."</string>
+    <string description="shortcut title: recently used files" name="recently_used" width="-1">Gần đây</string>
+    <string name="recommend_clean_master_msg">"Android Optimizer, Speed Booster, Battery Saver và Anti-Virus miễn phí là những ứng dụng đáng tin cậy nhất thế giới. \nTải về ngay?"</string>
+    <string name="recommend_clean_master_title">"Giới thiệu ứng dụng"</string>
+    <string name="recommend_scan_qr_code">"Thông báo cho bạn bè tải về\n ứng dụng này bằng cách quét mã QR này."</string>
+    <string description="recruit beta user" maxwidth="-1" name="recruit_beta_user">Tải phiên bản xem thử</string>
+    <string name="recycle_bin_content_hint">"Chứa tất cả tập tin và thư mục đã bị xóa."</string>
+    <string description="dialog title, key in the asus ID and PW to Login account" maxwidth="-1" name="regist_asus_id">"Tạo tài khoản ASUS"</string>
+    <string description="ask user to enter email address to registe New Account" name="registe_id">"Tên tài khoản"</string>
+    <string description="ask user to enter new password" name="registe_password">"Nhập 8-25 ký tự"</string>
+    <string description="sign up registe action" name="registe_sign_up">"Đăng ký"</string>
+    <string description="network is unavailable, please try again" maxwidth="-1" name="remote_connected_error_hint">Mạng không có sẵn, hãy thử lại</string>
+    <string description="remote storage label" maxwidth="-1" name="remote_storage_title">Bộ nhớ từ xe</string>
+    <string name="remove_favorite">Xóa khỏi Mục yêu thích</string>
+    <string name="remove_favorite_notice_more">Bạn có chắc muốn xóa các mục %d khỏi thư mục yêu thích?</string>
+    <string name="remove_favorite_notice_one">Bạn có chắc muốn xóa \"%s\" khỏi thư mục yêu thích?</string>
+    <string name="remove_favorite_success">Xóa thành công</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="rename">Đổi tên</string>
+    <string description="Dialog Title: rename dialog title" maxwidth="" name="rename_dialog">Đổi tên</string>
+    <string description="Toast: rename fails" maxwidth="-1" name="rename_fail">Ko thể đổi tên file.</string>
+    <string name="rename_favorite_folder">Đổi tên thư mục yêu thích</string>
+    <string name="rename_favorite_notice">Đã có thư mục trùng tên trong thư mục yêu thích, bạn có muốn đổi tên?</string>
+    <string name="rename_favorite_success">Đổi tên thành công và lưu vào Mục yêu thích</string>
+    <string description="Toast: rename success" maxwidth="-1" name="rename_success">Đổi tên file thành công.</string>
+    <string description="renaming file" name="renaming_file" width="-1">Đang đổi tên</string>
+    <string name="replace">"Thay thế"</string>
+    <string description="Toast: restore fails" maxwidth="-1" name="restore_fail">"Khôi phục thất bại"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="restore_progress">"Đang khôi phục..."</string>
+    <string description="Toast: restore success" maxwidth="-1" name="restore_success_more">"Các tập tin được chọn đã được khôi phục"</string>
+    <string description="Toast: restore success. %s is variable string." maxwidth="-1" name="restore_success_one">"\"%s\" đã được khôi phục"</string>
+    <string name="retention_notification_large_file">"Bạn đã thêm %1$s file lớn. Xem chúng ngay."</string>
+    <string name="retention_notification_recent_file">"Các file gần đây của bạn sử dụng %1$s dung lượng. Xem chúng ngay."</string>
+    <string name="saf_permission_tutorial_content">Quản lý file ASUS yêu cầu truy cập để dùng thẻ SD của bạn. Bạn có muốn cấp phép?</string>
+    <string name="saf_permission_tutorial_content_v2">"Bạn phải thực hiện các bước nhất định để cho phép các quyền truy cập %s."</string>
+    <string name="saf_permission_tutorial_dialog">"Bạn phải thực hiện một quy trình để cấp quyền truy cập thẻ SD. Bạn muốn tiếp tục?"</string>
+    <string name="saf_permission_tutorial_title">Yêu cầu truy cập để dùng thẻ SD</string>
+    <string name="saf_tutorial_step_one">Chạm b.tượng Menu rồi chạm Hiển thị thẻ SD.</string>
+    <string name="saf_tutorial_step_three">Chạm Chọn thẻ SD để cấp phép truy cập Quản lý file ASUS.</string>
+    <string name="saf_tutorial_step_three_v2">"Chạm Chọn %s để cho phép truy cập vào Trình Quản lý Tập tin ASUS."</string>
+    <string name="saf_tutorial_step_two">Vuốt mép trái màn hình để hiển thị ngăn kéo rồi chạm thẻ SD.</string>
+    <string name="saf_tutorial_step_two_v2">"Trượt từ bên trái của màn hình để hiển thị ngăn kéo, rồi chạm %s."</string>
+    <string name="saf_tutorial_title">Giấy phép sử dụng thẻ SD</string>
+    <string name="saf_tutorial_title_v2">"Giấy phép để vận hành %s"</string>
+    <string description="account config dialog remind message" maxwidth="-1" name="samba_client_config_check">Nhớ tên đăng nhập và mật khẩu, kết nối trực tiếp lần sau</string>
+    <string name="samba_input_error">tên đăng nhập hoặc mật khẩu ko thể trống!</string>
+    <string name="samba_login_error">Tên đăng nhập hoặc mật khẩu vừa nhập không đúng.</string>
+    <string name="samba_storage_add_title">Địa điểm mạng</string>
+    <string name="samba_storage_title">"SAMBA"</string>
+    <string name="scan_qr_code">"Quét mã QR"</string>
+    <string description="rate now" maxwidth="" name="scroll_up_toast">Hãy cuộn lên để xếp hạng</string>
+    <string name="sd_label">"OneDrive cho ASUS"</string>
+    <string name="search_action">Tìm kiếm</string>
+    <string description="search hint message" maxwidth="-1" name="search_hint">Nhập tên file</string>
+    <string description="cutstom action bar view title for search" maxwidth="-1" name="search_label">Tìm kiếm file</string>
+    <string description="search dialog message" maxwidth="-1" name="search_progress">Đang tìm..</string>
+    <string description=" text for search result" formatted="false" maxwidth="-1" name="search_result_title">Đang tìm %s trong %s: Đã tìm thấy %d file</string>
+    <string name="select_album">Chọn album</string>
+    <string description="Menu Option: select all checkbox" maxwidth="" name="select_all">Chọn tất cả</string>
+    <string description="Title: select the folder" maxwidth="-1" name="select_folder">Chọn thư mục</string>
+    <string name="select_folder_by_ok_button">"Nhấn %1$s để chọn thư mục này"</string>
+    <string name="select_photo">Chọn ảnh chụp</string>
+    <string name="server">Máy chủ:</string>
+    <string name="server_error">"Lỗi máy chủ"</string>
+    <string name="server_hint">"172.0.0.1/ShareFolder"</string>
+    <string name="server_title">Máy chủ</string>
+    <string maxwidth="-1" name="service_not_available_in_your_country">"Mục này không khả dụng ở quốc gia của bạn."</string>
+    <string name="set_password_title">"Tạo mã PIN"</string>
+    <string name="set_ring">"Đặt làm chuông"</string>
+    <string name="setting_display_group">"Hiển thị"</string>
+    <string name="setting_notification_group">"Thông báo"</string>
+    <string name="setting_notification_large_files">"Thông báo về tập tin lớn"</string>
+    <string name="setting_notification_recent_files">"Thông báo tập tin gần đây"</string>
+    <string name="setting_notification_wireless_transfer">"Thông báo chuyển không giây"</string>
+    <string name="setting_view_group">"Xem cài đặt"</string>
+    <string name="setting_view_hide_files">"Ẩn các tập tin hệ thống"</string>
+    <string name="settings">"Cài đặt"</string>
+    <string description="This is the title of cache size" maxwidth="-1" name="settings_cache_size_title">Cỡ BN cache</string>
+    <string description="Remove all cache documents" maxwidth="-1" name="settings_clear_cache_info">Xóa mọi tài liệu trên BN cache</string>
+    <string description="Clear the cache" maxwidth="-1" name="settings_clear_cache_title">Xóa hết BN cache</string>
+    <string description="This is the title of clearing search history action for setting user preferences." maxwidth="-1" name="settings_clear_search_history">Xóa hết lược sử tìm kiếm</string>
+    <string name="settings_darkmode_message">"Áp dụng chế độ Bóng tôi"</string>
+    <string name="settings_description">"Thư mục và tập tin trên thiết bị"</string>
+    <string description="This is the title of documents cache" maxwidth="-1" name="settings_documents_cache">BN cache tài liệu</string>
+    <string description="recommend text" maxwidth="" name="settings_encourage_us_detail">Nếu bạn thích thú khi sử dụng Trợ %s, hãy xếp hạng chúng tôi 5 sao trên Play Store. Đó sẽ là sự khích lệ lớn đối với chúng tôi để tiếp tục cải tiến sản phẩm!</string>
+    <string description="This is the title of hiding system files action for setting user preferences." maxwidth="-1" name="settings_hide_system_files">Ẩn các file hệ thống</string>
+    <string description="This is the title of moving to the trash can." maxwidth="-1" name="settings_moved_to_the_trash_can">Đã chuyển vào Thùng rác</string>
+    <string description="Remove account" maxwidth="-1" name="settings_remove_account">Xóa tài khoản</string>
+    <string description="Set the cache size to %s" maxwidth="-1" name="settings_set_cache_size">Cỡ BN cache đc cài sang \"%s\"</string>
+    <string description="This is the title of space used for setting user preferences." maxwidth="-1" name="settings_space_used">D.lượng đã dùng</string>
+    <string description="This is the title of trash can information for setting user preferences." maxwidth="-1" name="settings_trash_can">Thùng rác</string>
+    <string description="This is the title of user name" maxwidth="-1" name="settings_user_name">Tên đăng nhập</string>
+    <string name="setup">"Thiết lập"</string>
+    <string name="setup_account_description">"Vui lòng thiết lập tài khoản email để truy xuất mã PIN của bạn"</string>
+    <string name="setup_account_no_internet_connection">"Không có kết nối Internet"</string>
+    <string name="setup_account_skip">"Bỏ qua"</string>
+    <string name="setup_account_title">"Truy xuất mã PIN"</string>
+    <string name="setup_fingerprint_message">"Kích hoạt vân tay để mở khóa? Ngăn tủ Ẩn hỗ trợ xác thực vân tay. Quét vân tay của bạn trong mục Cài đặt để bắt đầu."</string>
+    <string name="setup_my_digital_code">"Thiết lập mã PIN"</string>
+    <string name="share_more">"Khác"</string>
+    <string name="share_with_friend">"Chia sẻ ứng dụng này với bạn bè"</string>
+    <string description="Context Menu: options of context menu: share folder via Wi-Fi Direct" maxwidth="" name="shared_folder">Chia sẻ qua Wi-Fi Direct</string>
+    <string description="shortcit title" maxwidth="-1" name="short_cuts_title">Phím tắt</string>
+    <string name="shortcut_hint">"Chạm và giữ một hạng mục hoặc thư mục để tạo phím tắt trên Trình khởi động."</string>
+    <string description="check if user want to show password" name="show_passwd">"Hiển thị mật khẩu"</string>
+    <string description="show when sign in failed" maxwidth="-1" name="signin_failed">"Ko thể đ.nhập"</string>
+    <string description="signout account" name="signout_account" width="-1">Ngắt kết nối</string>
+    <string name="single_drm_file_forbidden_operation">Thao tác này bị cấm do được bảo vệ bởi DRM.</string>
+    <string description="button text for sort file by size" maxwidth="-1" name="size">K.thước</string>
+    <string description="button text for sort file by size ascending" maxwidth="-1" name="size_ascending">K.thước (lớn-nhỏ)</string>
+    <string description="button text for sort file by size descending" maxwidth="-1" name="size_descending">K.thước (nhỏ-lớn)</string>
+    <string name="ssl_err_msg_info">"Không thể kết nối an toàn với máy chủ. Bạn muốn tiếp tục?"</string>
+    <string name="ssl_err_msg_title">"Lỗi kết nối SSL"</string>
+    <string description="shortcut title: my favorite files" name="starred" width="-1">Có dấu sao</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="storage_type_cloud">Bộ nhớ đám mây</string>
+    <string name="storage_type_cloud_att">"Bộ nhớ mạng"</string>
+    <string name="storage_type_local">Bộ nhớ ĐT</string>
+    <string name="storage_type_shortcut">"Phím tắt"</string>
+    <string name="storagetype_add_account">Thêm t.khoản Google</string>
+    <string name="tap_to_exit">Chạm lại để thoát</string>
+    <string name="target_directory_is_child_of_source">Không thể hoàn tất thao tác vì thư mục đích là con của thư mục nguồn.</string>
+    <string description="Toast: target file exists" maxwidth="-1" name="target_exist">File m.tiêu đã tồn tại.</string>
+    <string description="Toast: target folder exists. %s is variable string." maxwidth="-1" name="target_folder_exist">Thư mục \"%s\" đã tồn tại.</string>
+    <string description="" maxwidth="" name="tell_friend">Thông báo cho bạn bè</string>
+    <string maxwidth="" name="terms_of_service">"Thông báo điều khoản sử dụng"</string>
+    <string maxwidth="" name="terms_of_service_url">http://www.asus.com/us/Terms_of_Use_Notice_Privacy_Policy/Official-Site/</string>
+    <string description="title" maxwidth="-1" name="title">Thông tin pháp lý:</string>
+    <string name="toast_auto_lock_notify_message">"Khóa Ngăn tủ Ẩn khi thiết bị đã khóa"</string>
+    <string description="Toast: The item(s) has been copied completely" maxwidth="-1" name="toast_drag_copied_items">(Các) mục đã được sao chép hoàn toàn</string>
+    <string description="Toast: The item(s) has been moved completely" maxwidth="-1" name="toast_drag_moved_items">(Các) mục đã được di chuyển hoàn toàn</string>
+    <string description="Toast: Sorry, copy files complete but cut fail" maxwidth="-1" name="toast_warning_copy_comple_cut_fail">Rất tiếc, chép file đã hoàn tất nhưng ko thể xóa file cũ</string>
+    <string description="Toast: Sorry, copy folders has not been supported" maxwidth="-1" name="toast_warning_copy_folders">Rất tiếc, chép thư mục không được hỗ trợ</string>
+    <string maxwidth="35" name="toolbar_item_title_encourage_us">Khích lệ chúng tôi</string>
+    <string name="tools_clean_master">"Dọn sạch file rác"</string>
+    <string name="tools_file_transfer">"Truyền file PC"</string>
+    <string name="tools_hidden_zone">"Ngăn tủ Ẩn"</string>
+    <string name="tools_recycle_bin">"Thùng rác"</string>
+    <string name="tools_storage_analyzer">"Trình phân tích bộ nhớ"</string>
+    <string name="tools_tip_animation">"Kéo lên để xem công cụ!"</string>
+    <string name="tools_zenui_instant_update">"Cập nhật tức thì"</string>
+    <string description="shortcut title: trash can" name="trash_can" width="-1">Thùng rác</string>
+    <string maxwidth="-1" name="trash_info_deleted">"Ngày xóa: "</string>
+    <string maxwidth="-1" name="trash_info_path">"Đường dẫn gốc: "</string>
+    <string description="label for trending searches" maxwidth="-1" name="trending_searches">"Xu hướng tìm kiếm"</string>
+    <string name="tutorial_analyzer_content">"Trình phân tích Bộ nhớ cho phép bạn biết tập tin nào đang chiếm dung lượng đĩa của bạn."</string>
+    <string name="tutorial_category_content">"Tìm kiếm các tập tin chưa bao giờ dễ dàng thế với tính năng Xem danh mục của Trình quản lý Tập tin ASUS."</string>
+    <string name="tutorial_category_title">"Xem danh mục"</string>
+    <string name="tutorial_cloud_content">"Truy cập tập tin từ điện thoại thông minh, máy tính và lưu trữ đám mây của bạn."</string>
+    <string name="tutorial_cloud_title">"Lưu trữ đám mây"</string>
+    <string name="tutorial_done">Xong</string>
+    <string name="tutorial_page_content_long_press">Chạm và giữ để chọn một mục rồi chạm b.tượng \"Menu\" để hiện các tùy chọn thao tác khác.</string>
+    <string name="tutorial_page_four_content">Cài thư mục thường dùng làm Mục yêu thích để truy cập các thư mục nhanh và dễ.</string>
+    <string name="tutorial_page_four_title">Mục yêu thích</string>
+    <string name="tutorial_page_one_content">Quản lý file ASUS cho phép bạn dễ dàng quản lý các file lưu trên các bộ nhớ trong, ngoài, mạng nội bộ hoặc đám mây.</string>
+    <string name="tutorial_page_one_title">Quản lý file ASUS</string>
+    <string name="tutorial_page_three_content">Vuốt một mục sang phải để hiển thị các thao tác như Thêm vào Mục yêu thích, Đổi tên, Chuyển sang, Chép vào và các tùy chọn quản lý file khác.</string>
+    <string name="tutorial_page_three_title">Vuốt DS thao tác sang phải</string>
+    <string name="tutorial_page_title_long_press">Hiển thị menu thao tác</string>
+    <string name="tutorial_page_two_content">Các mục tiện dụng cho phép bạn truy cập nhanh các file trong bộ nhớ ĐT.</string>
+    <string name="tutorial_page_two_title">Trang chủ</string>
+    <string name="tutorial_skip">Bỏ qua</string>
+    <string description="button text for sort file by type" maxwidth="-1" name="type">Loại</string>
+    <string description="document type" maxwidth="-1" name="type_abu">S.lưu ứ.dụng Asus</string>
+    <string description="document type" maxwidth="-1" name="type_apk">Ứ.dụng Android</string>
+    <string description="document type" maxwidth="-1" name="type_audio">Âm thanh</string>
+    <string description="document type" maxwidth="-1" name="type_book">Sách điện tử</string>
+    <string name="type_dialog_audio">Âm thanh</string>
+    <string name="type_dialog_image">Hình ảnh</string>
+    <string name="type_dialog_text">Văn bản</string>
+    <string name="type_dialog_title">Mở dạng</string>
+    <string name="type_dialog_video">Video</string>
+    <string description="document type" maxwidth="-1" name="type_directory">Thư mục</string>
+    <string description="document type" maxwidth="-1" name="type_document">Tài liệu</string>
+    <string description="document type" maxwidth="-1" name="type_file">File</string>
+    <string description="document type" maxwidth="-1" name="type_image">Hình ảnh</string>
+    <string description="document type" maxwidth="-1" name="type_playlist">DS nhạc</string>
+    <string description="document type" maxwidth="-1" name="type_rar">"RAR"</string>
+    <string description="document type" maxwidth="-1" name="type_video">Video</string>
+    <string description="document type" maxwidth="-1" name="type_zip">Nén</string>
+    <string name="ud_sdk_all_app_update">"Mọi ứng dụng đang chạy p.bản hiện hành."</string>
+    <string name="ud_sdk_asus_app_slogan">ứng dụng hữu ích</string>
+    <string name="ud_sdk_downloads">File tải về</string>
+    <string name="ud_sdk_free_download">Tải về miễn phí</string>
+    <string name="ud_sdk_important_remind_text">"Quan trọng"</string>
+    <string name="ud_sdk_install">Cài đặt</string>
+    <string name="ud_sdk_more_zen_family">Khám phá nhiều ứng dụng ZenUI hơn</string>
+    <string name="ud_sdk_no_network_connection_content">Không thể cập nhật dữ liệu. Hãy kiểm tra cài đặt mạng của bạn.</string>
+    <string name="ud_sdk_no_network_connection_title">Không có kết nối mạng</string>
+    <string name="ud_sdk_open">Mở</string>
+    <string name="ud_sdk_update">Cập nhật</string>
+    <string maxwidth="-1" name="ud_sdk_update_sdk">Dòng ZenUI</string>
+    <string maxwidth="-1" name="ud_sdk_update_sdk_asus">Cập nhật ngay ZenUI</string>
+    <string name="ud_sdk_wifi_settings">Cài đặt Wi-Fi</string>
+    <string name="uf_sdk_already_give_5star">"Đã đánh giá 5 sao"</string>
+    <string description="%d is a number, don&apos;t translate" name="uf_sdk_article_read_count">"%d lượt xem"</string>
+    <string name="uf_sdk_attachment_format_warning">"Định dạng tập tin không đúng. Chỉ có thể đính kèm tập tin ảnh"</string>
+    <string name="uf_sdk_attachment_total_size">"Tổng cộng"</string>
+    <string name="uf_sdk_attachment_warning">"Kích thước tập tin đính kèm vượt quá giới hạn cho phép"</string>
+    <string maxwidth="-1" name="uf_sdk_cancel_btn_content">"Hủy"</string>
+    <string name="uf_sdk_choosertitle_sharevia">"Chia sẻ qua"</string>
+    <string name="uf_sdk_connection_error_msg">"Máy chủ đã hủy kết nối. Vui lòng thử lại sau."</string>
+    <string name="uf_sdk_connection_error_title">"Lỗi kết nối"</string>
+    <string name="uf_sdk_discard">"Hủy bỏ"</string>
+    <string name="uf_sdk_email_illigal">"Địa chỉ email đã được sử dụng"</string>
+    <string maxwidth="-1" name="uf_sdk_empty_notification">"Trống :)"</string>
+    <string name="uf_sdk_faq">"Hỏi Đáp"</string>
+    <string name="uf_sdk_feedback_and_help">"Phản hồi &amp; Trợ giúp"</string>
+    <string name="uf_sdk_forum_description">"Tham gia hội thoại với người dùng ASUS để tìm và chia sẻ giải pháp của bạn"</string>
+    <string maxwidth="-1" name="uf_sdk_grant_permission_title">"Cấp quyền cho"</string>
+    <string name="uf_sdk_help">"Trợ giúp"</string>
+    <string name="uf_sdk_instant_answer_question">"Hỏi Đáp này có hữu ích?"</string>
+    <string name="uf_sdk_like">"Thích"</string>
+    <string maxwidth="-1" name="uf_sdk_message">"Thông báo"</string>
+    <string name="uf_sdk_msg_bad_email_format">"Địa chỉ email không hợp lệ, hãy thử lại."</string>
+    <string name="uf_sdk_msg_confirm_discard_topic">"Mục đăng nháp của bạn sẽ ko được lưu. Bạn vẫn muốn xóa nó?"</string>
+    <string name="uf_sdk_msg_confirm_discard_topic_title">"Xóa mục đăng?"</string>
+    <string name="uf_sdk_msg_subscribe">"Đăng ký nhận thông báo tình trạng chủ đề sẽ được gửi cho bạn qua email."</string>
+    <string name="uf_sdk_msg_subscribe_success">"Đăng ký nhận thành công"</string>
+    <string name="uf_sdk_msg_ticket_created">"Phản hồi của bạn đã được gửi thành công cho ASUS"</string>
+    <string name="uf_sdk_msg_topic_created">"Đã đăng tải thành công"</string>
+    <string name="uf_sdk_msg_unsubscribe">"Hủy đăng ký nhận thành công"</string>
+    <string name="uf_sdk_name_hint">"Nhập tên bạn"</string>
+    <string name="uf_sdk_name_illigal">"Tên người dùng đã được sử dụng"</string>
+    <string name="uf_sdk_network_error">"Không có kết nối mạng, hãy kiểm tra cài đặt mạng của bạn."</string>
+    <string description="zenui news" maxwidth="" name="uf_sdk_news">"Tin tức"</string>
+    <string name="uf_sdk_no_network_connection_content">"Máy chủ đã hủy bỏ kết nối. Hãy thử lại sau. "</string>
+    <string name="uf_sdk_no_network_connection_title">"Lỗi kết nối"</string>
+    <string name="uf_sdk_nothing_found">"Không tìm thấy gì"</string>
+    <string name="uf_sdk_notice">"Chú ý"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category1">"Thông báo"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category2">"Hướng dẫn &amp; mẹo"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category3">"Khuyến mãi"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category4">"Sự kiện"</string>
+    <string name="uf_sdk_publish_an_topic">"Đăng tải chủ đề mới"</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_rate_now">"Đánh giá ngay"</string>
+    <string description="%s is AP name, don&apos;t translate" maxWidth="" name="uf_sdk_rate_us_detail">"Nếu bạn thích sử dụng %s, hãy đánh giá chúng tôi 5 sao trên Play Store."</string>
+    <string maxWidth="" name="uf_sdk_rate_us_detail_new">"Sự hỗ trợ của bạn bằng đánh giá 5 sao sẽ khích lệ chúng tôi tiếp tục công việc!"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_rating">"Đánh giá 5 sao"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title">"Đánh giá chúng tôi!"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title_new">"Khích lệ chúng tôi!"</string>
+    <string description="Menu item for userFeedback sdk" maxwidth="-1" name="uf_sdk_report_bug">Báo cáo lỗi</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_scroll_up_toast">"Hãy cuộn lên để đánh giá"</string>
+    <string name="uf_sdk_search_hint">"Trợ giúp tìm kiếm"</string>
+    <string name="uf_sdk_select_common_bug">"Chọn lỗi thông dụng"</string>
+    <string name="uf_sdk_send_feedback">"Gửi phản hồi"</string>
+    <string name="uf_sdk_send_feedback_help">"Phản hồi và địa chỉ email của bạn sẽ được gửi cho ASUS. Đội ngũ bảo hành sẽ liên hệ với bạn qua email."</string>
+    <string maxwidth="-1" name="uf_sdk_setting_btn_content">"Cài đặt"</string>
+    <string description="recommend title" maxwidth="" name="uf_sdk_settings_encourage_us_title">"Khích lệ chúng tôi"</string>
+    <string maxwidth="-1" name="uf_sdk_storage_permission_description">"Tính năng này cần nhận được quyền lưu trữ để truy cập vào các tập tin đa phương tiện. \n\nNếu bạn muốn bật tính năng này, vui lòng chạm vào nút Cài đặt để đi đến trang Cài đặt của, rồi thiết lập \"Thông tin ứng dụng\" > \"Quyền\" để cấp quyền.\n"</string>
+    <string name="uf_sdk_submit_topic">"Đăng tải"</string>
+    <string name="uf_sdk_subscribe_dialog_title">"Đăng ký nhận chủ đề này"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_answered">"Đã trả lời"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_completed">"đã hoàn tất"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_declined">"đã từ chối"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_implemented">"Đã thực hiện"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_planned">"đã định"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_under_review">"đang xem xét"</string>
+    <string name="uf_sdk_thanks_for_your_feedback">"Cảm ơn phản hồi của bạn!"</string>
+    <string description="%s is a application name, don&apos;t translate" name="uf_sdk_ticket_hint">"Nhập phản hồi cho %s"</string>
+    <string name="uf_sdk_title_topic">"Chủ đề"</string>
+    <string name="uf_sdk_topic">"Chủ đề"</string>
+    <string name="uf_sdk_topic_description_heading">"Mô tả"</string>
+    <string name="uf_sdk_topic_description_hint">"Mô tả chi tiết chủ đề của bạn"</string>
+    <string name="uf_sdk_topic_filter">"CHỦ ĐỀ"</string>
+    <string name="uf_sdk_topic_form_help">"Khi bạn đăng tải một chủ đề lên diễn đàn người dùng, những người dùng khác sẽ có thể đăng ký nhận và nhận xét về nó. Khi đội ngũ lập trình ASUS trả lời cho chủ đề này, bạn sẽ được thông báo qua email."</string>
+    <string name="uf_sdk_topic_form_title">"Đăng tải chủ đề mới"</string>
+    <string name="uf_sdk_topic_text_heading">"Diễn đàn"</string>
+    <string name="uf_sdk_topic_text_hint">"Nhập tiêu đề cho chủ đề của bạn"</string>
+    <string name="uf_sdk_topic_title">"Tiêu đề"</string>
+    <string name="uf_sdk_translation_10117605">"Lỗi dịch thuật"</string>
+    <string name="uf_sdk_translation_117562">"Loại phản hồi"</string>
+    <string name="uf_sdk_translation_2529543">"Báo lỗi"</string>
+    <string name="uf_sdk_translation_2529544">"Khác"</string>
+    <string name="uf_sdk_translation_2530478">"Gợi ý"</string>
+    <string name="uf_sdk_unhelpful_article_message_question">"Bạn có muốn gửi phản hồi cho đội ngũ lập trình ASUS?"</string>
+    <string name="uf_sdk_user_forum">"Diễn đàn người dùng"</string>
+    <string name="uf_sdk_warning">"Cảnh báo"</string>
+    <string name="uf_sdk_wifi_settings">"Cài đặt Wi-Fi"</string>
+    <string name="uf_sdk_wlan_settings">"Cài đặt WLAN"</string>
+    <string name="uf_sdk_write_your_feedback">"Nhập phản hồi vào đây"</string>
+    <string name="uf_sdk_your_draft_will_be_discarded">"Bản nháp của bạn sẽ bị hủy bỏ."</string>
+    <string description="description for empty search result" maxwidth="-1" name="unable_to_find_artlcles">"Không thể tìm thấy các bài viết liên quan đến \u0022%s\u0022"</string>
+    <string description="string indicating the length units in milli-meters" maxwidth="-1" name="unit_mm">mm</string>
+    <string description="Context Menu: options of context menu: unshare folder" maxwidth="-1" name="unshared_folder">Ko chia sẻ</string>
+    <string name="unsupported_area">"Khu vực này không hỗ trợ"</string>
+    <string description="toast message: extract files fail" maxwidth="-1" name="unzip_fail">Không thể xuất file</string>
+    <string description="extract file dialog message" maxwidth="-1" name="unzip_progress_msg">Đang xuất...</string>
+    <string description="toast message: extract files successly" maxwidth="-1" name="unzip_success">Đã xuất file thành công</string>
+    <string name="update">"Cập nhật"</string>
+    <string name="update_fb_app">"P.bản ứng dụng di động Facebook chưa cập nhật.  Hãy cài đặt phiên bản mới nhất từ Google Play."</string>
+    <string name="upgrade_notification_content">Xem file theo loại từ Màn hình chính hoàn toàn mới của chúng tôi.</string>
+    <string name="upgrade_notification_title">Thử ngay Quản lý File mới!</string>
+    <string name="upload_complete">"Hoàn tất tải lên"</string>
+    <string name="upload_complete_dialog_message">"Đã tải video lên thành công."</string>
+    <string name="upload_complete_dialog_title">"Hoàn tất"</string>
+    <string name="upload_fail">không thể tải lên!</string>
+    <string name="upload_failed">"Ko thể tải lên"</string>
+    <string name="upload_picture_toast">"Hình của bạn sẽ được tải lên. Kiểm tra tiến trình trong cửa sổ thông báo."</string>
+    <string name="upload_toast">"Video của bạn sẽ được tải lên. Kiểm tra tiến trình trong cửa sổ thông báo."</string>
+    <string name="uploading_picture">"Đang tải hình lên"</string>
+    <string name="uploading_video">"Đang tải video lên..."</string>
+    <string name="user">Tên đăng nhập</string>
+    <string name="user_hint">quản trị viên</string>
+    <string name="uv_admin_response_format">"Phản hồi của quản trị viên: %1$s"</string>
+    <string name="uv_all_articles">"Tất cả các bài viết"</string>
+    <string name="uv_all_results_filter">"TẤT CẢ"</string>
+    <string name="uv_android_sdk">Android SDK</string>
+    <string name="uv_article_browse_question">"Bài viết này có hữu ích?"</string>
+    <string name="uv_article_instant_answer_question">"Hỏi Đáp này có hữu ích?"</string>
+    <string name="uv_cancel">"Hủy"</string>
+    <string name="uv_category">"Danh mục"</string>
+    <string name="uv_close">"Đóng"</string>
+    <string name="uv_comment_hint">"Nhập bình luận của bạn"</string>
+    <string name="uv_confirm">"Xác nhận"</string>
+    <string name="uv_contact_continue_button">"Tôi vẫn muốn gửi một tin nhắn"</string>
+    <string name="uv_contact_hint">"Nhập câu hỏi hoặc phản hồi của bạn"</string>
+    <string name="uv_contact_us">"Liên hệ"</string>
+    <string name="uv_display_name">"Tên hiển thị"</string>
+    <string name="uv_email_address">"Địa chỉ email"</string>
+    <string name="uv_email_address_hint">"your@email.com (bắt buộc)"</string>
+    <string name="uv_error">"Lỗi"</string>
+    <string name="uv_failed_signin_error">"Email hoặc mật khẩu không chính xác"</string>
+    <string name="uv_forgot_password">"Quên mật khẩu"</string>
+    <string name="uv_helpful_article_message_question">"Bạn vẫn muốn gửi tin nhắn?"</string>
+    <string name="uv_i_want_this">"Tôi muốn điều này!"</string>
+    <string name="uv_idea_description_heading">"Mô tả chi tiết hơn ý tưởng của bạn"</string>
+    <string name="uv_idea_description_hint">"(tùy chọn)"</string>
+    <string name="uv_idea_text_heading">"Tôi gợi ý bạn..."</string>
+    <string name="uv_loading">"Đang tải..."</string>
+    <string name="uv_matching_articles">"Các bài viết trùng lặp"</string>
+    <string name="uv_matching_articles_and_ideas">"Các bài báo và ý tưởng trùng lặp"</string>
+    <string name="uv_menu_attach">"Đính kèm"</string>
+    <string name="uv_menu_search">"Tìm kiếm"</string>
+    <string name="uv_msg_bad_email_format">"Vui lòng nhập địa chỉ email hợp lệ."</string>
+    <string name="uv_msg_comment_posted">"Bình luận của bạn vừa được đăng tải"</string>
+    <string name="uv_msg_confirm_discard_message">"Bạn có chắc bạn muốn hủy bỏ tin nhắn của mình?"</string>
+    <string name="uv_msg_custom_fields_validation">"Vui lòng điền vào các trường bắt buộc"</string>
+    <string name="uv_msg_forgot_password">"Đã gửi email mật khẩu đã quên"</string>
+    <string name="uv_msg_idea_created">"Ý tưởng của bạn vừa được tạo"</string>
+    <string name="uv_msg_ticket_created">"Tin nhắn của bạn vừa được gửi đi"</string>
+    <string name="uv_msg_user_identity_validation">"Vui lòng nhập địa chỉ email của bạn"</string>
+    <string name="uv_name_hint">"Ẩn danh"</string>
+    <string name="uv_network_error">"Đã có sự cố khi kết nối với UserVoice"</string>
+    <string name="uv_nevermind">"Không quan tâm"</string>
+    <string name="uv_new_comment">"Bình luận mới"</string>
+    <string name="uv_next">"Tiếp theo"</string>
+    <string name="uv_no">"Không"</string>
+    <string name="uv_none_of_these_help">"Những điều này không hữu ích"</string>
+    <string name="uv_password">"Mật khẩu"</string>
+    <string name="uv_password_dialog_title">"Nhập mật khẩu của bạn"</string>
+    <string name="uv_portal_title">"Trợ giúp"</string>
+    <string name="uv_post_a_comment">"Đăng một bình luận"</string>
+    <string name="uv_post_comment">"Đăng bình luận"</string>
+    <string name="uv_posted_by_format">"Được đăng bởi %1$s vào %2$s"</string>
+    <string name="uv_powered_by_uservoice">"Được UserVoice hỗ trợ"</string>
+    <string name="uv_ranked">"Xếp hạng %1$s"</string>
+    <string name="uv_remove_votes">"Bình chọn từ xa"</string>
+    <string name="uv_select_none">"(không)"</string>
+    <string name="uv_select_one">"Chọn một"</string>
+    <string name="uv_send_message">"Gửi tin nhắn"</string>
+    <string name="uv_signin_dialog_ok">"Đăng nhập"</string>
+    <string name="uv_signin_dialog_title">"Đăng nhập"</string>
+    <string name="uv_status_format">"Trạng thái: %1$s"</string>
+    <string name="uv_submit_idea">"Gửi ý tưởng"</string>
+    <string name="uv_subscribe">"Đăng ký"</string>
+    <string name="uv_subscribe_dialog_title">"Theo dõi ý tưởng này"</string>
+    <string name="uv_suggestion_instant_answer_question">"Ý tưởng này có hữu ích?"</string>
+    <string name="uv_thanks">"Xin cảm ơn!"</string>
+    <string name="uv_unhelpful_article_message_question">"Bạn có muốn gửi cho chúng tôi tin nhắn?"</string>
+    <string name="uv_value">"Giá trị"</string>
+    <string name="uv_very_yes">"Có!"</string>
+    <string name="uv_yes">"Có"</string>
+    <string name="uv_your_email_address">"Địa chỉ email của bạn"</string>
+    <string name="uv_your_name">"Tên của bạn"</string>
+    <string description="version" maxwidth="-1" name="version">Phiên bản</string>
+    <string name="version_text">phiên bản</string>
+    <string name="wait">Hãy đợi\u2026</string>
+    <string name="warning_stophttpserver">"Bạn sẽ mất kết nối giữa thiết bị di động và PC. Bạn muốn thoát?"</string>
+    <string name="whats_new_label">Có gì mới?</string>
+    <string description="message for request to connect Network" name="wifi_p2p_connection_msg" width="-1">Hãy thiết lập kết nối mạng để sử dụng các dịch vụ đám mây.</string>
+    <string description="title for request to connect Network" name="wifi_p2p_connection_title" width="-1">Thiết lập kết nối mạng</string>
+    <string description="message for request to turn on Wi-Fi" name="wifi_p2p_turn_on_wifi_msg" width="-1">Bật Wi-Fi để dùng các dịch vụ Wi-Fi Direct. Bật Wi-Fi ngay?</string>
+    <string description="title for turn on WiFi dialog" name="wifi_p2p_turn_on_wifi_title" width="-1">Bật Wi-Fi</string>
+    <string description="search" maxwidth="-1" name="wifidirect_action_bar_scan">Tìm kiếm</string>
+    <string description="Available devices" maxwidth="-1" name="wifidirect_available_devices">Thiết bị có sẵn</string>
+    <string description="Do you want to connect to device" maxwidth="-1" name="wifidirect_connect_hint">Bạn muốn kết nối với</string>
+    <string description="Dialog title text: Invitation to connect" maxwidth="-1" name="wifidirect_connect_hint_title">Thư mời kết nối</string>
+    <string description="Dialog title text: Wi-Fi Direct connecting" maxwidth="-1" name="wifidirect_connecting_hint_title">Đang kết nối Wi-Fi Direct...</string>
+    <string description="connectted" maxwidth="-1" name="wifidirect_connectted">Đã kết nối</string>
+    <string description=">Do you want to disconnect" maxwidth="-1" name="wifidirect_disconnect_hint">Bạn muốn ngắt kết nối với</string>
+    <string description="Disconnect Wi-Fi Direct" maxwidth="-1" name="wifidirect_disconnect_hint_title">Ngắt kết nối Wi-Fi Direct</string>
+    <string description="peer devices infomation" maxwidth="-1" name="wifidirect_peer_device_info">"Để nhận thư mời Wi-Fi Direct, đảm bảo thiết bị kết nối của bạn vẫn nằm trên trang \"T.bị ngang hàng\" trong Quản lý file."</string>
+    <string description="peer devices title" maxwidth="-1" name="wifidirect_peer_device_title">T.bị ngang hàng</string>
+    <string description="searching" maxwidth="-1" name="wifidirect_scanning">Đang tìm..</string>
+    <string description="Search Wi-Fi Direct device" maxwidth="-1" name="wifidirect_storage_title">Tìm thiết bị Wi-Fi Direct</string>
+    <string description="click to connect" maxwidth="-1" name="wifidirect_touch_to_connect">Nhấp để kết nối</string>
+    <string name="yandex_account_only_one_alert">"Bạn chỉ được phép thêm một tài khoản Yandex. Bạn phải xóa tài khoản hiện hành trước khi thay thế bằng tài khoản mới."</string>
+    <string name="yes">Có</string>
+    <string name="zenui_update">"Bản cập nhật nhanh ZenUI"</string>
+    <string description="toast message: Compress files fail" maxwidth="-1" name="zip_fail">Không thể nén file</string>
+    <string description="compress dialog message" maxwidth="-1" name="zip_progress_msg">Đang xử lý...</string>
+    <string description="toast message: Compress files successly" maxwidth="-1" name="zip_success">Nén file thành công</string>
+</resources>

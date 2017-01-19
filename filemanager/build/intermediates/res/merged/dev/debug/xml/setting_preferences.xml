@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:key="MyPrefsFile">
+
+    <com.asus.filemanager.ui.FileManagerPreferenceCategory
+        android:title="@string/setting_display_group">
+        <com.asus.filemanager.ui.FileManagerSwitchPreference
+            android:key="pref_enable_darktheme"
+            android:title="@string/settings_darkmode_message"
+            android:defaultValue="false" />
+    </com.asus.filemanager.ui.FileManagerPreferenceCategory>
+
+    <com.asus.filemanager.ui.FileManagerPreferenceCategory
+        android:title="@string/setting_view_group">
+        <com.asus.filemanager.ui.FileManagerCheckBoxPreference
+            android:key="pref_hide_system_files"
+            android:title="@string/setting_view_hide_files"
+            android:defaultValue="true" />
+    </com.asus.filemanager.ui.FileManagerPreferenceCategory>
+
+    <com.asus.filemanager.ui.FileManagerPreferenceCategory
+        android:title="@string/setting_notification_group">
+        <com.asus.filemanager.ui.FileManagerCheckBoxPreference
+            android:key="pref_large_files_notification"
+            android:title="@string/setting_notification_large_files"
+            android:defaultValue="false" />
+        <com.asus.filemanager.ui.FileManagerCheckBoxPreference
+            android:key="pref_recent_files_notification"
+            android:title="@string/setting_notification_recent_files"
+            android:defaultValue="false" />
+        <!--
+<CheckBoxPreference
+android:key="pref_wireless_transfer"
+android:title="@string/setting_notification_wireless_transfer"
+            android:defaultValue="true" />
+            -->
+
+    </com.asus.filemanager.ui.FileManagerPreferenceCategory>
+</PreferenceScreen>

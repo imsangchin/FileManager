@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Sylvia Cheng, 2016/03/22, Setting page -->
+    <string name="action_settings" description="menu title for setting" maxwidth="-1">"การตั้งค่า"</string>
+    <string name="setting_view_group">"การตั้งค่ามุมมอง"</string>
+    <string name="setting_view_hide_files">"ซ่อนไฟล์ระบบ"</string>
+    <string name="setting_notification_group">"การแจ้งเตือน"</string>
+    <string name="setting_notification_large_files">"การแจ้งเตือนไฟล์ขนาดใหญ่"</string>
+    <string name="setting_notification_recent_files">"การแจ้งเตือนไฟล์ล่าสุด"</string>
+    <string name="setting_notification_wireless_transfer">"การแจ้งเตือนการถ่ายโอนแบบไร้สาย"</string>
+    <string name="setting_display_group">"การแสดงผล"</string>
+    <string name="tools_storage_analyzer">"ตัววิเคราะห์พื้นที่จัดเก็บ"</string>
+    <string name="tools_zenui_instant_update">"การอัปเดตทันใจ"</string>
+    <string name="category_others">"อื่นๆ"</string>
+    <string name="large_files_content_hint">"ค้นหาไฟล์ขนาดใหญ่และลบไฟล์ดังกล่าวตามสิทธิที่คุณให้"</string>
+    <string name="recent_files_content_hint">"ค้นหาไฟล์ล่าสุดและลบไฟล์ดังกล่าวตามสิทธิที่คุณให้"</string>
+    <string name="fragment_analyzer_more_hint">"เพิ่มเติม"</string>
+    <string name="fragment_analyzer_chart_total_hint">"รวมทั้งหมด:"</string>
+    <string name="fragment_analyzer_chart_free_hint">"พื้นที่ว่าง:"</string>
+    <string name="fragment_analyzer_chart_used_hint">"ใช้ไป"</string>
+    <string name="fragment_analyzer_allfiles_used_hint">"ใช้ไป:"</string>
+    <string name="news_v31" maxwidth="">"ตัววิเคราะห์พื้นที่จัดเก็บช่วยให้คุณได้ทราบชนิดของไฟล์ที่ใช้พื้นที่จัดเก็บทั้งหมด"</string>
+    <string name="news_v32" maxwidth="">"ประเภทของแอปที่เพิ่มประสิทธิภาพใหม่ล่าสุด"</string>
+</resources>

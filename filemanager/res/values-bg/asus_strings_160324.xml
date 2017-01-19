@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Sylvia Cheng, 2016/03/22, Setting page -->
+    <string name="action_settings" description="menu title for setting" maxwidth="-1">"Настройки"</string>
+    <string name="setting_view_group">"Преглед на настройка"</string>
+    <string name="setting_view_hide_files">"Скриване на системни файлове"</string>
+    <string name="setting_notification_group">"Известие"</string>
+    <string name="setting_notification_large_files">"Известие за голям файл"</string>
+    <string name="setting_notification_recent_files">"Известие за скорошни файлове"</string>
+    <string name="setting_notification_wireless_transfer">"Известие за безжичен трансфер"</string>
+    <string name="setting_display_group">"Дисплей"</string>
+    <string name="tools_storage_analyzer">"Анализатор на пространство"</string>
+    <string name="tools_zenui_instant_update">"Незабавно актуализиране"</string>
+    <string name="category_others">"Други"</string>
+    <string name="large_files_content_hint">"Намира големи файлове и ги изтрива с ваше позволение."</string>
+    <string name="recent_files_content_hint">"Намира скорошни файлове и ги изтрива с ваше позволение."</string>
+    <string name="fragment_analyzer_more_hint">"още"</string>
+    <string name="fragment_analyzer_chart_total_hint">"Общо:"</string>
+    <string name="fragment_analyzer_chart_free_hint">"Свободно:"</string>
+    <string name="fragment_analyzer_chart_used_hint">"ИЗПОЛЗВАНО"</string>
+    <string name="fragment_analyzer_allfiles_used_hint">"Използвано:"</string>
+    <string name="news_v31" maxwidth="">"Анализаторът на пространство ви казва какви файлове са заели всичкото пространство за съхранение"</string>
+    <string name="news_v32" maxwidth="">"Ново-разширена категория приложения"</string>
+</resources>

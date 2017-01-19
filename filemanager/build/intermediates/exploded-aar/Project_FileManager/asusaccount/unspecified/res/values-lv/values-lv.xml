@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="country_names">
+        <item>"Afganistāna (جمهوری اسلامی افغانستان)"</item>
+        <item>"Albānija (Shqipëri)"</item>
+        <item>"Alžīrija"</item>
+        <item>"Amerikas Samoa"</item>
+        <item>"Andora (Principat d\'Andorra)"</item>
+        <item>"Angola (República de Angola)"</item>
+        <item>"Angilja"</item>
+        <item>"Antarktika"</item>
+        <item>"Antigva un Barbuda"</item>
+        <item>"Argentīna (República Argentina)"</item>
+        <item>"Armēnija (Hayastan)"</item>
+        <item>"Aruba"</item>
+        <item>"Austrālija (Australia)"</item>
+        <item>"Austrija (Österreich)"</item>
+        <item>"Azerbaidžāna"</item>
+        <item>"Bahamas"</item>
+        <item>"Bahreina (مملكة البحرين)"</item>
+        <item>"Bangladeša (বাংলাদেশ)"</item>
+        <item>"Barbadosa"</item>
+        <item>"Baltkrievija (Беларусь)"</item>
+        <item>"Beļģija (België)"</item>
+        <item>"Beļģija (België)"</item>
+        <item>"Beliza"</item>
+        <item>"Benina"</item>
+        <item>"Bermudu salas"</item>
+        <item>"Butāna"</item>
+        <item>"Bolīvija"</item>
+        <item>"Bosnija un Hercegovina (Bosna i Hercegovina)"</item>
+        <item>"Botsvāna (Lefatshe la Botswana)"</item>
+        <item>"Buvē sala"</item>
+        <item>"Brazīlija"</item>
+        <item>"Britu Indijas okeāna teritorija"</item>
+        <item>"Bruneja Darusalama (بروني دارالسلام)"</item>
+        <item>"Bulgārija (България/Balgariya)"</item>
+        <item>"Burkinafaso"</item>
+        <item>"Burundi"</item>
+        <item>"Kambodža (कम्बोजदेश)"</item>
+        <item>"Kamerūna"</item>
+        <item>"Kanāda"</item>
+        <item>"Kaboverde"</item>
+        <item>"Kaimanu salas"</item>
+        <item>"Centrālāfrikas Republika (République centrafricaine)"</item>
+        <item>"Čada"</item>
+        <item>"Čīle"</item>
+        <item>"Ķīna (中國)"</item>
+        <item>"Ziemassvētku sala"</item>
+        <item>"Kokosu salas (Keeling)"</item>
+        <item>"Kolumbija"</item>
+        <item>"Komoru salas"</item>
+        <item>"Kongo"</item>
+        <item>"Kuka salas"</item>
+        <item>"Kostarika"</item>
+        <item>"Kotdivuāra"</item>
+        <item>"Horvātija (Hrvatska)"</item>
+        <item>"Kuba"</item>
+        <item>"Kipra"</item>
+        <item>"Čehijas Republika (Česká republika)"</item>
+        <item>"Dānija (Danmark)"</item>
+        <item>"Džibutija"</item>
+        <item>"Dominika"</item>
+        <item>"Dominikānas Republika"</item>
+        <item>"Austrumtimora"</item>
+        <item>"Ekvadora"</item>
+        <item>"Ēģipte (مصر‎)"</item>
+        <item>"Salvadora"</item>
+        <item>"Ekvatoriālā Gvineja"</item>
+        <item>"Eritreja"</item>
+        <item>"Igaunija (Eesti)"</item>
+        <item>"Etiopija"</item>
+        <item>"Folklenda salas"</item>
+        <item>"Fēru salas"</item>
+        <item>"Fidži salas"</item>
+        <item>"Somija (Suomi)"</item>
+        <item>"Francija (France)"</item>
+        <item>"Franču Gviāna"</item>
+        <item>"Franču Polinēzija"</item>
+        <item>"Franču dienvidu teritorijas"</item>
+        <item>"Gabona"</item>
+        <item>"Gambija"</item>
+        <item>"Gruzija (საქართველო)"</item>
+        <item>"Vācija (Deutschland)"</item>
+        <item>"Gana"</item>
+        <item>"Gibraltārs"</item>
+        <item>"Grieķija (Ελλάδα)"</item>
+        <item>"Grenlande"</item>
+        <item>"Grenāda"</item>
+        <item>"Gvadelupa"</item>
+        <item>"Guama"</item>
+        <item>"Gvatemala"</item>
+        <item>"Gvineja"</item>
+        <item>"Gvineja-Bisava"</item>
+        <item>"Gajāna"</item>
+        <item>"Haiti"</item>
+        <item>"Hērda Sala un Makdonalda Salas"</item>
+        <item>"Vatikāns (Stato della Città del Vaticano)"</item>
+        <item>"Hondurasa"</item>
+        <item>"Honkonga (香港)"</item>
+        <item>"Ungārija (Magyarország)"</item>
+        <item>"Islande (Ísland)"</item>
+        <item>"Indija (भारत गणराज्य )"</item>
+        <item>"Indonēzija (Republik Indonesia)"</item>
+        <item>"Irāna (ایران)"</item>
+        <item>"Irāka (العراق)"</item>
+        <item>"Īrija (Ireland)"</item>
+        <item>"Izraēla (מְדִינַת יִשְׂרָאֵל  /  دَوْلَةُ إِسْرَائِيلَ)"</item>
+        <item>"Itālija (Italia)"</item>
+        <item>"Jamaika"</item>
+        <item>"Japāna (日本国)"</item>
+        <item>"Jordānija (L\'Ürdünn)"</item>
+        <item>"Kazahstāna"</item>
+        <item>"Kenija (Jamhuri ya Kenya)"</item>
+        <item>"Kiribati"</item>
+        <item>"Korejas Tautas Demokrātiskā Republika (조선민주주의인민공화국)"</item>
+        <item>"Korejas Republika (대한민국)"</item>
+        <item>"Kuveita (دولة الكويت)"</item>
+        <item>"Kirgizstāna"</item>
+        <item>"Laosas Tautas Demokrātiskā Republika"</item>
+        <item>"Latvija (Latvija)"</item>
+        <item>"Libāna (اَلْجُمْهُورِيَّة اَللُّبْنَانِيَّة)"</item>
+        <item>"Lesoto"</item>
+        <item>"Libērija"</item>
+        <item>"Lībijas Sociālistiskā Arābu tautas Džamahīrija"</item>
+        <item>"Lihtenšteina (Liechtenstein)"</item>
+        <item>"Lietuva (Lietuva)"</item>
+        <item>"Luksemburga (Lëtzebuerg)"</item>
+        <item>"Makao"</item>
+        <item>"Maķedonija"</item>
+        <item>"Madagaskara"</item>
+        <item>"Malāvija"</item>
+        <item>"Malaizija (Persekutuan Malaysia)"</item>
+        <item>"Maldīvu salas"</item>
+        <item>"Mali"</item>
+        <item>"Malta (Malta)"</item>
+        <item>"Māršala salas"</item>
+        <item>"Martinika (Martinique)"</item>
+        <item>"Mauritānija"</item>
+        <item>"Maurīcija (Republik Moris)"</item>
+        <item>"Majota"</item>
+        <item>"Meksika"</item>
+        <item>"Mikronēzija"</item>
+        <item>"Moldova (Moldova)"</item>
+        <item>"Monako (Monaco)"</item>
+        <item>"Mongolija"</item>
+        <item>"Montserrata"</item>
+        <item>"Maroka"</item>
+        <item>"Mozambika"</item>
+        <item>"Mjanma (Pyidaunzu Thanmăda Myăma Nainngandaw)"</item>
+        <item>"Namībija"</item>
+        <item>"Nauru"</item>
+        <item>"Nepāla (सङ्घीय लोकतान्त्रिक गणतन्त्र नेपाल)"</item>
+        <item>"Nīderlandes Antiļas"</item>
+        <item>"Nīderlande (Nederland)"</item>
+        <item>"Jaunkaledonija (Nouvelle-Calédonie)"</item>
+        <item>"Jaunzēlande (New Zealand)"</item>
+        <item>"Nikaragva"</item>
+        <item>"Nigēra"</item>
+        <item>"Nigērija (Republik Nijeriya)"</item>
+        <item>"Niue"</item>
+        <item>"Norfolkas Sala (Norfuk Ailen)"</item>
+        <item>"Ziemeļu Marianas Salas"</item>
+        <item>"Norvēģija (Norge)"</item>
+        <item>"Omāna (لطنة عمان)"</item>
+        <item>"Pakistāna (پاکِستان)"</item>
+        <item>"Palau"</item>
+        <item>"Panama"</item>
+        <item>"Papua-Jaungvineja"</item>
+        <item>"Paragvaja"</item>
+        <item>"Peru"</item>
+        <item>"Filipīnas (Pilipinas)"</item>
+        <item>"Pitkērna"</item>
+        <item>"Polija (Polska)"</item>
+        <item>"Portugāle (Portugal)"</item>
+        <item>"Puertoriko"</item>
+        <item>"Katara"</item>
+        <item>"Reinjona"</item>
+        <item>"Rumānija (România)"</item>
+        <item>"Krievija (Россия)"</item>
+        <item>"Ruanda"</item>
+        <item>"Sentkitsa un Nevisa"</item>
+        <item>"Sentlūsija"</item>
+        <item>"Sentvinsenta un Grenadīnas"</item>
+        <item>"Samoa"</item>
+        <item>"Sanmarīno (San Marino)"</item>
+        <item>"Santome un Prinsipi"</item>
+        <item>"Saūda Arābija (المملكة العربية السعودية)"</item>
+        <item>"Senegāla"</item>
+        <item>"Serbija un Melnkalne"</item>
+        <item>"Seišelas"</item>
+        <item>"Sjerraleone"</item>
+        <item>"Singapūra (Singapore)"</item>
+        <item>"Slovākija (Slovensko)"</item>
+        <item>"Slovēnija (Slovenija)"</item>
+        <item>"Zālamana Salas (Solomon Islands)"</item>
+        <item>"Somālija"</item>
+        <item>"Dienvidāfrikas Republika (Republiek van Suid-Afrika)"</item>
+        <item>"Dienviddžordžija un Dienvidsendviču Salas"</item>
+        <item>"Spānija (España)"</item>
+        <item>"Šrilanka (இலங்கை ஜனநாயக சமத்துவ)"</item>
+        <item>"Sv. Helēnas sala"</item>
+        <item>"Senpjēra un Mikelona (St. Pierre and Miquelon)"</item>
+        <item>"Sudāna (جمهورية السودان)"</item>
+        <item>"Surinama"</item>
+        <item>"Svalbāra un Jana Majena sala"</item>
+        <item>"Svazilenda (Swatini)"</item>
+        <item>"Zviedrija (Sverige)"</item>
+        <item>"Šveice (Suisse)"</item>
+        <item>"Sīrijas Arābu Republika (جمهورية العربية السورية)"</item>
+        <item>"Taivāna (台灣)"</item>
+        <item>"Tadžikistāna"</item>
+        <item>"Tanzānija"</item>
+        <item>"Taizeme (ราชอาณาจักรไทย)"</item>
+        <item>"Togo"</item>
+        <item>"Tokelau"</item>
+        <item>"Tonga"</item>
+        <item>"Trinidāda un Tobāgo"</item>
+        <item>"Tunisija"</item>
+        <item>"Turcija (Türkiye)"</item>
+        <item>"Turkmenistāna"</item>
+        <item>"Tērksas un Kaikosas salas"</item>
+        <item>"Tuvalu"</item>
+        <item>"Uganda (Jamhuri ya Uganda)"</item>
+        <item>"Ukraina (Україна)"</item>
+        <item>"Apvienotie Arābu Emirāti (دولة الإمارات العربية المتحدة‎)"</item>
+        <item>"Apvienotā Karaliste (United Kingdom)"</item>
+        <item>"Amerikas Savienoto Valstu mazās aizjūras salas"</item>
+        <item>"Amerikas Savienotās Valstis"</item>
+        <item>"Urugvaja"</item>
+        <item>"Uzbekistāna"</item>
+        <item>"Vanuatu"</item>
+        <item>"Venecuēla"</item>
+        <item>"Vjetnama (Việt Nam)"</item>
+        <item>"Britu Virdžīnu salas"</item>
+        <item>"ASV Virdžīnu salas"</item>
+        <item>"Volisa un Futunas salas"</item>
+        <item>"Rietumsahāra"</item>
+        <item>"Jemena"</item>
+        <item>"Zaira"</item>
+        <item>"Zambija"</item>
+        <item>"Zimbabve (Simudzai Mureza wedu WeZimbabwe)"</item>
+    </string-array>
+    <string name="account_asus">"ASUS"</string>
+    <string name="action">"Pierakstīties"</string>
+    <string description="" name="article_one">"Es piekrītu ASUS \"<u>noteikumiem un nosacījumiem</u>\", ASUS \"<u>konfidencialitātes politikai</u>\", ASUS WebStorage \"<u>noteikumiem un nosacījumiem</u>\", ASUS WebStorage \"<u>konfidencialitātes politikai</u>\"."</string>
+    <string description="" name="article_two">"Informējiet mani par ASUS jaunumiem, programmatūras atjaunināšanu, jaunāko informāciju par izstrādājumiem un pakalpojumiem, izmantojot eDM."</string>
+    <string description="Text for create asus account button." maxwidth="" name="asus_account_create_button">"Reģistrēties"</string>
+    <string name="asus_account_integrate_dialog_content">"Vai vēlaties ASUS kontu integrēt WebStorage kontā? \n\n Pēc integrēšanas varat izmantot visus ASUS pakalpojumus."</string>
+    <string name="asus_account_integrate_dialog_skip">"Izlaist"</string>
+    <string name="asus_account_integrate_dialog_title">"Integrēt ASUS pakalpojumus"</string>
+    <string name="asus_account_integrate_dialog_yes">"Jā"</string>
+    <string description="Text for asus account content 1st." maxwidth="" name="asus_account_msg_content_1">"Saņemt reģistrēto izstrādājumu personalizētus ASUS atbalsta pakalpojumus un garantijas pagarinājumus."</string>
+    <string description="Text for asus account content 2nd." maxwidth="" name="asus_account_msg_content_2">"Saņemt 5 GB bezmaksas mākoņa krātuves vietu."</string>
+    <string description="Text for asus account content 3rd." maxwidth="" name="asus_account_msg_content_3">"Saņemt jaunāko informāciju par piederumiem un atjaunotajiem izstrādājumiem."</string>
+    <string description="Text for asus account content title." maxwidth="" name="asus_account_msg_title">"Izveidojiet ASUS kontu un varēsiet veikt tālāk norādīto."</string>
+    <string name="asus_account_only_one_alert">"Var pievienot tikai vienu ASUS kontu. Pirms konta aizvietošanas ar jaunu kontu ir jāizdzēš vecais konts."</string>
+    <string name="asus_account_prefc">"Iestatījumi"</string>
+    <string name="asus_account_prefc_advc">"Papildiestatījumi"</string>
+    <string name="asus_account_prefc_aws">"ASUS WebStorage"</string>
+    <string name="asus_account_prefc_homebox">"ASUS HomeCloud"</string>
+    <string name="asus_account_registe_country_error">"Lūdzu, izvēlieties savu valsti/reģionu!"</string>
+    <string name="asus_account_registe_id_error">"E-pasta formāta kļūda"</string>
+    <string name="asus_account_registe_policy_error">"Lai reģistrētu ASUS kontu, ir jāpiekrīt ASUS politikai!"</string>
+    <string name="asus_account_registe_pw_error_1">"Paroles lauks nedrīkst būt tukšs!"</string>
+    <string name="asus_account_registe_pw_error_2">"Apstiprināšanas paroles lauks nedrīkst būt tukšs!"</string>
+    <string name="asus_account_registe_pw_error_3">"Parolei un apstiprināšanas parolei ir jābūt identiskai!"</string>
+    <string name="asus_account_registe_pw_error_4">"Parolei ir jāsastāv no 8 līdz 25 rakstzīmēm."</string>
+    <string name="asus_account_removeaccount_dialog_content">"Konta integrēšana ir veiksmīga. Piesakieties vēlreiz, izmantojot jaunu kontu."</string>
+    <string name="asus_account_removeaccount_dialog_title">"ASUS konts sekmīgi integrēts"</string>
+    <string name="asus_flag">"-"</string>
+    <string name="asus_registe_success_title">"ASUS konts sekmīgi reģistrēts"</string>
+    <string name="asus_response_resultdata">"Šis konts jau ir reģistrēts."</string>
+    <string name="asusaccount_app_name">"ASUS konts"</string>
+    <string maxWidth="" name="au_label">"au Cloud"</string>
+    <string name="aucloud_account_only_one_alert">"Var pievienot tikai vienu Cloud kontu. Pirms konta aizvietošanas ar jaunu kontu ir jāizdzēš vecais konts."</string>
+    <string name="aucloud_login_redirect">"Lai pieteiktos, ievadiet ID lietotājvārdu un paroli."</string>
+    <string maxWidth="" name="auth_stop">"Autentifikācijas process tika pamests."</string>
+    <string name="aws_install_contnet">"WebStorage nav instalēts. Vai vēlaties lejupielādēt un instalēt pakalpojumā Play Store?"</string>
+    <string name="aws_install_title">"WebStorage nav instalēts"</string>
+    <string name="baidu_alert_info">"Balstoties uz Baidu platformas, šī ierīce var piekļūt tikai sadaļā "My Application Data\\asus\\" esošiem datiem."</string>
+    <string name="baidu_alert_title">"Baidu mākoņa krātuve"</string>
+    <string name="baidupcs_account_only_one_alert">"ASUS kontam var pievienot tikai vienu Baidu. Pirms konta aizvietošanas ar jaunu kontu ir jāizdzēš vecais konts."</string>
+    <string name="bd_label">"ASUS Baidu"</string>
+    <string name="cancel">"Atcelt"</string>
+    <string name="confirm">"Apstiprināt"</string>
+    <string name="confirm_ok">"Labi"</string>
+    <string description="confirm password textview title" name="confirm_password">"Apstipriniet paroli"</string>
+    <string description="ask user to enter password again to confirm" name="confirm_password_edit">"Vēlreiz ievadiet paroli"</string>
+    <string description="country region textview title" name="country_region">"Valsts/reģions"</string>
+    <string description="ack user to select on country" name="country_region_select">"Atlasiet reģionu"</string>
+    <string name="dbx_install_contnet">"Dropbox nav instalēts. Vai vēlaties lejupielādēt un instalēt pakalpojumā Play Store?"</string>
+    <string name="dbx_install_title">"Dropbox nav instalēts"</string>
+    <string description="ask user to enter password" maxwidth="-1" name="enter_password">"Ievadiet paroli"</string>
+    <string description="click to retrieve password" maxwidth="-1" name="forget_password">"<u>Vai aizmirsāt paroli?</u>"</string>
+    <string name="invalid_server_id">"Nederīgs servera ID"</string>
+    <string name="invalid_xml">"Nederīgs xml"</string>
+    <string description="Loading process is conducted now." maxWidth="-1" name="loading">"Notiek ielāde..."</string>
+    <string description="dialog title, key in the asus ID and PW to Login account" maxwidth="-1" name="login_asus_id">"Pierakstīšanās ASUS kontā"</string>
+    <string description="login account name" maxwidth="-1" name="login_id">"Konta nosaukums/WebStorage ID"</string>
+    <string name="market_app_error">"Ierīcē instalētajai tirgus lietojumprogrammai APP radusies problēma!"</string>
+    <string description="ask user to enter email address as account name" maxwidth="-1" name="member_id_hint">"Ievadiet e-pasta adresi"</string>
+    <string name="network_invalid">"Nederīgs tīkla savienojums"</string>
+    <string name="network_invalid_info">"Savienojums nav derīgs. Lūdzu, pārbaudiet vēlreiz."</string>
+    <string name="no_device">"Nav ierīces"</string>
+    <string name="no_network">"Nav tīkla savienojuma"</string>
+    <string name="no_network_info">"Lai piekļūtu šai lietojumprogrammai, ir nepieciešams interneta savienojums. Iestatījumos aktivizējiet mobilo tīklu vai Wi-Fi."</string>
+    <string name="no_password">"Ievadiet savu paroli"</string>
+    <string name="no_right">"Kontam nav tiesību pieteikties."</string>
+    <string name="no_user_exist">"Lietotājvārds nepastāv"</string>
+    <string name="no_username">"Vispirms ievadiet savu lietotājvārdu."</string>
+    <string name="onedrive_account_only_one_alert">"ASUS kontam var pievienot tikai vienu OneDrive. Pirms konta aizvietošanas ar jaunu kontu ir jāizdzēš vecais konts."</string>
+    <string name="othersforum_site_url">"http://www.asus.com/Terms_of_Use_Notice_Privacy_Policy/OthersForum_Site/"</string>
+    <string name="password">"Parole"</string>
+    <string name="privacy_policy_url">"http://www.asus.com/Terms_of_Use_Notice_Privacy_Policy/Privacy_Policy/"</string>
+    <string description="dialog title, key in the asus ID and PW to Login account" maxwidth="-1" name="regist_asus_id">"Izveido ASUS kontu"</string>
+    <string description="ask user to enter email address to registe New Account" name="registe_id">"Konta nosaukums"</string>
+    <string description="ask user to enter new password" name="registe_password">"Ievadiet 8~25 rakstzīmes"</string>
+    <string description="sign up registe action" name="registe_sign_up">"Pierakstīties"</string>
+    <string name="sd_label">"ASUS OneDrive"</string>
+    <string name="server_error">"Servera kļūda"</string>
+    <string name="settings">"Iestatījumi"</string>
+    <string description="check if user want to show password" name="show_passwd">"Rādīt paroli"</string>
+    <string description="show when sign in failed" maxwidth="-1" name="signin_failed">"Pierakstīšanās neizdevās"</string>
+    <string name="ssl_err_msg_info">"Nevar izveidot drošu savienojumu ar serveri. Vai vēlaties turpināt?"</string>
+    <string name="ssl_err_msg_title">"SSL savienojuma kļūda"</string>
+    <string name="unsupported_area">"Šī zona netiek atbalstīta"</string>
+    <string name="yandex_account_only_one_alert">"Var pievienot tikai vienu Yandex kontu. Pirms konta aizvietošanas ar jaunu kontu ir jāizdzēš vecais konts."</string>
+    <string name="yd_label">"ASUS Yandex"</string>
+</resources>

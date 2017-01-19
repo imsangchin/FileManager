@@ -1,0 +1,1312 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="alarm_set">
+        <item msgid="6450913786084215050">"Το ξυπνητήρι έχει οριστεί σε λιγότερο από 1 λεπτό από τώρα."</item>
+        <item msgid="6002066367368421848">"Το ξυπνητήρι έχει οριστεί σε <ns1:g id="DAYS">%1$s</ns1:g> από τώρα."</item>
+        <item msgid="8824719306247973774">"Το ξυπνητήρι έχει οριστεί σε <ns1:g id="HOURS">%2$s</ns1:g> από τώρα."</item>
+        <item msgid="8182406852935468862">"Το ξυπνητήρι έχει οριστεί σε <ns1:g id="DAYS">%1$s</ns1:g> και <ns1:g id="HOURS">%2$s</ns1:g> από τώρα."</item>
+        <item msgid="2532279224777213194">"Το ξυπνητήρι έχει οριστεί σε <ns1:g id="MINUTES">%3$s</ns1:g> από τώρα."</item>
+        <item msgid="5936557894247187717">"Το ξυπνητήρι έχει οριστεί σε <ns1:g id="DAYS">%1$s</ns1:g> και <ns1:g id="MINUTES">%3$s</ns1:g> από τώρα."</item>
+        <item msgid="9115697840826129603">"Το ξυπνητήρι έχει οριστεί σε <ns1:g id="HOURS">%2$s</ns1:g> και <ns1:g id="MINUTES">%3$s</ns1:g> από τώρα."</item>
+        <item msgid="2332583385137381060">"Το ξυπνητήρι αυτό έχει οριστεί σε <ns1:g id="DAYS">%1$s</ns1:g>, <ns1:g id="HOURS">%2$s</ns1:g> και <ns1:g id="MINUTES">%3$s</ns1:g> από τώρα."</item>
+    </string-array>
+    <string-array name="charset_array">
+        <item>"Λατινικά-1 (ISO-8859-1)"</item>
+        <item>"Unicode (UTF-8)"</item>
+        <item>"Κινεζικά (GBK)"</item>
+        <item>"Κινεζικά (Big5)"</item>
+        <item>"Ιαπωνικά (ISO-2022-JP)"</item>
+        <item>"Ιαπωνικά (SHIFT_JIS)"</item>
+        <item>"Ιαπωνικά (EUC-JP)"</item>
+        <item>"Κορεατικά (EUC-KR)"</item>
+    </string-array>
+    <string-array name="country_names">
+        <item>Αρούμπα</item>
+        <item>Αφγανιστάν (جمهوری اسلامی افغانستان)</item>
+        <item>Αγκόλα (República de Angola)</item>
+        <item>Ανγκουίλα</item>
+        <item>Αλβανία (Shqipëri)</item>
+        <item>Ανδόρα (Principat d\'Andorra)</item>
+        <item>Ολλανδικές Αντίλλες</item>
+        <item>Ηνωμένα Αραβικά Εμιράτα (دولة الإمارات العربية المتحدة‎)</item>
+        <item>Αργεντινή (República Argentina)</item>
+        <item>Αρμενία (Hayastan)</item>
+        <item>Αμερικανική Σαμόα</item>
+        <item>Ανταρκτική</item>
+        <item>Νότια Γαλλικά Εδάφη</item>
+        <item>Αντίκουα και Μπαρμπούντα</item>
+        <item>Αυστραλία (Australia)</item>
+        <item>Αυστρία (Österreich)</item>
+        <item>Αζερμπαϊτζάν</item>
+        <item>Μπουρούντι</item>
+        <item>Βέλγιο (België)</item>
+        <item>Μπενίν</item>
+        <item>Μπουρκίνα Φάσο</item>
+        <item>Μπαγκλαντές (বাংলাদেশ)</item>
+        <item>Βουλγαρία (България / Balgariya)</item>
+        <item>Μπαχρέιν (مملكة البحرين)</item>
+        <item>Μπαχάμες</item>
+        <item>Βοσνία και Ερζεγοβίνη (Bosna i Hercegovina)</item>
+        <item>Λευκορωσία (Беларусь)</item>
+        <item>Μπελίσε</item>
+        <item>Βερμούδες</item>
+        <item>Βολιβία</item>
+        <item>Βραζιλία</item>
+        <item>Μπαρμπάντος</item>
+        <item>Μπρουνέι Νταρουσαλάμ (بروني دارالسلام)</item>
+        <item>Μπουτάν</item>
+        <item>Νησί Μπουβέ</item>
+        <item>Μποτσουάνα (Lefatshe la Botswana)</item>
+        <item>Κεντροαφρικανική Δημοκρατία (République centrafricaine)</item>
+        <item>Καναδάς</item>
+        <item>Νησιά Κόκος (Κήλινγκ)</item>
+        <item>Ελβετία (Suisse)</item>
+        <item>Χιλή</item>
+        <item>Κίνα (中國)</item>
+        <item>Ακτή Ελεφαντοστού</item>
+        <item>Καμερούν</item>
+        <item>Κονγκό</item>
+        <item>Νησιά Κουκ</item>
+        <item>Κολομβία</item>
+        <item>Κομόρες</item>
+        <item>Πράσινο Ακρωτήριο</item>
+        <item>Κόστα Ρίκα</item>
+        <item>Κούβα</item>
+        <item>Νησιά Χριστουγέννων</item>
+        <item>Νησιά Καϊμάν</item>
+        <item>Κύπρος (Euro)</item>
+        <item>Δημοκρατία της Τσεχίας (Česká republika)</item>
+        <item>Γερμανία (Deutschland)</item>
+        <item>Τζιμπουτί</item>
+        <item>Ντομίνικα</item>
+        <item>Δανία (Danmark)</item>
+        <item>Δομινικανή Δημοκρατία</item>
+        <item>Αλγερία</item>
+        <item>Εκουαδόρ</item>
+        <item>Αίγυπτος (مصر‎)</item>
+        <item>Ερυθραία</item>
+        <item>Δυτική Σαχάρα</item>
+        <item>Ισπανία (España)</item>
+        <item>Εσθονία (Eesti)</item>
+        <item>Αιθιοπία</item>
+        <item>Φινλανδία (Suomi)</item>
+        <item>Φίτζι</item>
+        <item>Νησιά Φόκλαντ</item>
+        <item>Γαλλία (France)</item>
+        <item>Βέλγιο (Belgique)</item>
+        <item>Νησιά Φερόε</item>
+        <item>Μικρονησία</item>
+        <item>Γκαμπόν</item>
+        <item>Ηνωμένο Βασίλειο (United Kingdom)</item>
+        <item>Γεωργία (საქართველო)</item>
+        <item>Γκάνα</item>
+        <item>Γιβραλτάρ</item>
+        <item>Γουϊνέα</item>
+        <item>Γουαδελούπη</item>
+        <item>Γκάμπια</item>
+        <item>Γουϊνέα-Μπισσάου</item>
+        <item>Ισημερινή Γουινέα</item>
+        <item>Ελλάδα</item>
+        <item>Γρενάδα</item>
+        <item>Γροιλανδία</item>
+        <item>Γουατεμάλα</item>
+        <item>Γαλλική Γουιάνα</item>
+        <item>Γκουάμ</item>
+        <item>Γουιάνα</item>
+        <item>Χονγκ Κονγκ (香港)</item>
+        <item>Ν. Χερντ Μακντόναλντ</item>
+        <item>Ονδούρα</item>
+        <item>Κροατία (Hrvatska)</item>
+        <item>Αϊτή</item>
+        <item>Ουγγαρία (Magyarország)</item>
+        <item>Ινδονησία (Republik Indonesia)</item>
+        <item>Ινδία (भारत गणराज्य )</item>
+        <item>Βρετανικά Εδάφη Ινδικού Ωκεανού</item>
+        <item>Ιρλανδία (Ireland)</item>
+        <item>Ιράν (ایران)</item>
+        <item>Ιράκ (العراق)</item>
+        <item>Ισλανδία (Ísland)</item>
+        <item>Ισραήλ (מְדִינַת יִשְׂרָאֵל  /  دَوْلَةُ إِسْرَائِيلَ)</item>
+        <item>Ιταλία (Italia)</item>
+        <item>Τζαμάικα</item>
+        <item>Ιορδανία (L\'Ürdünn)</item>
+        <item>Ιαπωνία (日本国)</item>
+        <item>Καζακστάν</item>
+        <item>Κένυα (Jamhuri ya Kenya)</item>
+        <item>Κιργιζία</item>
+        <item>Καμπότζη (कम्बोजदेश)</item>
+        <item>Κιριμπάτι</item>
+        <item>Άγιος Χριστόφορος και Νέβις</item>
+        <item>Δημοκρατία της Κορέας (대한민국)</item>
+        <item>Κουβέιτ (دولة الكويت)</item>
+        <item>Λαϊκή Δημοκρατία του Λάος</item>
+        <item>Λίβανος (اَلْجُمْهُورِيَّة اَللُّبْنَانِيَّة)</item>
+        <item>Λιβερία</item>
+        <item>Σοσιαλιστική Τζαμαχιρία της Λιβύης</item>
+        <item>Αγία Λουκία</item>
+        <item>Λιχτενστάιν (Liechtenstein)</item>
+        <item>Σρι Λάνκα (இலங்கை ஜனநாயக சமத்துவ)</item>
+        <item>Λεσότο</item>
+        <item>Λιθουανία (Lietuva)</item>
+        <item>Λουξεμβούργο (Lëtzebuerg)</item>
+        <item>Λετονία (Latvija)</item>
+        <item>Μακάου</item>
+        <item>Μαρόκο</item>
+        <item>Μονακό (Monaco)</item>
+        <item>Μολδαβία (Moldova)</item>
+        <item>Μαδαγασκάρη</item>
+        <item>Μαλδίβες</item>
+        <item>Μεξικό</item>
+        <item>Νησιά Μάρσαλ</item>
+        <item>ΠΓΔΜ</item>
+        <item>Μαλί</item>
+        <item>Μάλτα (Malta)</item>
+        <item>Μιανμάρ (Pyidaunzu Thanmăda Myăma Nainngandaw)</item>
+        <item>Μογγολία</item>
+        <item>Νησιά Βόρειες Μαριάννες</item>
+        <item>Μοζαμβίκη</item>
+        <item>Μαυριτανία</item>
+        <item>Μονσεράτ</item>
+        <item>Μαρτινίκα (Martinique)</item>
+        <item>Μαυρίκιος (Republik Moris)</item>
+        <item>Μαλάουι</item>
+        <item>Μαλαισία (Persekutuan Malaysia)</item>
+        <item>Μαγιότ</item>
+        <item>Ναμίμπια</item>
+        <item>Νέα Καληδονία (Nouvelle-Calédonie)</item>
+        <item>Νίγηρας</item>
+        <item>Νησί Νόρφολκ (Norfuk Ailen)</item>
+        <item>Νιγηρία (Republik Nijeriya)</item>
+        <item>Νικαράγουα</item>
+        <item>Νιούε</item>
+        <item>Ολλανδία (Nederland)</item>
+        <item>Νορβηγία (Norge)</item>
+        <item>Νεπάλ (सङ्घीय लोकतान्त्रिक गणतन्त्र नेपाल)</item>
+        <item>Ναούρου</item>
+        <item>Νέα Ζηλανδία (New Zealand)</item>
+        <item>Ομάν (لطنة عمان)</item>
+        <item>Πακιστάν (پاکِستان)</item>
+        <item>Παναμάς</item>
+        <item>Νησί Πίτκερν</item>
+        <item>Περού</item>
+        <item>Φιλιππίνες (Pilipinas)</item>
+        <item>Παλάου</item>
+        <item>Παπούα Νέα Γουϊνέα</item>
+        <item>Πολωνία (Polska)</item>
+        <item>Πουέρτο Ρίκο</item>
+        <item>Λαϊκή Δημοκρατία της Κορέας</item>
+        <item>Πορτογαλία (Portugal)</item>
+        <item>Παραγουάη</item>
+        <item>Γαλλική Πολυνησία</item>
+        <item>Κατάρ</item>
+        <item>Ρεϊνιόν</item>
+        <item>Ρουμανία (România)</item>
+        <item>Ρωσία (Россия)</item>
+        <item>Ρουάντα</item>
+        <item>Σαουδική Αραβία (المملكة العربية السعودية)</item>
+        <item>Σερβία και Μαυροβούνιο</item>
+        <item>Σουδάν (جمهورية السودان)</item>
+        <item>Σενεγάλη</item>
+        <item>Σιγκαπούρη (Singapore)</item>
+        <item>Νότια Γεωργία και Νότια Νησιά Σάντουιτς</item>
+        <item>Αγία Ελένη</item>
+        <item>Νησιά Σβάλμπαρντ και Γιαν Μάγεν</item>
+        <item>Νησιά Σολομώντα (Solomon Islands)</item>
+        <item>Σιέρα Λεόνε</item>
+        <item>Ελ Σαλβαδόρ</item>
+        <item>Σαν Μαρίνο (San Marino)</item>
+        <item>Σομαλία</item>
+        <item>Άγιος Πέτρος και Μικελόν (St. Pierre and Miquelon)</item>
+        <item>Σάο Τομέ και Πρίντσιπε</item>
+        <item>Σουρινάμ</item>
+        <item>Σλοβακία (Slovensko)</item>
+        <item>Σλοβενία (Slovenija)</item>
+        <item>Σουηδία (Sverige)</item>
+        <item>Σουαζιλάνδη (Swatini)</item>
+        <item>Σεϋχέλλες</item>
+        <item>Συριακή Αραβική Δημοκρατία (جمهورية العربية السورية)</item>
+        <item>Νησιά Ταρκ και Κάικος</item>
+        <item>Τσαντ</item>
+        <item>Τόγκο</item>
+        <item>Ταϊλάνδη (ราชอาณาจักรไทย)</item>
+        <item>Τατζικιστάν</item>
+        <item>Τοκελάου</item>
+        <item>Τουρκμενιστάν</item>
+        <item>Ανατολικό Τιμόρ</item>
+        <item>Τόνγκα</item>
+        <item>Τρινιντάντ και Τομπάγκο</item>
+        <item>Τυνησία</item>
+        <item>Τουρκία (Türkiye)</item>
+        <item>Τουβαλού</item>
+        <item>Ταϊβάν, Δημοκρατία της Κίνας (台灣)</item>
+        <item>Τανζανία</item>
+        <item>Ουγκάντα (Jamhuri ya Uganda)</item>
+        <item>Ουκρανία (Україна)</item>
+        <item>Μικρά απομονωμένα νησιά Ηνωμένων Πολιτειών</item>
+        <item>Ουρουγουάη</item>
+        <item>Ηνωμένες Πολιτείες</item>
+        <item>Ουζμπεκιστάν</item>
+        <item>Κράτος της Πόλης του Βατικανού (Stato della Città del Vaticano)</item>
+        <item>Άγιος Βικέντιος και Γρεναδίνες</item>
+        <item>Βενεζουέλα</item>
+        <item>Βρετανικά Παρθένα Νησιά</item>
+        <item>Παρθένα νησιά, Η.Π.Α.</item>
+        <item>Βιετνάμ (Việt Nam)</item>
+        <item>Βανουάτου</item>
+        <item>Νησιά Ουόλις και Φουτούνα</item>
+        <item>Σαμόα</item>
+        <item>Υεμένη</item>
+        <item>Νότια Αφρική (Republiek van Suid-Afrika)</item>
+        <item>Ζαΐρ</item>
+        <item>Ζάμπια</item>
+        <item>Ζιμπάμπουε (Simudzai Mureza wedu WeZimbabwe)</item>
+    </string-array>
+    <plurals name="dialog_unzip_preview_size_text">
+        <item quantity="one">Σύνολο: %1$d αρχείο, %2$s</item>
+        <item quantity="other">Σύνολο: %1$d αρχεία, %2$s</item>
+    </plurals>
+    <plurals name="drag_items">
+        <item quantity="one">Σύρετε το αντικείμενο</item>
+        <item quantity="other">Σύρετε στοιχεία</item>
+    </plurals>
+    <plurals name="number_search_items">
+        <item quantity="one">"Βρέθηκε %d αρχείο"</item>
+        <item quantity="other">"Βρέθηκαν %d αρχεία"</item>
+    </plurals>
+    <plurals name="number_selected_items">
+        <item quantity="one">%d στοιχείο επιλέχτηκε</item>
+        <item quantity="other">%d στοιχεία επιλέχτηκαν</item>
+    </plurals>
+    <plurals name="uf_sdk_number_of_subscribers_format">
+        <item quantity="one">"Αυτό το θέμα αρέσει σε %1$s"</item>
+        <item quantity="other">"Αυτό το θέμα αρέσει σε %1$s"</item>
+    </plurals>
+    <plurals name="uf_sdk_topics">
+        <item quantity="one">"θέμα"</item>
+        <item quantity="other">"θέματα"</item>
+    </plurals>
+    <plurals name="uv_comments">
+        <item quantity="one">"σχόλιο"</item>
+        <item quantity="other">"σχόλια"</item>
+    </plurals>
+    <plurals name="uv_number_of_subscribers_format">
+        <item quantity="one">"%1$s θέλει αυτήν την ιδέα"</item>
+        <item quantity="other">"%1$s θέλουν αυτήν την ιδέα"</item>
+    </plurals>
+    <plurals name="uv_people">
+        <item quantity="one">"άτομο"</item>
+        <item quantity="other">"άνθρωποι"</item>
+    </plurals>
+    <plurals name="uv_subscribers">
+        <item quantity="one">"συνδρομητής"</item>
+        <item quantity="other">"συνδρομητές"</item>
+    </plurals>
+    <string name="AsusWebstroage">AsusWebstorage</string>
+    <string name="AuCloud">AuCloud</string>
+    <string name="BaiDuPCS">BaiDuPCS</string>
+    <string name="Default">Προεπιλογή</string>
+    <string name="Dropbox">Dropbox</string>
+    <string name="Google_Drive">Google Drive</string>
+    <string name="HomeCloud">HomeCloud</string>
+    <string name="OneDrive">OneDrive</string>
+    <string name="Yandex">Yandex</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Πλοήγηση στην αρχική σελίδα"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Πλοήγηση προς τα επάνω"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Περισσότερες επιλογές"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Τέλος"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Προβολή όλων"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Επιλέξτε κάποια εφαρμογή"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"ΑΠΕΝΕΡΓΟΠΟΙΗΣΗ"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ΕΝΕΡΓΟΠΟΙΗΣΗ"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Αναζήτηση…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Διαγραφή ερωτήματος"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Ερώτημα αναζήτησης"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Αναζήτηση"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Υποβολή ερωτήματος"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Φωνητική αναζήτηση"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Κοινή χρήση με"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Κοινή χρήση με %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Σύμπτυξη"</string>
+    <string name="about">Πληροφορίες</string>
+    <string name="account_asus">ASUS</string>
+    <string maxwidth="-1" name="action">Είσοδος</string>
+    <string description="cutstom action bar view title for about" maxwidth="-1" name="action_about">Πληροφορίες</string>
+    <string description="action add files" maxwidth="-1" name="action_add">Προσθήκη</string>
+    <string description="cutstom action bar view title for add folder" maxwidth="-1" name="action_add_folder">Προσθήκη φακέλου</string>
+    <string description="View title of custom action bar, apply to multiple selected files" maxwidth="-1" name="action_apply_selected_file">Εφαρμογή</string>
+    <string description="action cancel" maxwidth="-1" name="action_cancel">Ακύρωση</string>
+    <string maxwidth="-1" name="action_clean">"Απαλοιφή"</string>
+    <string maxwidth="-1" name="action_clean_all">"Απαλοιφή όλων"</string>
+    <string description="cutstom action bar view title for clear search history" maxwidth="" name="action_clear_history">Διαγραφή ιστορικού αναζήτησης</string>
+    <string description="cutstom action bar view title for edit" maxwidth="" name="action_edit">"Επεξεργασία"</string>
+    <string maxwidth="" name="action_hidden_zone">"Μεταφορά στην Κρυφή βιβλιοθήκη"</string>
+    <string description="cutstom action bar view title for hinde system file" maxwidth="-1" name="action_hind_system_file">Απόκρυψη αρχείων συστήματος</string>
+    <string name="action_loading">"Γίνεται φόρτωση..."</string>
+    <string description="cutstom action bar view title for open with" maxwidth="" name="action_open_with">"Άνοιγμα με..."</string>
+    <string name="action_refresh_cloudfile">"Ανανέωση"</string>
+    <string maxwidth="-1" name="action_restore">"Επαναφορά"</string>
+    <string maxwidth="-1" name="action_restore_all">"Επαναφορά όλων"</string>
+    <string description="cutstom action bar view title for search" maxwidth="" name="action_search">Αναζήτηση</string>
+    <string description="cutstom action bar view title for set as" maxwidth="" name="action_set_as">"Ορισμός εικόνας ως"</string>
+    <string description="menu title for setting" maxwidth="-1" name="action_settings">"Ρυθμίσεις"</string>
+    <string description="cutstom action bar view title for sharing" maxwidth="-1" name="action_share">"Κοινή χρ."</string>
+    <string description="String for asking for the rule of sorting" maxwidth="-1" name="action_sort_by">Ταξινόμηση βάσει</string>
+    <string description="cutstom action bar view title for zip" maxwidth="" name="action_zip">Συμπίεση</string>
+    <string description="Dialog title: Add cloud storage" maxwidth="-1" name="add_cloud_storage_dialog_title">Προσθήκη χώρου αποθήκευσης στο cloud</string>
+    <string name="add_favorite">Προσθήκη στα Αγαπημένα</string>
+    <string name="add_favorite_folder">"Προσθήκη αγαπημένου φακέλου"</string>
+    <string name="add_favorite_success">Αποθήκευση στα Αγαπημένα</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="add_progress">Δημιουργία...</string>
+    <string description="Don&apos;t remind me again" maxwidth="-1" name="alert_cb_msg">Να μη μου γίνει υπενθύμιση ξανά</string>
+    <string description="ASUS ZenUI Services is not support, need update ASUS ZenUI Services" maxwidth="-1" name="alert_msg_azs_update">Το %1$s απαιτεί την τελευταία έκδοση των Υπηρεσιών ASUS ZenUI Services, εγκαταστήστε την τώρα.</string>
+    <string description="Client app is not support, need update client app" maxwidth="-1" name="alert_msg_client_update">Διατίθεται νέα έκδοση %1$s, εγκαταστήστε την τώρα.</string>
+    <string description="Client app version is compatible with ASUS ZenUI Services" maxwidth="-1" name="alert_msg_compatible">Η έκδοση %1$s είναι συμβατή με το ASUS ZenUI Services.</string>
+    <string description="Client app version is match with ASUS ZenUI Services" maxwidth="-1" name="alert_msg_match">Η έκδοση %1$s ταιριάζει στο ASUS ZenUI Services.</string>
+    <string description="ASUS ZenUI Services is not found on device" maxwidth="-1" name="alert_msg_not_found">Οι Υπηρεσίες ASUS ZenUI Services δεν έχουν εγκατασταθεί!\n\nΜετάβαση σε λήψη και να εγκατασταθεί;</string>
+    <string description="Dialog title" maxwidth="-1" name="alert_title">Σημείωση</string>
+    <string description="Dialog title" maxwidth="-1" name="alert_title_update">Συνίσταται ενημέρωση</string>
+    <string name="app_cloudstorage_name">CloudStorage</string>
+    <string name="app_upload_complete">"Η μεταφόρτωση του %s ολοκληρώθηκε"</string>
+    <string description="" name="article_one">Συμφωνώ με τη \"<u>Γνωστοποίηση των Όρων Χρήσης</u>\" της ASUS, την \"<u>Πολιτική απορρήτου</u>\" της ASUS, τη  \"<u>Γνωστοποίηση των Όρων Χρήσης</u>\" της ASUS WebStorage, την \"<u>Πολιτική απορρήτου</u>\" της ASUS WebStorage.</string>
+    <string description="" name="article_two">Ενημερώνετέ με μέσω eDM με τα νέα της ASUS, τις ενημερώσεις λογισμικού και τις τελευταίες πληροφορίες για προϊόντα και υπηρεσίες.</string>
+    <string description="Text for create asus account button." maxwidth="" name="asus_account_create_button">Δημιουργία νέου</string>
+    <string name="asus_account_integrate_dialog_content">Θέλετε να ενσωματώσετε την cloud υπηρεσία αποθήκευσης ASUS στο λογαριασμό σας ASUS; \n\n Μετά από αυτή την ενσωμάτωση, η χρησιμοποίηση όλων των υπηρεσιών ASUS θα είναι δυνατή από τον ίδιο λογαριασμό.</string>
+    <string name="asus_account_integrate_dialog_skip">Παράβλεψη</string>
+    <string name="asus_account_integrate_dialog_title">Ενσωμάτωση υπηρεσιών ASUS</string>
+    <string name="asus_account_integrate_dialog_yes">Ναι</string>
+    <string description="Text for asus account content 1st." maxwidth="" name="asus_account_msg_content_1">Προσωπική υπηρεσία υποστήριξης ASUS και επέκταση εγγύησης για καταχωρημένα προϊόντα.</string>
+    <string description="Text for asus account content 2nd." maxwidth="" name="asus_account_msg_content_2">Δωρεάν 5GB χώρο αποθήκευσης στο cloud.</string>
+    <string description="Text for asus account content 3rd." maxwidth="" name="asus_account_msg_content_3">Τις πιο πρόσφατες πληροφορίες για αξεσουάρ και ανακαινισμένα προϊόντα.</string>
+    <string description="Text for asus account content title." maxwidth="" name="asus_account_msg_title">Δημιουργήστε ένα λογαριασμό ASUS για να έχετε:</string>
+    <string name="asus_account_only_one_alert">"Επιτρέπεται να προστεθεί μόνο ένας λογαριασμός ASUS. Πρέπει να διαγράψετε τον τρέχοντα λογαριασμό σας πριν τον αντικαταστήσετε με έναν καινούργιο."</string>
+    <string name="asus_account_prefc">"Ρυθμίσεις"</string>
+    <string name="asus_account_prefc_advc">"Σύνθετες ρυθμίσεις"</string>
+    <string name="asus_account_registe_country_error">Επιλέξτε μία περιοχή χώρας!</string>
+    <string name="asus_account_registe_id_error">Σφάλμα ηλεκτρονικού ταχυδρομείου</string>
+    <string name="asus_account_registe_policy_error">Πρέπει να συμφωνείτε με την πολιτική της ASUS για να καταχωρήσετε ένα λογαριασμό ASUS!</string>
+    <string name="asus_account_registe_pw_error_1">Ο κωδικός πρόσβασης δεν μπορεί να είναι κενός!</string>
+    <string name="asus_account_registe_pw_error_2">Η επιβεβαίωση του κωδικού πρόσβασης δεν μπορεί να είναι κενή!</string>
+    <string name="asus_account_registe_pw_error_3">Ο κωδικός πρόσβασης και η επιβεβαίωση πρέπει να είναι ταυτόσημα.</string>
+    <string name="asus_account_registe_pw_error_4">"Ο κωδικός πρόσβασης πρέπει να περιέχει από 8 έως 25 χαρακτήρες."</string>
+    <string name="asus_account_removeaccount_dialog_content">"Η ενσωμάτωση του λογαριασμού είναι επιτυχής. Συνδεθείτε ξανά χρησιμοποιώντας το νέο λογαριασμό."</string>
+    <string name="asus_account_removeaccount_dialog_title">"Η ενσωμάτωση του λογαριασμού ASUS ήταν επιτυχής"</string>
+    <string name="asus_commonui_activity_chooser_view_see_all">Εμφάνιση όλων</string>
+    <string name="asus_commonui_activity_resolver_use_always">"Πάντα"</string>
+    <string name="asus_commonui_activity_resolver_use_once">"Μόνο μία φορά"</string>
+    <string name="asus_commonui_activitychooserview_choose_application">Επιλέξτε κάποια εφαρμογή</string>
+    <string name="asus_commonui_activitychooserview_choose_application_error">
+        "Δεν ήταν δυνατή η εκκίνηση του <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string name="asus_commonui_cancel_label">"Ακύρωση"</string>
+    <string name="asus_commonui_chooseActivity">"Επιλέξτε μια ενέργεια"</string>
+    <string msgid="3968620852217927702" name="asus_commonui_day_picker_description">"Πλέγμα ημερών του μήνα"</string>
+    <string msgid="6908431551612331381" name="asus_commonui_deleted_key">"<ns1:g id="KEY">%1$s</ns1:g> διαγράφηκε"</string>
+    <string name="asus_commonui_done_label">"OK"</string>
+    <string msgid="7586639618712934060" name="asus_commonui_hour_picker_description">"Κυκλικό ρυθμιστικό ωρών"</string>
+    <string msgid="2674929164900463786" name="asus_commonui_item_is_selected">"Επιλέχτηκε το στοιχείο <ns1:g id="ITEM">%1$s</ns1:g>"</string>
+    <string msgid="6024811202872705251" name="asus_commonui_minute_picker_description">"Κυκλικό ρυθμιστικό λεπτών"</string>
+    <string name="asus_commonui_noApplications">"Δεν υπάρχουν εφαρμογές, οι οποίες μπορούν να εκτελέσουν αυτήν την ενέργεια."</string>
+    <string name="asus_commonui_no_url_handler">Δεν βρέθηκε εφαρμογή για άνοιγμα διεύθυνσης URL</string>
+    <string name="asus_commonui_privacy_policy">Πολιτική προσωπικού απορρήτου</string>
+    <string name="asus_commonui_privacy_policy_url">http://www.asus.com/GR/Terms_of_Use_Notice_Privacy_Policy/Privacy_Policy</string>
+    <string msgid="3973338219107019769" name="asus_commonui_select_day">"Επιλογή μήνα και ημέρας"</string>
+    <string msgid="7651068754188418859" name="asus_commonui_select_hours">"Επιλέξτε ώρες"</string>
+    <string msgid="8327182090226828481" name="asus_commonui_select_minutes">"Επιλέξτε λεπτά"</string>
+    <string msgid="2603330600102539372" name="asus_commonui_select_year">"Επιλογή έτους"</string>
+    <string name="asus_commonui_shareactionprovider_share_with">Κοινή χρήση με</string>
+    <string name="asus_commonui_shareactionprovider_share_with_application">
+        "Κοινή χρήση με <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string name="asus_commonui_terms_of_use_notice">Γνωστοποίηση όρων χρήσης</string>
+    <string name="asus_commonui_terms_of_use_notice_url">http://www.asus.com/GR/Terms_of_Use_Notice_Privacy_Policy/Official_Site/</string>
+    <string name="asus_commonui_whichApplication">"Ολοκλήρωση ενέργειας με τη χρήση"</string>
+    <string name="asus_commonui_whichHomeApplication">"Επιλέξτε μια εφαρμογή από την αρχική οθόνη"</string>
+    <string msgid="6963340404644587098" name="asus_commonui_year_picker_description">"Λίστα ετών"</string>
+    <string name="asus_feedback_and_help">Σχόλιο &amp; Βοήθεια</string>
+    <string name="asus_registe_success_title">"Η καταχώρηση του λογαριασμού ASUS είναι επιτυχής"</string>
+    <string name="asus_response_resultdata">"Ο λογαριασμός αυτός έχει καταχωρηθεί ήδη."</string>
+    <string name="asusaccount_app_name">Λογαριασμός ASUS</string>
+    <string maxwidth="-1" name="attribution_notice">"Σημείωση Χαρακτηριστικού"</string>
+    <string maxwidth="-1" name="attribution_notice_content">
+    "
+    \nΑυτό το προϊόν περιέχει τις μονάδες ανοικτού κώδικα που αναφέρονται παρακάτω:
+\n\nuservoice-android-sdk, που παρέχεται υπό την άδεια χρήσης Apache License Version 2.0. Η άδεια χρήσης είναι διαθέσιμη για λήψη από http://www.apache.org/licenses/LICENSE-2.0.html.
+        \n\nangular-filemanager, που παρέχεται υπό την άδεια χρήσης MIT. Η άδεια χρήσης είναι διαθέσιμη για λήψη από https://github.com/joni2back/angular-filemanager/blob/master/LICENSE .
+        \n\nprogressbar, που παρέχεται υπό την άδεια χρήσης MIT. Η άδεια χρήσης είναι διαθέσιμη για λήψη από https://github.com/kimmobrunfeldt/progressbar.js/blob/master/LICENSE .
+        \n\ntoastr, Copyright (c) 2012-2015 John Papa, Tim Ferrell, Hans Fjällemark\nΔια του παρόντος παρέχεται άδεια, χωρίς επιβάρυνση, σε οποιοδήποτε άτομο αποκτήσει ένα αντίγραφο του παρόντος λογισμικού και των σχετιζόμενων αρχείων τεκμηρίωσης (το "Λογισμικό"), να χειριστεί το Λογισμικό χωρίς περιορισμούς, συμπεριλαμβανομένων, ενδεικτικά και μη περιοριστικά, των δικαιωμάτων χρήσης, αντιγραφής, τροποποίησης, συγχώνευσης, δημοσίευσης, διανομής, εκ νέου αδειοδότησης ή/και πώλησης αντιγράφων του Λογισμικού, και να επιτρέψει στα άτομα στα οποία παρέχεται το Λογισμικό να κάνουν το ίδιο, υπό τις ακόλουθες προϋποθέσεις:
+        Η παραπάνω γνωστοποίηση πνευματικών δικαιωμάτων και η παρούσα γνωστοποίηση άδειας θα πρέπει να περιλαμβάνονται σε όλα τα αντίγραφα ή ουσιώδη τμήματα του Λογισμικού. ΤΟ ΛΟΓΙΣΜΙΚΟ ΠΑΡΕΧΕΤΑΙ "ΩΣ ΕΧΕΙ ", ΧΩΡΙΣ ΚΑΝΕΝΟΣ ΕΙΔΟΥΣ ΕΓΓΥΗΣΗ, ΡΗΤΗ Ή ΣΙΩΠΗΡΗ, ΣΥΜΠΕΡΙΛΑΜΒΑΝΟΜΕΝΩΝ, ΕΝΔΕΙΚΤΙΚΑ, ΤΩΝ ΕΓΓΥΗΣΕΩΝ ΕΜΠΟΡΕΥΣΙΜΟΤΗΤΑΣ, ΚΑΤΑΛΛΗΛΟΤΗΤΑΣ ΓΙΑ ΣΥΓΚΕΚΡΙΜΕΝΟ ΣΚΟΠΟ ΚΑΙ ΜΗ ΠΡΟΣΒΟΛΗΣ ΔΙΚΑΙΩΜΑΤΩΝ ΤΡΙΤΩΝ. ΣΕ ΚΑΜΙΑ ΠΕΡΙΠΤΩΣΗ ΟΙ ΣΥΝΤΑΚΤΕΣ Ή ΟΙ ΚΑΤΟΧΟΙ ΤΩΝ ΠΝΕΥΜΑΤΙΚΩΝ ΔΙΚΑΙΩΜΑΤΩΝ ΔΕΝ ΘΑ ΦΕΡΟΥΝ ΕΥΘΥΝΗ ΓΙΑ ΟΠΟΙΑΔΗΠΟΤΕ ΑΞΙΩΣΗ, ΖΗΜΙΕΣ Ή ΑΛΛΕΣ ΕΥΘΥΝΕΣ, ΒΑΣΕΙ ΣΥΜΒΑΣΕΩΣ, ΑΔΙΚΟΠΡΑΞΙΑΣ Ή ΑΛΛΗΣ, ΠΟΥ ΠΡΟΕΡΧΟΝΤΑΙ ΑΠΟ Ή ΣΧΕΤΙΖΟΝΤΑΙ ΜΕ ΤΟ ΛΟΓΙΣΜΙΚΟ Ή ΤΗ ΧΡΗΣΗ Ή ΑΛΛΕΣ ΔΟΣΟΛΗΨΙΕΣ ΩΣ ΠΡΟΣ ΤΟ ΛΟΓΙΣΜΙΚΟ.
+"
+    </string>
+    <string name="aucloud_account_only_one_alert">"Επιτρέπεται να προστεθεί μόνο ένας λογαριασμός Cloud. Πρέπει να διαγράψετε τον τρέχοντα λογαριασμό σας πριν τον αντικαταστήσετε με έναν καινούργιο."</string>
+    <string description="string indicating how camera shooting feature is used" maxwidth="-1" name="auto">Αυτόματο</string>
+    <string maxwidth="-1" name="aws_install_contnet">Δεν υπάρχει εγκατεστημένο το WebStorage. Θέλετε να προβείτε σε λήψη και εγκατάστασή του από το play store;</string>
+    <string maxwidth="" name="aws_install_title">Δεν υπάρχει εγκατεστημένο το WebStorage</string>
+    <string description="button text." maxwidth="-1" name="back_button_label">Πίσω</string>
+    <string name="baidu_alert_info">"Βασισμένη στην πλατφόρμα Baidu, η συσκευή αυτή μπορεί να έχει πρόσβαση μόνο στα δεδομένα της διαδρομής "My Application Data\\asus\\"."</string>
+    <string name="baidu_alert_title">"Αποθήκευση Cloud Baidu"</string>
+    <string name="baidu_storage_title">"百度云"</string>
+    <string name="baidupcs_account_only_one_alert">"Επιτρέπεται να προστεθεί μόνο ένα Baidu για το λογαριασμό ASUS. Πρέπει να διαγράψετε τον τρέχοντα λογαριασμό σας πριν τον αντικαταστήσετε με έναν καινούργιο."</string>
+    <string name="btn_OK">ΟΚ</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="calculate_progress">"Σε εξέλιξη..."</string>
+    <string description="Toast: can not open in hidden zone" maxwidth="-1" name="can_not_open_in_hidden_zone">"Αδυναμία ανοίγματος στην Κρυφή βιβλιοθήκη"</string>
+    <string description="Dialog Button: cancel for dialog" maxwidth="" name="cancel">Ακύρωση</string>
+    <string name="cancle">Άκυρο</string>
+    <string name="category_apk">Εφαρμογές</string>
+    <string maxwidth="11" name="category_app1">"Εφαρμογές"</string>
+    <string name="category_compress">"Συμπιεσμένο"</string>
+    <string maxwidth="11" name="category_compressed1">"Συμπιεσμένο"</string>
+    <string name="category_count">"%s"</string>
+    <string maxwidth="11" name="category_document1">"Έγγραφα"</string>
+    <string name="category_documents">"Έγγραφα"</string>
+    <string name="category_download">Λήψη</string>
+    <string maxwidth="11" name="category_download1">"Λήψεις"</string>
+    <string name="category_favorite">Αγαπημένα</string>
+    <string maxwidth="11" name="category_favorite1">"Αγαπημένα"</string>
+    <string name="category_game">"Παιχνίδια"</string>
+    <string name="category_image">Εικόνα</string>
+    <string maxwidth="11" name="category_image1">"Εικόνες"</string>
+    <string maxwidth="11" name="category_large_file1">"Μεγάλα αρχ."</string>
+    <string name="category_music">Μουσική</string>
+    <string maxwidth="11" name="category_music1">"Μουσική"</string>
+    <string name="category_name_app_wallpaper">"Ζωντανή ταπετσαρία"</string>
+    <string name="category_name_app_widgets">"Γραφικά στοιχεία"</string>
+    <string name="category_name_books_and_reference">"Βιβλία και Αναφορές"</string>
+    <string name="category_name_business">"Επιχείρηση"</string>
+    <string name="category_name_comics">"Κόμικ"</string>
+    <string name="category_name_communication">"Επικοινωνία"</string>
+    <string name="category_name_education">"Εκπαίδευση"</string>
+    <string name="category_name_entertainment">"Διασκέδαση"</string>
+    <string name="category_name_finance">"Οικονομία"</string>
+    <string name="category_name_game">"Παιχνίδια"</string>
+    <string name="category_name_game_action">"Ενέργεια"</string>
+    <string name="category_name_game_adventure">"Περιπέτεια"</string>
+    <string name="category_name_game_arcade">"Παιχνίδια arcade"</string>
+    <string name="category_name_game_board">"Επιτραπέζια παιχνίδια"</string>
+    <string name="category_name_game_card">"Παιχνίδια με κάρτες"</string>
+    <string name="category_name_game_casino">"Παιχνίδια καζίνο"</string>
+    <string name="category_name_game_casual">"Εύκολα"</string>
+    <string name="category_name_game_educational">"Εκπαιδευτικά παιχνίδια"</string>
+    <string name="category_name_game_family">"Οικογένεια"</string>
+    <string name="category_name_game_music">"Μουσική"</string>
+    <string name="category_name_game_puzzle">"Παιχνίδια παζλ"</string>
+    <string name="category_name_game_racing">"Αγώνες"</string>
+    <string name="category_name_game_role_playing">"Παιχνίδι ρόλων"</string>
+    <string name="category_name_game_simulation">"Παιχνίδια προσομοίωσης"</string>
+    <string name="category_name_game_sports">"Αθλήματα"</string>
+    <string name="category_name_game_strategy">"Παιχνίδια στρατηγικής"</string>
+    <string name="category_name_game_trivia">"Παιχνίδια γενικών γνώσεων"</string>
+    <string name="category_name_game_word">"Παιχνίδια λέξεων"</string>
+    <string name="category_name_health_and_fitness">"Υγεία και φυσική κατάσταση"</string>
+    <string name="category_name_libraries_and_demo">"Βιβλιοθήκες και εκδόσεις επίδειξης"</string>
+    <string name="category_name_lifestyle">"Διάφορα"</string>
+    <string name="category_name_media_and_video">"Βίντεο και πολυμέσα"</string>
+    <string name="category_name_medical">"Ιατρικό"</string>
+    <string name="category_name_music_and_audio">"Μουσική και ήχος"</string>
+    <string name="category_name_news_and_magazines">"Εφημερίδες και περιοδικά"</string>
+    <string name="category_name_personalization">"Εξατομίκευση"</string>
+    <string name="category_name_photography">"Φωτογραφία"</string>
+    <string name="category_name_productivity">"Παραγωγικότητα"</string>
+    <string name="category_name_shopping">"Αγορές"</string>
+    <string name="category_name_social">"Κοινωνικά"</string>
+    <string name="category_name_sports">"Αθλήματα"</string>
+    <string name="category_name_tools">"Εργαλεία"</string>
+    <string name="category_name_transportation">"Μεταφορές"</string>
+    <string name="category_name_travel_and_local">"Ταξίδια και τοπικές πληροφορίες"</string>
+    <string name="category_name_weather">"Καιρός"</string>
+    <string name="category_others">"Άλλα"</string>
+    <string maxwidth="11" name="category_recent1">"Πρόσφατα"</string>
+    <string name="category_recent_files">"Προστέθηκε πρόσφατα"</string>
+    <string name="category_sorting_summary">"Επιλέξτε στοιχεία που εμφανίζονται στον πίνακα κατηγοριών"</string>
+    <string name="category_title_category">Κατηγορία</string>
+    <string name="category_title_local_storage">Τοπική αποθήκευση</string>
+    <string name="category_title_tools">"Εργαλεία"</string>
+    <string name="category_toast_invalid_item_size_6_or_9">"Επιλέξτε 6 ή 9 στοιχεία"</string>
+    <string name="category_toast_invalid_item_size_9">"Επιλέξτε 9 στοιχεία"</string>
+    <string name="category_toast_invalid_remove">"Αυτό το στοιχείο δεν μπορεί να καταργηθεί"</string>
+    <string name="category_toast_max_item_size">"Επιλέξτε το πολύ 9 στοιχεία"</string>
+    <string name="category_video">Βίντεο</string>
+    <string maxwidth="11" name="category_video1">"Βίντεο"</string>
+    <string name="clear_account_info">Ξεχάστε όλους τους λογαριασμούς</string>
+    <string description="Menu Option: clear all checkbox" maxwidth="" name="clear_all">Διαγραφή όλων</string>
+    <string name="click_plus_to_add_favorite_folder">"Πατήστε + για να προσθέσετε έναν αγαπημένο φάκελο"</string>
+    <string description="Toast: The size is over the limit and cannot be uploaded" maxwidth="-1" name="cloud_download_flie_limit_space">Το μέγεθος έχει υπερβεί το όριο και δεν μπορεί να φορτωθεί</string>
+    <string description="Toast: The name of the file uploaded is not supported by cloud server" maxwidth="-1" name="cloud_flie_name_not_supported">"Η διαδικασία δεν μπόρεσε να ολοκληρωθεί επειδή το όνομα αρχείου δεν υποστηρίζεται από τον διακομιστή στο cloud."</string>
+    <string description="home cloud get available devices fail" name="cloud_homebox_get_devices_fail">Αποτυχία σάρωσης για διαθέσιμες συσκευές HomeCloud</string>
+    <string description="home cloud has no available devices" name="cloud_homebox_no_available_devices">Δεν υπάρχουν διαθέσιμες συσκευές HomeCloud</string>
+    <string description="home cloud device is sleep" name="cloud_homebox_status__info_Sleep">Νάρκη</string>
+    <string description="home cloud device is offline" name="cloud_homebox_status__info_offline">Εκτός σύνδεσης</string>
+    <string description="home cloud device is online" name="cloud_homebox_status__info_online">Σε σύνδεση</string>
+    <string description="home cloud device is offline" name="cloud_homebox_status_offline">Η συσκευή είναι εκτός σύνδεσης</string>
+    <string description="diaglog cloud background paste" name="cloud_paste_backgroud">Παρασκήνιο</string>
+    <string description="diaglog cloud  now is copy files" name="cloud_paste_copying">Αντιγραφή...</string>
+    <string description="diaglog cloud  current" name="cloud_paste_current">Τρέχον</string>
+    <string description="diaglog cloud  now is delete source files" name="cloud_paste_deleting">Διαγραφή αρχείων προέλευσης...</string>
+    <string description="diaglog cloud  paste" name="cloud_paste_downloading">Λήψη αρχείων</string>
+    <string description="diaglog cloud  total" name="cloud_paste_total">Σύνολο</string>
+    <string description="diaglog cloud  paste uploading" name="cloud_paste_uploading">Αποστολή αρχείων</string>
+    <string description="Toast: cloud preview action" maxwidth="-1" name="cloud_preview_action_fail">Η προεπισκόπηση των αρχείων cloud απέτυχε.</string>
+    <string description="Toast: cloud share action" maxwidth="-1" name="cloud_share_action_fail">Η κοινή χρήση των αρχείων cloud απέτυχε.</string>
+    <string description=">Do you want to remove" maxwidth="-1" name="cloud_storage_remove_hint">"Θέλετε να αποσυνδέσετε τον λογαριασμό \"%s\";"</string>
+    <string description="Dialog title: Remove cloud storage" maxwidth="-1" name="cloud_storage_remove_hint_title">Αποσύνδεση</string>
+    <string description=">Do you want to signin" maxwidth="-1" name="cloud_storage_sign_in">Σύνδεση με χρήση του ακόλουθου λογαριασμού:</string>
+    <string description="Dialog title: Signin cloud storage" maxwidth="-1" name="cloud_storage_sign_in_title">Σύνδεση %s</string>
+    <string description=">Do you want to signout" maxwidth="-1" name="cloud_storage_sign_out">"Είστε βέβαιοι ότι θέλετε να αποσυνδεθείτε \"%s\";"</string>
+    <string description="Dialog title: Signout cloud storage" maxwidth="-1" name="cloud_storage_sign_out_title">Αποσύνδεση</string>
+    <string description="Add more cloud storage" maxwidth="-1" name="cloud_storage_title">Προσθήκη περισσότερου χώρου αποθήκευσης στο cloud</string>
+    <string description="diaglog cloud  token is invalidate" name="cloud_token_invalidate">Το διακριτικό ακυρώθηκε. Συνδεθείτε ξανά!</string>
+    <string description="Toast: The size is over the limit and cannot be uploaded" maxwidth="-1" name="cloud_upload_flie_limit_space">Το μέγεθος έχει υπερβεί το όριο και δεν μπορεί να φορτωθεί</string>
+    <string name="com_facebook_image_download_unknown_error">Προέκυψε μη αναμενόμενο σφάλμα κατά τη λήψη μιας εικόνας.</string>
+    <string name="com_facebook_internet_permission_error_message">Για τη σύνδεση στο WebView απαιτείται σύνδεση INTERNET</string>
+    <string name="com_facebook_internet_permission_error_title">Σφάλμα AndroidManifest</string>
+    <string name="com_facebook_like_button_liked">Σας αρέσει</string>
+    <string name="com_facebook_like_button_not_liked">Μου αρέσει!</string>
+    <string name="com_facebook_loading">Φόρτωση...</string>
+    <string name="com_facebook_loginview_cancel_action">Άκυρο</string>
+    <string name="com_facebook_loginview_log_in_button">Σύνδεση</string>
+    <string name="com_facebook_loginview_log_in_button_long">Σύνδεση μέσω Facebook</string>
+    <string name="com_facebook_loginview_log_out_action">Αποσύνδεση</string>
+    <string name="com_facebook_loginview_log_out_button">Αποσύνδεση</string>
+    <string name="com_facebook_loginview_logged_in_as">Έχει γίνει σύνδεση ως: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Έχει γίνει σύνδεση μέσω Facebook</string>
+    <string name="com_facebook_send_button_text">Αποστολή</string>
+    <string name="com_facebook_share_button_text">Κοινοποίηση</string>
+    <string name="com_facebook_tooltip_default">Νέο! Έχετε τον έλεγχο - επιλέξτε ποιες πληροφορίες θέλετε να κοινοποιούνται στις εφαρμογές.</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Ενεργοποίηση"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"Η εφαρμογή <ns1:g id="APP_NAME">%1$s</ns1:g> δεν θα λειτουργήσει εάν δεν έχετε ενεργοποιήσει τις υπηρεσίες Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Ενεργοποίηση υπηρεσιών Google Play"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Εγκατάσταση"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"Η εφαρμογή <ns1:g id="APP_NAME">%1$s</ns1:g> δεν μπορεί να εκτελεστεί χωρίς τις υπηρεσίες Google Play, οι οποίες λείπουν από τη συσκευή σας."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Λήψη υπηρεσιών Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Σφάλμα Υπηρεσιών Google Play"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"Η εφαρμογή <ns1:g id="APP_NAME">%1$s</ns1:g> αντιμετωπίζει κάποιο πρόβλημα με τις υπηρεσίες Google Play. Προσπαθήστε ξανά."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"Η εφαρμογή <ns1:g id="APP_NAME">%1$s</ns1:g> δεν θα εκτελεστεί χωρίς τις υπηρεσίες Google Play, οι οποίες δεν υποστηρίζονται από τη συσκευή σας."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Ενημέρωση"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"Η εφαρμογή <ns1:g id="APP_NAME">%1$s</ns1:g> θα εκτελεστεί αφού ενημερώσετε τις Υπηρεσίες Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Ενημέρωση υπηρεσιών Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"Η εφαρμογή <ns1:g id="APP_NAME">%1$s</ns1:g> δεν θα εκτελεστεί χωρίς τις υπηρεσίες Google Play, οι οποίες ενημερώνονται αυτήν τη στιγμή."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Απαιτείται νέα έκδοση των υπηρεσιών Google Play. Θα ενημερωθεί σύντομα."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Άνοιγμα σε τηλέφωνο"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Σύνδεση"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Συνδεθείτε με το Google"</string>
+    <string name="confirm">"Επιβεβαίωση"</string>
+    <string maxwidth="-1" name="confirm_ok">ΟΚ</string>
+    <string description="confirm password textview title" name="confirm_password">Επιβεβαίωση κωδικού πρόσβασης</string>
+    <string description="ask user to enter password again to confirm" name="confirm_password_edit">Εισαγωγή κωδικού πρόσβασης ξανά</string>
+    <string description="content" maxwidth="-1" name="content">"Η χρήση του παρόντος λογισμικού υπόκειται στους όρους και στις προϋποθέσεις της τοποθεσίας Web της ASUS: \nhttp://www.asus.com"</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="copy">Αντιγραφή</string>
+    <string description="Toast: copy ready" maxwidth="-1" name="copy_ready_more">Έχουν αντιγραφεί τα επιλεγμένα αρχεία και είναι έτοιμα για επικόλληση.</string>
+    <string description="Toast: copy ready. %s is variable string." maxwidth="-1" name="copy_ready_one">"Το \"%s\" έχει αντιγραφεί και είναι έτοιμο για επικόλληση."</string>
+    <string name="copy_to">Αντιγραφή σε</string>
+    <string description="country region textview title" name="country_region">Περιοχή χώρας</string>
+    <string description="ack user to select on country" name="country_region_select">Επιλογή της περιοχής σας</string>
+    <string name="create_shortcut">"Δημιουργία συντόμευσης"</string>
+    <string name="create_shortcut_dialog">"Δημιουργία συντόμευσης στο Launcher"</string>
+    <string name="create_shortcut_toast">"Η δημιουργία συντόμευσης στο Launcher ολοκληρώθηκε"</string>
+    <string name="cta_agree">"Αποδοχή"</string>
+    <string name="cta_check_title">"Απομνημόνευση"</string>
+    <string name="cta_dialog_content">Ο <b>Διαχειριστής αρχείων</b> επιχειρεί να χρησιμοποιήσει το δίκτυο. Ενδέχεται να υπάρξουν άλλες χρεώσεις, ανάλογα με τη συνδρομή σας.</string>
+    <string name="cta_dialog_title">"Χρήση δικτύου"</string>
+    <string name="cta_disagree">"Άρνηση"</string>
+    <string name="cta_show_menu">"Δικαίωμα δικτύου"</string>
+    <string name="current_folder">"Τρέχων φάκελος"</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="cut">Αποκοπή</string>
+    <string description="Toast: cut ready" maxwidth="-1" name="cut_ready_more">Έχουν αποκοπεί τα επιλεγμένα αρχεία και είναι έτοιμα για επικόλληση.</string>
+    <string description="Toast: cut ready. %s is variable string." maxwidth="-1" name="cut_ready_one">"Το \"%s\" έχει αποκοπεί και είναι έτοιμο για επικόλληση."</string>
+    <string description="button text for sort file by date" maxwidth="-1" name="date">Ημερομηνία</string>
+    <string description="button text for sort file by date ascending" maxwidth="-1" name="date_ascending">Ημερομηνία (παλαιότερο-νεότερο)</string>
+    <string description="button text for sort file by date descending" maxwidth="-1" name="date_descending">Ημερομηνία (νεότερο-παλαιότερο)</string>
+    <string msgid="7984755014526510295" name="day">"1 ημέρα"</string>
+    <string msgid="2070509222727852210" name="days">"<ns1:g id="DAYS">%s</ns1:g> ημέρες"</string>
+    <string maxwidth="-1" name="dbx_install_contnet">Δεν υπάρχει εγκατεστημένο το Dropbox. Θέλετε να προβείτε σε λήψη και εγκατάστασή του από το play store;</string>
+    <string maxwidth="" name="dbx_install_title">Δεν υπάρχει εγκατεστημένο το Dropbox</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="delete">Διαγραφή</string>
+    <string description="Dialog Title: delete dialog title" maxwidth="" name="delete_dialog">Διαγραφή αρχείου</string>
+    <string description="Toast: delete fails" maxwidth="-1" name="delete_fail">Η διαγραφή αρχείου απέτυχε.</string>
+    <string description="Dialog Content: text in dialog. %d is variable number." maxwidth="" name="delete_more_files">Θέλετε να διαγραφούν τα %d στοιχεία;</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="delete_one_directory">Θέλετε να διαγραφεί ο κατάλογος;</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="delete_one_files">Θέλετε να διαγραφεί το αρχείο;</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="delete_progress">Διαγραφή...</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="delete_size">"Μέγεθος: "</string>
+    <string description="Toast: delete success" maxwidth="-1" name="delete_success_more">Έχουν διαγραφεί τα επιλεγμένα αρχεία.</string>
+    <string description="Toast: delete success. %s is variable string." maxwidth="-1" name="delete_success_one">"Το \"%s\" έχει διαγραφεί."</string>
+    <string description="cutstom action bar view title for deselect all checkbox" maxwidth="" name="deselect_all">Αποεπιλογή όλων</string>
+    <string name="device_root_path">ριζικό</string>
+    <string description="compress dialog title" maxwidth="-1" name="dialog_create_zip_title">Εισάγετε το όνομα της αρχειοθήκης</string>
+    <string description="extract zip file dialog title. %s is a dynamic string. It is zip file name." maxwidth="-1" name="dialog_extract_zip_title">Εξαγωγή του %s σε:</string>
+    <string name="dialog_load_stream_url_info">Ανάκτηση απαραίτητων πληροφοριών από διακομιστή</string>
+    <string name="dialog_msg_market_login_account">"Συνδεθείτε στο λογαριασμό σας Google για λήψη της εφαρμογής"</string>
+    <string description="text encoding dialog title" maxwidth="-1" name="dialog_text_encoding_title">Κωδικοποίηση κειμένου</string>
+    <string name="dialog_title_market_login_account">"Προσθήκη λογαριασμού"</string>
+    <string description="show zip info dialog title. %s is a dynamic string. Is is a zip file name" maxwidth="-1" name="dialog_unzip_preview_title">Εξαγωγή του %s</string>
+    <string description="Dialog Title: Directory information dialog title" maxwidth="-1" name="dir_info_dialog_title">Πληροφορίες καταλόγου</string>
+    <string name="display">"Εμφάνιση ως"</string>
+    <string name="display_hint">"Ο Υπολογιστής μου, μπορεί να είναι κενό"</string>
+    <string name="dm_openfile">"Άνοιγμα αρχείου"</string>
+    <string name="do_not_show_again">"Να μην εμφανιστεί ξανά"</string>
+    <string name="domain">"Τομέας:"</string>
+    <string name="domain_hint">"Μπορεί να είναι κενό"</string>
+    <string name="download_fail">η λήψη απέτυχε!</string>
+    <string name="drag_items_one">Σύρετε το αντικείμενο</string>
+    <string name="drag_items_other">Σύρετε στοιχεία</string>
+    <string name="drawer_close">"Κλείσιμο σχεδιαστή πλοήγησης"</string>
+    <string name="drawer_home">Αρχική</string>
+    <string name="drawer_open">"Άνοιγμα σχεδιαστή πλοήγησης"</string>
+    <string description="Hint: the operation is incorrect" maxwidth="-1" name="drop_incorrect_hint">Λανθασμένη λειτουργία</string>
+    <string description="Hint: the target folder which you want to do something" maxwidth="-1" name="drop_target_to">Στόχος σε:</string>
+    <string name="dumdownloadfrom">Λήψη από</string>
+    <string name="dumuploadto">Αποστολή σε</string>
+    <string name="duplicate_files">"Διπλότυπα αρχεία"</string>
+    <string name="duplicate_files_content_hint">"Εύρεση διπλότυπων αρχείων και διαγραφή τους με την άδειά σας."</string>
+    <string name="edit_toast_name_too_long">Επετεύχθη ο μέγιστος αριθμός χαρακτήρων</string>
+    <string name="edit_toast_special_char">Δεν είναι δυνατή η συμπερίληψη ειδικών χαρακτήρων</string>
+    <string name="editcategory_hint">"Πατήστε το κουμπί επεξεργασίας για να προσαρμόσετε τον πίνακα Κατηγορία."</string>
+    <string description="describe the empty folder" maxwidth="-1" name="empty_folder_title">"Δεν υπάρχουν αρχεία"</string>
+    <string description="Dialog Button: click to open the encoding list dialog" maxwidth="-1" name="encode">Κωδικοποίηση κειμένου</string>
+    <string description="ask user to enter password" maxwidth="-1" name="enter_password">"Εισάγετε κωδικό πρόσβασης"</string>
+    <string name="eula_content_description">
+        \nΑυτή η Άδεια Χρήσης Τελικού Χρήστη (End User License Agreement, “EULA”) αποτελεί μια έγκυρη και δεσμευτική συμφωνία μεταξύ της ASUSTeK Computer Inc. (“ASUS“) και Εσάς (Εσείς, Σας), ως χρήστη, για τη χρήση του Λογισμικού ASUS (“Λογισμικό”) όπως ορίζεται παρακάτω. Εγκαθιστώντας και συνεχίζοντας να χρησιμοποιείτε το λογισμικό, ΔΗΛΩΝΕΤΕ ΡΗΤΑ ΟΤΙ ΕΧΕΤΕ ΔΙΑΒΑΣΕΙ ΚΑΙ ΚΑΤΑΝΟΗΣΕΙ ΚΑΙ ΟΤΙ ΣΥΝΑΙΝΕΙΤΕ ΣΤΗ ΔΕΣΜΕΥΣΗ ΣΑΣ ΑΠΟ ΤΟΥΣ ΟΡΟΥΣ ΤΗΣ ΠΑΡΟΥΣΑΣ EULA ΚΑΙ ΟΠΟΙΩΝΔΗΠΟΤΕ ΝΕΩΝ ΕΚΔΟΣΕΩΝ ΤΗΣ ΠΑΡΟΥΣΑΣ. 
+\n\n1.ΛΟΓΙΣΜΙΚΟ  σημαίνει το Λογισμικό ASUS που παρέχεται ενσωματωμένο στο ή μαζί με το σχετικό προϊόν ASUS, συμπεριλαμβανομένων, μη περιοριστικά, μελλοντικών προγραμματιστικών διορθώσεων, ενημερώσεων, αναβαθμίσεων και τροποποιημένων εκδόσεων.
+\nΤο Λογισμικό ενδέχεται να συνοδεύεται από άλλο λογισμικό, δημιουργημένο από την ASUS ή τρίτους, το οποίο παρέχεται κατόπιν αδείας δυνάμει μίας ή περισσότερων αδειών χρήσης Δωρεάν Λογισμικού Ανοικτού Κώδικα, όπως αναφέρονται στην ιστοσελίδα www.opensource.org/licenses. Τέτοιο Δωρεάν Λογισμικό Ανοικτού Κώδικα παρέχεται σε εσάς αποκλειστικά υπό τους όρους της αντίστοιχης σύμβασης άδειας χρήσης ή της ειδοποίησης περί πνευματικών δικαιωμάτων που το συνοδεύει ή που περιέχεται στο αρχείο αδειών χρήσης Δωρεάν Λογισμικού Ανοικτού Κώδικα που συνοδεύει το Λογισμικό. Οι όροι της παρούσης EULA ΔΕΝ ισχύουν για τέτοιο Δωρεάν Λογισμικό Ανοικτού Κώδικα.
+\n\n2.ΑΔΕΙΑ ΧΡΗΣΗΣ Υπό τους όρους αυτής της EULA, η ASUS δια του παρόντος Σας παραχωρεί μια περιορισμένη, προσωπική, μη εμπορική, μη αποκλειστική άδεια για τη χρήση του Λογισμικού αποκλειστικά ως ενσωματωμένου στα προϊόντα ASUS. Μπορείτε να κάνετε ένα αντίγραφο του Λογισμικού σε μορφή αναγνώσιμη από υπολογιστές, αποκλειστικά για σκοπούς αντιγράφου ασφαλείας• υπό τον όρο ότι το αντίγραφο ασφαλείας πρέπει να περιλαμβάνει όλες τις ειδοποιήσεις περί πνευματικών ή άλλων αποκλειστικών δικαιωμάτων που περιέχονται στο πρωτότυπο. Αυτή η άδεια χρήσης δεν επιτρέπεται να εκχωρηθεί σε τρίτους και δεν είναι μεταβιβάσιμη παρά μόνο σε πρόσωπα ή οντότητες στις οποίες μεταβιβάζετε την κυριότητα ολόκληρων των προϊόντων ASUS που περιέχουν το Λογισμικό, υπό τον όρο ότι θα μεταβιβάσετε δια παντός όλα τα δικαιώματα που απορρέουν από την παρούσα EULA και δεν θα διατηρήσετε πλήρη ή μερικά αντίγραφα του Λογισμικού, και εφόσον ο παραλήπτης συμφωνεί στους όρους της παρούσας EULA.
+\n\n3.ΑΠΑΓΟΡΕΥΣΗ ΑΝΤΙΣΤΡΟΦΗΣ Δεν επιτρέπεται η αντίστροφη μηχανική, απομεταγλώττιση, αποκρυπτογράφηση ή αποσυμπίλυση του Λογισμικού, ή η παροχή άδειας ή η παρότρυνση για τα παραπάνω, παρά μόνο στον βαθμό που η άμεσα εφαρμοζόμενη νομοθεσία απαγορεύει την επιβολή των παραπάνω.
+\n\n4.ΕΜΠΙΣΤΕΥΤΙΚΟΤΗΤΑ Έχετε καθήκον να προστατεύετε και να μην αποκαλύπτετε ή να προκαλείτε την αποκάλυψη όλων ή τμημάτων των εμπιστευτικών πληροφοριών του Λογισμικού, συμπεριλαμβανομένων, μη περιοριστικά, των εμπορικών μυστικών και του υλικού πνευματικής ιδιοκτησίας σε οποιαδήποτε μορφή, σε οποιονδήποτε τρίτο.
+\n\n5.ΔΙΚΑΙΩΜΑΤΑ ΠΝΕΥΜΑΤΙΚΗΣ ΙΔΙΟΚΤΗΣΙΑΣ (“Δικαιώματα ΠΙ”) Αναγνωρίζετε και συμφωνείτε ότι όλα τα Δικαιώματα ΠΙ, οι τίτλοι και τα ωφελήματα σε ή προερχόμενα από το Λογισμικό είναι και θα παραμείνουν αποκλειστική ιδιοκτησία της ASUS ή των χορηγών αδείας. Τίποτα απ\' όσα αναφέρονται στην παρούσα EULA δεν στοχεύει στη μεταβίβαση οποιωνδήποτε τέτοιων δικαιωμάτων ΠΙ σε Εσάς. Οποιαδήποτε μη εξουσιοδοτημένη χρήση των Δικαιωμάτων ΠΙ αποτελεί παραβίαση της παρούσας EULA, καθώς και παραβίαση της νομοθεσίας περί πνευματικής ιδιοκτησίας, συμπεριλαμβανομένης, μη περιοριστικά, της νομοθεσίας περί πνευματικών δικαιωμάτων και εμπορικών σημάτων.
+\nΜε την αποστολή οποιωνδήποτε πληροφοριών, υλικών, ιδεών, γενικών αρχών ή τεχνικών –εξαιρουμένων προσωπικών πληροφοριών– στην ASUS μέσω του Λογισμικού (“Σχόλια”), αναγνωρίζετε και συμφωνείτε ότι: (i) Τα Σχόλιά σας δεν περιέχουν εμπιστευτικές ή ιδιωτικές πληροφορίες• (ii) Η ASUS δεν έχει καμία υποχρέωση εμπιστευτικότητας, ρητή ή εννοούμενη, σχετικά με τα Σχόλια• (iii) Η ASUS έχει δικαίωμα χρήσης ή αποκάλυψης, αποκλειστικά σύμφωνα με την κρίση της, των Σχολίων για οποιονδήποτε σκοπό, με οποιονδήποτε τρόπο, παγκόσμια• (iv) Τα Σχόλιά Σας γίνονται ιδιοκτησία της ASUS χωρίς οποιαδήποτε υποχρέωση της ASUS προς Εσάς• και (v) Δεν δικαιούστε οποιαδήποτε αποζημίωση ή επανόρθωση, οποιασδήποτε μορφής, από αυτήν.
+\n\n6.ΔΙΑΡΚΕΙΑ ΚΑΙ ΤΕΡΜΑΤΙΣΜΟΣ Η παρούσα EULA τίθεται σε ισχύ από την ημερομηνία εγκατάστασης του Λογισμικού από Εσάς. Μπορείτε να τερματίσετε την παρούσα Άδεια Χρήσης οποιαδήποτε στιγμή σταματώντας τη χρήση όλου του Λογισμικού και αφαιρώντας το Λογισμικό από το προϊόν ASUS. Τα δικαιώματά σας τερματίζονται χωρίς πρότερη ενημέρωση από την ASUS εάν πιστεύετε ότι δεν συμμορφώνεστε με οποιαδήποτε διάταξη της παρούσας EULA.
+\n\n7.Αποκήρυξη Εγγύησης και Περιορισμός Ευθύνης ΑΝΑΓΝΩΡΙΖΕΤΕ ΟΤΙ ΤΟ ΛΟΓΙΣΜΙΚΟ ΠΑΡΕΧΕΤΑΙ “ΩΣ ΕΧΕΙ.” ΚΑΘΕ ΚΙΝΔΥΝΟΣ ΣΧΕΤΙΚΑ ΜΕ ΤΗΝ ΠΟΙΟΤΗΤΑ ΚΑΙ ΤΗΝ ΑΠΟΔΟΧΗ ΤΟΥ ΠΑΡΟΝΤΟΣ ΛΟΓΙΣΜΙΚΟΥ ΑΝΑΛΑΜΒΑΝΕΤΑΙ ΑΠΟ ΕΣΑΣ, ΣΥΜΠΕΡΙΛΑΜΒΑΝΟΜΕΝΩΝ, ΜΗ ΠΕΡΙΟΡΙΣΤΙΚΑ, ΤΩΝ ΣΧΕΤΙΚΩΝ ΔΑΠΑΝΩΝ ΟΛΩΝ ΤΩΝ ΑΝΑΓΚΑΙΩΝ ΣΥΝΤΗΡΗΣΕΩΝ ΚΑΙ ΕΠΙΔΙΟΡΘΩΣΕΩΝ. ΣΤΗΝ ΕΚΤΑΣΗ ΠΟΥ ΕΠΙΤΡΕΠΕΤΑΙ ΑΠΟ ΤΟΝ ΝΟΜΟ, Η ASUS ΔΕΝ ΠΑΡΕΧΕΙ ΚΑΜΙΑ ΕΓΓΥΗΣΗ, ΡΗΤΗ Ή ΕΝΝΟΟΥΜΕΝΗ, ΣΧΕΤΙΚΑ ΜΕ ΤΟ ΠΑΡΟΝ ΛΟΓΙΣΜΙΚΟ Ή ΟΠΟΙΕΣΔΗΠΟΤΕ ΑΛΛΕΣ ΠΛΗΡΟΦΟΡΙΕΣ Ή ΤΕΚΜΗΡΙΩΣΗ ΠΑΡΕΧΕΤΑΙ ΥΠΟ ΤΗΝ ΠΑΡΟΥΣΑ EULA Ή ΓΙΑ ΤΟ ΠΑΡΟΝ ΛΟΓΙΣΜΙΚΟ, ΣΥΜΠΕΡΙΛΑΜΒΑΝΟΜΕΝΗΣ, ΜΗ ΠΕΡΙΟΡΙΣΤΙΚΑ, ΤΗΣ ΕΓΓΥΗΣΗΣ ΕΜΠΟΡΕΥΣΙΜΟΤΗΤΑΣ Ή ΚΑΤΑΛΛΗΛΟΤΗΤΑΣ ΓΙΑ ΚΑΠΟΙΑ ΣΥΓΚΕΚΡΙΜΕΝΗ ΧΡΗΣΗ Ή ΕΝΑΝΤΙ ΠΑΡΑΒΙΑΣΗΣ ΔΙΚΑΙΩΜΑΤΩΝ, Ή ΟΠΟΙΑΔΗΠΟΤΕ ΕΓΓΥΗΣΗ ΠΡΟΕΡΧΕΤΑΙ ΑΠΟ ΤΗ ΧΡΗΣΗ Ή ΤΟΝ ΤΡΟΠΟ ΑΠΟΔΟΣΗΣ. ΕΠΙΣΗΣ, Η ASUS ΔΕΝ ΠΑΡΕΧΕΙ ΚΑΜΙΑ ΕΓΓΥΗΣΗ ΓΙΑ ΤΑ ΑΠΟΤΕΛΕΣΜΑΤΑ ΠΟΥ ΕΝΔΕΧΕΤΑΙ ΝΑ ΕΠΙΤΕΥΧΘΟΥΝ ΑΠΟ ΤΗ ΧΡΗΣΗ ΤΟΥ ΛΟΓΙΣΜΙΚΟΥ Ή ΟΣΟΝ ΑΦΟΡΑ ΣΤΗΝ ΑΚΡΙΒΕΙΑ Ή ΣΤΗΝ ΑΞΙΟΠΙΣΤΙΑ ΟΠΟΙΑΣΔΗΠΟΤΕ ΠΛΗΡΟΦΟΡΙΑΣ ΛΗΦΘΕΙ ΜΕΣΩ ΤΟΥ ΠΑΡΟΝΤΟΣ ΛΟΓΙΣΜΙΚΟΥ. ΣΕ ΟΡΙΣΜΕΝΕΣ ΔΙΚΑΙΟΔΟΣΙΕΣ ΔΕΝ ΕΠΙΤΡΕΠΕΤΑΙ Η ΕΞΑΙΡΕΣΗ ΟΡΙΣΜΕΝΩΝ ΕΓΓΥΗΣΕΩΝ Ή Ο ΠΕΡΙΟΡΙΣΜΟΣ Ή Η ΕΞΑΙΡΕΣΗ ΤΗΣ ΕΥΘΥΝΗΣ ΓΙΑ ΣΥΓΚΕΚΡΙΜΕΝΕΣ ΖΗΜΙΕΣ. ΣΥΝΕΠΩΣ, ΟΡΙΣΜΕΝΕΣ ΑΠΟ ΤΙΣ ΠΑΡΑΠΑΝΩ ΑΠΟΚΗΡΥΞΕΙΣ ΚΑΙ ΤΟΥΣ ΠΕΡΙΟΡΙΣΜΟΥΣ ΕΥΘΥΝΗΣ ΕΝΔΕΧΕΤΑΙ ΝΑ ΜΗΝ ΙΣΧΥΟΥΝ ΓΙΑ ΕΣΑΣ.
+\nΟΠΟΙΟΣΔΗΠΟΤΕ ΚΙΝΔΥΝΟΣ ΠΡΟΕΡΧΕΤΑΙ ΑΠΟ ΤΗ ΧΡΗΣΗ Ή/ΚΑΙ ΤΗΝ ΑΠΟΔΟΣΗ ΤΟΥ ΠΑΡΟΝΤΟΣ ΛΟΓΙΣΜΙΚΟΥ ΑΝΑΛΑΜΒΑΝΕΤΑΙ ΑΠΟ ΕΣΑΣ. ΣΕ ΚΑΜΙΑ ΠΕΡΙΠΤΩΣΗ Η ASUS, ΟΙ ΧΟΡΗΓΟΙ ΑΔΕΙΩΝ Ή ΟΠΟΙΟΙΔΗΠΟΤΕ ΣΧΕΤΙΖΟΜΕΝΟΙ ΑΞΙΩΜΑΤΟΥΧΟΙ, ΔΙΕΥΘΥΝΤΕΣ, ΥΠΑΛΛΗΛΟΙ, ΑΝΤΙΠΡΟΣΩΠΟΙ Ή ΘΥΓΑΤΡΙΚΕΣ ΕΤΑΙΡΕΙΕΣ ΔΕΝ ΘΑ ΦΕΡΟΥΝ ΕΥΘΥΝΗ ΓΙΑ ΟΠΟΙΕΣΔΗΠΟΤΕ ΠΑΡΕΠΟΜΕΝΕΣ, ΣΥΝΑΦΕΙΣ, ΑΜΕΣΕΣ, ΕΜΜΕΣΕΣ, ΕΙΔΙΚΕΣ, ΠΟΙΝΙΚΕΣ Ή ΑΛΛΕΣ ΖΗΜΙΕΣ (ΣΥΜΠΕΡΙΛΑΜΒΑΝΟΜΕΝΩΝ, ΜΗ ΠΕΡΙΟΡΙΣΤΙΚΑ, ΖΗΜΙΩΝ ΓΙΑ ΑΠΩΛΕΙΑ ΚΕΡΔΩΝ, ΔΙΑΚΟΠΗ ΕΡΓΑΣΙΩΝ, ΑΠΩΛΕΙΑ ΠΛΗΡΟΦΟΡΙΩΝ Ή ΆΛΛΩΝ ΑΠΩΛΕΙΩΝ ΟΙΚΟΝΟΜΙΚΗΣ ΦΥΣΗΣ) ΠΟΥ ΠΡΟΕΡΧΟΝΤΑΙ ΑΠΟ Ή ΣΧΕΤΙΖΟΝΤΑΙ ΜΕ ΤΗΝ ΠΑΡΟΥΣΑ EULA Ή ΤΗ ΧΡΗΣΗ Ή ΤΗΝ ΑΔΥΝΑΜΙΑ ΧΡΗΣΗΣ ΤΟΥ ΛΟΓΙΣΜΙΚΟΥ Ή ΟΠΟΙΟΥΔΗΠΟΤΕ ΜΕΡΟΥΣ ΑΥΤΟΥ, ΑΚΟΜΗ ΚΑΙ ΑΝ Η ASUS ΕΙΧΕ ΕΝΗΜΕΡΩΘΕΙ ΓΙΑ ΤΟ ΕΝΔΕΧΟΜΕΝΟ ΤΕΤΟΙΩΝ ΖΗΜΙΩΝ. ΣΕ ΟΡΙΣΜΕΝΕΣ ΔΙΚΑΙΟΔΟΣΙΕΣ ΔΕΝ ΕΠΙΤΡΕΠΕΤΑΙ Η ΕΞΑΙΡΕΣΗ ΟΡΙΣΜΕΝΩΝ ΕΓΓΥΗΣΕΩΝ Ή Ο ΠΕΡΙΟΡΙΣΜΟΣ Ή Η ΕΞΑΙΡΕΣΗ ΤΗΣ ΕΥΘΥΝΗΣ ΓΙΑ ΣΥΓΚΕΚΡΙΜΕΝΕΣ ΖΗΜΙΕΣ. ΣΥΝΕΠΩΣ, ΟΡΙΣΜΕΝΕΣ ΑΠΟ ΤΙΣ ΠΑΡΑΠΑΝΩ ΑΠΟΚΥΡΗΞΕΙΣ ΚΑΙ ΤΟΥΣ ΠΕΡΙΟΡΙΣΜΟΥΣ ΕΥΘΥΝΗΣ ΕΝΔΕΧΕΤΑΙ ΝΑ ΜΗΝ ΙΣΧΥΟΥΝ ΓΙΑ ΕΣΑΣ.
+\n\n8.Επανόρθωση Συμφωνείτε ότι θα υπερασπιστείτε, θα αποζημιώσετε και θα απαλλάξετε την ASUS και τις θυγατρικές εταιρείες, τους παρόχους υπηρεσιών, τους κοινοπρακτικούς εταίρους, τους διανομείς, τους χορηγούς αδειών, τους αξιωματούχους, τους διευθυντές και τους υπαλλήλους της από οποιεσδήποτε και όλες τις ζημίες, τις ευθύνες και τα έξοδα που προέρχονται από οποιαδήποτε αξίωση ή απαίτηση (συμπεριλαμβανομένων εύλογων εξόδων νομικής υποστήριξης και δαπανών δικαστηρίων), λόγω παραβίασης (ή σε σχέση με παραβίαση) της παρούσας EULA ή οποιουδήποτε ισχύοντος νόμου ή κανονισμού από ΕΣΑΣ ή τρίτο μέρος.
+    </string>
+    <string name="eula_content_title">"Άδεια Χρήσης Τελικού Χρήστη"</string>
+    <string description="Do not translate ASUS" maxwidth="" name="eula_description">"Μία νόμιμη σύμβαση μεταξύ των εφαρμογών της ASUS και τους τελικούς χρήστες"</string>
+    <string maxwidth="" name="eula_title">"Άδεια Χρήσης Τελικού Χρήστη"</string>
+    <string name="example">"Παράδειγμα:"</string>
+    <string description="Dialog Button: extract file for dialog" maxwidth="-1" name="extract">Εξαγωγή</string>
+    <string name="facebook_app_invite">"Επαφές Facebook"</string>
+    <string name="fb_request_error_permissions">"Αυτή η εφαρμογή δεν διαθέτει άδεια να το κάνει αυτό. Προσπαθήστε να συνδεθείτε στην εφαρμογή ξανά."</string>
+    <string name="fileList_Nofiles">Δεν υπάρχουν αρχεία</string>
+    <string description="Dialog Title: File information dialog title" maxwidth="-1" name="file_info_dialog_title">Πληροφορίες αρχείου</string>
+    <string description="Application Name shown on title" maxwidth="" name="file_manager">Διαχ. Αρχείων</string>
+    <string description="string indicating camera flash is not used" maxwidth="-1" name="flash_off">Όχι φλας</string>
+    <string description="string indicating camera flash is fired" maxwidth="-1" name="flash_on">Το φλας άναψε</string>
+    <string description="click to retrieve password" maxwidth="-1" name="forget_password">"<u>Ξεχάσατε τον κωδικό πρόσβασης;</u>"</string>
+    <string name="fragment_analyzer_allfiles_used_hint">"Σε χρήση:"</string>
+    <string name="fragment_analyzer_chart_free_hint">"Ελεύθερα:"</string>
+    <string name="fragment_analyzer_chart_total_hint">"Σύνολο:"</string>
+    <string name="fragment_analyzer_chart_used_hint">"ΣΕ ΧΡΗΣΗ"</string>
+    <string name="fragment_analyzer_more_hint">"περισσότερα"</string>
+    <string name="google_app_invite">"Επαφές Google"</string>
+    <string name="group_title_installed">"Εγκατεστημένες"</string>
+    <string name="group_title_not_installed">"Μη εγκατεστημένες"</string>
+    <string name="group_title_others">"Άλλες"</string>
+    <string name="group_title_recommended">"Συνιστώμενες"</string>
+    <string name="hidden_zone_change_password">"Αλλαγή κωδικού πρόσβασης"</string>
+    <string name="hidden_zone_confirm_password">"Επιβεβαίωση κωδικού PIN"</string>
+    <string name="hidden_zone_enter_password">"Εισάγετε τον προσωπικό σας κωδικό PIN"</string>
+    <string name="hidden_zone_fingerprint_to_unlock">"Δακτυλικό αποτύπωμα για ξεκλείδωμα"</string>
+    <string name="hidden_zone_forget_password">"Ξέχασα τον κωδικό πρόσβασης"</string>
+    <string name="hidden_zone_introduction_description">"Κρύψτε τα ιδιωτικά αρχεία σας στην Κρυφή βιβλιοθήκη. Για το άνοιγμα της Κρυφής βιβλιοθήκης απαιτείται κωδικός PIN."</string>
+    <string name="hidden_zone_password_mismatch">"Ο κωδικός PIN δεν ταιριάζει"</string>
+    <string name="hidden_zone_set_password_success">"Επιτυχής καθορισμός του κωδικού πρόσβασης"</string>
+    <string name="hidden_zone_setup_account">"Διαμόρφωση λογαριασμού"</string>
+    <string name="hidden_zone_setup_password">"Εισάγετε έναν 4ψήφιο κωδικό PIN"</string>
+    <string name="hidden_zone_wrong_password">"Λανθασμένος κωδικός PIN"</string>
+    <string description="Can’t connect to HomeCloud." maxwidth="-1" name="homecloud_access_error">Αποτυχία σύνδεσης στο HomeCloud. Βεβαιωθείτε ότι η υπηρεσία HomeCloud είναι online.</string>
+    <string name="homecloud_notice_1">Το Asus HomeCloud είναι ένα λογισμικό διακομιστή που λειτουργεί στο σύστημα των Windows. Έχει σχεδιαστεί ως βιβλιοθήκη ψηφιακών περιεχομένων για οικιακή χρήση και παρέχει υπηρεσίες αποθήκευσης Cloud και υπηρεσίες ροής πολυμέσων προς το παρόν, ενώ θα μπορούσε να επεκταθεί σε περισσότερες υπηρεσίες στο μέλλον.</string>
+    <string name="homecloud_notice_2">Μπορείτε να προβείτε σε λήψη και να απολαύσετε την εμπειρία του τώρα. </string>
+    <string name="homecloud_notice_3">http://home.asuscloud.com/</string>
+    <string name="homecloud_toast_udp_unsupported">Περιορισμένο δίκτυο; Επικοινωνήστε με το διαχειριστή του δικτύου ή μεταβείτε σε άλλο δίκτυο.</string>
+    <string msgid="2546819039651509323" name="hour">"1 ώρα"</string>
+    <string msgid="2071487018566991613" name="hours">"<ns1:g id="HOURS">%s</ns1:g> ώρες"</string>
+    <string maxwidth="" name="httpserver_acquire_permission_message">"Ο διακομιστής αρχείων HTTP θα κλείσει και οι λειτουργίες μπορεί να διακοπούν. Θέλετε να συνεχίσετε;"</string>
+    <string maxwidth="" name="httpserver_connectwifiname">"Συνδεδεμένο σημείο πρόσβασης (AP) Wi-Fi"</string>
+    <string maxwidth="" name="httpserver_description">"Εκκινήστε την υπηρεσία για να συνδέσετε την κινητή συσκευή σας στον Η/Υ."</string>
+    <string maxwidth="" name="httpserver_instruction">"Πληκτρολογήστε αυτή τη διεύθυνση στο πρόγραμμα περιήγησης στον Η/Υ σας:"</string>
+    <string maxwidth="" name="httpserver_need_saf">"Εάν θέλετε να διαχειριστείτε την εξωτερική αποθήκευση από τον Η/Υ σας, πρέπει να παραχωρήσετε άδεια."</string>
+    <string maxwidth="" name="httpserver_no_network">"Συνδέστε τη συσκευή σας στο ίδιο δίκτυο Wi-Fi"</string>
+    <string maxwidth="" name="httpserver_no_permission_message">"Δεν θα είστε σε θέση να κάνετε εγγραφή σε εξωτερική αποθήκευση χωρίς κατάλληλη άδεια. Θέλετε να συνεχίσετε;"</string>
+    <string maxwidth="" name="httpserver_no_permission_title">"Ξεκινήστε την ασύρματη μεταφορά αρχείων"</string>
+    <string maxwidth="" name="httpserver_start">"Έναρξη"</string>
+    <string maxwidth="" name="httpserver_stop">"Διακοπή"</string>
+    <string maxwidth="" name="httpserver_title">"Ασύρματη μεταφορά αρχείων προς Η/Υ"</string>
+    <string description="Context Menu: options of context menu" maxwidth="-1" name="info">Πληροφορίες</string>
+    <string description="file info textview context" maxwidth="-1" name="info_aperture">"Διάφραγμα: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_datetime">"Ημερομηνία λήψης: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_exposure_time">"Χρόνος έκθεσης: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_file_num">"Αριθμός αρχείων: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_flash">"Φλας: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_focal_length">"Μήκος εστίασης: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_image_height">"Ύψος: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_image_width">"Πλάτος"</string>
+    <string description="file info textview context" maxwidth="-1" name="info_image_x">" x "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_iso">"ISO: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_location">"Τοποθεσία: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_maker">"Δημιουργός: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_model">"Μοντέλο: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_modified">"Ημερομηνία τροποποίησης: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_name">"Όνομα: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_orientation">"Προσανατολισμός: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_path">"Διαδρομή: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_permission">"Άδεια: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_type">Τύπος:</string>
+    <string description="file info textview context" maxwidth="-1" name="info_white_balance">"Ισορρ. λευκού: "</string>
+    <string description="Do not translate ASUS" maxwidth="" name="inspire_asus_description">"Συλλογή των δεδομένων χρήσης στην ASUS για βελτίωση των προϊόντων και της εμπειρίας χρήστη"</string>
+    <string name="inspire_asus_title">"Γίνετε πηγή έμπνευσης για την ASUS"</string>
+    <string name="install">"Εγκατάσταση"</string>
+    <string description="storage label" maxwidth="-1" name="internal_storage_title">Εσωτερικός χώρος αποθήκευσης</string>
+    <string description="Toast: the account is invalid" maxwidth="-1" name="invalid_account">"Μη έγκυρος λογαριασμός"</string>
+    <string description="Invalid directory path" maxwidth="-1" name="invalid_directory_path">Η διαδρομή καταλόγου δεν είναι έγκυρη</string>
+    <string name="invalid_server_id">"Μη έγκυρο αναγνωριστικό διακομιστή"</string>
+    <string name="invalid_xml">"Μη έγκυρο xml"</string>
+    <string name="inviteContentTitle">Ο %1$sσας προσκαλεί να κάνετε λήψη και εγκατάσταση του Διαχείριση αρχείων ASUS.</string>
+    <string name="inviteContent_p1">Το Διαχείριση αρχείων ASUS είναι ο ιδανικός τρόπος να διαχειρίζεστε αρχεία με την έξυπνη συσκευή σας. Αυτή η εφαρμογή διαχείρισης αρχείων σας βοηθά να διαχειρίζεστε και να ταξινομείτε διάφορα αρχεία που είναι αποθηκευμένα στη μνήμη του τηλεφώνου σας, σε κάρτα microSD, σε τοπικό δίκτυο, ακόμα και στο Cloud.</string>
+    <string name="inviteContent_p2">Κάντε αποτελεσματική και εύκολη διαχείριση των αρχείων σας με το Διαχείριση αρχείων ASUS! Το Διαχείριση αρχείων ASUS σάς βοηθά στη μεταχείριση όλων των αρχείων σας είτε είναι αποθηκευμένα στη μνήμη της συσκευής σας, σε κάρτα microSD, σε τοπικό δίκτυο, ακόμα και σε λογαριασμούς αποθήκευσης Cloud, όπως τα δικά μας ASUS HomeCloud και Webstorage και άλλες υπηρεσίες Cloud, όπως Dropbox, Google Drive ή Microsoft OneDrive.</string>
+    <string name="inviteContent_p3">Διασκεδάζω με το Διαχείριση αρχείων ASUS. Δοκιμάστε το ΤΩΡΑ! :D</string>
+    <string description="sticker detail page button name" maxwidth="-1" name="invite_friends">"Πρόσκληση φίλων"</string>
+    <string name="item">στοιχείο</string>
+    <string name="items">στοιχεία</string>
+    <string name="keep">"Διατήρηση"</string>
+    <string name="kk_sd_permission_warning">Λόγω περιορισμού του Android, το Android 4.4 δεν επιτρέπει σε εφαρμογές τρίτων να τροποποιούν τις εξωτερικές κάρτες SD.</string>
+    <string name="large_files_content_hint">"Εύρεση μεγάλων αρχείων και διαγραφή τους με την άδειά σας."</string>
+    <string description="linked file is missing" maxwidth="-1" name="linked_file_missing">"Το συνδεδεμένο αρχείο λείπει"</string>
+    <string description="text for progress bar" maxwidth="-1" name="loading">"Φόρτωση…"</string>
+    <string name="local">Τοπικό</string>
+    <string description="button text for sort file by date" maxwidth="-1" name="location">"Θέση"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="logging_cloud_storage">Καταγραφή...</string>
+    <string name="login_account_miss">"Η εφαρμογή Facebook απέτυχε να δηλωθεί στη Διαχείριση Λογαριασμού Android. Δοκιμάστε να αποσυνδεθείτε μέσω της εφαρμογής Facebook και στη συνέχεια να συνδεθείτε ξανά."</string>
+    <string name="login_again_later">"Ο διακομιστής δεν είναι αυτή τη στιγμή διαθέσιμος. Προσπαθήστε ξανά αργότερα."</string>
+    <string description="dialog title, key in the asus ID and PW to Login account" maxwidth="-1" name="login_asus_id">"Είσοδος στο λογαριασμό ASUS"</string>
+    <string description="Toast: login account fail" name="login_fail" width="-1">Η σύνδεση απέτυχε</string>
+    <string description="login account name" maxwidth="-1" name="login_id">"Όνομα λογαριασμού/Αναγνωριστικό WebStorage"</string>
+    <string description="logout account" name="logout_account" width="-1">Αποσύνδεση</string>
+    <string name="low_storage_tutorial_description">"Πατήστε παρατεταμένα για να επιλέξετε τα αρχεία σας και στη συνέχεια επιλέξτε \"Μετακίνηση σε\" Google Drive"</string>
+    <string name="low_storage_tutorial_title">Μετακινήστε αρχεία στο Google Drive</string>
+    <string name="m_permission_dialog_message">"Πατήστε [Ρυθμίσεις] για να ενεργοποιήσετε την άδεια [%2$s] στις [Πληροφορίες εφαρμογής] > [Άδειες] και κατόπιν επανεκκινήστε την εφαρμογή %1$s."</string>
+    <string name="m_permission_dialog_positive_button">"Ρυθμίσεις"</string>
+    <string name="m_permission_setting_subtitle_files">"Η εφαρμογή %1$s θα χρειαστεί την άδεια %2$s για την προσπέλαση των αρχείων σας στη συσκευή."</string>
+    <string name="m_permission_setting_title_cloud_storage">"Αδυναμία προσπέλασης χώρου αποθήκευσης στο cloud"</string>
+    <string name="m_permission_setting_title_files">"Αδυναμία προσπέλασης αρχείων"</string>
+    <string name="m_permission_setting_turn_on">"Ενεργοποίηση"</string>
+    <string description="string indicating how camera shooting feature is used" maxwidth="-1" name="manual">Μη αυτόματο</string>
+    <string name="market_app_error">"Υπάρχει σφάλμα με την εφαρμογή APP που έχει εγκατασταθεί στη συσκευή σας!"</string>
+    <string description="ask user to enter email address as account name" maxwidth="-1" name="member_id_hint">"Εισάγετε διεύθυνση email"</string>
+    <string description="The title of a menu for General Preferences.Pressing the menu item lets user to view and edit his general settings" maxwidth="30" name="menu_general_preferences">"Γενικές ρυθμίσεις"</string>
+    <string description="settings menu tutorial" maxwidth="-1" name="menu_tutorial">Εκμάθηση</string>
+    <string name="messenger_send_button_text">Αποστολή</string>
+    <string msgid="2486157997434653710" name="minute">"1 λεπτό"</string>
+    <string msgid="6115838729146292526" name="minutes">"<ns1:g id="MINUTES">%s</ns1:g> λεπτά"</string>
+    <string description="Hint: move the items" maxwidth="-1" name="move">Μετακίνηση</string>
+    <string name="move_or_delete_msg">"Να γίνει τώρα προσωρινή διαγραφή των στοιχείων στον κάδο ανακύκλωσης;\n(Επιλέξτε το παρακάτω πλαίσιο για μόνιμη διαγραφή των στοιχείων.)"</string>
+    <string name="move_to">Μετακίνηση σε</string>
+    <string description="Toast: move to recycle bin fails" maxwidth="-1" name="move_to_hidden_zone_fail">"Αποτυχία μεταφοράς στην Κρυφή βιβλιοθήκη"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="move_to_hidden_zone_progress">"Γίνεται μεταφορά στην Κρυφή βιβλιοθήκη..."</string>
+    <string description="Toast: move to recycle bin success" maxwidth="-1" name="move_to_hidden_zone_success_more">"Τα επιλεγμένα αρχεία μεταφέρθηκαν στην Κρυφή βιβλιοθήκη."</string>
+    <string description="Toast: move to recycle bin success. %s is variable string." maxwidth="-1" name="move_to_hidden_zone_success_one">"Το \"%s\" μεταφέρθηκε στην Κρυφή Βιβλιοθήκη."</string>
+    <string description="Toast: move to recycle bin fails" maxwidth="-1" name="move_to_trash_fail">"Αποτυχία μεταφοράς στον Κάδο ανακύκλωσης"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="move_to_trash_progress">"Μεταφορά στον Κάδο ανακύκλωσης..."</string>
+    <string description="Toast: move to recycle bin success" maxwidth="-1" name="move_to_trash_success_more">"Τα επιλεγμένα αρχεία μεταφέρθηκαν στον Κάδο ανακύκλωσης"</string>
+    <string description="Toast: move to recycle bin success. %s is variable string." maxwidth="-1" name="move_to_trash_success_one">"Το \"%s\" μεταφέρθηκε στον Κάδο ανακύκλωσης"</string>
+    <string name="msg_too_big_to_recycle">"Τα στοιχεία είναι πολύ μεγάλα για ανακύκλωση.\nΘέλετε να τα διαγράψετε μόνιμα;"</string>
+    <string name="multi_drm_file_forbidden_operation">Η ενέργεια αυτή δεν επιτρέπεται, καθότι κάποια από τα επιλεγμένα αρχεία έχουν προστασία DRM.</string>
+    <string description="shortcut label" maxwidth="-1" name="my_camera_title">Κάμερα</string>
+    <string description="shortcut label" maxwidth="-1" name="my_download_title">Λήψη</string>
+    <string description="shortcut label" maxwidth="-1" name="my_music_title">Μουσική</string>
+    <string description="shortcut label" maxwidth="-1" name="my_picture_title">Εικόνα</string>
+    <string description="storage label" maxwidth="-1" name="my_storage_title">Ο χώρος αποθήκευσής μου</string>
+    <string description="button text for sort file by name" maxwidth="-1" name="name">Όνομα</string>
+    <string description="button text for sort file by name ascending" maxwidth="-1" name="name_ascending">Όνομα (ω-α)</string>
+    <string description="button text for sort file by name descending" maxwidth="-1" name="name_descending">Όνομα (α-ω)</string>
+    <string name="network_cta_hint">"Κάντε αποδοχή για να συνδεθείτε στο δίκτυο "</string>
+    <string name="network_invalid">"Μη έγκυρη σύνδεση στο δίκτυο"</string>
+    <string name="network_invalid_info">"Η σύνδεση δεν είναι έγκυρη. Ελέγξτε τη σύνδεσή σας ξανά."</string>
+    <string name="network_not_available">"Η σύνδεση δικτύου απέτυχε."</string>
+    <string description="Can’t connect to networkpalce" maxwidth="-1" name="networkplace_access_error">"Η σύνδεση απέτυχε. Βεβαιωθείτε ότι ο διακομιστής είναι σε σύνδεση."</string>
+    <string name="networkplace_storage_title">"Τόπος δικτύου"</string>
+    <string description="Dialog Title: create new folder" maxwidth="" name="new_folder_dialog">Δημιουργία Νέου Φακέλου</string>
+    <string description="Toast: new folder fails" maxwidth="-1" name="new_folder_fail">Απέτυχε η δημιουργία νέου φακέλου.</string>
+    <string description="Toast: new folder success. %s is variable string." maxwidth="-1" name="new_folder_success">"Ο φάκελος \"%s\" δημιουργήθηκε."</string>
+    <string maxwidth="" name="news_1">"<b>Αρχική οθόνη με δυνατότητα προσαρμογής</b>: Τώρα μπορείτε να προσαρμόζετε την αρχική σας οθόνη με διαφορετικές κατηγορίες και εντολές."</string>
+    <string maxwidth="" name="news_2">"<b>Επιλογέας αγαπημένων</b>: Προσθέστε τον αγαπημένο σας φάκελο απευθείας από την κατηγορία αγαπημένων."</string>
+    <string maxwidth="" name="news_3"><b>Γραφικό στοιχείο διαχείρισης αρχείων</b>: Δημιουργήστε μια συντόμευση του φακέλου στο Launcher.</string>
+    <string maxwidth="" name="news_mark1">"★  "</string>
+    <string maxwidth="" name="news_subtitle">"Αυτή είναι η σημαντική ενημέρωση που δεν θα έπρεπε να χάσετε."</string>
+    <string maxwidth="" name="news_title">"Τι νέο υπάρχει"</string>
+    <string maxwidth="" name="news_v21"><b>Ασύρματη μεταφορά αρχείων προς/από Η/Υ</b>: Μεταφέρετε/διαχειριστείτε αρχεία προς/από Η/Υ</string>
+    <string maxwidth="" name="news_v23">"Βελτίωση απόδοσης και επιδιορθώσεις σφαλμάτων"</string>
+    <string maxwidth="" name="news_v31">"Ο Αναλυτής χώρου αποθήκευσης σας ενημερώνει για τους τύπους των αρχείων που κατανάλωσαν όλο τον χώρο αποθήκευσης"</string>
+    <string maxwidth="" name="news_v32">"Πρόσφατα βελτιωμένη κατηγορία εφαρμογών"</string>
+    <string name="news_v41">"Απόκρυψη των προσωπικών αρχείων σας στην Κρυφή βιβλιοθήκη"</string>
+    <string name="news_v42">"Ανάκτηση διαγραμμένων αρχείων από τον Κάδο ανακύκλωσης"</string>
+    <string name="news_v43">"Αφαίρεση διπλότυπων αρχείων από Αναλυτή χώρου αποθήκευσης"</string>
+    <string name="news_v44">"Νέα λειτουργίας οθόνης - Σκούρα κατάσταση"</string>
+    <string name="news_v45">"Βελτιωμένες επιδόσεις"</string>
+    <string name="news_v46">"Διόρθωση σφαλμάτων"</string>
+    <string name="newversion_description">"Μια ενημερωμένη έκδοση του στοιχείου Διαχείριση αρχείων είναι τώρα διαθέσιμη. Θέλετε να γίνει ενημέρωση τώρα;"</string>
+    <string name="newversion_title">"Νέα έκδοση"</string>
+    <string name="next">Επόμενο</string>
+    <string description="Dialog Button: no for dialog" maxwidth="" name="no">Όχι</string>
+    <string name="no_device">"Καμί συσκευή"</string>
+    <string name="no_items">"Κανένα στοιχείο"</string>
+    <string name="no_network">"Δεν υπάρχει σύνδεση στο δίκτυο"</string>
+    <string description="The description to inform users when there is no internet access" maxwidth="-1" name="no_network_connection_message">"Ελέγξτε τη σύνδεσή σας και δοκιμάστε ξανά"</string>
+    <string name="no_network_info">"Απαιτείται σύνδεση στο διαδίκτυο για πρόσβαση στην εφαρμογή. Ενεργοποιήστε το δίκτυο κινητής τηλεφωνίας ή το WiFi στις Ρυθμίσεις."</string>
+    <string name="no_password">"Εισάγετε τον κωδικό πρόσβασής σας"</string>
+    <string name="no_right">"Ο λογαριασμός δεν έχει δικαίωμα σύνδεσης."</string>
+    <string name="no_share_folder">Δεν υπάρχουν κοινά αρχεία σε αυτή τη συσκευή</string>
+    <string description="Toast: No space to copy file and left on device" maxwidth="-1" name="no_space_fail">Ανεπαρκής αποθήκευση</string>
+    <string name="no_user_exist">"Το όνομα χρήστη δεν υπάρχει"</string>
+    <string name="no_username">"Εισάγετε πρώτα το όνομα χρήστη σας."</string>
+    <string name="notification_gdrive_redeem_content">"Αποκτήστε το ΤΩΡΑ από το Google Drive. "</string>
+    <string name="notification_gdrive_redeem_title">"Ελεύθερος χώρος αποθήκευσης 100GB!"</string>
+    <string name="occur_error_do_relogin">"Συνδεθείτε ξανά στο %s"</string>
+    <string description="Dialog Button: ok for dialog" maxwidth="" name="ok">OK</string>
+    <string name="onedrive_account_only_one_alert">"Επιτρέπεται να προστεθεί μόνο το OneDrive για το λογαριασμό ASUS. Πρέπει να διαγράψετε τον τρέχοντα λογαριασμό σας πριν τον αντικαταστήσετε με έναν καινούργιο."</string>
+    <string name="open">Άνοιγμα</string>
+    <string description="Toast: open file fails" maxwidth="-1" name="open_fail">Απέτυχε το άνοιγμα του αρχείου.</string>
+    <string maxwidth="" name="open_source_license_description">"Γνωστοποιήσεις άδειας χρήσης για λογισμικό ανοικτού κώδικα"</string>
+    <string maxwidth="" name="open_source_license_title">"Άδειες ανοιχτού κώδικα"</string>
+    <string name="othersforum_site_url">http://www.asus.com/Terms_of_Use_Notice_Privacy_Policy/OthersForum_Site/</string>
+    <string name="password">Κωδικός πρόσβασης</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="paste">Επικόλληση</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="paste_exist_apply">Εφαρμογή σε όλα</string>
+    <string description="Dialog Title: paste exist dialog title" maxwidth="" name="paste_exist_dialog">Ίδιο όνομα αρχείου</string>
+    <string description="Dialog Content: text in dialog. %s is variable string." maxwidth="" name="paste_exist_file">"Το αρχείο \"%s\" υπάρχει ήδη."</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="paste_exist_replace">Θέλετε να αντικατασταθεί με το νέο;</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="paste_exist_to">Προς</string>
+    <string description="Toast: paste fails" maxwidth="-1" name="paste_fail">Η επικόλληση αρχείων απέτυχε.</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="paste_progress">Γίνεται επικόλληση…</string>
+    <string name="paste_progress_title">Εκτελείται άλλη εργασία αντιγραφής...</string>
+    <string description="Toast: paste success. %s is variable string." maxwidth="-1" name="paste_success">"Τα αρχεία έχουν προστεθεί στο \"%s\"."</string>
+    <string name="permanently_delete">"Μόνιμη διαγραφή"</string>
+    <string description="Toast: operation permission deny" maxwidth="-1" name="permission_deny">Άρνηση άδειας.</string>
+    <string name="permission_dialog_title">"Άδεια εφαρμογής"</string>
+    <string name="permission_essential">"Απαιτούνται άδειες. Πηγαίνετε στο στοιχείο "Ρυθμίσεις" για να ενεργοποιήσετε άδειες!"</string>
+    <string name="permission_reason_contact">"Η εφαρμογή Διαχείριση αρχείων χρειάζεται πρόσβαση στις πληροφορίες του λογαριασμού σας για να συνδεθείτε στην αποθήκευση cloud."</string>
+    <string name="permission_reason_storage">"Η εφαρμογή Διαχείριση αρχείων χρειάζεται πρόσβαση στην αποθήκευση της συσκευής σας προκειμένου να λειτουργήσει κανονικά"</string>
+    <string description="Toast: You may not select more than %s photos." maxwidth="-1" name="photo_selection_limit_number_toast">Επιλέξτε μέχρι %s φωτογραφίες</string>
+    <string description="This is the title of the screen for setting user preferences." maxwidth="-1" name="preferences_title">"Ρυθμίσεις"</string>
+    <string name="previous_folder">"Προηγούμενος φάκελος"</string>
+    <string maxwidth="" name="privacy_policy">"Πολιτική απορρήτου"</string>
+    <string name="privacy_policy_url">http://www.asus.com/us/Terms_of_Use_Notice_Privacy_Policy/Privacy_Policy/</string>
+    <string name="processing_picture">"Επεξεργασία εικόνας"</string>
+    <string name="processing_video">"Επεξεργασία βίντεο"</string>
+    <string name="progressactivity_title">Transmission Manager</string>
+    <string name="promote_darkmode_message">"Αλλάξτε την προτίμησή σας επιλέγοντας %s"</string>
+    <string name="promote_darkmode_title">"Νέα λειτουργίας οθόνης - Σκούρα κατάσταση"</string>
+    <string name="promotion_notification_content">"Πρέπει να δοκιμάσετε την \"Ασύρματη μεταφορά αρχείων\"!"</string>
+    <string name="promotion_notification_title">"Χρησιμοποιείτε ακόμα καλώδιο USB για να μεταφέρετε αρχεία;"</string>
+    <string name="publish">"Δημοσίευση"</string>
+    <string name="pullfreshlistview_footer_hint_normal">Φόρτωση περισσότερων</string>
+    <string name="pullfreshlistview_footer_hint_ready">Αποδέσμευση για φόρτωση περισσότερων</string>
+    <string name="pullfreshlistview_header_hint_loading">Ανανέωση...</string>
+    <string name="pullfreshlistview_header_hint_normal">Μεταφορά προς τα κάτω</string>
+    <string name="pullfreshlistview_header_hint_ready">Αποδέσμευση για ανανέωση</string>
+    <string name="pullfreshlistview_header_last_time">Χρόνος τελευταίας ανανέωσης:</string>
+    <string name="rate_later">"Αργότερα"</string>
+    <string name="rate_now">"Αξιολογήστε τώρα"</string>
+    <string description="rate us" maxwidth="-1" name="rate_us">Αξιολογήστε μας</string>
+    <string name="rating_dialog_message_v3_1">"Σας αρέσει να χρησιμοποιείτε το %s? Δώστε μας μια ξιολόγηση στο Google Play για να συνεχίσετε να μας δίνετε έμπνευση!"</string>
+    <string name="rating_dialog_message_v3_2">"Για προτάσεις και σχόλια, επικοινωνήστε γραπτά μαζί μας μέσω %s."</string>
+    <string name="recent_files_content_hint">"Εύρεση πρόσφατων αρχείων και διαγραφή τους με την άδειά σας."</string>
+    <string description="shortcut title: recently used files" name="recently_used" width="-1">Πρόσφατα</string>
+    <string name="recommend_clean_master_msg">"Η πιο αξιόπιστη εφαρμογή Βελτιστοποίηση Android, Ενισχυτής ταχύτητας , Battery Εξοικονόμηση ενέργειας και Δωρεάν πρόγραμμα προστασίας από ιούς του κόσμου. \nΝα γίνει λήψη τώρα;"</string>
+    <string name="recommend_clean_master_title">"Σύσταση εφαρμογής"</string>
+    <string name="recommend_scan_qr_code">"Πείτε στους φίλους σας να κάνουν λήψη\nτης εφαρμογής αυτής κάνοντας σάρωση του κωδικού QR."</string>
+    <string description="recruit beta user" maxwidth="-1" name="recruit_beta_user">Λάβετε μια έκδοση προεπισκόπησης</string>
+    <string name="recycle_bin_content_hint">"Περιέχει όλα τα διαγραμμένα αρχεία και τους φακέλους."</string>
+    <string description="dialog title, key in the asus ID and PW to Login account" maxwidth="-1" name="regist_asus_id">"Δημιουργία λογαριασμού ASUS"</string>
+    <string description="ask user to enter email address to registe New Account" name="registe_id">Όνομα λογαριασμού</string>
+    <string description="ask user to enter new password" name="registe_password">Εισαγωγή 8~25 χαρακτήρων</string>
+    <string description="sign up registe action" name="registe_sign_up">Εγγραφή</string>
+    <string description="network is unavailable, please try again" maxwidth="-1" name="remote_connected_error_hint">Το δίκτυο δεν είναι διαθέσιμο, ξαναπροσπαθήστε</string>
+    <string description="remote storage label" maxwidth="-1" name="remote_storage_title">Απομακρυσμένη αποθήκευση</string>
+    <string name="remove_favorite">Κατάργηση από τα Αγαπημένα</string>
+    <string name="remove_favorite_notice_more">Είστε βέβαιοι ότι θέλετε να καταργήσετε τα στοιχεία %d από τον φάκελο αγαπημένων;</string>
+    <string name="remove_favorite_notice_one">"Είστε βέβαιοι ότι θέλετε να καταργήσετε τα \"%s\" από τον φάκελο αγαπημένων;"</string>
+    <string name="remove_favorite_success">Επιτυχής κατάργηση</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="rename">Μετονομασία</string>
+    <string description="Dialog Title: rename dialog title" maxwidth="" name="rename_dialog">Μετονομασία</string>
+    <string description="Toast: rename fails" maxwidth="-1" name="rename_fail">Απέτυχε η μετονομασία αρχείου.</string>
+    <string name="rename_favorite_folder">Μετονομασία φακέλου αγαπημένων</string>
+    <string name="rename_favorite_notice">Υπάρχει ήδη φάκελος με το ίδιο όνομα στο φάκελο αγαπημένων, θέλετε να τον μετονομάσετε;</string>
+    <string name="rename_favorite_success">Επιτυχής μετονομασία και αποθήκευση στα Αγαπημένα</string>
+    <string description="Toast: rename success" maxwidth="-1" name="rename_success">Η μετονομασία του αρχείου ήταν επιτυχής.</string>
+    <string description="renaming file" name="renaming_file" width="-1">Μετονομασία</string>
+    <string name="replace">"Αντικατάσταση"</string>
+    <string description="Toast: restore fails" maxwidth="-1" name="restore_fail">"Αποτυχία επαναφοράς"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="restore_progress">"Επαναφορά..."</string>
+    <string description="Toast: restore success" maxwidth="-1" name="restore_success_more">"Έγινε επαναφορά των επιλεγμένων αρχείων"</string>
+    <string description="Toast: restore success. %s is variable string." maxwidth="-1" name="restore_success_one">"Έγινε επαναφορά του \"%s\""</string>
+    <string name="retention_notification_large_file">"Προσθέσατε %1$s μεγάλα αρχεία. Προβάλλετέ τα τώρα."</string>
+    <string name="retention_notification_recent_file">"Τα πρόσφατα αρχεία σας καταναλώνουν %1$s χώρο. Προβάλλετέ τα τώρα."</string>
+    <string name="saf_permission_tutorial_content">Η Διαχείριση αρχείων ASUS απαιτεί πρόσβαση για τη λειτουργία της κάρτας SD σας. Θέλετε να παραχωρήσετε άδεια;</string>
+    <string name="saf_permission_tutorial_content_v2">"Πρέπει να εκτελέσετε τα συγκεκριμένα βήματα ώστε να παραχωρήσετε δικαιώματα πρόσβασης σε %s."</string>
+    <string name="saf_permission_tutorial_dialog">"Πρέπει να εκτελεστεί μια διαδικασία για να παρασχεθούν δικαιώματα πρόσβασης στην κάρτα SD. Θέλετε να συνεχίσετε;"</string>
+    <string name="saf_permission_tutorial_title">Αίτημα για άδεια για τη λειτουργία της κάρτας SD.</string>
+    <string name="saf_tutorial_step_one">Πατήστε το εικονίδιο Μενού, στη συνέχεια πατήστε "Εμφάνιση κάρτας SD".</string>
+    <string name="saf_tutorial_step_three">Πατήστε "Επιλογή κάρτας SD" για να παραχωρήσετε άδεια στη Διαχείριση αρχείων ASUS.</string>
+    <string name="saf_tutorial_step_three_v2">"Πατήστε Επιλογή %s για να παραχωρήσετε πρόσβαση στη Διαχείριση Αρχείων ASUS."</string>
+    <string name="saf_tutorial_step_two">Κάντε σάρωση στην αριστερή άκρη της οθόνης για να εμφανίστεί ο σχεδιαστής, κατόπιν πατήστε "Κάρτα SD".</string>
+    <string name="saf_tutorial_step_two_v2">"Σύρετε από την αριστερή πλευρά της οθόνης για να εμφανίσετε το συρτάρι και πατήστε %s."</string>
+    <string name="saf_tutorial_title">Άδεια για λειτουργία της κάρτας SD</string>
+    <string name="saf_tutorial_title_v2">"Άδεια χειρισμού για %s"</string>
+    <string description="account config dialog remind message" maxwidth="-1" name="samba_client_config_check">Απομνημόνευση ονόματος χρήστη και κωδικού πρόσβασης για απευθείας σύνδεση την επόμενη φορά</string>
+    <string name="samba_input_error">Το όνομα χρήστη ή ο κωδικός πρόσβασης δεν μπορεί να κενά!</string>
+    <string name="samba_login_error">Το όνομα χρήστη ή ο κωδικός πρόσβασης που εισαγάγατε είναι λανθασμένα.</string>
+    <string name="samba_storage_add_title">"Θέση δικτύου"</string>
+    <string name="samba_storage_title">"SAMBA"</string>
+    <string name="scan_qr_code">"Σάρωση κώδικα QR"</string>
+    <string description="rate now" maxwidth="" name="scroll_up_toast">Κάντε κύλιση προς τα πάνω για να αξιολογήσετε</string>
+    <string maxwidth="-1" name="sd_label">OneDrive για ASUS</string>
+    <string name="search_action">"Αναζήτηση"</string>
+    <string description="search hint message" maxwidth="-1" name="search_hint">Εισάγετε όνομα αρχείου</string>
+    <string description="cutstom action bar view title for search" maxwidth="-1" name="search_label">Αναζήτηση αρχείων</string>
+    <string description="search dialog message" maxwidth="-1" name="search_progress">Γίνεται αναζήτηση...</string>
+    <string description=" text for search result" formatted="false" maxwidth="-1" name="search_result_title">"Γίνεται αναζήτηση %s στο %s: "</string>
+    <string name="select_album">Επιλογή λευκώματος</string>
+    <string description="Menu Option: select all checkbox" maxwidth="" name="select_all">Επιλογή όλων</string>
+    <string description="Title: select the folder" maxwidth="-1" name="select_folder">Επιλέξτε το φάκελο</string>
+    <string name="select_folder_by_ok_button">"Πατήστε %1$s για να επιλέξετε αυτό τον φάκελο"</string>
+    <string name="select_photo">Επιλογή φωτογραφίας</string>
+    <string name="server">"Διακομιστής:"</string>
+    <string name="server_error">"Σφάλμα διακομιστή"</string>
+    <string name="server_hint">"172.0.0.1/ShareFolder"</string>
+    <string name="server_title">Διακομιστής</string>
+    <string maxwidth="-1" name="service_not_available_in_your_country">"Το συγκεκριμένο στοιχείο δεν είναι διαθέσιμο στη χώρα σας."</string>
+    <string name="set_password_title">"Δημιουργία κωδικού PIN"</string>
+    <string name="set_ring">"Ορισμός ως δακτυλίου"</string>
+    <string name="setting_display_group">"Οθόνη"</string>
+    <string name="setting_notification_group">"Ειδοποίηση"</string>
+    <string name="setting_notification_large_files">"Ειδοποίηση για μεγάλα αρχεία"</string>
+    <string name="setting_notification_recent_files">"Ειδοποίηση για πρόσφατα αρχεία"</string>
+    <string name="setting_notification_wireless_transfer">"Ειδοποίηση για ασύρματη μεταφορά"</string>
+    <string name="setting_view_group">"Ρύθμιση προβολής"</string>
+    <string name="setting_view_hide_files">"Απόκρυψη αρχείων συστήματος"</string>
+    <string name="settings">"Ρυθμίσεις"</string>
+    <string description="This is the title of cache size" maxwidth="-1" name="settings_cache_size_title">"Μέγεθος cache"</string>
+    <string description="Remove all cache documents" maxwidth="-1" name="settings_clear_cache_info">"Κατάργηση όλων των εγγράφων του cache"</string>
+    <string description="Clear the cache" maxwidth="-1" name="settings_clear_cache_title">"Απαλοιφή cache"</string>
+    <string description="This is the title of clearing search history action for setting user preferences." maxwidth="-1" name="settings_clear_search_history">"Απαλοιφή ιστορικού αναζήτησης"</string>
+    <string name="settings_darkmode_message">"Εφαρμογή Σκούρας κατάστασης"</string>
+    <string name="settings_description">"Τοπικοί φάκελοι και αρχεία"</string>
+    <string description="This is the title of documents cache" maxwidth="-1" name="settings_documents_cache">"Cache εγγράφων"</string>
+    <string description="recommend text" maxwidth="" name="settings_encourage_us_detail">Εάν απολαμβάνετε τη χρήση του %s, δώστε μας μία βαθμολογία 5 αστέρων στο Play Store. Θα ήταν μία φοβερή ενθάρρυνση για εμάς για να συνεχίσουμε να βελτιώνουμε το προϊόν!</string>
+    <string description="This is the title of hiding system files action for setting user preferences." maxwidth="-1" name="settings_hide_system_files">"Απόκρυψη αρχείων συστήματος"</string>
+    <string description="This is the title of moving to the trash can." maxwidth="-1" name="settings_moved_to_the_trash_can">"Μεταφέρθηκε σε Κάδο απορριμμάτων"</string>
+    <string description="Remove account" maxwidth="-1" name="settings_remove_account">"Κατάργηση λογαριασμού"</string>
+    <string description="Set the cache size to %s" maxwidth="-1" name="settings_set_cache_size">"Το μέγεθος cache ορίστηκε σε \"%s\""</string>
+    <string description="This is the title of space used for setting user preferences." maxwidth="-1" name="settings_space_used">"Χρησιμοποιούμενος χώρος"</string>
+    <string description="This is the title of trash can information for setting user preferences." maxwidth="-1" name="settings_trash_can">"Κάδος απορριμμάτων"</string>
+    <string description="This is the title of user name" maxwidth="-1" name="settings_user_name">"Όνομα χρήστη"</string>
+    <string name="setup">"Διαμόρφωση"</string>
+    <string name="setup_account_description">"Διαμορφώστε έναν λογαριασμό email για να ανακτήσετε τον προσωπικό σας κωδικό PIN"</string>
+    <string name="setup_account_no_internet_connection">"Δεν υπάρχει σύνδεση στο Internet"</string>
+    <string name="setup_account_skip">"Παράλειψη"</string>
+    <string name="setup_account_title">"Ανάκτηση κωδικού PIN"</string>
+    <string name="setup_fingerprint_message">"Ενεργοποίηση ξεκλειδώματος με δακτυλικό αποτύπωμα; Η Κρυφή βιβλιοθήκη υποστηρίζει επαλήθευση δακτυλικού αποτυπώματος. Για να ξεκινήσετε, σαρώστε το δακτυλικό αποτύπωμά σας στις Ρυθμίσεις."</string>
+    <string name="setup_my_digital_code">"Διαμόρφωση κωδικού PIN"</string>
+    <string name="share_more">"Λοιπά"</string>
+    <string name="share_with_friend">"Μοιραστείτε αυτή την εφαρμογή με τους φίλους σας"</string>
+    <string description="Context Menu: options of context menu: share folder via Wi-Fi Direct" maxwidth="" name="shared_folder">Κοινή Χρήση μέσω Άμεσου Wi-Fi</string>
+    <string description="shortcit title" maxwidth="-1" name="short_cuts_title">Συντόμευση</string>
+    <string name="shortcut_hint">"Πατήστε και κρατήστε παρατεταμένα μια κατηγορία ή ένα φάκελο για να δημιουργήσετε μια συντόμευση στο Πρόγραμμα εκκίνησης."</string>
+    <string description="check if user want to show password" name="show_passwd">Εμφάνιση κωδικού πρόσβασης</string>
+    <string description="show when sign in failed" maxwidth="-1" name="signin_failed">"Η σύνδεση απέτυχε."</string>
+    <string description="signout account" name="signout_account" width="-1">Αποσύνδεση</string>
+    <string name="single_drm_file_forbidden_operation">Η ενέργεια αυτή δεν επιτρέπεται, λόγω προστασίας DRM.</string>
+    <string description="button text for sort file by size" maxwidth="-1" name="size">Μέγεθος</string>
+    <string description="button text for sort file by size ascending" maxwidth="-1" name="size_ascending">Μέγεθος (μεγάλο-μικρό)</string>
+    <string description="button text for sort file by size descending" maxwidth="-1" name="size_descending">Μέγεθος (μικρό-μεγάλο)</string>
+    <string name="ssl_err_msg_info">"Δεν είναι δυνατή η δημιουργία μιας ασφαλής σύνδεσης με το διακομιστή. Θέλετε να συνεχίσετε;"</string>
+    <string name="ssl_err_msg_title">"Σφάλμα σύνδεσης SSL"</string>
+    <string description="shortcut title: my favorite files" name="starred" width="-1">"Με αξιολόγηση"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="storage_type_cloud">Χώρος αποθήκευσης στο cloud</string>
+    <string name="storage_type_cloud_att">"Αποθήκευση δικτύου"</string>
+    <string name="storage_type_local">Τοπική μονάδα αποθήκευσης</string>
+    <string name="storage_type_shortcut">"Συντόμευση"</string>
+    <string name="storagetype_add_account">Προσθήκη Google λογαριασμού</string>
+    <string name="tap_to_exit">Πατήστε ξανά για έξοδο.</string>
+    <string name="target_directory_is_child_of_source">"Η διαδικασία δεν μπόρεσε να ολοκληρωθεί επειδή ο κατάλογος προορισμού είναι θυγατρικός του καταλόγου προέλευσης."</string>
+    <string description="Toast: target file exists" maxwidth="-1" name="target_exist">Το αρχείο στόχος υπάρχει.</string>
+    <string description="Toast: target folder exists. %s is variable string." maxwidth="-1" name="target_folder_exist">"Ο φάκελος: \"%s\" υπάρχει ήδη."</string>
+    <string description="" maxwidth="" name="tell_friend">Ενημέρωση φίλου</string>
+    <string maxwidth="" name="terms_of_service">"Γνωστοποίηση όρων χρήσης"</string>
+    <string maxwidth="" name="terms_of_service_url">http://www.asus.com/us/Terms_of_Use_Notice_Privacy_Policy/Official-Site/</string>
+    <string description="title" maxwidth="-1" name="title">"Νομικές πληροφορίες:"</string>
+    <string name="toast_auto_lock_notify_message">"Κλείδωμα Κρυφής βιβλιοθήκης όταν κλειδώνεται η συσκευή"</string>
+    <string description="Toast: The item(s) has been copied completely" maxwidth="-1" name="toast_drag_copied_items">Επιτυχής αντιγραφή του/των στοιχείου(ων).</string>
+    <string description="Toast: The item(s) has been moved completely" maxwidth="-1" name="toast_drag_moved_items">Επιτυχής μεταφορά του/των στοιχείου(ων).</string>
+    <string description="Toast: Sorry, copy files complete but cut fail" maxwidth="-1" name="toast_warning_copy_comple_cut_fail">"Δυστυχώς, η αντιγραφή των αρχείων ολοκληρώθηκε αλλά η διαγραφή των παλαιών αρχείων απέτυχε"</string>
+    <string description="Toast: Sorry, copy folders has not been supported" maxwidth="-1" name="toast_warning_copy_folders">"Δυστυχώς, η αντιγραφή φακέλων δεν υποστηρίζεται"</string>
+    <string maxwidth="35" name="toolbar_item_title_encourage_us">Ενθαρρύνετέ μας</string>
+    <string name="tools_clean_master">"Κάντε εκκαθάριση των ανεπιθύμητων αρχείων"</string>
+    <string name="tools_file_transfer">"Μεταφορά αρχείων σε Η/Υ "</string>
+    <string name="tools_hidden_zone">"Κρυφή βιβλιοθήκη"</string>
+    <string name="tools_recycle_bin">"Κάδος ανακύκλωσης"</string>
+    <string name="tools_storage_analyzer">"Αναλυτής χώρου αποθήκευσης"</string>
+    <string name="tools_tip_animation">"Τραβήξτε προς τα πάνω για εργαλεία!"</string>
+    <string name="tools_zenui_instant_update">"Άμεση ενημέρωση"</string>
+    <string description="shortcut title: trash can" name="trash_can" width="-1">"Κάδος απορριμμάτων"</string>
+    <string maxwidth="-1" name="trash_info_deleted">"Ημερομηνία διαγραφής: "</string>
+    <string maxwidth="-1" name="trash_info_path">"Αρχική διαδρομή: "</string>
+    <string description="label for trending searches" maxwidth="-1" name="trending_searches">"Δημοφιλείς αναζητήσεις"</string>
+    <string name="tutorial_analyzer_content">"Ο Αναλυτής χώρου αποθήκευσης σας ενημερώνει ποια αρχεία καταλαμβάνουν χώρο."</string>
+    <string name="tutorial_category_content">"Η αναζήτηση αρχείων δεν ήταν ποτέ άλλοτε τόσο εύκολη όσο με την προβολή Κατηγοριών στη Διαχείριση αρχείων της ASUS."</string>
+    <string name="tutorial_category_title">"Προβολή Κατηγοριών"</string>
+    <string name="tutorial_cloud_content">"Αποκτήστε πρόσβαση σε αρχεία από το smartphone, τον υπολογιστή και υπηρεσίες αποθήκευσης στο cloud."</string>
+    <string name="tutorial_cloud_title">"Χώρος αποθήκευσης στο cloud"</string>
+    <string name="tutorial_done">Τέλος</string>
+    <string name="tutorial_page_content_long_press">Πατήστε και κρατήστε πατημένο για να επιλέξετε ένα στοιχείο, στη συνέχεια πατήστε το εικονίδιο \"Μενού\" για εμφάνιση άλλων επιλογών ενεργειών.</string>
+    <string name="tutorial_page_four_content">Ορίστε ένα φάκελο που χρησιμοποιείται συχνώ ως Αγαπημένο για να έχετε πρόσβαση στους φακέλους γρήγορα και εύκολα.</string>
+    <string name="tutorial_page_four_title">Αγαπημένα</string>
+    <string name="tutorial_page_one_content">Η Διαχείριση αρχείων ASUS σάς δίνει τη δυνατότητα να διαχειρίζεστε τα αρχεία σας που είναι αποθηκευμένα σε εσωτερική, εξωτερική αποθήκευση, αποθήκευση τοπικής περιοχής δικτύου ή αποθήκευση cloud.</string>
+    <string name="tutorial_page_one_title">Διαχείριση αρχείων ASUS</string>
+    <string name="tutorial_page_three_content">Σαρώστε ένα στοιχείο προς τα δεξιά για να εμφανιστούν ενέργειες, όπως "Προσθήκη στα αγαπημένα, "Μετονομασία", "Μετακίνηση σε", "Αντιγραφή" και άλλες επιλογές διαχείρισης αρχείων.</string>
+    <string name="tutorial_page_three_title">Κάντε δεξιά σάρωση στη λίστα ενεργειών.</string>
+    <string name="tutorial_page_title_long_press">Εμφάνιση μενού ενεργειών</string>
+    <string name="tutorial_page_two_content">Εύκολες στη χρήση κατηγορίες που σας δίνουν τη δυνατότητα να έχετε γρήγορη πρόσβαση στα αρχεία σας που βρίσκονται στην τοπική αποθήκευσή σας.</string>
+    <string name="tutorial_page_two_title">Αρχική σελίδα</string>
+    <string name="tutorial_skip">Παράβλεψη</string>
+    <string description="button text for sort file by type" maxwidth="-1" name="type">Τύπος</string>
+    <string description="document type" maxwidth="-1" name="type_abu">"Αντίγραφα ασφαλείας εφαρμογών Asus"</string>
+    <string description="document type" maxwidth="-1" name="type_apk">"Εφαρμογή Android"</string>
+    <string description="document type" maxwidth="-1" name="type_audio">"Ήχος"</string>
+    <string description="document type" maxwidth="-1" name="type_book">"EBook"</string>
+    <string name="type_dialog_audio">Ήχος</string>
+    <string name="type_dialog_image">Εικόνα</string>
+    <string name="type_dialog_text">Κείμενο</string>
+    <string name="type_dialog_title">Άνοιγμα ως</string>
+    <string name="type_dialog_video">Βίντεο</string>
+    <string description="document type" maxwidth="-1" name="type_directory">"Κατάλογος"</string>
+    <string description="document type" maxwidth="-1" name="type_document">"Έγγραφο"</string>
+    <string description="document type" maxwidth="-1" name="type_file">"Αρχείο"</string>
+    <string description="document type" maxwidth="-1" name="type_image">"Εικόνα"</string>
+    <string description="document type" maxwidth="-1" name="type_playlist">"Λίστα αναπαραγωγής"</string>
+    <string description="document type" maxwidth="-1" name="type_rar">"RAR"</string>
+    <string description="document type" maxwidth="-1" name="type_video">"Βίντεο"</string>
+    <string description="document type" maxwidth="-1" name="type_zip">"Zip"</string>
+    <string name="ud_sdk_all_app_update">"Όλες οι εφαρμογές εκτελούνται στην τρέχουσα έκδοσή τους."</string>
+    <string name="ud_sdk_asus_app_slogan">χρήσιμες εφαρμογές</string>
+    <string name="ud_sdk_downloads">Λήψεις</string>
+    <string name="ud_sdk_free_download">Δωρεάν λήψη</string>
+    <string name="ud_sdk_important_remind_text">"Σημαντικό"</string>
+    <string name="ud_sdk_install">Εγκατάσταση</string>
+    <string name="ud_sdk_more_zen_family">Ανακαλύψτε περισσότερες εφαρμογές ZenUI</string>
+    <string name="ud_sdk_no_network_connection_content">Δεν ήταν δυνατή η ενημέρωση των δεδομένων. Ελέγξτε τις ρυθμίσεις δικτύου σας.</string>
+    <string name="ud_sdk_no_network_connection_title">Δεν υπάρχει σύνδεση στο δίκτυο</string>
+    <string name="ud_sdk_open">Άνοιγμα</string>
+    <string name="ud_sdk_update">Ενημέρωση</string>
+    <string maxwidth="-1" name="ud_sdk_update_sdk">Οικογένεια ZenUI</string>
+    <string maxwidth="-1" name="ud_sdk_update_sdk_asus">Άμεση ενημέρωση ZenUI</string>
+    <string name="ud_sdk_wifi_settings">Ρυθμίσεις Wi-Fi</string>
+    <string name="uf_sdk_already_give_5star">"Δώσατε ήδη βαθμολογία 5 αστέρων"</string>
+    <string description="%d is a number, don&apos;t translate" name="uf_sdk_article_read_count">"%d προβολές"</string>
+    <string name="uf_sdk_attachment_format_warning">"Λανθασμένη μορφή αρχείου. Μπορεί να επισυναφθεί μόνο αρχείο εικόνας."</string>
+    <string name="uf_sdk_attachment_total_size">"Σύνολο"</string>
+    <string name="uf_sdk_attachment_warning">"Το μέγεθος του συνημμένου υπερβαίνει το επιτρεπόμενο όριο"</string>
+    <string maxwidth="-1" name="uf_sdk_cancel_btn_content">"Άκυρο"</string>
+    <string name="uf_sdk_choosertitle_sharevia">"Κοινή χρήση μέσω"</string>
+    <string name="uf_sdk_connection_error_msg">"Η σύνδεση ματαιώθηκε από τον διακομιστή. Προσπαθήστε αργότερα."</string>
+    <string name="uf_sdk_connection_error_title">"Σφάλμα σύνδεσης"</string>
+    <string name="uf_sdk_discard">"Απόρριψη"</string>
+    <string name="uf_sdk_email_illigal">"Η διεύθυνση e-mail χρησιμοποιείται ήδη"</string>
+    <string maxwidth="-1" name="uf_sdk_empty_notification">"Κενό :)"</string>
+    <string name="uf_sdk_faq">"Συχνές ερωτήσεις (FAQ)"</string>
+    <string name="uf_sdk_feedback_and_help">"Σχόλια και βοήθεια"</string>
+    <string name="uf_sdk_forum_description">"Πάρτε μέρος στις συζητήσεις με χρήστες προϊόντων ASUS για να βρείτε λύσεις και να μοιραστείτε τις δικές σας"</string>
+    <string maxwidth="-1" name="uf_sdk_grant_permission_title">"Παραχώρηση άδειας"</string>
+    <string name="uf_sdk_help">"Βοήθεια"</string>
+    <string name="uf_sdk_instant_answer_question">"Σας βοήθησε αυτή η Ε&amp;Α;"</string>
+    <string name="uf_sdk_like">"Like"</string>
+    <string maxwidth="-1" name="uf_sdk_message">"Ειδοποιήσεις"</string>
+    <string name="uf_sdk_msg_bad_email_format">"Η διεύθυνση e-mail δεν είναι έγκυρη, προσπαθήστε ξανά."</string>
+    <string name="uf_sdk_msg_confirm_discard_topic">"Το πρόχειρο δεν θα αποθηκευτεί. Θέλετε να το διαγράψετε ούτως ή άλλως;"</string>
+    <string name="uf_sdk_msg_confirm_discard_topic_title">"Διαγραφή ανάρτησης;"</string>
+    <string name="uf_sdk_msg_subscribe">"Η εγγραφή για ενημέρωση σχετικά με την κατάσταση του θέματος θα σας αποσταλεί μέσω e-mail."</string>
+    <string name="uf_sdk_msg_subscribe_success">"Επιτυχής εγγραφή"</string>
+    <string name="uf_sdk_msg_ticket_created">"Το σχόλιό σας στάλθηκε με επιτυχία στην ASUS"</string>
+    <string name="uf_sdk_msg_topic_created">"Δημοσιεύτηκε με επιτυχία"</string>
+    <string name="uf_sdk_msg_unsubscribe">"Επιτυχής κατάργηση εγγραφής"</string>
+    <string name="uf_sdk_name_hint">"Εισάγετε το όνομά σας"</string>
+    <string name="uf_sdk_name_illigal">"Το όνομα χρήστη χρησιμοποιείται ήδη"</string>
+    <string name="uf_sdk_network_error">"Δεν υπάρχει σύνδεση στο Internet, ελέγξτε τις ρυθμίσεις δικτύου που χρησιμοποιείτε."</string>
+    <string description="zenui news" maxwidth="" name="uf_sdk_news">"Νέα"</string>
+    <string name="uf_sdk_no_network_connection_content">"Η σύνδεση ματαιώθηκε από τον διακομιστή. Προσπαθήστε αργότερα."</string>
+    <string name="uf_sdk_no_network_connection_title">"Σφάλμα σύνδεσης"</string>
+    <string name="uf_sdk_nothing_found">"Δεν βρέθηκε τίποτα"</string>
+    <string name="uf_sdk_notice">"Γνωστοποίηση"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category1">"Ανακοινώσεις"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category2">"Εκπαιδευτικά βοηθήματα και συμβουλές"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category3">"Προωθητικές ενέργειες"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category4">"Εκδηλώσεις"</string>
+    <string name="uf_sdk_publish_an_topic">"Δημοσίευση νέου θέματος"</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_rate_now">"Αξιολόγηση τώρα"</string>
+    <string description="%s is AP name, don&apos;t translate" maxWidth="" name="uf_sdk_rate_us_detail">"Αν σας αρέσει η χρήση του %s, αξιολογήστε μας με 5 αστέρια στο Play Store."</string>
+    <string maxWidth="" name="uf_sdk_rate_us_detail_new">"Η υποστήριξή σας με αξιολόγηση 5 αστέρων θα μας δώσει έμπνευση ώστε να συνεχίσουμε τη δουλειά μας!"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_rating">"Αξιολόγηση 5 αστέρων"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title">"Αξιολογήστε μας!"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title_new">"Ενθαρρύνετέ μας!"</string>
+    <string description="Menu item for userFeedback sdk" maxwidth="-1" name="uf_sdk_report_bug">Αναφορά σφάλματος</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_scroll_up_toast">"Κάντε κύλιση προς τα επάνω για να αξιολογήσετε"</string>
+    <string name="uf_sdk_search_hint">"Αναζήτηση στη βοήθεια"</string>
+    <string name="uf_sdk_select_common_bug">"Επιλέξτε σύνηθες σφάλμα"</string>
+    <string name="uf_sdk_send_feedback">"Αποστολή σχολίων"</string>
+    <string name="uf_sdk_send_feedback_help">"Το σχόλιο και η διεύθυνση e-mail σας θα σταλούν στην ASUS. Η ομάδα εξυπηρέτησης θα επικοινωνήσει μαζί σας μέσω e-mail."</string>
+    <string maxwidth="-1" name="uf_sdk_setting_btn_content">"Ρυθμίσεις"</string>
+    <string description="recommend title" maxwidth="" name="uf_sdk_settings_encourage_us_title">"Ενθαρρύνετέ μας"</string>
+    <string maxwidth="-1" name="uf_sdk_storage_permission_description">"Αυτή η λειτουργικότητα χρειάζεται άδεια για τον χώρο αποθήκευσης ώστε να έχει πρόσβαση στα αρχεία πολυμέσων. \n\nΕάν θέλετε να ενεργοποιήσετε αυτήν τη λειτουργικότητα, πατήστε το κουμπί Ρυθμίσεις για να μεταβείτε στη σελίδα Ρυθμίσεις της εφαρμογής και κατόπιν κάντε τις κατάλληλες επιλογές στις \"Πληροφορίες εφαρμογής\" > \"Άδειες\" για να παραχωρήσετε την άδεια.\n"</string>
+    <string name="uf_sdk_submit_topic">"Δημοσίευση"</string>
+    <string name="uf_sdk_subscribe_dialog_title">"Εγγραφή σε αυτό το θέμα"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_answered">"Απαντήθηκε"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_completed">"ολοκληρώθηκε"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_declined">"απορρίφθηκε"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_implemented">"Υλοποιήθηκε"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_planned">"προγραμματίστηκε"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_under_review">"υπό εξέταση"</string>
+    <string name="uf_sdk_thanks_for_your_feedback">"Ευχαριστούμε για τα σχόλιά σας!"</string>
+    <string description="%s is a application name, don&apos;t translate" name="uf_sdk_ticket_hint">"Εισαγωγή σχολίων για το %s"</string>
+    <string name="uf_sdk_title_topic">"Θέμα"</string>
+    <string name="uf_sdk_topic">"Θέμα"</string>
+    <string name="uf_sdk_topic_description_heading">"Περιγραφή"</string>
+    <string name="uf_sdk_topic_description_hint">"Περιγράψτε με λεπτομέρειες το θέμα σας"</string>
+    <string name="uf_sdk_topic_filter">"ΘΕΜΑΤΑ"</string>
+    <string name="uf_sdk_topic_form_help">"Όταν δημοσιεύετε ένα θέμα στο φόρουμ χρηστών, άλλοι χρήστες θα μπορούν να εγγραφούν και να κάνουν σχόλια. Επιπλέον, όταν η ομάδα ανάπτυξης της ASUS απαντήσει στο θέμα, θα ενημερωθείτε μέσω e-mail."</string>
+    <string name="uf_sdk_topic_form_title">"Δημοσίευση νέου θέματος"</string>
+    <string name="uf_sdk_topic_text_heading">"Φόρουμ"</string>
+    <string name="uf_sdk_topic_text_hint">"Πληκτρολογήστε τον τίτλο του θέματος"</string>
+    <string name="uf_sdk_topic_title">"Τίτλος"</string>
+    <string name="uf_sdk_translation_10117605">"Θέμα μετάφρασης"</string>
+    <string name="uf_sdk_translation_117562">"Τύπος σχολίου"</string>
+    <string name="uf_sdk_translation_2529543">"Αναφορά σφάλματος"</string>
+    <string name="uf_sdk_translation_2529544">"Λοιπά"</string>
+    <string name="uf_sdk_translation_2530478">"Πρόταση"</string>
+    <string name="uf_sdk_unhelpful_article_message_question">"Θέλετε να στείλετε σχόλια στην ομάδα ανάπτυξης της ASUS;"</string>
+    <string name="uf_sdk_user_forum">"Φόρουμ χρηστών"</string>
+    <string name="uf_sdk_warning">"Προειδοποίηση"</string>
+    <string name="uf_sdk_wifi_settings">"Ρυθμίσεις Wi-Fi"</string>
+    <string name="uf_sdk_wlan_settings">"Ρυθμίσεις WLAN"</string>
+    <string name="uf_sdk_write_your_feedback">"Εισάγετε εδώ τα σχόλιά σας"</string>
+    <string name="uf_sdk_your_draft_will_be_discarded">"Το πρόχειρό σας θα απορριφθεί."</string>
+    <string description="description for empty search result" maxwidth="-1" name="unable_to_find_artlcles">"Αδυναμία εύρεσης άρθρων σχετιζόμενων με \u0022%s\u0022"</string>
+    <string description="string indicating the length units in milli-meters" maxwidth="-1" name="unit_mm">χιλιοστά</string>
+    <string description="Context Menu: options of context menu: unshare folder" maxwidth="-1" name="unshared_folder">Μη κοινή χρήση</string>
+    <string name="unsupported_area">"Η περιοχή αυτή δεν υποστηρίζεται"</string>
+    <string description="toast message: extract files fail" maxwidth="-1" name="unzip_fail">Απέτυχε η εξαγωγή των αρχείων</string>
+    <string description="extract file dialog message" maxwidth="-1" name="unzip_progress_msg">Γίνεται εξαγωγή...</string>
+    <string description="toast message: extract files successly" maxwidth="-1" name="unzip_success">Επιτυχής εξαγωγή των αρχείων</string>
+    <string name="update">"Ενημέρωση"</string>
+    <string name="update_fb_app">"Η έκδοση εφαρμογής για κινητά του Facebook δεν είναι ενημερωμένη.  Εγκαταστήστε την πιο πρόσφατη έκδοση από το Google Play."</string>
+    <string name="upgrade_notification_content">Προβάλλετε αρχεία ανά τύπο από την ολοκαίνουργια Αρχική οθόνη μας.</string>
+    <string name="upgrade_notification_title">Δοκιμάστε το νέο File Manager τώρα!</string>
+    <string name="upload_complete">"Η μεταφόρτωση ολοκληρώθηκε"</string>
+    <string name="upload_complete_dialog_message">"Επιτυχής μεταφόρτωση του βίντεο."</string>
+    <string name="upload_complete_dialog_title">"Ολοκληρώθηκε"</string>
+    <string name="upload_fail">η αποστολή απέτυχε!</string>
+    <string name="upload_failed">"Η μεταφόρτωση απέτυχε"</string>
+    <string name="upload_picture_toast">"Η εικόνα σας θα μεταφορτωθεί. Ελέγξτε την πρόοδο στο παράθυρο ειδοποιήσεων."</string>
+    <string name="upload_toast">"Το βίντεό σας θα μεταφορτωθεί. Ελέγξτε την πρόοδο στο παράθυρο ειδοποιήσεων."</string>
+    <string name="uploading_picture">"Μεταφόρτωση εικόνας"</string>
+    <string name="uploading_video">"Μεταφόρτωση του βίντεο..."</string>
+    <string name="user">Όνομα χρήστη</string>
+    <string name="user_hint">διαχειριστής</string>
+    <string name="uv_admin_response_format">"Απόκριση διαχειριστή: %1$s"</string>
+    <string name="uv_all_articles">"Όλα τα άρθρα"</string>
+    <string name="uv_all_results_filter">"ΟΛΑ"</string>
+    <string name="uv_android_sdk">Android SDK</string>
+    <string name="uv_article_browse_question">"Σας βοήθησε αυτό το άρθρο;"</string>
+    <string name="uv_article_instant_answer_question">"Σας βοήθησε αυτή η Ε&amp;Α;"</string>
+    <string name="uv_cancel">"Άκυρο"</string>
+    <string name="uv_category">"Κατηγορία"</string>
+    <string name="uv_close">"Κλείσιμο"</string>
+    <string name="uv_comment_hint">"Εισάγετε το σχόλιό σας"</string>
+    <string name="uv_confirm">"Επιβεβαίωση"</string>
+    <string name="uv_contact_continue_button">"Συνεχίζω να θέλω να στείλω ένα μήνυμα"</string>
+    <string name="uv_contact_hint">"Εισάγετε την ερώτηση ή τα σχόλιά σας"</string>
+    <string name="uv_contact_us">"Επικοινωνήστε μαζί μας"</string>
+    <string name="uv_display_name">"Εμφανιζόμενο όνομα"</string>
+    <string name="uv_email_address">"Διεύθυνση e-mail"</string>
+    <string name="uv_email_address_hint">"το@email-σας.com (απαιτείται)"</string>
+    <string name="uv_error">"Σφάλμα"</string>
+    <string name="uv_failed_signin_error">"Λανθασμένο e-mail ή κωδικός πρόσβασης"</string>
+    <string name="uv_forgot_password">"Ξεχάσατε τον κωδικό πρόσβασης;"</string>
+    <string name="uv_helpful_article_message_question">"Θέλετε ακόμη να στείλετε ένα μήνυμα;"</string>
+    <string name="uv_i_want_this">"Το θέλω!"</string>
+    <string name="uv_idea_description_heading">"Περιγράψτε την ιδέα σας με περισσότερη λεπτομέρεια"</string>
+    <string name="uv_idea_description_hint">"(προαιρετικά)"</string>
+    <string name="uv_idea_text_heading">"Σας συστήνω…"</string>
+    <string name="uv_loading">"Φόρτωση…"</string>
+    <string name="uv_matching_articles">"Άρθρα που ταιριάζουν"</string>
+    <string name="uv_matching_articles_and_ideas">"Άρθρα και ιδέες που ταιριάζουν"</string>
+    <string name="uv_menu_attach">"Επισύναψη"</string>
+    <string name="uv_menu_search">"Αναζήτηση"</string>
+    <string name="uv_msg_bad_email_format">"Εισάγετε μια έγκυρη διεύθυνση e-mail."</string>
+    <string name="uv_msg_comment_posted">"Το σχόλιό σας αναρτήθηκε"</string>
+    <string name="uv_msg_confirm_discard_message">"Είστε βέβαιοι ότι θέλετε να απορρίψετε το μήνυμά σας;"</string>
+    <string name="uv_msg_custom_fields_validation">"Συμπληρώστε όλα τα απαιτούμενα πεδία."</string>
+    <string name="uv_msg_forgot_password">"Απεστάλη e-mail για τον ξεχασμένο κωδικό πρόσβασης"</string>
+    <string name="uv_msg_idea_created">"Η ιδέα σας δημιουργήθηκε"</string>
+    <string name="uv_msg_ticket_created">"Το μήνυμά σας απεστάλη"</string>
+    <string name="uv_msg_user_identity_validation">"Εισάγετε τη διεύθυνση e-mail σας"</string>
+    <string name="uv_name_hint">"“Ανώνυμος”"</string>
+    <string name="uv_network_error">"Συνέβη κάποιο σφάλμα κατά τη σύνδεση στο UserVoice"</string>
+    <string name="uv_nevermind">"Δεν πειράζει"</string>
+    <string name="uv_new_comment">"Νέο σχόλιο"</string>
+    <string name="uv_next">"Επόμενο"</string>
+    <string name="uv_no">"Όχι"</string>
+    <string name="uv_none_of_these_help">"Τίποτα από αυτά δεν βοήθησε"</string>
+    <string name="uv_password">"Κωδικός πρόσβασης"</string>
+    <string name="uv_password_dialog_title">"Εισάγετε τον κωδικό πρόσβασής σας"</string>
+    <string name="uv_portal_title">"Βοήθεια"</string>
+    <string name="uv_post_a_comment">"Δημοσίευση σχολίου"</string>
+    <string name="uv_post_comment">"Ανάρτηση σχολίου"</string>
+    <string name="uv_posted_by_format">"Αναρτήθηκε από %1$s στις %2$s"</string>
+    <string name="uv_powered_by_uservoice">"Παρέχεται από την UserVoice"</string>
+    <string name="uv_ranked">"Αξιολογήθηκε ως %1$s"</string>
+    <string name="uv_remove_votes">"Κατάργηση ψήφων"</string>
+    <string name="uv_select_none">"(κανένα)"</string>
+    <string name="uv_select_one">"Επιλέξτε ένα"</string>
+    <string name="uv_send_message">"Αποστολή μηνύματος"</string>
+    <string name="uv_signin_dialog_ok">"Σύνδεση"</string>
+    <string name="uv_signin_dialog_title">"Σύνδεση"</string>
+    <string name="uv_status_format">"Κατάσταση: %1$s"</string>
+    <string name="uv_submit_idea">"Υποβολή ιδέας"</string>
+    <string name="uv_subscribe">"Εγγραφή"</string>
+    <string name="uv_subscribe_dialog_title">"Εγγραφή σε αυτήν την ιδέα"</string>
+    <string name="uv_suggestion_instant_answer_question">"Σας βοήθησε αυτή η ιδέα;"</string>
+    <string name="uv_thanks">"Ευχαριστούμε!"</string>
+    <string name="uv_unhelpful_article_message_question">"Θέλετε να μας στείλετε ένα μήνυμα;"</string>
+    <string name="uv_value">"Τιμή"</string>
+    <string name="uv_very_yes">"Ναι!"</string>
+    <string name="uv_yes">"Ναι"</string>
+    <string name="uv_your_email_address">"Η διεύθυνση e-mail σας"</string>
+    <string name="uv_your_name">"Το όνομά σας"</string>
+    <string description="version" maxwidth="-1" name="version">"Έκδοση"</string>
+    <string name="version_text">έκδοση</string>
+    <string name="wait">"Περιμένετε..."</string>
+    <string name="warning_stophttpserver">"Θα χαθεί η σύνδεσή σας ανάμεσα στην κινητή συσκευή σας και τον Η/Υ. Θέλετε να γίνει έξοδος;"</string>
+    <string name="whats_new_label">Τι νέο υπάρχει</string>
+    <string description="message for request to connect Network" name="wifi_p2p_connection_msg" width="-1">Δημιουργήστε μια σύνδεση δικτύου για να χρησιμοποιήσετε τις υπηρεσίες cloud.</string>
+    <string description="title for request to connect Network" name="wifi_p2p_connection_title" width="-1">Δημιουργία σύνδεσης δικτύου</string>
+    <string description="message for request to turn on Wi-Fi" name="wifi_p2p_turn_on_wifi_msg" width="-1">Ενεργοποίηση Wi-Fi για χρήση υπηρεσιών Άμεσου Wi-Fi. Ενεργοποίηση του Wi-Fi τώρα;</string>
+    <string description="title for turn on WiFi dialog" name="wifi_p2p_turn_on_wifi_title" width="-1">Ενεργοποίηση Άμεσου Wi-Fi</string>
+    <string description="search" maxwidth="-1" name="wifidirect_action_bar_scan">Αναζήτηση</string>
+    <string description="Available devices" maxwidth="-1" name="wifidirect_available_devices">Διαθέσιμες συσκευές</string>
+    <string description="Do you want to connect to device" maxwidth="-1" name="wifidirect_connect_hint">Θέλετε να συνδεθείτε με</string>
+    <string description="Dialog title text: Invitation to connect" maxwidth="-1" name="wifidirect_connect_hint_title">Πρόσκληση για σύνδεση</string>
+    <string description="Dialog title text: Wi-Fi Direct connecting" maxwidth="-1" name="wifidirect_connecting_hint_title">Σύνδεση Άμεσου Wi-Fi...</string>
+    <string description="connectted" maxwidth="-1" name="wifidirect_connectted">Συνδέθηκε</string>
+    <string description=">Do you want to disconnect" maxwidth="-1" name="wifidirect_disconnect_hint">Θέλετε να αποσυνδεθείτε από</string>
+    <string description="Disconnect Wi-Fi Direct" maxwidth="-1" name="wifidirect_disconnect_hint_title">Αποσύνδεση Άμεσου Wi-Fi</string>
+    <string description="peer devices infomation" maxwidth="-1" name="wifidirect_peer_device_info">"Για να λάβετε πρόσκληση στο Άμεσο Wi-Fi, βεβαιωθείτε ότι η συσκευή που πρόκειται να συνδέσετε παραμένει στη σελίδα \"Ομότιμες συσκευές\" στο Διαχειριστή Αρχείων."</string>
+    <string description="peer devices title" maxwidth="-1" name="wifidirect_peer_device_title">Ομότιμες συσκευές</string>
+    <string description="searching" maxwidth="-1" name="wifidirect_scanning">Αναζήτηση...</string>
+    <string description="Search Wi-Fi Direct device" maxwidth="-1" name="wifidirect_storage_title">Αναζητήστε συσκευή Άμεσο Wi-Fi</string>
+    <string description="click to connect" maxwidth="-1" name="wifidirect_touch_to_connect">Κάντε κλικ για να συνδεθείτε</string>
+    <string name="yandex_account_only_one_alert">"Επιτρέπεται να προστεθεί μόνο ένας λογαριασμό Yandex. Πρέπει να διαγράψετε τον τρέχοντα λογαριασμό σας πριν τον αντικαταστήσετε με έναν καινούργιο."</string>
+    <string name="yes">Ναι</string>
+    <string name="zenui_update">"Άμεσες ενημερώσεις ZenUI"</string>
+    <string description="toast message: Compress files fail" maxwidth="-1" name="zip_fail">Η συμπίεση των αρχείων απέτυχε</string>
+    <string description="compress dialog message" maxwidth="-1" name="zip_progress_msg">Σε εξέλιξη...</string>
+    <string description="toast message: Compress files successly" maxwidth="-1" name="zip_success">Τα αρχεία συμπιέστηκαν με επιτυχία</string>
+</resources>

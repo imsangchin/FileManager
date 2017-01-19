@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="file_manager" description="Application Name shown on title" maxwidth="">檔案管理員</string>
+    <string name="ok" description="Dialog Button: ok for dialog" maxwidth="">是</string>
+    <string name="no" description="Dialog Button: no for dialog" maxwidth="">否</string>
+    <string name="cancel" description="Dialog Button: cancel for dialog" maxwidth="">取消</string>
+    <string name="select_all" description="Menu Option: select all checkbox" maxwidth="">全選</string>
+    <string name="clear_all" description="Menu Option: clear all checkbox" maxwidth="">全部刪除</string>
+    <string name="open_fail" description="Toast: open file fails" maxwidth="-1">檔案開啟失敗</string>
+    <string name="permission_deny" description="Toast: operation permission deny" maxwidth="-1">權限不符</string>
+    <string name="target_exist" description="Toast: target file exists" maxwidth="-1">目標檔案存在</string>
+    <string name="target_folder_exist" description="Toast: target folder exists. %s is variable string." maxwidth="-1">"「%s」資料夾已經存在"</string>
+    <string name="rename" description="Context Menu: options of context menu" maxwidth="">重新命名</string>
+    <string name="rename_dialog" description="Dialog Title: rename dialog title" maxwidth="">重新命名</string>
+    <string name="rename_fail" description="Toast: rename fails" maxwidth="-1">重新命名檔案失敗</string>
+    <string name="delete" description="Context Menu: options of context menu" maxwidth="">刪除</string>
+    <string name="delete_dialog" description="Dialog Title: delete dialog title" maxwidth="">刪除檔案</string>
+    <string name="delete_one_files" description="Dialog Content: text in dialog" maxwidth="">您確定要刪除這個檔案嗎？</string>
+    <string name="delete_more_files" description="Dialog Content: text in dialog. %d is variable number." maxwidth="">您確定要刪除%d個項目嗎？</string>
+    <string name="delete_size" description="Dialog Content: text in dialog" maxwidth="">"檔案大小:"</string>
+    <string name="delete_progress" description="Progress Content: text in progress dialog" maxwidth="">刪除中...</string>
+    <string name="delete_fail" description="Toast: delete fails" maxwidth="-1">檔案刪除失敗</string>
+    <string name="delete_success_one" description="Toast: delete success. %s is variable string." maxwidth="-1">"「%s」已刪除"</string>
+    <string name="delete_success_more" description="Toast: delete success" maxwidth="-1">您選擇的檔案已刪除</string>
+    <string name="new_folder_dialog" description="Dialog Title: create new folder" maxwidth="">新增資料夾</string>
+    <string name="new_folder_fail" description="Toast: new folder fails" maxwidth="-1">新增資料夾失敗</string>
+    <string name="new_folder_success" description="Toast: new folder success. %s is variable string." maxwidth="-1">"「%s」資料夾已建立"</string>
+    <string name="copy" description="Context Menu: options of context menu" maxwidth="">複製</string>
+    <string name="copy_ready_one" description="Toast: copy ready. %s is variable string." maxwidth="-1">"「%s」已複製並可貼上"</string>
+    <string name="copy_ready_more" description="Toast: copy ready" maxwidth="-1">選擇的檔案已複製並可貼上</string>
+    <string name="cut" description="Context Menu: options of context menu" maxwidth="">剪下</string>
+    <string name="cut_ready_one" description="Toast: cut ready. %s is variable string." maxwidth="-1">"「%s」已剪下並可貼上"</string>
+    <string name="cut_ready_more" description="Toast: cut ready" maxwidth="-1">選擇的檔案已剪下並可貼上</string>
+    <string name="paste" description="Context Menu: options of context menu" maxwidth="">貼上</string>
+    <string name="paste_exist_dialog" description="Dialog Title: paste exist dialog title" maxwidth="">檔案名稱重複</string>
+    <string name="paste_exist_file" description="Dialog Content: text in dialog. %s is variable string." maxwidth="">"「%s」檔案已經存在"</string>
+    <string name="paste_exist_replace" description="Dialog Content: text in dialog" maxwidth="">您要以新的檔案取代嗎？</string>
+    <string name="paste_exist_to" description="Dialog Content: text in dialog" maxwidth="">是</string>
+    <string name="paste_exist_apply" description="Dialog Content: text in dialog" maxwidth="">全部皆是</string>
+    <string name="paste_progress" description="Progress Content: text in progress dialog" maxwidth="">貼上中...</string>
+    <string name="paste_fail" description="Toast: paste fails" maxwidth="-1">檔案貼上失敗</string>
+    <string name="paste_success" description="Toast: paste success. %s is variable string." maxwidth="-1">"檔案已新增至「%s」"</string>
+    <!-- Guoliang_Lin, 2011/04/01, UI required, new feature -->
+    <string name="no_space_fail" description="Toast: No space to copy file and left on device" maxwidth="-1">儲存空間不足</string>
+    <!-- Guoliang Lin, 2011/04/27, UI required, new feature -->
+    <string name="action_add_folder" description="cutstom action bar view title for add folder" maxwidth="-1">新增資料夾</string>
+    <string name="action_hind_system_file" description="cutstom action bar view title for hinde system file" maxwidth="-1">隱藏系統檔案</string>
+    <string name="deselect_all" description="cutstom action bar view title for deselect all checkbox" maxwidth="">取消全選</string>
+    <!-- Guoliang Lin, 2011/05/11, UI required, new feature -->
+    <string name="file_info_dialog_title" description="Dialog Title: File information dialog title" maxwidth="-1">檔案資訊</string>
+    <string name="dir_info_dialog_title" description="Dialog Title: Directory information dialog title" maxwidth="-1">資料夾資訊</string>
+    <string name="info" description="Context Menu: options of context menu" maxwidth="-1">資訊</string>
+    <string name="info_name" description="file info textview context" maxwidth="-1">"名稱: "</string>
+    <string name="info_file_num" description="file info textview context" maxwidth="-1">"檔案數量: "</string>
+    <string name="info_permission" description="file info textview context" maxwidth="-1">"權限: "</string>
+    <string name="info_modified" description="file info textview context" maxwidth="-1">"修改日期: "</string>
+    <!-- Guoliang Lin, 2011/05/27, UI required, new feature -->
+    <string name="action_about" description="cutstom action bar view title for about" maxwidth="-1">關於</string>
+    <!-- Johnson Chen, 2011/08/05, UI required, new feature -->
+    <string name="select_folder" description="Title: select the folder" maxwidth="-1">選擇資料夾</string>
+    <string name="invalid_directory_path" description="Invalid directory path" maxwidth="-1">無效的路徑</string>
+    <string name="short_cuts_title" description="shortcit title" maxwidth="-1">捷徑</string>
+    <string name="type" description="button text for sort file by type" maxwidth="-1">類型</string>
+    <string name="name" description="button text for sort file by name" maxwidth="-1">名稱</string>
+    <string name="size" description="button text for sort file by size" maxwidth="-1">檔案大小</string>
+    <string name="date" description="button text for sort file by date" maxwidth="-1">日期</string>
+    <string name="name_ascending" description="button text for sort file by name ascending" maxwidth="-1">名稱 (z-a)</string>
+    <string name="name_descending" description="button text for sort file by name descending" maxwidth="-1">名稱 (a-z)</string>
+    <string name="size_ascending" description="button text for sort file by size ascending" maxwidth="-1">大小 (大-小)</string>
+    <string name="size_descending" description="button text for sort file by size descending" maxwidth="-1">大小 (小-大)</string>
+    <string name="date_ascending" description="button text for sort file by date ascending" maxwidth="-1">日期 (最舊-最新)</string>
+    <string name="date_descending" description="button text for sort file by date descending" maxwidth="-1">日期 (最新-最舊)</string>
+    <string name="my_storage_title" description="storage label" maxwidth="-1">我的儲存裝置</string>
+    <string name="internal_storage_title" description="storage label" maxwidth="-1">內建儲存空間</string>
+    <string name="my_picture_title" description="shortcut label" maxwidth="-1">圖片</string>
+    <string name="my_camera_title" description="shortcut label" maxwidth="-1">相機</string>
+    <string name="my_music_title" description="shortcut label" maxwidth="-1">音樂</string>
+    <string name="my_download_title" description="shortcut label" maxwidth="-1">下載</string>
+    <string name="dialog_create_zip_title" description="compress dialog title" maxwidth="-1">輸入檔案名稱</string>
+    <string name="zip_progress_msg" description="compress dialog message" maxwidth="-1">壓縮中...</string>
+    <string name="zip_fail" description="toast message: Compress files fail" maxwidth="-1">檔案壓縮失敗</string>
+    <string name="zip_success" description="toast message: Compress files successly" maxwidth="-1">檔案壓縮成功</string>
+    <string name="search_label" description="cutstom action bar view title for search" maxwidth="-1">檔案搜尋</string>
+    <string name="search_progress" description="search dialog message" maxwidth="-1">搜尋中...</string>
+    <string name="location" description="button text for sort file by date" maxwidth="-1">"位置"</string>
+    <plurals name="number_search_items">
+        <item quantity="one">"找到 %d 個檔案"</item>
+        <item quantity="other">"找到 %d 個檔案"</item>
+    </plurals>
+    <string name="search_result_title" description=" text for search result" formatted="false" maxwidth="-1">搜尋 %s （在 %s 中）: 找到 %d 個檔案</string>
+    <string name="dialog_extract_zip_title" description="extract zip file dialog title. %s is a dynamic string. It is zip file name." maxwidth="-1">解壓縮%s至:</string>
+    <string name="unzip_progress_msg" description="extract file dialog message" maxwidth="-1">解壓縮中...</string>
+    <string name="unzip_fail" description="toast message: extract files fail" maxwidth="-1">解壓縮失敗</string>
+    <string name="unzip_success" description="toast message: extract files successly" maxwidth="-1">解壓縮成功</string>
+    <string name="action_clear_history" description="cutstom action bar view title for clear search history" maxwidth="">清除搜尋記錄</string>
+    <plurals name="drag_items">
+        <item quantity="one">拖曳項目</item>
+        <item quantity="other">拖曳一個以上的項目</item>
+    </plurals>
+    <string name="drag_items_one">拖曳項目</string>
+    <string name="drag_items_other">拖曳一個以上的項目</string>
+    <string name="toast_drag_copied_items" description="Toast: The item(s) has been copied completely" maxwidth="-1">已成功複製項目</string>
+    <string name="toast_warning_copy_folders" description="Toast: Sorry, copy folders has not been supported" maxwidth="-1">"抱歉，不再支援複製資料夾"</string>
+    <string name="toast_warning_copy_comple_cut_fail" description="Toast: Sorry, copy files complete but cut fail" maxwidth="-1">"抱歉，已完成檔案複製，但刪除舊檔案失敗"</string>
+    <string name="toast_drag_moved_items" description="Toast: The item(s) has been moved completely" maxwidth="-1">已成功移動項目</string>
+    <string name="move" description="Hint: move the items" maxwidth="-1">移動</string>
+    <string name="drop_target_to" description="Hint: the target folder which you want to do something" maxwidth="-1">目標:</string>
+    <string name="drop_incorrect_hint" description="Hint: the operation is incorrect" maxwidth="-1">操作錯誤</string>
+    <!-- Willie Huang, 2012/01/20, UI required, new feature -->
+    <string name="dialog_unzip_preview_title" description="show zip info dialog title. %s is a dynamic string. Is is a zip file name" maxwidth="-1">解壓縮%s</string>
+    <string name="extract" description="Dialog Button: extract file for dialog" maxwidth="-1">解壓縮</string>
+    <plurals name="dialog_unzip_preview_size_text">
+        <item quantity="one">總計:%1$d個檔案,%2$s</item>
+        <item quantity="other">總計:%1$d個檔案,%2$s</item>
+    </plurals>
+    <string name="encode" description="Dialog Button: click to open the encoding list dialog" maxwidth="-1">文字編碼</string>
+    <string name="dialog_text_encoding_title" description="text encoding dialog title" maxwidth="-1">文字編碼</string>
+    <string-array name="charset_array">
+        <item>"Latin-1 (ISO-8859-1)"</item>
+        <item>"Unicode (UTF-8)"</item>
+        <item>"中文 (GBK)"</item>
+        <item>"中文 (Big5)"</item>
+        <item>"日文 (ISO-2022-JP)"</item>
+        <item>"日文 (SHIFT_JIS)"</item>
+        <item>"日文 (EUC-JP)"</item>
+        <item>"韓文 (EUC-KR)"</item>
+    </string-array>
+    <!-- Willie Huang, 2012/03/28, UI required, new feature -->
+    <string name="info_aperture" description="file info textview context" maxwidth="-1">"光圈: "</string>
+    <string name="info_datetime" description="file info textview context" maxwidth="-1">"拍攝日期："</string>
+    <string name="info_exposure_time" description="file info textview context" maxwidth="-1">"曝光時間: "</string>
+    <string name="info_flash" description="file info textview context" maxwidth="-1">"閃光燈: "</string>
+    <string name="info_focal_length" description="file info textview context" maxwidth="-1">"焦距: "</string>
+    <string name="info_image_height" description="file info textview context" maxwidth="-1">"高度: "</string>
+    <string name="info_image_x" description="file info textview context" maxwidth="-1">" x "</string>
+    <string name="info_image_width" description="file info textview context" maxwidth="-1">"寬度"</string>
+    <string name="info_iso" description="file info textview context" maxwidth="-1">"感光度："</string>
+    <string name="info_location" description="file info textview context" maxwidth="-1">"地點: "</string>
+    <string name="info_maker" description="file info textview context" maxwidth="-1">"製造商: "</string>
+    <string name="info_model" description="file info textview context" maxwidth="-1">"型號: "</string>
+    <string name="info_orientation" description="file info textview context" maxwidth="-1">"瀏覽模式: "</string>
+    <string name="info_white_balance" description="file info textview context" maxwidth="-1">"白平衡: "</string>
+    <string name="flash_on" description="string indicating camera flash is fired" maxwidth="-1">使用閃光燈</string>
+    <string name="flash_off" description="string indicating camera flash is not used" maxwidth="-1">未使用閃光燈</string>
+    <string name="unit_mm" description="string indicating the length units in milli-meters" maxwidth="-1">釐米</string>
+    <string name="manual" description="string indicating how camera shooting feature is used" maxwidth="-1">手動</string>
+    <string name="auto" description="string indicating how camera shooting feature is used" maxwidth="-1">自動</string>
+    <!-- Guoliang_Lin, 2012/03/20, UI required, new feature -->
+    <string name="wait">"請稍候..."</string>
+    <!-- Johnson Chen, 2012/04/13, UI required, new feature -->
+    <string name="select_album">選取相簿</string>
+    <string name="select_photo">選取相片</string>
+    <string name="back_button_label" description="button text." maxwidth="-1">返回</string>
+    <!-- Willie Huang, 2012/05/18, UI required, new feature -->
+    <string name="action_apply_selected_file" description="View title of custom action bar, apply to multiple selected files" maxwidth="-1">應用</string>
+    <!-- Willie Huang, 2013/01/03, UI required, new feature -->
+    <string name="loading" description="text for progress bar" maxwidth="-1">"載入中..."</string>
+    <string name="version" description="version" maxwidth="-1">版本</string>
+    <string name="title" description="title" maxwidth="-1">法律資訊:</string>
+    <string name="content" description="content" maxwidth="-1">本軟體的使用受到華碩網站上條款及條件的限制. \nhttp://www.asus.com</string>
+    <string name="action_share" description="cutstom action bar view title for sharing" maxwidth="-1">"分享"</string>
+    <!-- Johnson Chen, 2012/05/18, UI required, new feature-->
+    <string name="photo_selection_limit_number_toast" description="Toast: You may not select more than %s photos." maxwidth="-1">選擇最多%s張照片</string>
+    <!-- Alex6 Lin, -->
+    <string name="action_sort_by" description="String for asking for the rule of sorting" maxwidth="-1">排序依據</string>
+    <plurals name="number_selected_items">
+        <item quantity="one">已選%d個</item>
+        <item quantity="other">已選%d個</item>
+    </plurals>
+    <string name="info_type" description="file info textview context" maxwidth="-1">類型:</string>
+    <string name="type_document" description="document type" maxwidth="-1">"文件"</string>
+    <string name="type_audio" description="document type" maxwidth="-1">"音訊"</string>
+    <string name="type_video" description="document type" maxwidth="-1">"影片"</string>
+    <string name="type_playlist" description="document type" maxwidth="-1">"播放清單"</string>
+    <string name="type_image" description="document type" maxwidth="-1">"影像"</string>
+    <string name="type_book" description="document type" maxwidth="-1">"電子書"</string>
+    <string name="type_zip" description="document type" maxwidth="-1">"壓縮檔"</string>
+    <string name="type_apk" description="document type" maxwidth="-1">"Android 應用程式"</string>
+    <string name="type_abu" description="document type" maxwidth="-1">"Asus 應用程式備份"</string>
+    <string name="type_file" description="document type" maxwidth="-1">"檔案"</string>
+    <string name="type_directory" description="document type" maxwidth="-1">"目錄"</string>
+    <string name="search_action">"搜尋"</string>
+    <string name="fileList_Nofiles">無檔案</string>
+    <!-- Johnson Chen, 2012/05/18, UI required, new feature-->
+    <string name="wifidirect_available_devices" description="Available devices" maxwidth="-1">可用裝置</string>
+    <string name="wifidirect_connect_hint_title" description="Dialog title text: Invitation to connect" maxwidth="-1">邀請連線</string>
+    <string name="wifidirect_connect_hint" description="Do you want to connect to device" maxwidth="-1">您是否要連線至</string>
+    <string name="wifidirect_connecting_hint_title" description="Dialog title text: Wi-Fi Direct connecting" maxwidth="-1">Wi-Fi Direct 連線中...</string>
+    <string name="wifidirect_disconnect_hint" description=">Do you want to disconnect" maxwidth="-1">您是否要中斷與下列的連線:</string>
+    <string name="shared_folder" description="Context Menu: options of context menu: share folder via Wi-Fi Direct" maxwidth="">透過 Wi-Fi Direct 共用</string>
+    <string name="unshared_folder" description="Context Menu: options of context menu: unshare folder" maxwidth="-1">不共用</string>
+    <string name="remote_storage_title" description="remote storage label" maxwidth="-1">遠端儲存裝置</string>
+    <string name="remote_connected_error_hint" description="network is unavailable, please try again" maxwidth="-1">網路無法使用，請稍候再試。</string>
+    <string name="wifidirect_peer_device_title" description="peer devices title" maxwidth="-1">對等裝置</string>
+    <string name="wifidirect_scanning" description="searching" maxwidth="-1">搜尋中...</string>
+    <string name="wifidirect_touch_to_connect" description="click to connect" maxwidth="-1">按一下進行連線</string>
+    <string name="wifidirect_connectted" description="connectted" maxwidth="-1">已連線</string>
+    <string name="wifidirect_action_bar_scan" description="search" maxwidth="-1">搜尋</string>
+    <string name="wifidirect_storage_title" description="Search Wi-Fi Direct device" maxwidth="-1">搜尋 Wi-Fi Direct 裝置</string>
+    <string name="wifidirect_peer_device_info" description="peer devices infomation" maxwidth="-1">若要接收 Wi-Fi Direct 邀請，請確保您的連線裝置在保持在檔案管理員的「對等裝置」頁面中。</string>
+    <string name="wifidirect_disconnect_hint_title" description="Disconnect Wi-Fi Direct" maxwidth="-1">中斷 Wi-Fi Direct</string>
+    <string name="wifi_p2p_turn_on_wifi_title" description="title for turn on WiFi dialog" width="-1">開啟 Wi-Fi</string>
+    <string name="wifi_p2p_turn_on_wifi_msg" description="message for request to turn on Wi-Fi" width="-1">開啟 Wi-Fi 可使用 Wi-Fi Direct 服務。 是否現在開啟 Wi-Fi？</string>
+    <!-- Johnson Chen, 2013/03/22, UI required, new feature-->
+    <string name="cloud_storage_title" description="Add more cloud storage" maxwidth="-1">添加更多雲儲存</string>
+    <string name="add_cloud_storage_dialog_title" description="Dialog title: Add cloud storage" maxwidth="-1">新增雲端儲存空間</string>
+    <string name="cloud_storage_remove_hint" description=">Do you want to remove" maxwidth="-1">"確定要登出「%s」帳戶？"</string>
+    <string name="cloud_storage_remove_hint_title" description="Dialog title: Remove cloud storage" maxwidth="-1">註銷</string>
+    <string name="add_progress" description="Progress Content: text in progress dialog" maxwidth="">正在創建...</string>
+    <string name="logging_cloud_storage" description="Progress Content: text in progress dialog" maxwidth="">正在登錄...</string>
+    <string name="wifi_p2p_connection_msg" description="message for request to connect Network" width="-1">請建立網路連接以使用雲服務。</string>
+    <string name="wifi_p2p_connection_title" description="title for request to connect Network" width="-1">建立網路連接</string>
+    <string name="logout_account" description="logout account" width="-1">註銷</string>
+    <string name="renaming_file" description="renaming file" width="-1">重命名</string>
+    <string name="rename_success" description="Toast: rename success" maxwidth="-1">重命名檔成功。</string>
+    <string name="login_fail" description="Toast: login account fail" width="-1">登錄失敗</string>
+    <string name="starred" description="shortcut title: my favorite files" width="-1">"加入最愛"</string>
+    <string name="recently_used" description="shortcut title: recently used files" width="-1">最近</string>
+    <string name="trash_can" description="shortcut title: trash can" width="-1">"垃圾桶"</string>
+    <!-- Settings Page -->
+    <string name="menu_general_preferences" description="The title of a menu for General Preferences.Pressing the menu item lets user to view and edit his general settings" maxwidth="30">"一般設定"</string>
+    <string name="preferences_title" description="This is the title of the screen for setting user preferences." maxwidth="-1">"設定"</string>
+    <string name="settings_space_used" description="This is the title of space used for setting user preferences." maxwidth="-1">"已用空間"</string>
+    <string name="settings_clear_search_history" description="This is the title of clearing search history action for setting user preferences." maxwidth="-1">"清除搜尋記錄"</string>
+    <string name="settings_hide_system_files" description="This is the title of hiding system files action for setting user preferences." maxwidth="-1">"隱藏系統檔案"</string>
+    <string name="settings_trash_can" description="This is the title of trash can information for setting user preferences." maxwidth="-1">"垃圾桶"</string>
+    <string name="settings_moved_to_the_trash_can" description="This is the title of moving to the trash can." maxwidth="-1">"已移至垃圾桶"</string>
+    <string name="settings_user_name" description="This is the title of user name" maxwidth="-1">"使用者名稱"</string>
+    <string name="settings_documents_cache" description="This is the title of documents cache" maxwidth="-1">"文件快取"</string>
+    <string name="settings_cache_size_title" description="This is the title of cache size" maxwidth="-1">"快取大小"</string>
+    <string name="settings_set_cache_size" description="Set the cache size to %s" maxwidth="-1">"快取大小已設為「%s」"</string>
+    <string name="settings_clear_cache_title" description="Clear the cache" maxwidth="-1">"清除快取"</string>
+    <string name="settings_clear_cache_info" description="Remove all cache documents" maxwidth="-1">"移除所有快取文件"</string>
+    <string name="settings_remove_account" description="Remove account" maxwidth="-1">"移除帳戶"</string>
+    <string name="drawer_open">"開啟滑動選單"</string>
+    <string name="drawer_close">"關閉滑動選單"</string>
+    <!-- begin add new server -->
+    <string name="samba_storage_title">"SAMBA"</string>
+    <string name="samba_storage_add_title">"網路位置"</string>
+    <string name="server_title">伺服器</string>
+    <string name="domain">"網域："</string>
+    <string name="domain_hint">"可以清空"</string>
+    <string name="server">"伺服器："</string>
+    <string name="server_hint">"172.0.0.1/ShareFolder"</string>
+    <string name="example">"範例："</string>
+    <string name="user">帳戶</string>
+    <string name="user_hint">管理員</string>
+    <string name="password">密碼</string>
+    <string name="display">"顯示為"</string>
+    <string name="display_hint">"我的電腦，可以清空"</string>
+    <string name="samba_input_error">用戶名稱或密碼不能為空!</string>
+    <string name="samba_client_config_check" description="account config dialog remind message" maxwidth="-1">儲存帳戶密碼，下次直接連線</string>
+    <string name="pullfreshlistview_header_hint_normal">下拉刷新</string>
+    <string name="pullfreshlistview_header_hint_ready">釋放刷新</string>
+    <string name="pullfreshlistview_header_hint_loading">正在加載...</string>
+    <string name="pullfreshlistview_header_last_time">上次刷新時間：</string>
+    <string name="pullfreshlistview_footer_hint_normal">查看更多</string>
+    <string name="pullfreshlistview_footer_hint_ready">鬆開載入更多</string>
+    <string name="cloud_preview_action_fail" description="Toast: cloud preview action" maxwidth="-1">預覽雲檔案失敗。</string>
+    <string name="cloud_share_action_fail" description="Toast: cloud share action" maxwidth="-1">分享雲檔案失敗。</string>
+    <string name="cloud_paste_backgroud" description="diaglog cloud background paste">背景執行</string>
+    <string name="cloud_paste_uploading" description="diaglog cloud  paste uploading">上傳檔案</string>
+    <string name="cloud_paste_downloading" description="diaglog cloud  paste">下載檔案</string>
+    <string name="cloud_paste_total" description="diaglog cloud  total">總計</string>
+    <string name="cloud_paste_current" description="diaglog cloud  current">當前</string>
+    <string name="cloud_paste_copying" description="diaglog cloud  now is copy files">正在複製...</string>
+    <string name="cloud_paste_deleting" description="diaglog cloud  now is delete source files">正在刪除原始檔案...</string>
+    <string name="cloud_token_invalidate" description="diaglog cloud  token is invalidate">權杖無效，請重新登錄!</string>
+    <string name="cloud_homebox_status_offline" description="home cloud device is offline">設備處於離線狀態</string>
+    <string name="cloud_homebox_status__info_offline" description="home cloud device is offline">離線</string>
+    <string name="cloud_homebox_status__info_online" description="home cloud device is online">線上</string>
+    <string name="cloud_homebox_status__info_Sleep" description="home cloud device is sleep">睡眠</string>
+    <string name="cloud_homebox_no_available_devices" description="home cloud has no available devices">無HomeCloud設備</string>
+    <string name="cloud_homebox_get_devices_fail" description="home cloud get available devices fail">獲取HomeCloud設備失敗</string>
+<!--  <string name="cloud_paste_string_format"  description="diaglog cloud  paste string format" maxwidth="-1">%d / %d</string>-->
+    <string name="storage_type_cloud">雲端儲存空間</string>
+    <string name="storage_type_local">本地儲存空間</string>
+    <string name="storagetype_add_account">新增Google帳戶</string>
+    <string name="network_cta_hint">請允許網路連線</string>
+ <string name="action_refresh_cloudfile">刷新</string>
+ <string name="baidu_storage_title">"百度云"</string>
+ <string name="dialog_load_stream_url_info">由伺服器取得訊息中</string>
+ <string name="paste_progress_title">其他複製任務正在執行中...</string>
+ <string name="single_drm_file_forbidden_operation">由於此為DRM保護檔案，無法進行此操作。</string>
+ <string name="multi_drm_file_forbidden_operation">由於所選之中存在DRM保護檔案，無法進行此操作。</string>
+ <string name="samba_login_error">您輸入的用戶名或密碼錯誤。</string>
+     <string name="action_search" description="cutstom action bar view title for search" maxwidth="">搜尋</string>
+ <string name="cloud_upload_flie_limit_space" description="Toast: The size is over the limit and cannot be uploaded" maxwidth="-1">此檔案大小超過你允許的單檔上傳限制</string>
+ <string name="cloud_download_flie_limit_space" description="Toast: The size is over the limit and cannot be uploaded" maxwidth="-1">此檔案大小超過你允許的單檔下載限制</string>
+ <string name="invalid_account" description="Toast: the account is invalid" maxwidth="-1">無效的帳戶</string>
+ <string name="homecloud_access_error" description="Can’t connect to HomeCloud." maxwidth="-1">無法連線至HomeCloud，請確認HomeCloud伺服器已正常連線</string>
+ <string name="cloud_flie_name_not_supported" description="Toast: The name of the file uploaded is not supported by cloud server" maxwidth="-1">因为档案名稱雲端伺服器不支援，操作失败</string>
+ <string name="action_cancel" description="action cancel" maxwidth="-1">取消</string>
+ <string name="action_add" description="action add files" maxwidth="-1">新增</string>
+ <string name="no_share_folder">這台設備沒有設置分享檔案</string>
+ <string name="edit_toast_special_char">不可使用特殊字元</string>
+ <string name="delete_one_directory" description="Dialog Content: text in dialog" maxwidth="">您確定要刪除這個資料夾嗎？</string>
+ <string name="type_dialog_title">開啟</string>
+ <string name="type_dialog_text">文件</string>
+ <string name="type_dialog_image">圖片</string>
+ <string name="type_dialog_audio">音樂</string>
+ <string name="type_dialog_video">影片</string>
+ <string name="target_directory_is_child_of_source">目標資料夾是源資料夾的子資料夾，操作無法完成。</string>
+ <string name="edit_toast_name_too_long">已達字元數上限</string>
+ <string name="settings_description">"本機資料夾和檔案"</string>
+ <string name="clear_account_info">清除所有帳號</string>
+ <string name="type_rar" description="document type" maxwidth="-1">"RAR"</string>
+ <string name="set_ring">"設成鈴聲"</string>
+    <string name="action_zip" description="cutstom action bar view title for zip" maxwidth="">壓縮</string>
+    <string name="signout_account" description="signout account" width="-1">斷線</string>
+    <string name="cloud_storage_sign_out" description=">Do you want to signout" maxwidth="-1">確認斷線「%s」 ？</string>
+    <string name="cloud_storage_sign_out_title" description="Dialog title: Signout cloud storage" maxwidth="-1">斷線</string>
+    <string name="cloud_storage_sign_in" description=">Do you want to signin" maxwidth="-1">任選下列任一帳號連結：</string>
+    <string name="cloud_storage_sign_in_title" description="Dialog title: Signin cloud storage" maxwidth="-1">連線 %s</string>
+    <!-- start add for CTA check  -->
+    <string name="cta_dialog_title">使用網路</string>
+    <string name="cta_dialog_content"><b>檔案管理員</b>嘗試使用網路，使用網路可能會收取其他費用，詳細收費方式取決於您的網路計費方式，要避免流量耗費，請在完成後禁用網路。</string>
+    <string name="cta_check_title">記住此選擇</string>
+    <string name="cta_agree">允許</string>
+    <string name="cta_disagree">拒絕</string>
+    <string name="cta_show_menu">網路使用授權</string>
+    <!-- end add for CTA check  -->
+    <string name="move_to">移動至</string>
+    <string name="copy_to">複製至</string>
+    <string name="category_title_category">類別</string>
+    <string name="category_title_local_storage">本機儲存裝置</string>
+    <string name="category_image">影像</string>
+    <string name="category_music">音樂</string>
+    <string name="category_video">影片</string>
+    <string name="category_apk">應用程式</string>
+    <string name="category_download">下載</string>
+    <string name="category_favorite">我的最愛</string>
+    <string name="category_count">"%s"</string>
+    <string name="open">開啟</string>
+    <string name="add_favorite">新增至我的最愛</string>
+    <string name="remove_favorite">從我的最愛移除</string>
+    <string name="add_favorite_success">儲存至我的最愛</string>
+    <string name="rename_favorite_folder">將我的最愛資料夾重新命名</string>
+    <string name="rename_favorite_success">重新命名成功，儲存至我的最愛</string>
+    <string name="rename_favorite_notice">我的最愛資料夾中已有相同名字的資料夾。是否要重新命名？</string>
+    <string name="remove_favorite_notice_one">確定要將「%s」從我的最愛資料夾中移除？</string>
+    <string name="remove_favorite_notice_more">確定要將這 %d 個項目從我的最愛資料夾中移除？</string>
+    <string name="remove_favorite_success">移除成功</string>
+    <string name="tutorial_skip">略過</string>
+    <string name="tutorial_done">完成</string>
+    <string name="tutorial_page_one_title">華碩檔案管理員</string>
+    <string name="tutorial_page_one_content">華碩檔案管理員提供您輕鬆管理儲存在內部、外部、區域網路或雲端儲存空間裡的檔案。</string>
+    <string name="tutorial_page_two_title">首頁</string>
+    <string name="tutorial_page_two_content">簡單易懂的使用分類讓您在本地儲存空間裡快速找到檔案。</string>
+    <string name="tutorial_page_three_title">滑動顯示功能選單</string>
+    <string name="tutorial_page_three_content">點選項目以進行如 新增到我的最愛、重新命名、移動到、複製到 與其他檔案管理動作。</string>
+    <string name="tutorial_page_four_title">我的最愛</string>
+    <string name="tutorial_page_four_content">將常用資料夾設為我的最愛以提供快速存取。</string>
+    <string name="saf_permission_tutorial_title">需要存取 SD卡</string>
+    <string name="saf_permission_tutorial_content">華碩檔案管理員請求存取SD卡，您要授權允許嗎？</string>
+    <string name="saf_tutorial_step_one">選擇 選單 圖示後,點選 顯示SD卡。</string>
+    <string name="saf_tutorial_step_two">點選左上角開啟儲存空間選單後，選擇SD卡。</string>
+    <string name="saf_tutorial_step_three">點選 選擇SD卡 允許存取至華碩檔案管理員。</string>
+    <string name="device_root_path">根目錄</string>
+    <string name="tap_to_exit">再輕按一次即可退出</string>
+    <string name="info_path" description="file info textview context" maxwidth="-1">"路徑: "</string>
+    <string name="recruit_beta_user" description="recruit beta user" maxwidth="-1">搶先體驗</string>
+    <string name="rate_us" description="rate us" maxwidth="-1">鼓勵我們</string>
+    <string name="scroll_up_toast" description="rate now" maxwidth="">請滑到下方為我們評分</string>
+    <string name="settings_encourage_us_detail" description="recommend text" maxwidth="">如果您喜歡使用%s，請在Play Store給我們五顆星的評價，這對我們持續改進產品上，會是很大的鼓勵！</string>
+    <string name="yes">是</string>
+    <string name="menu_tutorial" description="settings menu tutorial" maxwidth="-1">使用說明</string>
+    <string name="about">關於</string>
+    <string name="version_text">版本</string>
+    <string name="tell_friend" description="" maxwidth="">推薦給好友</string>
+    <string name="toolbar_item_title_encourage_us" maxwidth="35">鼓勵我們</string>
+    <string name="zenui_update">ZenUI 應用程式更新</string>
+    <string name="whats_new_label">新功能</string>
+    <string name="next">繼續</string>
+    <string name="invite_friends" description="sticker detail page button name" maxwidth="-1">邀請好友</string>
+    <string name="news_mark1" maxwidth="">"★  "</string>
+</resources>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="alarm_set">
+        <item msgid="6450913786084215050">"Час до активації цього сигналу: менше 1 хв."</item>
+        <item msgid="6002066367368421848">"Час до активації цього сигналу: <ns1:g id="DAYS">%1$s</ns1:g>."</item>
+        <item msgid="8824719306247973774">"Час до активації цього сигналу: <ns1:g id="HOURS">%2$s</ns1:g>."</item>
+        <item msgid="8182406852935468862">"Час до активації цього сигналу: <ns1:g id="DAYS">%1$s</ns1:g> і <ns1:g id="HOURS">%2$s</ns1:g>."</item>
+        <item msgid="2532279224777213194">"Час до активації цього сигналу: <ns1:g id="MINUTES">%3$s</ns1:g>."</item>
+        <item msgid="5936557894247187717">"Час до активації цього сигналу: <ns1:g id="DAYS">%1$s</ns1:g> і <ns1:g id="MINUTES">%3$s</ns1:g>."</item>
+        <item msgid="9115697840826129603">"Час до активації цього сигналу: <ns1:g id="HOURS">%2$s</ns1:g> і <ns1:g id="MINUTES">%3$s</ns1:g>."</item>
+        <item msgid="2332583385137381060">"Час до активації цього сигналу: <ns1:g id="DAYS">%1$s</ns1:g>, <ns1:g id="HOURS">%2$s</ns1:g> і <ns1:g id="MINUTES">%3$s</ns1:g>."</item>
+    </string-array>
+    <string name="asus_commonui_activity_chooser_view_see_all">"Переглянути всі"</string>
+    <string name="asus_commonui_activity_resolver_use_always">"Завжди"</string>
+    <string name="asus_commonui_activity_resolver_use_once">"Лише цього разу"</string>
+    <string name="asus_commonui_activitychooserview_choose_application">"Вибрати програму"</string>
+    <string name="asus_commonui_activitychooserview_choose_application_error">
+        "Не вдалося запустити програму <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string name="asus_commonui_cancel_label">"Скасувати"</string>
+    <string name="asus_commonui_chooseActivity">"Виберіть дію"</string>
+    <string msgid="3968620852217927702" name="asus_commonui_day_picker_description">"Дні місяця – ескізи"</string>
+    <string msgid="6908431551612331381" name="asus_commonui_deleted_key">"<ns1:g id="KEY">%1$s</ns1:g> видалено"</string>
+    <string name="asus_commonui_done_label">"OK"</string>
+    <string msgid="7586639618712934060" name="asus_commonui_hour_picker_description">"Вибір годин на циферблаті"</string>
+    <string msgid="2674929164900463786" name="asus_commonui_item_is_selected">"Вибрано: <ns1:g id="ITEM">%1$s</ns1:g>"</string>
+    <string msgid="6024811202872705251" name="asus_commonui_minute_picker_description">"Вибір хвилин на циферблаті"</string>
+    <string name="asus_commonui_noApplications">"Жодна програма не може виконати цю дію."</string>
+    <string name="asus_commonui_no_url_handler">Не знайдено програму, яка може відкрити цю URL-адресу</string>
+    <string name="asus_commonui_privacy_policy">Політика конфіденційності</string>
+    <string name="asus_commonui_privacy_policy_url">http://www.asus.com/UA/Terms_of_Use_Notice_Privacy_Policy/Privacy_Policy</string>
+    <string msgid="3973338219107019769" name="asus_commonui_select_day">"Виберіть місяць і день"</string>
+    <string msgid="7651068754188418859" name="asus_commonui_select_hours">"Вибрати години"</string>
+    <string msgid="8327182090226828481" name="asus_commonui_select_minutes">"Вибрати хвилини"</string>
+    <string msgid="2603330600102539372" name="asus_commonui_select_year">"Виберіть рік"</string>
+    <string name="asus_commonui_shareactionprovider_share_with">Надіслати через</string>
+    <string name="asus_commonui_shareactionprovider_share_with_application">
+        "Надіслати через <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string name="asus_commonui_terms_of_use_notice">Повідомлення про умови використання</string>
+    <string name="asus_commonui_terms_of_use_notice_url">http://www.asus.com/UA/Terms_of_Use_Notice_Privacy_Policy/Official_Site/</string>
+    <string name="asus_commonui_whichApplication">"Завершити дію за доп."</string>
+    <string name="asus_commonui_whichHomeApplication">"Виберіть програму"</string>
+    <string msgid="6963340404644587098" name="asus_commonui_year_picker_description">"Роки – список"</string>
+    <string msgid="7984755014526510295" name="day">"1 дн."</string>
+    <string msgid="2070509222727852210" name="days">"<ns1:g id="DAYS">%s</ns1:g> дн."</string>
+    <string msgid="2546819039651509323" name="hour">"1 год."</string>
+    <string msgid="2071487018566991613" name="hours">"<ns1:g id="HOURS">%s</ns1:g> год."</string>
+    <string msgid="2486157997434653710" name="minute">"1 хв."</string>
+    <string msgid="6115838729146292526" name="minutes">"<ns1:g id="MINUTES">%s</ns1:g> хв."</string>
+</resources>

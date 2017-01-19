@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Sylvia Cheng, 2016/03/22, Setting page -->
+    <string name="action_settings" description="menu title for setting" maxwidth="-1">"Instellingen"</string>
+    <string name="setting_view_group">"Weergave-instelling"</string>
+    <string name="setting_view_hide_files">"Systeembestanden verbergen"</string>
+    <string name="setting_notification_group">"Melding"</string>
+    <string name="setting_notification_large_files">"Melding groot bestand"</string>
+    <string name="setting_notification_recent_files">"Melding recente bestanden"</string>
+    <string name="setting_notification_wireless_transfer">"Melding draadloze overdracht"</string>
+    <string name="setting_display_group">"Display"</string>
+    <string name="tools_storage_analyzer">"Opslaganalyse"</string>
+    <string name="tools_zenui_instant_update">"Onmiddellijk updaten"</string>
+    <string name="category_others">"Overige"</string>
+    <string name="large_files_content_hint">"Grote bestanden zoeken en verwijderen met uw toestemming."</string>
+    <string name="recent_files_content_hint">"Recente bestanden zoeken en verwijderen met uw toestemming."</string>
+    <string name="fragment_analyzer_more_hint">"Meer"</string>
+    <string name="fragment_analyzer_chart_total_hint">"Totaal:"</string>
+    <string name="fragment_analyzer_chart_free_hint">"Vrij:"</string>
+    <string name="fragment_analyzer_chart_used_hint">"GEBRUIKT"</string>
+    <string name="fragment_analyzer_allfiles_used_hint">"Gebruikt:"</string>
+    <string name="news_v31" maxwidth="">"Met opslaganalyse weet u welk type bestanden de volledige opslagruimte in beslag nemen"</string>
+    <string name="news_v32" maxwidth="">"Categorie verbeterde app"</string>
+</resources>

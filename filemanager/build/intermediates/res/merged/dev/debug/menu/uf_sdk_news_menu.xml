@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/uf_sdk_zenui_apps_item"
+        android:title="@string/uf_sdk_feedback_and_help"/>
+
+    <item android:id="@+id/uf_sdk_feedback_and_help_item"
+        android:title="@string/uf_sdk_feedback_and_help"/>
+
+    <item android:id="@+id/uf_sdk_about_item"
+        android:title="@string/uf_sdk_feedback_and_help"/>
+
+</menu>

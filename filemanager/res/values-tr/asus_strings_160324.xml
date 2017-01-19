@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Sylvia Cheng, 2016/03/22, Setting page -->
+    <string name="action_settings" description="menu title for setting" maxwidth="-1">"Ayarlar"</string>
+    <string name="setting_view_group">"Ayarları görüntüle"</string>
+    <string name="setting_view_hide_files">"Sistem dosyalarını sakla"</string>
+    <string name="setting_notification_group">"Bildirim"</string>
+    <string name="setting_notification_large_files">"Büyük dosya bildirimi"</string>
+    <string name="setting_notification_recent_files">"Son dosyaların bildirimi"</string>
+    <string name="setting_notification_wireless_transfer">"Kablosuz aktarım bildirimi"</string>
+    <string name="setting_display_group">"Görüntüle"</string>
+    <string name="tools_storage_analyzer">"Depoloma analiz aracı"</string>
+    <string name="tools_zenui_instant_update">"Hızlı güncelle"</string>
+    <string name="category_others">"Diğerleri"</string>
+    <string name="large_files_content_hint">"Büyük dosyaları bulur ve izin verdiğinizde siler."</string>
+    <string name="recent_files_content_hint">"Yeni dosyaları bulur ve izin verdiğinizde siler."</string>
+    <string name="fragment_analyzer_more_hint">"daha fazla"</string>
+    <string name="fragment_analyzer_chart_total_hint">"Toplam:"</string>
+    <string name="fragment_analyzer_chart_free_hint">"Boş:"</string>
+    <string name="fragment_analyzer_chart_used_hint">"KULLANILAN"</string>
+    <string name="fragment_analyzer_allfiles_used_hint">"Kullanılan:"</string>
+    <string name="news_v31" maxwidth="">"Depolama analiz aracı tüm depolama alanını kaplayan dosya türerini bilmenizi sağlar"</string>
+    <string name="news_v32" maxwidth="">"Yeni zenginleştirilmiş uygulama kategorisi"</string>
+</resources>

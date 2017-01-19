@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Sylvia Cheng, 2016/03/22, Setting page -->
+    <string name="action_settings" description="menu title for setting" maxwidth="-1">"Pengaturan"</string>
+    <string name="setting_view_group">"Lihat pengaturan"</string>
+    <string name="setting_view_hide_files">"Sembunyikan file sistem"</string>
+    <string name="setting_notification_group">"Pemberitahuan"</string>
+    <string name="setting_notification_large_files">"Pemberitahuan file ukuran besar"</string>
+    <string name="setting_notification_recent_files">"Pemberitahuan file terbaru"</string>
+    <string name="setting_notification_wireless_transfer">"Pemberitahuan transfer nirkabel"</string>
+    <string name="setting_display_group">"Tampilan"</string>
+    <string name="tools_storage_analyzer">"Penganalisis penyimpanan"</string>
+    <string name="tools_zenui_instant_update">"Pembaruan seketika"</string>
+    <string name="category_others">"Lainnya"</string>
+    <string name="large_files_content_hint">"Temukan file berukuran besar lalu hapus dengan izin Anda."</string>
+    <string name="recent_files_content_hint">"Temukan file terbaru lalu hapus dengan izin Anda."</string>
+    <string name="fragment_analyzer_more_hint">"lainnya"</string>
+    <string name="fragment_analyzer_chart_total_hint">"Total:"</string>
+    <string name="fragment_analyzer_chart_free_hint">"Bebas:"</string>
+    <string name="fragment_analyzer_chart_used_hint">"TERPAKAI"</string>
+    <string name="fragment_analyzer_allfiles_used_hint">"Terpakai:"</string>
+    <string name="news_v31" maxwidth="">"Penganalisis penyimpanan memungkinkan Anda mengetahui jenis file yang mengisi semua ruang penyimpanan"</string>
+    <string name="news_v32" maxwidth="">"Kategori aplikasi baru ditingkatkan"</string>
+</resources>

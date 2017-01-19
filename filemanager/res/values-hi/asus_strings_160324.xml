@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Sylvia Cheng, 2016/03/22, Setting page -->
+    <string name="action_settings" description="menu title for setting" maxwidth="-1">"सेटिंग्स"</string>
+    <string name="setting_view_group">"दृश्य सेटिंग"</string>
+    <string name="setting_view_hide_files">"सिस्टम फ़ाइलें छिपाएँ"</string>
+    <string name="setting_notification_group">"अधिसूचना"</string>
+    <string name="setting_notification_large_files">"बड़ी फ़ाइल की अधिसूचना"</string>
+    <string name="setting_notification_recent_files">"हाल की फ़ाइलों की अधिसूचना"</string>
+    <string name="setting_notification_wireless_transfer">"वायरलेस स्थानांतरण की अधिसूचना"</string>
+    <string name="setting_display_group">"प्रदर्शन"</string>
+    <string name="tools_storage_analyzer">"संग्रह विश्लेषक"</string>
+    <string name="tools_zenui_instant_update">"त्वरित अद्यतन"</string>
+    <string name="category_others">"अन्य"</string>
+    <string name="large_files_content_hint">"बड़ी फ़ाइलें खोजें और उन्हें अपनी अनुमति से हटाएँ।"</string>
+    <string name="recent_files_content_hint">"हाल की फ़ाइलें खोजें और उन्हें अपनी अनुमति से हटाएँ।"</string>
+    <string name="fragment_analyzer_more_hint">"और अधिक"</string>
+    <string name="fragment_analyzer_chart_total_hint">"कुल:"</string>
+    <string name="fragment_analyzer_chart_free_hint">"रिक्त:"</string>
+    <string name="fragment_analyzer_chart_used_hint">"प्रयुक्त"</string>
+    <string name="fragment_analyzer_allfiles_used_hint">"प्रयुक्त:"</string>
+    <string name="news_v31" maxwidth="">"संग्रह विश्लेषक आपको उन फ़ाइलों का प्रकार बताता है जिन्होंने सारी जगह घेर रखी है"</string>
+    <string name="news_v32" maxwidth="">"नव-प्रवर्धित ऐप श्रेणी"</string>
+</resources>

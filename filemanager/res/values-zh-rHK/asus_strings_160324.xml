@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Sylvia Cheng, 2016/03/22, Setting page -->
+    <string name="action_settings" description="menu title for setting" maxwidth="-1">"設定"</string>
+    <string name="setting_view_group">"觀看設定"</string>
+    <string name="setting_view_hide_files">"隱藏系統檔案"</string>
+    <string name="setting_notification_group">"通知"</string>
+    <string name="setting_notification_large_files">"大型檔案通知"</string>
+    <string name="setting_notification_recent_files">"最新新增檔案通知"</string>
+    <string name="setting_notification_wireless_transfer">"無線傳輸通知"</string>
+    <string name="setting_display_group">"顯示"</string>
+    <string name="tools_storage_analyzer">"儲存空間分析"</string>
+    <string name="tools_zenui_instant_update">"即時更新"</string>
+    <string name="category_others">"其他"</string>
+    <string name="large_files_content_hint">"找出大型檔案，然後您可以再確認一下這些檔案是否需要刪除。"</string>
+    <string name="recent_files_content_hint">"找出最近新增的檔案，然後您可以再確認一下這些檔案是否需要刪除。"</string>
+    <string name="fragment_analyzer_more_hint">"詳細資料"</string>
+    <string name="fragment_analyzer_chart_total_hint">"總共："</string>
+    <string name="fragment_analyzer_chart_free_hint">"剩餘："</string>
+    <string name="fragment_analyzer_chart_used_hint">"已使用"</string>
+    <string name="fragment_analyzer_allfiles_used_hint">"已使用："</string>
+    <string name="news_v31" maxwidth="">"儲存空間分析讓您知道什麼檔案或資料夾佔了最多的空間"</string>
+    <string name="news_v32" maxwidth="">"全新安裝套件類別"</string>
+</resources>

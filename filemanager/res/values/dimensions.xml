@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <!--  FileManager define -->
+    <!--depend on layout, add 6 padding -->
+    <!-- category_image_height - 3*category_image_count_height/4 -->
+
+    <dimen name="action_bar_default_height">48dip</dimen>
+
+    <dimen name="actionbar_height">48dp</dimen>
+    <dimen name="actionbar_text_marginleft">0dp</dimen>
+    <dimen name="actionbar_title_size">23dp</dimen>
+    <dimen name="actionbar_title_size_drawer">30dp</dimen>
+
+    <dimen name="activity_filemanager_invite_button_margin">15dp</dimen>
+    <dimen name="activity_filemanager_invite_layout_margintop">36dp</dimen>
+    <dimen name="activity_filemanager_invite_qrcode_size">128dp</dimen>
+    <dimen name="activity_filemanager_invite_text_button_margin">20dp</dimen>
+    <dimen name="activity_filemanager_invite_text_margin">15dp</dimen>
+    <dimen name="activity_filemanager_invite_text_size">18sp</dimen>
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_httpserver_description_height">100dp</dimen>
+    <dimen name="activity_httpserver_upperfield_height">200dp</dimen>
+    <dimen name="activity_storage_analyzer_margin">10dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="add_google_account_marginleft">35dp</dimen>
+
+    <dimen name="airview_image_height">216dp</dimen>
+    <dimen name="airview_image_width">323dp</dimen>
+    <dimen name="airview_xmargin_land_left">80dp</dimen>
+    <dimen name="airview_xmargin_left">40dp</dimen>
+    <dimen name="airview_xoffset">14dp</dimen>
+    <dimen name="airview_yoffset">23dp</dimen>
+    <dimen name="airview_yoffset_padding">5dp</dimen>
+
+    <dimen name="analyser_allfiles_list_item_percentage_padding_left">10dp</dimen>
+
+    <dimen name="app_title_size">30dp</dimen>
+
+    <dimen name="asus_mainpage_round_button_radius">34dp</dimen>
+    <dimen name="asus_settings_notification_min_width">196dp</dimen>
+    <dimen name="asus_settings_notification_padding_left">16dp</dimen>
+    <dimen name="asus_settings_notification_padding_right">16dp</dimen>
+
+    <dimen name="btn_pathBback_marginLeft">11dp</dimen>
+    <dimen name="btn_pathBback_marginRight">9dp</dimen>
+
+    
+    <dimen name="device_list_height">75dp</dimen>
+
+    <dimen name="dialog_layout_margin_bottom">0dip</dimen>
+    <dimen name="dialog_layout_spacing_bottom">6dip</dimen>
+    <dimen name="dialog_layout_spacing_left">16dip</dimen>
+    <dimen name="dialog_layout_spacing_right">16dip</dimen>
+    <dimen name="dialog_layout_spacing_top">12dip</dimen>
+
+    <dimen name="divide_limitid">20dip</dimen>
+
+    <dimen name="dividerHeight">1dp</dimen>
+
+    <dimen name="drag_items_hint_count_x_margin">28dip</dimen>
+    <dimen name="drag_items_hint_count_y_margin">43dip</dimen>
+    <dimen name="drag_items_hint_icon_height">35dip</dimen>
+    <dimen name="drag_items_hint_icon_width">34dip</dimen>
+    <dimen name="drag_items_hint_icon_x_margin">18dip</dimen>
+    <dimen name="drag_items_hint_icon_y_margin">18dip</dimen>
+    <dimen name="drag_items_hint_message_y_margin">40dip</dimen>
+    <dimen name="drag_items_shadow_height">74dip</dimen>
+
+    <dimen name="dragging_left_bound">90dip</dimen>
+    <dimen name="dragging_min_left_land">8dip</dimen>
+    <dimen name="dragging_min_left_port">8dip</dimen>
+
+    <dimen name="drawer_width">260dp</dimen>
+
+    <dimen name="edit_toast_textsize">15dp</dimen>
+
+    <dimen name="file_item_height">67dp</dimen>
+    <dimen name="file_item_padding_vertical">6dp</dimen>
+    <dimen name="file_list_date_container_marginRight">72dp</dimen>
+    <dimen name="file_list_date_container_width">210dp</dimen>
+    <dimen name="file_list_grid_item_name_textsize">14sp</dimen>
+    <dimen name="file_list_height">67dp</dimen>
+    <dimen name="file_list_info_container_marginLeft">10dp</dimen>
+    <dimen name="file_list_item_asus_drop_down_width">47dp</dimen>
+    <dimen name="file_list_item_checkbox_marginLeft">13dp</dimen>
+    <dimen name="file_list_item_checkbox_width">40dp</dimen>
+    <dimen name="file_list_item_date_marginRight">16dp</dimen>
+    <dimen name="file_list_item_date_margintop">2dp</dimen>
+    <dimen name="file_list_item_date_textsize">14sp</dimen>
+    <dimen name="file_list_item_file_size_textsize">21dp</dimen>
+    <dimen name="file_list_item_name_textsize">18sp</dimen>
+    <dimen name="file_name_width">445dp</dimen>
+    <dimen name="file_size_width">150dp</dimen>
+
+    <dimen name="folder_list_height">60dp</dimen>
+    <dimen name="folder_selector_input_editext_width">330dip</dimen>
+    <dimen name="folder_selector_select_path_height">100dip</dimen>
+    <dimen name="folder_selector_select_path_width">330dip</dimen>
+    <dimen name="folder_tree_icon_text_padding">30dip</dimen>
+    <dimen name="folder_tree_offset">25dp</dimen>
+    <dimen name="folder_tree_padding_left">30dip</dimen>
+    <dimen name="folder_tree_padding_right">140dp</dimen>
+
+    <dimen name="fragment_analyser_allfiles_used_sizes">16dp</dimen>
+    <dimen name="fragment_analyser_text_padding_right">5dp</dimen>
+    <dimen name="fragment_analyzer_cardbase_content_text_sizes">14dp</dimen>
+    <dimen name="fragment_analyzer_chart_chartsizes">150dp</dimen>
+    <integer name="fragment_analyzer_chart_circleLineStrokeWidth">50</integer>
+    <dimen name="fragment_analyzer_chart_content_margin">10dp</dimen>
+    <dimen name="fragment_analyzer_chart_content_text_sizes">16dp</dimen>
+    <dimen name="fragment_analyzer_chart_label_base_margin">20dp</dimen>
+    <dimen name="fragment_analyzer_chart_label_padding">4dp</dimen>
+    <dimen name="fragment_analyzer_chart_label_text2_sizes">12dp</dimen>
+    <dimen name="fragment_analyzer_chart_label_text_sizes">15dp</dimen>
+    <dimen name="fragment_analyzer_chart_margin">0dp</dimen>
+    <dimen name="fragment_analyzer_chart_text_padding">12dp</dimen>
+    <dimen name="fragment_analyzer_more_margin">2dp</dimen>
+    <dimen name="fragment_analyzer_more_sizes">16dp</dimen>
+    <dimen name="fragment_analyzer_title_margin">15dp</dimen>
+    <dimen name="fragment_analyzer_title_sizes">18sp</dimen>
+
+    <dimen name="item_icon_rounded_corner">6px</dimen>
+
+    <dimen name="left_bound_land">480dip</dimen>
+    <dimen name="left_bound_port">305dip</dimen>
+
+    <dimen name="listview_item_margin">13dp</dimen>
+
+    <dimen name="margin_user_email">20dp</dimen>
+    <dimen name="margin_user_layout">25dp</dimen>
+    <dimen name="margin_user_name">3dp</dimen>
+
+    <dimen name="menu_popup_window_dialog_width">320dp</dimen>
+
+    <dimen name="message_list_drag_count_font_size">24sp</dimen>
+    <dimen name="message_list_drag_count_left_margin">16dip</dimen>
+    <dimen name="message_list_drag_message_font_size">18sp</dimen>
+    <dimen name="message_list_drag_message_right_margin">16dip</dimen>
+    <dimen name="message_list_drag_offset">16dip</dimen>
+
+    <dimen name="navdrawer_image_height">192dp</dimen>
+    <dimen name="navdrawer_user_picture_size">40dp</dimen>
+
+    <dimen name="path_font_size">18dp</dimen>
+    <dimen name="path_view_height">40dp</dimen>
+
+    <dimen name="photo_picker_item_press_width">148dip</dimen>
+    <dimen name="photo_picker_item_shadow_height">172dip</dimen>
+    <dimen name="photo_select_dialog_content_inset">0dip</dimen>
+    <dimen name="photo_select_grid_item_height">160dip</dimen>
+    <dimen name="photo_select_grid_item_width">148dip</dimen>
+
+    <dimen name="remote_storage_disconnect_icon_distance">50dip</dimen>
+    <dimen name="remote_storage_disconnect_icon_size">32dp</dimen>
+    <dimen name="remote_storage_reload_icon_distance">70dip</dimen>
+    <dimen name="remote_storage_reload_icon_size">42dp</dimen>
+
+    <dimen name="right_bound_land">640dip</dimen>
+    <dimen name="right_bound_port">385dip</dimen>
+
+    <dimen name="round_cardbase_item_radius">5dp</dimen>
+
+    <integer name="scroll_toast_translate_y">-6</integer>
+
+    <dimen name="search_info_padding_left">22dip</dimen>
+    <dimen name="search_list_item_margintop">6dp</dimen>
+    <dimen name="search_result_title_font_size">15dp</dimen>
+    <dimen name="search_sort_location_width">360dp</dimen>
+    <dimen name="search_sort_name_width">250dp</dimen>
+    <dimen name="search_sort_size_width">120dp</dimen>
+    <dimen name="search_sort_type_width">100dp</dimen>
+
+    <dimen name="shortcut_fragment_width">320dp</dimen>
+    <dimen name="shortcut_paddingTop">25dp</dimen>
+
+    <dimen name="sort_label_height">50dp</dimen>
+    <dimen name="sort_name_width">350dp</dimen>
+    <dimen name="sort_size_width">180dp</dimen>
+    <dimen name="sort_type_width">135dp</dimen>
+
+    <dimen name="storage_list_app_title_height">64dp</dimen>
+    <dimen name="storage_list_connected_height">60dp</dimen>
+    <dimen name="storage_list_connected_name_size">13dp</dimen>
+    <dimen name="storage_list_height">50dp</dimen>
+    <dimen name="storage_list_item_paddingtop">4dp</dimen>
+    <dimen name="storage_list_name_size">18dp</dimen>
+    <dimen name="storage_list_storage_local_title_height">31dp</dimen>
+    <dimen name="storage_list_storage_title_name_size">16dp</dimen>
+
+    <dimen name="tutorial_margin_top">20dp</dimen>
+    <dimen name="tutorial_margin_bottom">20dp</dimen>
+    <dimen name="tutorial_bottom_height">60dp</dimen>
+    <dimen name="tutorial_margin_left">20dp</dimen>
+    <dimen name="tutorial_page_checkbox_margin">20dp</dimen>
+    <dimen name="tutorial_page_content_font_size">18sp</dimen>
+    <dimen name="tutorial_page_content_top">20dp</dimen>
+    <dimen name="tutorial_page_icon_margin_right">10dp</dimen>
+    <dimen name="tutorial_page_margin_top">30dp</dimen>
+    <dimen name="tutorial_page_title_font_size">20sp</dimen>
+    <dimen name="tutorial_page_title_margin_bottom">3dp</dimen>
+    <dimen name="tutorial_progress_point_marginleft">20dp</dimen>
+    <dimen name="tutorial_skip_width">80dp</dimen>
+    <dimen name="tutorial_image_width">210dp</dimen>
+    <dimen name="tutorial_image_height">350dp</dimen>
+    <dimen name="tutorial2_image_width">300dp</dimen>
+    <dimen name="tutorial2_image_height">300dp</dimen>
+
+    <dimen name="wifi_direct_storage_padding_left">16dp</dimen>
+
+    <!-- duplicate files -->
+    <dimen name="duplicatefiles_list_item_margin">10dp</dimen>
+    <dimen name="duplicatefiles_group_list_item_sizes_margin_top">2dp</dimen>
+    <dimen name="duplicatefiles_group_list_item_name_text_sizes">18sp</dimen>
+    <dimen name="duplicatefiles_group_list_item_sizes_text_sizes">14sp</dimen>
+    <dimen name="duplicatefiles_child_list_item_path_text_sizes">16sp</dimen>
+    <dimen name="duplicatefiles_child_list_item_content_text_sizes">14sp</dimen>
+
+    <dimen name="loading_hint_margin">20sp</dimen>
+
+    <dimen name="button_height">38dp</dimen>
+    <dimen name="button_width">106dp</dimen>
+    <dimen name="force_permission_button_text_size">15dp</dimen>
+    <dimen name="force_permission_button_radius">19dp</dimen>
+    <dimen name="force_permission_button_padding">33dp</dimen>
+
+    <dimen name="permission_margin">30dp</dimen>
+
+    <dimen name="permission_dialog_title_margin_top">62dp</dimen>
+    <dimen name="permission_dialog_subtitle_margin_top">15dp</dimen>
+    <dimen name="permission_dialog_image_margin_top">21dp</dimen>
+    <dimen name="permission_dialog_button_margin_top">10dp</dimen>
+    <dimen name="permission_dialog_button_margin_bottom">25dp</dimen>
+    <dimen name="permission_dialog_padding">36dp</dimen>
+    <dimen name="permission_dialog_title_size">18sp</dimen>
+    <dimen name="permission_dialog_subtitle_size">15sp</dimen>
+    <dimen name="permission_dialog_image_height">325dp</dimen>
+
+    <dimen name="normal_btn_width">143dp</dimen>
+    <dimen name="normal_btn_height">37dp</dimen>
+    <dimen name="normal_btn_font_size">15sp</dimen>
+
+    <dimen name="hintlayout_margin">20dp</dimen>
+
+    <dimen name="dialog_edittext_hight">40dp</dimen>
+</resources>

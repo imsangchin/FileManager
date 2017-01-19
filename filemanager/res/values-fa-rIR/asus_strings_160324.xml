@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Sylvia Cheng, 2016/03/22, Setting page -->
+    <string name="action_settings" description="menu title for setting" maxwidth="-1">"تنظیمات"</string>
+    <string name="setting_view_group">"مشاهده تنظیمات"</string>
+    <string name="setting_view_hide_files">"پنهان کردن فایل های سیستم"</string>
+    <string name="setting_notification_group">"اعلان"</string>
+    <string name="setting_notification_large_files">"اعلان بزرگ بودن فایل"</string>
+    <string name="setting_notification_recent_files">"اعلان فایل های اخیر"</string>
+    <string name="setting_notification_wireless_transfer">"اعلان انتقال با شبکه بی سیم"</string>
+    <string name="setting_display_group">"نمایش"</string>
+    <string name="tools_storage_analyzer">"تحلیلگر فضای حافظه"</string>
+    <string name="tools_zenui_instant_update">"به روزرسانی فوری"</string>
+    <string name="category_others">"سایر موارد"</string>
+    <string name="large_files_content_hint">"فایل های بزرگ را بیابید و آنها را با اجازه خود حذف نمایید."</string>
+    <string name="recent_files_content_hint">"فایل های اخیر را بیابید و آنها را با اجازه خود حذف نمایید."</string>
+    <string name="fragment_analyzer_more_hint">"موارد بیشتر"</string>
+    <string name="fragment_analyzer_chart_total_hint">"مجموع:"</string>
+    <string name="fragment_analyzer_chart_free_hint">"فضای موجود:"</string>
+    <string name="fragment_analyzer_chart_used_hint">"مصرف شده"</string>
+    <string name="fragment_analyzer_allfiles_used_hint">"مصرف شده:"</string>
+    <string name="news_v31" maxwidth="">"با تحلیلگر فضای حافظه می توانید نوع فایل هایی که فضای حافظه را بسیار اشغال کرده است بشناسید"</string>
+    <string name="news_v32" maxwidth="">"دسته برنامه های جدیداً ارتقایافته"</string>
+</resources>

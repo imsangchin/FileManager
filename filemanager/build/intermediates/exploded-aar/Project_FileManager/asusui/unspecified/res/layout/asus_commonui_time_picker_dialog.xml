@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2013 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License
+-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/asus_commonui_time_picker_dialog"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:focusable="true"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/asus_commonui_selected_time_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <FrameLayout
+            android:id="@+id/asus_commonui_time_display_background"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <include
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/asus_commonui_header_height"
+                android:layout_gravity="center"
+                layout="@layout/asus_commonui_time_header_label" />
+        </FrameLayout>
+
+        <TextView
+            android:id="@+id/asus_commonui_alarm_hint"
+            android:layout_width="@dimen/asus_commonui_picker_dimen"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="2dp"
+            android:layout_marginTop="-18dp"
+            android:gravity="center_horizontal"
+            android:paddingEnd="6dp"
+            android:paddingStart="6dp"
+            android:textColor="@color/asus_commonui_numbers_text_color"
+            android:textSize="12dp"
+            android:visibility="gone"
+            tools:ignore="SpUsage" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/asus_commonui_gray_part"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <com.asus.commonui.datetimepicker.time.RadialPickerLayout
+            android:id="@+id/asus_commonui_time_picker"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/asus_commonui_picker_dimen"
+            android:layout_gravity="center"
+            android:focusable="true"
+            android:focusableInTouchMode="true" />
+
+        <View
+            android:id="@+id/asus_commonui_line"
+            android:layout_width="match_parent"
+            android:layout_height="1dip"
+            android:background="@color/asus_commonui_line_background" />
+
+        <include layout="@layout/asus_commonui_datetimepicker_done_button" />
+
+    </LinearLayout>
+
+</LinearLayout>

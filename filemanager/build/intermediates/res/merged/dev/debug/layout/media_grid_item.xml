@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="center" >
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/album_background"
+        android:layout_alignTop="@+id/album_background"
+        android:layout_alignRight="@+id/album_background"
+        android:layout_alignLeft="@+id/album_background"
+        android:src="?bg_album" />
+    <RelativeLayout
+        android:id="@+id/album_background"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+>
+     <ImageView
+        android:id="@+id/file_list_item_icon"
+        android:layout_marginLeft="18dp"
+        android:layout_marginTop="19dp"
+        android:layout_width="102dp"
+        android:layout_height="102dp"
+        android:background="@drawable/list_longpressed_holo"
+        android:scaleType="fitCenter"
+        android:src="@drawable/asus_ep_ic_folder" />
+
+    <ImageView
+        android:id="@+id/file_list_item_selected_icon"
+        android:layout_marginLeft="18dp"
+        android:layout_marginTop="19dp"
+        android:layout_width="102dp"
+        android:layout_height="102dp"
+        android:src="@drawable/asus_icon_c"
+        android:background="#7F000000"
+        android:scaleType="center"
+        android:visibility="gone" />
+
+    <ImageView
+        android:id="@+id/sd_indicator"
+        android:layout_below="@id/file_list_item_icon"
+        android:layout_alignRight="@id/file_list_item_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:scaleType="center"
+        android:src="@drawable/asus_filemanager_ic_album_sdcard"
+        android:layout_alignBottom="@+id/file_list_item_name"    />
+
+    <TextView
+        android:id="@+id/file_list_item_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/file_list_item_icon"
+        android:layout_marginTop="2dp"
+        android:layout_alignLeft="@id/file_list_item_icon"
+        android:layout_toLeftOf="@id/sd_indicator"
+        android:gravity="left"
+        android:lines="1"
+        android:fontFamily="Roboto Medium"
+        android:textSize="@dimen/file_list_grid_item_name_textsize"
+        android:textColor="?text_color" />
+
+
+<View
+        android:id="@+id/dummy"
+        android:layout_width="match_parent"
+        android:layout_height="18dp"
+        android:layout_below="@id/file_list_item_name"
+        android:visibility="invisible"
+    />
+    <ImageView
+        android:id="@+id/file_list_item_favorite"
+        android:layout_alignRight="@id/file_list_item_icon"
+        android:layout_alignTop="@id/file_list_item_icon"
+        android:layout_marginTop="4dp"
+        android:layout_marginRight="4dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:scaleType="center"
+        android:src="@drawable/ic_favorite"
+        android:visibility="gone" />
+
+    </RelativeLayout>
+</RelativeLayout>

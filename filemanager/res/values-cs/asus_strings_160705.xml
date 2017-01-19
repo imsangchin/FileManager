@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="tools_hidden_zone">"Skrytá skříňka"</string>
+    <string name="action_hidden_zone" maxwidth="">"Přesunout do skryté skříňky"</string>
+    <string name="move_to_hidden_zone_progress" description="Progress Content: text in progress dialog" maxwidth="">"Přesouvání do skryté skříňky"</string>
+    <string name="move_to_hidden_zone_success_one" description="Toast: move to recycle bin success. %s is variable string." maxwidth="-1">"Přesunuto do skryté skříňky \"%s\"."</string>
+    <string name="move_to_hidden_zone_success_more" description="Toast: move to recycle bin success" maxwidth="-1">"Vybraný soubor byl přesunut do skryté skříňky."</string>
+    <string name="move_to_hidden_zone_fail" description="Toast: move to recycle bin fails" maxwidth="-1">"Přesunutí do skryté skříňky se nezdařilo"</string>
+    <string name="can_not_open_in_hidden_zone" description="Toast: can not open in hidden zone" maxwidth="-1">"Nelze otevřít ve skryté skříňce"</string>
+    <string name="hidden_zone_setup_password">"Zadejte 4místný PIN kód"</string>
+    <string name="hidden_zone_setup_account">"Nastavit účet"</string>
+    <string name="hidden_zone_forget_password">"Zapomenuté heslo"</string>
+    <string name="hidden_zone_wrong_password">"Nesprávný PIN kód"</string>
+    <string name="hidden_zone_change_password">"Změnit heslo"</string>
+    <string name="hidden_zone_confirm_password">"Potvrdit PIN kód"</string>
+    <string name="hidden_zone_set_password_success">"Heslo bylo úspěšně odesláno"</string>
+    <string name="hidden_zone_fingerprint_to_unlock">"Otisk prstu pro odemknutí"</string>
+    <string name="hidden_zone_password_mismatch">"PIN kód se neshoduje"</string>
+    <string name="hidden_zone_introduction_description">"Přesuňte svoje privátní soubory do skryté skříňky. Pro otevření skryté skříňky je vyžadován PIN kód."</string>
+    <string name="hidden_zone_enter_password">"Zadejte svůj PIN kód"</string>
+    <string name="setup">"Nastavení"</string>
+    <string name="set_password_title">"Vytvořit PIN kód"</string>
+    <string name="setup_account_title">"Načíst PIN kód"</string>
+    <string name="setup_account_description">"Nastavte si prosím e-mailový účet pro načtení PIN kódu"</string>
+    <string name="setup_account_no_internet_connection">"Bez připojení k Internetu"</string>
+    <string name="setup_account_skip">"Přeskočit"</string>
+    <string name="setup_my_digital_code">"Nastavit PIN kód"</string>
+    <string name="setup_fingerprint_message">"Povolit otisk prstu pro odemknutí? Skrytá skříňka podporuje ověření pomocí otisku prstů. Začněte naskenováním otisku prstu v části Nastavení."</string>
+    <string name="toast_auto_lock_notify_message">"Zamknout skrytou skříňku, pokud je zařízení zamčené"</string>
+</resources>

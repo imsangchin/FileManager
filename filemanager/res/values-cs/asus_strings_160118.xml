@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="httpserver_title" maxwidth="">"Bezdrátový přenos dat do počítače"</string>
+    <string name="httpserver_start" maxwidth="">"Spustit"</string>
+    <string name="httpserver_stop" maxwidth="">"Zastavit"</string>
+    <string name="httpserver_need_saf" maxwidth="">"Chcete-li spravovat vaše externí úložiště z počítače, musíte udělit oprávnění."</string>
+    <string name="httpserver_description" maxwidth="">"Spusťte službu pro připojení vašeho mobilního zařízení k počítači."</string>
+    <string name="httpserver_instruction" maxwidth="">"Do prohlížeče ve vašem počítači zadejte tuto adresu:"</string>
+    <string name="httpserver_no_network" maxwidth="">"Připojte vaše zařízení ke stejné síti Wi-Fi"</string>
+    <string name="httpserver_no_permission_title" maxwidth="">"Spusťte bezdrátový přenos souborů"</string>
+    <string name="httpserver_no_permission_message" maxwidth="">"Bez příslušného oprávnění nebude možné zapisovat do externího úložiště. Pokračovat?"</string>
+    <string name="httpserver_acquire_permission_message" maxwidth="">"Souborový server HTTP bude ukončen a operace mohou být přerušeny. Pokračovat?"</string>
+    <string name="category_title_tools">"Nástroje"</string>
+    <string name="tools_file_transfer">"Přenos PC souborů"</string>
+    <string name="tools_clean_master">"Uklidit"</string>
+    <string name="retention_notification_large_file">"Přidali jste velké soubory: %1$s. Prohlédněte si je nyní."</string>
+    <string name="retention_notification_recent_file">"Vaše poslední soubory zabírají %1$s prostoru. Prohlédněte si je."</string>
+    <string name="recommend_clean_master_msg">"Nejdůvěryhodnější aplikace Android na světě: Optimizer, Speed Booster, Battery Saver a Free Anti-Virus. \nStáhnout?"</string>
+    <string name="recommend_clean_master_title">"Doporučení k aplikaci"</string>
+    <string name="tools_tip_animation">"Zastavte se pro nástroje!"</string>
+</resources>

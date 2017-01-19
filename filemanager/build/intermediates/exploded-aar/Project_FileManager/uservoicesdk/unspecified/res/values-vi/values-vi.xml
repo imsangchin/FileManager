@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="uf_sdk_number_of_subscribers_format">
+        <item quantity="one">"%1$s thích chủ đề này"</item>
+        <item quantity="other">"%1$s thích chủ đề này"</item>
+    </plurals>
+    <plurals name="uf_sdk_topics">
+        <item quantity="one">"chủ đề"</item>
+        <item quantity="other">"chủ đề"</item>
+    </plurals>
+    <plurals name="uv_comments">
+        <item quantity="one">"bình luận"</item>
+        <item quantity="other">"bình luận"</item>
+    </plurals>
+    <plurals name="uv_number_of_subscribers_format">
+        <item quantity="one">"%1$s muốn ý tưởng này"</item>
+        <item quantity="other">"%1$s muốn ý tưởng này"</item>
+    </plurals>
+    <plurals name="uv_people">
+        <item quantity="one">"người"</item>
+        <item quantity="other">"mọi người"</item>
+    </plurals>
+    <plurals name="uv_subscribers">
+        <item quantity="one">"người theo dõi"</item>
+        <item quantity="other">"người theo dõi"</item>
+    </plurals>
+    <string description="label for trending searches" maxwidth="-1" name="trending_searches">"Xu hướng tìm kiếm"</string>
+    <string name="uf_sdk_already_give_5star">"Đã đánh giá 5 sao"</string>
+    <string description="%d is a number, don&apos;t translate" name="uf_sdk_article_read_count">"%d lượt xem"</string>
+    <string name="uf_sdk_attachment_format_warning">"Định dạng tập tin không đúng. Chỉ có thể đính kèm tập tin ảnh"</string>
+    <string name="uf_sdk_attachment_total_size">"Tổng cộng"</string>
+    <string name="uf_sdk_attachment_warning">"Kích thước tập tin đính kèm vượt quá giới hạn cho phép"</string>
+    <string maxwidth="-1" name="uf_sdk_cancel_btn_content">"Hủy"</string>
+    <string name="uf_sdk_choosertitle_sharevia">"Chia sẻ qua"</string>
+    <string name="uf_sdk_connection_error_msg">"Máy chủ đã hủy kết nối. Vui lòng thử lại sau."</string>
+    <string name="uf_sdk_connection_error_title">"Lỗi kết nối"</string>
+    <string name="uf_sdk_discard">"Hủy bỏ"</string>
+    <string name="uf_sdk_email_illigal">"Địa chỉ email đã được sử dụng"</string>
+    <string maxwidth="-1" name="uf_sdk_empty_notification">"Trống :)"</string>
+    <string name="uf_sdk_faq">"Hỏi Đáp"</string>
+    <string name="uf_sdk_feedback_and_help">"Phản hồi &amp; Trợ giúp"</string>
+    <string name="uf_sdk_forum_description">"Tham gia hội thoại với người dùng ASUS để tìm và chia sẻ giải pháp của bạn"</string>
+    <string maxwidth="-1" name="uf_sdk_grant_permission_title">"Cấp quyền cho"</string>
+    <string name="uf_sdk_help">"Trợ giúp"</string>
+    <string name="uf_sdk_instant_answer_question">"Hỏi Đáp này có hữu ích?"</string>
+    <string name="uf_sdk_like">"Thích"</string>
+    <string maxwidth="-1" name="uf_sdk_message">"Thông báo"</string>
+    <string name="uf_sdk_msg_bad_email_format">"Địa chỉ email không hợp lệ, hãy thử lại."</string>
+    <string name="uf_sdk_msg_confirm_discard_topic">"Mục đăng nháp của bạn sẽ ko được lưu. Bạn vẫn muốn xóa nó?"</string>
+    <string name="uf_sdk_msg_confirm_discard_topic_title">"Xóa mục đăng?"</string>
+    <string name="uf_sdk_msg_subscribe">"Đăng ký nhận thông báo tình trạng chủ đề sẽ được gửi cho bạn qua email."</string>
+    <string name="uf_sdk_msg_subscribe_success">"Đăng ký nhận thành công"</string>
+    <string name="uf_sdk_msg_ticket_created">"Phản hồi của bạn đã được gửi thành công cho ASUS"</string>
+    <string name="uf_sdk_msg_topic_created">"Đã đăng tải thành công"</string>
+    <string name="uf_sdk_msg_unsubscribe">"Hủy đăng ký nhận thành công"</string>
+    <string name="uf_sdk_name_hint">"Nhập tên bạn"</string>
+    <string name="uf_sdk_name_illigal">"Tên người dùng đã được sử dụng"</string>
+    <string name="uf_sdk_network_error">"Không có kết nối mạng, hãy kiểm tra cài đặt mạng của bạn."</string>
+    <string description="zenui news" maxwidth="" name="uf_sdk_news">"Tin tức"</string>
+    <string name="uf_sdk_no_network_connection_content">"Máy chủ đã hủy bỏ kết nối. Hãy thử lại sau. "</string>
+    <string name="uf_sdk_no_network_connection_title">"Lỗi kết nối"</string>
+    <string name="uf_sdk_nothing_found">"Không tìm thấy gì"</string>
+    <string name="uf_sdk_notice">"Chú ý"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category1">"Thông báo"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category2">"Hướng dẫn &amp; mẹo"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category3">"Khuyến mãi"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category4">"Sự kiện"</string>
+    <string name="uf_sdk_publish_an_topic">"Đăng tải chủ đề mới"</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_rate_now">"Đánh giá ngay"</string>
+    <string description="%s is AP name, don&apos;t translate" maxWidth="" name="uf_sdk_rate_us_detail">"Nếu bạn thích sử dụng %s, hãy đánh giá chúng tôi 5 sao trên Play Store."</string>
+    <string maxWidth="" name="uf_sdk_rate_us_detail_new">"Sự hỗ trợ của bạn bằng đánh giá 5 sao sẽ khích lệ chúng tôi tiếp tục công việc!"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_rating">"Đánh giá 5 sao"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title">"Đánh giá chúng tôi!"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title_new">"Khích lệ chúng tôi!"</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_scroll_up_toast">"Hãy cuộn lên để đánh giá"</string>
+    <string name="uf_sdk_search_hint">"Trợ giúp tìm kiếm"</string>
+    <string name="uf_sdk_select_common_bug">"Chọn lỗi thông dụng"</string>
+    <string name="uf_sdk_send_feedback">"Gửi phản hồi"</string>
+    <string name="uf_sdk_send_feedback_help">"Phản hồi và địa chỉ email của bạn sẽ được gửi cho ASUS. Đội ngũ bảo hành sẽ liên hệ với bạn qua email."</string>
+    <string maxwidth="-1" name="uf_sdk_setting_btn_content">"Cài đặt"</string>
+    <string description="recommend title" maxwidth="" name="uf_sdk_settings_encourage_us_title">"Khích lệ chúng tôi"</string>
+    <string maxwidth="-1" name="uf_sdk_storage_permission_description">"Tính năng này cần nhận được quyền lưu trữ để truy cập vào các tập tin đa phương tiện. \n\nNếu bạn muốn bật tính năng này, vui lòng chạm vào nút Cài đặt để đi đến trang Cài đặt của, rồi thiết lập \"Thông tin ứng dụng\" > \"Quyền\" để cấp quyền.\n"</string>
+    <string name="uf_sdk_submit_topic">"Đăng tải"</string>
+    <string name="uf_sdk_subscribe_dialog_title">"Đăng ký nhận chủ đề này"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_answered">"Đã trả lời"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_completed">"đã hoàn tất"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_declined">"đã từ chối"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_implemented">"Đã thực hiện"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_planned">"đã định"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_under_review">"đang xem xét"</string>
+    <string name="uf_sdk_thanks_for_your_feedback">"Cảm ơn phản hồi của bạn!"</string>
+    <string description="%s is a application name, don&apos;t translate" name="uf_sdk_ticket_hint">"Nhập phản hồi cho %s"</string>
+    <string name="uf_sdk_title_topic">"Chủ đề"</string>
+    <string name="uf_sdk_topic">"Chủ đề"</string>
+    <string name="uf_sdk_topic_description_heading">"Mô tả"</string>
+    <string name="uf_sdk_topic_description_hint">"Mô tả chi tiết chủ đề của bạn"</string>
+    <string name="uf_sdk_topic_filter">"CHỦ ĐỀ"</string>
+    <string name="uf_sdk_topic_form_help">"Khi bạn đăng tải một chủ đề lên diễn đàn người dùng, những người dùng khác sẽ có thể đăng ký nhận và nhận xét về nó. Khi đội ngũ lập trình ASUS trả lời cho chủ đề này, bạn sẽ được thông báo qua email."</string>
+    <string name="uf_sdk_topic_form_title">"Đăng tải chủ đề mới"</string>
+    <string name="uf_sdk_topic_text_heading">"Diễn đàn"</string>
+    <string name="uf_sdk_topic_text_hint">"Nhập tiêu đề cho chủ đề của bạn"</string>
+    <string name="uf_sdk_topic_title">"Tiêu đề"</string>
+    <string name="uf_sdk_translation_10117605">"Lỗi dịch thuật"</string>
+    <string name="uf_sdk_translation_117562">"Loại phản hồi"</string>
+    <string name="uf_sdk_translation_2529543">"Báo lỗi"</string>
+    <string name="uf_sdk_translation_2529544">"Khác"</string>
+    <string name="uf_sdk_translation_2530478">"Gợi ý"</string>
+    <string name="uf_sdk_unhelpful_article_message_question">"Bạn có muốn gửi phản hồi cho đội ngũ lập trình ASUS?"</string>
+    <string name="uf_sdk_user_forum">"Diễn đàn người dùng"</string>
+    <string name="uf_sdk_warning">"Cảnh báo"</string>
+    <string name="uf_sdk_wifi_settings">"Cài đặt Wi-Fi"</string>
+    <string name="uf_sdk_wlan_settings">"Cài đặt WLAN"</string>
+    <string name="uf_sdk_write_your_feedback">"Nhập phản hồi vào đây"</string>
+    <string name="uf_sdk_your_draft_will_be_discarded">"Bản nháp của bạn sẽ bị hủy bỏ."</string>
+    <string description="description for empty search result" maxwidth="-1" name="unable_to_find_artlcles">"Không thể tìm thấy các bài viết liên quan đến \u0022%s\u0022"</string>
+    <string name="uv_admin_response_format">"Phản hồi của quản trị viên: %1$s"</string>
+    <string name="uv_all_articles">"Tất cả các bài viết"</string>
+    <string name="uv_all_results_filter">"TẤT CẢ"</string>
+    <string name="uv_android_sdk">Android SDK</string>
+    <string name="uv_article_browse_question">"Bài viết này có hữu ích?"</string>
+    <string name="uv_article_instant_answer_question">"Hỏi Đáp này có hữu ích?"</string>
+    <string name="uv_cancel">"Hủy"</string>
+    <string name="uv_category">"Danh mục"</string>
+    <string name="uv_close">"Đóng"</string>
+    <string name="uv_comment_hint">"Nhập bình luận của bạn"</string>
+    <string name="uv_confirm">"Xác nhận"</string>
+    <string name="uv_contact_continue_button">"Tôi vẫn muốn gửi một tin nhắn"</string>
+    <string name="uv_contact_hint">"Nhập câu hỏi hoặc phản hồi của bạn"</string>
+    <string name="uv_contact_us">"Liên hệ"</string>
+    <string name="uv_display_name">"Tên hiển thị"</string>
+    <string name="uv_email_address">"Địa chỉ email"</string>
+    <string name="uv_email_address_hint">"your@email.com (bắt buộc)"</string>
+    <string name="uv_error">"Lỗi"</string>
+    <string name="uv_failed_signin_error">"Email hoặc mật khẩu không chính xác"</string>
+    <string name="uv_forgot_password">"Quên mật khẩu"</string>
+    <string name="uv_helpful_article_message_question">"Bạn vẫn muốn gửi tin nhắn?"</string>
+    <string name="uv_i_want_this">"Tôi muốn điều này!"</string>
+    <string name="uv_idea_description_heading">"Mô tả chi tiết hơn ý tưởng của bạn"</string>
+    <string name="uv_idea_description_hint">"(tùy chọn)"</string>
+    <string name="uv_idea_text_heading">"Tôi gợi ý bạn..."</string>
+    <string name="uv_loading">"Đang tải..."</string>
+    <string name="uv_matching_articles">"Các bài viết trùng lặp"</string>
+    <string name="uv_matching_articles_and_ideas">"Các bài báo và ý tưởng trùng lặp"</string>
+    <string name="uv_menu_attach">"Đính kèm"</string>
+    <string name="uv_menu_search">"Tìm kiếm"</string>
+    <string name="uv_msg_bad_email_format">"Vui lòng nhập địa chỉ email hợp lệ."</string>
+    <string name="uv_msg_comment_posted">"Bình luận của bạn vừa được đăng tải"</string>
+    <string name="uv_msg_confirm_discard_message">"Bạn có chắc bạn muốn hủy bỏ tin nhắn của mình?"</string>
+    <string name="uv_msg_custom_fields_validation">"Vui lòng điền vào các trường bắt buộc"</string>
+    <string name="uv_msg_forgot_password">"Đã gửi email mật khẩu đã quên"</string>
+    <string name="uv_msg_idea_created">"Ý tưởng của bạn vừa được tạo"</string>
+    <string name="uv_msg_ticket_created">"Tin nhắn của bạn vừa được gửi đi"</string>
+    <string name="uv_msg_user_identity_validation">"Vui lòng nhập địa chỉ email của bạn"</string>
+    <string name="uv_name_hint">"Ẩn danh"</string>
+    <string name="uv_network_error">"Đã có sự cố khi kết nối với UserVoice"</string>
+    <string name="uv_nevermind">"Không quan tâm"</string>
+    <string name="uv_new_comment">"Bình luận mới"</string>
+    <string name="uv_next">"Tiếp theo"</string>
+    <string name="uv_no">"Không"</string>
+    <string name="uv_none_of_these_help">"Những điều này không hữu ích"</string>
+    <string name="uv_password">"Mật khẩu"</string>
+    <string name="uv_password_dialog_title">"Nhập mật khẩu của bạn"</string>
+    <string name="uv_portal_title">"Trợ giúp"</string>
+    <string name="uv_post_a_comment">"Đăng một bình luận"</string>
+    <string name="uv_post_comment">"Đăng bình luận"</string>
+    <string name="uv_posted_by_format">"Được đăng bởi %1$s vào %2$s"</string>
+    <string name="uv_powered_by_uservoice">"Được UserVoice hỗ trợ"</string>
+    <string name="uv_ranked">"Xếp hạng %1$s"</string>
+    <string name="uv_remove_votes">"Bình chọn từ xa"</string>
+    <string name="uv_select_none">"(không)"</string>
+    <string name="uv_select_one">"Chọn một"</string>
+    <string name="uv_send_message">"Gửi tin nhắn"</string>
+    <string name="uv_signin_dialog_ok">"Đăng nhập"</string>
+    <string name="uv_signin_dialog_title">"Đăng nhập"</string>
+    <string name="uv_status_format">"Trạng thái: %1$s"</string>
+    <string name="uv_submit_idea">"Gửi ý tưởng"</string>
+    <string name="uv_subscribe">"Đăng ký"</string>
+    <string name="uv_subscribe_dialog_title">"Theo dõi ý tưởng này"</string>
+    <string name="uv_suggestion_instant_answer_question">"Ý tưởng này có hữu ích?"</string>
+    <string name="uv_thanks">"Xin cảm ơn!"</string>
+    <string name="uv_unhelpful_article_message_question">"Bạn có muốn gửi cho chúng tôi tin nhắn?"</string>
+    <string name="uv_value">"Giá trị"</string>
+    <string name="uv_very_yes">"Có!"</string>
+    <string name="uv_yes">"Có"</string>
+    <string name="uv_your_email_address">"Địa chỉ email của bạn"</string>
+    <string name="uv_your_name">"Tên của bạn"</string>
+</resources>

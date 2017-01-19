@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="httpserver_title" maxwidth="">"無線ファイル転送"</string>
+    <string name="httpserver_start" maxwidth="">"開始"</string>
+    <string name="httpserver_stop" maxwidth="">"停止"</string>
+    <string name="httpserver_need_saf" maxwidth="">"PC から外部ストレージを管理する場合、アクセス許可を与える必要があります。"</string>
+    <string name="httpserver_description" maxwidth="">"[無線ファイル転送]を開始すると、モバイルデバイスとPC間のデータ転送を、簡単に行う事ができます。"</string>
+    <string name="httpserver_instruction" maxwidth="">"PCのブラウザに、以下のURLを入力します。"</string>
+    <string name="httpserver_no_network" maxwidth="">"デバイスを同じ Wi-Fi ネットワークに接続します"</string>
+    <string name="httpserver_no_permission_title" maxwidth="">"無線ファイル転送を開始します"</string>
+    <string name="httpserver_no_permission_message" maxwidth="">"アクセス許可がないと外部ストレージに書き込むことができません。 続行しますか？"</string>
+    <string name="httpserver_acquire_permission_message" maxwidth="">"HTTP ファイルサーバーが閉じられます。操作が中断されることがあります。 続行しますか？"</string>
+    <string name="category_title_tools">"ツール"</string>
+    <string name="tools_file_transfer">"ファイル転送"</string>
+    <string name="tools_clean_master">"クリーンアップ"</string>
+    <string name="retention_notification_large_file">"%1$s 個の大きなファイルが追加されました。 すぐに確認してください。"</string>
+    <string name="retention_notification_recent_file">"最近のファイルで %1$s の領域が使われています。 今すぐ表示する。"</string>
+    <string name="recommend_clean_master_msg">"Android を最適化し、高速化し、節電対応で無料のアンチウイルスが付属する、世界で最も信頼されているアプリです。 \n今すぐダウンロードしますか？"</string>
+    <string name="recommend_clean_master_title">"アプリ推奨"</string>
+    <string name="tools_tip_animation">"引き上げるとツールが表示されます！"</string>
+</resources>

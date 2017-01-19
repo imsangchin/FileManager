@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" >
+
+    <RelativeLayout
+        android:id="@+id/tool_button_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="?card_bg"
+        >
+
+        <Button
+            android:id="@+id/tool_button_enter"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="Roboto Regular"
+            android:gravity="center_vertical"
+            android:padding="10dp"
+            android:singleLine="true"
+            android:textAlignment="center"
+            android:textSize="@dimen/category_image_font_size"
+            android:background="@android:color/transparent"
+            android:textColor="?category_image_font_color" />
+
+        <ImageView
+            android:id="@+id/tools_button_recommend"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignRight="@id/tool_button_enter"
+            android:src="@drawable/asus_filemanager_ic_recommend"
+            android:visibility="invisible" />
+    </RelativeLayout>
+
+
+</FrameLayout>

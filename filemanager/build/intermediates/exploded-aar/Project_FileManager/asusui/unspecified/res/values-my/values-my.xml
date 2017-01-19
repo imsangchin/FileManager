@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="alarm_set">
+        <item>ယခုအချိန်မှ ၁ မိနစ်အောက်အတွက် နှိုးစက် သတ်မှတ်ချက်။</item>
+        <item>ယခုအချိန်မှ <ns1:g example="2 days" id="DAYS">%1$s </ns1:g> ရက် အတွက် နှိုးစက် သတ်မှတ်ချက်။ </item>
+        <item>ယခုအချိန်မှ <ns1:g example="2 hours" id="HOURS">%2$s </ns1:g>နာရီ အတွက် နှိုးစက် သတ်မှတ်ချက်။</item>
+        <item>ယခုအချိန်မှ <ns1:g example="2 days" id="DAYS">%1$s </ns1:g>ရက် နှင့် <ns1:g example="2 hours" id="HOURS"> %2$s </ns1:g> နာရီ အတွက် နှိုးစက် သတ်မှတ်ချက်။</item>
+        <item>ယခုအချိန်မှ <ns1:g example="2 minutes" id="MINUTES">%3$s </ns1:g> မိနစ် အတွက် နှိုးစက် သတ်မှတ်ချက်။ </item>
+        <item>ယခုအချိန်မှ <ns1:g example="2 days" id="DAYS">%1$s</ns1:g> ရက် နှင့် <ns1:g example="2 minutes" id="MINUTES">%3$s</ns1:g> မိနစ်အတွက် နှိုးစက် သတ်မှတ်ချက်။ </item>
+        <item>ယခုအချိန်မှ <ns1:g example="2 hours" id="HOURS">%2$s</ns1:g> နာရီ နှင့်  <ns1:g example="2 minutes" id="MINUTES">%3$s </ns1:g> မိနစ် အတွက် နှိုးစက် သတ်မှတ်ချက်။ </item>
+        <item>ယခုအချိန်မှ <ns1:g example="2 days" id="DAYS">%1$s</ns1:g> ရက်၊<ns1:g example="2 hours" id="HOURS">%2$s</ns1:g> နာရီ နှင့် <ns1:g example="2 minutes" id="MINUTES">%3$s </ns1:g> မိနစ်အတွက် နှိုးစက် သတ်မှတ်ချက်။</item>
+    </string-array>
+    <string name="asus_commonui_activity_chooser_view_see_all">အားလုံးကို ကြည့်ပါ</string>
+    <string name="asus_commonui_activity_resolver_use_always">အမြဲတမ်း</string>
+    <string name="asus_commonui_activity_resolver_use_once">တစ်ခါတည်း</string>
+    <string name="asus_commonui_activitychooserview_choose_application">app တစ်ခု ရွေးပါ</string>
+    <string name="asus_commonui_activitychooserview_choose_application_error">အမှား</string>
+    <string name="asus_commonui_cancel_label">"ထားတော့"</string>
+    <string name="asus_commonui_chooseActivity">လုပ်ဆောင်မှုတစ်ခု ရွေးပါ</string>
+    <string name="asus_commonui_day_picker_description">ရက်စွဲအကွက်ဖြင့်လ</string>
+    <string name="asus_commonui_deleted_key"><ns1:g example="4" id="key">%1$s</ns1:g> ခု ဖျက်ပြီးပြီ</string>
+    <string name="asus_commonui_done_label">"ကောင်းပြီ"</string>
+    <string name="asus_commonui_hour_picker_description">နာရီစက်ဝိုင်းဆလိုက်ဒါ</string>
+    <string name="asus_commonui_item_is_selected"><ns1:g example="2013" id="item">%1$s</ns1:g> ရွေးထားသည်</string>
+    <string name="asus_commonui_minute_picker_description">မိနစ်စက်ဝိုင်းဆလိုက်ဒါ</string>
+    <string name="asus_commonui_noApplications">ဤလုပ်ဆောင်မှုကို လုပ်နိုင်သည့် app မရှိပါ။</string>
+    <string name="asus_commonui_no_url_handler">URL ဖွင့်ရန် app မတွေ့ပါ</string>
+    <string name="asus_commonui_privacy_policy">ကိုယ်ပိုင်ပေါ်လစီ</string>
+    <string name="asus_commonui_select_day">လ နှင့် ရက် ရွေးပါ</string>
+    <string name="asus_commonui_select_hours">နာရီ ရွေးပါ</string>
+    <string name="asus_commonui_select_minutes">မိနစ် ရွေးပါ</string>
+    <string name="asus_commonui_select_year">နှစ် ရွေးပါ</string>
+    <string name="asus_commonui_shareactionprovider_share_with">ဖြင့် မျှဝေပါ</string>
+    <string name="asus_commonui_shareactionprovider_share_with_application">ဖြင့် မျှဝေပါ</string>
+    <string name="asus_commonui_terms_of_use_notice">သုံးစွဲမှုစည်းကမ်းများ သတိပေးချက်</string>
+    <string name="asus_commonui_whichApplication">သုံး၍ လုပ်ဆောင်မှု ပြီးစီးသည်</string>
+    <string name="asus_commonui_whichHomeApplication">ဟုမ်း app တစ်ခု ရွေးပါ</string>
+    <string name="asus_commonui_year_picker_description">နှစ်စာရင်း</string>
+    <string name="day">"၁ ရက်"</string>
+    <string name="days">"<ns1:g id="days">"%s "</ns1:g> "ရက်</string>
+    <string name="hour">၁ နာရီ</string>
+    <string name="hours"><ns1:g id="hours">%s </ns1:g>နာရီ</string>
+    <string name="minute">"၁ မိနစ်"</string>
+    <string name="minutes">"<ns1:g id="minutes">%s</ns1:g> "မိနစ်</string>
+</resources>

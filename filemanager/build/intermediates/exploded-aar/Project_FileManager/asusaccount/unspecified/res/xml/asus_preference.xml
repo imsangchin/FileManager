@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <PreferenceCategory android:title="@string/asus_account_prefc" />
+     <PreferenceScreen android:title="@string/asus_account_prefc_aws" android:summary="@string/asus_account_prefc_advc" >
+       <intent 
+             android:action="com.ecareme.asuswebstorage.awsaccountsetting" 
+             android:targetPackage="com.ecareme.asuswebstorage" 
+             android:targetClass="net.yostore.aws.view.common.SettingActivity">             
+         </intent> 
+    </PreferenceScreen>
+   
+   <PreferenceScreen android:title="@string/asus_account_prefc_homebox" android:summary="@string/asus_account_prefc_advc" >
+        <intent  
+             android:action="android.intent.action.START_AUTOUPLOADSETTING" 
+             android:targetPackage="com.asus.server.azs" 
+             android:targetClass="com.asus.service.cloudstorage.autoupload.AutoUpdateSetting">            
+         </intent>
+    </PreferenceScreen>
+</PreferenceScreen>

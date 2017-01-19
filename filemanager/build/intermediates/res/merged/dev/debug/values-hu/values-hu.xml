@@ -1,0 +1,1312 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="alarm_set">
+        <item msgid="6450913786084215050">"Riasztás beállítva: a jelenlegi időponttól számított kevesebb mint 1 perc múlva."</item>
+        <item msgid="6002066367368421848">"Riasztás beállítva: a jelenlegi időponttól számított <ns1:g id="DAYS">%1$s</ns1:g> múlva."</item>
+        <item msgid="8824719306247973774">"Riasztás beállítva: a jelenlegi időponttól számított <ns1:g id="HOURS">%2$s</ns1:g> múlva."</item>
+        <item msgid="8182406852935468862">"Riasztás beállítva: a jelenlegi időponttól számított <ns1:g id="DAYS">%1$s</ns1:g> és <ns1:g id="HOURS">%2$s</ns1:g> múlva."</item>
+        <item msgid="2532279224777213194">"Riasztás beállítva: a jelenlegi időponttól számított <ns1:g id="MINUTES">%3$s</ns1:g> perc múlva."</item>
+        <item msgid="5936557894247187717">"Riasztás beállítva: a jelenlegi időponttól számított <ns1:g id="DAYS">%1$s</ns1:g> és <ns1:g id="MINUTES">%3$s</ns1:g> múlva."</item>
+        <item msgid="9115697840826129603">"Riasztás beállítva: a jelenlegi időponttól számított <ns1:g id="HOURS">%2$s</ns1:g> és <ns1:g id="MINUTES">%3$s</ns1:g> múlva."</item>
+        <item msgid="2332583385137381060">"Riasztás beállítva: a jelenlegi időponttól számított <ns1:g id="DAYS">%1$s</ns1:g>, <ns1:g id="HOURS">%2$s</ns1:g> és <ns1:g id="MINUTES">%3$s</ns1:g> múlva."</item>
+    </string-array>
+    <string-array name="charset_array">
+        <item>"Latin-1 (ISO-8859-1)"</item>
+        <item>"Unicode (UTF-8)"</item>
+        <item>"Kínai (GBK)"</item>
+        <item>"Kínai (Big5)"</item>
+        <item>"Japán (ISO-2022-JP)"</item>
+        <item>"Japán (SHIFT_JIS)"</item>
+        <item>"Japán (EUC-JP)"</item>
+        <item>"Koreai (EUC-KR)"</item>
+    </string-array>
+    <string-array name="country_names">
+        <item>Aruba</item>
+        <item>Afganisztán (جمهوری اسلامی افغانستان)</item>
+        <item>Angola (República de Angola)</item>
+        <item>Anguilla</item>
+        <item>Albánia (Shqipëri)</item>
+        <item>Andorra (Principat d\'Andorra)</item>
+        <item>Holland Antillák</item>
+        <item>Egyesült Arab Emírségek (دولة الإمارات العربية المتحدة‎)</item>
+        <item>Argentína (República Argentina)</item>
+        <item>Örményország (Hayastan)</item>
+        <item>Amerikai Szamoa</item>
+        <item>Antarktisz</item>
+        <item>Franciaország déli területei</item>
+        <item>Antigua és Barbuda</item>
+        <item>Ausztrália (Australia)</item>
+        <item>Ausztria (Österreich)</item>
+        <item>Azerbajdzsán</item>
+        <item>Burundi</item>
+        <item>Belgium (België)</item>
+        <item>Benin</item>
+        <item>Burkina Faso</item>
+        <item>Banglades (বাংলাদেশ)</item>
+        <item>Bulgária (България / Balgariya)</item>
+        <item>Bahrein (مملكة البحرين)</item>
+        <item>Bahamák</item>
+        <item>Bosznia-Hercegovina (Bosna i Hercegovina)</item>
+        <item>Fehéroroszország (Беларусь)</item>
+        <item>Belize</item>
+        <item>Bermuda</item>
+        <item>Bolívia</item>
+        <item>Brazília</item>
+        <item>Barbados</item>
+        <item>Brunei Darussalam (بروني دارالسلام)</item>
+        <item>Bután</item>
+        <item>Bouvet-sziget</item>
+        <item>Botswana (Lefatshe la Botswana)</item>
+        <item>Közép-afrikai Köztársaság (République centrafricaine)</item>
+        <item>Kanada</item>
+        <item>Kókusz- (Keeling-)szigetek</item>
+        <item>Svájc (Suisse)</item>
+        <item>Chile</item>
+        <item>Kína (中國)</item>
+        <item>Elefántcsontpart</item>
+        <item>Kamerun</item>
+        <item>Kongó</item>
+        <item>Cook-szigetek</item>
+        <item>Kolumbia</item>
+        <item>Comoro-szigetek</item>
+        <item>Zöld-foki Köztársaság</item>
+        <item>Costa Rica</item>
+        <item>Kuba</item>
+        <item>Karácsony-sziget</item>
+        <item>Kajmán-szigetek</item>
+        <item>Ciprus (Euro)</item>
+        <item>Cseh Köztársaság (Česká republika)</item>
+        <item>Németország (Deutschland)</item>
+        <item>Dzsibuti</item>
+        <item>Dominika</item>
+        <item>Dánia (Danmark)</item>
+        <item>Dominikai Köztársaság</item>
+        <item>Algéria</item>
+        <item>Ecuador</item>
+        <item>Egyiptom (مصر‎)</item>
+        <item>Eritrea</item>
+        <item>Nyugat-Szahara</item>
+        <item>Spanyolország (España)</item>
+        <item>Észtország (Eesti)</item>
+        <item>Etiópia</item>
+        <item>Finnország (Suomi)</item>
+        <item>Fídzsi</item>
+        <item>Falkland-szigetek</item>
+        <item>Franciaország (France)</item>
+        <item>Belgium (Belgique)</item>
+        <item>Faroe-szigetek</item>
+        <item>Mikronézia</item>
+        <item>Gabon</item>
+        <item>Egyesült Királyság (United Kingdom)</item>
+        <item>Grúzia (საქართველო)</item>
+        <item>Ghána</item>
+        <item>Gibraltár</item>
+        <item>Guinea</item>
+        <item>Guadeloupe</item>
+        <item>Gambia</item>
+        <item>Bissau-Guinea</item>
+        <item>Egyenlítői Guinea</item>
+        <item>Görögország (Ελλάδα)</item>
+        <item>Grenada</item>
+        <item>Grönland</item>
+        <item>Guatemala</item>
+        <item>Francia Guyana</item>
+        <item>Guam</item>
+        <item>Guyana</item>
+        <item>Hongkong (香港)</item>
+        <item>Heard-sziget és McDonald-szigetek</item>
+        <item>Honduras</item>
+        <item>Horvátország (Hrvatska)</item>
+        <item>Haiti</item>
+        <item>Magyarország</item>
+        <item>Indonézia (Republik Indonesia)</item>
+        <item>India (भारत गणराज्य )</item>
+        <item>Brit Indiai-óceáni terület</item>
+        <item>Írország (Ireland)</item>
+        <item>Irán (ایران)</item>
+        <item>Irak (العراق)</item>
+        <item>Izland (Ísland)</item>
+        <item>Izrael (מְדִינַת יִשְׂרָאֵל  /  دَوْلَةُ إِسْرَائِيلَ)</item>
+        <item>Olaszország (Italia)</item>
+        <item>Jamaika</item>
+        <item>Jordánia (L\'Ürdünn)</item>
+        <item>Japán (日本国)</item>
+        <item>Kazahsztán</item>
+        <item>Kenya (Jamhuri ya Kenya)</item>
+        <item>Kirgizisztán</item>
+        <item>Kambodzsa (कम्बोजदेश)</item>
+        <item>Kiribati</item>
+        <item>Saint Kitts és Nevis</item>
+        <item>Koreai Köztársaság (대한민국)</item>
+        <item>Kuvait (دولة الكويت)</item>
+        <item>Laoszi Népi Demokratikus Köztársaság</item>
+        <item>Libanon (اَلْجُمْهُورِيَّة اَللُّبْنَانِيَّة)</item>
+        <item>Libéria</item>
+        <item>Líbiai Arab Jamahiriya</item>
+        <item>Szent Lucia</item>
+        <item>Liechtenstein (Liechtenstein)</item>
+        <item>Srí Lanka (இலங்கை ஜனநாயக சமத்துவ)</item>
+        <item>Lesotho</item>
+        <item>Litvánia (Lietuva)</item>
+        <item>Luxemburg (Lëtzebuerg)</item>
+        <item>Lettország (Latvija)</item>
+        <item>Makaó</item>
+        <item>Marokkó</item>
+        <item>Monaco</item>
+        <item>Moldávia (Moldova)</item>
+        <item>Madagaszkár</item>
+        <item>Maldív-szigetek</item>
+        <item>Mexikó</item>
+        <item>Marshall-szigetek</item>
+        <item>Macedónia</item>
+        <item>Mali</item>
+        <item>Málta (Malta)</item>
+        <item>Mianmár (Pyidaunzu Thanmăda Myăma Nainngandaw)</item>
+        <item>Mongólia</item>
+        <item>Északi Mariana-szigetek</item>
+        <item>Mozambik</item>
+        <item>Mauritánia</item>
+        <item>Montserrat</item>
+        <item>Martinique</item>
+        <item>Mauritius (Republik Moris)</item>
+        <item>Malawi</item>
+        <item>Malajzia (Persekutuan Malaysia)</item>
+        <item>Mayotte</item>
+        <item>Namíbia</item>
+        <item>Új-Kaledónia (Nouvelle-Calédonie)</item>
+        <item>Niger</item>
+        <item>Norfolk-sziget (Norfuk Ailen)</item>
+        <item>Nigéria (Republik Nijeriya)</item>
+        <item>Nicaragua</item>
+        <item>Niue</item>
+        <item>Hollandia (Nederland)</item>
+        <item>Norvégia (Norge)</item>
+        <item>Nepál (सङ्घीय लोकतान्त्रिक गणतन्त्र नेपाल)</item>
+        <item>Nauru</item>
+        <item>Új-Zéland (New Zealand)</item>
+        <item>Omán (لطنة عمان)</item>
+        <item>Pakisztán (پاکِستان)</item>
+        <item>Panama</item>
+        <item>Pitcairn</item>
+        <item>Peru</item>
+        <item>Fülöp-szigetek (Pilipinas)</item>
+        <item>Palau</item>
+        <item>Pápua Új-Guinea</item>
+        <item>Lengyelország (Polska)</item>
+        <item>Puerto Rico</item>
+        <item>Koreai Népi Demokratikus Köztársaság</item>
+        <item>Portugália (Portugal)</item>
+        <item>Paraguay</item>
+        <item>Francia Polinézia</item>
+        <item>Katar</item>
+        <item>Reunion</item>
+        <item>Románia (România)</item>
+        <item>Oroszország (Россия)</item>
+        <item>Ruanda</item>
+        <item>Szaúd-Arábia (المملكة العربية السعودية)</item>
+        <item>Szerbia és Montenegró</item>
+        <item>Szudán (جمهورية السودان)</item>
+        <item>Szenegál</item>
+        <item>Szingapúr (Singapore)</item>
+        <item>Dél-Georgia és a Déli-Sandwich-szigetek</item>
+        <item>Szent Ilona</item>
+        <item>Svalbard- és Jan Mayen-szigetek</item>
+        <item>Salamon-szigetek (Solomon Islands)</item>
+        <item>Sierra Leone</item>
+        <item>El Salvador</item>
+        <item>San Marino</item>
+        <item>Szomália</item>
+        <item>St. Pierre és Miquelon</item>
+        <item>Sao Tome és Principe</item>
+        <item>Suriname</item>
+        <item>Szlovákia (Slovensko)</item>
+        <item>Szlovénia (Slovenija)</item>
+        <item>Svédország (Sverige)</item>
+        <item>Szváziföld (Swatini)</item>
+        <item>Seychelle-szigetek</item>
+        <item>Szíriai Arab Köztársaság (جمهورية العربية السورية)</item>
+        <item>Turks és Caicos-szigetek</item>
+        <item>Csád</item>
+        <item>Togo</item>
+        <item>Thaiföld (ราชอาณาจักรไทย)</item>
+        <item>Tadzsikisztán</item>
+        <item>Tokelau</item>
+        <item>Türkmenisztán</item>
+        <item>Kelet-Timor</item>
+        <item>Tonga</item>
+        <item>Trinidad és Tobago</item>
+        <item>Tunézia</item>
+        <item>Törökország (Türkiye)</item>
+        <item>Tuvalu</item>
+        <item>Tajvan, ROC (台灣)</item>
+        <item>Tanzánia</item>
+        <item>Uganda (Jamhuri ya Uganda)</item>
+        <item>Ukrajna (Україна)</item>
+        <item>Egyesült Államok külső szigetei</item>
+        <item>Uruguay</item>
+        <item>Amerikai Egyesült Államok</item>
+        <item>Üzbegisztán</item>
+        <item>Vatikánváros (Stato della Città del Vaticano)</item>
+        <item>Saint Vincent és Grenadine-szigetek</item>
+        <item>Venezuela</item>
+        <item>Brit Virgin-szigetek</item>
+        <item>Virgin-szigetek (USA)</item>
+        <item>Vietnám (Việt Nam)</item>
+        <item>Vanuatu</item>
+        <item>Wallis- és Futuna-szigetek</item>
+        <item>Szamoa</item>
+        <item>Jemen</item>
+        <item>Dél-Afrika (Republiek van Suid-Afrika)</item>
+        <item>Zaire</item>
+        <item>Zambia</item>
+        <item>Zimbabwe (Simudzai Mureza wedu WeZimbabwe)</item>
+    </string-array>
+    <plurals name="dialog_unzip_preview_size_text">
+        <item quantity="one">Összes: %1$d fájl, %2$s</item>
+        <item quantity="other">Összes: %1$d fájl, %2$s</item>
+    </plurals>
+    <plurals name="drag_items">
+        <item quantity="one">Elem elhúzása</item>
+        <item quantity="other">Elemek elhúzása</item>
+    </plurals>
+    <plurals name="number_search_items">
+        <item quantity="one">"%d fájl található"</item>
+        <item quantity="other">"%d fájl található"</item>
+    </plurals>
+    <plurals name="number_selected_items">
+        <item quantity="one">%d elem kiválasztva</item>
+        <item quantity="other">%d elem kiválasztva</item>
+    </plurals>
+    <plurals name="uf_sdk_number_of_subscribers_format">
+        <item quantity="one">"%1$s kedveli ezt a témát"</item>
+        <item quantity="other">"%1$s kedveli ezt a témát"</item>
+    </plurals>
+    <plurals name="uf_sdk_topics">
+        <item quantity="one">"téma"</item>
+        <item quantity="other">"téma"</item>
+    </plurals>
+    <plurals name="uv_comments">
+        <item quantity="one">"hozzászólás"</item>
+        <item quantity="other">"hozzászólás"</item>
+    </plurals>
+    <plurals name="uv_number_of_subscribers_format">
+        <item quantity="one">"%1$s érdekesnek találja az ötletet"</item>
+        <item quantity="other">"%1$s érdekesnek találja az ötletet"</item>
+    </plurals>
+    <plurals name="uv_people">
+        <item quantity="one">"ember"</item>
+        <item quantity="other">"ember"</item>
+    </plurals>
+    <plurals name="uv_subscribers">
+        <item quantity="one">"feliratkozó"</item>
+        <item quantity="other">"feliratkozó"</item>
+    </plurals>
+    <string name="AsusWebstroage">AsusWebstorage</string>
+    <string name="AuCloud">AuCloud</string>
+    <string name="BaiDuPCS">BaiDuPCS</string>
+    <string name="Default">Alapértelmezett</string>
+    <string name="Dropbox">Dropbox</string>
+    <string name="Google_Drive">Google Drive</string>
+    <string name="HomeCloud">HomeCloud</string>
+    <string name="OneDrive">OneDrive</string>
+    <string name="Yandex">Yandex</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Ugrás a főoldalra"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Felfelé mozgatás"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"További lehetőségek"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Kész"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Összes megtekintése"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Válasszon ki egy alkalmazást"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"KI"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"BE"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Keresés…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Lekérdezés törlése"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Keresési lekérdezés"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Keresés"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Lekérdezés küldése"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Hangalapú keresés"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Megosztás a következővel:"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Megosztás a következővel: %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Összecsukás"</string>
+    <string name="about">Névjegy</string>
+    <string name="account_asus">ASUS</string>
+    <string maxwidth="-1" name="action">Bejelentkezés</string>
+    <string description="cutstom action bar view title for about" maxwidth="-1" name="action_about">Névjegy</string>
+    <string description="action add files" maxwidth="-1" name="action_add">Hozzáadás</string>
+    <string description="cutstom action bar view title for add folder" maxwidth="-1" name="action_add_folder">Mappa hozzáadása</string>
+    <string description="View title of custom action bar, apply to multiple selected files" maxwidth="-1" name="action_apply_selected_file">Alkalmaz</string>
+    <string description="action cancel" maxwidth="-1" name="action_cancel">Mégse</string>
+    <string maxwidth="-1" name="action_clean">"Töröl"</string>
+    <string maxwidth="-1" name="action_clean_all">"Mindent töröl"</string>
+    <string description="cutstom action bar view title for clear search history" maxwidth="" name="action_clear_history">Keresési előzmények törlése</string>
+    <string description="cutstom action bar view title for edit" maxwidth="" name="action_edit">"Szerkesztés"</string>
+    <string maxwidth="" name="action_hidden_zone">"Áthelyezés a Rejtett szekrénybe"</string>
+    <string description="cutstom action bar view title for hinde system file" maxwidth="-1" name="action_hind_system_file">Rendszerfájlok elrejtése</string>
+    <string name="action_loading">"Betöltés..."</string>
+    <string description="cutstom action bar view title for open with" maxwidth="" name="action_open_with">"Megnyitás..."</string>
+    <string name="action_refresh_cloudfile">"Frissítés"</string>
+    <string maxwidth="-1" name="action_restore">"Visszaállít"</string>
+    <string maxwidth="-1" name="action_restore_all">"Mindent helyreállít"</string>
+    <string description="cutstom action bar view title for search" maxwidth="" name="action_search">Keresés</string>
+    <string description="cutstom action bar view title for set as" maxwidth="" name="action_set_as">"Kép beállítása a következőként:"</string>
+    <string description="menu title for setting" maxwidth="-1" name="action_settings">"Beállítások"</string>
+    <string description="cutstom action bar view title for sharing" maxwidth="-1" name="action_share">"Megosztás"</string>
+    <string description="String for asking for the rule of sorting" maxwidth="-1" name="action_sort_by">Rendezési elv</string>
+    <string description="cutstom action bar view title for zip" maxwidth="" name="action_zip">Tömörítés</string>
+    <string description="Dialog title: Add cloud storage" maxwidth="-1" name="add_cloud_storage_dialog_title">Felhő tárhely hozzáadása</string>
+    <string name="add_favorite">Hozzáadás a kedvencekhez</string>
+    <string name="add_favorite_folder">"Kedvenc mappa hozzáadása"</string>
+    <string name="add_favorite_success">Mentés a kedvencekhez</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="add_progress">Létrehozás...</string>
+    <string description="Don&apos;t remind me again" maxwidth="-1" name="alert_cb_msg">Emlékeztető kikapcsolása</string>
+    <string description="ASUS ZenUI Services is not support, need update ASUS ZenUI Services" maxwidth="-1" name="alert_msg_azs_update">A(z) %1$s használatához az ASUS ZenUI szolgáltatások legújabb verziója szükséges. Kérjük, telepítse most.</string>
+    <string description="Client app is not support, need update client app" maxwidth="-1" name="alert_msg_client_update">A(z) %1$s egy újabb verziója áll rendelkezésre. Kérjük, telepítse most.</string>
+    <string description="Client app version is compatible with ASUS ZenUI Services" maxwidth="-1" name="alert_msg_compatible">A(z) %1$s verzió kompatibilis az ASUS ZenUI szolgáltatásokkal.</string>
+    <string description="Client app version is match with ASUS ZenUI Services" maxwidth="-1" name="alert_msg_match">A(z) %1$s verzió egyezik az ASUS ZenUI szolgáltatásokkal.</string>
+    <string description="ASUS ZenUI Services is not found on device" maxwidth="-1" name="alert_msg_not_found">Az ASUS ZenUI Services nincs telepítve.\n\nMegnyitja a letöltési helyet, és telepíti az alkalmazást?</string>
+    <string description="Dialog title" maxwidth="-1" name="alert_title">Megjegyzés</string>
+    <string description="Dialog title" maxwidth="-1" name="alert_title_update">Frissítés ajánlott</string>
+    <string name="app_cloudstorage_name">CloudStorage</string>
+    <string name="app_upload_complete">"%s feltöltése sikerült"</string>
+    <string description="" name="article_one">Elfogadom az ASUS \"<u>Használati feltételeit</u>\", az ASUS \"<u>Adatkezelési szabályzatát</u>\", az ASUS WebStorage \"<u>Használati feltételekre vonatkozó felhívását</u>\", az ASUS WebStorage \"<u>Adatkezelési szabályzatát</u>\".</string>
+    <string description="" name="article_two">Folyamatos tájékoztatást kérek eDM-ekben ASUS hírekről, szoftverfrissítésekről és a legújabb termékekről, szolgáltatásokról szóló információkról.</string>
+    <string description="Text for create asus account button." maxwidth="" name="asus_account_create_button">Új létrehozása</string>
+    <string name="asus_account_integrate_dialog_content">Szeretné integrálni az ASUS Cloud Storage szolgáltatást ASUS-fiókjával? \n\n Az integrálást követően valamennyi ASUS-szolgáltatás használható ugyanabból a fiókból.</string>
+    <string name="asus_account_integrate_dialog_skip">Kihagyás</string>
+    <string name="asus_account_integrate_dialog_title">ASUS-szolgáltatások integrálása</string>
+    <string name="asus_account_integrate_dialog_yes">Igen</string>
+    <string description="Text for asus account content 1st." maxwidth="" name="asus_account_msg_content_1">Személyes ASUS támogatás és garancia-kiterjesztés a regisztrált termékekhez.</string>
+    <string description="Text for asus account content 2nd." maxwidth="" name="asus_account_msg_content_2">5 GB ingyenes felhő alapú tárhely.</string>
+    <string description="Text for asus account content 3rd." maxwidth="" name="asus_account_msg_content_3">A legfrissebb információk kiegészítőkről és felújított termékekről.</string>
+    <string description="Text for asus account content title." maxwidth="" name="asus_account_msg_title">Új ASUS-fiókhoz a következőket kapja:</string>
+    <string name="asus_account_only_one_alert">"Egyszerre csak egy ASUS Account adható hozzá. Fiók újra cserélése előtt törölnie kell aktuális fiókját."</string>
+    <string name="asus_account_prefc">"Beállítások"</string>
+    <string name="asus_account_prefc_advc">"Speciális beállítások"</string>
+    <string name="asus_account_registe_country_error">Válassza ki az ország térségét!</string>
+    <string name="asus_account_registe_id_error">E-mail hiba</string>
+    <string name="asus_account_registe_policy_error">ASUS-fiók regisztrálásához el kell fogadnia az ASUS szabályzatát!</string>
+    <string name="asus_account_registe_pw_error_1">A jelszó nem lehet üres!</string>
+    <string name="asus_account_registe_pw_error_2">A megismételt jelszó nem lehet üres!</string>
+    <string name="asus_account_registe_pw_error_3">A jelszónak és a megismételt jelszónak egyeznie kell!</string>
+    <string name="asus_account_registe_pw_error_4">"A jelszónak 8-25 karaktert kell tartalmaznia."</string>
+    <string name="asus_account_removeaccount_dialog_content">"A fiók egyesítése sikeresen megtörtént. Lépjen be újra az új fiók használatával."</string>
+    <string name="asus_account_removeaccount_dialog_title">"Az ASUS Account sikeres egyesítése"</string>
+    <string name="asus_commonui_activity_chooser_view_see_all">"Összes megtekintése"</string>
+    <string name="asus_commonui_activity_resolver_use_always">"Mindig"</string>
+    <string name="asus_commonui_activity_resolver_use_once">"Csak egyszer"</string>
+    <string name="asus_commonui_activitychooserview_choose_application">"Válasszon ki egy alkalmazást"</string>
+    <string name="asus_commonui_activitychooserview_choose_application_error">
+        "A(z) <ns1:g id="APPLICATION_NAME">%s</ns1:g> alkalmazást indítása nem sikerült"
+    </string>
+    <string name="asus_commonui_cancel_label">"Mégse"</string>
+    <string name="asus_commonui_chooseActivity">"Válasszon egy műveletet"</string>
+    <string msgid="3968620852217927702" name="asus_commonui_day_picker_description">"Napok havi leosztásban"</string>
+    <string msgid="6908431551612331381" name="asus_commonui_deleted_key">"A(z) <ns1:g id="KEY">%1$s</ns1:g> érték törölve"</string>
+    <string name="asus_commonui_done_label">"OK"</string>
+    <string msgid="7586639618712934060" name="asus_commonui_hour_picker_description">"óra kör alakú csúszkája"</string>
+    <string msgid="2674929164900463786" name="asus_commonui_item_is_selected">"<ns1:g id="ITEM">%1$s</ns1:g> kiválasztva"</string>
+    <string msgid="6024811202872705251" name="asus_commonui_minute_picker_description">"perc kör alakú csúszkája"</string>
+    <string name="asus_commonui_noApplications">"Egy alkalmazás sem tudja végrehajtani ezt a műveletet."</string>
+    <string name="asus_commonui_no_url_handler">Nem található alkalmazás az URL megnyitásához.</string>
+    <string name="asus_commonui_privacy_policy">Adatvédelmi szabályzat</string>
+    <string name="asus_commonui_privacy_policy_url">http://www.asus.com/HU/Terms_of_Use_Notice_Privacy_Policy/Privacy_Policy</string>
+    <string msgid="3973338219107019769" name="asus_commonui_select_day">"Válassza ki a hónapot és a napot"</string>
+    <string msgid="7651068754188418859" name="asus_commonui_select_hours">"Óra kiválasztása"</string>
+    <string msgid="8327182090226828481" name="asus_commonui_select_minutes">"Perc kiválasztása"</string>
+    <string msgid="2603330600102539372" name="asus_commonui_select_year">"Válassza ki az évet"</string>
+    <string name="asus_commonui_shareactionprovider_share_with">"Megosztás a következővel:"</string>
+    <string name="asus_commonui_shareactionprovider_share_with_application">
+        "Ossza meg a következő alkalmazással: <ns1:g id="APPLICATION_NAME">%s</ns1:g>"
+    </string>
+    <string name="asus_commonui_terms_of_use_notice">Használati feltételek</string>
+    <string name="asus_commonui_terms_of_use_notice_url">http://www.asus.com/HU/Terms_of_Use_Notice_Privacy_Policy/Official_Site/</string>
+    <string name="asus_commonui_whichApplication">"Művelet végrehajtása a következővel:"</string>
+    <string name="asus_commonui_whichHomeApplication">"A kezdőalkalmazás kiválasztása"</string>
+    <string msgid="6963340404644587098" name="asus_commonui_year_picker_description">"Évek listája"</string>
+    <string name="asus_feedback_and_help">Visszajelzés és súgó</string>
+    <string name="asus_registe_success_title">"Az ASUS Account regisztrálása sikerült"</string>
+    <string name="asus_response_resultdata">"Ezt a fiókot már regisztrálták."</string>
+    <string name="asusaccount_app_name">ASUS-fiók</string>
+    <string maxwidth="-1" name="attribution_notice">"Hozzájárulási megjegyzés"</string>
+    <string maxwidth="-1" name="attribution_notice_content">
+    "
+    \nA termék az alábbi nyílt forrásokat tartalmazza:
+\n\nuservoice-android-sdk, az Apache License Version 2.0 alapján licencelve. A licenc letölthető a http://www.apache.org/licenses/LICENSE-2.0.html címről.
+        \n\nangular-filemanager címről, az MIT alapján licencelve. A licenc letölthető a https://github.com/joni2back/angular-filemanager/blob/master/LICENSE címről.
+        \n\nprogressbar címről, az MIT alapján licencelve. A licenc letölthető a https://github.com/kimmobrunfeldt/progressbar.js/blob/master/LICENSE címről.
+        \n\ntoastr, Copyright (c) 2012-2015 John Papa, Tim Ferrell, Hans Fjällemark\nEzennel mindenki, aki megszerzi a szoftver és a kapcsolódó dokumentációs fájlok (a „Szoftver”) egy példányát, engedélyt kap a Szoftver korlátozás nélküli kereskedelmére, beleértve a Szoftver példányainak korlátozás nélküli használatának, lemásolásának, módosításának, egyesítésének, közzétételének, terjesztésének, allicencbe adásának és/vagy árusításának jogát, valamint e jogok biztosítására a Szoftvert megkapó személyek számára, amennyiben a következő feltételek teljesülnek:
+        A fenti szerzői jogi nyilatkozatot és a jelen engedélyt a Szoftver minden másolata, illetve jelentős része mellett fel kell tüntetni. A SZOFTVER BIZTOSÍTÁSÁRA ÚGY KERÜL SOR, „AHOGYAN VAN”, BÁRMIFÉLE KIFEJEZETT VAGY VÉLELMEZETT GARANCIA NÉLKÜL, IDEÉRTVE TÖBBEK KÖZÖTT, DE NEM KIZÁRÓLAG, A PIACKÉPESSÉGRE, ADOTT CÉLRA VALÓ ALKALMASSÁGRA ÉS A JOGSÉRTÉS HIÁNYÁRA VONATKOZÓ GARANCIÁKAT. A SZERZŐK ÉS JOGTULAJDONOSOK SEMMILYEN ESETBEN NEM FELELŐSEK SEMMILYEN OLYAN KÖVETELÉS, KÁR, VAGY EGYÉB FELELŐSSÉG TEKINTETÉBEN SEM SZERZŐDÉSES SEM FELELŐSSÉGJOGI, SEM EGYÉB ALAPON, AMELY A SZOFTVERREL KAPCSOLATOS, ABBÓL ERED VAGY A SZOFTVER HASZNÁLATÁBÓL VAGY A SZOFTVERREL KAPCSOLATOS BÁRMELY EGYÉB KÖRÜLMÉNYBŐL SZÁRMAZIK."
+    </string>
+    <string name="aucloud_account_only_one_alert">"Egyszerre csak egy au Cloud Account adható hozzá. Fiók újra cserélése előtt törölnie kell aktuális fiókját."</string>
+    <string description="string indicating how camera shooting feature is used" maxwidth="-1" name="auto">Automata</string>
+    <string maxwidth="-1" name="aws_install_contnet">A WebStorage nincs telepítve. Szeretné letölteni a play store oldalról és telepíteni?</string>
+    <string maxwidth="" name="aws_install_title">A WebStorage nincs telepítve</string>
+    <string description="button text." maxwidth="-1" name="back_button_label">Vissza</string>
+    <string name="baidu_alert_info">"A Baidu platformja alapján az adatokhoz csak a "My Application Data\\asus\\" alatt férhet hozzá."</string>
+    <string name="baidu_alert_title">"Baidu felhőtárhely"</string>
+    <string name="baidu_storage_title">"百度云"</string>
+    <string name="baidupcs_account_only_one_alert">"Egyszerre csak egy Baidu for ASUS Account adható hozzá. Fiók újra cserélése előtt törölnie kell aktuális fiókját."</string>
+    <string name="btn_OK">OK</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="calculate_progress">"Folyamatban..."</string>
+    <string description="Toast: can not open in hidden zone" maxwidth="-1" name="can_not_open_in_hidden_zone">"Nem lehet megnyitni a Rejtett szekrényben"</string>
+    <string description="Dialog Button: cancel for dialog" maxwidth="" name="cancel">Mégse</string>
+    <string name="cancle">Mégse</string>
+    <string name="category_apk">Alkalmazások</string>
+    <string maxwidth="11" name="category_app1">"Alkalmazások"</string>
+    <string name="category_compress">"Tömörítettek"</string>
+    <string maxwidth="11" name="category_compressed1">"Tömörítettek"</string>
+    <string name="category_count">"%s"</string>
+    <string maxwidth="11" name="category_document1">"Dokumentumok"</string>
+    <string name="category_documents">"Dokumentumok"</string>
+    <string name="category_download">Letöltés</string>
+    <string maxwidth="11" name="category_download1">"Letöltések"</string>
+    <string name="category_favorite">Kedvenc</string>
+    <string maxwidth="11" name="category_favorite1">"Kedvencek"</string>
+    <string name="category_game">"Játékok"</string>
+    <string name="category_image">Kép</string>
+    <string maxwidth="11" name="category_image1">"Képek"</string>
+    <string maxwidth="11" name="category_large_file1">"Nagy fájlok"</string>
+    <string name="category_music">Zene</string>
+    <string maxwidth="11" name="category_music1">"Zene"</string>
+    <string name="category_name_app_wallpaper">"Élő háttérkép"</string>
+    <string name="category_name_app_widgets">"Modulok"</string>
+    <string name="category_name_books_and_reference">"Könyvek és tájékoztató kiadványok"</string>
+    <string name="category_name_business">"Vállalkozás"</string>
+    <string name="category_name_comics">"Képregények"</string>
+    <string name="category_name_communication">"Kommunikáció"</string>
+    <string name="category_name_education">"Oktatás"</string>
+    <string name="category_name_entertainment">"Szórakozás"</string>
+    <string name="category_name_finance">"Pénzügyek"</string>
+    <string name="category_name_game">"Játékok"</string>
+    <string name="category_name_game_action">"Akció"</string>
+    <string name="category_name_game_adventure">"Kalandjátékok"</string>
+    <string name="category_name_game_arcade">"Árkádjátékok"</string>
+    <string name="category_name_game_board">"Táblajátékok"</string>
+    <string name="category_name_game_card">"Kártyajátékok"</string>
+    <string name="category_name_game_casino">"Kaszinójátékok"</string>
+    <string name="category_name_game_casual">"Alkalmi"</string>
+    <string name="category_name_game_educational">"Oktatójátékok"</string>
+    <string name="category_name_game_family">"Családi"</string>
+    <string name="category_name_game_music">"Zene"</string>
+    <string name="category_name_game_puzzle">"Kirakós játékok"</string>
+    <string name="category_name_game_racing">"Versenyzés"</string>
+    <string name="category_name_game_role_playing">"Szerepjátékok"</string>
+    <string name="category_name_game_simulation">"Szimulációs játékok"</string>
+    <string name="category_name_game_sports">"Sport"</string>
+    <string name="category_name_game_strategy">"Stratégiai játékok"</string>
+    <string name="category_name_game_trivia">"Apró játékok"</string>
+    <string name="category_name_game_word">"Szójátékok"</string>
+    <string name="category_name_health_and_fitness">"Egészség és fitnesz"</string>
+    <string name="category_name_libraries_and_demo">"Szoftverkönyvtárak és demóprogramok"</string>
+    <string name="category_name_lifestyle">"Életstílus"</string>
+    <string name="category_name_media_and_video">"Média és videó"</string>
+    <string name="category_name_medical">"Orvosi"</string>
+    <string name="category_name_music_and_audio">"Zene és hang"</string>
+    <string name="category_name_news_and_magazines">"Hírek és folyóiratok"</string>
+    <string name="category_name_personalization">"Személyre szabás"</string>
+    <string name="category_name_photography">"Fényképezés"</string>
+    <string name="category_name_productivity">"Irodai alkalmazások"</string>
+    <string name="category_name_shopping">"Vásárlás"</string>
+    <string name="category_name_social">"Közösségi"</string>
+    <string name="category_name_sports">"Sport"</string>
+    <string name="category_name_tools">"Eszközök"</string>
+    <string name="category_name_transportation">"Közlekedés"</string>
+    <string name="category_name_travel_and_local">"Utazás és helyi információk"</string>
+    <string name="category_name_weather">"Időjárás"</string>
+    <string name="category_others">"Egyebek"</string>
+    <string maxwidth="11" name="category_recent1">"Legújabbak"</string>
+    <string name="category_recent_files">"Nemrég hozzáadottak"</string>
+    <string name="category_sorting_summary">"Válassza ki a kategóriapanelen megjelenítendő elemeket"</string>
+    <string name="category_title_category">Kategória</string>
+    <string name="category_title_local_storage">Helyi tároló</string>
+    <string name="category_title_tools">"Eszközök"</string>
+    <string name="category_toast_invalid_item_size_6_or_9">"Kérjük, válasszon ki 6 vagy 9 elemet"</string>
+    <string name="category_toast_invalid_item_size_9">"Kérjük, válasszon ki 9 elemet"</string>
+    <string name="category_toast_invalid_remove">"Ezt az elemet nem lehet eltávolítani"</string>
+    <string name="category_toast_max_item_size">"Válasszon ki max. 9 elemet"</string>
+    <string name="category_video">Videó</string>
+    <string maxwidth="11" name="category_video1">"Videók"</string>
+    <string name="clear_account_info">Minden fiók elfelejtése</string>
+    <string description="Menu Option: clear all checkbox" maxwidth="" name="clear_all">Összes kijelölés törlése</string>
+    <string name="click_plus_to_add_favorite_folder">"Nyomja meg a + gombot egy kedvenc mappa hozzáadásához"</string>
+    <string description="Toast: The size is over the limit and cannot be uploaded" maxwidth="-1" name="cloud_download_flie_limit_space">A méret meghaladta a határértéket és nem lehet feltölteni</string>
+    <string description="Toast: The name of the file uploaded is not supported by cloud server" maxwidth="-1" name="cloud_flie_name_not_supported">"A művelet nem hajtható végre, mert a fájlnév a felhőszerveren nem támogatott."</string>
+    <string description="home cloud get available devices fail" name="cloud_homebox_get_devices_fail">Az elérhető HomeCloud-eszközök keresése sikertelen</string>
+    <string description="home cloud has no available devices" name="cloud_homebox_no_available_devices">Nincs elérhető HomeCloud-eszköz</string>
+    <string description="home cloud device is sleep" name="cloud_homebox_status__info_Sleep">Alvó állapotú</string>
+    <string description="home cloud device is offline" name="cloud_homebox_status__info_offline">Offline</string>
+    <string description="home cloud device is online" name="cloud_homebox_status__info_online">Online</string>
+    <string description="home cloud device is offline" name="cloud_homebox_status_offline">Az eszköz offline állapotban van</string>
+    <string description="diaglog cloud background paste" name="cloud_paste_backgroud">Háttér</string>
+    <string description="diaglog cloud  now is copy files" name="cloud_paste_copying">Másolás...</string>
+    <string description="diaglog cloud  current" name="cloud_paste_current">Jelenlegi</string>
+    <string description="diaglog cloud  now is delete source files" name="cloud_paste_deleting">Forrásfájlok törlése...</string>
+    <string description="diaglog cloud  paste" name="cloud_paste_downloading">Fájlok letöltése</string>
+    <string description="diaglog cloud  total" name="cloud_paste_total">Összesen</string>
+    <string description="diaglog cloud  paste uploading" name="cloud_paste_uploading">Fájlok feltöltése</string>
+    <string description="Toast: cloud preview action" maxwidth="-1" name="cloud_preview_action_fail">A felhőfájlok előnézete nem sikerült.</string>
+    <string description="Toast: cloud share action" maxwidth="-1" name="cloud_share_action_fail">A felhőfájlok megosztása nem sikerült.</string>
+    <string description=">Do you want to remove" maxwidth="-1" name="cloud_storage_remove_hint">"Szeretne kijelentkezni a(z) „%s” fiókból?"</string>
+    <string description="Dialog title: Remove cloud storage" maxwidth="-1" name="cloud_storage_remove_hint_title">Kijelentkezés</string>
+    <string description=">Do you want to signin" maxwidth="-1" name="cloud_storage_sign_in">Csatlakozás a következő fiókkal:</string>
+    <string description="Dialog title: Signin cloud storage" maxwidth="-1" name="cloud_storage_sign_in_title">%s csatlakoztatása</string>
+    <string description=">Do you want to signout" maxwidth="-1" name="cloud_storage_sign_out">Biztosan ki szeretne jelentkezni?</string>
+    <string description="Dialog title: Signout cloud storage" maxwidth="-1" name="cloud_storage_sign_out_title">Kapcsolat bontása</string>
+    <string description="Add more cloud storage" maxwidth="-1" name="cloud_storage_title">További felhő tárhely hozzáadása</string>
+    <string description="diaglog cloud  token is invalidate" name="cloud_token_invalidate">A token érvénytelen. Jelentkezzen be újra!</string>
+    <string description="Toast: The size is over the limit and cannot be uploaded" maxwidth="-1" name="cloud_upload_flie_limit_space">A méret meghaladta a határértéket és nem lehet feltölteni</string>
+    <string name="com_facebook_image_download_unknown_error">Váratlan hiba történt egy kép betöltése közben.</string>
+    <string name="com_facebook_internet_permission_error_message">A webes bejelentkezéshez szükséges a jogosultság az internet használatára.</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifest-hiba</string>
+    <string name="com_facebook_like_button_liked">Kedveled</string>
+    <string name="com_facebook_like_button_not_liked">Tetszik</string>
+    <string name="com_facebook_loading">Betöltés...</string>
+    <string name="com_facebook_loginview_cancel_action">Törlés</string>
+    <string name="com_facebook_loginview_log_in_button">Bejelentkezés</string>
+    <string name="com_facebook_loginview_log_in_button_long">Bejelentkezés a Facebook használatával</string>
+    <string name="com_facebook_loginview_log_out_action">Kijelentkezés</string>
+    <string name="com_facebook_loginview_log_out_button">Kijelentkezés</string>
+    <string name="com_facebook_loginview_logged_in_as">Bejelentkezve %1$s néven</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Bejelentkezve a Facebook használatával</string>
+    <string name="com_facebook_send_button_text">Küldés</string>
+    <string name="com_facebook_share_button_text">Megosztás</string>
+    <string name="com_facebook_tooltip_default">Újdonság! A döntés a kezedben van: kiválaszthatod, hogy milyen adatokat osztasz meg az alkalmazásokkal.</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Engedélyezés"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"A(z) <ns1:g id="APP_NAME">%1$s</ns1:g> alkalmazás csak akkor működik, ha  engedélyezi a Google Play-szolgáltatásokat."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Google Play-szolgáltatások engedélyezése"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Telepítés"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"A(z) <ns1:g id="APP_NAME">%1$s</ns1:g> alkalmazás nem fut a Google Play-szolgáltatások nélkül, amelyek hiányoznak az eszközről."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"A Google Play-szolgáltatások beszerzése"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Google Play-szolgáltatások – hiba"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"A(z) <ns1:g id="APP_NAME">%1$s</ns1:g> alkalmazás problémába ütközött a Google Play-szolgáltatások használata során. Próbálkozzon újra."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"A(z) <ns1:g id="APP_NAME">%1$s</ns1:g> alkalmazás nem fut a Google Play-szolgáltatások nélkül, amelyeket eszköze nem támogat."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Frissítés"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"A(z) <ns1:g id="APP_NAME">%1$s</ns1:g> alkalmazás csak akkor fog működni, ha frissíti a Google Play-szolgáltatásokat."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"A Google Play-szolgáltatások frissítése"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"A(z) <ns1:g id="APP_NAME">%1$s</ns1:g> alkalmazás nem fut a Google Play-szolgáltatások nélkül, amelyek frissítése folyamatban van."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"A Google Play-szolgáltatások új verziójára van szükség. A szolgáltatás hamarosan frissíti önmagát."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Megnyitás a telefonon"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Bejelentkezés"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Bejelentkezés Google-fiókkal"</string>
+    <string name="confirm">"Megerősítés"</string>
+    <string maxwidth="-1" name="confirm_ok">OK</string>
+    <string description="confirm password textview title" name="confirm_password">Jelszó megismétlése</string>
+    <string description="ask user to enter password again to confirm" name="confirm_password_edit">Adja meg újra a jelszót</string>
+    <string description="content" maxwidth="-1" name="content">"A szoftver használata az ASUS honlapján olvasható feltételek alapján lehetséges: \nhttp://www.asus.com"</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="copy">Másolás</string>
+    <string description="Toast: copy ready" maxwidth="-1" name="copy_ready_more">A kijelölt fájlok vágolapra másolása megtörtént és beilleszthetők.</string>
+    <string description="Toast: copy ready. %s is variable string." maxwidth="-1" name="copy_ready_one">\A(z) "%s\" vágolapra másolása megtörtént és beilleszthető.</string>
+    <string name="copy_to">Másolás ide:</string>
+    <string description="country region textview title" name="country_region">Ország térség</string>
+    <string description="ack user to select on country" name="country_region_select">Válassza ki a térséget</string>
+    <string name="create_shortcut">"Parancsikon létrehozása"</string>
+    <string name="create_shortcut_dialog">"Parancsikon létrehozása az Indítón"</string>
+    <string name="create_shortcut_toast">"A parancsikon létrehozása az Indítón befejeződött"</string>
+    <string name="cta_agree">"Engedélyez"</string>
+    <string name="cta_check_title">"Megjegyez"</string>
+    <string name="cta_dialog_content">A <b>Fájlkezelő</b> megpróbálja használni a hálózatot, ez előfizetéstől függően díjfizetéssel járhat.</string>
+    <string name="cta_dialog_title">"Hálózat használatával"</string>
+    <string name="cta_disagree">"Megtagad"</string>
+    <string name="cta_show_menu">"Hálózati engedély"</string>
+    <string name="current_folder">"Aktuális mappa"</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="cut">Kivágás</string>
+    <string description="Toast: cut ready" maxwidth="-1" name="cut_ready_more">A kijelölt fájlok kivágása és vágolapra másolása megtörtént, és beilleszthetők.</string>
+    <string description="Toast: cut ready. %s is variable string." maxwidth="-1" name="cut_ready_one">\A(z) "%s\" kivágása és vágolapra másolása megtörtént, és beilleszthető.</string>
+    <string description="button text for sort file by date" maxwidth="-1" name="date">Dátum</string>
+    <string description="button text for sort file by date ascending" maxwidth="-1" name="date_ascending">Dátum (legrégebbi-legújabb)</string>
+    <string description="button text for sort file by date descending" maxwidth="-1" name="date_descending">Dátum (legújabb-legrégebbi)</string>
+    <string msgid="7984755014526510295" name="day">"1 nap"</string>
+    <string msgid="2070509222727852210" name="days">"<ns1:g id="DAYS">%s</ns1:g> nap"</string>
+    <string maxwidth="-1" name="dbx_install_contnet">A Dropbox nincs telepítve. Szeretné letölteni a play store oldalról és telepíteni?</string>
+    <string maxwidth="" name="dbx_install_title">A Dropbox nincs telepítve</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="delete">Törlés</string>
+    <string description="Dialog Title: delete dialog title" maxwidth="" name="delete_dialog">Fájl törlése</string>
+    <string description="Toast: delete fails" maxwidth="-1" name="delete_fail">A fájl törlése sikertelen.</string>
+    <string description="Dialog Content: text in dialog. %d is variable number." maxwidth="" name="delete_more_files">Törölni akarja a(z) %d elemet?</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="delete_one_directory">Biztosan törölni szeretné a következő könyvtárat?</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="delete_one_files">Törölni akarja ezt a fájlt?</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="delete_progress">Törlés...</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="delete_size">"Méret: "</string>
+    <string description="Toast: delete success" maxwidth="-1" name="delete_success_more">Megtörtént a kijelölt fájlok törlése.</string>
+    <string description="Toast: delete success. %s is variable string." maxwidth="-1" name="delete_success_one">"\"%s\" törölve."</string>
+    <string description="cutstom action bar view title for deselect all checkbox" maxwidth="" name="deselect_all">Minden kijelölés törlése</string>
+    <string name="device_root_path">gyökér</string>
+    <string description="compress dialog title" maxwidth="-1" name="dialog_create_zip_title">Archívum nevének megadása</string>
+    <string description="extract zip file dialog title. %s is a dynamic string. It is zip file name." maxwidth="-1" name="dialog_extract_zip_title">A(z) %s kibontása ide:</string>
+    <string name="dialog_load_stream_url_info">A szükséges információ letöltése a szerverről</string>
+    <string name="dialog_msg_market_login_account">"Kérjük, jelentkezzen be a Google-fiókjába az alkalmazás letöltéséhez"</string>
+    <string description="text encoding dialog title" maxwidth="-1" name="dialog_text_encoding_title">Szöveg kódolása</string>
+    <string name="dialog_title_market_login_account">"Fiók hozzáadása"</string>
+    <string description="show zip info dialog title. %s is a dynamic string. Is is a zip file name" maxwidth="-1" name="dialog_unzip_preview_title">A(z) %s kibontása</string>
+    <string description="Dialog Title: Directory information dialog title" maxwidth="-1" name="dir_info_dialog_title">Könyvtáradatok</string>
+    <string name="display">"Megjelenítés mint"</string>
+    <string name="display_hint">"A Sajátgép lehet üres"</string>
+    <string name="dm_openfile">"Fájl megnyitása"</string>
+    <string name="do_not_show_again">"Ne jelenjen meg többé"</string>
+    <string name="domain">"Domain:"</string>
+    <string name="domain_hint">"Lehet üres"</string>
+    <string name="download_fail">sikertelen letöltés!</string>
+    <string name="drag_items_one">Elem elhúzása</string>
+    <string name="drag_items_other">Elemek elhúzása</string>
+    <string name="drawer_close">"Navigációs fiók bezárása"</string>
+    <string name="drawer_home">Kezdőoldal</string>
+    <string name="drawer_open">"Navigációs fiók megnyitása"</string>
+    <string description="Hint: the operation is incorrect" maxwidth="-1" name="drop_incorrect_hint">Helytelen művelet</string>
+    <string description="Hint: the target folder which you want to do something" maxwidth="-1" name="drop_target_to">Cél:</string>
+    <string name="dumdownloadfrom">Letöltés innen:</string>
+    <string name="dumuploadto">Feltöltés ide:</string>
+    <string name="duplicate_files">"Dupla fájlok"</string>
+    <string name="duplicate_files_content_hint">"Dupla fájlok megkeresése és törlése az Ön engedélyével."</string>
+    <string name="edit_toast_name_too_long">Ön elérte a karakterek maximálisan megengedett számát</string>
+    <string name="edit_toast_special_char">Speciális karakter nem használható</string>
+    <string name="editcategory_hint">"Érintse meg a szerkesztés gombot a Kategória panel testreszabásához."</string>
+    <string description="describe the empty folder" maxwidth="-1" name="empty_folder_title">"Nincsenek fájlok"</string>
+    <string description="Dialog Button: click to open the encoding list dialog" maxwidth="-1" name="encode">Szöveg kódolása</string>
+    <string description="ask user to enter password" maxwidth="-1" name="enter_password">"Jelszó megadása"</string>
+    <string name="eula_content_description">
+        \nEz a végfelhasználói licencszerződés („EULA”) érvényes és kötelező érvényű szerződést képvisel az ASUSTeK Computer Inc. („ASUS“) és Ön mint felhasználó között a lentiekben meghatározott ASUS-szoftver („Szoftver”) használatát illetően. A szoftver telepítésével és használatának folytatásával ÖN KIFEJEZETTEN ELISMERI, HOGY AZ EULA FELTÉTELEIT ELOLVASTA ÉS MEGÉRTETTE, ÉS AZOK, VALAMINT AZ EULA ESETLEGES ÚJ VÁLTOZATAINAK KÖTELEZŐ ÉRVÉNYÉT ELFOGADJA. 
+\n\n1.A SZOFTVER az érintett ASUS-termékben található vagy hozzá mellékelt ASUS-szoftvert jelenti, ideértve többek között a jövőbeli programjavításokat, frissítéseket, továbbfejlesztett és módosított változatokat.
+\nA Szoftverhez egyéb, az Asus vagy harmadik fél által előállított olyan szoftverek lehetnek mellékelve, amelyek licencelése egy vagy több, a www.opensource.org/licenses cím alatt felsorolt, ingyenes, nyílt forráskódú szoftverekre vonatkozó licenc alapján történik. Ezen ingyenes, nyílt forráskódú szoftverek biztosítása az Ön részére kizárólag a hozzá mellékelt, illetve a Szoftvert kísérő FOSS licencfájlban megtalálható, vonatkozó licencszerződés vagy szerzői jogi nyilatkozat alapján történik. A jelen EULA az ilyen ingyenes, nyílt forráskódú szoftverekre nem vonatkozik.
+\n\n2.LICENC A jelen EULA feltételei alapján az ASUS ezennel korlátozott, személyes, nem üzleti, nem kizárólagos engedélyt biztosít az Ön számára a Szoftver kizárólag az ASUS termékekbe ágyazott változatának használatára. Ön egyetlen, géppel olvasható formátumú másolatot készíthet a Szoftverről, kizárólag biztonsági mentési célból; a biztonsági másolatnak tartalmaznia kell az eredetiben megtalálható, szerzői jogokkal vagy egyéb védett információkkal kapcsolatos összes nyilatkozatot. Ez a licenc nem adható allicencbe és nem ruházható át, kivéve annak a személynek vagy szervezetnek, akire Ön a Szoftvert tartalmazó teljes ASUS-termék tulajdonjogát átruházza, feltéve, ha Ön az ezen EULA alapján élvezett összes jogát véglegesen átruházza, és a Szoftverről nem tart meg teljes vagy részleges másolatokat, az átvevő pedig elfogadja a jelen EULA feltételeit.
+\n\n3.VISSZAFEJTÉS KORLÁTOZÁSA Ön nem fejtheti vissza, nem bonthatja elemeire, nem dekódolhatja, és nem szerelheti szét a Szoftvert, illetve nem teheti lehetővé és nem mozdíthatja elő a fentieket, kivéve és csak olyan mértékben, amennyiben közvetlenül alkalmazható jogszabály a fentiek érvényesítését megtiltja.
+\n\n4.TITOKTARTÁS Ön köteles megőrizni és nem adhatja át, illetve adathatja át harmadik fél számára sem részben, sem egészben a Szoftverrel kapcsolatos bizalmas információkat, ideértve többek között az üzleti titkokat és a bármilyen formájú, szerzői jog által védett anyagokat.
+\n\n5.A szellemi tulajdonjogok Ön tudomásul veszi és elfogadja, hogy a Szoftverrel kapcsolatos és rá vonatkozó összes szellemi tulajdonjog, jogcím és érdekeltség az ASUS, illetve az ASUS licencadója kizárólagos tulajdona marad. A jelen EULA egy rendelkezésének sem célja ezen szellemi tulajdonjogok az Ön számára történő átruházása. A szellemi tulajdonjogok minden jogosulatlan használata az EULA, valamint a szellemi tulajdonjogokkal kapcsolatos jogszabályok megsértését jelenti, ideértve többek között a szerzői jogi és védjegyekkel kapcsolatos törvényeket.
+\nAmennyiben Ön bármiféle információt, anyagot, ötletet, elképzelést vagy technikát, a személyes adatokat leszámítva, elküld az ASUS-nak a Szoftveren keresztül („Visszajelzések”), Ön tudomásul veszi és elfogadja, hogy: (i) Az Ön visszajelzései nem tartalmazhatnak bizalmas vagy védett információkat; (ii) az ASUS nem kötelezhető semmiféle, kifejezett vagy vélelmezett titoktartásra a Visszajelzésekkel kapcsolatban; (iii) az ASUS jogosult az ASUS saját belátása szerint bármilyen célra, bármilyen módon, az egész világon felhasználni vagy nyilvánosságra hozni a Visszajelzéseket; (iv) az Ön Visszajelzései az ASUS Önnel szembeni bármiféle kötelezettségvállalása nélkül az ASUS tulajdonába kerülnek; és (v) Ön semmiféle javadalmazásra vagy visszatérítésre nem jogosult.
+\n\n6.IDŐTARTAMA ÉS MEGSZŰNÉS A jelen EULA a Szoftver Ön általi telepítésével lép hatályba. Ön a jelen Licencet bármikor felmondhatja, ha a Szoftver minden használatával felhagy, és eltávolítja a Szoftvert az ASUS-termékről. Az Ön jogait az ASUS előzetes értesítés nélkül megszüntetheti, ha úgy véljük, Ön az EULA bármely rendelkezését nem tartja be.
+\n\n7.Garancia kizárása és a felelősség korlátozása ÖN TUDOMÁSUL VESZI, HOGY A SZOFTVERT ÚGY KAPJA KÉZHEZ, „AHOGY VAN”. A JELEN SZOFTVER MINŐSÉGÉVEL ÉS MŰKÖDÉSÉVEL KAPCSOLATOS TELJES KOCKÁZATOT ÖN VISELI, IDEÉRTVE TÖBBEK KÖZÖTT, DE NEM KIZÁRÓLAG, AZ ÖSSZES SZÜKSÉGES SZERVIZELÉS ÉS JAVÍTÁS KÖLTSÉGÉT. AZ ASUS A TÖRVÉNY ÁLTAL MEGENGEDETT TELJES MÉRTÉKBEN ELZÁRKÓZIK A KIFEJEZETT VAGY VÉLELMEZETT GARANCIÁK BIZTOSÍTÁSÁTÓL A SZOFTVERRE, ILLETVE A JELEN EULA ÉRTELMÉBEN VAGY A SZOFTVERHEZ BIZTOSÍTOTT EGYÉB INFORMÁCIÓKRA VAGY DOKUMENTÁCIÓKRA VONATKOZÓAN, IDEÉRTVE TÖBBEK KÖZÖTT AZ ELADHATÓSÁGRA VAGY EGY BIZONYOS CÉLRA VALÓ ALKALMASSÁGRA, A JOGSÉRTÉS HIÁNYÁRA VONATKOZÓ, ILLETVE A HASZNÁLATTAL VAGY TELJESÍTMÉNNYEL KAPCSOLATOS GARANCIÁKAT. Az ASUS EMELLETT NEM GARANTÁLJA A SZOFTVER HASZNÁLATÁVAL ELÉRHETŐ EREDMÉNYEKET, SEM A SZOFTVER RÉVÉN MEGSZERZETT INFORMÁCIÓK PONTOSSÁGÁT ÉS MEGBÍZHATÓSÁGÁT. EGYES ORSZÁGOK JOGSZABÁLYAI BIZONYOS GARANCIÁK KIZÁRÁSÁT, ILLETVE A BIZONYOS KÁRESEMÉNYEKKEL KAPCSOLATOS GARANCIÁK KORLÁTOZÁSÁT VAGY KIZÁRÁSÁT NEM TESZIK LEHETŐVÉ. ENNEK MEGFELELŐEN ELKÉPZELHETŐ, HOGY A FENTI NYILATKOZATOK ÉS KORLÁTOZÁSOK RÉSZBEN VAGY EGÉSZBEN ÖNRE NEM VONATKOZNAK.
+\nA SZOFTVER HASZNÁLATÁBÓL ÉS/VAGY MŰKÖDÉSÉBŐL EREDŐ TELJES KOCKÁZAT ÖNT TERHELI. AZ ASUS ÉS LICENCADÓI, ILLETVE BÁRMELYIKÜK TISZTSÉGVISELŐI, IGAZGATÓI, ALKALMAZOTTAI, MEGBÍZOTTAI ÉS PARTNEREI SEMMILYEN ESETBEN NEM VISELNEK FELELŐSSÉGET A KÖVETKEZMÉNYES, VÉLETLEN, KÖZVETLEN, KÖZVETETT, KÜLÖNLEGES, BÜNTETŐJOGI  JELLEGŰ ÉS EGYÉB KÁROKÉRT (IDEÉRTVE KORLÁTOZÁS NÉLKÜL AZ ELMARADT HASZONNAL, ÜZLETMENET MEGSZAKADÁSÁVAL, ADATVESZTESÉGGEL VAGY EGYÉB PÉNZÜGYI VESZTESÉGEKKEL KAPCSOLATOS KÁROKAT), AMELYEK A JELEN EULA-BÓL VAGY A SZOFTVER VAGY A SZOFTVER VALAMELY RÉSZÉNEK HASZNÁLATÁBÓL, HASZNÁLATÁRA VALÓ KÉPTELENSÉGBŐL EREDNEK VAGY AZZAL KAPCSOLATOSAK, MÉG AKKOR SEM, HA AZ ASUS-T TÁJÉKOZTATTÁK AZ ILYEN JELLEGŰ KÁROK LEHETŐSÉGÉRŐL. EGYES ORSZÁGOK JOGSZABÁLYAI BIZONYOS GARANCIÁK KIZÁRÁSÁT, ILLETVE A BIZONYOS KÁRESEMÉNYEKKEL KAPCSOLATOS GARANCIÁK KORLÁTOZÁSÁT VAGY KIZÁRÁSÁT NEM TESZIK LEHETŐVÉ. ENNEK MEGFELELŐEN ELKÉPZELHETŐ, HOGY A FENTI NYILATKOZATOK ÉS KORLÁTOZÁSOK RÉSZBEN VAGY EGÉSZBEN ÖNRE NEM VONATKOZNAK.
+\n\n8.Kártalanítás ÖN vállalja, hogy megvédi, kártalanítja és mentesíti az ASUS-t és partnereit, szolgáltatóit, üzletfeleit, viszonteladóit, licencadóit, tisztségviselőit, igazgatóit és alkalmazottait minden olyan veszteséggel, kárral, felelősséggel vagy költséggel szemben és kapcsolatban, amely a jelen EULA vagy bármely vonatkozó jogszabály vagy előírás, illetve harmadik fél joga ÖN általi megszegéséből eredő vagy azzal kapcsolatos igényekkel vagy követelésekkel van kapcsolatban (ideértve az észszerű ügyvédi díjakat és bírósági költségeket).
+    </string>
+    <string name="eula_content_title">"Végfelhasználói licencszerződés"</string>
+    <string description="Do not translate ASUS" maxwidth="" name="eula_description">"Jogi megállapodás az ASUS-alkalmazások és a végfelhasználók között"</string>
+    <string maxwidth="" name="eula_title">"Végfelhasználói licencszerződés"</string>
+    <string name="example">"Példa:"</string>
+    <string description="Dialog Button: extract file for dialog" maxwidth="-1" name="extract">Kibontás</string>
+    <string name="facebook_app_invite">"Facebook-partnerek"</string>
+    <string name="fb_request_error_permissions">"Ennek az alkalmazásnak nincs engedélye ehhez a művelethez. Próbáljon meg ismét bejelentkezni az alkalmazásba."</string>
+    <string name="fileList_Nofiles">Nincs fájl</string>
+    <string description="Dialog Title: File information dialog title" maxwidth="-1" name="file_info_dialog_title">Fájladatok</string>
+    <string description="Application Name shown on title" maxwidth="" name="file_manager">Fájlkezelő</string>
+    <string description="string indicating camera flash is not used" maxwidth="-1" name="flash_off">Vaku nélkül</string>
+    <string description="string indicating camera flash is fired" maxwidth="-1" name="flash_on">Vakuvillanás</string>
+    <string description="click to retrieve password" maxwidth="-1" name="forget_password">"<u>Elfelejtette jelszavát?</u>"</string>
+    <string name="fragment_analyzer_allfiles_used_hint">"Használt:"</string>
+    <string name="fragment_analyzer_chart_free_hint">"Szabad:"</string>
+    <string name="fragment_analyzer_chart_total_hint">"Összesen:"</string>
+    <string name="fragment_analyzer_chart_used_hint">"HASZNÁLT"</string>
+    <string name="fragment_analyzer_more_hint">"egyéb"</string>
+    <string name="google_app_invite">"Google-partnerek"</string>
+    <string name="group_title_installed">"Telepítve"</string>
+    <string name="group_title_not_installed">"Nincs telepítve"</string>
+    <string name="group_title_others">"Egyebek"</string>
+    <string name="group_title_recommended">"Ajánlott"</string>
+    <string name="hidden_zone_change_password">"Jelszó módosítása"</string>
+    <string name="hidden_zone_confirm_password">"PIN-kód megerősítése"</string>
+    <string name="hidden_zone_enter_password">"Adja meg a PIN-kódját"</string>
+    <string name="hidden_zone_fingerprint_to_unlock">"Feloldásra használt ujjlenyomat"</string>
+    <string name="hidden_zone_forget_password">"Jelszó elfelejtése"</string>
+    <string name="hidden_zone_introduction_description">"Rejtse el privát fájljait a Rejtett szekrénybe. A Rejtett szekrény megnyitásához PIN-kód szükséges."</string>
+    <string name="hidden_zone_password_mismatch">"A PIN-kód nem egyezik"</string>
+    <string name="hidden_zone_set_password_success">"A jelszó sikeresen létrehozva"</string>
+    <string name="hidden_zone_setup_account">"Fiók létrehozása"</string>
+    <string name="hidden_zone_setup_password">"Adjon meg egy 4 jegyű PIN-kódot"</string>
+    <string name="hidden_zone_wrong_password">"Helytelen PIN-kód"</string>
+    <string description="Can’t connect to HomeCloud." maxwidth="-1" name="homecloud_access_error">A HomeCloud-hoz való csatlakozás sikertelen. Kérjük, győződjön meg arról, hogy a HomeCloud szolgáltatás online állapotú.</string>
+    <string name="homecloud_notice_1">Az ASUS HomeCloud Windows alatt futó szerverszoftver. Úgy tervezték, hogy otthoni digitális könyvtárként működjön és jelenleg felhő alapú tárolási, valamint multimédia adatfolyam szolgáltatást kínál, amelyet a jövőben továbbiakkal egészíthetnek ki.</string>
+    <string name="homecloud_notice_2">Letöltheti és megtapasztalhatja a használat élményét. </string>
+    <string name="homecloud_notice_3">http://home.asuscloud.com/</string>
+    <string name="homecloud_toast_udp_unsupported">Korlátozott hálózat. Vegye fel a kapcsolatot a hálózat rendszergazdájával, vagy váltson másik hálózatra.</string>
+    <string msgid="2546819039651509323" name="hour">"1 óra"</string>
+    <string msgid="2071487018566991613" name="hours">"<ns1:g id="HOURS">%s</ns1:g> óra"</string>
+    <string maxwidth="" name="httpserver_acquire_permission_message">"A HTTP-fájlkiszolgáló leáll, és előfordulhat, hogy a műveletek megszakadnak. Folytatja?"</string>
+    <string maxwidth="" name="httpserver_connectwifiname">"Csatlakoztatott Wi-Fi hozzáférési pont:"</string>
+    <string maxwidth="" name="httpserver_description">"Indítsa el a szolgáltatást a mobilkészülék és a PC csatlakoztatásához."</string>
+    <string maxwidth="" name="httpserver_instruction">"Írja be ezt a címet a PC-n lévő böngészőbe:"</string>
+    <string maxwidth="" name="httpserver_need_saf">"Ha PC-ről szeretné kezelni a külső tárolóhelyét, engedélyt kell beállítania."</string>
+    <string maxwidth="" name="httpserver_no_network">"Csatlakoztassa a készülékét ugyanahhoz a Wi-Fi-hálózathoz"</string>
+    <string maxwidth="" name="httpserver_no_permission_message">"A szükséges engedély nélkül nem fog tudni írni a külső tárolóhelyre. Folytatja?"</string>
+    <string maxwidth="" name="httpserver_no_permission_title">"Vezeték nélküli fájlátvitel elindítása"</string>
+    <string maxwidth="" name="httpserver_start">"Indítás"</string>
+    <string maxwidth="" name="httpserver_stop">"Leállítás"</string>
+    <string maxwidth="" name="httpserver_title">"Vezeték nélküli fájlátvitel PC-re"</string>
+    <string description="Context Menu: options of context menu" maxwidth="-1" name="info">Adatok</string>
+    <string description="file info textview context" maxwidth="-1" name="info_aperture">"Rekesz: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_datetime">"Felvétel dátuma: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_exposure_time">"Exponálási idő: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_file_num">"Fájlok száma: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_flash">"Vaku: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_focal_length">"Fókusztávolság: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_image_height">"Magasság: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_image_width">"Szélesség"</string>
+    <string description="file info textview context" maxwidth="-1" name="info_image_x">" x "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_iso">"ISO: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_location">"Hely: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_maker">"Készítő: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_model">"Modell: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_modified">"Módosítás dátuma: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_name">"Név: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_orientation">"Tájolás: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_path">"Útvonal: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_permission">"Engedély: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_type">Típus:</string>
+    <string description="file info textview context" maxwidth="-1" name="info_white_balance">"Fehéregyensúly: "</string>
+    <string description="Do not translate ASUS" maxwidth="" name="inspire_asus_description">"Összegyűjti a használati adatokat az ASUS számára a termékek és a felhasználói élmény fejlesztése érdekében"</string>
+    <string name="inspire_asus_title">"Ösztönzés az ASUS számára"</string>
+    <string name="install">"Telepítés"</string>
+    <string description="storage label" maxwidth="-1" name="internal_storage_title">Belső tároló</string>
+    <string description="Toast: the account is invalid" maxwidth="-1" name="invalid_account">"Érvénytelen fiók"</string>
+    <string description="Invalid directory path" maxwidth="-1" name="invalid_directory_path">Érvénytelen könyvtárútvonal</string>
+    <string name="invalid_server_id">"Érvénytelen szerverazonosító"</string>
+    <string name="invalid_xml">"Érvénytelen XML"</string>
+    <string name="inviteContentTitle">%1$s meghívja Önt, hogy töltse le és telepítse az ASUS Fájlkezelőt.</string>
+    <string name="inviteContent_p1">Az ASUS Fájlkezelő ideális módszert biztosít ahhoz, hogy fájlokat kezeljen az okoskészülékével. Ez a fájlkezelő alkalmazás segít kezelni és rendezetten tartani a telefon memóriakártyáján, a microSD-kártyáján, a helyi hálózatán vagy az iCloudban tárolt különféle fájljait.</string>
+    <string name="inviteContent_p2">Kezelje a fájljait hatékonyan és egyszerűen az ASUS Fájlkezelővel! Az ASUS Fájlkezelő segít kezelni az összes fájlját, függetlenül attól, hogy a készülék memóriájában, egy microSD-kártyán, a helyi hálózaton vagy egy felhőtárhely-fiókban, például az általunk üzemeltetett ASUS HomeCloudban és webtárhelyen, illetve más felhőszolgáltatásban, például a Dropboxban, a Google Drive-ban vagy a Microsoft OneDrive-ban vannak-e eltárolva.</string>
+    <string name="inviteContent_p3">Nekem nagyon tetszik az ASUS Fájlkezelő alkalmazás. Próbáld ki te is MOST! :D</string>
+    <string description="sticker detail page button name" maxwidth="-1" name="invite_friends">"Barátok meghívása"</string>
+    <string name="item">elem</string>
+    <string name="items">elem</string>
+    <string name="keep">"Megtartás"</string>
+    <string name="kk_sd_permission_warning">Az Android rendszer korlátozása miatt az Android 4.4-es verziója nem engedélyezi harmadik felek alkalmazásai számára a külső SD-kártyák módosítását.</string>
+    <string name="large_files_content_hint">"Nagy fájlok megkeresése és törlése az Ön engedélyével."</string>
+    <string description="linked file is missing" maxwidth="-1" name="linked_file_missing">"A hivatkozott fájl hiányzik"</string>
+    <string description="text for progress bar" maxwidth="-1" name="loading">"Betöltés..."</string>
+    <string name="local">Helyi</string>
+    <string description="button text for sort file by date" maxwidth="-1" name="location">"Tartózkodási hely"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="logging_cloud_storage">Naplózás...</string>
+    <string name="login_account_miss">"A Facebook-alkalmazásnak nem sikerült regisztrálnia az Android Account Managert. Próbáljon meg kijelentkezni a Facebook-alkalmazáson keresztül, majd jelentkezzen be újra."</string>
+    <string name="login_again_later">"A kiszolgáló jelenleg nem érhető el. Kérjük, próbálkozzon újra később."</string>
+    <string description="dialog title, key in the asus ID and PW to Login account" maxwidth="-1" name="login_asus_id">"ASUS Account bejelentkezés"</string>
+    <string description="Toast: login account fail" name="login_fail" width="-1">Sikertelen bejelentkezés</string>
+    <string description="login account name" maxwidth="-1" name="login_id">"Account név/WebStorage azonosító"</string>
+    <string description="logout account" name="logout_account" width="-1">Kijelentkezés</string>
+    <string name="low_storage_tutorial_description">Tartsa megérintve a fájlok kijelöléséhez, majd válassza az „Áthelyezés ide: Google Drive” lehetőséget</string>
+    <string name="low_storage_tutorial_title">Fájlok áthelyezése ide: Google Drive</string>
+    <string name="m_permission_dialog_message">"Érintse meg a [Beállítások] elemet a(z) [%2$s] engedély bekapcsolásához az [Alkalmazásinformációk] > [Engedélyek] menüpontban, majd indítsa újra a(z) %1$s alkalmazást."</string>
+    <string name="m_permission_dialog_positive_button">"Beállítások"</string>
+    <string name="m_permission_setting_subtitle_files">"A(z) %1$s alkalmazásnak a(z) %2$s jogosultságra van szüksége, hogy hozzáférjen a készüléken lévő fájlokhoz."</string>
+    <string name="m_permission_setting_title_cloud_storage">"Nem lehet hozzáférni a felhőtárhelyhez"</string>
+    <string name="m_permission_setting_title_files">"Nem lehet hozzáférni a fájlokhoz"</string>
+    <string name="m_permission_setting_turn_on">"Bekapcsolás"</string>
+    <string description="string indicating how camera shooting feature is used" maxwidth="-1" name="manual">Kézi</string>
+    <string name="market_app_error">"Hiba merült fel az eszközére telepített piaci alkalmazásban!"</string>
+    <string description="ask user to enter email address as account name" maxwidth="-1" name="member_id_hint">"E-mail cím megadása"</string>
+    <string description="The title of a menu for General Preferences.Pressing the menu item lets user to view and edit his general settings" maxwidth="30" name="menu_general_preferences">"Általános beállítások"</string>
+    <string description="settings menu tutorial" maxwidth="-1" name="menu_tutorial">Oktatóprogram</string>
+    <string msgid="2486157997434653710" name="minute">"1 perc"</string>
+    <string msgid="6115838729146292526" name="minutes">"<ns1:g id="MINUTES">%s</ns1:g> perc"</string>
+    <string description="Hint: move the items" maxwidth="-1" name="move">Áthelyezés</string>
+    <string name="move_or_delete_msg">"Ideiglenesen törli az elemeket a Lomtárba?\n(A lenti négyzet bejelölésével véglegesen törölheti az elemeket.)"</string>
+    <string name="move_to">Áthelyezés ide:</string>
+    <string description="Toast: move to recycle bin fails" maxwidth="-1" name="move_to_hidden_zone_fail">"Áthelyezés a Rejtett szekrénybe sikertelen"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="move_to_hidden_zone_progress">"Áthelyezés a Rejtett szekrénybe..."</string>
+    <string description="Toast: move to recycle bin success" maxwidth="-1" name="move_to_hidden_zone_success_more">"A kiválasztott fájlok átkerültek a Rejtett szekrénybe."</string>
+    <string description="Toast: move to recycle bin success. %s is variable string." maxwidth="-1" name="move_to_hidden_zone_success_one">"A(z) „%s” fájl áthelyezve a Rejtett szekrénybe."</string>
+    <string description="Toast: move to recycle bin fails" maxwidth="-1" name="move_to_trash_fail">"Áthelyezés a Lomtárba sikertelen"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="move_to_trash_progress">"Áthelyezés a Lomtárba..."</string>
+    <string description="Toast: move to recycle bin success" maxwidth="-1" name="move_to_trash_success_more">"A kijelölt fájlok átkerültek a Lomtárba"</string>
+    <string description="Toast: move to recycle bin success. %s is variable string." maxwidth="-1" name="move_to_trash_success_one">"„%s” áthelyezve a Lomtárba"</string>
+    <string name="msg_too_big_to_recycle">"Az elemek túl nagyok a Lomtár számára.\nSzeretné véglegesen töröni őket?"</string>
+    <string name="multi_drm_file_forbidden_operation">Ez a művelet nincs engedélyezve, mert egyes kijelölt fájlok DRM-védettek.</string>
+    <string description="shortcut label" maxwidth="-1" name="my_camera_title">Kamera</string>
+    <string description="shortcut label" maxwidth="-1" name="my_download_title">Letöltés</string>
+    <string description="shortcut label" maxwidth="-1" name="my_music_title">Zene</string>
+    <string description="shortcut label" maxwidth="-1" name="my_picture_title">Kép</string>
+    <string description="storage label" maxwidth="-1" name="my_storage_title">My Storage</string>
+    <string description="button text for sort file by name" maxwidth="-1" name="name">Név</string>
+    <string description="button text for sort file by name ascending" maxwidth="-1" name="name_ascending">Név (z-a)</string>
+    <string description="button text for sort file by name descending" maxwidth="-1" name="name_descending">Név (a-z)</string>
+    <string name="network_cta_hint">"Fogadja el a hálózati csatlakozást "</string>
+    <string name="network_invalid">"Érvénytelen hálózati kapcsolat"</string>
+    <string name="network_invalid_info">"A kapcsolat érvénytelen. Kérjük, ellenőrizze újra."</string>
+    <string name="network_not_available">"A hálózati csatlakozás nem sikerült"</string>
+    <string description="Can’t connect to networkpalce" maxwidth="-1" name="networkplace_access_error">"A csatlakozás sikertelen. Győződjön meg arról, hogy a szerver online állapotú."</string>
+    <string name="networkplace_storage_title">"Hálózati hely"</string>
+    <string description="Dialog Title: create new folder" maxwidth="" name="new_folder_dialog">Új mappa létrehozása</string>
+    <string description="Toast: new folder fails" maxwidth="-1" name="new_folder_fail">Az új mappa létrehozása sikertelen.</string>
+    <string description="Toast: new folder success. %s is variable string." maxwidth="-1" name="new_folder_success">"A(z) \"%s\" mappa létrehozva."</string>
+    <string maxwidth="" name="news_1"><b>Testreszabható kezdőpanel</b>: Mostantól különféle kategóriákkal és elrendezésekkel testreszabhatja a kezdőpanelt.</string>
+    <string maxwidth="" name="news_2"><b>Kedvencválasztó</b>: A kedvencek mappát közvetlenül a kedvencek kategóriából adhatja hozzá.</string>
+    <string maxwidth="" name="news_3"><b>Fájlkezelő widget</b>: Létrehozhat egy mappára mutató parancsikont az Indítón.</string>
+    <string maxwidth="" name="news_mark1">"★  "</string>
+    <string maxwidth="" name="news_subtitle">"Íme, a legfontosabb frissítések, amelyeket nem érdemes kihagyni."</string>
+    <string maxwidth="" name="news_title">"Újdonságok"</string>
+    <string maxwidth="" name="news_v21"><b>Vezeték nélküli fájlátvitel PC-re/PC-ről</b>: Fájlok továbbítása PC-ről/PC-re és fájlok kezelése</string>
+    <string maxwidth="" name="news_v23">"Teljesítménnyel kapcsolatos fejlesztés és hibajavítások"</string>
+    <string maxwidth="" name="news_v31">"A Tárhelyelemzővel megtudhatja, milyen típusú fájlok foglalják el az egész tárhelyet"</string>
+    <string maxwidth="" name="news_v32">"Újonnan bővített alkalmazáskategória"</string>
+    <string name="news_v41">"Privát fájlok elrejtése a Rejtett szekrényben"</string>
+    <string name="news_v42">"Törölt fájlok visszaállítása a Lomtárból"</string>
+    <string name="news_v43">"Dupla fájlok eltávolítása a Tárhelyelemzőből"</string>
+    <string name="news_v44">"Új kijelzési funkció: Sötét mód"</string>
+    <string name="news_v45">"Nagyobb teljesítmény"</string>
+    <string name="news_v46">"Hibajavítások"</string>
+    <string name="newversion_description">"Egy frissített verzió áll rendelkezésre a Fájlkezelőhöz. Szeretné most elvégezni a frissítést?"</string>
+    <string name="newversion_title">"Új verzió"</string>
+    <string name="next">Következő</string>
+    <string description="Dialog Button: no for dialog" maxwidth="" name="no">Nem</string>
+    <string name="no_device">"Nincs eszköz"</string>
+    <string name="no_items">"Nincsenek elemek"</string>
+    <string name="no_network">"Nincs hálózati kapcsolat"</string>
+    <string description="The description to inform users when there is no internet access" maxwidth="-1" name="no_network_connection_message">"Kérjük, ellenőrizze a kapcsolatot, és próbálja újra"</string>
+    <string name="no_network_info">"Internetkapcsolat szükséges az alkalmazás eléréséhez. Kérjük, engedélyezze a mobilhálózatot vagy a WiFi-t a Settings (Beállítások) menüben."</string>
+    <string name="no_password">"Adja meg a jelszavát"</string>
+    <string name="no_right">"Fiókjával nincs joga bejelentkezni."</string>
+    <string name="no_share_folder">Ezen az eszközön nincs megosztott fájl</string>
+    <string description="Toast: No space to copy file and left on device" maxwidth="-1" name="no_space_fail">Nincs elegendő tárhely</string>
+    <string name="no_user_exist">"Nem létező felhasználónév"</string>
+    <string name="no_username">"Előbb adja meg felhasználónevét."</string>
+    <string name="notification_gdrive_redeem_content">"Vegye igénybe MOST a Google Drive-val. "</string>
+    <string name="notification_gdrive_redeem_title">"100 GB ingyenes tárhely!"</string>
+    <string name="occur_error_do_relogin">"Jelentkezzen be ismét a(z) %s-fiókjába"</string>
+    <string description="Dialog Button: ok for dialog" maxwidth="" name="ok">OK</string>
+    <string name="onedrive_account_only_one_alert">"Egyszerre csak egy OneDrive for ASUS Account adható hozzá. Fiók újra cserélése előtt törölnie kell aktuális fiókját."</string>
+    <string name="open">Megnyitás</string>
+    <string description="Toast: open file fails" maxwidth="-1" name="open_fail">A fájl megnyitása sikertelen.</string>
+    <string maxwidth="" name="open_source_license_description">"Licenctájékoztató nyílt forrású szoftverekhez"</string>
+    <string maxwidth="" name="open_source_license_title">"Nyílt forráskódú licencek"</string>
+    <string name="othersforum_site_url">http://www.asus.com/hu/Terms_of_Use_Notice_Privacy_Policy/OthersForum_Site/</string>
+    <string name="password">Jelszó</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="paste">Beillesztés</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="paste_exist_apply">Alkalmazás mindegyikre</string>
+    <string description="Dialog Title: paste exist dialog title" maxwidth="" name="paste_exist_dialog">Megegyező fájlnév</string>
+    <string description="Dialog Content: text in dialog. %s is variable string." maxwidth="" name="paste_exist_file">"A(z) \"%s\" fájl már létezik."</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="paste_exist_replace">Felül akarja írni az újjal?</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="paste_exist_to">Cél:</string>
+    <string description="Toast: paste fails" maxwidth="-1" name="paste_fail">A fájlok beillesztése sikertelen.</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="paste_progress">Beillesztés...</string>
+    <string name="paste_progress_title">Másik másolási folyamat fut...</string>
+    <string description="Toast: paste success. %s is variable string." maxwidth="-1" name="paste_success">Megtörtént a fájlok hozzáadása ehhez: \"%s\".</string>
+    <string name="permanently_delete">"Végleges törlés"</string>
+    <string description="Toast: operation permission deny" maxwidth="-1" name="permission_deny">Engedély megtagadva.</string>
+    <string name="permission_dialog_title">"Engedély egy alkalmazásnak"</string>
+    <string name="permission_essential">"Engedélyek szükségesek. Nyissa meg a Beállításokat az engedélyek beállításához."</string>
+    <string name="permission_reason_contact">"A Fájlkezelő hozzáférést kér a fiókja adataihoz, hogy be tudjon jelentkezni a felhőtárhelyre."</string>
+    <string name="permission_reason_storage">"A Fájlkezelő hozzáférést kér a készülék tárhelyéhez, hogy megfelelően tudjon működni."</string>
+    <string description="Toast: You may not select more than %s photos." maxwidth="-1" name="photo_selection_limit_number_toast">Legfeljebb %s fotó választása</string>
+    <string description="This is the title of the screen for setting user preferences." maxwidth="-1" name="preferences_title">"Beállítások"</string>
+    <string name="previous_folder">"Előző mappa"</string>
+    <string maxwidth="" name="privacy_policy">"Adatvédelmi irányelv"</string>
+    <string name="privacy_policy_url">http://www.asus.com/us/Terms_of_Use_Notice_Privacy_Policy/Privacy_Policy/</string>
+    <string name="processing_picture">"Kép feldolgozása"</string>
+    <string name="processing_video">"Videó feldolgozása"</string>
+    <string name="progressactivity_title">Transmission Manager</string>
+    <string name="promote_darkmode_message">"Beállíthatja a %s között"</string>
+    <string name="promote_darkmode_title">"Új kijelzési funkció: Sötét mód"</string>
+    <string name="promotion_notification_content">"Próbálja ki a \"Vezeték nélküli fájlátvitelt\"."</string>
+    <string name="promotion_notification_title">"Továbbra is USB-kábelt használ a fájlátvitelhez?"</string>
+    <string name="publish">"Közzétesz"</string>
+    <string name="pullfreshlistview_footer_hint_normal">Több betöltése</string>
+    <string name="pullfreshlistview_footer_hint_ready">Engedje el a többi betöltéséhez</string>
+    <string name="pullfreshlistview_header_hint_loading">Frissítés...</string>
+    <string name="pullfreshlistview_header_hint_normal">Húzza le</string>
+    <string name="pullfreshlistview_header_hint_ready">Engedje el a frissítéshez</string>
+    <string name="pullfreshlistview_header_last_time">Legutóbbi frissítés időpontja:</string>
+    <string name="rate_later">"Később"</string>
+    <string name="rate_now">"Értékelés most"</string>
+    <string description="rate us" maxwidth="-1" name="rate_us">Értékeljen bennünket</string>
+    <string name="rating_dialog_message_v3_1">"Szívesen használja a(z) %s alkalmazást? Adjon nekünk további ösztönzést, és értékeljen bennünket a Google Play áruházban."</string>
+    <string name="rating_dialog_message_v3_2">"Javaslatokat és visszajelzést itt írhat nekünk: %s."</string>
+    <string name="recent_files_content_hint">"Legutóbbi fájlok megkeresése és törlése az Ön engedélyével."</string>
+    <string description="shortcut title: recently used files" name="recently_used" width="-1">Legújabb</string>
+    <string name="recommend_clean_master_msg">"A legmegbízhatóbb Android-optimalizáló, sebességfokozó, akkumulátorkímélő és ingyenes vírusirtó alkalmazás a világon. \nLetölti most?"</string>
+    <string name="recommend_clean_master_title">"Alkalmazás ajánlása"</string>
+    <string name="recommend_scan_qr_code">"Mondja el barátainak, hogy a QR-kód\nleolvasásával letölthetik ezt az alkalmazást."</string>
+    <string description="recruit beta user" maxwidth="-1" name="recruit_beta_user">A előzetes verzió beszerzése</string>
+    <string name="recycle_bin_content_hint">"Az összes törölt fájlt és mappát tartalmazza."</string>
+    <string description="dialog title, key in the asus ID and PW to Login account" maxwidth="-1" name="regist_asus_id">"ASUS Account létrehozása"</string>
+    <string description="ask user to enter email address to registe New Account" name="registe_id">Fióknév</string>
+    <string description="ask user to enter new password" name="registe_password">8-25 karaktert adjon meg</string>
+    <string description="sign up registe action" name="registe_sign_up">Feliratkozás</string>
+    <string description="network is unavailable, please try again" maxwidth="-1" name="remote_connected_error_hint">A hálózat nem elérhető. Kérjük, próbálja újra.</string>
+    <string description="remote storage label" maxwidth="-1" name="remote_storage_title">Távoli tároló</string>
+    <string name="remove_favorite">Eltávolítás a kedvencek közül</string>
+    <string name="remove_favorite_notice_more">Biztos, hogy el akar távolítani %d elemet a kedvencek mappából?</string>
+    <string name="remove_favorite_notice_one">"Biztos, hogy el akarja távolítani a(z) \"%s\" elemet a kedvencek mappából?"</string>
+    <string name="remove_favorite_success">Sikeresen eltávolítva</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="rename">Átnevezés</string>
+    <string description="Dialog Title: rename dialog title" maxwidth="" name="rename_dialog">Átnevezés</string>
+    <string description="Toast: rename fails" maxwidth="-1" name="rename_fail">A fájl átnevezése sikertelen.</string>
+    <string name="rename_favorite_folder">A kedvencek mappa átnevezése</string>
+    <string name="rename_favorite_notice">Már létezik egy azonos nevű kedvencek mappa. Szeretné átnevezni?</string>
+    <string name="rename_favorite_success">Sikeres átnevezés és mentés a kedvencekhez</string>
+    <string description="Toast: rename success" maxwidth="-1" name="rename_success">Fájl sikeresen átnevezve.</string>
+    <string description="renaming file" name="renaming_file" width="-1">Átnevezés</string>
+    <string name="replace">"Lecserélés"</string>
+    <string description="Toast: restore fails" maxwidth="-1" name="restore_fail">"Visszaállítás sikertelen"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="restore_progress">"Visszaállítás..."</string>
+    <string description="Toast: restore success" maxwidth="-1" name="restore_success_more">"A kijelölt fájlok visszaállítva"</string>
+    <string description="Toast: restore success. %s is variable string." maxwidth="-1" name="restore_success_one">"„%s” visszaállítva"</string>
+    <string name="retention_notification_large_file">"Ön %1$s nagy méretű fájlt adott hozzá. Tekintse meg őket most."</string>
+    <string name="retention_notification_recent_file">"A legutóbbi fájljai %1$s helyet foglalnak. Tekintse meg őket most."</string>
+    <string name="saf_permission_tutorial_content">Az ASUS File Manager az SD-kártya kezelése érdekében kér hozzáférést. Engedélyezi?</string>
+    <string name="saf_permission_tutorial_content_v2">"%s hozzáférési jogainak megadásához el kell végeznie bizonyos lépéseket."</string>
+    <string name="saf_permission_tutorial_dialog">"Egy műveletsort kell végrehajtania, amelynek során hozzáférési jogokat kell adnia az SD-kártyának. Folytatja?"</string>
+    <string name="saf_permission_tutorial_title">Hozzáférés kérése az SD-kártya kezeléséhez</string>
+    <string name="saf_tutorial_step_one">Érintse meg a Menü ikont az SD-kártya megjelenítéséhez.</string>
+    <string name="saf_tutorial_step_three">"Érintse meg a SD-kártya választása elemet az ASUS Fájlkezelőt elérésének engedélyezéséhez."</string>
+    <string name="saf_tutorial_step_three_v2">"A(z) %s kiválasztása megérintésével adjon hozzáférést az ASUS Fájlkezelőnek."</string>
+    <string name="saf_tutorial_step_two">Simítsa el a kijelző bal szélét a fiók megjelenítéséhez, majd érintse meg az SD-kártyát.</string>
+    <string name="saf_tutorial_step_two_v2">"Simítson a képernyő bal oldaláról a fiók megjelenítéséhez, majd érintse meg a(z) %s elemet."</string>
+    <string name="saf_tutorial_title">Engedély SD-kártya használatára</string>
+    <string name="saf_tutorial_title_v2">"Jogosultság %s működtetésére"</string>
+    <string description="account config dialog remind message" maxwidth="-1" name="samba_client_config_check">Felhasználónév és jelszó mentése, majd közvetlen kapcsolódás legközelebb</string>
+    <string name="samba_input_error">A felhasználónév vagy jelszó nem lehet üres!</string>
+    <string name="samba_login_error">A megadott felhasználónév vagy jelszó helytelen.</string>
+    <string name="samba_storage_add_title">"Hálózati hely"</string>
+    <string name="samba_storage_title">"SAMBA"</string>
+    <string name="scan_qr_code">"QR-kód leolvasása"</string>
+    <string description="rate now" maxwidth="" name="scroll_up_toast">Görgessen fel az értékeléshez</string>
+    <string maxwidth="-1" name="sd_label">OneDrive for ASUS</string>
+    <string name="search_action">"Keresés"</string>
+    <string description="search hint message" maxwidth="-1" name="search_hint">Fájlnév megadása</string>
+    <string description="cutstom action bar view title for search" maxwidth="-1" name="search_label">Fájlkeresés</string>
+    <string description="search dialog message" maxwidth="-1" name="search_progress">Keresés...</string>
+    <string description=" text for search result" formatted="false" maxwidth="-1" name="search_result_title">%s keresése itt %s: %d fájlt találtam</string>
+    <string name="select_album">Album kiválasztása</string>
+    <string description="Menu Option: select all checkbox" maxwidth="" name="select_all">Összes kijelölése</string>
+    <string description="Title: select the folder" maxwidth="-1" name="select_folder">Mappa kiválasztása</string>
+    <string name="select_folder_by_ok_button">"Nyomja meg a %1$s gombot a mappa kijelöléséhez"</string>
+    <string name="select_photo">Fénykép kiválasztása</string>
+    <string name="server">"Szerver:"</string>
+    <string name="server_error">"Szerverhiba"</string>
+    <string name="server_hint">"172.0.0.1/ShareFolder"</string>
+    <string name="server_title">Szerver</string>
+    <string maxwidth="-1" name="service_not_available_in_your_country">"Ez az elem az Ön országában nem érhető el."</string>
+    <string name="set_password_title">"PIN-kód létrehozása"</string>
+    <string name="set_ring">"Beállítás gyűrűként"</string>
+    <string name="setting_display_group">"Képernyő"</string>
+    <string name="setting_notification_group">"Értesítés"</string>
+    <string name="setting_notification_large_files">"Értesítés nagy fájlról"</string>
+    <string name="setting_notification_recent_files">"Értesítés legutóbbi fájlról"</string>
+    <string name="setting_notification_wireless_transfer">"Értesítés vezeték nélküli átvitelről"</string>
+    <string name="setting_view_group">"Megtekintési beállítás"</string>
+    <string name="setting_view_hide_files">"Rendszerfájlok elrejtése"</string>
+    <string name="settings">"Beállítások"</string>
+    <string description="This is the title of cache size" maxwidth="-1" name="settings_cache_size_title">"Gyorsítótár mérete"</string>
+    <string description="Remove all cache documents" maxwidth="-1" name="settings_clear_cache_info">"Összes gyorsítótárazott dokumentum törlése"</string>
+    <string description="Clear the cache" maxwidth="-1" name="settings_clear_cache_title">"Gyorsítótár ürítése"</string>
+    <string description="This is the title of clearing search history action for setting user preferences." maxwidth="-1" name="settings_clear_search_history">"Keresési előzmények törlése"</string>
+    <string name="settings_darkmode_message">"Sötét mód alkalmazása"</string>
+    <string name="settings_description">"Helyi mappák és fájlok"</string>
+    <string description="This is the title of documents cache" maxwidth="-1" name="settings_documents_cache">"Dokumentum-gyorsítótár"</string>
+    <string description="recommend text" maxwidth="" name="settings_encourage_us_detail">Ha szívesen használja az %s alkalmazást, kérjük, adjon nekünk 5 csillagos minősítést a Play Store áruházban. Ez arra ösztönözne bennünket, hogy a terméket továbbfejlesszük.</string>
+    <string description="This is the title of hiding system files action for setting user preferences." maxwidth="-1" name="settings_hide_system_files">"Rendszerfájlok elrejtése"</string>
+    <string description="This is the title of moving to the trash can." maxwidth="-1" name="settings_moved_to_the_trash_can">"Áthelyezve a kukába"</string>
+    <string description="Remove account" maxwidth="-1" name="settings_remove_account">"Fiók törlése"</string>
+    <string description="Set the cache size to %s" maxwidth="-1" name="settings_set_cache_size">"A gyorsítótár beállított mérete „%s”"</string>
+    <string description="This is the title of space used for setting user preferences." maxwidth="-1" name="settings_space_used">"Használt hely"</string>
+    <string description="This is the title of trash can information for setting user preferences." maxwidth="-1" name="settings_trash_can">"Kuka"</string>
+    <string description="This is the title of user name" maxwidth="-1" name="settings_user_name">"Felhasználónév"</string>
+    <string name="setup">"Beállítás"</string>
+    <string name="setup_account_description">"Hozzon létre e-mail-fiókot a PIN-kód beszerzéséhez"</string>
+    <string name="setup_account_no_internet_connection">"Nincs internetkapcsolat"</string>
+    <string name="setup_account_skip">"Kihagy"</string>
+    <string name="setup_account_title">"PIN-kód beszerzése"</string>
+    <string name="setup_fingerprint_message">"Engedélyezi az ujjlenyomattal történő feloldást? A Rejtett szekrény támogatja az ujjlenyomatos ellenőrzést. A kezdéshez olvassa be ujjlenyomatát a Beállítások között."</string>
+    <string name="setup_my_digital_code">"PIN-kód létrehozása"</string>
+    <string name="share_more">"Egyebek"</string>
+    <string name="share_with_friend">"Az alkalmazás megosztása barátokkal"</string>
+    <string description="Context Menu: options of context menu: share folder via Wi-Fi Direct" maxwidth="" name="shared_folder">Megosztás Wi-Fi Directen</string>
+    <string description="shortcit title" maxwidth="-1" name="short_cuts_title">Gyorsgomb</string>
+    <string name="shortcut_hint">"Ha hosszan megérint egy kategóriát vagy mappát, létrehozhat egy parancsikont a Launcheren."</string>
+    <string description="check if user want to show password" name="show_passwd">Jelszó mutatása</string>
+    <string description="show when sign in failed" maxwidth="-1" name="signin_failed">"Sikertelen bejelentkezés"</string>
+    <string description="signout account" name="signout_account" width="-1">Kapcsolat bontása</string>
+    <string name="single_drm_file_forbidden_operation">Ez a művelet nincs engedélyezve, mert DRM-védett.</string>
+    <string description="button text for sort file by size" maxwidth="-1" name="size">Méret</string>
+    <string description="button text for sort file by size ascending" maxwidth="-1" name="size_ascending">Méret (nagy-kicsi)</string>
+    <string description="button text for sort file by size descending" maxwidth="-1" name="size_descending">Méret (kicsi-nagy)</string>
+    <string name="ssl_err_msg_info">"Nem lehet biztonságos kapcsolatot létrehozni a kiszolgálóhoz. Folytatja?"</string>
+    <string name="ssl_err_msg_title">"SSL kapcsolódási hiba"</string>
+    <string description="shortcut title: my favorite files" name="starred" width="-1">"Csillaggal megjelölt"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="storage_type_cloud">Felhő tárhely</string>
+    <string name="storage_type_cloud_att">"Hálózati tárhely"</string>
+    <string name="storage_type_local">Helyi tárhely</string>
+    <string name="storage_type_shortcut">"Gyors hozzáférés"</string>
+    <string name="storagetype_add_account">Fiók Google hozzáadása</string>
+    <string name="tap_to_exit">Érintse meg újra a kilépéshez</string>
+    <string name="target_directory_is_child_of_source">"A művelet nem hajtható végre, mert a célkönyvtár a forráskönyvtár gyermeke."</string>
+    <string description="Toast: target file exists" maxwidth="-1" name="target_exist">A célfájl már létezik.</string>
+    <string description="Toast: target folder exists. %s is variable string." maxwidth="-1" name="target_folder_exist">"A mappa: \"%s\" már létezik."</string>
+    <string description="" maxwidth="" name="tell_friend">Mondja el egy ismerősnek</string>
+    <string maxwidth="" name="terms_of_service">"Tájékoztató használati feltételekről"</string>
+    <string maxwidth="" name="terms_of_service_url">http://www.asus.com/us/Terms_of_Use_Notice_Privacy_Policy/Official-Site/</string>
+    <string description="title" maxwidth="-1" name="title">"Jogi információk:"</string>
+    <string name="toast_auto_lock_notify_message">"Rejtett szekrény zárolása, ha a készülék zárolva van"</string>
+    <string description="Toast: The item(s) has been copied completely" maxwidth="-1" name="toast_drag_copied_items">Az elem(ek) sikeresen másolva.</string>
+    <string description="Toast: The item(s) has been moved completely" maxwidth="-1" name="toast_drag_moved_items">Az elem(ek) sikeresen áthelyezve.</string>
+    <string description="Toast: Sorry, copy files complete but cut fail" maxwidth="-1" name="toast_warning_copy_comple_cut_fail">"Sajnáljuk, a fájlok másolása elkészült, de a régi fájlok törlése nem sikerült"</string>
+    <string description="Toast: Sorry, copy folders has not been supported" maxwidth="-1" name="toast_warning_copy_folders">"Sajnáljuk, mappák másolása nem támogatott"</string>
+    <string maxwidth="35" name="toolbar_item_title_encourage_us">Értékeljen bennünket</string>
+    <string name="tools_clean_master">"Szemét törlése"</string>
+    <string name="tools_file_transfer">"PC-fájlátvitel"</string>
+    <string name="tools_hidden_zone">"Rejtett szekrény"</string>
+    <string name="tools_recycle_bin">"Lomtár"</string>
+    <string name="tools_storage_analyzer">"Tárhelyelemző"</string>
+    <string name="tools_tip_animation">"Keressen alkalmazásokat!"</string>
+    <string name="tools_zenui_instant_update">"Azonnali frissítés"</string>
+    <string description="shortcut title: trash can" name="trash_can" width="-1">"Kuka"</string>
+    <string maxwidth="-1" name="trash_info_deleted">"Törlés dátuma: "</string>
+    <string maxwidth="-1" name="trash_info_path">"Eredeti elérési út: "</string>
+    <string description="label for trending searches" maxwidth="-1" name="trending_searches">"Népszerű keresések"</string>
+    <string name="tutorial_analyzer_content">"A Tárhelyelemző megállapítja, mely fájlok foglalják el a lemeztárhelyet."</string>
+    <string name="tutorial_category_content">"A fájlok keresése még soha nem volt ilyen könnyű az ASUS Fájlkezelő kategórianézetével."</string>
+    <string name="tutorial_category_title">"Kategórianézet"</string>
+    <string name="tutorial_cloud_content">"Fájlok megnyitása az okostelefonról, a számítógépről és felhőtárhelyekről."</string>
+    <string name="tutorial_cloud_title">"Felhőtárhely"</string>
+    <string name="tutorial_done">Kész</string>
+    <string name="tutorial_page_content_long_press">"Tartson megérintve egy elemet az elem kijelöléséhez, majd érintse meg a „Menü” ikont a többi lehetséges művelet megjelenítéséhez."</string>
+    <string name="tutorial_page_four_content">Gyakran használt mappa beállítása Kedvencként a mappák gyors és egyszerű hozzáféréséhez.</string>
+    <string name="tutorial_page_four_title">Kedvencek</string>
+    <string name="tutorial_page_one_content">"Az ASUS Fájlkezelőt lehetővé teszi, hogy könnyedén kezelje a belső és külső tárolóeszközön, a hálózaton, illetve felhőtárhelyen található fájljait."</string>
+    <string name="tutorial_page_one_title">"ASUS Fájlkezelőt"</string>
+    <string name="tutorial_page_three_content">Húzzon el egy elemet jobbra, hogy megjelenítse a műveleteket, mint például hozzáadás a kedvencekhez, átnevezés, áthelyezés ide:, másolás ide:, illetve egyéb fájlkezelési lehetőségek.</string>
+    <string name="tutorial_page_three_title">Jobbra húzás műveletlista</string>
+    <string name="tutorial_page_title_long_press">Műveletmenü megjelenítése</string>
+    <string name="tutorial_page_two_content">Egyszerűen használható kategóriák, amelyek lehetővé teszik a helyi tárolón lévő fájlok gyors elérését.</string>
+    <string name="tutorial_page_two_title">Kezdőlap</string>
+    <string name="tutorial_skip">Kihagyás</string>
+    <string description="button text for sort file by type" maxwidth="-1" name="type">Típus</string>
+    <string description="document type" maxwidth="-1" name="type_abu">"Asus Alkalmazásmentés"</string>
+    <string description="document type" maxwidth="-1" name="type_apk">"Android-alkalmazás"</string>
+    <string description="document type" maxwidth="-1" name="type_audio">"Audió"</string>
+    <string description="document type" maxwidth="-1" name="type_book">"E-könyv"</string>
+    <string name="type_dialog_audio">Hang</string>
+    <string name="type_dialog_image">Kép</string>
+    <string name="type_dialog_text">Szöveg</string>
+    <string name="type_dialog_title">Megnyitás másként</string>
+    <string name="type_dialog_video">Videó</string>
+    <string description="document type" maxwidth="-1" name="type_directory">"Könyvtár"</string>
+    <string description="document type" maxwidth="-1" name="type_document">"Dokumentum"</string>
+    <string description="document type" maxwidth="-1" name="type_file">"Fájl"</string>
+    <string description="document type" maxwidth="-1" name="type_image">"Kép"</string>
+    <string description="document type" maxwidth="-1" name="type_playlist">"Lejátszási lista"</string>
+    <string description="document type" maxwidth="-1" name="type_rar">"RAR"</string>
+    <string description="document type" maxwidth="-1" name="type_video">"Videó"</string>
+    <string description="document type" maxwidth="-1" name="type_zip">"Zip"</string>
+    <string name="ud_sdk_all_app_update">"Minden alkalmazás az aktuális verzióval fut."</string>
+    <string name="ud_sdk_asus_app_slogan">hasznos alkalmazás</string>
+    <string name="ud_sdk_downloads">Letöltések</string>
+    <string name="ud_sdk_free_download">Ingyenes letöltés</string>
+    <string name="ud_sdk_important_remind_text">"Fontos"</string>
+    <string name="ud_sdk_install">Telepítés</string>
+    <string name="ud_sdk_more_zen_family">További ZenUI alkalmazások felfedezése</string>
+    <string name="ud_sdk_no_network_connection_content">Nem lehet frissíteni az adatokat. Kérjük, ellenőrizze a hálózati beállításokat.</string>
+    <string name="ud_sdk_no_network_connection_title">Nincs hálózati kapcsolat</string>
+    <string name="ud_sdk_open">Megnyitás</string>
+    <string name="ud_sdk_update">Frissítés</string>
+    <string maxwidth="-1" name="ud_sdk_update_sdk">ZenUI család</string>
+    <string maxwidth="-1" name="ud_sdk_update_sdk_asus">ZenUI azonnali frissítés</string>
+    <string name="ud_sdk_wifi_settings">Wi-Fi-beállítások</string>
+    <string name="uf_sdk_already_give_5star">"Már 5 csillagos minősítést adtam"</string>
+    <string description="%d is a number, don&apos;t translate" name="uf_sdk_article_read_count">"%d megtekintés"</string>
+    <string name="uf_sdk_attachment_format_warning">"Rossz fájlformátum. Csak képfájl csatolható"</string>
+    <string name="uf_sdk_attachment_total_size">"Összesen"</string>
+    <string name="uf_sdk_attachment_warning">"A melléklet mérete meghaladja a korlátot."</string>
+    <string maxwidth="-1" name="uf_sdk_cancel_btn_content">"Mégse"</string>
+    <string name="uf_sdk_choosertitle_sharevia">"Megosztás itt:"</string>
+    <string name="uf_sdk_connection_error_msg">"A szerver megszakította a kapcsolatot. Kérjük, próbálkozzon újra később."</string>
+    <string name="uf_sdk_connection_error_title">"Csatlakozási hiba"</string>
+    <string name="uf_sdk_discard">"Elvet"</string>
+    <string name="uf_sdk_email_illigal">"Az e-mail cím már használatban van"</string>
+    <string maxwidth="-1" name="uf_sdk_empty_notification">"Üres :)"</string>
+    <string name="uf_sdk_faq">"GYIK"</string>
+    <string name="uf_sdk_feedback_and_help">"Visszajelzés és súgó"</string>
+    <string name="uf_sdk_forum_description">"Kapcsolódjon be az ASUS-felhasználók beszélgetéseibe megoldások kereséséhez és megosztásához"</string>
+    <string maxwidth="-1" name="uf_sdk_grant_permission_title">"Engedély megadása a(z) alkalmazásnak"</string>
+    <string name="uf_sdk_help">"Súgó"</string>
+    <string name="uf_sdk_instant_answer_question">"Hasznos ez a GYIK?"</string>
+    <string name="uf_sdk_like">"Tetszik"</string>
+    <string maxwidth="-1" name="uf_sdk_message">"Értesítések"</string>
+    <string name="uf_sdk_msg_bad_email_format">"Az e-mail cím nem érvényes. Próbálja újra."</string>
+    <string name="uf_sdk_msg_confirm_discard_topic">"Piszkozata nem lesz mentve. Mégis törölni szeretné?"</string>
+    <string name="uf_sdk_msg_confirm_discard_topic_title">"Törli a közzétételt?"</string>
+    <string name="uf_sdk_msg_subscribe">"A téma állapotával kapcsolatos értesítésekre a feliratkozását e-mailben fogja megkapni."</string>
+    <string name="uf_sdk_msg_subscribe_success">"Sikeres feliratkozás"</string>
+    <string name="uf_sdk_msg_ticket_created">"Az ASUS sikeresen fogadta az Ön visszajelzését"</string>
+    <string name="uf_sdk_msg_topic_created">"Sikeresen közzétéve"</string>
+    <string name="uf_sdk_msg_unsubscribe">"Sikeres leiratkozás"</string>
+    <string name="uf_sdk_name_hint">"Adja meg nevét"</string>
+    <string name="uf_sdk_name_illigal">"A felhasználónév már foglalt"</string>
+    <string name="uf_sdk_network_error">"Nincs internetkapcsolat. Kérjük, ellenőrizze a hálózati beállításokat."</string>
+    <string description="zenui news" maxwidth="" name="uf_sdk_news">"Hírek"</string>
+    <string name="uf_sdk_no_network_connection_content">"A kapcsolatot a szerver megszakította. Próbálja újra később."</string>
+    <string name="uf_sdk_no_network_connection_title">"Kapcsolódási hiba"</string>
+    <string name="uf_sdk_nothing_found">"Nincs találat"</string>
+    <string name="uf_sdk_notice">"Értesítés"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category1">"Közlemények"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category2">"Oktatóprogramok és tippek"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category3">"Promóciók"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category4">"Események"</string>
+    <string name="uf_sdk_publish_an_topic">"Új téma közzététele"</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_rate_now">"Értékelés most"</string>
+    <string description="%s is AP name, don&apos;t translate" maxWidth="" name="uf_sdk_rate_us_detail">"Ha szívesen használja a(z) %s alkalmazást, kérjük, adjon nekünk 5 csillagos minősítést a Play Store áruházban."</string>
+    <string maxWidth="" name="uf_sdk_rate_us_detail_new">"5 csillagos minősítéssel arra ösztönözne bennünket, hogy a terméket továbbfejlesszük!"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_rating">"Értékelés 5 csillaggal"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title">"Értékeljen bennünket!"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title_new">"Értékeljen bennünket!"</string>
+    <string description="Menu item for userFeedback sdk" maxwidth="-1" name="uf_sdk_report_bug">Hiba jelentése</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_scroll_up_toast">"Görgessen fel az értékeléshez"</string>
+    <string name="uf_sdk_search_hint">"Keresés"</string>
+    <string name="uf_sdk_select_common_bug">"Általános hiba kiválasztása"</string>
+    <string name="uf_sdk_send_feedback">"Visszajelzés küldése"</string>
+    <string name="uf_sdk_send_feedback_help">"Visszajelzését és e-mail címét elküldjük az ASUS-nak. A szervizcsoport megkeresi Önt e-mailben."</string>
+    <string maxwidth="-1" name="uf_sdk_setting_btn_content">"Beállítások"</string>
+    <string description="recommend title" maxwidth="" name="uf_sdk_settings_encourage_us_title">"Motiváljon bennünket"</string>
+    <string maxwidth="-1" name="uf_sdk_storage_permission_description">"A multimédiás fájlok eléréséhez a funkciónak hozzáférésre van szüksége a tárhelyhez. \n\nHa szeretné engedélyezni a funkciót, a Beállítások gombbal lépjen a(z) Beállítások oldalára, majd az engedély megadásához használja az „Alkalmazásinformációk” > „Engedélyek” pontot.\n"</string>
+    <string name="uf_sdk_submit_topic">"Közzétesz"</string>
+    <string name="uf_sdk_subscribe_dialog_title">"Feliratkozás erre a témára"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_answered">"Megválaszolva"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_completed">"Kész"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_declined">"Elutasítva"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_implemented">"Elvégezve"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_planned">"Eltervezve"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_under_review">"Felülvizsgálat alatt"</string>
+    <string name="uf_sdk_thanks_for_your_feedback">"Köszönjük a visszajelzését!"</string>
+    <string description="%s is a application name, don&apos;t translate" name="uf_sdk_ticket_hint">"Írja be a visszajelzését a(z) %s alkalmazásról"</string>
+    <string name="uf_sdk_title_topic">"Téma"</string>
+    <string name="uf_sdk_topic">"Téma"</string>
+    <string name="uf_sdk_topic_description_heading">"Leírás"</string>
+    <string name="uf_sdk_topic_description_hint">"Írja le részletesen a témáját"</string>
+    <string name="uf_sdk_topic_filter">"TÉMÁK"</string>
+    <string name="uf_sdk_topic_form_help">"Amikor témát tesz közzé a felhasználói fórumon, mások feliratkozhatnak és kommenteket írhatnak rá. Amikor az ASUS fejlesztői csapata válaszol a témára, e-mailben értesíteni fogjuk Önt."</string>
+    <string name="uf_sdk_topic_form_title">"Új téma közzététele"</string>
+    <string name="uf_sdk_topic_text_heading">"Fórum"</string>
+    <string name="uf_sdk_topic_text_hint">"Írja be témája címét"</string>
+    <string name="uf_sdk_topic_title">"Cím"</string>
+    <string name="uf_sdk_translation_10117605">"Fordítási probléma"</string>
+    <string name="uf_sdk_translation_117562">"Visszajelzés típusa"</string>
+    <string name="uf_sdk_translation_2529543">"Programhiba bejelentése"</string>
+    <string name="uf_sdk_translation_2529544">"Egyéb"</string>
+    <string name="uf_sdk_translation_2530478">"Javaslat"</string>
+    <string name="uf_sdk_unhelpful_article_message_question">"Szeretne visszajelzést küldeni az ASUS fejlesztői csapatának?"</string>
+    <string name="uf_sdk_user_forum">"Felhasználói fórum"</string>
+    <string name="uf_sdk_warning">"Figyelmeztetés"</string>
+    <string name="uf_sdk_wifi_settings">"Wi-Fi-beállítások"</string>
+    <string name="uf_sdk_wlan_settings">"WLAN-beállítások"</string>
+    <string name="uf_sdk_write_your_feedback">"Írja be a visszajelzését"</string>
+    <string name="uf_sdk_your_draft_will_be_discarded">"Piszkozata elvetésre kerül."</string>
+    <string description="description for empty search result" maxwidth="-1" name="unable_to_find_artlcles">"Nem találhatók \u0022%s\u0022 témájú cikkek"</string>
+    <string description="string indicating the length units in milli-meters" maxwidth="-1" name="unit_mm">mm</string>
+    <string description="Context Menu: options of context menu: unshare folder" maxwidth="-1" name="unshared_folder">Megosztás visszavonása</string>
+    <string name="unsupported_area">"Ez a terület nem támogatott"</string>
+    <string description="toast message: extract files fail" maxwidth="-1" name="unzip_fail">A fájlok kibontása sikertelen.</string>
+    <string description="extract file dialog message" maxwidth="-1" name="unzip_progress_msg">Kibontás...</string>
+    <string description="toast message: extract files successly" maxwidth="-1" name="unzip_success">A fájlok kibontása sikeres.</string>
+    <string name="update">"Frissítés"</string>
+    <string name="update_fb_app">"A Facebook mobilalkalmazás verzió nem naprakész.  Kérjük, telepítse a legújabbat a Google Play oldalról."</string>
+    <string name="upgrade_notification_content">A fájlokat típusok szerint tekintheti meg a teljesen új kezdőképernyőn.</string>
+    <string name="upgrade_notification_title">Próbálja ki az új Fájlkezelőt most!</string>
+    <string name="upload_complete">"Feltöltés kész"</string>
+    <string name="upload_complete_dialog_message">"A videó sikeresen feltöltve."</string>
+    <string name="upload_complete_dialog_title">"Kész"</string>
+    <string name="upload_fail">sikertelen feltöltés!</string>
+    <string name="upload_failed">"A letöltés sikertelen"</string>
+    <string name="upload_picture_toast">"A fotót feltölti a rendszer. A feltöltési folyamatot az értesítési ablakban követheti nyomon."</string>
+    <string name="upload_toast">"Megtörténik a videó feltöltése. Ellenőrizze a folyamatot az értesítési ablakban."</string>
+    <string name="uploading_picture">"Kép feltöltése"</string>
+    <string name="uploading_video">"A videó feltöltése..."</string>
+    <string name="user">Felhasználónév</string>
+    <string name="user_hint">rendszergazda</string>
+    <string name="uv_admin_response_format">"Admin válasza: %1$s"</string>
+    <string name="uv_all_articles">"Összes cikk"</string>
+    <string name="uv_all_results_filter">"MIND"</string>
+    <string name="uv_android_sdk">Android SDK</string>
+    <string name="uv_article_browse_question">"Hasznos volt ez a cikk?"</string>
+    <string name="uv_article_instant_answer_question">"Hasznos ez a GYIK?"</string>
+    <string name="uv_cancel">"Mégse"</string>
+    <string name="uv_category">"Kategória"</string>
+    <string name="uv_close">"Bezárás"</string>
+    <string name="uv_comment_hint">"Írja be a hozzászólását"</string>
+    <string name="uv_confirm">"Megerősít"</string>
+    <string name="uv_contact_continue_button">"Továbbra is szeretnék üzenetet küldeni"</string>
+    <string name="uv_contact_hint">"Írja be a kérdését vagy visszajelzését"</string>
+    <string name="uv_contact_us">"Forduljon hozzánk"</string>
+    <string name="uv_display_name">"Megjelenített név"</string>
+    <string name="uv_email_address">"E-mail cím"</string>
+    <string name="uv_email_address_hint">"azoncime@email.com (szükséges)"</string>
+    <string name="uv_error">"Hiba"</string>
+    <string name="uv_failed_signin_error">"Helytelen e-mail vagy jelszó"</string>
+    <string name="uv_forgot_password">"Elfelejtettem a jelszót"</string>
+    <string name="uv_helpful_article_message_question">"Továbbra is szeretne üzenetet küldeni?"</string>
+    <string name="uv_i_want_this">"Kell!"</string>
+    <string name="uv_idea_description_heading">"Írja le részletesebben az ötletét"</string>
+    <string name="uv_idea_description_hint">"(nem kötelező)"</string>
+    <string name="uv_idea_text_heading">"Azt javaslom..."</string>
+    <string name="uv_loading">"Betöltés…"</string>
+    <string name="uv_matching_articles">"Keresésnek megfelelő cikkek"</string>
+    <string name="uv_matching_articles_and_ideas">"Keresésnek megfelelő cikkek és ötletek"</string>
+    <string name="uv_menu_attach">"Csatolás"</string>
+    <string name="uv_menu_search">"Keresés"</string>
+    <string name="uv_msg_bad_email_format">"Adjon meg érvényes e-mail címet."</string>
+    <string name="uv_msg_comment_posted">"Hozzászólása elküldve"</string>
+    <string name="uv_msg_confirm_discard_message">"Biztosan elveti az üzenetet?"</string>
+    <string name="uv_msg_custom_fields_validation">"Töltse ki az összes szükséges mezőt."</string>
+    <string name="uv_msg_forgot_password">"Jelszóemlékeztető e-mail elküldve"</string>
+    <string name="uv_msg_idea_created">"Ötlete létrehozva"</string>
+    <string name="uv_msg_ticket_created">"Üzenete elküldve"</string>
+    <string name="uv_msg_user_identity_validation">"Adja meg az e-mail címét"</string>
+    <string name="uv_name_hint">"Névtelen"</string>
+    <string name="uv_network_error">"Hiba történt a UserVoice-hoz való csatlakozás közben"</string>
+    <string name="uv_nevermind">"Semmi gond"</string>
+    <string name="uv_new_comment">"Új hozzászólás"</string>
+    <string name="uv_next">"Következő"</string>
+    <string name="uv_no">"Nem"</string>
+    <string name="uv_none_of_these_help">"Ezek egyike sem segít"</string>
+    <string name="uv_password">"Jelszó"</string>
+    <string name="uv_password_dialog_title">"Adja meg a jelszavát"</string>
+    <string name="uv_portal_title">"Súgó"</string>
+    <string name="uv_post_a_comment">"Írjon hozzászólást"</string>
+    <string name="uv_post_comment">"Hozzászólás elküldése"</string>
+    <string name="uv_posted_by_format">"Közzétette: %1$s, időpont: %2$s"</string>
+    <string name="uv_powered_by_uservoice">"A UserVoice rendszerére építve"</string>
+    <string name="uv_ranked">"Besorolás: %1$s"</string>
+    <string name="uv_remove_votes">"Szavazatok eltávolítása"</string>
+    <string name="uv_select_none">"(nincs)"</string>
+    <string name="uv_select_one">"Válasszon egyet"</string>
+    <string name="uv_send_message">"Üzenet küldése"</string>
+    <string name="uv_signin_dialog_ok">"Bejelentkezés"</string>
+    <string name="uv_signin_dialog_title">"Bejelentkezés"</string>
+    <string name="uv_status_format">"Állapot: %1$s"</string>
+    <string name="uv_submit_idea">"Ötlet beküldése"</string>
+    <string name="uv_subscribe">"Feliratkozás"</string>
+    <string name="uv_subscribe_dialog_title">"Feliratkozás az ötletre"</string>
+    <string name="uv_suggestion_instant_answer_question">"Segítségére van ez az ötlet?"</string>
+    <string name="uv_thanks">"Köszönjük!"</string>
+    <string name="uv_unhelpful_article_message_question">"Szeretne nekünk üzenetet küldeni?"</string>
+    <string name="uv_value">"Érték"</string>
+    <string name="uv_very_yes">"Igen!"</string>
+    <string name="uv_yes">"Igen"</string>
+    <string name="uv_your_email_address">"Az Ön e-mail címe"</string>
+    <string name="uv_your_name">"Az Ön neve"</string>
+    <string description="version" maxwidth="-1" name="version">"Verzió"</string>
+    <string name="version_text">Verzió:</string>
+    <string name="wait">"Kérjük, várjon..."</string>
+    <string name="warning_stophttpserver">"A mobilkészülék és a PC közötti kapcsolat megszakad. Biztosan kilép?"</string>
+    <string name="whats_new_label">Újdonságok</string>
+    <string description="message for request to connect Network" name="wifi_p2p_connection_msg" width="-1">A felhőszolgáltatások használatához hozzon létre hálózati kapcsolatot.</string>
+    <string description="title for request to connect Network" name="wifi_p2p_connection_title" width="-1">Hálózati kapcsolat létrehozása</string>
+    <string description="message for request to turn on Wi-Fi" name="wifi_p2p_turn_on_wifi_msg" width="-1">A Wi-Fi bekapcsolása Wi-Fi Direct szolgáltatások használatához. Bekapcsolja most a Wi-Fi-t?</string>
+    <string description="title for turn on WiFi dialog" name="wifi_p2p_turn_on_wifi_title" width="-1">A Wi-Fi bekapcsolása</string>
+    <string description="search" maxwidth="-1" name="wifidirect_action_bar_scan">Keresés</string>
+    <string description="Available devices" maxwidth="-1" name="wifidirect_available_devices">Elérhető eszközök</string>
+    <string description="Do you want to connect to device" maxwidth="-1" name="wifidirect_connect_hint">Szeretne csatlakozni ezzel</string>
+    <string description="Dialog title text: Invitation to connect" maxwidth="-1" name="wifidirect_connect_hint_title">Meghívó csatlakozásra</string>
+    <string description="Dialog title text: Wi-Fi Direct connecting" maxwidth="-1" name="wifidirect_connecting_hint_title">Wi-Fi Direct csatlakozás...</string>
+    <string description="connectted" maxwidth="-1" name="wifidirect_connectted">Csatlakoztatva</string>
+    <string description=">Do you want to disconnect" maxwidth="-1" name="wifidirect_disconnect_hint">Szeretné bontani a kapcsolatot ezzel</string>
+    <string description="Disconnect Wi-Fi Direct" maxwidth="-1" name="wifidirect_disconnect_hint_title">Wi-Fi Direct leválasztása</string>
+    <string description="peer devices infomation" maxwidth="-1" name="wifidirect_peer_device_info">"Wi-Fi Direct meghívás fogadásához győződjön meg arról, hogy a kapcsolódó eszköze a Fájlkezelő \"Társeszközök\" oldalán van."</string>
+    <string description="peer devices title" maxwidth="-1" name="wifidirect_peer_device_title">Társeszközök</string>
+    <string description="searching" maxwidth="-1" name="wifidirect_scanning">Keresés...</string>
+    <string description="Search Wi-Fi Direct device" maxwidth="-1" name="wifidirect_storage_title">Wi-Fi Direct eszköz keresése</string>
+    <string description="click to connect" maxwidth="-1" name="wifidirect_touch_to_connect">Kattintás csatlakozáshoz</string>
+    <string name="yandex_account_only_one_alert">"Egyszerre csak egy Yandex Account adható hozzá. Fiók újra cserélése előtt törölnie kell aktuális fiókját."</string>
+    <string name="yes">Igen</string>
+    <string name="zenui_update">"Azonnali ZenUI-frissítések"</string>
+    <string description="toast message: Compress files fail" maxwidth="-1" name="zip_fail">A fájlok tömörítése nem sikerült</string>
+    <string description="compress dialog message" maxwidth="-1" name="zip_progress_msg">Haladás...</string>
+    <string description="toast message: Compress files successly" maxwidth="-1" name="zip_success">Fájlok sikeres tömörítése</string>
+</resources>

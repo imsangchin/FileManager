@@ -1,0 +1,1292 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="alarm_set">
+        <item>"Žadintuvo signalas skambės mažiau nei po 1 minutės skaičiuojant nuo dabar."</item>
+        <item>"Žadintuvo signalas skambės po <ns1:g example="2" id="DAYS">%1$s</ns1:g> skaičiuojant nuo dabar."</item>
+        <item>"Žadintuvo signalas skambės po <ns1:g example="2" id="HOURS">%2$s</ns1:g> skaičiuojant nuo dabar."</item>
+        <item>"Žadintuvo signalas skambės po <ns1:g example="2" id="DAYS">%1$s</ns1:g> ir <ns1:g example="2" id="HOURS">%2$s</ns1:g> skaičiuojant nuo dabar."</item>
+        <item>"Žadintuvo signalas skambės po <ns1:g example="2" id="MINUTES">%3$s</ns1:g> skaičiuojant nuo dabar."</item>
+        <item>"Žadintuvo signalas skambės po <ns1:g example="2" id="DAYS">%1$s</ns1:g> ir <ns1:g example="2" id="MINUTES">%3$s</ns1:g> skaičiuojant nuo dabar."</item>
+        <item>"Žadintuvo signalas skambės po <ns1:g example="2" id="HOURS">%2$s</ns1:g> ir <ns1:g example="2" id="MINUTES">%3$s</ns1:g> skaičiuojant nuo dabar."</item>
+        <item>"Žadintuvo signalas skambės po <ns1:g example="2" id="DAYS">%1$s</ns1:g>, <ns1:g example="2" id="HOURS">%2$s</ns1:g> ir <ns1:g example="2" id="MINUTES">%3$s</ns1:g> skaičiuojant nuo dabar."</item>
+    </string-array>
+    <string-array name="charset_array">
+        <item>"Lotynų-1 (ISO-8859-1)"</item>
+        <item>"„Unicode“ (UTF-8)"</item>
+        <item>"Kinų (GBK)"</item>
+        <item>"Kinų (Big5)"</item>
+        <item>"Japonų (ISO-2022-JP)"</item>
+        <item>"Japonų (SHIFT_JIS)"</item>
+        <item>"Japonų (EUC-JP)"</item>
+        <item>"Korėjiečių (EUC-KR)"</item>
+    </string-array>
+    <string-array name="country_names">
+        <item>"Afganistanas (جمهوری اسلامی افغانستان)"</item>
+        <item>"Albanija (Shqipëri)"</item>
+        <item>"Alžyras"</item>
+        <item>"Amerikos Samoa"</item>
+        <item>"Andora (Principat d\'Andorra)"</item>
+        <item>"Angola (República de Angola)"</item>
+        <item>"Angilija"</item>
+        <item>"Antarktida"</item>
+        <item>"Antigva ir Barbuda"</item>
+        <item>"Argentina (República Argentina)"</item>
+        <item>"Armėnija (Hayastan)"</item>
+        <item>"Aruba"</item>
+        <item>"Australija (Australia)"</item>
+        <item>"Austrija (Österreich)"</item>
+        <item>"Azerbaidžanas"</item>
+        <item>"Bahamos"</item>
+        <item>"Bahreinas (مملكة البحرين)"</item>
+        <item>"Bangladešas (বাংলাদেশ)"</item>
+        <item>"Barbadosas"</item>
+        <item>"Baltarusija (Беларусь)"</item>
+        <item>"Belgija (België)"</item>
+        <item>"Belgija (Belgique)"</item>
+        <item>"Belizas"</item>
+        <item>"Beninas"</item>
+        <item>"Bermudai"</item>
+        <item>"Butanas"</item>
+        <item>"Bolivija"</item>
+        <item>"Bosnija ir Hercegovina (Bosna i Hercegovina)"</item>
+        <item>"Botsvana (Lefatshe la Botsvana)"</item>
+        <item>"Buvė sala"</item>
+        <item>"Brazilija"</item>
+        <item>"Indijos vandenyno Britų teritorija"</item>
+        <item>"Brunėjaus Darusalamas (بروني دارالسلام)"</item>
+        <item>"Bulgarija (България / Balgariya)"</item>
+        <item>"Burkina Fasas"</item>
+        <item>"Burundis"</item>
+        <item>"Kambodža (कम्बोजदेश)"</item>
+        <item>"Kamerūnas"</item>
+        <item>"Kanada"</item>
+        <item>"Žaliasis Kyšulys"</item>
+        <item>"Kaimanų salos"</item>
+        <item>"Centrinės Afrikos Respublika (République centrafricaine)"</item>
+        <item>"Čadas"</item>
+        <item>"Čilė"</item>
+        <item>"Kinija (中國)"</item>
+        <item>"Kalėdų sala"</item>
+        <item>"Kokosų (Kilingo) salos"</item>
+        <item>"Kolumbija"</item>
+        <item>"Komorai"</item>
+        <item>"Kongas"</item>
+        <item>"Kuko salos"</item>
+        <item>"Kosta Rika"</item>
+        <item>"Dramblio Kaulo Krantas"</item>
+        <item>"Kroatija (Hrvatska)"</item>
+        <item>"Kuba"</item>
+        <item>"Kipras (Euro)"</item>
+        <item>"Čekijos Respublika (Česká republika)"</item>
+        <item>"Danija (Danmark)"</item>
+        <item>"Džibutis"</item>
+        <item>"Dominika"</item>
+        <item>"Dominikos Respublika"</item>
+        <item>"Rytų Timoras"</item>
+        <item>"Ekvadoras"</item>
+        <item>"Egiptas (مصر)"</item>
+        <item>"Salvadoras"</item>
+        <item>"Pusiaujo Gvinėja"</item>
+        <item>"Eritrėja"</item>
+        <item>"Estija (Eesti)"</item>
+        <item>"Etiopija"</item>
+        <item>"Folklando Salos"</item>
+        <item>"Farerų salos"</item>
+        <item>"Fidžis"</item>
+        <item>"Suomija (Suomi)"</item>
+        <item>"Prancūzija France)"</item>
+        <item>"Prancūzijos Gviana"</item>
+        <item>"Prancūzijos Polinezija"</item>
+        <item>"Prancūzijos Pietų Sritys"</item>
+        <item>"Gabonas"</item>
+        <item>"Gambija"</item>
+        <item>"Gruzija (საქართველო)"</item>
+        <item>"Vokietija (Deutschland)"</item>
+        <item>"Gana"</item>
+        <item>"Gibraltaras"</item>
+        <item>"Graikija (Ελλάδα)"</item>
+        <item>"Grenlandija"</item>
+        <item>"Grenada"</item>
+        <item>"Gvadelupa"</item>
+        <item>"Guamas"</item>
+        <item>"Gvatemala"</item>
+        <item>"Gvinėja"</item>
+        <item>"Bisau Gvinėja"</item>
+        <item>"Gajana"</item>
+        <item>"Haitis"</item>
+        <item>"Herdo ir Makdonaldo salos"</item>
+        <item>"Šventasis sostas (Stato della Città del Vaticano)"</item>
+        <item>"Hondūras"</item>
+        <item>"Honkongas (香港)"</item>
+        <item>"Vengrija (Magyarország)"</item>
+        <item>"Islandija (Ísland)"</item>
+        <item>"Indija (भारत गणराज्य)"</item>
+        <item>"Indonezija (Republik Indonezija)"</item>
+        <item>"Iranas (ایران)"</item>
+        <item>"Irakas (العراق)"</item>
+        <item>"Airija (Ireland)"</item>
+        <item>"Izraelis (מְדִינַת יִשְׂרָאֵל/دَوْلَةُ إِسْرَائِيلَ)"</item>
+        <item>"Italija (Italia)"</item>
+        <item>"Jamaika"</item>
+        <item>"Japonija (日本国)"</item>
+        <item>"Jordanija (L\'Ürdünn)"</item>
+        <item>"Kazachstanas"</item>
+        <item>"Kenija (Jamhuri ya Kenya)"</item>
+        <item>"Kiribatis"</item>
+        <item>"Korėjos Liaudies Demokratinė Respublika (조선민주주의인민공화국)"</item>
+        <item>"Korėjos Respublika (대한민국)"</item>
+        <item>"Kuveitas (دولة الكويت)"</item>
+        <item>"Kirgizija"</item>
+        <item>"Laoso Liaudies Demokratinė Respublika"</item>
+        <item>"Latvija"</item>
+        <item>"Libanas (اَلْجُمْهُورِيَّة اَللُّبْنَانِيَّة)"</item>
+        <item>"Lesotas"</item>
+        <item>"Liberija"</item>
+        <item>"Libijos Arabų Džamahirija"</item>
+        <item>"Lichtenšteinas (Liechtenstein)"</item>
+        <item>"Lietuva"</item>
+        <item>"Liuksemburgas (Lëtzebuerg)"</item>
+        <item>"Makao"</item>
+        <item>"Makedonija"</item>
+        <item>"Madagaskaras"</item>
+        <item>"Malavis"</item>
+        <item>"Malaizija (Persekutuan Malaizija)"</item>
+        <item>"Maldyvai"</item>
+        <item>"Malis"</item>
+        <item>"Malta"</item>
+        <item>"Maršalo salos"</item>
+        <item>"Martinika (Martinique)"</item>
+        <item>"Mauritanija"</item>
+        <item>"Mauricijus (Respublika Moris)"</item>
+        <item>"Majotas"</item>
+        <item>"Meksika"</item>
+        <item>"Mikronezija"</item>
+        <item>"Moldova (Moldova)"</item>
+        <item>"Monakas (Monaco)"</item>
+        <item>"Mongolija"</item>
+        <item>"Montseratas"</item>
+        <item>"Marokas"</item>
+        <item>"Mozambikas"</item>
+        <item>"Mianmaras (Pyidaunzu Thanmăda Myăma Nainngandaw)"</item>
+        <item>"Namibija"</item>
+        <item>"Nauru"</item>
+        <item>"Nepalas (सङ्घीय लोकतान्त्रिक गणतन्त्र नेपाल)"</item>
+        <item>"Nyderlandų Antilai"</item>
+        <item>"Nyderlandai (Nederland)"</item>
+        <item>"Naujoji Kaledonija (Nouvelle-Calédonie)"</item>
+        <item>"Naujoji Zelandija"</item>
+        <item>"Nikaragva"</item>
+        <item>"Nigeris"</item>
+        <item>"Nigerija (Republik Nijeriya)"</item>
+        <item>"Niujė"</item>
+        <item>"Norfolko sala (Norfuk Ailen)"</item>
+        <item>"Marianos Šiaurinės Salos"</item>
+        <item>"Norvegija (Norge)"</item>
+        <item>"Omanas (لطنة عمان)"</item>
+        <item>"Pakistanas (پاکِستان)"</item>
+        <item>"Palau"</item>
+        <item>"Panama"</item>
+        <item>"Papua Naujoji Gvinėja"</item>
+        <item>"Paragvajus"</item>
+        <item>"Peru"</item>
+        <item>"Filipinai (Pilipinas)"</item>
+        <item>"Pitkernas"</item>
+        <item>"Lenkija (Polska)"</item>
+        <item>"Portugalija (Portugal)"</item>
+        <item>"Puerto Rikas"</item>
+        <item>"Kataras"</item>
+        <item>"Reunionas"</item>
+        <item>"Rumunija (România)"</item>
+        <item>"Rusija (Россия)"</item>
+        <item>"Ruanda"</item>
+        <item>"Sent Kitsas ir Nevis"</item>
+        <item>"Sent Lusija"</item>
+        <item>"Sent Vinsentas ir Grenadinai"</item>
+        <item>"Samoa"</item>
+        <item>"San Marinas (San Marino)"</item>
+        <item>"San Tomė ir Prinsipė"</item>
+        <item>"Saudo Arabija (المملكة العربية السعودية)"</item>
+        <item>"Senegalas"</item>
+        <item>"Serbija ir Juodkalnija"</item>
+        <item>"Seišeliai"</item>
+        <item>"Siera Leonė"</item>
+        <item>"Singapūras (Singapore)"</item>
+        <item>"Slovakija (Slovensko)"</item>
+        <item>"Slovėnija (Slovenija)"</item>
+        <item>"Saliamono Salos (Solomon Islands)"</item>
+        <item>"Somalis"</item>
+        <item>"Pietų Afrikos Respublika (Republiek van Suid-Afrika)"</item>
+        <item>"Pietų Džordžijos ir Pietų Sandvičo Salos"</item>
+        <item>"Ispanija (España)"</item>
+        <item>"Šri Lanka (இலங்கை ஜனநாயக சமத்துவ)"</item>
+        <item>"Šventosios Elenos sala"</item>
+        <item>"Sen Pjeras ir Mikelonas (St. Pierre ir Miquelon)"</item>
+        <item>"Sudanas (جمهورية السودان)"</item>
+        <item>"Surinamas"</item>
+        <item>"Svalbardo ir Jan Majeno Salos"</item>
+        <item>"Svazilandas (Swatini)"</item>
+        <item>"Švedija (Sverige)"</item>
+        <item>"Šveicarija (Suisse)"</item>
+        <item>"Sirijos Arabų Respublika (جمهورية العربية السورية)"</item>
+        <item>"Taivanas (台灣)"</item>
+        <item>"Tadžikistanas"</item>
+        <item>"Tanzanija"</item>
+        <item>"Tailandas (ราชอาณาจักรไทย)"</item>
+        <item>"Togas"</item>
+        <item>"Tokelau"</item>
+        <item>"Tonga"</item>
+        <item>"Trinidadas ir Tobagas"</item>
+        <item>"Tunisas"</item>
+        <item>"Turkija (Türkiye)"</item>
+        <item>"Turkmėnistanas"</item>
+        <item>"Terkso ir Kaikoso Salos"</item>
+        <item>"Tuvalu"</item>
+        <item>"Uganda (Jamhuri ya Uganda)"</item>
+        <item>"Ukraina (Україна)"</item>
+        <item>"Jungtiniai Arabų Emyratai (دولة الإمارات العربية المتحدة)"</item>
+        <item>"Jungtinė Karalystė (United Kingdom)"</item>
+        <item>"Jungtinių Valstijų Mažosios Tolimosios Salos"</item>
+        <item>"Jungtinės Valstijos"</item>
+        <item>"Urugvajus"</item>
+        <item>"Uzbekistanas"</item>
+        <item>"Vanuatu"</item>
+        <item>"Venesuela"</item>
+        <item>"Vietnamas (Việt Nam)"</item>
+        <item>"Mergelių salos (Britų)"</item>
+        <item>"Mergelių salos, JAV"</item>
+        <item>"Volisas ir Futūna"</item>
+        <item>"Vakarų Sachara"</item>
+        <item>"Jemenas"</item>
+        <item>"Zairas"</item>
+        <item>"Zambija"</item>
+        <item>"Zimbabvė (Simudzai Mureza wedu WeZimbabwe)"</item>
+    </string-array>
+    <plurals name="dialog_unzip_preview_size_text">
+        <item quantity="one">"Iš viso: %1$d failas, %2$s"</item>
+        <item quantity="other">"Iš viso: %1$d failai (-ų), %2$s"</item>
+    </plurals>
+    <plurals name="drag_items">
+        <item quantity="one">"Vilkti elementą"</item>
+        <item quantity="other">"Vilkti elementus"</item>
+    </plurals>
+    <plurals name="number_search_items">
+        <item quantity="one">"Rastas %d failas"</item>
+        <item quantity="other">"Rasti %d failai (-ų)"</item>
+    </plurals>
+    <plurals name="number_selected_items">
+        <item quantity="one">"%d pažymėtas"</item>
+        <item quantity="other">"%d pažymėtas"</item>
+    </plurals>
+    <plurals name="uf_sdk_number_of_subscribers_format">
+        <item quantity="one">"%1$s patinka ši tema"</item>
+        <item quantity="other">"%1$s patinka ši tema"</item>
+    </plurals>
+    <plurals name="uf_sdk_topics">
+        <item quantity="one">"tema"</item>
+        <item quantity="other">"temos"</item>
+    </plurals>
+    <plurals name="uv_comments">
+        <item quantity="one">"komentaras"</item>
+        <item quantity="other">"komentarai"</item>
+    </plurals>
+    <plurals name="uv_number_of_subscribers_format">
+        <item quantity="one">"%1$s nori šios idėjos"</item>
+        <item quantity="other">"%1$s nori šios idėjos"</item>
+    </plurals>
+    <plurals name="uv_people">
+        <item quantity="one">"asmuo"</item>
+        <item quantity="other">"žmonės"</item>
+    </plurals>
+    <plurals name="uv_subscribers">
+        <item quantity="one">"prenumeratorius"</item>
+        <item quantity="other">"prenumeratoriai"</item>
+    </plurals>
+    <string name="AsusWebstroage">"AsusWebStorage"</string>
+    <string name="AuCloud">"AuCloud"</string>
+    <string name="BaiDuPCS">"BaiDuPCS"</string>
+    <string name="Default">"Numatytasis"</string>
+    <string name="Dropbox">"Dropbox"</string>
+    <string name="Google_Drive">"Google Drive"</string>
+    <string name="HomeCloud">"HomeCloud"</string>
+    <string name="OneDrive">"OneDrive"</string>
+    <string name="Yandex">"Yandex"</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Eiti į pagrindinį puslapį"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Eiti į viršų"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Daugiau parinkčių"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Atlikta"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Peržiūrėti viską"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Pasirinkti programą"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"IŠJUNGTA"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ĮJUNGTI"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Ieškoti..."</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Išvalyti užklausą"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Paieškos užklausa"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Paieška"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Pateikti užklausą"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Paieška balsu"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Bendrinti naudojant"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Bendrinti naudojant „%s“"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Sutraukti"</string>
+    <string name="about">"Apie"</string>
+    <string name="account_asus">"ASUS"</string>
+    <string name="action">"Prisijungti"</string>
+    <string description="cutstom action bar view title for about" maxwidth="-1" name="action_about">"Apie"</string>
+    <string description="action add files" maxwidth="-1" name="action_add">"Pridėti"</string>
+    <string description="cutstom action bar view title for add folder" maxwidth="-1" name="action_add_folder">"Pridėti aplanką"</string>
+    <string description="View title of custom action bar, apply to multiple selected files" maxwidth="-1" name="action_apply_selected_file">"Taikyti"</string>
+    <string description="action cancel" maxwidth="-1" name="action_cancel">"Atšaukti"</string>
+    <string maxwidth="-1" name="action_clean">"Ištrinti"</string>
+    <string maxwidth="-1" name="action_clean_all">"Viską ištrinti"</string>
+    <string description="cutstom action bar view title for clear search history" maxwidth="" name="action_clear_history">"Išvalyti paieškos istoriją"</string>
+    <string description="cutstom action bar view title for edit" maxwidth="" name="action_edit">"Redaguoti"</string>
+    <string maxwidth="" name="action_hidden_zone">"Perkelti į slaptąją spintelę"</string>
+    <string description="cutstom action bar view title for hinde system file" maxwidth="-1" name="action_hind_system_file">"Slėpti sistemos failus"</string>
+    <string name="action_loading">"Įkeliama..."</string>
+    <string description="cutstom action bar view title for open with" maxwidth="" name="action_open_with">"Atidaryti naudojant..."</string>
+    <string name="action_refresh_cloudfile">"Įkelti iš naujo"</string>
+    <string maxwidth="-1" name="action_restore">"Atkurti"</string>
+    <string maxwidth="-1" name="action_restore_all">"Atkurti viską"</string>
+    <string description="cutstom action bar view title for search" maxwidth="" name="action_search">"Ieškoti"</string>
+    <string description="cutstom action bar view title for set as" maxwidth="" name="action_set_as">"Nustatyti paveikslėlį kaip"</string>
+    <string description="menu title for setting" maxwidth="-1" name="action_settings">"Nustatymai"</string>
+    <string description="cutstom action bar view title for sharing" maxwidth="-1" name="action_share">"Bendrinti"</string>
+    <string description="String for asking for the rule of sorting" maxwidth="-1" name="action_sort_by">"Rūšiuoti pagal"</string>
+    <string description="cutstom action bar view title for zip" maxwidth="" name="action_zip">"Glaudinti"</string>
+    <string description="Dialog title: Add cloud storage" maxwidth="-1" name="add_cloud_storage_dialog_title">"Pridėti debesies saugyklą"</string>
+    <string name="add_favorite">"Pridėti prie mėgstamiausių"</string>
+    <string name="add_favorite_folder">"Pridėti mėgstamiausių aplanką"</string>
+    <string name="add_favorite_success">"Įrašyti į mėgstamiausius"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="add_progress">"Kuriama..."</string>
+    <string name="app_cloudstorage_name">"CloudStorage"</string>
+    <string name="app_upload_complete">"%s įkeltas"</string>
+    <string description="" name="article_one">"Aš sutinku su ASUS \"<u>sąlygomis dėl naudojimo pranešimų</u>\", ASUS \"<u>privatumo nuostatomis</u>\", „ASUS WebStorage“"<u>sąlygomis dėl naudojimo pranešimų</u>\", „ASUS WebStorage“\"<u>privatumo nuostatomis</u>\"."</string>
+    <string description="" name="article_two">"Per eDMs praneškite man ASUS naujienas, informaciją apie programinės įrangos atnaujinimą bei paslaugų ir produktų informaciją."</string>
+    <string description="Text for create asus account button." maxwidth="" name="asus_account_create_button">"Registruotis"</string>
+    <string name="asus_account_integrate_dialog_content">"Ar norite integruoti ASUS paskyrą su „WebStorage“ paskyra? \n\n Atlikę integraciją galėsite naudotis visomis ASUS paslaugomis."</string>
+    <string name="asus_account_integrate_dialog_skip">"Praleisti"</string>
+    <string name="asus_account_integrate_dialog_title">"Integruoti ASUS paslaugas"</string>
+    <string name="asus_account_integrate_dialog_yes">"Taip"</string>
+    <string description="Text for asus account content 1st." maxwidth="" name="asus_account_msg_content_1">"gauti asmenines ASUS pagalbos paslaugas ir pratęsti registruotų produktų garantiją;"</string>
+    <string description="Text for asus account content 2nd." maxwidth="" name="asus_account_msg_content_2">"nemokamai gauti 5 GB atminties debesyje;"</string>
+    <string description="Text for asus account content 3rd." maxwidth="" name="asus_account_msg_content_3">"gauti naujausią informaciją apie priedus ir atnaujintus produktus."</string>
+    <string description="Text for asus account content title." maxwidth="" name="asus_account_msg_title">"Susikūrę ASUS paskyrą jūs galite:"</string>
+    <string name="asus_account_only_one_alert">"Galima pridėti tik vieną ASUS paskyrą. Prieš pridėdami naują paskyrą, turite pašalinti dabartinę."</string>
+    <string name="asus_account_prefc">"Nuostatos"</string>
+    <string name="asus_account_prefc_advc">"Išplėstinės nuostatos"</string>
+    <string name="asus_account_prefc_aws">"„ASUS WebStorage“"</string>
+    <string name="asus_account_prefc_homebox">"„ASUS HomeCloud“"</string>
+    <string name="asus_account_registe_country_error">"Pasirinkite vieną šalies regioną!"</string>
+    <string name="asus_account_registe_id_error">"Elektroninio pašto formato klaida"</string>
+    <string name="asus_account_registe_policy_error">"Jeigu norite užregistruoti ASUS paskyrą, turite sutikti su ASUS nuostatomis!"</string>
+    <string name="asus_account_registe_pw_error_1">"Slaptažodis negali būti nulinis!"</string>
+    <string name="asus_account_registe_pw_error_2">"Slaptažodžio patvirtinimas negali būti nulinis!"</string>
+    <string name="asus_account_registe_pw_error_3">"Slaptažodis ir slaptažodžio patvirtinimas turi sutapti!"</string>
+    <string name="asus_account_registe_pw_error_4">"Slaptažodį turėtų sudaryti nuo 8 iki 25 simbolių."</string>
+    <string name="asus_account_removeaccount_dialog_content">"Paskyra sėkmingai integruota. Prisijunkite dar kartą, naudodami naują paskyrą."</string>
+    <string name="asus_account_removeaccount_dialog_title">"ASUS paskyra sėkmingai integruota"</string>
+    <string name="asus_commonui_activity_chooser_view_see_all">Žiūrėti visus</string>
+    <string name="asus_commonui_activity_resolver_use_always">Visada</string>
+    <string name="asus_commonui_activity_resolver_use_once">Tik kartą</string>
+    <string name="asus_commonui_activitychooserview_choose_application">Pasirinkti programą</string>
+    <string name="asus_commonui_activitychooserview_choose_application_error">Klaida</string>
+    <string name="asus_commonui_cancel_label">Atšaukti</string>
+    <string name="asus_commonui_chooseActivity">Pasirinkti veiksmą</string>
+    <string name="asus_commonui_day_picker_description">Mėnesio dienų tinklelis</string>
+    <string name="asus_commonui_deleted_key">
+        <ns1:g example="4" id="key">%1$s</ns1:g> pašalinta</string>
+    <string name="asus_commonui_done_label">Gerai</string>
+    <string name="asus_commonui_hour_picker_description">Apskritas valandų slankiklis</string>
+    <string name="asus_commonui_item_is_selected">
+        <ns1:g example="2013" id="item">%1$s</ns1:g> pasirinkta</string>
+    <string name="asus_commonui_minute_picker_description">Apskritas minučių slankiklis</string>
+    <string name="asus_commonui_noApplications">Jokia taikomoji programa negali atlikti šio veiksmo</string>
+    <string name="asus_commonui_no_url_handler">Nerasta programa, kuria butų galima atidaryti URL</string>
+    <string name="asus_commonui_select_day">Pasirinkti mėnesį ir dieną</string>
+    <string name="asus_commonui_select_hours">Pasirinkti valandas</string>
+    <string name="asus_commonui_select_minutes">Pasirinkti minutes</string>
+    <string name="asus_commonui_select_year">Pasirinkti metus</string>
+    <string name="asus_commonui_shareactionprovider_share_with">Bendrinti (kam)</string>
+    <string name="asus_commonui_shareactionprovider_share_with_application">Bendrinti (kam)</string>
+    <string name="asus_commonui_whichApplication">Baigti veiksmą naudojant</string>
+    <string name="asus_commonui_whichHomeApplication">Pasirinkti pagrindinę programą</string>
+    <string name="asus_commonui_year_picker_description">Metų sąrašas</string>
+    <string name="asus_feedback_and_help">Atsiliepimai &amp; Žinynas</string>
+    <string name="asus_flag">"-"</string>
+    <string name="asus_registe_success_title">"ASUS paskyra sėkmingai užregistruota"</string>
+    <string name="asus_response_resultdata">"Ši paskyra jau užregistruota."</string>
+    <string name="asusaccount_app_name">"ASUS paskyra"</string>
+    <string maxwidth="-1" name="attribution_notice">"Pranešimas apie savybes"</string>
+    <string maxwidth="-1" name="attribution_notice_content">
+    "
+    \nŠiame produkte yra toliau išvardyti atviri šaltiniai:
+\n\nuservoice-android-sdk, jam suteikta „Apache License Version 2.0.“ licencija. Licenciją galima atsisiųsti iš adresu http://www.apache.org/licenses/LICENSE-2.0.html .
+    "
+    </string>
+    <string maxWidth="" name="au_label">" „au Cloud“"</string>
+    <string name="aucloud_account_only_one_alert">"Galima pridėti tik vieną "au Cloud" paskyrą. Prieš pridėdami naują paskyrą, turite pašalinti dabartinę."</string>
+    <string name="aucloud_login_redirect">"Norėdami prisijungti, įveskite au ID, vartotojo vardą ir slaptažodį."</string>
+    <string maxWidth="" name="auth_stop">"Šio autentifikavimo proceso atsisakyta."</string>
+    <string description="string indicating how camera shooting feature is used" maxwidth="-1" name="auto">"Automatinis"</string>
+    <string name="aws_install_contnet">"„WebStorage“ neįdiegta, ar norite ją atsisiųsti iš „Play“ parduotuvės ir įdiegti?"</string>
+    <string name="aws_install_title">"„WebStorage“ neįdiegta"</string>
+    <string description="button text." maxwidth="-1" name="back_button_label">"Atgal"</string>
+    <string name="baidu_alert_info">"Šis "Baidu" platformoje veikiantis prietaisas gali pasiekti tik duomenis, esančius dalyje "Mano programos duomenys\\asus\\"."</string>
+    <string name="baidu_alert_title">" "Baidu" debesies saugykla"</string>
+    <string name="baidu_storage_title">"百度云"</string>
+    <string name="baidupcs_account_only_one_alert">"Į ASUS paskyrą galima įtraukti tik vieną "Baidu". Prieš pridėdami naują paskyrą, turite pašalinti dabartinę."</string>
+    <string name="bd_label">"ASUS skirtas „Baidu“"</string>
+    <string name="btn_OK">"Gerai"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="calculate_progress">"Vykdoma..."</string>
+    <string description="Toast: can not open in hidden zone" maxwidth="-1" name="can_not_open_in_hidden_zone">"Negalima atidaryti slaptojoje spintelėje"</string>
+    <string description="Dialog Button: cancel for dialog" maxwidth="" name="cancel">"Atšaukti"</string>
+    <string name="cancle">"Atšaukti"</string>
+    <string name="category_apk">"Programėlės"</string>
+    <string maxwidth="11" name="category_app1">"Programėlės"</string>
+    <string name="category_compress">"Suglaudinta"</string>
+    <string maxwidth="11" name="category_compressed1">"Suglaudinti"</string>
+    <string name="category_count">"%s"</string>
+    <string maxwidth="11" name="category_document1">"Dokumentai"</string>
+    <string name="category_documents">"Dokumentai"</string>
+    <string name="category_download">"Atsisiuntimai"</string>
+    <string maxwidth="11" name="category_download1">"Atsisiunt."</string>
+    <string name="category_favorite">"Mėgstamiausi"</string>
+    <string maxwidth="11" name="category_favorite1">"Mėgst."</string>
+    <string name="category_game">"Žaidimai"</string>
+    <string name="category_image">"Vaizdai"</string>
+    <string maxwidth="11" name="category_image1">"Vaizdai"</string>
+    <string maxwidth="11" name="category_large_file1">"Did. failai"</string>
+    <string name="category_music">"Muzika"</string>
+    <string maxwidth="11" name="category_music1">"Muzika"</string>
+    <string name="category_name_app_wallpaper">"Tiesioginis darbalaukio fonas"</string>
+    <string name="category_name_app_widgets">"Valdikliai"</string>
+    <string name="category_name_books_and_reference">"Knygos ir nuorodos"</string>
+    <string name="category_name_business">"Verslas"</string>
+    <string name="category_name_comics">"Komiksai"</string>
+    <string name="category_name_communication">"Ryšiai"</string>
+    <string name="category_name_education">"Švietimas"</string>
+    <string name="category_name_entertainment">"Pramogos"</string>
+    <string name="category_name_finance">"Finansai"</string>
+    <string name="category_name_game">"Žaidimai"</string>
+    <string name="category_name_game_action">"Veiksmas"</string>
+    <string name="category_name_game_adventure">"Nuotykių"</string>
+    <string name="category_name_game_arcade">"Žaid. automat."</string>
+    <string name="category_name_game_board">"Stalo"</string>
+    <string name="category_name_game_card">"Kortos"</string>
+    <string name="category_name_game_casino">"Kazino"</string>
+    <string name="category_name_game_casual">"Įprastos temos"</string>
+    <string name="category_name_game_educational">"Mokomieji"</string>
+    <string name="category_name_game_family">"Šeimai"</string>
+    <string name="category_name_game_music">"Muzika"</string>
+    <string name="category_name_game_puzzle">"Dėlionė"</string>
+    <string name="category_name_game_racing">"Lenktynės"</string>
+    <string name="category_name_game_role_playing">"Vaidmenų žaid."</string>
+    <string name="category_name_game_simulation">"Simuliaciniai"</string>
+    <string name="category_name_game_sports">"Sporto"</string>
+    <string name="category_name_game_strategy">"Strateginiai"</string>
+    <string name="category_name_game_trivia">"Loginiai"</string>
+    <string name="category_name_game_word">"Žodžių"</string>
+    <string name="category_name_health_and_fitness">"Sveikata ir kūno rengyba"</string>
+    <string name="category_name_libraries_and_demo">"Bibliotekos ir demonstracinės versijos"</string>
+    <string name="category_name_lifestyle">"Gyvenimo būdas"</string>
+    <string name="category_name_media_and_video">"Medija ir vaizdo įrašai"</string>
+    <string name="category_name_medical">"Medicininis"</string>
+    <string name="category_name_music_and_audio">"Muzika ir garso įrašai"</string>
+    <string name="category_name_news_and_magazines">"Naujienos ir žurnalai"</string>
+    <string name="category_name_personalization">"Suasmeninimas"</string>
+    <string name="category_name_photography">"Fotografija"</string>
+    <string name="category_name_productivity">"Produktyvumas"</string>
+    <string name="category_name_shopping">"Apsipirkimas"</string>
+    <string name="category_name_social">"Socialinis"</string>
+    <string name="category_name_sports">"Sportas"</string>
+    <string name="category_name_tools">"Įrankiai"</string>
+    <string name="category_name_transportation">"Transportavimas"</string>
+    <string name="category_name_travel_and_local">"Kelionės ir vietinis"</string>
+    <string name="category_name_weather">"Orai"</string>
+    <string name="category_others">"Kiti"</string>
+    <string maxwidth="11" name="category_recent1">"Paskiausi"</string>
+    <string name="category_recent_files">"Neseniai pridėta"</string>
+    <string name="category_sorting_summary">"Pasirinkite elementus, rodomus kategorijos ekrane"</string>
+    <string name="category_title_category">"Kategorija"</string>
+    <string name="category_title_local_storage">"Vietinė saugykla"</string>
+    <string name="category_title_tools">"Įrankiai"</string>
+    <string name="category_toast_invalid_item_size_6_or_9">"Pasirinkite 6–9 elementus"</string>
+    <string name="category_toast_invalid_item_size_9">"Pasirinkite 9 elementus"</string>
+    <string name="category_toast_invalid_remove">"Šio elemento pašalinti negalima"</string>
+    <string name="category_toast_max_item_size">"Pasirinkite daugiausiai 9 elementus"</string>
+    <string name="category_video">"Vaizdo įrašai"</string>
+    <string maxwidth="11" name="category_video1">"Vaizdo įr."</string>
+    <string name="clear_account_info">"Užmiršti visas paskyras"</string>
+    <string description="Menu Option: clear all checkbox" maxwidth="" name="clear_all">"Išvalyti viską"</string>
+    <string name="click_plus_to_add_favorite_folder">"Bakstelėkite +, kad pridėtumėte mėgstamiausių aplanką"</string>
+    <string description="Toast: The size is over the limit and cannot be uploaded" maxwidth="-1" name="cloud_download_flie_limit_space">"Nepavyko atsisiųsti failo. Failo dydis viršija didžiausią leidžiamą ribą."</string>
+    <string description="Toast: The name of the file uploaded is not supported by cloud server" maxwidth="-1" name="cloud_flie_name_not_supported">"Negalima baigti operacijos, nes debesies serveris nepalaiko failo pavadinimo."</string>
+    <string description="home cloud get available devices fail" name="cloud_homebox_get_devices_fail">"Nepavyko nuskaityti pasiekiamus "HomeCloud" įrenginius"</string>
+    <string description="home cloud has no available devices" name="cloud_homebox_no_available_devices">"Nėra prieinamų "HomeCloud" įrenginių"</string>
+    <string description="home cloud device is sleep" name="cloud_homebox_status__info_Sleep">"Miegoti"</string>
+    <string description="home cloud device is offline" name="cloud_homebox_status__info_offline">"Nepasiekiamas"</string>
+    <string description="home cloud device is online" name="cloud_homebox_status__info_online">"Tinkle"</string>
+    <string description="home cloud device is offline" name="cloud_homebox_status_offline">"Įrenginys nepasiekiamas"</string>
+    <string description="diaglog cloud background paste" name="cloud_paste_backgroud">"Fonas"</string>
+    <string description="diaglog cloud  now is copy files" name="cloud_paste_copying">"Kopijuojama..."</string>
+    <string description="diaglog cloud  current" name="cloud_paste_current">"Dabartinis"</string>
+    <string description="diaglog cloud  now is delete source files" name="cloud_paste_deleting">"Naikinami šaltinio failai..."</string>
+    <string description="diaglog cloud  paste" name="cloud_paste_downloading">"Siunčiami failai"</string>
+    <string description="diaglog cloud  total" name="cloud_paste_total">"Viso"</string>
+    <string description="diaglog cloud  paste uploading" name="cloud_paste_uploading">"Įkeliami failai"</string>
+    <string description="Toast: cloud preview action" maxwidth="-1" name="cloud_preview_action_fail">"nepavyko parodyti debesies failų."</string>
+    <string description="Toast: cloud share action" maxwidth="-1" name="cloud_share_action_fail">"nepavyko bendrinti debesies failų."</string>
+    <string description=">Do you want to remove" maxwidth="-1" name="cloud_storage_remove_hint">"Ar norite atsijungti nuo \"%s\" paskyros?"</string>
+    <string description="Dialog title: Remove cloud storage" maxwidth="-1" name="cloud_storage_remove_hint_title">"Atsijungti"</string>
+    <string description=">Do you want to signin" maxwidth="-1" name="cloud_storage_sign_in">"Prisijungti, naudojantis toliau nurodyta paskyra."</string>
+    <string description="Dialog title: Signin cloud storage" maxwidth="-1" name="cloud_storage_sign_in_title">"Prisijungti prie %s"</string>
+    <string description=">Do you want to signout" maxwidth="-1" name="cloud_storage_sign_out">"Ar tikrai norite atsijungti nuo \"%s\"?"</string>
+    <string description="Dialog title: Signout cloud storage" maxwidth="-1" name="cloud_storage_sign_out_title">"Atsijungti"</string>
+    <string description="Add more cloud storage" maxwidth="-1" name="cloud_storage_title">"Pridėti daugiau debesies saugyklos"</string>
+    <string description="diaglog cloud  token is invalidate" name="cloud_token_invalidate">"Atpažinimo ženklas nebegalioja, prisijunkite iš naujo!"</string>
+    <string description="Toast: The size is over the limit and cannot be uploaded" maxwidth="-1" name="cloud_upload_flie_limit_space">"Nepavyko įkelti failo. Failo dydis viršija didžiausią leidžiamą ribą."</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Įgalinti"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"„<ns1:g id="APP_NAME">%1$s</ns1:g>“ neveiks, jei neįgalinsite „Google Play“ paslaugų."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Įgalinkite „Google Play“ paslaugas"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Įdiegti"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"Programa „<ns1:g id="APP_NAME">%1$s</ns1:g>“ nebus paleidžiama be „Google Play“ paslaugų, kurių nėra įrenginyje."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Gaukite „Google Play“ paslaugas"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"„Google Play“ paslaugų klaida"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"Naudojant programą „<ns1:g id="APP_NAME">%1$s</ns1:g>“ kilo problemų dėl „Google Play“ paslaugų. Bandykite dar kartą."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"Programa „<ns1:g id="APP_NAME">%1$s</ns1:g>“ nebus paleidžiama be „Google Play“ paslaugų, kurių jūsų įrenginys nepalaiko."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Atnaujinti"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"„<ns1:g id="APP_NAME">%1$s</ns1:g>“ nebus paleidžiama, jei neatnaujinsite „Google Play“ paslaugų."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Atnaujinkite „Google Play“ paslaugas"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"„<ns1:g id="APP_NAME">%1$s</ns1:g>“ nebus paleidžiama be „Google Play“ paslaugų, kurios šiuo metu atnaujinamos."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Reikia naujos versijos „Google Play“ paslaugų. Jos netrukus bus atnaujintos."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Atidaryti telefone"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Prisijungti"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Prisijungti naudojant „Google“"</string>
+    <string name="confirm">"Patvirtinti"</string>
+    <string name="confirm_ok">"Gerai"</string>
+    <string description="confirm password textview title" name="confirm_password">"Patvirtinti slaptažodį"</string>
+    <string description="ask user to enter password again to confirm" name="confirm_password_edit">"Dar kartą įveskite slaptažodį"</string>
+    <string description="content" maxwidth="-1" name="content">"Naudojant šią programinę įrangą taikomos sąlygos ir nuostatos, pateiktos ASUS svetainėje: \nhttp://www.asus.com"</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="copy">"Kopijuoti"</string>
+    <string description="Toast: copy ready" maxwidth="-1" name="copy_ready_more">"Pasirinkti failai buvo nukopijuoti ir paruošti įklijuoti."</string>
+    <string description="Toast: copy ready. %s is variable string." maxwidth="-1" name="copy_ready_one">"\"%s\" buvo nukopijuotas ir paruoštas įklijuoti."</string>
+    <string name="copy_to">"Kopijuoti į"</string>
+    <string description="country region textview title" name="country_region">"Šalies regionas"</string>
+    <string description="ack user to select on country" name="country_region_select">"Pasirinkite savo regioną"</string>
+    <string name="create_shortcut">"Sukurkite nuorodą"</string>
+    <string name="create_shortcut_dialog">"Sukurkite nuorodą vykdyklėje"</string>
+    <string name="create_shortcut_toast">"Nuorodoa vykdyklėje sukurta"</string>
+    <string name="cta_agree">"Leisti"</string>
+    <string name="cta_check_title">"Įsiminti"</string>
+    <string name="cta_dialog_content"><b>Failų tvarkyklė</b> bando naudoti šį tinklą. Atsižvelgiant į jūsų ryšio paslaugų abonementą, dėl to gali tekti mokėti papildomus mokesčius.</string>
+    <string name="cta_dialog_title">"Tinklo naudojimas"</string>
+    <string name="cta_disagree">"Atsisakyti"</string>
+    <string name="cta_show_menu">"Tinklo leidimas"</string>
+    <string name="current_folder">"Dabartinis aplankas"</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="cut">"Iškirpti"</string>
+    <string description="Toast: cut ready" maxwidth="-1" name="cut_ready_more">"Pasirinkti failai buvo iškirpti ir paruošti įklijuoti."</string>
+    <string description="Toast: cut ready. %s is variable string." maxwidth="-1" name="cut_ready_one">"\"%s\" buvo iškirptas ir paruoštas įklijuoti."</string>
+    <string description="button text for sort file by date" maxwidth="-1" name="date">"Data"</string>
+    <string description="button text for sort file by date ascending" maxwidth="-1" name="date_ascending">"Data (seniausias–naujausias)"</string>
+    <string description="button text for sort file by date descending" maxwidth="-1" name="date_descending">"Data (naujausias–seniausias)"</string>
+    <string name="day">"1 dienos"</string>
+    <string name="days">"<ns1:g id="days">%s</ns1:g> dienų"</string>
+    <string name="dbx_install_contnet">"„DropBox“ neįdiegta, ar norite ją atsisiųsti iš „Play“ parduotuvės ir įdiegti?"</string>
+    <string name="dbx_install_title">"„DropBox“ neįdiegta"</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="delete">"alinti"</string>
+    <string description="Dialog Title: delete dialog title" maxwidth="" name="delete_dialog">"Šalinti failą"</string>
+    <string description="Toast: delete fails" maxwidth="-1" name="delete_fail">"Pašalinti failo nepavyko."</string>
+    <string description="Dialog Content: text in dialog. %d is variable number." maxwidth="" name="delete_more_files">"Ar norite pašalinti %d elementus?"</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="delete_one_directory">"Ar norite pašalinti šį katalogą?"</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="delete_one_files">"Ar norite pašalinti šį failą?"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="delete_progress">"Šalinama..."</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="delete_size">"Dydis: "</string>
+    <string description="Toast: delete success" maxwidth="-1" name="delete_success_more">"Pasirinkti failai buvo pašalinti."</string>
+    <string description="Toast: delete success. %s is variable string." maxwidth="-1" name="delete_success_one">"\"%s\" buvo pašalintas."</string>
+    <string description="cutstom action bar view title for deselect all checkbox" maxwidth="" name="deselect_all">"Naikinti visus ˛ymėjimus"</string>
+    <string name="device_root_path">"šaknis"</string>
+    <string description="compress dialog title" maxwidth="-1" name="dialog_create_zip_title">"Įvesti archyvo pavadinimą"</string>
+    <string description="extract zip file dialog title. %s is a dynamic string. It is zip file name." maxwidth="-1" name="dialog_extract_zip_title">"Išskleisti %s į:"</string>
+    <string name="dialog_load_stream_url_info">"Iš serverio gaunama reikiama informacija"</string>
+    <string name="dialog_msg_market_login_account">"Jei norite parsisiųsti programėlę, prisijunkite prie savo \"Google\" paskyros"</string>
+    <string description="text encoding dialog title" maxwidth="-1" name="dialog_text_encoding_title">"Teksto kodavimas"</string>
+    <string name="dialog_title_market_login_account">"Pridėti paskyrą"</string>
+    <string description="show zip info dialog title. %s is a dynamic string. Is is a zip file name" maxwidth="-1" name="dialog_unzip_preview_title">"Išskleisti %s"</string>
+    <string description="Dialog Title: Directory information dialog title" maxwidth="-1" name="dir_info_dialog_title">"Katalogo informacija"</string>
+    <string name="display">"Rodyti kaip"</string>
+    <string name="display_hint">""Mano kompiuteris", ištuštinti negalima!"</string>
+    <string name="dm_openfile">"Atidaryti failą"</string>
+    <string name="do_not_show_again">"Daugiau neberodyti"</string>
+    <string name="domain">"Domenas"</string>
+    <string name="domain_hint">"Ištuštinti negalima"</string>
+    <string name="download_fail">"atsisiųsti nepavyko!"</string>
+    <string name="drag_items_one">"Vilkti elementą"</string>
+    <string name="drag_items_other">"Vilkti elementus"</string>
+    <string name="drawer_close">"Uždaryti naršymo kartoteką"</string>
+    <string name="drawer_home">Pradžia</string>
+    <string name="drawer_open">"Atverti naršymo kartoteką"</string>
+    <string description="Hint: the operation is incorrect" maxwidth="-1" name="drop_incorrect_hint">"Neteisinga operacija"</string>
+    <string description="Hint: the target folder which you want to do something" maxwidth="-1" name="drop_target_to">"Tikslas:"</string>
+    <string name="dumdownloadfrom">"Atsisiųsti iš"</string>
+    <string name="dumuploadto">"Įkelti į"</string>
+    <string name="duplicate_files">"Dubliuoti failai"</string>
+    <string name="duplicate_files_content_hint">"Surasti dubliuotų failų ir ištrinti juos su jūsų leidimu."</string>
+    <string name="edit_toast_name_too_long">"Pasiektas didžiausias simbolių skaičius"</string>
+    <string name="edit_toast_special_char">"Negalima įtraukti specialaus simbolio"</string>
+    <string name="editcategory_hint">"Spustelėkite mygtuką Redaguoti, kad suasmenintumėte Kategorijų sritį."</string>
+    <string description="describe the empty folder" maxwidth="-1" name="empty_folder_title">"Nėra failų"</string>
+    <string description="Dialog Button: click to open the encoding list dialog" maxwidth="-1" name="encode">"Teksto kodavimas"</string>
+    <string description="ask user to enter password" maxwidth="-1" name="enter_password">"Įveskite slaptažodį"</string>
+    <string name="eula_content_description">
+        \nGalutinio vartotojo licencinę sutartį (EULA) sudaro galiojantis ir įpareigojantis susitarimas tarp „ASUSTeK Computer Inc. (ASUS) ir Jūsų, kaip vartotojo, dėl toliau nurodytos ASUS programinės įrangos (Programinė įranga) naudojimo. Įdiegdami šią programinę įrangą ir toliau ja naudodamiesi AIŠKIAI PATVIRTINATE, KAD PERSKAITĖTE, SUPRATOTE IR SUTINKATE LAIKYTIS ŠIOS EULA BEI BET KURIOS NAUJOS JOS VERSIJOS SĄLYGŲ. 
+\n\n1.PROGRAMINĖ ĮRANGA – tai atitinkamame ASUS produkte arba su juo pateikiama ASUS programinė įranga, įskaitant, bet neapsiribojant jos bet kokiomis būsimomis programavimo pataisomis, naujinimais, tobulinimais arba pakeistomis versijomis.
+\nKartu su šia programine įranga gali būti pateikiama kita ASUS arba trečiosios šalies sukurta programinė įranga, kuriai suteikta licencija pagal vieną arba daugiau nemokamos atvirojo kodo programinės įrangos licencijų, nurodytų svetainėje www.opensource.org/licenses. Tokia nemokama atvirojo kodo programinė įranga Jums suteikiama tik pagal sąlygas, nurodytas kartu su ja pateikiamoje atitinkamoje licencinėje sutartyje ar pranešime dėl autorių teisių arba su šia programine įranga pateikiamu FOSS licencijų failu. Šios EULA sąlygos tokiai nemokamai atvirojo kodo programinei įrangai netaikomos.
+\n\n2.LICENCIJA Vadovaudamasi šios EULA sąlygomis, ASUS šiuo dokumentu Jums suteikia apribotą, asmeninę, nekomercinę, neišskirtinę licenciją naudoti šią programinę įrangą ir tik tokią, kokia ji integruota ASUS produktuose. Tik atsarginio kopijavimo tikslais galite pasidaryti vieną šios programinės įrangos kopiją kompiuteriu nuskaitomu formatu ir tik su sąlyga, kad atsarginėje kopijoje bus išlaikytos visos autorių teisės ir nuosavybės pranešimai, buvę originale. Ši licencija nebus sublicencijuojama ir perduodama, išskyrus asmeniui arba subjektui, kuriam perduodama nuosavybės teisė į visus ASUS produktus, kuriuose yra ši programinė įranga, jei visam laikui perduodate visas teises pagal šią EULA ir nepasiliekate jokių visų arba dalinių šios programinės įrangos kopijų, o gavėjas sutinka su šios EULA sąlygomis.
+\n\n3.PERDARYMO APRIBOJIMAS Šios programinės įrangos neperdarysite, nedekompiliuosite ir neišskaidysite, taip pat neleisite atlikti tokių veiksmų ir jų neskatinsite, iki kiek tai vykdyti draudžia tiesiogiai taikomas įstatymas.
+\n\n4.KONFIDENCIALUMAS Įsipareigojate saugoti ir bet kokiai trečiajai šaliai bet kokia forma neatskleisti bei nesuteikti priežasties atskleisti visos šios programinės įrangos konfidencialios informacijos arba jos dalies, įskaitant, bet neapsiribojant profesinėmis paslaptimis, autorių teisėmis apsaugota medžiaga.
+\n\n5.Intelektinės nuosavybės TEISĖS („IP teisės“) Patvirtinate ir sutinkate, kad visos IP nuosavybės teisės, pretenzijos ir interesai į šią programinę įrangą arba iš jos kylantys yra ir liks išskirtine ASUS arba jos licencijos suteikėjo nuosavybe. Jokia šios EULA dalimi tokių IP teisių Jums perduoti neketinama. Bet koks neįgaliotas šių IP teisių naudojimas yra šios EULA bei intelektinės nuosavybės įstatymų pažeidimas, įskaitant, bet neapsiribojant autorių teisių bei prekės ženklų įstatymais.
+\nPer šią programinę įrangą ASUS siųsdami bet kokią informaciją, medžiagą, mintis, sąvokas arba metodus („Atsiliepimus“) patvirtinate ir sutinkate, kad: (i) Jūsų atsiliepimuose nebus konfidencialios arba nuosavybės informacijos; (ii) ASUS neįsipareigoja laikytis aiškiai išreikšto arba numanomo konfidencialumo atsiliepimų atžvilgiu; (iii) ASUS turi teisę savo nuožiūra pasauliniu mastu naudoti arba atskleisti atsiliepimus bet kokiu tikslu; (iv) Jūsų atsiliepimai taps ASUS nuosavybe be jokio ASUS įsipareigojimo Jūsų atžvilgiu; ir (v) Jūs neturite teisės į jokią kompensaciją arba atlyginimą bet kokia forma.
+\n\n6.TERMINAS IR NUTRAUKIMAS Ši EULA įsigalios Jums įdiegus šią programinę įrangą. Šią licenciją galite bet kada nutraukti, nustoję naudoti šią programinę įrangą ir ją pašalinę iš ASUS produkto. Jūsų teisę ASUS gali nutraukti be išankstinio įspėjimo, jei, jų manymu, nesilaikysite bet kurios šios EULA nuostatos.
+\n\n7.Atsakomybės dėl garantijos atsisakymas ir įsipareigojimų apribojimas PATVIRTINATE, KAD ŠI PROGRAMINĖ ĮRANGA PATEIKIAMA TOKIA, KOKIA YRA. VISA RIZIKA DĖL ŠIOS PROGRAMINĖS ĮRANGOS KOKYBĖS IR VEIKIMO TENKA JUMS, ĮSKAITANT, BET NEAPSIRIBOJANT SUSIJUSIOMIS IŠLAIDOMIS UŽ VISĄ BŪTINĄ APTARNAVIMĄ IR TAISYMĄ. KIEK TAI LEIDŽIAMA ĮSTATYMO, „ASUS“ NETEIKIA JOKIŲ AIŠKIAI IŠREIKŠTŲ ARBA NUMANOMŲ GARANTIJŲ DĖL ŠIOS PROGRAMINĖS ĮRANGOS, BET KOKIOS KITOS INFORMACIJOS ARBA DOKUMENTACIJOS, PATEIKTOS PAGAL ŠIĄ EULA ARBA ŠIAI PROGRAMINEI ĮRANGAI, ĮSKAITANT, BET NEAPSIRIBOJANT BET KOKIA GARANTIJA DĖL TINKAMUMO PARDUOTI, TINKAMUMO KONKREČIAM TIKSLUI AR PAŽEIDIMO NEBUVIMO, TAIP PAT BET KOKIOS GARANTIJOS, ATSIRANDANČIOS DĖL NAUDOJIMO ARBA VEIKLOS KRYPTIES. „ASUS“ TAIP PAT NETEIKIA JOKIŲ GARANTIJŲ DĖL REZULTATŲ, GAUTŲ NAUDOJANT ŠIĄ PROGRAMINĘ ĮRANGĄ, TAIP PAT DĖL BET KOKIOS INFORMACIJOS, GAUTOS NAUDOJANT ŠIĄ PROGRAMINĘ ĮRANGĄ, TIKSLUMO ARBA PATIKIMUMO. KAI KURIOSE JURISDIKCIJOSE NELEIDŽIAMAS KONKREČIŲ GARANTIJŲ NEĮTRAUKIMAS ARBA ĮSIPAREIGOJIMŲ DĖL KONKREČIOS ŽALOS APRIBOJIMAS ARBA NEĮTRAUKIMAS. ATITINKAMAI, KAI KURIE PIRMIAU PATEIKTI ATSAKOMYBĖS ATSISAKYMAI IR ĮSIPAREIGOJIMŲ APRIBOJIMAI JUMS GALI BŪTI NETAIKOMI.
+\nVISA RIZIKA, ATSIRANDANTI DĖL ŠIOS PROGRAMINĖS ĮRANGOS NAUDOJIMO IR (ARBA) VEIKIMO TENKA JUMS. „ASUS“, JOS LICENCIJOS SUTEIKĖJAI ARBA BET KURIE JŲ ATITINKAMI PAREIGŪNAI, DIREKTORIAI, DARBUOTOJAI, ATSTOVAI ARBA FILIALAI JOKIAIS ATVEJAIS NĖRA ATSAKINGI UŽ BET KOKIĄ PASEKMINĘ, ATSITIKTINĘ, TIESIOGINĘ, NETIESIOGINĘ, TYČINĘ, BAUDŽIAMĄJĄ ARBA KITĄ ŽALĄ, KAD IR KOKIA BEBŪTŲ, (ĮSKAITANT, BE APRIBOJIMŲ, ŽALĄ DĖL PELNO PRARADIMO, NUTRAUKIMO, INFORMACIJOS PRARADIMO ARBA KITŲ PINIGINIŲ NUOSTOLIŲ), KYLANČIĄ IŠ ARBA SUSIJUSIĄ SU ŠIA EULA, PROGRAMINĖS ĮRANGOS NAUDOJIMO ARBA NEGALĖJIMO JA NAUDOTIS AR BET KURIA JOS DALIMI, NET JEI „ASUS“ BUVO ĮSPĖTA APIE TOKIOS ŽALOS GALIMYBĘ. KAI KURIOSE JURISDIKCIJOSE NELEIDŽIAMAS KONKREČIŲ GARANTIJŲ NEĮTRAUKIMAS ARBA ĮSIPAREIGOJIMŲ DĖL KONKREČIOS ŽALOS APRIBOJIMAS ARBA NEĮTRAUKIMAS. ATITINKAMAI, KAI KURIE PIRMIAU PATEIKTI ATSAKOMYBĖS ATSISAKYMAI IR ĮSIPAREIGOJIMŲ APRIBOJIMAI JUMS GALI BŪTI NETAIKOMI.
+\n\n8.Kompensacija JŪS sutinkate ginti, padengti nuostolius ir laikyti ASUS bei jos filialus, paslaugų teikėjus, konsorciumus, platintojus, licencijų teikėjus, pareigūnus, direktorius ir darbuotojus neatsakingais dėl bet kokių nuostolių, žalos, įsipareigojimų ir išlaidų, kylančių iš bet kokios pretenzijos arba pareikalavimo (įskaitant pagrįstus advokato mokesčius ir teismo išlaidas) dėl JŪSŲ įvykdyto arba susijusio šios EULA arba bet kokio galiojančio įstatymo, reglamento ar trečiosios šalies teisių pažeidimo.
+    </string>
+    <string name="eula_content_title">"Galutinio vartotojo licencinė sutartis"</string>
+    <string description="Do not translate ASUS" maxwidth="" name="eula_description">"Teisinė sutartis dėl ASUS programų ir galutinių vartotojų"</string>
+    <string maxwidth="" name="eula_title">"Galutinio vartotojo licencinė sutartis"</string>
+    <string name="example">"Pavyzdys:"</string>
+    <string description="Dialog Button: extract file for dialog" maxwidth="-1" name="extract">"Išskleisti"</string>
+    <string name="facebook_app_invite">"Facebook adresatai"</string>
+    <string name="fb_request_error_permissions">"Šiai programėlei nesuteiktas leidimas atlikti tokį veiksmą. Pabandykite iš naujo prisijungti prie programėlės."</string>
+    <string name="fileList_Nofiles">"Failų nėra"</string>
+    <string description="Dialog Title: File information dialog title" maxwidth="-1" name="file_info_dialog_title">"Failo informacija"</string>
+    <string description="Application Name shown on title" maxwidth="" name="file_manager">"Failų tvarkyklė"</string>
+    <string description="string indicating camera flash is not used" maxwidth="-1" name="flash_off">"Nėra blykstės"</string>
+    <string description="string indicating camera flash is fired" maxwidth="-1" name="flash_on">"Blykstė mirktelėjo"</string>
+    <string description="click to retrieve password" maxwidth="-1" name="forget_password">"<u>Pamiršote slaptažodį?</u>"</string>
+    <string name="fragment_analyzer_allfiles_used_hint">"Panaudota:"</string>
+    <string name="fragment_analyzer_chart_free_hint">"Laisva:"</string>
+    <string name="fragment_analyzer_chart_total_hint">"Iš viso:"</string>
+    <string name="fragment_analyzer_chart_used_hint">"PANAUDOTA"</string>
+    <string name="fragment_analyzer_more_hint">"daugiau"</string>
+    <string name="google_app_invite">"Google adresatai"</string>
+    <string name="group_title_installed">"Įdiegta"</string>
+    <string name="group_title_not_installed">"Neįdiegta"</string>
+    <string name="group_title_others">"Kiti"</string>
+    <string name="group_title_recommended">"Rekomenduojama"</string>
+    <string name="hidden_zone_change_password">"Keisti slaptažodį"</string>
+    <string name="hidden_zone_confirm_password">"Patvirtinti PIN kodą"</string>
+    <string name="hidden_zone_enter_password">"Įveskite savo PIN kodą"</string>
+    <string name="hidden_zone_fingerprint_to_unlock">"Atrakinti piršto atspaudu"</string>
+    <string name="hidden_zone_forget_password">"Pamirštas slaptažodis"</string>
+    <string name="hidden_zone_introduction_description">"Paslėpkite savo privačius failus slaptojoje spintelėje. Norint atidaryti slaptąją spintelę reikia PIN kodo."</string>
+    <string name="hidden_zone_password_mismatch">"PIN kodas nesutampa"</string>
+    <string name="hidden_zone_set_password_success">"Slaptažodis sėkmingai nustatytas"</string>
+    <string name="hidden_zone_setup_account">"Nustatyti paskyrą"</string>
+    <string name="hidden_zone_setup_password">"Įveskite 4 skaitmenų PIN kodą"</string>
+    <string name="hidden_zone_wrong_password">"Blogas PIN kodas"</string>
+    <string description="Can’t connect to HomeCloud." maxwidth="-1" name="homecloud_access_error">"Nepavyko prisijungti prie "HomeCloud". Įsitikinkite, kad "HomeCloud" paslauga yra tinkle."</string>
+    <string name="homecloud_notice_1">"ASUS HomeCloud yra serverio programinė įranga, veikianti Windows operacinėje sistemoje. Ji sukurta kaip namuose naudoti skirta skaitmeninio turinio biblioteka ir dabar teikia saugojimo debesyje ir multimedijos transliacijos paslaugas. Ateityje ji gali būti išplėsta ir teikti daugiau paslaugų."</string>
+    <string name="homecloud_notice_2">"Galite tiesiog dabar ją atsisiųsti ir išbandyti."</string>
+    <string name="homecloud_notice_3">"http://home.asuscloud.com/"</string>
+    <string name="homecloud_toast_udp_unsupported">"Apribotas tinklo ryšys. Susisiekite su tinklo administratoriumi arba įjunkite kitą tinklą."</string>
+    <string name="hour">"1 valandos"</string>
+    <string name="hours">"
+        <ns1:g id="hours">%s</ns1:g> valandų"</string>
+    <string maxwidth="" name="httpserver_acquire_permission_message">"HTTP failų serveris bus uždarytas ir veiksmai gali būti pertraukti. Tęsti?"</string>
+    <string maxwidth="" name="httpserver_connectwifiname">"Prijungto Wi-Fi AP:"</string>
+    <string maxwidth="" name="httpserver_description">"Įjunkite paslaugą, kad prijungtumėte savo mobilųjį prietaisą prie kompiuterio."</string>
+    <string maxwidth="" name="httpserver_instruction">"Savo kompiuterio naršyklėje įveskite šį adresą:"</string>
+    <string maxwidth="" name="httpserver_need_saf">"Jeigu norite tvarkyti išorinę saugyklą iš kompiuterio, privalote duoti leidimą."</string>
+    <string maxwidth="" name="httpserver_no_network">"Prijunkite savo prietaisą prie to paties Wi-Fi tinklo"</string>
+    <string maxwidth="" name="httpserver_no_permission_message">"Negalėsite įrašyti išorinėje saugykloje, negavę tinkamo leidimo. Tęsti?"</string>
+    <string maxwidth="" name="httpserver_no_permission_title">"Paleiskite belaidį failų persiuntimą"</string>
+    <string maxwidth="" name="httpserver_start">"Pradėti"</string>
+    <string maxwidth="" name="httpserver_stop">"Sustabdyti"</string>
+    <string maxwidth="" name="httpserver_title">"Belaidis failų persiuntimas į kompiuterį"</string>
+    <string description="Context Menu: options of context menu" maxwidth="-1" name="info">"Informacija"</string>
+    <string description="file info textview context" maxwidth="-1" name="info_aperture">"Diafragma: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_datetime">"Fiksavimo data:" "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_exposure_time">"Rodymo laikas:" "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_file_num">"Failai: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_flash">"Blykstė: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_focal_length">"Židinio nuotolis: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_image_height">"Aukštis: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_image_width">"Plotis"</string>
+    <string description="file info textview context" maxwidth="-1" name="info_image_x">" x "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_iso">"ISO: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_location">"Vieta: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_maker">"Kūrėjas: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_model">"Modelis: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_modified">"Keitimų data: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_name">"Vardas: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_orientation">"Orientacija: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_path">"Kelias: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_permission">"Leidimas: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_type">"Tipas: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_white_balance">"Baltos spalvos balansas: "</string>
+    <string description="Do not translate ASUS" maxwidth="" name="inspire_asus_description">"Rinkite ASUS naudojimo duomenis, kad būtų galima pagerinti produktus ir vartotojo patirtį"</string>
+    <string name="inspire_asus_title">"Įkvėpti ASUS"</string>
+    <string name="install">"Įdiegti"</string>
+    <string description="storage label" maxwidth="-1" name="internal_storage_title">"Vidinė atmintis"</string>
+    <string description="Toast: the account is invalid" maxwidth="-1" name="invalid_account">"Negaliojanti paskyra"</string>
+    <string description="Invalid directory path" maxwidth="-1" name="invalid_directory_path">"Neteisingas kelias į katalogą"</string>
+    <string name="invalid_server_id">"Neteisingas serverio ID"</string>
+    <string name="invalid_xml">"Neteisingas xml."</string>
+    <string name="inviteContentTitle">%1$s ragina jus atsisiųsti ir įdiegti ASUS failų tvarkytuvą.</string>
+    <string name="inviteContent_p1">ASUS failų tvarkytuvas – tai puikus būdas tvarkyti failus jūsų išmaniajame įrenginyje. Ši failų tvarkymo programėlė padės jums tvarkyti ir rūšiuoti įvairius failus, saugomus jūsų telefono atmintyje, „MicroSD“ kortelėje, vietiniame tinkle ir netgi debesyje.</string>
+    <string name="inviteContent_p2">Su ASUS failų tvarkytuvu savo failus tvarkykite lengvai ir veiksmingai! ASUS failų tvarkytuvas padės tvarkyti visus jūsų failus, nesvarbu, ar jie saugomi jūsų įrenginio atmintyje, „MicroSD“ kortelėje, vietiniame tinkle ar debesies saugykloje, kaip antai mums priklausančiose ASUS HomeCloud“ ir „Webstorage“, arba naudojantis tokiomis debesies paslaugomis kaip „Dropbox“, „Google Drive“ arba „Microsoft OneDrive“.</string>
+    <string name="inviteContent_p3">Man smagu naudotis ASUS failų tvarkytuvu. Išbandykite NEDELSDAMI! :D</string>
+    <string description="sticker detail page button name" maxwidth="-1" name="invite_friends">"Pakviesti draugus"</string>
+    <string name="item">elementas</string>
+    <string name="items">elementai</string>
+    <string name="keep">"Laikyti"</string>
+    <string name="kk_sd_permission_warning">Dėl „Android“ apribojimo „Android 4.4“ neleidžia trečiųjų šalių programoms keisti išorinių SD kortelių.</string>
+    <string name="large_files_content_hint">"Surasti didelius failus ir ištrinti juos su jūsų leidimu."</string>
+    <string description="linked file is missing" maxwidth="-1" name="linked_file_missing">"Trūksta susieto failo"</string>
+    <string description="text for progress bar" maxwidth="-1" name="loading">Įkeliama\u2026</string>
+    <string name="local">"Vietinis"</string>
+    <string description="button text for sort file by date" maxwidth="-1" name="location">"Vieta"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="logging_cloud_storage">"Registruojama..."</string>
+    <string name="login_account_miss">"Nepavyko užregistruoti \"Facebook\" programėlės \"Android\" paskyros tvarkytuve. Pabandykite atsijungti ir vėl prisijungti, naudodami \"Facebook\"."</string>
+    <string name="login_again_later">"Serveris dabar nepasiekiamas. Pabandykite dar kartą vėliau."</string>
+    <string description="dialog title, key in the asus ID and PW to Login account" maxwidth="-1" name="login_asus_id">"Prisijungti prie ASUS paskyros"</string>
+    <string description="Toast: login account fail" name="login_fail" width="-1">"Prisijungti nepavyko"</string>
+    <string description="login account name" maxwidth="-1" name="login_id">"Paskyros pavadinimas / "WebStorage" ID"</string>
+    <string description="logout account" name="logout_account" width="-1">"Atsijungti"</string>
+    <string name="low_storage_tutorial_description">Bakstelėkite ir palaikykite, norėdami pažymėti savo failus, o tada pasirinkite „Perkelti į“ Google diską.</string>
+    <string name="low_storage_tutorial_title">Perkelti failus į „Google“ diską</string>
+    <string name="m_permission_dialog_message">"Bakstelėkite [Nustatymai] norėdami įjungti [%2$s] leidimą per [Programėlių informacija] > [Leidimai], tada paleiskite iš naujo „%1$s“."</string>
+    <string name="m_permission_dialog_positive_button">"Nustatymai"</string>
+    <string name="m_permission_setting_subtitle_files">"„%1$s“ reikės „%2$s“ leidimo, kad turėtų prieigą prie įrenginio failų."</string>
+    <string name="m_permission_setting_title_cloud_storage">"Nėra prieigos prie debesies kaupiklio"</string>
+    <string name="m_permission_setting_title_files">"Nėra prieigos prie failų"</string>
+    <string name="m_permission_setting_turn_on">"Įjungti"</string>
+    <string description="string indicating how camera shooting feature is used" maxwidth="-1" name="manual">"Neautomatinis"</string>
+    <string name="market_app_error">"Įvyko jūsų įrenginyje įdiegtos rinkos programėlės APP klaida!"</string>
+    <string description="ask user to enter email address as account name" maxwidth="-1" name="member_id_hint">"Įveskite el. pašto adresą"</string>
+    <string description="The title of a menu for General Preferences.Pressing the menu item lets user to view and edit his general settings" maxwidth="30" name="menu_general_preferences">"Bendrosios nuostatos"</string>
+    <string description="settings menu tutorial" maxwidth="-1" name="menu_tutorial">"Vadovėlis"</string>
+    <string name="minute">"1 minutės"</string>
+    <string name="minutes">"<ns1:g id="minutes">%s</ns1:g> minučių"</string>
+    <string description="Hint: move the items" maxwidth="-1" name="move">"Perkelti"</string>
+    <string name="move_or_delete_msg">"Dabar laikinai perkelti elementus į šiukšlinę?\n(Pažymėkite tolesnį langelį norėdami visam laikui ištrinti elementus.)"</string>
+    <string name="move_to">"Perkelti į"</string>
+    <string description="Toast: move to recycle bin fails" maxwidth="-1" name="move_to_hidden_zone_fail">"Nepavyko perkelti į slaptąją spintelę"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="move_to_hidden_zone_progress">"Perkeliama į slaptąją spintelę..."</string>
+    <string description="Toast: move to recycle bin success" maxwidth="-1" name="move_to_hidden_zone_success_more">"Pasirinkti failai perkelti į slaptąją spintelę."</string>
+    <string description="Toast: move to recycle bin success. %s is variable string." maxwidth="-1" name="move_to_hidden_zone_success_one">"„%s“ perkeltas į slaptąją spintelę."</string>
+    <string description="Toast: move to recycle bin fails" maxwidth="-1" name="move_to_trash_fail">"Nepavyko perkelti į šiukšlinę"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="move_to_trash_progress">"Perkeliama į šiukšlinę..."</string>
+    <string description="Toast: move to recycle bin success" maxwidth="-1" name="move_to_trash_success_more">"Pasirinkti failai perkelti į šiukšlinę"</string>
+    <string description="Toast: move to recycle bin success. %s is variable string." maxwidth="-1" name="move_to_trash_success_one">"„%s“ perkeltas į šiukšlinę"</string>
+    <string name="msg_too_big_to_recycle">"Elementai yra per dideli šiukšlinei.\nAr norite visam laikui juos ištrinti?"</string>
+    <string name="multi_drm_file_forbidden_operation">"Šis veiksmas draudžiamas, nes kai kurie pasirinkti failai apsaugoti DRM."</string>
+    <string description="shortcut label" maxwidth="-1" name="my_camera_title">"Fotoaparatas"</string>
+    <string description="shortcut label" maxwidth="-1" name="my_download_title">"Atsisiųsti"</string>
+    <string description="shortcut label" maxwidth="-1" name="my_music_title">"Muzika"</string>
+    <string description="shortcut label" maxwidth="-1" name="my_picture_title">"Paveikslas"</string>
+    <string description="storage label" maxwidth="-1" name="my_storage_title">"Mano saugykla"</string>
+    <string description="button text for sort file by name" maxwidth="-1" name="name">"Pavadinimas"</string>
+    <string description="button text for sort file by name ascending" maxwidth="-1" name="name_ascending">"Pavadinimas (z–a)"</string>
+    <string description="button text for sort file by name descending" maxwidth="-1" name="name_descending">"Pavadinimas (a–z)"</string>
+    <string name="network_cta_hint">"Sutikite, kad galėtumėte prisijungti prie tinklo"</string>
+    <string name="network_invalid">"Negaliojantis tinklo ryšys"</string>
+    <string name="network_invalid_info">"Prisijungimas neleistinas. Bandykite dar kartą."</string>
+    <string name="network_not_available">"Tinklo ryšio sukurti nepavyko"</string>
+    <string description="Can’t connect to networkpalce" maxwidth="-1" name="networkplace_access_error">"Prisijungti nepavyko. Įsitikinkite, kad paslauga yra tinkle."</string>
+    <string name="networkplace_storage_title">"Tinklo vieta"</string>
+    <string description="Dialog Title: create new folder" maxwidth="" name="new_folder_dialog">"Sukurti naują aplanką"</string>
+    <string description="Toast: new folder fails" maxwidth="-1" name="new_folder_fail">"Nepavyko sukurti naujo aplanko."</string>
+    <string description="Toast: new folder success. %s is variable string." maxwidth="-1" name="new_folder_success">"Aplankas \"%s\" buvo sukurtas."</string>
+    <string maxwidth="" name="news_1">"<b>Suasmeninamas pradžios ekranas</b>: Dabar galite suasmeninti pradžios ekraną, naudodami įvairias kategorijas ir eilės tvarką."</string>
+    <string maxwidth="" name="news_2">"<b>Mėgstamiausių parinkiklis</b>: Pridėkite mėgstamiausių aplanką tiesiai iš mėgstamiausių kategorijos."</string>
+    <string maxwidth="" name="news_3"><b>Failų tvarkytuvo valdiklis</b>: Sukurkite aplanko nuorodą vykdyklėje.</string>
+    <string maxwidth="" name="news_mark1">"★  "</string>
+    <string maxwidth="" name="news_subtitle">"Tai pagrindinis atnaujinimas, kurio turėtumėte nepraleisti."</string>
+    <string maxwidth="" name="news_title">"Kas naujo"</string>
+    <string maxwidth="" name="news_v21"><b>Belaidis failų persiuntimas į / iš kompiuterio</b>: Persiųskite / tvarkykite failus į / iš kompiuterio</string>
+    <string maxwidth="" name="news_v23">"Efektyvumo gerinimas ir klaidų pataisymai"</string>
+    <string maxwidth="" name="news_v31">"Atminties analizatorius praneša, kokio tipo failai užėmė visą atminties vietą"</string>
+    <string maxwidth="" name="news_v32">"Naujai patobulintų programėlių kategorija"</string>
+    <string name="news_v41">"Slėpti privačius failus slaptojoje spintelėje"</string>
+    <string name="news_v42">"Atkurti ištrintus failus iš šiukšliadėžės"</string>
+    <string name="news_v43">"Pašalinti dubliuotus failus iš kaupiklio analizavimo priemonės"</string>
+    <string name="news_v44">"Nauja ekrano funkcija – tamsos režimas"</string>
+    <string name="news_v45">"Geresnis našumas"</string>
+    <string name="news_v46">"Ištaisytos klaidos"</string>
+    <string name="newversion_description">"Jau yra atnaujinta failų tvarkytuvo versija. Ar norite atnaujinti dabar?"</string>
+    <string name="newversion_title">"Nauja versija"</string>
+    <string name="next">"Kitas"</string>
+    <string description="Dialog Button: no for dialog" maxwidth="" name="no">"Ne"</string>
+    <string name="no_device">"Nėra jokio įrenginio."</string>
+    <string name="no_items">"Nėra elementų"</string>
+    <string name="no_network">"Nėra tinklo ryšio"</string>
+    <string description="The description to inform users when there is no internet access" maxwidth="-1" name="no_network_connection_message">"Patikrinkite ryšį ir bandykite dar kartą"</string>
+    <string name="no_network_info">"Šiai programai pasiekti reikia interneto ryšio. Parametruose įjunkite mobiliojo ryšio tinklą arba belaidį ryšį ("Wi-Fi")."</string>
+    <string name="no_password">"Įveskite savo slaptažodį."</string>
+    <string name="no_right">"Jūsų paskyrai nesuteikta teisė prisijungti."</string>
+    <string name="no_share_folder">"Šiame įrenginyje nėra bendrintų failų"</string>
+    <string description="Toast: No space to copy file and left on device" maxwidth="-1" name="no_space_fail">"Nepakanka atminties"</string>
+    <string name="no_user_exist">"Vartotojo vardas neegzistuoja"</string>
+    <string name="no_username">"Pirmiausia įveskite vartotojo vardą."</string>
+    <string name="no_wifi_when_wifionly">"Tik Wi-Fi, įjunkite Wi-Fi"</string>
+    <string name="notification_gdrive_redeem_content">"Gaukite ją DABAR iš"Google Drive". "</string>
+    <string name="notification_gdrive_redeem_title">"100 GB nemokama saugykla!"</string>
+    <string name="occur_error_do_relogin">"Iš naujo prisijunkite prie %s"</string>
+    <string description="Dialog Button: ok for dialog" maxwidth="" name="ok">"Gerai"</string>
+    <string name="onedrive_account_only_one_alert">"Į ASUS paskyrą galima įtraukti tik vieną "OneDrive". Prieš pridėdami naują paskyrą, turite pašalinti dabartinę."</string>
+    <string name="open">"Atidaryti"</string>
+    <string description="Toast: open file fails" maxwidth="-1" name="open_fail">"Nepavyko atidaryti failo."</string>
+    <string maxwidth="" name="open_source_license_description">"Licencijos pranešimai, skirti atvirojo kodo programinei įrangai"</string>
+    <string maxwidth="" name="open_source_license_title">"Atvirojo kodo licencijos"</string>
+    <string name="othersforum_site_url">"http://www.asus.com/Terms_of_Use_Notice_Privacy_Policy/OthersForum_Site/"</string>
+    <string name="password">"Slaptažodis"</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="paste">"Įklijuoti"</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="paste_exist_apply">"Taikyti visiems"</string>
+    <string description="Dialog Title: paste exist dialog title" maxwidth="" name="paste_exist_dialog">"Tas pats failo pavadinimas"</string>
+    <string description="Dialog Content: text in dialog. %s is variable string." maxwidth="" name="paste_exist_file">"Failas \"%s\" jau yra."</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="paste_exist_replace">"Ar norite pakeisti nauju?"</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="paste_exist_to">"Į"</string>
+    <string description="Toast: paste fails" maxwidth="-1" name="paste_fail">"Failų įklijuoti nepavyko."</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="paste_progress">"Įklijuojama..."</string>
+    <string name="paste_progress_title">"Vykdomas dar viena kopijavimo užduotis... "</string>
+    <string description="Toast: paste success. %s is variable string." maxwidth="-1" name="paste_success">"Šie failai buvo pridėti į \"%s\"."</string>
+    <string name="permanently_delete">"Visam laikui ištrinti"</string>
+    <string description="Toast: operation permission deny" maxwidth="-1" name="permission_deny">"Leidimas nesuteiktas."</string>
+    <string name="permission_dialog_title">"Programėlės leidimas"</string>
+    <string name="permission_essential">"Reikia leidimų. Suaktyvinkite leidimus Nustatymuose!"</string>
+    <string name="permission_reason_contact">"Failų tvarkytuvui reikia gauti prieigą prie jūsų paskyros informacijos, kad prisijungtų prie saugyklos debesyje."</string>
+    <string name="permission_reason_storage">"Failų tvarkytuvui reikia gauti prieigą prie jūsų prietaiso saugyklos, kad jis tinkamai veiktų"</string>
+    <string description="Toast: You may not select more than %s photos." maxwidth="-1" name="photo_selection_limit_number_toast">"Pasirinkti ne daugiau kaip%s nuotraukas (-ų)"</string>
+    <string description="This is the title of the screen for setting user preferences." maxwidth="-1" name="preferences_title">"Nuostatos"</string>
+    <string name="previous_folder">"Ankstesnis aplankas"</string>
+    <string maxwidth="" name="privacy_policy">"Privatumo strategija"</string>
+    <string name="privacy_policy_url">http://www.asus.com/us/Terms_of_Use_Notice_Privacy_Policy/Privacy_Policy/</string>
+    <string name="processing_picture">"Apdorojama nuotrauka"</string>
+    <string name="processing_video">"Vaizdo įrašas apdorojamas"</string>
+    <string name="progressactivity_title">"Duomenų perdavimo tvarkyklė"</string>
+    <string name="promote_darkmode_message">"Keisti prioritetą per %s"</string>
+    <string name="promote_darkmode_title">"Nauja ekrano funkcija – tamsos režimas"</string>
+    <string name="promotion_notification_content">"Privalote išbandyti \"Belaidį failų persiuntimą\"!"</string>
+    <string name="promotion_notification_title">"Vis dar naudojatės USB kabeliu failams persiųsti?"</string>
+    <string name="publish">"Skelbti"</string>
+    <string name="pullfreshlistview_footer_hint_normal">"Įkelti daugiau"</string>
+    <string name="pullfreshlistview_footer_hint_ready">"Atleisti, norint įkelti daugiau"</string>
+    <string name="pullfreshlistview_header_hint_loading">"Atnaujinama..."</string>
+    <string name="pullfreshlistview_header_hint_normal">"Tempti žemyn"</string>
+    <string name="pullfreshlistview_header_hint_ready">"Atleisti, norint atnaujinti"</string>
+    <string name="pullfreshlistview_header_last_time">"Vėliausio atnaujinimo laikas:"</string>
+    <string name="rate_later">"Vėliau"</string>
+    <string name="rate_now">"Įvertinti dabar"</string>
+    <string description="rate us" maxwidth="-1" name="rate_us">"Įvertinkite mus"</string>
+    <string name="rating_dialog_message_v3_1">"Patinka naudotis %s? Įvertinkite mus „Google Play“, kad palaikytumėte mūsų įkvėpimą!"</string>
+    <string name="rating_dialog_message_v3_2">"Jei turite pasiūlymų ir atsiliepimų, parašykite mums, naudodamiesi parinktimi %s."</string>
+    <string name="recent_files_content_hint">"Rasti dabartinius failus ir ištrinti juos su jūsų leidimu."</string>
+    <string description="shortcut title: recently used files" name="recently_used" width="-1">"Dabartinis"</string>
+    <string name="recommend_clean_master_msg">"Visame pasaulyje patikimiausia Android“ optimizavimo, spartos didinimo, baterijos energijos taupymo priemonė ir nemokama antivirusinė programėlė. \nAtsisiųsti dabar?"</string>
+    <string name="recommend_clean_master_title">"Programėlės rekomendacija"</string>
+    <string name="recommend_scan_qr_code">"Rekomenduokite savo draugams atsisiųsti\n šią programėlę, nuskaitydami šį QR kodą."</string>
+    <string description="recruit beta user" maxwidth="-1" name="recruit_beta_user">"Gauti peržiūros versiją"</string>
+    <string name="recycle_bin_content_hint">"Talpinami visi ištrinti failai ir aplankai."</string>
+    <string description="dialog title, key in the asus ID and PW to Login account" maxwidth="-1" name="regist_asus_id">"ASUS paskyra kuriama"</string>
+    <string description="ask user to enter email address to registe New Account" name="registe_id">"Paskyros pavadinimas"</string>
+    <string description="ask user to enter new password" name="registe_password">"Įveskite nuo 8 iki 25 simbolių"</string>
+    <string description="sign up registe action" name="registe_sign_up">"Registruotis"</string>
+    <string description="network is unavailable, please try again" maxwidth="-1" name="remote_connected_error_hint">"Tinklas nepasiekiamas, bandykite dar kartą"</string>
+    <string description="remote storage label" maxwidth="-1" name="remote_storage_title">"Nuotolinė saugykla"</string>
+    <string name="remove_favorite">"Pašalinti iš mėgstamiausių"</string>
+    <string name="remove_favorite_notice_more">"Ar tikrai norite pašalinti \"%s\" elementus iš mėgstamiausių aplanko?"</string>
+    <string name="remove_favorite_notice_one">"Ar tikrai norite pašalinti \"%s\" iš mėgstamiausių aplanko?"</string>
+    <string name="remove_favorite_success">"Sėkmingai pašalinta"</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="rename">"Pervardyti"</string>
+    <string description="Dialog Title: rename dialog title" maxwidth="" name="rename_dialog">"Pervardyti"</string>
+    <string description="Toast: rename fails" maxwidth="-1" name="rename_fail">"Nepavyko pervardyti failo."</string>
+    <string name="rename_favorite_folder">"Pervadinti mėgstamiausių aplanką"</string>
+    <string name="rename_favorite_notice">"Mėgstamiausių aplanke jau yra aplankas tokiu pavadinimu, ar norite pervardyti?"</string>
+    <string name="rename_favorite_success">"Sėkmingai pervardyta ir įrašyta į mėgstamiausius"</string>
+    <string description="Toast: rename success" maxwidth="-1" name="rename_success">"Failas sėkmingai pervardytas."</string>
+    <string description="renaming file" name="renaming_file" width="-1">"Pervardijama"</string>
+    <string name="replace">"Pakeisti"</string>
+    <string description="Toast: restore fails" maxwidth="-1" name="restore_fail">"Nepavyko atkurti"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="restore_progress">"Atkuriama..."</string>
+    <string description="Toast: restore success" maxwidth="-1" name="restore_success_more">"Pasirinkti failai atkurti"</string>
+    <string description="Toast: restore success. %s is variable string." maxwidth="-1" name="restore_success_one">"„%s“ atkurtas"</string>
+    <string name="retention_notification_large_file">"Pridėjote %1$s didelius (-ių) failus (-ų). Peržiūrėkite juos dabar."</string>
+    <string name="retention_notification_recent_file">"Jūsų paskutiniai failai užima %1$s vietos. Peržiūrėkite juos dabar."</string>
+    <string name="saf_permission_tutorial_content">"ASUS failų tvarkyklė prašo prieigos, kad galėtų tvarkyti jūsų SD kortelę." Ar norite suteikti prieigą?"</string>
+    <string name="saf_permission_tutorial_content_v2">"Privalote atlikti tam tikrus veiksmus norėdami suteikti %s prieigos teises."</string>
+    <string name="saf_permission_tutorial_dialog">"Privaloma atlikti procedūrą, kad būtų leista naudotis SD kortele. Ar norite tęsti?"</string>
+    <string name="saf_permission_tutorial_title">"Prašyti prieigos naudoti SD kortelę"</string>
+    <string name="saf_tutorial_step_one">"Bakstelėkite meniu piktogramą, tada bakstelėkite "Rodyti SD kortelę"."</string>
+    <string name="saf_tutorial_step_three">"Bakstelėkite Pasirinkti SD kortelę ir suteikite prieigą ASUS failų tvarkyklei."</string>
+    <string name="saf_tutorial_step_three_v2">"Bakstelėkite %s norėdami suteikti prieigą prie ASUS failų tvarkytuvo."</string>
+    <string name="saf_tutorial_step_two">"Braukite kairįjį ekrano kampą, kol bus parodyta kartoteka, tada bakstelėkite SD kortelę."</string>
+    <string name="saf_tutorial_step_two_v2">"Braukite nuo kairės ekrano pusės, kad būtų parodytas stalčius, tada bakstelėkite %s."</string>
+    <string name="saf_tutorial_title">Leidžiama naudoti SD kortelę</string>
+    <string name="saf_tutorial_title_v2">"Leidimas naudoti %s"</string>
+    <string description="account config dialog remind message" maxwidth="-1" name="samba_client_config_check">"Atsiminti vartotojo vardą ir slaptažodį. Kitą kartą prisijungti tiesiogiai"</string>
+    <string name="samba_input_error">"vartotojo vardo arba slaptažodžio laukas negali būti tuščias!"</string>
+    <string name="samba_login_error">"Įvedėte neteisingą vartotojo vardą arba slaptažodį."</string>
+    <string name="samba_storage_add_title">"Tinklo vieta"</string>
+    <string name="samba_storage_title">"SAMBA"</string>
+    <string name="scan_qr_code">"Nuskaitykite QR kodą"</string>
+    <string description="rate now" maxwidth="" name="scroll_up_toast">"Slinkite aukštyn, jeigu norite įvertinti"</string>
+    <string name="sd_label">"ASUS skirtas „OneDrive“"</string>
+    <string name="search_action">"Ieškoti"</string>
+    <string description="search hint message" maxwidth="-1" name="search_hint">Įveskite failo pavadinimą</string>
+    <string description="cutstom action bar view title for search" maxwidth="-1" name="search_label">"Ieškoti failų"</string>
+    <string description="search dialog message" maxwidth="-1" name="search_progress">"Ieškoma..."</string>
+    <string description=" text for search result" formatted="false" maxwidth="-1" name="search_result_title">"Ieškoma %s %s: "</string>
+    <string name="select_album">"Pasirinkti albumą"</string>
+    <string description="Menu Option: select all checkbox" maxwidth="" name="select_all">"Pasirinkti visus"</string>
+    <string description="Title: select the folder" maxwidth="-1" name="select_folder">"Pasirinkite aplanką"</string>
+    <string name="select_folder_by_ok_button">"Paspauskite %1$s, kad pasirinktumėte šį aplanką"</string>
+    <string name="select_photo">"Pasirinkti nuotrauką"</string>
+    <string name="server">"Serveris:"</string>
+    <string name="server_error">"Serverio klaida"</string>
+    <string name="server_hint">"172.0.0.1/ShareFolder"</string>
+    <string name="server_title">"Serveris"</string>
+    <string maxwidth="-1" name="service_not_available_in_your_country">"Šis elementas neprieinamas jūsų šalyje."</string>
+    <string name="set_password_title">"Kurti PIN kodą"</string>
+    <string name="set_ring">"Nustatyti kaip žiedą"</string>
+    <string name="setting_display_group">"Ekranas"</string>
+    <string name="setting_notification_group">"Pranešimas"</string>
+    <string name="setting_notification_large_files">"Didelio failo pranešimas"</string>
+    <string name="setting_notification_recent_files">"Dabartinių failų pranešimas"</string>
+    <string name="setting_notification_wireless_transfer">"Belaidžio perdavimo pranešimas"</string>
+    <string name="setting_view_group">"Peržiūrėti nustatymą"</string>
+    <string name="setting_view_hide_files">"Slėpti sistemos failus"</string>
+    <string name="settings">"Nuostatos"</string>
+    <string description="This is the title of cache size" maxwidth="-1" name="settings_cache_size_title">"Talpyklos dydis"</string>
+    <string description="Remove all cache documents" maxwidth="-1" name="settings_clear_cache_info">"Panaikinti visus talpyklos dokumentus"</string>
+    <string description="Clear the cache" maxwidth="-1" name="settings_clear_cache_title">"Išvalyti talpyklą"</string>
+    <string description="This is the title of clearing search history action for setting user preferences." maxwidth="-1" name="settings_clear_search_history">"Išvalyti paieškos istoriją"</string>
+    <string name="settings_darkmode_message">"Taikyti tamsos režimą"</string>
+    <string name="settings_description">"Vietiniai aplankai ir failai"</string>
+    <string description="This is the title of documents cache" maxwidth="-1" name="settings_documents_cache">"Dokumentų talpykla"</string>
+    <string description="recommend text" maxwidth="" name="settings_encourage_us_detail">"Jeigu jūs mielai naudojatės %s, "Play Store" įvertinkite mus 5 ˛vaig˛dutėmis. Tai labai paskatins mus ir toliau gerinti produktą!"</string>
+    <string description="This is the title of hiding system files action for setting user preferences." maxwidth="-1" name="settings_hide_system_files">"Slėpti sistemos failus"</string>
+    <string description="This is the title of moving to the trash can." maxwidth="-1" name="settings_moved_to_the_trash_can">"Perkelta į šiukšliadėžę"</string>
+    <string description="Remove account" maxwidth="-1" name="settings_remove_account">"Panaikinti paskyrą"</string>
+    <string description="Set the cache size to %s" maxwidth="-1" name="settings_set_cache_size">"Talpyklos dydis nustatytas \"%s\""</string>
+    <string description="This is the title of space used for setting user preferences." maxwidth="-1" name="settings_space_used">"Panaudota atminties"</string>
+    <string description="This is the title of trash can information for setting user preferences." maxwidth="-1" name="settings_trash_can">"Šiukšliadėžė"</string>
+    <string description="This is the title of user name" maxwidth="-1" name="settings_user_name">"Vartotojo vardas"</string>
+    <string name="setup">"Sąranka"</string>
+    <string name="setup_account_description">"Nustatykite el. pašto paskyrą norėdami atgauti PIN kodą"</string>
+    <string name="setup_account_no_internet_connection">"Nėra interneto ryšio"</string>
+    <string name="setup_account_skip">"Praleisti"</string>
+    <string name="setup_account_title">"Atgauti PIN kodą"</string>
+    <string name="setup_fingerprint_message">"Įjungti atrakinimą piršto atspaudu? Slaptoji spintelė veikia su piršto atspaudų patikra. Nuskaitykite savo piršto atspaudą per „Nustatymai“ norėdami pradėti."</string>
+    <string name="setup_my_digital_code">"Nustatyti PIN kodą"</string>
+    <string name="share_more">"Kiti"</string>
+    <string name="share_with_friend">"Pasidalykite šia programėle su savo draugais"</string>
+    <string description="Context Menu: options of context menu: share folder via Wi-Fi Direct" maxwidth="" name="shared_folder">"Bendrinti per Wi-Fi Direct"</string>
+    <string description="shortcit title" maxwidth="-1" name="short_cuts_title">"Nuoroda"</string>
+    <string name="shortcut_hint">"Spustelėkite ir palaikykite nuspaudę kategoriją arba aplanką, kad sukurtumėte nuorodą Vykdyklėje."</string>
+    <string description="check if user want to show password" name="show_passwd">"Rodyti slaptažodį"</string>
+    <string description="show when sign in failed" maxwidth="-1" name="signin_failed">"Prisijungti nepavyko"</string>
+    <string description="signout account" name="signout_account" width="-1">"Atsijungti"</string>
+    <string name="single_drm_file_forbidden_operation">"Šis veiksmas draudžiamas dėl DRM apsaugos"</string>
+    <string description="button text for sort file by size" maxwidth="-1" name="size">"Dydis"</string>
+    <string description="button text for sort file by size ascending" maxwidth="-1" name="size_ascending">"Dydis (dideli–maži)"</string>
+    <string description="button text for sort file by size descending" maxwidth="-1" name="size_descending">"Dydis (maži–dideli)"</string>
+    <string name="ssl_err_msg_info">"Negalima užmegzti saugaus ryšio su serveriu. Ar norite tęsti?"</string>
+    <string name="ssl_err_msg_title">"SSL ryšio klaida"</string>
+    <string description="shortcut title: my favorite files" name="starred" width="-1">"Pažymėta žvaigždute"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="storage_type_cloud">"Debesies saugykla"</string>
+    <string name="storage_type_cloud_att">"Tinklo saugykla"</string>
+    <string name="storage_type_local">"Vietinė saugykla"</string>
+    <string name="storage_type_shortcut">"Spartusis klavišas"</string>
+    <string name="storagetype_add_account">"Pridėti "Google" paskyrą"</string>
+    <string name="tap_to_exit">"Dar kartą bakstelėkite, kad išeitumėte"</string>
+    <string name="target_directory_is_child_of_source">"Negalima baigti operacijos, nes tikslinis katalogas yra antrinis šaltinio katalogo elementas."</string>
+    <string description="Toast: target file exists" maxwidth="-1" name="target_exist">"Tikslinis failas jau yra."</string>
+    <string description="Toast: target folder exists. %s is variable string." maxwidth="-1" name="target_folder_exist">"Aplankas \"%s\" jau yra."</string>
+    <string description="" maxwidth="" name="tell_friend">"Pasakyti draugui"</string>
+    <string maxwidth="" name="terms_of_service">"Naudojimo sąlygų pranešimas"</string>
+    <string maxwidth="" name="terms_of_service_url">http://www.asus.com/us/Terms_of_Use_Notice_Privacy_Policy/Official-Site/</string>
+    <string description="title" maxwidth="-1" name="title">"Teisinė informacija:"</string>
+    <string name="toast_auto_lock_notify_message">"Užrakinti slaptąją spintelę, kai įrenginys užrakintas"</string>
+    <string description="Toast: The item(s) has been copied completely" maxwidth="-1" name="toast_drag_copied_items">"Šis elementas (-ai) buvo visiškai nukopijuotas"</string>
+    <string description="Toast: The item(s) has been moved completely" maxwidth="-1" name="toast_drag_moved_items">"%d elementas (-ai) buvo visiškai perkeltas"</string>
+    <string description="Toast: Sorry, copy files complete but cut fail" maxwidth="-1" name="toast_warning_copy_comple_cut_fail">"Atsiprašome, failai buvo nukopijuoti, bet nepavyko panaikinti senų failų"</string>
+    <string description="Toast: Sorry, copy folders has not been supported" maxwidth="-1" name="toast_warning_copy_folders">"Atsiprašome, galimybė kopijuoti aplankus nepalaikoma"</string>
+    <string maxwidth="35" name="toolbar_item_title_encourage_us">"Paskatinti mums"</string>
+    <string name="tools_clean_master">"Valyti nepageidaujamą el. paštą"</string>
+    <string name="tools_file_transfer">"Kompiuterio failų perkėlimas"</string>
+    <string name="tools_hidden_zone">"Slaptoji spintelė"</string>
+    <string name="tools_recycle_bin">"Šiukšlinė"</string>
+    <string name="tools_storage_analyzer">"Atminties analizatorius"</string>
+    <string name="tools_tip_animation">"Griebkite įrankius!"</string>
+    <string name="tools_zenui_instant_update">"Momentinis atnaujinimas"</string>
+    <string description="shortcut title: trash can" name="trash_can" width="-1">"Šiukšliadėžė"</string>
+    <string maxwidth="-1" name="trash_info_deleted">"Ištrynimo data: "</string>
+    <string maxwidth="-1" name="trash_info_path">"Pirminis maršrutas: "</string>
+    <string description="label for trending searches" maxwidth="-1" name="trending_searches">"Populiariausios paieškos"</string>
+    <string name="tunnelconnection_notice_1">"ASUS TunnelConnection yra taikomoji programinė įranga, veikianti Android operacinėje sistemoje. Ji teikia tunelinio ryšio paslaugas ASUS HomeCloud."</string>
+    <string name="tunnelconnection_notice_2">"Jeigu norite aplankyti ASUS HomeCloud, dabar jums reikia ją atsisiųsti."</string>
+    <string name="tunnelconnection_notice_3">"https://play.google.com/store/"</string>
+    <string name="tutorial_analyzer_content">"Kaupiklio analizatorius praneša, kokie failai užima disko vietą."</string>
+    <string name="tutorial_category_content">"Niekada nebuvo taip lengva ieškoti failų naudojant ASUS failų tvarkytuvo kategorijos rodinį."</string>
+    <string name="tutorial_category_title">"Kategorijos rodinys"</string>
+    <string name="tutorial_cloud_content">"Prisijunkite prie failų per išmanųjį telefoną, kompiuterį ir debesies kaupiklį."</string>
+    <string name="tutorial_cloud_title">"Debesies kaupiklis"</string>
+    <string name="tutorial_done">"Atlikta"</string>
+    <string name="tutorial_page_content_long_press">"Bakstelėkite ir palaikykite, jei norite pasirinkti elementą. Tada bakstelėkite \"Meniu\" piktogramą ir atverkite kitas veiksmų parinktis."</string>
+    <string name="tutorial_page_four_content">"Nustatykite dažnai naudojamą aplanką kaip Mėgstamiausius, kad lengvai ir greitai pasiektumėte failus."</string>
+    <string name="tutorial_page_four_title">"Mėgstamiausi"</string>
+    <string name="tutorial_page_one_content">"ASUS failų tvarkyklė leidžia lengvai valdyti failus, saugomus vidinėje, išorinėje, vietinio tinklo ar debesų atmintinėse."</string>
+    <string name="tutorial_page_one_title">"ASUS failų tvarkyklė"</string>
+    <string name="tutorial_page_three_content">"Braukite elementą, kad būtų rodomi tokie veiksmai, kaip Pridėti prie mėgstamiausių, Pervadinti, Perkelti į, Kopijuoti į ir kitos failų tvarkymo parinktys."</string>
+    <string name="tutorial_page_three_title">"Braukimo veiksmas"</string>
+    <string name="tutorial_page_title_long_press">Rodyti veiksmų meniu</string>
+    <string name="tutorial_page_two_content">"Paprastos naudoti kategorijos, kurios suteikia galimybę greitai pasiekti vietinėje atmintinėje saugomus failus." "</string>
+    <string name="tutorial_page_two_title">"Pradžios puslapis"</string>
+    <string name="tutorial_skip">"Praleisti"</string>
+    <string description="button text for sort file by type" maxwidth="-1" name="type">"Tipas"</string>
+    <string description="document type" maxwidth="-1" name="type_abu">"ASUS programėlės atsarginė kopija"</string>
+    <string description="document type" maxwidth="-1" name="type_apk">"Adroid programėlė"</string>
+    <string description="document type" maxwidth="-1" name="type_audio">"Garsas"</string>
+    <string description="document type" maxwidth="-1" name="type_book">"El. knyga"</string>
+    <string name="type_dialog_audio">"Garsas"</string>
+    <string name="type_dialog_image">"Vaizdas"</string>
+    <string name="type_dialog_text">"Tekstas"</string>
+    <string name="type_dialog_title">"Atidaryti kaip"</string>
+    <string name="type_dialog_video">"Vaizdo įrašai"</string>
+    <string description="document type" maxwidth="-1" name="type_directory">"Katalogas"</string>
+    <string description="document type" maxwidth="-1" name="type_document">"Dokumentas"</string>
+    <string description="document type" maxwidth="-1" name="type_file">"Failas"</string>
+    <string description="document type" maxwidth="-1" name="type_image">"Vaizdas"</string>
+    <string description="document type" maxwidth="-1" name="type_playlist">"Grojaraštis"</string>
+    <string description="document type" maxwidth="-1" name="type_rar">"RAR"</string>
+    <string description="document type" maxwidth="-1" name="type_video">"Vaizdo įrašai"</string>
+    <string description="document type" maxwidth="-1" name="type_zip">"Glaudinti"</string>
+    <string name="ud_sdk_all_app_update">"Visos programėlės yra naujausios versijos."</string>
+    <string name="ud_sdk_asus_app_slogan">naudinga programėlė</string>
+    <string name="ud_sdk_downloads">Atsisiuntimai</string>
+    <string name="ud_sdk_free_download">Nemokamas atsisiuntimas</string>
+    <string name="ud_sdk_important_remind_text">"Svarbu"</string>
+    <string name="ud_sdk_install">Įdiegti</string>
+    <string name="ud_sdk_more_zen_family">Atrasti daugiau „ZenUI“ programėlių</string>
+    <string name="ud_sdk_no_network_connection_content">Nepavyksta atnaujinti duomenų. Patikrinkite tinklo parametrus.</string>
+    <string name="ud_sdk_no_network_connection_title">Nėra tinklo ryšio</string>
+    <string name="ud_sdk_open">Atidaryti</string>
+    <string name="ud_sdk_update">Naujinti</string>
+    <string maxwidth="-1" name="ud_sdk_update_sdk">„ZenUI“ šeima</string>
+    <string maxwidth="-1" name="ud_sdk_update_sdk_asus">„ZenUI“ momentinis atnaujinimas</string>
+    <string name="ud_sdk_wifi_settings">„Wi-Fi“ parametrai</string>
+    <string name="uf_sdk_already_give_5star">"Jau skyriau 5 žvaigždutes"</string>
+    <string description="%d is a number, don&apos;t translate" name="uf_sdk_article_read_count">"%d peržiūros (-ų)"</string>
+    <string name="uf_sdk_attachment_format_warning">"Blogas failo formatas. Galima pridėti tik vaizdo failą"</string>
+    <string name="uf_sdk_attachment_total_size">"Iš viso"</string>
+    <string name="uf_sdk_attachment_warning">"Priedo dydis viršija leistiną ribą"</string>
+    <string maxwidth="-1" name="uf_sdk_cancel_btn_content">"Atšaukti"</string>
+    <string name="uf_sdk_choosertitle_sharevia">"Bendrinti naudojant"</string>
+    <string name="uf_sdk_connection_error_msg">"Serveris nutraukė ryšį. Bandykite vėliau."</string>
+    <string name="uf_sdk_connection_error_title">"Ryšio klaida"</string>
+    <string name="uf_sdk_discard">"Atsisakyti"</string>
+    <string name="uf_sdk_email_illigal">"El. pašto adresas jau naudojamas"</string>
+    <string maxwidth="-1" name="uf_sdk_empty_notification">"Tuščia :)"</string>
+    <string name="uf_sdk_faq">"DUK"</string>
+    <string name="uf_sdk_feedback_and_help">"Atsiliepimai ir pagalba"</string>
+    <string name="uf_sdk_forum_description">"Prisijunkite prie pokalbio su ASUS naudotojais norėdami surasti ir pasidalinti savo sprendimais"</string>
+    <string maxwidth="-1" name="uf_sdk_grant_permission_title">"Suteikti leidimą"</string>
+    <string name="uf_sdk_help">"Pagalba"</string>
+    <string name="uf_sdk_instant_answer_question">"Ar šis DUK buvo naudingas?"</string>
+    <string name="uf_sdk_like">"Patinka"</string>
+    <string maxwidth="-1" name="uf_sdk_message">"Pranešimai"</string>
+    <string name="uf_sdk_msg_bad_email_format">"El. pašto adresas negalioja, bandykite dar kartą."</string>
+    <string name="uf_sdk_msg_confirm_discard_topic">"Jūsų juodraštis nebus išsaugotas. Ar vis tiek norite jį ištrinti?"</string>
+    <string name="uf_sdk_msg_confirm_discard_topic_title">"Ištrinti įrašą?"</string>
+    <string name="uf_sdk_msg_subscribe">"Temos būsenos pranešimo prenumerata jums bus išsiųsta el. paštu."</string>
+    <string name="uf_sdk_msg_subscribe_success">"Sėkmingai užsiprenumeruota"</string>
+    <string name="uf_sdk_msg_ticket_created">"Jūsų atsiliepimas sėkmingai išsiųstas ASUS"</string>
+    <string name="uf_sdk_msg_topic_created">"Sėkmingai paskelbta"</string>
+    <string name="uf_sdk_msg_unsubscribe">"Sėkmingai anuliuota prenumerata"</string>
+    <string name="uf_sdk_name_hint">"Įveskite savo vardą"</string>
+    <string name="uf_sdk_name_illigal">"Naudotojo vardas jau užimtas"</string>
+    <string name="uf_sdk_network_error">"Nėra interneto ryšio, patikrinkite savo tinklo nustatymus."</string>
+    <string description="zenui news" maxwidth="" name="uf_sdk_news">"Naujienos"</string>
+    <string name="uf_sdk_no_network_connection_content">"Serveris nutraukė ryšį. Bandykite vėliau."</string>
+    <string name="uf_sdk_no_network_connection_title">"Ryšio klaida"</string>
+    <string name="uf_sdk_nothing_found">"Nieko nerasta"</string>
+    <string name="uf_sdk_notice">"Pranešimas"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category1">"Skelbimai"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category2">"Mokomoji medžiaga ir patarimai"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category3">"Akcijos"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category4">"Renginiai"</string>
+    <string name="uf_sdk_publish_an_topic">"Skelbti naują temą"</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_rate_now">"Įvertinti dabar"</string>
+    <string description="%s is AP name, don&apos;t translate" maxWidth="" name="uf_sdk_rate_us_detail">"Jei jums patinka naudotis %s, įvertinkite mus 5 „Play Store“ žvaigždutėmis."</string>
+    <string maxWidth="" name="uf_sdk_rate_us_detail_new">"Jei palaikysite mus įvertindami 5 žvaigždutėmis, įkvėpsite tęsti mūsų darbą!"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_rating">"5 žvaigždučių įvertinimas"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title">"Įvertinkite mus!"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title_new">"Padrąsinkite mus!"</string>
+    <string description="Menu item for userFeedback sdk" maxwidth="-1" name="uf_sdk_report_bug">Klaidų ataskaita</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_scroll_up_toast">"Slinkite aukštyn norėdami įvertinti"</string>
+    <string name="uf_sdk_search_hint">"Paieškos pagalba"</string>
+    <string name="uf_sdk_select_common_bug">"Pasirinkti bendrąją klaidą"</string>
+    <string name="uf_sdk_send_feedback">"Siųsti atsiliepimą"</string>
+    <string name="uf_sdk_send_feedback_help">"Jūsų atsiliepimas ir el. pašto adresas bus persiųsti ASUS. Aptarnavimo komanda su jumis susisieks el. paštu."</string>
+    <string maxwidth="-1" name="uf_sdk_setting_btn_content">"Nustatymai"</string>
+    <string description="recommend title" maxwidth="" name="uf_sdk_settings_encourage_us_title">"Padrąsinkite mus"</string>
+    <string maxwidth="-1" name="uf_sdk_storage_permission_description">"Šiai funkcijai reikia gauti kaupiklio leidimą, kad turėtų prieigą prie multimedijos failų. \n\nJei norite suaktyvinti šią funkciją, bakstelėkite mygtuką „Nustatymai“ norėdami patekti į nustatymų puslapį, tada nustatykite „Programėlių informacija“ > „Leidimai“, kad būtų suteiktas leidimas.\n"</string>
+    <string name="uf_sdk_submit_topic">"Skelbti"</string>
+    <string name="uf_sdk_subscribe_dialog_title">"Prenumeruokite šią temą"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_answered">"Atsakyta"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_completed">"baigta"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_declined">"atmesta"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_implemented">"Pritaikyta"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_planned">"suplanuota"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_under_review">"tikrinama"</string>
+    <string name="uf_sdk_thanks_for_your_feedback">"Dėkojame už atsiliepimą!"</string>
+    <string description="%s is a application name, don&apos;t translate" name="uf_sdk_ticket_hint">"Įvesti atsiliepimus apie %s"</string>
+    <string name="uf_sdk_title_topic">"Tema"</string>
+    <string name="uf_sdk_topic">"Tema"</string>
+    <string name="uf_sdk_topic_description_heading">"Aprašymas"</string>
+    <string name="uf_sdk_topic_description_hint">"Išsamiau aprašykite savo temą"</string>
+    <string name="uf_sdk_topic_filter">"TEMOS"</string>
+    <string name="uf_sdk_topic_form_help">"Jums paskelbus temą vartotojų forume, kiti vartotojai galės ją prenumeruoti ir joje komentuoti. Be to, ASUS kūrybinei komandai reagavus į temą, apie tai būsite informuoti el. paštu."</string>
+    <string name="uf_sdk_topic_form_title">"Skelbti naują temą"</string>
+    <string name="uf_sdk_topic_text_heading">"Forumas"</string>
+    <string name="uf_sdk_topic_text_hint">"Įveskite savo temos pavadinimą"</string>
+    <string name="uf_sdk_topic_title">"Pavadinimas"</string>
+    <string name="uf_sdk_translation_10117605">"Vertimo problema"</string>
+    <string name="uf_sdk_translation_117562">"Atsiliepimo tipas"</string>
+    <string name="uf_sdk_translation_2529543">"Klaidų ataskaita"</string>
+    <string name="uf_sdk_translation_2529544">"Kiti"</string>
+    <string name="uf_sdk_translation_2530478">"Pasiūlymas"</string>
+    <string name="uf_sdk_unhelpful_article_message_question">"Ar norėtumėte ASUS kūrybinei komandai nusiųsti atsiliepimą?"</string>
+    <string name="uf_sdk_user_forum">"Naudotojų forumas"</string>
+    <string name="uf_sdk_warning">"Įspėjimas"</string>
+    <string name="uf_sdk_wifi_settings">"„Wi-Fi“ nustatymai"</string>
+    <string name="uf_sdk_wlan_settings">"WLAN nustatymai"</string>
+    <string name="uf_sdk_write_your_feedback">"Įveskite atsiliepimus čia"</string>
+    <string name="uf_sdk_your_draft_will_be_discarded">"Jūsų juodraščio bus atsisakyta."</string>
+    <string description="description for empty search result" maxwidth="-1" name="unable_to_find_artlcles">"Negalima surasti \u0022%s\u0022 susijusių straipsnių"</string>
+    <string description="string indicating the length units in milli-meters" maxwidth="-1" name="unit_mm">"mm"</string>
+    <string description="Context Menu: options of context menu: unshare folder" maxwidth="-1" name="unshared_folder">"Atšaukti bendrinimą"</string>
+    <string name="unsupported_area">"Ši sritis nepalaikoma"</string>
+    <string description="toast message: extract files fail" maxwidth="-1" name="unzip_fail">"Nepavyko išskleisti failų"</string>
+    <string description="extract file dialog message" maxwidth="-1" name="unzip_progress_msg">"Išskleidžiama..."</string>
+    <string description="toast message: extract files successly" maxwidth="-1" name="unzip_success">"Failai sėkmingai išskleisti"</string>
+    <string name="update">"Atnaujinti"</string>
+    <string name="update_fb_app">"\"Facebook\" mobilioji programėlės versija yra pasenusi. Įdiekite naujausią versiją iš Google Play."</string>
+    <string name="upgrade_notification_content">Peržiūrėkite failus pagal tipą visiškai naujame pradžios ekrane.</string>
+    <string name="upgrade_notification_title">Išbandykite naują failų tvarkytuvą tiesiog dabar!</string>
+    <string name="upload_complete">"Įkeltas"</string>
+    <string name="upload_complete_dialog_message">"Įkėlimas sėkmingai atliktas."</string>
+    <string name="upload_complete_dialog_title">"Atlikta"</string>
+    <string name="upload_fail">"įkelti nepavyko!"</string>
+    <string name="upload_failed">"Įkelti nepavyko"</string>
+    <string name="upload_picture_toast">"Jūsų nuotrauka bus įkelta. Tikrinkite pažangą pranešimų lange."</string>
+    <string name="upload_toast">"Jūsų vaizdo įrašas bus įkeltas. Tikrinkite pažangą pranešimų lange."</string>
+    <string name="uploading_picture">"Įkeliama nuotrauka"</string>
+    <string name="uploading_video">"Įkeliamas vaizdo įrašas..."</string>
+    <string name="user">"Vartotojo vardas"</string>
+    <string name="user_hint">"administratorius"</string>
+    <string name="uv_admin_response_format">"Administratoriaus atsakymas: %1$s"</string>
+    <string name="uv_all_articles">"Visi straipsniai"</string>
+    <string name="uv_all_results_filter">"VISKAS"</string>
+    <string name="uv_android_sdk">Android SDK</string>
+    <string name="uv_article_browse_question">"Ar šis straipsnis buvo naudingas?"</string>
+    <string name="uv_article_instant_answer_question">"Ar šis DUK naudingas?"</string>
+    <string name="uv_cancel">"Atšaukti"</string>
+    <string name="uv_category">"Kategorija"</string>
+    <string name="uv_close">"Uždaryti"</string>
+    <string name="uv_comment_hint">"Įvesti savo komentarą"</string>
+    <string name="uv_confirm">"Patvirtinti"</string>
+    <string name="uv_contact_continue_button">"Vis dar noriu išsiųsti pranešimą"</string>
+    <string name="uv_contact_hint">"Įveskite savo klausimą arba atsiliepimą"</string>
+    <string name="uv_contact_us">"Kontaktai"</string>
+    <string name="uv_display_name">"Rodyti vardą"</string>
+    <string name="uv_email_address">"El. pašto adresas"</string>
+    <string name="uv_email_address_hint">"jūsų@el.p.adresas.com (būtina)"</string>
+    <string name="uv_error">"Klaida"</string>
+    <string name="uv_failed_signin_error">"Neteisingas el. pašto adresas arba slaptažodis"</string>
+    <string name="uv_forgot_password">"Pamiršau slaptažodį"</string>
+    <string name="uv_helpful_article_message_question">"Ar vis dar norite išsiųsti pranešimą?"</string>
+    <string name="uv_i_want_this">"Noriu to!"</string>
+    <string name="uv_idea_description_heading">"Išsamiau aprašykite savo idėją"</string>
+    <string name="uv_idea_description_hint">"(pasirinktinai)"</string>
+    <string name="uv_idea_text_heading">"Siūlau jums..."</string>
+    <string name="uv_loading">"Įkeliama..."</string>
+    <string name="uv_matching_articles">"Sutampantys straipsniai"</string>
+    <string name="uv_matching_articles_and_ideas">"Sutampantys straipsniai ir idėjos"</string>
+    <string name="uv_menu_attach">"Pridėti"</string>
+    <string name="uv_menu_search">"Ieškoti"</string>
+    <string name="uv_msg_bad_email_format">"Įveskite galiojantį el. pašto adresą."</string>
+    <string name="uv_msg_comment_posted">"Jūsų komentaras paskelbtas"</string>
+    <string name="uv_msg_confirm_discard_message">"Ar tikrai norime atmesti savo pranešimą?"</string>
+    <string name="uv_msg_custom_fields_validation">"Užpildykite visus reikiamus laukelius."</string>
+    <string name="uv_msg_forgot_password">"Išsiųstas el. laiškas dėl užmiršto slaptažodžio"</string>
+    <string name="uv_msg_idea_created">"Jūsų idėja sukurta"</string>
+    <string name="uv_msg_ticket_created">"Jūsų pranešimas išsiųstas"</string>
+    <string name="uv_msg_user_identity_validation">"Įveskite savo el. pašto adresą"</string>
+    <string name="uv_name_hint">"Anonimiškai"</string>
+    <string name="uv_network_error">"Jungiantis prie „UserVoice“ įvyko klaida"</string>
+    <string name="uv_nevermind">"Nesvarbu"</string>
+    <string name="uv_new_comment">"Naujas komentaras"</string>
+    <string name="uv_next">"Toliau"</string>
+    <string name="uv_no">"Ne"</string>
+    <string name="uv_none_of_these_help">"Niekas nebuvo naudinga"</string>
+    <string name="uv_password">"Slaptažodis"</string>
+    <string name="uv_password_dialog_title">"Įveskite savo slaptažodį"</string>
+    <string name="uv_portal_title">"Pagalba"</string>
+    <string name="uv_post_a_comment">"Paskelbti komentarą"</string>
+    <string name="uv_post_comment">"Skelbti komentarą"</string>
+    <string name="uv_posted_by_format">"%1$s paskelbė %2$s"</string>
+    <string name="uv_powered_by_uservoice">"Valdoma su „UserVoice“"</string>
+    <string name="uv_ranked">"Įvertinta %1$s"</string>
+    <string name="uv_remove_votes">"Šalinti balsus"</string>
+    <string name="uv_select_none">"(joks)"</string>
+    <string name="uv_select_one">"Pasirinkti vieną"</string>
+    <string name="uv_send_message">"Siųsti pranešimą"</string>
+    <string name="uv_signin_dialog_ok">"Prisijungti"</string>
+    <string name="uv_signin_dialog_title">"Prisijungti"</string>
+    <string name="uv_status_format">"Būsena: %1$s"</string>
+    <string name="uv_submit_idea">"Pateikti idėją"</string>
+    <string name="uv_subscribe">"Prenumeruoti"</string>
+    <string name="uv_subscribe_dialog_title">"Prenumeruoti šią idėją"</string>
+    <string name="uv_suggestion_instant_answer_question">"Ar ši idėja naudinga?"</string>
+    <string name="uv_thanks">"Ačiū!"</string>
+    <string name="uv_unhelpful_article_message_question">"Ar norite mums išsiųsti pranešimą?"</string>
+    <string name="uv_value">"Reikšmė"</string>
+    <string name="uv_very_yes">"Taip!"</string>
+    <string name="uv_yes">"Taip"</string>
+    <string name="uv_your_email_address">"Jūsų el. pašto adresas"</string>
+    <string name="uv_your_name">"Jūsų vardas"</string>
+    <string description="version" maxwidth="-1" name="version">"Versija"</string>
+    <string name="version_text">"Versija"</string>
+    <string name="wait">"Palaukite\u2026"</string>
+    <string name="warning_stophttpserver">"Jūsų mobilusis prietaisas praras ryšį su kompiuteriu. Norite atsijungti?"</string>
+    <string name="whats_new_label">"Kas naujo"</string>
+    <string description="message for request to connect Network" name="wifi_p2p_connection_msg" width="-1">"Užmegzkite tinklo ryšį, kad galėtumėte naudotis debesies paslaugomis."</string>
+    <string description="title for request to connect Network" name="wifi_p2p_connection_title" width="-1">"Užmegzti tinklo ryšį"</string>
+    <string description="message for request to turn on Wi-Fi" name="wifi_p2p_turn_on_wifi_msg" width="-1">"Įjunkite "Wi-Fi", kad galėtumėte naudotis "Wi-Fi Direct" paslaugomis. "Ar norite tuoj pat įjungti "Wi-Fi"?"</string>
+    <string description="title for turn on WiFi dialog" name="wifi_p2p_turn_on_wifi_title" width="-1">"Įjungti "Wi-Fi""</string>
+    <string description="search" maxwidth="-1" name="wifidirect_action_bar_scan">"Ieškoti"</string>
+    <string description="Available devices" maxwidth="-1" name="wifidirect_available_devices">"Pasiekiami įrenginiai"</string>
+    <string description="Do you want to connect to device" maxwidth="-1" name="wifidirect_connect_hint">"Ar norite prisijungti prie"</string>
+    <string description="Dialog title text: Invitation to connect" maxwidth="-1" name="wifidirect_connect_hint_title">"Kvietimas prisijungti"</string>
+    <string description="Dialog title text: Wi-Fi Direct connecting" maxwidth="-1" name="wifidirect_connecting_hint_title">"Jungiamasi prie "Wi-Fi Direct"..."</string>
+    <string description="connectted" maxwidth="-1" name="wifidirect_connectted">"Prisijungta"</string>
+    <string description=">Do you want to disconnect" maxwidth="-1" name="wifidirect_disconnect_hint">"Ar norite atsijungti nuo"</string>
+    <string description="Disconnect Wi-Fi Direct" maxwidth="-1" name="wifidirect_disconnect_hint_title">"Atjungti Wi-Fi Direct"</string>
+    <string description="peer devices infomation" maxwidth="-1" name="wifidirect_peer_device_info">"Jeigu norite gauti kvietimą į "Wi-Fi Direct", įsitikinkite, kad prisijungiantis jūsų įrenginys išlieka failų tvarkyklės puslapyje \"Lygiaverčiai įrenginiai\"."</string>
+    <string description="peer devices title" maxwidth="-1" name="wifidirect_peer_device_title">"Lygiaverčiai įrenginiai"</string>
+    <string description="searching" maxwidth="-1" name="wifidirect_scanning">"Ieškoma..."</string>
+    <string description="Search Wi-Fi Direct device" maxwidth="-1" name="wifidirect_storage_title">"Ieškoti "Wi-Fi Direct" įrenginio"</string>
+    <string description="click to connect" maxwidth="-1" name="wifidirect_touch_to_connect">"Spustelėkite, jei norite prisijungti"</string>
+    <string name="yandex_account_only_one_alert">"Galima pridėti tik vieną "Yandex" paskyrą. Prieš pridėdami naują paskyrą, turite pašalinti dabartinę."</string>
+    <string name="yd_label">"ASUS skirtas „Yandex“"</string>
+    <string name="yes">"Taip"</string>
+    <string name="zenui_update">"ZenUI momentiniai atnaujinimai"</string>
+    <string description="toast message: Compress files fail" maxwidth="-1" name="zip_fail">"Nepavyko glaudinti failų"</string>
+    <string description="compress dialog message" maxwidth="-1" name="zip_progress_msg">"Vyksta..."</string>
+    <string description="toast message: Compress files successly" maxwidth="-1" name="zip_success">"Failai glaudinti sėkmingai"</string>
+</resources>

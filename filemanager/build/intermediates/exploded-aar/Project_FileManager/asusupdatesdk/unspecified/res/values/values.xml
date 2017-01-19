@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ud_sdk_action_bar_color">@color/ud_sdk_background_white</color>
+    <color name="ud_sdk_action_bar_text_grey">#565656</color>
+    <color name="ud_sdk_background_grey">#EEEEEE</color>
+    <color name="ud_sdk_background_white">#FFFEFEFE</color>
+    <color name="ud_sdk_background_white_pure">#FFFFFFFF</color>
+    <color name="ud_sdk_divider_grey">#d7d8da</color>
+    <color name="ud_sdk_important_remind_color">#f7ab00</color>
+    <color name="ud_sdk_item_app_button_color">@color/ud_sdk_text_white</color>
+    <color name="ud_sdk_item_app_downloads_text_color">@color/ud_sdk_text_light_grey</color>
+    <color name="ud_sdk_item_app_rating_text_color">@color/ud_sdk_text_light_grey</color>
+    <color name="ud_sdk_item_app_title_color">@color/ud_sdk_text_black</color>
+    <color name="ud_sdk_land_content_layout_background_color">@color/ud_sdk_background_grey</color>
+    <color name="ud_sdk_list_view_background_color">@color/ud_sdk_background_white</color>
+    <color name="ud_sdk_list_view_divider_color">@color/ud_sdk_divider_grey</color>
+    <color name="ud_sdk_list_view_footer_button_text_color">@color/ud_sdk_text_white</color>
+    <color name="ud_sdk_list_view_footer_no_app_text_color">@color/ud_sdk_text_mask_grey</color>
+    <color name="ud_sdk_slogan_text_view_text_color">@color/ud_sdk_text_dark_grey</color>
+    <color name="ud_sdk_sync_layout_background_color">@color/ud_sdk_transparent</color>
+    <color name="ud_sdk_system_dark_blue">#0884B0</color>
+    <color name="ud_sdk_system_light_blue">#0DAFED</color>
+    <color name="ud_sdk_text_black">#000000</color>
+    <color name="ud_sdk_text_dark_grey">#242424</color>
+    <color name="ud_sdk_text_light_grey">#505050</color>
+    <color name="ud_sdk_text_mask_grey">#ABABAB</color>
+    <color name="ud_sdk_text_white">#FFFFFFFF</color>
+    <color name="ud_sdk_transparent">#00000000</color>
+    <color name="ud_sdk_view_pager_background_color">@color/ud_sdk_background_white</color>
+    <dimen name="ud_sdk_action_bar_title_size">25dp</dimen>
+    <dimen name="ud_sdk_footer_layout_offset">4dp</dimen>
+    <dimen name="ud_sdk_important_icon_layout_marginEnd">2dp</dimen>
+    <dimen name="ud_sdk_important_text_size">11sp</dimen>
+    <dimen name="ud_sdk_item_app_downloads_layout_marginTop">3dp</dimen>
+    <dimen name="ud_sdk_item_app_downloads_text_size">10sp</dimen>
+    <dimen name="ud_sdk_item_app_rating_bar_layout_height">12dp</dimen>
+    <dimen name="ud_sdk_item_app_rating_bar_layout_marginBottom">3dp</dimen>
+    <dimen name="ud_sdk_item_app_rating_layout_marginEnd">10dp</dimen>
+    <dimen name="ud_sdk_item_app_rating_textSize">34sp</dimen>
+    <dimen name="ud_sdk_item_app_title_marginBottom">8dp</dimen>
+    <dimen name="ud_sdk_item_app_title_marginTop">1dp</dimen>
+    <dimen name="ud_sdk_item_app_title_textSize">15sp</dimen>
+    <dimen name="ud_sdk_item_image_view_icon_height">60dp</dimen>
+    <dimen name="ud_sdk_item_image_view_icon_marginBottom">10dp</dimen>
+    <dimen name="ud_sdk_item_image_view_icon_marginEnd">12dp</dimen>
+    <dimen name="ud_sdk_item_image_view_icon_marginTop">7dp</dimen>
+    <dimen name="ud_sdk_item_image_view_icon_width">60dp</dimen>
+    <dimen name="ud_sdk_item_linearLayout_layout_marginBottom">10dp</dimen>
+    <dimen name="ud_sdk_item_slogan_text_view_drawablePadding">7dp</dimen>
+    <dimen name="ud_sdk_item_slogan_text_view_layout_height">38dp</dimen>
+    <dimen name="ud_sdk_item_slogan_text_view_marginTop">7dp</dimen>
+    <dimen name="ud_sdk_item_slogan_text_view_textSize">12sp</dimen>
+    <dimen name="ud_sdk_land_list_view_footer_layout_paddingEnd">45dp</dimen>
+    <dimen name="ud_sdk_land_list_view_footer_layout_paddingStart">45dp</dimen>
+    <dimen name="ud_sdk_land_list_view_layout_marginEnd">55dp</dimen>
+    <dimen name="ud_sdk_land_list_view_layout_marginStart">55dp</dimen>
+    <dimen name="ud_sdk_land_list_view_layout_marginTop">10dp</dimen>
+    <dimen name="ud_sdk_land_list_view_paddingEnd">10dp</dimen>
+    <dimen name="ud_sdk_land_list_view_paddingStart">10dp</dimen>
+    <dimen name="ud_sdk_land_slogan_text_view_layout_height">28dp</dimen>
+    <dimen name="ud_sdk_list_view_button_layout_height">34dp</dimen>
+    <dimen name="ud_sdk_list_view_button_layout_width">70dp</dimen>
+    <dimen name="ud_sdk_list_view_button_more_height">48dp</dimen>
+    <dimen name="ud_sdk_list_view_button_more_text_size">16sp</dimen>
+    <dimen name="ud_sdk_list_view_button_paddingEnd">10dp</dimen>
+    <dimen name="ud_sdk_list_view_button_paddingStart">10dp</dimen>
+    <dimen name="ud_sdk_list_view_button_textSize">15sp</dimen>
+    <dimen name="ud_sdk_list_view_dividerHeight">1dp</dimen>
+    <dimen name="ud_sdk_list_view_footer_layout_layout_height">68dp</dimen>
+    <dimen name="ud_sdk_list_view_footer_layout_paddingBottom">10dp</dimen>
+    <dimen name="ud_sdk_list_view_footer_layout_paddingEnd">40dp</dimen>
+    <dimen name="ud_sdk_list_view_footer_layout_paddingStart">40dp</dimen>
+    <dimen name="ud_sdk_list_view_footer_layout_paddingTop">10dp</dimen>
+    <dimen name="ud_sdk_list_view_header_pager_dot_marginBottom">2dp</dimen>
+    <dimen name="ud_sdk_list_view_header_pager_layout_height">150dp</dimen>
+    <dimen name="ud_sdk_list_view_header_root_layout_height">170dp</dimen>
+    <dimen name="ud_sdk_portrait_layout_paddingEnd">13dp</dimen>
+    <dimen name="ud_sdk_portrait_layout_paddingStart">13dp</dimen>
+    <string name="ud_sdk_all_app_update">All apps are running their current version.</string>
+    <string name="ud_sdk_asus_app_slogan">useful app</string>
+    <string name="ud_sdk_downloads">Downloads</string>
+    <string name="ud_sdk_free_download">Free Download</string>
+    <string name="ud_sdk_important_remind_text">"Important"</string>
+    <string name="ud_sdk_install">Install</string>
+    <string name="ud_sdk_more_zen_family">Discover more ZenUI apps</string>
+    <string name="ud_sdk_no_network_connection_content">Unable to update data. Please check your network settings. </string>
+    <string name="ud_sdk_no_network_connection_title">No network connection</string>
+    <string name="ud_sdk_open">Open</string>
+    <string name="ud_sdk_update">Update</string>
+    <string maxwidth="-1" name="ud_sdk_update_sdk">ZenUI Family</string>
+    <string maxwidth="-1" name="ud_sdk_update_sdk_asus">ZenUI Instant Updates</string>
+    <string name="ud_sdk_wifi_settings">Wi-Fi settings</string>
+    <style name="AsusUpdateSdkTheme" parent="android:Theme.DeviceDefault.Light">
+        <item name="android:homeAsUpIndicator">@drawable/ud_sdk_asus_ic_up</item>
+        <item name="android:actionBarStyle">@style/ud_sdk_ActionBarStyle</item>
+        <item name="android:icon">@android:color/transparent</item>
+    </style>
+    <style name="ud_sdk_ActionBarStyle" parent="@android:style/Widget.DeviceDefault.Light.ActionBar.Solid">
+        <item name="android:titleTextStyle">@style/ud_sdk_ActionBarTitleTextStyle</item>
+        <item name="android:displayOptions">homeAsUp|showTitle</item>
+        <item name="android:backgroundStacked">@color/ud_sdk_background_white</item>
+    </style>
+    <style name="ud_sdk_ActionBarTitleTextStyle" parent="@android:style/TextAppearance.DeviceDefault.Widget.ActionBar.Title.Inverse">
+        <item name="android:textColor">@color/ud_sdk_action_bar_text_grey</item>
+        <item name="android:textSize">@dimen/ud_sdk_action_bar_title_size</item>
+    </style>
+</resources>

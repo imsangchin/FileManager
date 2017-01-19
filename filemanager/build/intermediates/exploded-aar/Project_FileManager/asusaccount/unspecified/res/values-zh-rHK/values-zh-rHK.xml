@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string maxwidth="-1" name="action">登錄</string>
+    <string description="" name="article_one">我同意 ASUS「<u>使用條款聲明</u>」、ASUS「<u>隱私權政策</u>」、ASUS WebStorage「<u>使用條款聲明</u>」、ASUS WebStorage「<u>隱私權政策</u>」。</string>
+    <string description="" name="article_two">我想經由 eDM 收到 ASUS 新聞、軟體更新以及最新產品與服務資訊。</string>
+    <string description="Text for create asus account button." maxwidth="" name="asus_account_create_button">註冊</string>
+    <string name="asus_account_integrate_dialog_content">您是否要整合 ASUS Cloud Storage 服務與您的 ASUS 帳戶？ \n\n整合完成後，即可透過同一帳戶使用各項 ASUS 服務。</string>
+    <string name="asus_account_integrate_dialog_skip">略過</string>
+    <string name="asus_account_integrate_dialog_title">整合 ASUS 服務</string>
+    <string name="asus_account_integrate_dialog_yes">是</string>
+    <string description="Text for asus account content 1st." maxwidth="" name="asus_account_msg_content_1">個人化 ASUS 支援服務，已註冊產品更可享延長保固。</string>
+    <string description="Text for asus account content 2nd." maxwidth="" name="asus_account_msg_content_2">5GB 的免費雲端儲存空間。</string>
+    <string description="Text for asus account content 3rd." maxwidth="" name="asus_account_msg_content_3">產品及配件的最新資訊。</string>
+    <string description="Text for asus account content title." maxwidth="" name="asus_account_msg_title">建立 ASUS 帳戶即可獲得：</string>
+    <string name="asus_account_only_one_alert">一次只能登入一個ASUS帳戶。您必須移除正在使用的帳戶才能新增新帳戶。</string>
+    <string name="asus_account_prefc">設定</string>
+    <string name="asus_account_prefc_advc">進階設定</string>
+    <string name="asus_account_registe_country_error">請選擇一個國家地區！</string>
+    <string name="asus_account_registe_id_error">電子郵件錯誤</string>
+    <string name="asus_account_registe_policy_error">必須同意 ASUS 政策方可註冊 ASUS 帳戶！</string>
+    <string name="asus_account_registe_pw_error_1">密碼不得空白！</string>
+    <string name="asus_account_registe_pw_error_2">確認密碼不得空白！</string>
+    <string name="asus_account_registe_pw_error_3">密碼和確認密碼必須相同！</string>
+    <string name="asus_account_registe_pw_error_4">密碼應包含8到25個字元！</string>
+    <string name="asus_account_removeaccount_dialog_content">帳戶綁定成功，您應使用新帳戶重新登入</string>
+    <string name="asus_account_removeaccount_dialog_title">ASUS 帳戶綁定成功</string>
+    <string name="asus_registe_success_title">ASUS 註冊成功</string>
+    <string name="asus_response_resultdata">這個帳戶已被註冊</string>
+    <string name="asusaccount_app_name">ASUS 帳戶</string>
+    <string name="aucloud_account_only_one_alert">一次只能登入一個au Cloud雲帳戶。您必須移除正在使用的帳戶才能新增新帳戶。</string>
+    <string maxwidth="-1" name="aws_install_contnet">未安裝 WebStorage，您是否要從 Play Store 下載及安裝？</string>
+    <string maxwidth="" name="aws_install_title">未安裝 WebStorage</string>
+    <string name="baidu_alert_info">基於百度雲策略，本裝置只可存取 “我的應用資料\\asus\\”下資料</string>
+    <string name="baidu_alert_title">百度雲盤</string>
+    <string name="baidupcs_account_only_one_alert">一次只能登入一個百度雲帳戶。您必須移除正在使用的帳戶才能新增新帳戶。</string>
+    <string name="confirm">確定</string>
+    <string maxwidth="-1" name="confirm_ok">確定</string>
+    <string description="confirm password textview title" name="confirm_password">確認密碼</string>
+    <string description="ask user to enter password again to confirm" name="confirm_password_edit">重新輸入密碼</string>
+    <string description="country region textview title" name="country_region">國家地區</string>
+    <string description="ack user to select on country" name="country_region_select">選擇地區</string>
+    <string maxwidth="-1" name="dbx_install_contnet">未安裝 Dropbox，您是否要從 Play Store 下載及安裝？</string>
+    <string maxwidth="" name="dbx_install_title">未安裝 Dropbox</string>
+    <string description="ask user to enter password" maxwidth="-1" name="enter_password">請輸入密碼</string>
+    <string description="click to retrieve password" maxwidth="-1" name="forget_password"><u>忘記密碼?</u></string>
+    <string name="invalid_server_id">無效的伺服器ID。</string>
+    <string name="invalid_xml">無效的XML。</string>
+    <string description="Loading" maxwidth="-1" name="loading">載入中...</string>
+    <string description="dialog title, key in the asus ID and PW to Login account" maxwidth="-1" name="login_asus_id">ASUS 帳戶登入</string>
+    <string description="login account name" maxwidth="-1" name="login_id">使用者名稱</string>
+    <string name="market_app_error">請您檢查一下市場應用是否正常！</string>
+    <string description="ask user to enter email address as account name" maxwidth="-1" name="member_id_hint">請輸入Email</string>
+    <string name="network_invalid">網絡連接無效</string>
+    <string name="network_invalid_info">你連接的網絡無效，請確認。</string>
+    <string name="no_device">設備不存在。</string>
+    <string name="no_network">無網路連接</string>
+    <string name="no_network_info">這個應用需要連接網路，請到設定裡面開起手機網路或者WiFi。</string>
+    <string name="no_password">請輸入您的密碼。</string>
+    <string name="no_right">您的帳戶沒有登入權限。</string>
+    <string name="no_user_exist">用戶名不存在。</string>
+    <string name="no_username">請先輸入您的帳戶。</string>
+    <string name="onedrive_account_only_one_alert">一次只能登入一個OneDrive帳戶。您必須移除正在使用的帳戶才能新增新帳戶。</string>
+    <string msgid="1177138552305184404" name="password">"密碼"</string>
+    <string description="dialog title, key in the asus ID and PW to Login account" maxwidth="-1" name="regist_asus_id">ASUS 帳戶註冊</string>
+    <string description="ask user to enter email address to registe New Account" name="registe_id">帳戶名稱</string>
+    <string description="ask user to enter new password" name="registe_password">輸入 8~25 個字元</string>
+    <string description="sign up registe action" name="registe_sign_up">註冊</string>
+    <string maxwidth="-1" name="sd_label">OneDrive for ASUS</string>
+    <string name="server_error">伺服器錯誤。</string>
+    <string name="settings">設定</string>
+    <string description="check if user want to show password" name="show_passwd">顯示密碼</string>
+    <string description="show when sign in failed" maxwidth="-1" name="signin_failed">登入失敗</string>
+    <string name="ssl_err_msg_info">無法透過加密通訊協定連線至伺服器, 是否繼續連線？</string>
+    <string name="ssl_err_msg_title">SSL 連線錯誤</string>
+    <string name="unsupported_area">不支持該地區。</string>
+    <string name="yandex_account_only_one_alert">一次只能登入一個yandex帳戶。您必須移除正在使用的帳戶才能新增新帳戶。</string>
+</resources>

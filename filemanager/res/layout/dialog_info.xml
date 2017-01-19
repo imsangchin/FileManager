@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <ScrollView
+        android:id="@+id/info_dialog_scrollview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="?iteminfo_background_color" >
+        <LinearLayout
+            android:id="@+id/info_dialog_container"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <LinearLayout android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:paddingTop="20dp">
+
+                <TextView android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/info_name"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textSize="18dp"
+                    android:textColor="?title_color" />
+
+                <TextView android:id="@+id/info_file_name"
+                    android:paddingTop="4dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                   android:textSize="15dp"
+                    android:textColor="?subtitle_color" />
+            </LinearLayout>
+
+            <LinearLayout android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:paddingTop="20dp">
+
+                <TextView android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/info_path"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textSize="18dp"
+                    android:textColor="?title_color" />
+
+                <TextView android:id="@+id/info_file_path"
+                    android:paddingTop="4dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textSize="15dp"
+                    android:textColor="?subtitle_color" />
+            </LinearLayout>
+
+            <LinearLayout android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+               android:orientation="vertical"
+                android:gravity="center_vertical"
+                android:paddingTop="20dp">
+
+                <TextView android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/info_size"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textSize="18dp"
+                    android:textColor="?title_color" />
+
+                <TextView android:id="@+id/info_file_size"
+                    android:paddingTop="4dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textSize="15dp"
+                    android:textColor="?subtitle_color" />
+
+                <ProgressBar android:id="@+id/info_size_progress"
+                    style="?android:attr/progressBarStyleSmall"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="10dp" />
+            </LinearLayout>
+
+            <LinearLayout android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:paddingTop="20dp">
+
+                <TextView android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/info_permission"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+	                android:textSize="18dp"
+                    android:textColor="?title_color" />
+
+                <TextView android:id="@+id/info_file_permission"
+                    android:paddingTop="4dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textSize="15dp"
+                    android:textColor="?subtitle_color" />
+            </LinearLayout>
+
+            <LinearLayout android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:paddingTop="20dp">
+                <TextView android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/info_modified"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textSize="18dp"
+                    android:textColor="?title_color" />
+
+                <TextView android:id="@+id/info_file_modified"
+                    android:paddingTop="4dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textSize="15dp"
+                    android:textColor="?subtitle_color" />
+            </LinearLayout>
+
+            <LinearLayout android:id="@+id/info_file_num_container"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:paddingTop="20dp">
+
+                <TextView android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/info_file_num"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textSize="18dp"
+                    android:textColor="?title_color" />
+
+                <TextView android:id="@+id/info_file_num"
+                    android:paddingTop="4dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textSize="15dp"
+                    android:textColor="?subtitle_color" />
+
+               <ProgressBar android:id="@+id/info_file_num_progress"
+                    style="?android:attr/progressBarStyleSmall"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="4dp"
+                    android:visibility="gone" />
+
+            </LinearLayout>
+
+            <!-- JPG EXIF attribute -->
+            <LinearLayout android:id="@+id/info_image_width_container"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:paddingTop="20dp"
+                android:visibility="gone">
+
+              <LinearLayout android:id="@+id/info_image_size_dsp_container"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <TextView android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/info_image_width"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textSize="18dp"
+                    android:textColor="?title_color" />
+
+                <TextView android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/info_image_x"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textSize="18dp"
+                    android:textColor="?title_color" />
+
+                <TextView android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/info_image_height"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textSize="18dp"
+                    android:textColor="?title_color" />
+            </LinearLayout>
+
+             <LinearLayout android:id="@+id/info_image_size_value_container"
+                android:paddingTop="4dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <TextView android:id="@+id/info_image_width"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textSize="15dp"
+                    android:textColor="?subtitle_color" />
+
+                <TextView android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/info_image_x"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textSize="15dp"
+                    android:textColor="?subtitle_color" />
+
+                <TextView android:id="@+id/info_image_height"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textSize="15dp"
+                    android:textColor="?subtitle_color" />
+              </LinearLayout>
+
+            </LinearLayout>
+
+
+            <LinearLayout android:id="@+id/info_orientation_container"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:paddingTop="20dp"
+                android:visibility="gone">
+
+                <TextView android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/info_orientation"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textSize="18dp"
+                    android:textColor="?title_color" />
+
+               <TextView android:id="@+id/info_orientation"
+                    android:paddingTop="4dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textSize="15dp"
+                   android:textColor="?subtitle_color" />
+
+            </LinearLayout>
+
+            <LinearLayout android:id="@+id/info_maker_container"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:paddingTop="20dp"
+                android:visibility="gone">
+
+                <TextView android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/info_maker"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textSize="18dp"
+                    android:textColor="?title_color" />
+
+                <TextView android:id="@+id/info_maker"
+                    android:paddingTop="4dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textSize="15dp"
+                    android:textColor="?subtitle_color" />
+
+            </LinearLayout>
+
+            <LinearLayout android:id="@+id/info_model_container"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:paddingTop="20dp"
+                android:visibility="gone">
+
+                <TextView android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/info_model"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textSize="18dp"
+                    android:textColor="?title_color" />
+
+                <TextView android:id="@+id/info_model"
+                    android:paddingTop="4dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textSize="15dp"
+                    android:textColor="?subtitle_color" />
+
+            </LinearLayout>
+
+            <LinearLayout android:id="@+id/info_flash_container"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:paddingTop="20dp"
+                android:visibility="gone">
+
+                <TextView android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/info_flash"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textSize="18dp"
+                    android:textColor="?title_color" />
+
+                <TextView android:id="@+id/info_flash"
+                    android:paddingTop="4dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textSize="15dp"
+                    android:textColor="?subtitle_color" />
+
+            </LinearLayout>
+
+            <LinearLayout android:id="@+id/info_focal_length_container"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:paddingTop="20dp"
+                android:visibility="gone">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/info_focal_length"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textSize="18dp"
+                    android:textColor="?title_color" />
+
+               <TextView android:id="@+id/info_focal_length"
+                    android:paddingTop="4dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textSize="15dp"
+                    android:textColor="?subtitle_color" />
+
+            </LinearLayout>
+
+            <LinearLayout android:id="@+id/info_white_balance_container"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:paddingTop="20dp"
+                android:visibility="gone">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/info_white_balance"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textSize="18dp"
+                    android:textColor="?title_color" />
+
+               <TextView android:id="@+id/info_white_balance"
+                    android:paddingTop="4dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textSize="15dp"
+                    android:textColor="?subtitle_color" />
+
+            </LinearLayout>
+
+            <LinearLayout android:id="@+id/info_aperture_container"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:paddingTop="20dp"
+                android:visibility="gone">
+
+                <TextView android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/info_aperture"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textSize="18dp"
+                    android:textColor="?title_color" />
+
+                <TextView android:id="@+id/info_aperture"
+                    android:paddingTop="4dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textSize="15dp"
+                    android:textColor="?subtitle_color" />
+
+                </LinearLayout>
+
+            <LinearLayout android:id="@+id/info_exposure_time_container"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:paddingTop="20dp"
+                android:visibility="gone">
+
+                <TextView android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/info_exposure_time"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textSize="18dp"
+                    android:textColor="?title_color" />
+
+                <TextView android:id="@+id/info_exposure_time"
+                    android:paddingTop="4dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textSize="15dp"
+                    android:textColor="?subtitle_color" />
+
+            </LinearLayout>
+
+            <LinearLayout android:id="@+id/info_iso_container"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:paddingTop="20dp"
+                android:visibility="gone">
+
+                <TextView android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/info_iso"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textSize="18dp"
+                    android:textColor="?title_color" />
+
+                <TextView android:id="@+id/info_iso"
+                    android:paddingTop="4dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textSize="15dp"
+                    android:textColor="?subtitle_color" />
+
+            </LinearLayout>
+
+            <LinearLayout android:id="@+id/info_location_container"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:paddingTop="20dp"
+                android:visibility="gone">
+
+                <TextView android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/info_location"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textSize="18dp"
+                    android:textColor="?title_color" />
+
+                <TextView android:id="@+id/info_location"
+                    android:paddingTop="4dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textSize="15dp"
+                    android:textColor="?subtitle_color" />
+
+            </LinearLayout>
+
+                <LinearLayout android:id="@+id/info_datetime_container"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:paddingTop="20dp"
+                android:visibility="gone">
+
+                <TextView android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/info_datetime"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textSize="18dp"
+                    android:textColor="?title_color" />
+
+                <TextView android:id="@+id/info_datetime"
+                    android:paddingTop="4dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textSize="15dp"
+                    android:textColor="?subtitle_color" />
+
+            </LinearLayout>
+
+
+                <LinearLayout android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:paddingBottom="20dp">
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+</FrameLayout>

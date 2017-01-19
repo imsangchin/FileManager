@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="file_manager" description="Application Name shown on title" maxwidth="">ตัวจัดการไฟล์</string>
+    <string name="ok" description="Dialog Button: ok for dialog" maxwidth="">ตกลง</string>
+    <string name="no" description="Dialog Button: no for dialog" maxwidth="">ไม่</string>
+    <string name="cancel" description="Dialog Button: cancel for dialog" maxwidth="">ยกเลิก</string>
+    <string name="select_all" description="Menu Option: select all checkbox" maxwidth="">เลือกทั้งหมด</string>
+    <string name="clear_all" description="Menu Option: clear all checkbox" maxwidth="">ล้างทั้งหมด</string>
+    <string name="open_fail" description="Toast: open file fails" maxwidth="-1">เปิดไฟล์ล้มเหลว</string>
+    <string name="permission_deny" description="Toast: operation permission deny" maxwidth="-1">การอนุญาตถูกปฏิเสธ</string>
+    <string name="target_exist" description="Toast: target file exists" maxwidth="-1">ไฟล์เป้าหมายมีอยู่แล้ว</string>
+    <string name="target_folder_exist" description="Toast: target folder exists. %s is variable string." maxwidth="-1">"โฟลเดอร์: \"%s\" มีอยู่แล้ว"</string>
+    <string name="rename" description="Context Menu: options of context menu" maxwidth="">เปลี่ยนชื่อ</string>
+    <string name="rename_dialog" description="Dialog Title: rename dialog title" maxwidth="">เปลี่ยนชื่อ</string>
+    <string name="rename_fail" description="Toast: rename fails" maxwidth="-1">เปลี่ยนชื่อไฟล์ล้มเหลว</string>
+    <string name="delete" description="Context Menu: options of context menu" maxwidth="">ลบ</string>
+    <string name="delete_dialog" description="Dialog Title: delete dialog title" maxwidth="">การลบไฟล์</string>
+    <string name="delete_one_files" description="Dialog Content: text in dialog" maxwidth="">คุณต้องการลบไฟล์หรือไม่?</string>
+    <string name="delete_more_files" description="Dialog Content: text in dialog. %d is variable number." maxwidth="">คุณต้องการลบรายการ %d หรือไม่?</string>
+    <string name="delete_size" description="Dialog Content: text in dialog" maxwidth="">"ขนาด: "</string>
+    <string name="delete_progress" description="Progress Content: text in progress dialog" maxwidth="">กำลังลบ...</string>
+    <string name="delete_fail" description="Toast: delete fails" maxwidth="-1">ลบไฟล์ล้มเหลว</string>
+    <string name="delete_success_one" description="Toast: delete success. %s is variable string." maxwidth="-1">\"%s\" ถูกลบแล้ว</string>
+    <string name="delete_success_more" description="Toast: delete success" maxwidth="-1">ไฟล์ที่เลือกถูกลบแล้ว</string>
+    <string name="new_folder_dialog" description="Dialog Title: create new folder" maxwidth="">สร้างโฟลเดอร์ใหม่</string>
+    <string name="new_folder_fail" description="Toast: new folder fails" maxwidth="-1">สร้างโฟลเดอร์ใหม่ล้มเหลว</string>
+    <string name="new_folder_success" description="Toast: new folder success. %s is variable string." maxwidth="-1">"โฟลเดอร์ \"%s\" ถูกสร้างขึ้นแล้ว"</string>
+    <string name="copy" description="Context Menu: options of context menu" maxwidth="">คัดลอก</string>
+    <string name="copy_ready_one" description="Toast: copy ready. %s is variable string." maxwidth="-1">"\"%s\" ถูกคัดลอกแล้ว และพร้อมที่จะวาง"</string>
+    <string name="copy_ready_more" description="Toast: copy ready" maxwidth="-1">ไฟล์ที่เลือกถูกคัดลอกแล้ว และพร้อมที่จะวาง</string>
+    <string name="cut" description="Context Menu: options of context menu" maxwidth="">ตัด</string>
+    <string name="cut_ready_one" description="Toast: cut ready. %s is variable string." maxwidth="-1">\"%s\" ถูกตัดแล้ว และพร้อมที่จะวาง</string>
+    <string name="cut_ready_more" description="Toast: cut ready" maxwidth="-1">ไฟล์ที่เลือกถูกตัดแล้ว และพร้อมที่จะวาง</string>
+    <string name="paste" description="Context Menu: options of context menu" maxwidth="">วาง</string>
+    <string name="paste_exist_dialog" description="Dialog Title: paste exist dialog title" maxwidth="">ชื่อไฟล์เหมือนกัน</string>
+    <string name="paste_exist_file" description="Dialog Content: text in dialog. %s is variable string." maxwidth="">"ไฟล์ \"%s\" มีอยู่แล้ว"</string>
+    <string name="paste_exist_replace" description="Dialog Content: text in dialog" maxwidth="">คุณต้องการแทนที่ด้วยไฟล์ใหม่หรือไม่?</string>
+    <string name="paste_exist_to" description="Dialog Content: text in dialog" maxwidth="">ไปยัง</string>
+    <string name="paste_exist_apply" description="Dialog Content: text in dialog" maxwidth="">ใช้กับทั้งหมด</string>
+    <string name="paste_progress" description="Progress Content: text in progress dialog" maxwidth="">กำลังวาง...</string>
+    <string name="paste_fail" description="Toast: paste fails" maxwidth="-1">วางไฟล์ล้มเหลว</string>
+    <string name="paste_success" description="Toast: paste success. %s is variable string." maxwidth="-1">"ไฟล์ถูกเพิ่มลงใน \"%s\""</string>
+    <!-- Guoliang_Lin, 2011/04/01, UI required, new feature -->
+    <string name="no_space_fail" description="Toast: No space to copy file and left on device" maxwidth="-1">ที่เก็บข้อมูลไม่เพียงพอ</string>
+    <!-- Guoliang Lin, 2011/04/27, UI required, new feature -->
+    <string name="action_add_folder" description="cutstom action bar view title for add folder" maxwidth="-1">เพิ่มโฟลเดอร์</string>
+    <string name="action_hind_system_file" description="cutstom action bar view title for hinde system file" maxwidth="-1">ซ่อนไฟล์ระบบ</string>
+    <string name="deselect_all" description="cutstom action bar view title for deselect all checkbox" maxwidth="">ไม่เลือกทั้งหมด</string>
+    <!-- Guoliang Lin, 2011/05/11, UI required, new feature -->
+    <string name="file_info_dialog_title" description="Dialog Title: File information dialog title" maxwidth="-1">ข้อมูลไฟล์</string>
+    <string name="dir_info_dialog_title" description="Dialog Title: Directory information dialog title" maxwidth="-1">ข้อมูลไดเรกทอรี่</string>
+    <string name="info" description="Context Menu: options of context menu" maxwidth="-1">ข้อมูล</string>
+    <string name="info_name" description="file info textview context" maxwidth="-1">"ชื่อ: "</string>
+    <string name="info_file_num" description="file info textview context" maxwidth="-1">"จำนวนไฟล์: "</string>
+    <string name="info_permission" description="file info textview context" maxwidth="-1">"การอนุญาต: "</string>
+    <string name="info_modified" description="file info textview context" maxwidth="-1">"วันที่มีการแก้ไข: "</string>
+    <!-- Guoliang Lin, 2011/05/27, UI required, new feature -->
+    <string name="action_about" description="cutstom action bar view title for about" maxwidth="-1">เกี่ยวกับ</string>
+    <!-- Johnson Chen, 2011/08/05, UI required, new feature -->
+    <string name="select_folder" description="Title: select the folder" maxwidth="-1">เลือกโฟลเดอร์</string>
+    <string name="invalid_directory_path" description="Invalid directory path" maxwidth="-1">พาธไดเรกทอรีไม่ถูกต้อง</string>
+    <string name="short_cuts_title" description="shortcit title" maxwidth="-1">ทางลัด</string>
+    <string name="type" description="button text for sort file by type" maxwidth="-1">ประเภท</string>
+    <string name="name" description="button text for sort file by name" maxwidth="-1">ชื่อ</string>
+    <string name="size" description="button text for sort file by size" maxwidth="-1">ขนาด</string>
+    <string name="date" description="button text for sort file by date" maxwidth="-1">วันที่</string>
+    <string name="name_ascending" description="button text for sort file by name ascending" maxwidth="-1">ชื่อ (z-a)</string>
+    <string name="name_descending" description="button text for sort file by name descending" maxwidth="-1">ชื่อ (a-z)</string>
+    <string name="size_ascending" description="button text for sort file by size ascending" maxwidth="-1">ขนาด (ใหญ่-เล็ก)</string>
+    <string name="size_descending" description="button text for sort file by size descending" maxwidth="-1">ขนาด (เล็ก-ใหญ่)</string>
+    <string name="date_ascending" description="button text for sort file by date ascending" maxwidth="-1">วันที่ (เก่าที่สุด-ล่าสุด)</string>
+    <string name="date_descending" description="button text for sort file by date descending" maxwidth="-1">วันที่ (ล่าสุด-เก่าที่สุด)</string>
+    <string name="my_storage_title" description="storage label" maxwidth="-1">ที่เก็บข้อมูลของฉัน</string>
+    <string name="internal_storage_title" description="storage label" maxwidth="-1">ที่เก็บข้อมูลภายใน</string>
+    <string name="my_picture_title" description="shortcut label" maxwidth="-1">รูปภาพ</string>
+    <string name="my_camera_title" description="shortcut label" maxwidth="-1">กล้อง</string>
+    <string name="my_music_title" description="shortcut label" maxwidth="-1">ดนตรี</string>
+    <string name="my_download_title" description="shortcut label" maxwidth="-1">ดาวน์โหลด</string>
+    <string name="dialog_create_zip_title" description="compress dialog title" maxwidth="-1">ป้อนชื่อที่เก็บถาวร</string>
+    <string name="zip_progress_msg" description="compress dialog message" maxwidth="-1">กำลังประมวลผล...</string>
+    <string name="zip_fail" description="toast message: Compress files fail" maxwidth="-1">ไม่สามารถบีบขนาดไฟล์</string>
+    <string name="zip_success" description="toast message: Compress files successly" maxwidth="-1">บีบขนาดไฟล์สำเร็จ</string>
+    <string name="search_label" description="cutstom action bar view title for search" maxwidth="-1">ค้นหาไฟล์</string>
+    <string name="search_progress" description="search dialog message" maxwidth="-1">กำลังค้นหา...</string>
+    <string name="location" description="button text for sort file by date" maxwidth="-1">"ตำแหน่งที่ตั้ง"</string>
+    <plurals name="number_search_items">
+        <item quantity="one">"พบ %d ไฟล์"</item>
+        <item quantity="other">"พบ %d ไฟล์"</item>
+    </plurals>
+    <string name="search_result_title" description=" text for search result" formatted="false" maxwidth="-1">กำลังค้นหา %s ใน %s: พบ %d ไฟล์</string>
+    <string name="dialog_extract_zip_title" description="extract zip file dialog title. %s is a dynamic string. It is zip file name." maxwidth="-1">แตก %s ไปยัง:</string>
+    <string name="unzip_progress_msg" description="extract file dialog message" maxwidth="-1">กำลังแตก...</string>
+    <string name="unzip_fail" description="toast message: extract files fail" maxwidth="-1">ไม่สามารถแตกไฟล์</string>
+    <string name="unzip_success" description="toast message: extract files successly" maxwidth="-1">แตกไฟล์สำเร็จ</string>
+    <string name="action_clear_history" description="cutstom action bar view title for clear search history" maxwidth="">ล้างประวัติการค้นหา</string>
+    <plurals name="drag_items">
+        <item quantity="one">ลากรายการ</item>
+        <item quantity="other">ลากรายการ</item>
+    </plurals>
+    <string name="drag_items_one">ลากรายการ</string>
+    <string name="drag_items_other">ลากรายการ</string>
+    <string name="toast_drag_copied_items" description="Toast: The item(s) has been copied completely" maxwidth="-1">คัดลอกรายการเรียบร้อยแล้ว</string>
+    <string name="toast_warning_copy_folders" description="Toast: Sorry, copy folders has not been supported" maxwidth="-1">"ขออภัย แอปยังไม่รองรับการคัดลอกโฟลเดอร์"</string>
+    <string name="toast_warning_copy_comple_cut_fail" description="Toast: Sorry, copy files complete but cut fail" maxwidth="-1">"ขออภัย การคัดลอกไฟล์สำเร็จแล้ว แต่ลบไฟล์เก่าไม่สำเร็จ"</string>
+    <string name="toast_drag_moved_items" description="Toast: The item(s) has been moved completely" maxwidth="-1">ย้ายรายการเรียบร้อยแล้ว</string>
+    <string name="move" description="Hint: move the items" maxwidth="-1">ย้าย</string>
+    <string name="drop_target_to" description="Hint: the target folder which you want to do something" maxwidth="-1">เป้าหมายไปยัง:</string>
+    <string name="drop_incorrect_hint" description="Hint: the operation is incorrect" maxwidth="-1">การทำงานไม่ถูกต้อง</string>
+    <!-- Willie Huang, 2012/01/20, UI required, new feature -->
+    <string name="dialog_unzip_preview_title" description="show zip info dialog title. %s is a dynamic string. Is is a zip file name" maxwidth="-1">แยก %s</string>
+    <string name="extract" description="Dialog Button: extract file for dialog" maxwidth="-1">แยก</string>
+    <plurals name="dialog_unzip_preview_size_text">
+        <item quantity="one">ทั้งหมด: %1$d ไฟล์, %2$s</item>
+        <item quantity="other">ทั้งหมด: %1$d ไฟล์, %2$s</item>
+    </plurals>
+    <string name="encode" description="Dialog Button: click to open the encoding list dialog" maxwidth="-1">การเข้ารหัสข้อความ</string>
+    <string name="dialog_text_encoding_title" description="text encoding dialog title" maxwidth="-1">การเข้ารหัสข้อความ</string>
+    <string-array name="charset_array">
+        <item>"Latin-1 (ISO-8859-1)"</item>
+        <item>"Unicode (UTF-8)"</item>
+        <item>"Chinese (GBK)"</item>
+        <item>"Chinese (Big5)"</item>
+        <item>"Japanese (ISO-2022-JP)"</item>
+        <item>"Japanese (SHIFT_JIS)"</item>
+        <item>"Japanese (EUC-JP)"</item>
+        <item>"เกาหลี (EUC-KR)"</item>
+    </string-array>
+    <!-- Willie Huang, 2012/03/28, UI required, new feature -->
+    <string name="info_aperture" description="file info textview context" maxwidth="-1">"รูรับแสง: "</string>
+    <string name="info_datetime" description="file info textview context" maxwidth="-1">"วันที่ถ่าย: "</string>
+    <string name="info_exposure_time" description="file info textview context" maxwidth="-1">"เวลารับแสง: "</string>
+    <string name="info_flash" description="file info textview context" maxwidth="-1">"แฟลช: "</string>
+    <string name="info_focal_length" description="file info textview context" maxwidth="-1">"ระยะโฟกัส: "</string>
+    <string name="info_image_height" description="file info textview context" maxwidth="-1">"ความสูง: "</string>
+    <string name="info_image_x" description="file info textview context" maxwidth="-1">" x "</string>
+    <string name="info_image_width" description="file info textview context" maxwidth="-1">"ความกว้าง"</string>
+    <string name="info_iso" description="file info textview context" maxwidth="-1">"ISO: "</string>
+    <string name="info_location" description="file info textview context" maxwidth="-1">"สถานที่: "</string>
+    <string name="info_maker" description="file info textview context" maxwidth="-1">"ยี่ห้อ: "</string>
+    <string name="info_model" description="file info textview context" maxwidth="-1">"รุ่น: "</string>
+    <string name="info_orientation" description="file info textview context" maxwidth="-1">"การวางแนว: "</string>
+    <string name="info_white_balance" description="file info textview context" maxwidth="-1">"สมดุลแสงขาว: "</string>
+    <string name="flash_on" description="string indicating camera flash is fired" maxwidth="-1">แฟลชทำงาน</string>
+    <string name="flash_off" description="string indicating camera flash is not used" maxwidth="-1">ไม่เปิดแฟลช</string>
+    <string name="unit_mm" description="string indicating the length units in milli-meters" maxwidth="-1">มม.</string>
+    <string name="manual" description="string indicating how camera shooting feature is used" maxwidth="-1">ปรับเอง</string>
+    <string name="auto" description="string indicating how camera shooting feature is used" maxwidth="-1">อัตโนมัติ</string>
+    <!-- Guoliang_Lin, 2012/03/20, UI required, new feature -->
+    <string name="wait">"โปรดรอสักครู่..."</string>
+    <!-- Johnson Chen, 2012/04/13, UI required, new feature -->
+    <string name="select_album">เลือกอัลบั้ม</string>
+    <string name="select_photo">เลือกรูปภาพ</string>
+    <string name="back_button_label" description="button text." maxwidth="-1">ย้อนกลับ</string>
+    <!-- Willie Huang, 2012/05/18, UI required, new feature -->
+    <string name="action_apply_selected_file" description="View title of custom action bar, apply to multiple selected files" maxwidth="-1">นำไปใช้</string>
+    <!-- Willie Huang, 2013/01/03, UI required, new feature -->
+    <string name="loading" description="text for progress bar" maxwidth="-1">"กำลังโหลด..."</string>
+    <string name="version" description="version" maxwidth="-1">"เวอร์ชัน"</string>
+    <string name="title" description="title" maxwidth="-1">"ข้อมูลทางกฎหมาย:"</string>
+    <string name="content" description="content" maxwidth="-1">"การใช้งานซอฟต์แวร์นี้ต้องอยู่ภายใต้ข้อกำหนดและเงื่อนไขบนเว็บไซต์ ASUS: \nhttp://www.asus.com"</string>
+    <string name="action_share" description="cutstom action bar view title for sharing" maxwidth="-1">"แบ่งปัน"</string>
+    <!-- Johnson Chen, 2012/05/18, UI required, new feature-->
+    <string name="photo_selection_limit_number_toast" description="Toast: You may not select more than %s photos." maxwidth="-1">เลือกภาพถ่ายสูงสุด %s ภาพ</string>
+    <!-- Alex6 Lin, -->
+    <string name="action_sort_by" description="String for asking for the rule of sorting" maxwidth="-1">เรียงตาม</string>
+    <plurals name="number_selected_items">
+        <item quantity="one">%d รายการถูกเลือก</item>
+        <item quantity="other">%d รายการถูกเลือก</item>
+    </plurals>
+    <string name="info_type" description="file info textview context" maxwidth="-1">ประเภท:</string>
+    <string name="type_document" description="document type" maxwidth="-1">"เอกสาร"</string>
+    <string name="type_audio" description="document type" maxwidth="-1">"เสียง"</string>
+    <string name="type_video" description="document type" maxwidth="-1">"วิดีโอ"</string>
+    <string name="type_playlist" description="document type" maxwidth="-1">"รายการที่จะเล่น"</string>
+    <string name="type_image" description="document type" maxwidth="-1">"ภาพ"</string>
+    <string name="type_book" description="document type" maxwidth="-1">"หนังสืออิเล็กทรอนิกส์"</string>
+    <string name="type_zip" description="document type" maxwidth="-1">"ไฟล์ Zip"</string>
+    <string name="type_apk" description="document type" maxwidth="-1">"แอป Android"</string>
+    <string name="type_abu" description="document type" maxwidth="-1">"การสำรองแอป Asus"</string>
+    <string name="type_file" description="document type" maxwidth="-1">"ไฟล์"</string>
+    <string name="type_directory" description="document type" maxwidth="-1">"ไดเรกทอรี"</string>
+    <string name="search_action">"ค้นหา"</string>
+    <string name="fileList_Nofiles">ไม่มีไฟล์</string>
+    <!-- Johnson Chen, 2012/05/18, UI required, new feature-->
+    <string name="wifidirect_available_devices" description="Available devices" maxwidth="-1">อุปกรณ์ที่ใช้ได้</string>
+    <string name="wifidirect_connect_hint_title" description="Dialog title text: Invitation to connect" maxwidth="-1">การเชิญให้เชื่อมต่อ</string>
+    <string name="wifidirect_connect_hint" description="Do you want to connect to device" maxwidth="-1">คุณต้องการเชื่อมต่อกับ</string>
+    <string name="wifidirect_connecting_hint_title" description="Dialog title text: Wi-Fi Direct connecting" maxwidth="-1">กำลังเชื่อมต่อ Wi-Fi ไดเร็กต์...</string>
+    <string name="wifidirect_disconnect_hint" description=">Do you want to disconnect" maxwidth="-1">คุณต้องการตัดการเชื่อมต่อกับ</string>
+    <string name="shared_folder" description="Context Menu: options of context menu: share folder via Wi-Fi Direct" maxwidth="">แชร์ผ่าน Wi-Fi ไดเร็กต์</string>
+    <string name="unshared_folder" description="Context Menu: options of context menu: unshare folder" maxwidth="-1">เลิกแชร์</string>
+    <string name="remote_storage_title" description="remote storage label" maxwidth="-1">ที่เก็บระยะไกล</string>
+    <string name="remote_connected_error_hint" description="network is unavailable, please try again" maxwidth="-1">เครือข่ายใช้ไม่ได้ โปรดลองอีกครั้ง</string>
+    <string name="wifidirect_peer_device_title" description="peer devices title" maxwidth="-1">อุปกรณ์เพียร์</string>
+    <string name="wifidirect_scanning" description="searching" maxwidth="-1">กำลังค้นหา...</string>
+    <string name="wifidirect_touch_to_connect" description="click to connect" maxwidth="-1">คลิกเพื่อเชื่อมต่อ</string>
+    <string name="wifidirect_connectted" description="connectted" maxwidth="-1">เชื่อมต่อแล้ว</string>
+    <string name="wifidirect_action_bar_scan" description="search" maxwidth="-1">ค้นหา</string>
+    <string name="wifidirect_storage_title" description="Search Wi-Fi Direct device" maxwidth="-1">ค้นหาอุปกรณ์ Wi-Fi ไดเร็กต์</string>
+    <string name="wifidirect_peer_device_info" description="peer devices infomation" maxwidth="-1">"ในการรับคำเชิญ Wi-Fi ไดเร็กต์ ให้แน่ใจว่าอุปกรณ์ที่กำลังเชื่อมต่อของคุณอยู่ในหน้า \"อุปกรณ์เพียร์\" ในตัวจัดการไฟล์"</string>
+    <string name="wifidirect_disconnect_hint_title" description="Disconnect Wi-Fi Direct" maxwidth="-1">ตัดการเชื่อมต่อ Wi-Fi ไดเร็กต์</string>
+    <string name="wifi_p2p_turn_on_wifi_title" description="title for turn on WiFi dialog" width="-1">เปิด Wi-Fi ไดเร็กต์</string>
+    <string name="wifi_p2p_turn_on_wifi_msg" description="message for request to turn on Wi-Fi" width="-1">เปิด Wi-Fi เพื่อใช้บริการ Wi-Fi ไดเร็กต์ เปิด Wi-Fi เดี๋ยวนี้?</string>
+    <!-- Johnson Chen, 2013/03/22, UI required, new feature-->
+    <string name="cloud_storage_title" description="Add more cloud storage" maxwidth="-1">เพิ่มพื้นที่เก็บข้อมูลคลาวด์มากขึ้น</string>
+    <string name="add_cloud_storage_dialog_title" description="Dialog title: Add cloud storage" maxwidth="-1">เพิ่มพื้นที่เก็บข้อมูลคลาวด์</string>
+    <string name="cloud_storage_remove_hint" description=">Do you want to remove" maxwidth="-1">"คุณต้องการออกจากระบบของบัญชีผู้ใช้ \"%s\" หรือไม่?"</string>
+    <string name="cloud_storage_remove_hint_title" description="Dialog title: Remove cloud storage" maxwidth="-1">ล็อกเอาต์</string>
+    <string name="add_progress" description="Progress Content: text in progress dialog" maxwidth="">กำลังสร้าง...</string>
+    <string name="logging_cloud_storage" description="Progress Content: text in progress dialog" maxwidth="">กำลังบันทึก...</string>
+    <string name="wifi_p2p_connection_msg" description="message for request to connect Network" width="-1">โปรดสร้างการเชื่อมต่อเครือข่ายเพื่อใช้บริการคลาวด์</string>
+    <string name="wifi_p2p_connection_title" description="title for request to connect Network" width="-1">สร้างการเชื่อมต่อเครือข่าย</string>
+    <string name="logout_account" description="logout account" width="-1">ล็อกเอาต์</string>
+    <string name="renaming_file" description="renaming file" width="-1">กำลังเปลี่ยนชื่อ</string>
+    <string name="rename_success" description="Toast: rename success" maxwidth="-1">เปลี่ยนชื่อไฟล์สำเร็จ</string>
+    <string name="login_fail" description="Toast: login account fail" width="-1">ล็อกอินล้มเหลว</string>
+    <string name="starred" description="shortcut title: my favorite files" width="-1">"ติดดาว"</string>
+    <string name="recently_used" description="shortcut title: recently used files" width="-1">เร็ว ๆ นี้</string>
+    <string name="trash_can" description="shortcut title: trash can" width="-1">"ถังขยะ"</string>
+    <!-- Settings Page -->
+    <string name="menu_general_preferences" description="The title of a menu for General Preferences.Pressing the menu item lets user to view and edit his general settings" maxwidth="30">"การตั้งค่าทั่วไป"</string>
+    <string name="preferences_title" description="This is the title of the screen for setting user preferences." maxwidth="-1">"การตั้งค่า"</string>
+    <string name="settings_space_used" description="This is the title of space used for setting user preferences." maxwidth="-1">"พื้นที่ที่ใช้"</string>
+    <string name="settings_clear_search_history" description="This is the title of clearing search history action for setting user preferences." maxwidth="-1">"ล้างประวัติการค้นหา"</string>
+    <string name="settings_hide_system_files" description="This is the title of hiding system files action for setting user preferences." maxwidth="-1">"ซ่อนไฟล์ระบบ"</string>
+    <string name="settings_trash_can" description="This is the title of trash can information for setting user preferences." maxwidth="-1">"ถังขยะ"</string>
+    <string name="settings_moved_to_the_trash_can" description="This is the title of moving to the trash can." maxwidth="-1">"ย้ายไปที่ถังขยะแล้ว"</string>
+    <string name="settings_user_name" description="This is the title of user name" maxwidth="-1">"ชื่อผู้ใช้"</string>
+    <string name="settings_documents_cache" description="This is the title of documents cache" maxwidth="-1">"แคชของเอกสาร"</string>
+    <string name="settings_cache_size_title" description="This is the title of cache size" maxwidth="-1">"ขนาดของแคช"</string>
+    <string name="settings_set_cache_size" description="Set the cache size to %s" maxwidth="-1">"ขนาดของแคชถูกตั้งไว้ที่ \"%s\""</string>
+    <string name="settings_clear_cache_title" description="Clear the cache" maxwidth="-1">"ล้างแคช"</string>
+    <string name="settings_clear_cache_info" description="Remove all cache documents" maxwidth="-1">"ลบแคชของเอกสารทั้งหมด"</string>
+    <string name="settings_remove_account" description="Remove account" maxwidth="-1">"ลบบัญชีผู้ใช้"</string>
+    <string name="drawer_open">"เปิดแถบเมนูนำทาง"</string>
+    <string name="drawer_close">"ปิดแถบเมนูนำทาง"</string>
+    <!-- begin add new server -->
+    <string name="samba_storage_title">"SAMBA"</string>
+    <string name="samba_storage_add_title">"ที่ตั้งบนเครือข่าย"</string>
+    <string name="server_title">เซิร์ฟเวอร์</string>
+    <string name="domain">"โดเมน:"</string>
+    <string name="domain_hint">"สามารถเว้นว่างไว้ได้"</string>
+    <string name="server">"เซิร์ฟเวอร์:"</string>
+    <string name="server_hint">"172.0.0.1/ShareFolder"</string>
+    <string name="example">"ตัวอย่าง:"</string>
+    <string name="user">ชื่อผู้ใช้</string>
+    <string name="user_hint">ผู้ดูแลระบบ</string>
+    <string name="password">รหัสผ่าน</string>
+    <string name="display">"แสดงเป็น"</string>
+    <string name="display_hint">"คุณสามารถเว้นว่างคอมพิวเตอร์ของฉันไว้ได้"</string>
+    <string name="samba_input_error">ชื่อผู้ใช้หรือรหัสผ่านไม่สามารถว่างได้!</string>
+    <string name="samba_client_config_check" description="account config dialog remind message" maxwidth="-1">จำชื่อผู้ใช้และรหัสผ่าน, เชื่อมต่อโดยตรงในครั้งถัดไป</string>
+    <string name="pullfreshlistview_header_hint_normal">ดึงลง</string>
+    <string name="pullfreshlistview_header_hint_ready">ปล่อยเพื่อรีเฟรช</string>
+    <string name="pullfreshlistview_header_hint_loading">กำลังรีเฟรช...</string>
+    <string name="pullfreshlistview_header_last_time">เวลารีเฟรชครั้งสุดท้าย:</string>
+    <string name="pullfreshlistview_footer_hint_normal">โหลดเพิ่ม</string>
+    <string name="pullfreshlistview_footer_hint_ready">ปล่อยเพื่อโหลดเพิ่ม</string>
+    <string name="cloud_preview_action_fail" description="Toast: cloud preview action" maxwidth="-1">พรีวิวไฟล์คลาวด์ล้มเหลว</string>
+    <string name="cloud_share_action_fail" description="Toast: cloud share action" maxwidth="-1">แชร์ไฟล์คลาวด์ล้มเหลว</string>
+    <string name="cloud_paste_backgroud" description="diaglog cloud background paste">พื้นหลัง</string>
+    <string name="cloud_paste_uploading" description="diaglog cloud  paste uploading">กำลังอัพโหลดไฟล์</string>
+    <string name="cloud_paste_downloading" description="diaglog cloud  paste">กำลังดาวน์โหลดไฟล์</string>
+    <string name="cloud_paste_total" description="diaglog cloud  total">รวม</string>
+    <string name="cloud_paste_current" description="diaglog cloud  current">ปัจจุบัน</string>
+    <string name="cloud_paste_copying" description="diaglog cloud  now is copy files">กำลังคัดลอก...</string>
+    <string name="cloud_paste_deleting" description="diaglog cloud  now is delete source files">กำลังลบไฟล์ต้นทาง...</string>
+    <string name="cloud_token_invalidate" description="diaglog cloud  token is invalidate">โทเก็นไม่ถูกต้อง โปรดล็อกอินอีกครั้ง!</string>
+    <string name="cloud_homebox_status_offline" description="home cloud device is offline">อุปกรณ์ออฟไลน์</string>
+    <string name="cloud_homebox_status__info_offline" description="home cloud device is offline">ออฟไลน์</string>
+    <string name="cloud_homebox_status__info_online" description="home cloud device is online">ออนไลน์</string>
+    <string name="cloud_homebox_status__info_Sleep" description="home cloud device is sleep">สลีป</string>
+    <string name="cloud_homebox_no_available_devices" description="home cloud has no available devices">ไม่มีอุปกรณ์ HomeCloud ที่ใช้ได้</string>
+    <string name="cloud_homebox_get_devices_fail" description="home cloud get available devices fail">ไม่สามารถสแกนหาอุปกรณ์ HomeCloud ที่ใช้ได้</string>
+<!--  <string name="cloud_paste_string_format"  description="diaglog cloud  paste string format" maxwidth="-1">%d / %d</string>-->
+    <string name="storage_type_cloud">ที่เก็บข้อมูลบนคลาวด์</string>
+    <string name="storage_type_local">ที่เก็บข้อมูลท้องถิ่น</string>
+    <string name="storagetype_add_account">เพิ่มบัญชี</string>
+    <string name="network_cta_hint">"กรุณายอมรับ เพื่อเชื่อมต่อกับเครือข่าย"</string>
+ <string name="action_refresh_cloudfile">"รีเฟรช"</string>
+ <string name="baidu_storage_title">"百度云"</string>
+ <string name="dialog_load_stream_url_info">กำลังดึงข้อมูลที่จำเป็นจากเซิร์ฟเวอร์</string>
+ <string name="paste_progress_title">งานคัดลอกอื่นกำลังรัน...</string>
+ <string name="single_drm_file_forbidden_operation">การกระทำนี้ถูกห้ามเนื่องจากมีการป้องกัน DRM</string>
+ <string name="multi_drm_file_forbidden_operation">การกระทำนี้ถูกห้ามเนื่องจากไฟล์ที่เลือกบางไฟล์มีการป้องกัน DRM</string>
+ <string name="samba_login_error">ชื่อผู้ใช้หรือรหัสผ่านที่คุณป้อนไม่ถูกต้อง</string>
+     <string name="action_search" description="cutstom action bar view title for search" maxwidth="">ค้นหา</string>
+ <string name="cloud_upload_flie_limit_space" description="Toast: The size is over the limit and cannot be uploaded" maxwidth="-1">ขนาดเกินขีดจำกัด และไม่สามารถถูกอัพโหลดได้</string>
+ <string name="cloud_download_flie_limit_space" description="Toast: The size is over the limit and cannot be uploaded" maxwidth="-1">ขนาดเกินขีดจำกัด และไม่สามารถถูกอัพโหลดได้</string>
+ <string name="invalid_account" description="Toast: the account is invalid" maxwidth="-1">"บัญชีผู้ใช้ไม่ถูกต้อง"</string>
+ <string name="homecloud_access_error" description="Can’t connect to HomeCloud." maxwidth="-1">ไม่สามารถเชื่อมต่อไปยัง HomeCloud  โปรดตรวจสอบให้มั่นใจว่าบริการ HomeCloud ออนไลน์อยู่</string>
+ <string name="cloud_flie_name_not_supported" description="Toast: The name of the file uploaded is not supported by cloud server" maxwidth="-1">"ไม่สามารถดำเนินการนี้ให้เสร็จสมบูรณ์ได้ เนื่องจากเซิร์ฟเวอร์ระบบคลาวด์ไม่รองรับชื่อไฟล์นี้"</string>
+ <string name="action_cancel" description="action cancel" maxwidth="-1">ยกเลิก</string>
+ <string name="action_add" description="action add files" maxwidth="-1">เพิ่ม</string>
+ <string name="no_share_folder">ไม่มีไฟล์ที่แชร์ในอุปกรณ์นี้</string>
+ <string name="edit_toast_special_char">ไม่สามารถประกอบด้วยตัวอักษรพิเศษ</string>
+ <string name="delete_one_directory" description="Dialog Content: text in dialog" maxwidth="">คุณต้องการลบไดเรกทอรีหรือไม่?</string>
+ <string name="type_dialog_title">เปิดเป็น</string>
+ <string name="type_dialog_text">ข้อความ</string>
+ <string name="type_dialog_image">ภาพ</string>
+ <string name="type_dialog_audio">เสียง</string>
+ <string name="type_dialog_video">วิดีโอ</string>
+ <string name="target_directory_is_child_of_source">"ไม่สามารถดำเนินการนี้ให้เสร็จสมบูรณ์ได้ เนื่องจากไดเรกทอรีปลายทางเป็นไดเรกทอรีย่อยของไดเรกทอรีต้นทาง"</string>
+ <string name="edit_toast_name_too_long">ถึงจำนวนตัวอักษรสูงสุดแล้ว</string>
+ <string name="settings_description">"โฟลเดอร์และไฟล์ในเครื่อง"</string>
+ <string name="clear_account_info">ลืมบัญชีทั้งหมด</string>
+ <string name="type_rar" description="document type" maxwidth="-1">"RAR"</string>
+ <string name="set_ring">"ตั้งเป็นริงโทน"</string>
+    <string name="action_zip" description="cutstom action bar view title for zip" maxwidth="">บีบอัด</string>
+    <string name="signout_account" description="signout account" width="-1">ตัดการเชื่อมต่อ</string>
+    <string name="cloud_storage_sign_out" description=">Do you want to signout" maxwidth="-1">แน่ใจหรือไม่ว่าคุณต้องการออกจากระบบ</string>
+    <string name="cloud_storage_sign_out_title" description="Dialog title: Signout cloud storage" maxwidth="-1">ตัดการเชื่อมต่อ</string>
+    <string name="cloud_storage_sign_in" description=">Do you want to signin" maxwidth="-1">เชื่อมต่อโดยใช้บัญชีต่อไปนี้:</string>
+    <string name="cloud_storage_sign_in_title" description="Dialog title: Signin cloud storage" maxwidth="-1">เชื่อมต่อ %s</string>
+    <!-- start add for CTA check  -->
+    <string name="cta_dialog_title">"กำลังใช้เครือข่าย"</string>
+    <string name="cta_dialog_content"><b>ตัวจัดการไฟล์</b>กำลังพยายามใช้เครือข่าย ซึ่งอาจทำให้มีค่าธรรมเนียมอื่นๆ ขึ้นอยู่กับแพ็คเกจที่คุณสมัครใช้งาน</string>
+    <string name="cta_check_title">"จดจำไว้"</string>
+    <string name="cta_agree">"อนุญาต"</string>
+    <string name="cta_disagree">"ปฏิเสธ"</string>
+    <string name="cta_show_menu">"สิทธิในการเข้าถึงเครือข่าย"</string>
+    <!-- end add for CTA check  -->
+    <string name="move_to">ย้ายไปยัง</string>
+    <string name="copy_to">คัดลอกไปยัง</string>
+    <string name="category_title_category">ประเภท</string>
+    <string name="category_title_local_storage">ที่เก็บข้อมูลท้องถิ่น</string>
+    <string name="category_image">ภาพ</string>
+    <string name="category_music">เพลง</string>
+    <string name="category_video">วิดีโอ</string>
+    <string name="category_apk">แอป</string>
+    <string name="category_download">ดาวน์โหลด</string>
+    <string name="category_favorite">รายการโปรด</string>
+    <string name="category_count">"%s"</string>
+    <string name="open">เปิด</string>
+    <string name="add_favorite">เพิ่มไปยังรายการโปรด</string>
+    <string name="remove_favorite">ลบจากรายการโปรด</string>
+    <string name="add_favorite_success">จัดเก็บไปยังรายการโปรด</string>
+    <string name="rename_favorite_folder">เปลี่ยนชื่อโฟลเดอร์รายการโปรด</string>
+    <string name="rename_favorite_success">เปลี่ยนชื่อสำเร็จ และจัดเก็บไปยังรายการโปรด</string>
+    <string name="rename_favorite_notice">มีโฟลเดอร์ที่มีชื่อเดียวกันในโฟลเดอร์รายการโปรดอยู่แล้ว คุณต้องการเปลี่ยนชื่อหรือไม่?</string>
+    <string name="remove_favorite_notice_one">แน่ใจว่าคุณต้องการลบ \"%s\ จากโฟลเดอร์รายการโปรดหรือไม่?</string>
+    <string name="remove_favorite_notice_more">แน่ใจว่าคุณต้องการลบ %d รายการจากโฟลเดอร์รายการโปรดหรือไม่?</string>
+    <string name="remove_favorite_success">ลบสำเร็จ</string>
+    <string name="tutorial_skip">ข้าม</string>
+    <string name="tutorial_done">เสร็จ</string>
+    <string name="tutorial_page_one_title">ตัวจัดการไฟล์ ASUS</string>
+    <string name="tutorial_page_one_content">ตัวจัดการไฟล์ ASUS อนุญาตให้คุณจัดการไฟล์ที่เก็บในที่เก็บข้อมูลภายใน ภายนอก เครือข่ายแลน หรือที่เก็บข้อมูลบนคลาวด์ของคุณได้อย่างง่ายดาย</string>
+    <string name="tutorial_page_two_title">หน้าหลัก</string>
+    <string name="tutorial_page_two_content">ประเภทที่ใช้ง่าย ซึ่งอนุญาตให้คุณเข้าถึงไฟล์ต่าง ๆ ในที่เก็บข้อมูลในเครื่องของคุณอย่างรวดเร็ว</string>
+    <string name="tutorial_page_three_title">รายการการกระทำปัดไปทางขวา</string>
+    <string name="tutorial_page_three_content">ปัดรายการไปทางขวา เพื่อแสดงการกระทำต่าง ๆ เช่น เพิ่มไปยังรายการโปรด เปลี่ยนชื่อ ย้ายไปยัง คัดลอกไปยัง และตัวเลือกการจัดการไฟล์อื่น ๆ</string>
+    <string name="tutorial_page_four_title">รายการโปรด</string>
+    <string name="tutorial_page_four_content">ตั้งค่าโฟลเดอร์ที่ใช้บ่อย ๆ เป็นรายการโปรดเพื่อเข้าถึงโฟลเดอร์ได้อย่างรวดเร็วและง่ายดาย</string>
+    <string name="saf_permission_tutorial_title">ขอการเข้าถึงเพื่อใช้ SD การ์ด</string>
+    <string name="saf_permission_tutorial_content">ตัวจัดการไฟล์ ASUS ขอการเข้าถึงเพื่อใช้ SD การ์ดของคุณ คุณต้องการให้สิทธิ์หรือไม่?</string>
+    <string name="saf_tutorial_step_one">แทปไอคอนเมนู จากนั้นแทป แสดง SD การ์ด</string>
+    <string name="saf_tutorial_step_two">ปัดขอบซ้ายของหน้าจอ เพื่อแสดงลิ้นชัก จากนั้นแทป SD การ์ด</string>
+    <string name="saf_tutorial_step_three">แทป เลือก SD การ์ด เพื่อให้สิทธิ์การเข้าถึงแก่ตัวจัดการไฟล์ ASUS</string>
+    <string name="device_root_path">ราก</string>
+    <string name="tap_to_exit">แทปอีกครั้งเพื่อออก</string>
+    <string name="info_path" description="file info textview context" maxwidth="-1">"เส้นทาง: "</string>
+    <string name="recruit_beta_user" description="recruit beta user" maxwidth="-1">รับเวอร์ชั่นพรีวิว</string>
+    <string name="rate_us" description="rate us" maxwidth="-1">ให้คะแนนเรา</string>
+    <string name="scroll_up_toast" description="rate now" maxwidth="">กรุณาเลื่อนขึ้นเพื่อให้คะแนน</string>
+    <string name="settings_encourage_us_detail" description="recommend text" maxwidth="">หากคุณเพลิดเพลินกับการใช้ %s โปรดจัดลำดับเราให้อยู่ในระดับ 5 ดาวบน Play Store ซึ่งจะเป็นกำลังใจที่ดีที่สุดสำหรับเราที่จะดำเนินการปรับปรุงผลิตภัณฑ์!</string>
+    <string name="yes">ใช่</string>
+    <string name="menu_tutorial" description="settings menu tutorial" maxwidth="-1">การสอน</string>
+    <string name="about">เกี่ยวกับ</string>
+    <string name="version_text">เวอร์ชันของ</string>
+    <string name="tell_friend" description="" maxwidth="">บอกเพื่อน</string>
+    <string name="toolbar_item_title_encourage_us" maxwidth="35">ส่งเสริมเรา</string>
+    <string name="zenui_update">"การอัปเดตทันใจ ZenUI"</string>
+    <string name="whats_new_label">มีอะไรใหม่</string>
+    <string name="next">ถัดไป</string>
+    <string name="invite_friends" description="sticker detail page button name" maxwidth="-1">"เชิญเพื่อน"</string>
+    <string name="news_mark1" maxwidth="">"★  "</string>
+</resources>

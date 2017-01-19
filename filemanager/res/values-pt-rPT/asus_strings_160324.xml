@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Sylvia Cheng, 2016/03/22, Setting page -->
+    <string name="action_settings" description="menu title for setting" maxwidth="-1">"Definições"</string>
+    <string name="setting_view_group">"Ver definição"</string>
+    <string name="setting_view_hide_files">"Ocultar ficheiros do sistema"</string>
+    <string name="setting_notification_group">"Notificação"</string>
+    <string name="setting_notification_large_files">"Notificação de ficheiro grande"</string>
+    <string name="setting_notification_recent_files">"Notificação de ficheiros recentes"</string>
+    <string name="setting_notification_wireless_transfer">"Notificação de transferência sem fios"</string>
+    <string name="setting_display_group">"Apresentação"</string>
+    <string name="tools_storage_analyzer">"Analisador de armazenamento"</string>
+    <string name="tools_zenui_instant_update">"Atualização instantânea"</string>
+    <string name="category_others">"Outros"</string>
+    <string name="large_files_content_hint">"Encontra ficheiros grandes e elimina-o com a sua permissão."</string>
+    <string name="recent_files_content_hint">"Encontra ficheiros recentes e elimina-o com a sua permissão."</string>
+    <string name="fragment_analyzer_more_hint">"mais"</string>
+    <string name="fragment_analyzer_chart_total_hint">"Total:"</string>
+    <string name="fragment_analyzer_chart_free_hint">"Livre:"</string>
+    <string name="fragment_analyzer_chart_used_hint">"UTILIZADO"</string>
+    <string name="fragment_analyzer_allfiles_used_hint">"Utilizado:"</string>
+    <string name="news_v31" maxwidth="">"O analisador de armazenamento permite saber o tipo de ficheiros que ocupou todo o espaço de armazenamento"</string>
+    <string name="news_v32" maxwidth="">"Categoria de aplicações recentemente melhoradas"</string>
+</resources>

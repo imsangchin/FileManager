@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="tools_hidden_zone">"ארון מסתור"</string>
+    <string name="action_hidden_zone" maxwidth="">"העברה לארון מסתור"</string>
+    <string name="move_to_hidden_zone_progress" description="Progress Content: text in progress dialog" maxwidth="">"מעביר לארון מסתור..."</string>
+    <string name="move_to_hidden_zone_success_one" description="Toast: move to recycle bin success. %s is variable string." maxwidth="-1">"\"%s\" הועבר לארון מסתור."</string>
+    <string name="move_to_hidden_zone_success_more" description="Toast: move to recycle bin success" maxwidth="-1">"הקבצים שנבחרו הועברו לארון מסתור."</string>
+    <string name="move_to_hidden_zone_fail" description="Toast: move to recycle bin fails" maxwidth="-1">"ההעברה לארון מסתור נכשלה"</string>
+    <string name="can_not_open_in_hidden_zone" description="Toast: can not open in hidden zone" maxwidth="-1">"לא ניתן לפתיחה בארון מסתור"</string>
+    <string name="hidden_zone_setup_password">"יש להזין קוד PIN בן ארבע ספרות"</string>
+    <string name="hidden_zone_setup_account">"הגדרת החשבון"</string>
+    <string name="hidden_zone_forget_password">"שכח את הסיסמה"</string>
+    <string name="hidden_zone_wrong_password">"קוד PIN שגוי"</string>
+    <string name="hidden_zone_change_password">"שינוי הסיסמה"</string>
+    <string name="hidden_zone_confirm_password">"אשרו את קוד ה-PIN"</string>
+    <string name="hidden_zone_set_password_success">"הסיסמה הוגדרה בהצלחה"</string>
+    <string name="hidden_zone_fingerprint_to_unlock">"טביעת אצבע לשחרור הנעילה"</string>
+    <string name="hidden_zone_password_mismatch">"קוד ה-PIN שלכם אינו תואם"</string>
+    <string name="hidden_zone_introduction_description">"הסתירו את קוד ה-PIN שלכם בארון מסתור. לפתיחת ארון מסתור יש צורך בקוד ה-PIN."</string>
+    <string name="hidden_zone_enter_password">"הזן את קוד ה-PIN שלך"</string>
+    <string name="setup">"הגדרה"</string>
+    <string name="set_password_title">"צור קוד PIN"</string>
+    <string name="setup_account_title">"שחזור קוד PIN"</string>
+    <string name="setup_account_description">"יש להגדיר חשבון דוא"ל לצורך שחזור קוד ה-PIN שלך"</string>
+    <string name="setup_account_no_internet_connection">"אין חיבור לאינטרנט"</string>
+    <string name="setup_account_skip">"דלג"</string>
+    <string name="setup_my_digital_code">"הגדר קוד PIN"</string>
+    <string name="setup_fingerprint_message">"האם לאפשר את השימוש בטביעת אצבע כדי לשחרר את הנעילה? ארון מסתור תומך באימות טביעת אצבע. כדי להתחיל, סרוק את טביעת האצבע שלך בהגדרות."</string>
+    <string name="toast_auto_lock_notify_message">"נעל ארון מסתור כאשר המכשיר נעול."</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Category sorting -->
+    <string name="category_sorting_summary">"Valige üksused, mis on kuvatud lategooria paneelil"</string>
+    <string name="category_toast_invalid_item_size_9">"Palun valige 9 üksust"</string>
+    <string name="category_toast_invalid_item_size_6_or_9">"Palun valige 6 või 9 üksust"</string>
+    <string name="category_toast_invalid_remove">"Seda üksust ei saa eemaldada"</string>
+    <string name="category_toast_max_item_size">"Valige maksimaalselt 9 üksust"</string>
+    <string name="category_image1" maxwidth="11">"Pildid"</string>
+    <string name="category_video1" maxwidth="11">"Videod"</string>
+    <string name="category_music1" maxwidth="11">"Muusika"</string>
+    <string name="category_download1" maxwidth="11">"Allalaadim."</string>
+    <string name="category_favorite1" maxwidth="11">"Lemmikud"</string>
+    <string name="category_app1" maxwidth="11">"Rakendused"</string>
+    <string name="category_document1" maxwidth="11">"Dokumendid"</string>
+    <string name="category_compressed1" maxwidth="11">"Tihendatud"</string>
+    <string name="category_large_file1" maxwidth="11">"Suurfailid"</string>
+    <string name="category_recent1" maxwidth="11">"Viimatised"</string>
+</resources>

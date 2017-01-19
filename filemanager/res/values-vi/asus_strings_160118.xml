@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="httpserver_title" maxwidth="">"Truyền file không dây sang PC"</string>
+    <string name="httpserver_start" maxwidth="">"Bắt đầu"</string>
+    <string name="httpserver_stop" maxwidth="">"Dừng"</string>
+    <string name="httpserver_need_saf" maxwidth="">"Nếu muốn quản lý bộ nhớ ngoài từ PC, bạn phải cấp giấy phép."</string>
+    <string name="httpserver_description" maxwidth="">"Bật dịch vụ để kết nối thiết bị di động với PC."</string>
+    <string name="httpserver_instruction" maxwidth="">"Nhập địa chỉ này vào trình duyệt trên PC:"</string>
+    <string name="httpserver_no_network" maxwidth="">"Kết nối thiết bị của bạn với cùng mạng Wi-Fi."</string>
+    <string name="httpserver_no_permission_title" maxwidth="">"Bắt đầu truyền file không dây"</string>
+    <string name="httpserver_no_permission_message" maxwidth="">"Bạn sẽ không thể ghi vào bộ nhớ ngoài nếu chưa có giấy phép thích hợp. Tiếp tục?"</string>
+    <string name="httpserver_acquire_permission_message" maxwidth="">"Máy chủ file HTTP sẽ bị đóng và các thao tác có thể bị gián đoạn. Tiếp tục?"</string>
+    <string name="category_title_tools">"Công cụ"</string>
+    <string name="tools_file_transfer">"Truyền file PC"</string>
+    <string name="tools_clean_master">"Dọn sạch file rác"</string>
+    <string name="retention_notification_large_file">"Bạn đã thêm %1$s file lớn. Xem chúng ngay."</string>
+    <string name="retention_notification_recent_file">"Các file gần đây của bạn sử dụng %1$s dung lượng. Xem chúng ngay."</string>
+    <string name="recommend_clean_master_msg">"Android Optimizer, Speed Booster, Battery Saver và Anti-Virus miễn phí là những ứng dụng đáng tin cậy nhất thế giới. \nTải về ngay?"</string>
+    <string name="recommend_clean_master_title">"Giới thiệu ứng dụng"</string>
+    <string name="tools_tip_animation">"Kéo lên để xem công cụ!"</string>
+</resources>

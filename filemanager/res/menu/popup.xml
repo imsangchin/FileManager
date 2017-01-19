@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="@string/add_favorite" android:id="@+id/menu_favorite_add"/>
+    <item android:title="@string/remove_favorite" android:id="@+id/menu_favorite_remove"/>
+    <!--<item android:title="@string/shared_folder" android:id="@+id/menu_shared_folder"/>-->
+    <item android:title="@string/cut" android:id="@+id/menu_cut"/>
+    <item android:title="@string/copy" android:id="@+id/menu_copy"/>
+    <item android:title="@string/delete" android:id="@+id/menu_delete"/>
+    <item android:title="@string/rename" android:id="@+id/menu_rename"/>
+    <item android:title="@string/action_zip" android:id="@+id/menu_zip"/>
+    <item android:title="@string/info" android:id="@+id/menu_info"/>
+</menu>

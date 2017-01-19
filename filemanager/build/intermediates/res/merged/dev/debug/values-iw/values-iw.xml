@@ -1,0 +1,1295 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="alarm_set">
+        <item msgid="6450913786084215050">"ההתראה הוגדרה לעוד פחות מדקה מעכשיו."</item>
+        <item msgid="6002066367368421848">"ההתראה הוגדרה לעוד <ns1:g id="DAYS">%1$s</ns1:g> מעכשיו."</item>
+        <item msgid="8824719306247973774">"ההתראה הוגדרה לעוד <ns1:g id="HOURS">%2$s</ns1:g> מעכשיו."</item>
+        <item msgid="8182406852935468862">"ההתראה הוגדרה לעוד <ns1:g id="DAYS">%1$s</ns1:g> ו-<ns1:g id="HOURS">%2$s</ns1:g> מעכשיו."</item>
+        <item msgid="2532279224777213194">"הוגדרה התראה לעוד <ns1:g id="MINUTES">%3$s</ns1:g> דקות."</item>
+        <item msgid="5936557894247187717">"ההתראה הוגדרה לעוד <ns1:g id="DAYS">%1$s</ns1:g> ו-<ns1:g id="MINUTES">%3$s</ns1:g> מעכשיו."</item>
+        <item msgid="9115697840826129603">"ההתראה הוגדרה לעוד <ns1:g id="HOURS">%2$s</ns1:g> ו-<ns1:g id="MINUTES">%3$s</ns1:g> מעכשיו."</item>
+        <item msgid="2332583385137381060">"ההתראה הוגדרה לעוד <ns1:g id="DAYS">%1$s</ns1:g>, <ns1:g id="HOURS">%2$s</ns1:g> ו-<ns1:g id="MINUTES">%3$s</ns1:g> מעכשיו."</item>
+    </string-array>
+    <string-array name="charset_array">
+        <item>"לטינית-1 (ISO-8859-1)"</item>
+        <item>"Unicode (UTF-8)‎"</item>
+        <item>"סינית (GBK)"</item>
+        <item>"סינית (Big5)"</item>
+        <item>"יפנית (ISO-2022-JP)"</item>
+        <item>"יפנית (SHIFT_JIS)"</item>
+        <item>"יפנית (EUC-JP)"</item>
+        <item>"קוריאנית (EUC-KR)"</item>
+    </string-array>
+    <string-array name="country_names">
+        <item>ארובה</item>
+        <item>אפגניסטן (جمهوری اسلامی افغانستان)</item>
+        <item>אנגולה (República de Angola)</item>
+        <item>אנגווילה</item>
+        <item>אלבניה (Shqipëri)</item>
+        <item>אנדורה (Principat d\'Andorra)</item>
+        <item>האנטילים ההולנדיים</item>
+        <item>איחוד האמירויות הערביות (دولة الإمارات العربية المتحدة‎)</item>
+        <item>ארגנטינה (República Argentina)</item>
+        <item>ארמניה (Hayastan)</item>
+        <item>סמואה האמריקאית</item>
+        <item>אנטרקטיקה</item>
+        <item>הטריטוריות הצרפתיות הדרומיות</item>
+        <item>אנטיגואה וברבודה</item>
+        <item>אוסטרליה (Australia)</item>
+        <item>אוסטריה (Österreich)</item>
+        <item>אזרבייג\'ן</item>
+        <item>בורונדי</item>
+        <item>בלגיה (België)</item>
+        <item>בנין</item>
+        <item>בורקינה פאסו</item>
+        <item>בנגלדש (বাংলাদেশ)</item>
+        <item>בולגריה (България / Balgariya)</item>
+        <item>בחריין (مملكة البحرين)</item>
+        <item>בהאמאס</item>
+        <item>בוסניה הרצגובינה (Bosna i Hercegovina)</item>
+        <item>בלרוס (Беларусь)</item>
+        <item>בליז</item>
+        <item>ברמודה</item>
+        <item>בוליביה</item>
+        <item>ברזיל</item>
+        <item>ברבדוס</item>
+        <item>ברוניי דארוסלאם (بروني دارالسلام)</item>
+        <item>בהוטאן</item>
+        <item>האי בובה</item>
+        <item>בוצואנה (Lefatshe la Botswana)</item>
+        <item>הרפובליקה המרכז אפריקאית (République centrafricaine)</item>
+        <item>קנדה</item>
+        <item>איי קוקוס (קילינג)</item>
+        <item>שוייץ (Suisse)</item>
+        <item>צ\'ילה</item>
+        <item>סין (中國)</item>
+        <item>חוף השנהב</item>
+        <item>קמרון</item>
+        <item>קונגו</item>
+        <item>איי קוק</item>
+        <item>קולומביה</item>
+        <item>קומורוס</item>
+        <item>קייפ ורדה</item>
+        <item>קוסטה ריקה</item>
+        <item>קובה</item>
+        <item>האי חג המולד</item>
+        <item>איי קיימן</item>
+        <item>קפריסין (אירופה)</item>
+        <item>צ\'כיה (Česká republika)</item>
+        <item>גרמניה (Deutschland)</item>
+        <item>ג\'יבוטי</item>
+        <item>דומיניקה</item>
+        <item>דנמרק (Danmark)</item>
+        <item>הרפובליקה הדומיניקנית</item>
+        <item>אלג\'יריה</item>
+        <item>אקוודור</item>
+        <item>מצריים (مصر‎)</item>
+        <item>אריתריאה</item>
+        <item>סהרה המערבית</item>
+        <item>ספרד (España)</item>
+        <item>אסטוניה (Eesti)</item>
+        <item>אתיופיה</item>
+        <item>פינלנד (Suomi)</item>
+        <item>פיג\'י</item>
+        <item>איי פוקלנד</item>
+        <item>צרפת (France)</item>
+        <item>בלגיה (Belgique)</item>
+        <item>איי פארו</item>
+        <item>מיקרונזיה</item>
+        <item>גבון</item>
+        <item>בריטניה (United Kingdom)</item>
+        <item>גיאורגיה (საქართველო)</item>
+        <item>גאנה</item>
+        <item>ג\'יברלטר</item>
+        <item>גינאה</item>
+        <item>גואדאלופ</item>
+        <item>גמביה</item>
+        <item>גינאה-ביסאו</item>
+        <item>גינאה המשוונית</item>
+        <item>יוון (Ελλάδα)</item>
+        <item>גרנדה</item>
+        <item>גרינלנד</item>
+        <item>גואטמלה</item>
+        <item>גינאה הצרפתית</item>
+        <item>גואם</item>
+        <item>גיאנה</item>
+        <item>הונג קונג (香港)</item>
+        <item>האי הרד ואיי מקדונלד</item>
+        <item>הונדורס</item>
+        <item>קרואטיה (Hrvatska)</item>
+        <item>האיטי</item>
+        <item>הונגריה (Magyarország)</item>
+        <item>אינדונזיה (Republik Indonesia)</item>
+        <item>הודו (भारत गणराज्य )</item>
+        <item>הטריטוריה הבריטית באוקיינוס ההודי</item>
+        <item>אירלנד (Ireland)</item>
+        <item>איראן (ایران)</item>
+        <item>עיראק (العراق)</item>
+        <item>איסלנד (Ísland)</item>
+        <item>ישראל</item>
+        <item>איטליה (Italia)</item>
+        <item>ג\'מייקה</item>
+        <item>ירדן (L\'Ürdünn)</item>
+        <item>יפן (日本国)</item>
+        <item>קזחסטן</item>
+        <item>קניה (Jamhuri ya Kenya)</item>
+        <item>קירגיסטן</item>
+        <item>קמבודיה (कम्बोजदेश)</item>
+        <item>קיריבטי</item>
+        <item>סינט קיטס ונוויס</item>
+        <item>קוריאה הדרומית (대한민국)</item>
+        <item>כווית (دولة الكويت)</item>
+        <item>לאוס</item>
+        <item>לבנון (اَلْجُمْهُورِيَّة اَللُّبْنَانِيَّة)</item>
+        <item>ליבריה</item>
+        <item>לוב</item>
+        <item>סנט לוסיה</item>
+        <item>ליכטנשטיין (Liechtenstein)</item>
+        <item>סרי לנקה (இலங்கை ஜனநாயக சமத்துவ)</item>
+        <item>לסותו</item>
+        <item>ליטא (Lietuva)</item>
+        <item>לוקסמבורג (Lëtzebuerg)</item>
+        <item>לטביה (Latvija)</item>
+        <item>מקאו</item>
+        <item>מרוקו</item>
+        <item>מונקו (Monaco)</item>
+        <item>מולדובה (Moldova)</item>
+        <item>מדגסקר</item>
+        <item>המדליבים</item>
+        <item>מקסיקו</item>
+        <item>איי מרשל</item>
+        <item>מקדוניה</item>
+        <item>מאלי</item>
+        <item>מלטה (Malta)</item>
+        <item>מיאנמר (Pyidaunzu Thanmăda Myăma Nainngandaw)</item>
+        <item>מונגוליה</item>
+        <item>איי מריאנה הצפוניים</item>
+        <item>מוזמביק</item>
+        <item>מאוריטניה</item>
+        <item>מונטסראט</item>
+        <item>מרטיניק (Martinique)</item>
+        <item>מאוריציוס (Republik Moris)</item>
+        <item>מלאווי</item>
+        <item>מלזיה (Persekutuan Malaysia)</item>
+        <item>מיוט</item>
+        <item>נמיביה</item>
+        <item>קלדוניה החדשה (Nouvelle-Calédonie)</item>
+        <item>ניז\'ר</item>
+        <item>איי נורפולק (Norfuk Ailen)</item>
+        <item>ניגריה (Republik Nijeriya)</item>
+        <item>ניקרגואה</item>
+        <item>ניואה</item>
+        <item>הולנד (Nederland)</item>
+        <item>נורבגיה (Norge)</item>
+        <item>נפאל (सङ्घीय लोकतान्त्रिक गणतन्त्र नेपाल)</item>
+        <item>נאורו</item>
+        <item>ניו זילנד (New Zealand)</item>
+        <item>עומאן (لطنة عمان)</item>
+        <item>פקיסטן (پاکِستان)</item>
+        <item>פנמה</item>
+        <item>פיטקרן</item>
+        <item>פרו</item>
+        <item>הפיליפינים (Pilipinas)</item>
+        <item>פלאו</item>
+        <item>פפואה גינאה החדשה</item>
+        <item>פולין (Polska)</item>
+        <item>פוארטו ריקו</item>
+        <item>קוריאה הצפונית</item>
+        <item>פורטוגל (Portugal)</item>
+        <item>פרגוואי</item>
+        <item>פולינזציה הצרפתית</item>
+        <item>קטאר</item>
+        <item>ראוניון</item>
+        <item>רומניה (România)</item>
+        <item>רוסיה (Россия)</item>
+        <item>רואנדה</item>
+        <item>ערב הסעודית (المملكة العربية السعودية)</item>
+        <item>סרביה ומונטנגרו</item>
+        <item>סודן (جمهورية السودان)</item>
+        <item>סנגל</item>
+        <item>סינגפור (Singapore)</item>
+        <item>איי ג\'ורג\'יה הדרומית ואיי סנדוויץ\' הדרומיים</item>
+        <item>סנט הלנה</item>
+        <item>איי סבאלברד</item>
+        <item>איי שלמה (Solomon Islands)</item>
+        <item>סיירה לאון</item>
+        <item>אל סלבדור</item>
+        <item>סן מרינו (San Marino)</item>
+        <item>סומליה</item>
+        <item>סן פייר ומיקלון (St. Pierre and Miquelon)</item>
+        <item>סאו טומה ופרינסיפה</item>
+        <item>סורינם</item>
+        <item>סלובקיה (Slovensko)</item>
+        <item>סלובניה (Slovenija)</item>
+        <item>שבדיה (Sverige)</item>
+        <item>סווזילנד (Swatini)</item>
+        <item>איי סיישל</item>
+        <item>סוריה (جمهورية العربية السورية)</item>
+        <item>איי טרקס וקייקוס</item>
+        <item>צ\'אד</item>
+        <item>טוגו</item>
+        <item>תאילנד (ราชอาณาจักรไทย)</item>
+        <item>טג\'יקיסטן</item>
+        <item>טוקלאו</item>
+        <item>טורקמניסטן</item>
+        <item>מזרח טימור</item>
+        <item>טונגה</item>
+        <item>טרינידד וטובגו</item>
+        <item>טוניסיה</item>
+        <item>טורקיה (Türkiye)</item>
+        <item>טובאלו</item>
+        <item>טיוואן (台灣)</item>
+        <item>טנזניה</item>
+        <item>אוגנדה (Jamhuri ya Uganda)</item>
+        <item>אוקראינה (Україна)</item>
+        <item>האיים הקטנים שלחופי ארה"ב</item>
+        <item>אורוגוואי</item>
+        <item>ארה"ב</item>
+        <item>אוזבקיסטן</item>
+        <item>הוותיקן (Stato della Città del Vaticano)</item>
+        <item>סנט וינסנט והגרנדינים</item>
+        <item>ונצואלה</item>
+        <item>איי הבתולה (הבריטיים)</item>
+        <item>איי הבתולה (האמריקאים)</item>
+        <item>ויטנאם (Việt Nam)</item>
+        <item>ונואטו</item>
+        <item>איי וואליס ופורטונה</item>
+        <item>סמואה</item>
+        <item>תימן</item>
+        <item>דרום אפריקה (Republiek van Suid-Afrika)</item>
+        <item>זאיר</item>
+        <item>זמביה</item>
+        <item>זימבבואה (Simudzai Mureza wedu WeZimbabwe)</item>
+    </string-array>
+    <plurals name="dialog_unzip_preview_size_text">
+        <item quantity="one">סה"כ: %1$d קבצים, %2$s</item>
+        <item quantity="other">סה"כ: %1$d קבצים, %2$s</item>
+    </plurals>
+    <plurals name="drag_items">
+        <item quantity="one">גרור פריט</item>
+        <item quantity="other">גרור פריטים</item>
+    </plurals>
+    <plurals name="number_search_items">
+        <item quantity="one">"%d קובץ נמצא"</item>
+        <item quantity="other">"%d קבצים נמצאו"</item>
+    </plurals>
+    <plurals name="number_selected_items">
+        <item quantity="one">נבחר%dפריטים</item>
+        <item quantity="other">%dפריטים נבחרו</item>
+    </plurals>
+    <plurals name="uf_sdk_number_of_subscribers_format">
+        <item quantity="one">"%1$s אוהב את הנושא הזה"</item>
+        <item quantity="other">"%1$s אוהבים את הנושא הזה"</item>
+    </plurals>
+    <plurals name="uf_sdk_topics">
+        <item quantity="one">"נושא"</item>
+        <item quantity="other">"נושאים"</item>
+    </plurals>
+    <plurals name="uv_comments">
+        <item quantity="one">"הערה"</item>
+        <item quantity="other">"הערות"</item>
+    </plurals>
+    <plurals name="uv_number_of_subscribers_format">
+        <item quantity="one">"%1$s רוצים ברעיון זה"</item>
+        <item quantity="other">"%1$s רוצה ברעיון זה"</item>
+    </plurals>
+    <plurals name="uv_people">
+        <item quantity="one">"אדם"</item>
+        <item quantity="other">"אנשים"</item>
+    </plurals>
+    <plurals name="uv_subscribers">
+        <item quantity="one">"מנוי"</item>
+        <item quantity="other">"מנויים"</item>
+    </plurals>
+    <string name="AsusWebstroage">AsusWebstorage</string>
+    <string name="AuCloud">AuCloud</string>
+    <string name="BaiDuPCS">BaiDuPCS</string>
+    <string name="Default">ברירת מחדל</string>
+    <string name="Dropbox">Dropbox</string>
+    <string name="Google_Drive">Google Drive</string>
+    <string name="HomeCloud">HomeCloud</string>
+    <string name="OneDrive">OneDrive</string>
+    <string name="Yandex">Yandex</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"נווט לדף הבית"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"‏%1$s‏, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"‏%1$s‏, %2$s‏, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"נווט למעלה"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"עוד אפשרויות"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"בוצע"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"ראה הכל"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"בחר אפליקציה"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"כבוי"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"פועל"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"חפש…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"מחק שאילתה"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"שאילתת חיפוש"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"חפש"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"שלח שאילתה"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"חיפוש קולי"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"שתף עם"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"‏שתף עם %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"כווץ"</string>
+    <string name="about">אודות</string>
+    <string name="account_asus">ASUS</string>
+    <string maxwidth="-1" name="action">התחברות</string>
+    <string description="cutstom action bar view title for about" maxwidth="-1" name="action_about">אודות</string>
+    <string description="action add files" maxwidth="-1" name="action_add">הוסף</string>
+    <string description="cutstom action bar view title for add folder" maxwidth="-1" name="action_add_folder">הוסף תיקייה</string>
+    <string description="View title of custom action bar, apply to multiple selected files" maxwidth="-1" name="action_apply_selected_file">החל</string>
+    <string description="action cancel" maxwidth="-1" name="action_cancel">ביטול</string>
+    <string maxwidth="-1" name="action_clean">"נקה"</string>
+    <string maxwidth="-1" name="action_clean_all">"נקה הכל"</string>
+    <string description="cutstom action bar view title for clear search history" maxwidth="" name="action_clear_history">נקה היסטוריית חיפוש</string>
+    <string description="cutstom action bar view title for edit" maxwidth="" name="action_edit">"ערוך"</string>
+    <string maxwidth="" name="action_hidden_zone">"העברה לארון מסתור"</string>
+    <string description="cutstom action bar view title for hinde system file" maxwidth="-1" name="action_hind_system_file">הסתר קובצי מערכת</string>
+    <string name="action_loading">"טוען..."</string>
+    <string description="cutstom action bar view title for open with" maxwidth="" name="action_open_with">"פתח עם..."</string>
+    <string name="action_refresh_cloudfile">"רענון"</string>
+    <string maxwidth="-1" name="action_restore">"שחזר"</string>
+    <string maxwidth="-1" name="action_restore_all">"שחזר הכל"</string>
+    <string description="cutstom action bar view title for search" maxwidth="" name="action_search">חפש</string>
+    <string description="cutstom action bar view title for set as" maxwidth="" name="action_set_as">"הגדר תמונה בתור"</string>
+    <string description="menu title for setting" maxwidth="-1" name="action_settings">"הגדרות"</string>
+    <string description="cutstom action bar view title for sharing" maxwidth="-1" name="action_share">"שתף"</string>
+    <string description="String for asking for the rule of sorting" maxwidth="-1" name="action_sort_by">מיין לפי</string>
+    <string description="cutstom action bar view title for zip" maxwidth="" name="action_zip">מצפן</string>
+    <string description="Dialog title: Add cloud storage" maxwidth="-1" name="add_cloud_storage_dialog_title">הוסף שטח אחסון בענן</string>
+    <string name="add_favorite">הוסף למועדפים</string>
+    <string name="add_favorite_folder">"הוסף תיקיית מועדפים"</string>
+    <string name="add_favorite_success">שמור במועדפים</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="add_progress">יוצר...</string>
+    <string description="Don&apos;t remind me again" maxwidth="-1" name="alert_cb_msg">אל תזכיר לי שוב</string>
+    <string description="ASUS ZenUI Services is not support, need update ASUS ZenUI Services" maxwidth="-1" name="alert_msg_azs_update">%1$s מחייב את הגרסה האחרונה של ASUS ZenUI Services, התקן אותה כעת.</string>
+    <string description="Client app is not support, need update client app" maxwidth="-1" name="alert_msg_client_update">קיימת גרסה חדשה של %1$s, התקן אותה כעת.</string>
+    <string description="Client app version is compatible with ASUS ZenUI Services" maxwidth="-1" name="alert_msg_compatible">גרסה %1$s תואמת לשירותי ASUS ZenUI.</string>
+    <string description="Client app version is match with ASUS ZenUI Services" maxwidth="-1" name="alert_msg_match">גרסה %1$s מתאימה לשירותי ASUS ZenUI.</string>
+    <string description="ASUS ZenUI Services is not found on device" maxwidth="-1" name="alert_msg_not_found">ASUS ZenUI Services לא הותקן!\n\nלעבור להורדה ולהתקין אותו?</string>
+    <string description="Dialog title" maxwidth="-1" name="alert_title">הערה</string>
+    <string description="Dialog title" maxwidth="-1" name="alert_title_update">עדכון מומלץ</string>
+    <string name="app_cloudstorage_name">אחסון בענן</string>
+    <string name="app_upload_complete">"%s העלאות הושלמו"</string>
+    <string description="" name="article_one">אני מסכים ל\"<u>הצהרת תנאי השימוש</u>\", של ASUS \"<u>מדיניות הפרטיות</u>\", של ASUS \"<u>הצהרת תנאי השימוש</u>\", של ASUS WebStorage ו\"<u>מדיניות הפרטיות</u>\" של ASUS WebStorage.</string>
+    <string description="" name="article_two">עדכן אותי בדוא"ל על חדשות, עדכוני תוכנה ומידע עדכני על מוצרים ושירותים של ASUS.</string>
+    <string description="Text for create asus account button." maxwidth="" name="asus_account_create_button">צור חדש</string>
+    <string name="asus_account_integrate_dialog_content">האם ברצונך לשלב את שירות האחסון בענן של ASUS עם חשבון ASUS שלך? n\n\ לאחר השילוב, תוכל להשתמש בכל השירותים של ASUS מאותו חשבון.</string>
+    <string name="asus_account_integrate_dialog_skip">דלג</string>
+    <string name="asus_account_integrate_dialog_title">שילוב השירותים של ASUS</string>
+    <string name="asus_account_integrate_dialog_yes">כן</string>
+    <string description="Text for asus account content 1st." maxwidth="" name="asus_account_msg_content_1">תמיכה אישית של ASUS והארכה לאחריות עבור מוצרים רשומים.</string>
+    <string description="Text for asus account content 2nd." maxwidth="" name="asus_account_msg_content_2">שטח אחסון בענן בנפח של 5GB בחינם.</string>
+    <string description="Text for asus account content 3rd." maxwidth="" name="asus_account_msg_content_3">את המידע העדכני על אביזרים ומוצרים מחודשים.</string>
+    <string description="Text for asus account content title." maxwidth="" name="asus_account_msg_title">צור חשבון של ASUS כדי לקבל:</string>
+    <string name="asus_account_only_one_alert">"ניתן להוסיף רק חשבון ASUS אחד. עליך למחוק את החשבון הנוכחי שלך לפני שתחליף אותו בחדש."</string>
+    <string name="asus_account_prefc">"הגדרות"</string>
+    <string name="asus_account_prefc_advc">"הגדרות מתקדמות"</string>
+    <string name="asus_account_registe_country_error">בחר מדינה/אזור אחד!</string>
+    <string name="asus_account_registe_id_error">שגיאת דוא"ל</string>
+    <string name="asus_account_registe_policy_error">עליך להסכים למדיניות של ASUS כדי להירשם לחשבון של ASUS!</string>
+    <string name="asus_account_registe_pw_error_1">לא ניתן להשאיר את הסיסמה ריקה!</string>
+    <string name="asus_account_registe_pw_error_2">לא ניתן להשאיר את אישור הסיסמה ריק!</string>
+    <string name="asus_account_registe_pw_error_3">השדות \'סיסמה\' ו\'אישור סיסמה\' צריכים להיות זהים!</string>
+    <string name="asus_account_registe_pw_error_4">"על הסיסמה להיות באורך של 8 - 25 תווים."</string>
+    <string name="asus_account_removeaccount_dialog_content">"שילוב החשבון בוצע בהצלחה. היכנס שוב באמצעות החשבון החדש."</string>
+    <string name="asus_account_removeaccount_dialog_title">"שילוב חשבון ASUS הצליח"</string>
+    <string name="asus_commonui_activity_chooser_view_see_all">"הצג הכל"</string>
+    <string name="asus_commonui_activity_resolver_use_always">"תמיד"</string>
+    <string name="asus_commonui_activity_resolver_use_once">"רק פעם אחת"</string>
+    <string name="asus_commonui_activitychooserview_choose_application">"בחר אפליקציה"</string>
+    <string name="asus_commonui_activitychooserview_choose_application_error">
+        "לא ניתן היה להפעיל את <ns1:g id="APPLICATION_NAME">%s</ns1:g>"
+    </string>
+    <string name="asus_commonui_cancel_label">"ביטול"</string>
+    <string name="asus_commonui_chooseActivity">"בחירת פעולה"</string>
+    <string msgid="3968620852217927702" name="asus_commonui_day_picker_description">"בחירת ימים בחודש בתצוגת רשת"</string>
+    <string msgid="6908431551612331381" name="asus_commonui_deleted_key">"<ns1:g id="KEY">%1$s</ns1:g> נמחק"</string>
+    <string name="asus_commonui_done_label">"אישור"</string>
+    <string msgid="7586639618712934060" name="asus_commonui_hour_picker_description">"מחוון שעות מעגלי"</string>
+    <string msgid="2674929164900463786" name="asus_commonui_item_is_selected">"בחרת <ns1:g id="ITEM">%1$s</ns1:g>"</string>
+    <string msgid="6024811202872705251" name="asus_commonui_minute_picker_description">"מחוון דקות מעגלי"</string>
+    <string name="asus_commonui_noApplications">"אין אפליקציות שיכולות לבצע פעולה זו."</string>
+    <string name="asus_commonui_no_url_handler">לא נמצאה אפליקציה לפתיחת כתובת האתר</string>
+    <string name="asus_commonui_privacy_policy">מדיניות פרטיות</string>
+    <string name="asus_commonui_privacy_policy_url">http://www.asus.com/IL/Terms_of_Use_Notice_Privacy_Policy/Privacy_Policy</string>
+    <string msgid="3973338219107019769" name="asus_commonui_select_day">"בחר חודש ויום"</string>
+    <string msgid="7651068754188418859" name="asus_commonui_select_hours">"בחר שעות"</string>
+    <string msgid="8327182090226828481" name="asus_commonui_select_minutes">"בחר דקות"</string>
+    <string msgid="2603330600102539372" name="asus_commonui_select_year">"בחר שנה"</string>
+    <string name="asus_commonui_shareactionprovider_share_with">"שתף עם"</string>
+    <string name="asus_commonui_shareactionprovider_share_with_application">
+        "שתף עם <ns1:g id="APPLICATION_NAME">%s</ns1:g>"
+    </string>
+    <string name="asus_commonui_terms_of_use_notice">הודעה על תנאי השימוש</string>
+    <string name="asus_commonui_terms_of_use_notice_url">http://www.asus.com/IL/Terms_of_Use_Notice_Privacy_Policy/Official_Site/</string>
+    <string name="asus_commonui_whichApplication">"השלמת פעולה באמצעות"</string>
+    <string name="asus_commonui_whichHomeApplication">"בחר אפליקציה לדף הבית"</string>
+    <string msgid="6963340404644587098" name="asus_commonui_year_picker_description">"רשימת שנים"</string>
+    <string name="asus_feedback_and_help">משוב ועזרה</string>
+    <string name="asus_registe_success_title">"רישום חשבון ASUS הצליח"</string>
+    <string name="asus_response_resultdata">"חשבון זה כבר רשום."</string>
+    <string name="asusaccount_app_name">חשבון של ASUS</string>
+    <string maxwidth="-1" name="attribution_notice">"התרעת זכויות"</string>
+    <string maxwidth="-1" name="attribution_notice_content">
+    "\nמוצר זה כולל את המקורות הפתוחים המפורטים להלן:
+\n\nuservoice-android-sdk, המורשה בכפוף לגרסה 2.0 של רישיון Apache. ניתן להוריד את הרישיון בכתובת  http://www.apache.org/licenses/LICENSE-2.0.html.
+        \n\nangular-filemanager, המורשה בכפוף ל- MIT. ניתן להוריד את הרישיון בכתובת https://github.com/joni2back/angular-filemanager/blob/master/LICENSE.
+        \n\nprogressbar, המורשה בכפוף ל- MIT. ניתן להוריד את הרישיון בכתובת https://github.com/kimmobrunfeldt/progressbar.js/blob/master/LICENSE.
+        \n\ntoastr, Copyright (c) 2012-2015 John Papa, Tim Ferrell, Hans Fjällemark\nהרשות ניתנת בזאת, ללא כל עלות, לכל אדם המקבל עותק של תוכנה זו וקבצי התיעוד המשויכים (התוכנה), לסחור בתוכנה ללא כל מגבלה, כולל ללא הגבלה על הזכויות לעשות שימוש, להעתיק, לשנות, לאחד, לפרסם, לשווק, למסור רישיונות משנה ו/או למכור עותקים של התוכנה, וכן להתיר לאנשים המקבלים את התוכנה לעשות כן, בכפוף לתנאים הבאים:
+הודעת זכויות היוצרים המופיעה לעיל והודעת אישור זו יהיו כלולות בכל העותקים או החלקים העיקריים של התוכנה. התוכנה נמסרת כמות שהיא, ללא אחריות מסוג כל שהוא, מפורשת או מרומזת, כולל, אך ללא הגבלה עבור, לאחריות הקשורות ליכולות סיחור, התאמה למטרה מסוימת וחוסר הפרה. בכל מקרה שהוא, הכותבים או בעלי זכויות היוצרים לא יהיו אחראיים לכל תביעה, נזקים או תחומי אחריות נוספים הנובעים כחלק, מתוך או בהקשר לתוכנה לשימוש או פעולות נוספות הנעשות בתוכנה."
+    </string>
+    <string name="aucloud_account_only_one_alert">"ניתן להוסיף רק חשבון au Cloud אחד. עליך למחוק את החשבון הנוכחי שלך לפני שתחליף אותו בחדש."</string>
+    <string description="string indicating how camera shooting feature is used" maxwidth="-1" name="auto">אוטומטי</string>
+    <string maxwidth="-1" name="aws_install_contnet">WebStorage לא מותקן, האם ברצונך להוריד ולהתקין זאת מ-Play Store?</string>
+    <string maxwidth="" name="aws_install_title">WebStorage לא מותקן</string>
+    <string description="button text." maxwidth="-1" name="back_button_label">הקודם</string>
+    <string name="baidu_alert_info">"לפי הפלטפורמה של Baidu, המכשיר הזה יכול לגשת לנתונים רק דרך "נתוני האפליקציות שלי\\asus\\"."</string>
+    <string name="baidu_alert_title">"אחסון בענן של Baidu"</string>
+    <string name="baidu_storage_title">"百度云"</string>
+    <string name="baidupcs_account_only_one_alert">"ניתן להוסיף רק Baidu אחד עבור חשבון ASUS. עליך למחוק את החשבון הנוכחי שלך לפני שתחליף אותו בחדש."</string>
+    <string name="btn_OK">אישור</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="calculate_progress">"בתהליך..."</string>
+    <string description="Toast: can not open in hidden zone" maxwidth="-1" name="can_not_open_in_hidden_zone">"לא ניתן לפתיחה בארון מסתור"</string>
+    <string description="Dialog Button: cancel for dialog" maxwidth="" name="cancel">ביטול</string>
+    <string name="cancle">ביטול</string>
+    <string name="category_apk">אפליקציות</string>
+    <string maxwidth="11" name="category_app1">"יישומים"</string>
+    <string name="category_compress">"דחוס"</string>
+    <string maxwidth="11" name="category_compressed1">"דחוס"</string>
+    <string name="category_count">"%s"</string>
+    <string maxwidth="11" name="category_document1">"מסמכים"</string>
+    <string name="category_documents">"מסמכים"</string>
+    <string name="category_download">הורד</string>
+    <string maxwidth="11" name="category_download1">"הורדות"</string>
+    <string name="category_favorite">מועדפת</string>
+    <string maxwidth="11" name="category_favorite1">"מועדפים"</string>
+    <string name="category_game">"משחקים"</string>
+    <string name="category_image">תמונה</string>
+    <string maxwidth="11" name="category_image1">"תמונות"</string>
+    <string maxwidth="11" name="category_large_file1">"קבצים גדולים"</string>
+    <string name="category_music">מוזיקה</string>
+    <string maxwidth="11" name="category_music1">"מוזיקה"</string>
+    <string name="category_name_app_wallpaper">"טפט חי"</string>
+    <string name="category_name_app_widgets">"קיצורי דרך"</string>
+    <string name="category_name_books_and_reference">"ספרים ויעץ"</string>
+    <string name="category_name_business">"עסק"</string>
+    <string name="category_name_comics">"קומיקס"</string>
+    <string name="category_name_communication">"תקשורת"</string>
+    <string name="category_name_education">"חינוך"</string>
+    <string name="category_name_entertainment">"בידור"</string>
+    <string name="category_name_finance">"מימון"</string>
+    <string name="category_name_game">"משחקים"</string>
+    <string name="category_name_game_action">"פעולה"</string>
+    <string name="category_name_game_adventure">"הרפתקאות"</string>
+    <string name="category_name_game_arcade">"מכונת משחק"</string>
+    <string name="category_name_game_board">"לוח"</string>
+    <string name="category_name_game_card">"קלפים"</string>
+    <string name="category_name_game_casino">"קזינו"</string>
+    <string name="category_name_game_casual">"פנאי"</string>
+    <string name="category_name_game_educational">"חינוכי"</string>
+    <string name="category_name_game_family">"משפחה"</string>
+    <string name="category_name_game_music">"מוזיקה"</string>
+    <string name="category_name_game_puzzle">"תצרף"</string>
+    <string name="category_name_game_racing">"מרוצים"</string>
+    <string name="category_name_game_role_playing">"משחק תפקידים"</string>
+    <string name="category_name_game_simulation">"הדמיה"</string>
+    <string name="category_name_game_sports">"ספורט"</string>
+    <string name="category_name_game_strategy">"אסטרטגיה"</string>
+    <string name="category_name_game_trivia">"טריוויה"</string>
+    <string name="category_name_game_word">"מילים"</string>
+    <string name="category_name_health_and_fitness">"בריאות וכושר גופני"</string>
+    <string name="category_name_libraries_and_demo">"ספריות והדגמות"</string>
+    <string name="category_name_lifestyle">"סגנון חיים"</string>
+    <string name="category_name_media_and_video">"מדיה וסרטוני ווידיאו"</string>
+    <string name="category_name_medical">"רפואה"</string>
+    <string name="category_name_music_and_audio">"מוזיקה ושמע"</string>
+    <string name="category_name_news_and_magazines">"חדשות ותקופונים"</string>
+    <string name="category_name_personalization">"התאמה שמית"</string>
+    <string name="category_name_photography">"צילום"</string>
+    <string name="category_name_productivity">"פריון"</string>
+    <string name="category_name_shopping">"קניות"</string>
+    <string name="category_name_social">"חברה"</string>
+    <string name="category_name_sports">"ספורט"</string>
+    <string name="category_name_tools">"כלים"</string>
+    <string name="category_name_transportation">"תחבורה"</string>
+    <string name="category_name_travel_and_local">"נסיעות וטיולים"</string>
+    <string name="category_name_weather">"מזג אוויר"</string>
+    <string name="category_others">"אחרים"</string>
+    <string maxwidth="11" name="category_recent1">"אחרונים"</string>
+    <string name="category_recent_files">"נוספו לאחרונה"</string>
+    <string name="category_sorting_summary">"בחר פריטים שמוצגים בלוח הקטגורים"</string>
+    <string name="category_title_category">קטגוריה</string>
+    <string name="category_title_local_storage">אחסון מקומי</string>
+    <string name="category_title_tools">"כלים"</string>
+    <string name="category_toast_invalid_item_size_6_or_9">"בחר 6 או 9 פריטים"</string>
+    <string name="category_toast_invalid_item_size_9">"בחר 9 פריטים"</string>
+    <string name="category_toast_invalid_remove">"אי אפשר להסיר את הפריט הזה"</string>
+    <string name="category_toast_max_item_size">"בחר עד 9 פריטים"</string>
+    <string name="category_video">וידאו</string>
+    <string maxwidth="11" name="category_video1">"סרטונים"</string>
+    <string name="clear_account_info">שכח את כל החשבונות</string>
+    <string description="Menu Option: clear all checkbox" maxwidth="" name="clear_all">נקה הכל</string>
+    <string name="click_plus_to_add_favorite_folder">"הקש על + כדי להוסיף תיקיית מועדפים"</string>
+    <string description="Toast: The size is over the limit and cannot be uploaded" maxwidth="-1" name="cloud_download_flie_limit_space">הגודל חורג מהמגבלה ולא ניתן להעלותו</string>
+    <string description="Toast: The name of the file uploaded is not supported by cloud server" maxwidth="-1" name="cloud_flie_name_not_supported">"לא ניתן להשלים את הפעולה מכיוון ששם הקובץ אינו נתמך על-ידי שרת הענן."</string>
+    <string description="home cloud get available devices fail" name="cloud_homebox_get_devices_fail">סריקת החיפוש של מכשירי HomeCloud נכשלה</string>
+    <string description="home cloud has no available devices" name="cloud_homebox_no_available_devices">אין מכשירי HomeCloud זמינים</string>
+    <string description="home cloud device is sleep" name="cloud_homebox_status__info_Sleep">מצב שינה</string>
+    <string description="home cloud device is offline" name="cloud_homebox_status__info_offline">לא מקוון</string>
+    <string description="home cloud device is online" name="cloud_homebox_status__info_online">מקוון</string>
+    <string description="home cloud device is offline" name="cloud_homebox_status_offline">המכשיר לא מקוון</string>
+    <string description="diaglog cloud background paste" name="cloud_paste_backgroud">רקע</string>
+    <string description="diaglog cloud  now is copy files" name="cloud_paste_copying">מעתיק...</string>
+    <string description="diaglog cloud  current" name="cloud_paste_current">נוכחי</string>
+    <string description="diaglog cloud  now is delete source files" name="cloud_paste_deleting">מוחק קובצי מקור...</string>
+    <string description="diaglog cloud  paste" name="cloud_paste_downloading">הורדת קבצים</string>
+    <string description="diaglog cloud  total" name="cloud_paste_total">סה"כ</string>
+    <string description="diaglog cloud  paste uploading" name="cloud_paste_uploading">העלאת קבצים</string>
+    <string description="Toast: cloud preview action" maxwidth="-1" name="cloud_preview_action_fail">התצוגה המקדימה של הקבצים בענן נכשלה.</string>
+    <string description="Toast: cloud share action" maxwidth="-1" name="cloud_share_action_fail">השיתוף של הקבצים בענן נכשל.</string>
+    <string description=">Do you want to remove" maxwidth="-1" name="cloud_storage_remove_hint">"האם ברצונכם להתנתק \"%s\" מהחשבון?"</string>
+    <string description="Dialog title: Remove cloud storage" maxwidth="-1" name="cloud_storage_remove_hint_title">יציאה</string>
+    <string description=">Do you want to signin" maxwidth="-1" name="cloud_storage_sign_in">התחבר באמצעות החשבון הזה:</string>
+    <string description="Dialog title: Signin cloud storage" maxwidth="-1" name="cloud_storage_sign_in_title">התחבר ל-%s</string>
+    <string description=">Do you want to signout" maxwidth="-1" name="cloud_storage_sign_out">האם אתה בטוח שברצונך להתנתק?</string>
+    <string description="Dialog title: Signout cloud storage" maxwidth="-1" name="cloud_storage_sign_out_title">התנתק</string>
+    <string description="Add more cloud storage" maxwidth="-1" name="cloud_storage_title">הוסף עוד שטח אחסון בענן</string>
+    <string description="diaglog cloud  token is invalidate" name="cloud_token_invalidate">האסימון אינו חוקי, נסה להתחבר שוב!</string>
+    <string description="Toast: The size is over the limit and cannot be uploaded" maxwidth="-1" name="cloud_upload_flie_limit_space">הגודל חורג מהמגבלה ולא ניתן להעלותו</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"הפעל"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"‏האפליקציה <ns1:g id="APP_NAME">%1$s</ns1:g> לא תפעל אם לא תפעיל את שירותי Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"‏הפעל את שירותי Google Play"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"התקן"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"‏האפליקציה <ns1:g id="APP_NAME">%1$s</ns1:g> לא תפעל ללא שירותי Google Play, שאינם מותקנים במכשיר."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"‏קבל את שירותי Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"‏שגיאה בשירותי Google Play"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"‏<ns1:g id="APP_NAME">%1$s</ns1:g> נתקלה בבעיה בשירותי Google Play. נסה שוב."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"‏<ns1:g id="APP_NAME">%1$s</ns1:g> לא תפעל ללא שירותי Google Play, שאינם נתמכים במכשיר שלך."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"עדכן"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"‏<ns1:g id="APP_NAME">%1$s</ns1:g> לא יפעל אם לא תעדכן את שירותי Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"‏עדכון שירותי Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"‏האפליקציה <ns1:g id="APP_NAME">%1$s</ns1:g> לא תפעל ללא שירותי Google Play, שמתעדכנים כרגע."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"‏דרושה גרסה חדשה של שירותי Google Play. הגרסה תתעדכן בעצמה תוך זמן קצר."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"פתח בטלפון"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"היכנס"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"‏היכנס באמצעות Google"</string>
+    <string name="confirm">"אישור"</string>
+    <string maxwidth="-1" name="confirm_ok">אישור</string>
+    <string description="confirm password textview title" name="confirm_password">אישור סיסמה</string>
+    <string description="ask user to enter password again to confirm" name="confirm_password_edit">הזן את הסיסמה שוב</string>
+    <string description="content" maxwidth="-1" name="content">"השימוש בתוכנה זו כפוף לתנאי השימוש המופיעים באתר האינטרנט של ASUS בכתובת: \nhttp://www.asus.com";</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="copy">העתק</string>
+    <string description="Toast: copy ready" maxwidth="-1" name="copy_ready_more">הקבצים שנבחרו הועתקו ומוכנים להדבקה.</string>
+    <string description="Toast: copy ready. %s is variable string." maxwidth="-1" name="copy_ready_one">\"%s\" הועתק ומוכן להדבקה.</string>
+    <string name="copy_to">העתק אל</string>
+    <string description="country region textview title" name="country_region">מדינה/אזור</string>
+    <string description="ack user to select on country" name="country_region_select">בחר את האזור שלך</string>
+    <string name="create_shortcut">"צור קיצור דרך"</string>
+    <string name="create_shortcut_dialog">"צור קיצור דרך במסך ההפעלה"</string>
+    <string name="create_shortcut_toast">"יצירת קיצור הדרך במסך ההפעלה הסתיימה"</string>
+    <string name="cta_agree">"אפשר"</string>
+    <string name="cta_check_title">"זכור"</string>
+    <string name="cta_dialog_content"><b>מנהל הקבצים</b> מנסה להשתמש ברשת, הדבר עשוי לגרום לחיובים נוספים, בהתאם לתוכנית המנוי שלכם.</string>
+    <string name="cta_dialog_title">"שימוש ברשת"</string>
+    <string name="cta_disagree">"סירוב"</string>
+    <string name="cta_show_menu">"הרשאת רשת"</string>
+    <string name="current_folder">"התיקייה הנוכחית"</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="cut">גזור</string>
+    <string description="Toast: cut ready" maxwidth="-1" name="cut_ready_more">הקבצים שנבחרו נגזרו ומוכנים להדבקה.</string>
+    <string description="Toast: cut ready. %s is variable string." maxwidth="-1" name="cut_ready_one">\"%s\" נגזרו ומוכנים להדבקה.</string>
+    <string description="button text for sort file by date" maxwidth="-1" name="date">תאריך</string>
+    <string description="button text for sort file by date ascending" maxwidth="-1" name="date_ascending">תאריך (ישן-חדש)</string>
+    <string description="button text for sort file by date descending" maxwidth="-1" name="date_descending">תאריך (חדש-ישן)</string>
+    <string msgid="7984755014526510295" name="day">"יום אחד"</string>
+    <string msgid="2070509222727852210" name="days">"<ns1:g id="DAYS">%s</ns1:g> ימים"</string>
+    <string maxwidth="-1" name="dbx_install_contnet">Dropbox לא מותקן, האם ברצונך להוריד ולהתקין זאת מ-Play Store?</string>
+    <string maxwidth="" name="dbx_install_title">Dropbox לא מותקן</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="delete">מחק</string>
+    <string description="Dialog Title: delete dialog title" maxwidth="" name="delete_dialog">מחיקת קובץ</string>
+    <string description="Toast: delete fails" maxwidth="-1" name="delete_fail">מחיקת קובץ נכשלה.</string>
+    <string description="Dialog Content: text in dialog. %d is variable number." maxwidth="" name="delete_more_files">האם ברצונך למחוק את פריטי %d?</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="delete_one_directory">האם ברצונך למחוק את הספרייה?</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="delete_one_files">האם ברצונך למחוק את הקובץ?</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="delete_progress">מוחק...</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="delete_size">"גודל: "</string>
+    <string description="Toast: delete success" maxwidth="-1" name="delete_success_more">הקבצים שנבחרו נמחקו.</string>
+    <string description="Toast: delete success. %s is variable string." maxwidth="-1" name="delete_success_one">\"%s\" נמחק.</string>
+    <string description="cutstom action bar view title for deselect all checkbox" maxwidth="" name="deselect_all">בטל את כל הבחירות</string>
+    <string name="device_root_path">בסיס</string>
+    <string description="compress dialog title" maxwidth="-1" name="dialog_create_zip_title">הזן את שם הארכיון</string>
+    <string description="extract zip file dialog title. %s is a dynamic string. It is zip file name." maxwidth="-1" name="dialog_extract_zip_title">חלץ את %s אל:</string>
+    <string name="dialog_load_stream_url_info">מאחזר את המידע הנחוץ מהשרת</string>
+    <string name="dialog_msg_market_login_account">"היכנס לחשבון Google כדי להוריד את היישום"</string>
+    <string description="text encoding dialog title" maxwidth="-1" name="dialog_text_encoding_title">קידוד טקסט</string>
+    <string name="dialog_title_market_login_account">"הוסף חשבון"</string>
+    <string description="show zip info dialog title. %s is a dynamic string. Is is a zip file name" maxwidth="-1" name="dialog_unzip_preview_title">חלץ %s</string>
+    <string description="Dialog Title: Directory information dialog title" maxwidth="-1" name="dir_info_dialog_title">פרטי תיקייה</string>
+    <string name="display">"הצג בתור"</string>
+    <string name="display_hint">"ההמחשב שלי, יכול להיות ריק"</string>
+    <string name="dm_openfile">"פתח קובץ"</string>
+    <string name="do_not_show_again">"אל תציג זאת שוב"</string>
+    <string name="domain">"דומיין"</string>
+    <string name="domain_hint">"יכול להיות ריק"</string>
+    <string name="download_fail">ההורדה נכשלה!</string>
+    <string name="drag_items_one">גרור פריט</string>
+    <string name="drag_items_other">גרור פריטים</string>
+    <string name="drawer_close">"סגירת מגירת הניווט"</string>
+    <string name="drawer_home">בית</string>
+    <string name="drawer_open">"פתיחת מגירת הניווט"</string>
+    <string description="Hint: the operation is incorrect" maxwidth="-1" name="drop_incorrect_hint">פעולה שגויה</string>
+    <string description="Hint: the target folder which you want to do something" maxwidth="-1" name="drop_target_to">יעד אל:</string>
+    <string name="dumdownloadfrom">הורד מ-</string>
+    <string name="dumuploadto">העלה אל</string>
+    <string name="duplicate_files">"קבצים כפולים"</string>
+    <string name="duplicate_files_content_hint">"חיפוש קבצים כפולים ומחיקתם באישורך."</string>
+    <string name="edit_toast_name_too_long">הגעת למספר התווים המרבי</string>
+    <string name="edit_toast_special_char">לא ניתן להשתמש בתווים מיוחדים</string>
+    <string name="editcategory_hint">"הקש על לחצן העריכה כדי להתאים אישית את לוח הקטגוריות."</string>
+    <string description="describe the empty folder" maxwidth="-1" name="empty_folder_title">"ללא קבצים"</string>
+    <string description="Dialog Button: click to open the encoding list dialog" maxwidth="-1" name="encode">קידוד טקסט</string>
+    <string description="ask user to enter password" maxwidth="-1" name="enter_password">"הזן סיסמה"</string>
+    <string name="eula_content_description">
+        \n הסכם רישיון משתמש קצה (EULA) זה מהווה הסכם תקף וכובל בין ASUSTeK Computer Inc. (להלן: “ASUS“) ובינך, כמשתמש, לשימוש בתוכנה של ASUS (להלן: התוכנה) המוגדרת להלן. בעצם ההתקנה והשימוש בתוכנה אתה מאשר במפורש שקראת, הבנת ואתה מסכים להתקשר בתנאים של הסכם רישיון משתמש קצה (EULA) זה, ושל כל הגרסאות החדשות שלו. 
+\n\n1.תוכנה פירושה תוכנה של ASUS שסופקה בתוך מוצר ישים של ASUS או יחד עמו, לרבות, אך ללא הגבלות, תיקונים, עדכונים, שדרוגים וגרסאות משופרות עתידיים של התוכנה.
+\n  לתוכנה עשויים להתלוות תוכנות אחרות של ASUS או תוכנות שיוצרו על ידי צד שלישי שיש להן רישיון שימוש שכפוף לכללי תוכנה חופשית בקוד פתוח כמפורט באתר www.opensource.org/licenses. תוכנה מעין זו הכפופה לתנאי רישיון תוכנה חופשית וקוד פתוח מסופקת לך בלבדית בכפוף לתנאים של הרישיון המתאים או של הודעות זכויות היוצרים הנלוות אליה או של רישיון תוכנה חופשית וקוד פתוח (FOSS) שנלווה לתוכנה. התנאים של הסכם רישיון משתמש קצה (EULA) זה, לא יחולו על תוכנה חופשית בקוד פתוח מסוג זה.
+\n\n2. רישיון  בכפוף לתנאי הסכם רישיון משתמש קצה זה, ASUS מעניקה בזאת רישיון אישי, לא-מסחרי ולא בלעדי להשתמש בתוכנה בלבדית כשהיא משובצת במוצרי ASUS. אתה רשאי להעתיק עותק אחד של התוכנה בצורה קריאה על ידי מחשב למטרות גיבוי בלבד; ובלבד שעותק הגיבוי יכלול גם את כל ההודעות על זכויות יוצרים או הודעות אחרות שנכללות במקור. אין להעניק רישוי משני של רישיון זה ואין הוא ניתן להעברה להוציא לאדם או ישות שלהם אתה מעביר בשלמות את הבעלות על מוצרי ASUS שבהם נכללת התוכנה, ובלבד שתעביר לתמיד את כל זכויותיך על פי הסכם רישיון משתמש קצה (EULA) זה ולא תשמור בידיך עותקים מלאים או חלקיים של התוכנה, ושהמקבל מסכים לתנאי רישיון EULA זה.
+\n\n3.הגבלות הנדוס לאחור נאסר עליך לבצע הנדוס לאחור, הידור לאחור או היפוך איסוף של התוכנה או להרשות או לגרום ביצוע של אחת הפעולות האלו בהיקף שחקיקה ישירה ישימה מונעת אכיפה של האיסור שלעיל.
+\n\n4.סודיות חלה עליך החובה להגן ולא לחשוף או לגרום לחשיפה של מידע סודי, מלא או חלקי על התוכנה, לרבות, אך ללא הגבלה, סודות מסחריים וחומרי זכויות יוצרים בכל צורה לצד שלישי כלשהו.
+\n\n5. זכויות קניין רוחני (זכויות קנייניות)  אתה מאשר ומסכים שכל הזכויות הקנייניות, בעלות ועניין בתוכנה או שעולים ממנה הן, וכך גם יישארו, קניינה הבלעדי של ASUS או מי שהעניק לה את הרישיון. אין בהסכם רישיון משתמש קצה זה כוונה כלשהי להעביר אליך משהו מאותן זכויות קנייניות. כל שימוש בלתי מורשה באותן זכויות קנייניות מהווה הפרה של הסכם הרישיון למשתמש קצה (EULA) וכן הפרה של חוקי הקניין הרוחני, לרבות אך ללא הגבלה חוקי זכויות יוצרים וחוקי סימנים מסחריים.
+\nבמשלוח של מידע, חומרים, רעיונות, מושגים או טכניקות, להוציא מידע אישי, אל ASUS באמצעות כלי המשוב (Feedbacks) של התוכנה, אתה מאשר ומסכים: (1) המשוב שלך לא כולל מידע סודי או מידע קנייני; (2) לא תחול על ASUS חובת סודיות מסוג כלשהו, מפורשת או לא, בנוגע למשוב; (3) ASUS תהיה רשאית להשתמש במשוב או לגלות אותו, על פי שיקול דעתה הבלעדי לכל מטרה, בכל דרך, בכל העולם; (4) המשוב שלחת יהיה לרכושה של ASUS ללא כל מחויבות של ASUS כלפיך; וכן, (5) אינך זכאי לתגמול או החזר כספי כלשהו מ-ASUS.
+\n\n6. תקופת ההסכם וסיומו הסכם רישיון משתמש קצה (EULA) זה יהיה תקף למן התאריך שבו התקנת את התוכנה. באפשרותך לסיים את ההסכם בכל עת עלידי כך שתפסיק להשתמש בתוכנה ותסיר אותה ממוצר ASUS. זכויותיך יבוטלו על ידי ASUS ללא הודעה מוקדמת, אם נחשוב שאינך מציית לתנאי הסכם רישיון משתמש קצה זה.
+\n\n7.מיאון אחריות והגבלת חבות  אתה מאשר שידוע לך שהתוכנה נמסרת &amp;quot;כמו שהיא&amp;quot;. הסיכון המלא הנגזר מאיכות התוכנה ומביצועיה חל עליך, לרבות, אך ללא הגבלה, עלויות קשורות של כל השירותים הנחוצים ושל תיקונים. במידה המותרת על פי חוק, ASUS לא נוטלת על עצמה כל אחריות, מכללא או מפורשת, בכל הנוגע לתוכנה זו או למידע או תיעוד אחרים שסופקו בכפוף להסכם רישיון משתמש קצה זה עבור תוכנה זו, לרבות אך ללא הגבלה, אחריות כלשהי לסחירות או להתאמה למטרה מוגדרת או להגנה מפני חדירה או הסגת גבול, או  אחריות כלשהי הנובעת משימוש או ממהלך הביצוע. כמו כן, ASUS לא מקבלת על עצמה שום אחריות לתוצאות שייתכן ויושגו משימוש בתוכנה זו או לדיוק או לאמינות של מידע כלשהו שהושג באמצעות התוכנה. בתחומי שיפוט מסוימים אין היתר להחרגה של סוגי אחריות מסוימים או להגבלה או החרגה של חבות בגין נזקים מסוימים. בהתאמה, ייתכן שלא יחולו עליך כמה מבין תנאי המיאון והגבלות האחריות.
+\n  הסיכון המלא העולה מהשימוש בתוכנה ו/או מביצועיה נותר עליך. בשום מקרה לא תחול על ASUS, על מי שנתנו לה רישיונות או מי מבין הפקידים, המנהלים, העובדים, הסוכנים או החברות המסונפות שלהם, בהתאמה, חבות בגין נזקים תוצאתיים, תאונתיים, ישירים, עקיפים, מיוחדים, עונשיים או אחרים כלשהם (לרבות, אך ללא הגבלה, נזקים בגין אובדן רווחים, הפרעות, אובדן מידע, או הפסד כספי אחר) העולים מתוך או קשורים להסכם רישיון משתמש קצה (EULA) זה או מהשימוש או מחוסר היכולת להשתמש בתוכנה או בחלק ממנה, גם אם נמסרה ל-ASUS הודעה על האפשרות של נזקים כאלה. בתחומי שיפוט מסוימים אין היתר להחרגה של סוגי אחריות מסוימים או להגבלה או החרגה של חבות בגין נזקים מסוימים. בהתאמה, ייתכן שלא יחולו עליך כמה מבין תנאי המיאון והגבלות האחריות.
+\n\n8.שיפוי אתה מסכים להגן, לשפות ולמנוע נזק מ-ASUS ומהחברות המסונפות שלה, מספקי השירות, הגופים המאוגדים, המפיצים, מעניקי הרישיונות, פקידים מנהלים ועובדים, מפני הפסדים, נזקים, חבויות, כלשהם או כולם, העולים מתוך תביעה כלשהי או דרישה (לרבות שכר טרחה סביר של עו&amp;quot;ד ואגרות בית דין), עקב או בהקשר הפרה שלך את תנאי הסכם הרישיון למשתמש קצה (EULA) או כל חוק או תקנה ישימים אחרים, או זכויות של צד שלישי.
+    </string>
+    <string name="eula_content_title">"הסכם רישיון משתמש קצה"</string>
+    <string description="Do not translate ASUS" maxwidth="" name="eula_description">חוזה משפטי בין יישומי ASUS ומשתמשי הקצה</string>
+    <string maxwidth="" name="eula_title">"הסכם רישיון משתמש קצה"</string>
+    <string name="example">"דוגמה:"</string>
+    <string description="Dialog Button: extract file for dialog" maxwidth="-1" name="extract">חלץ</string>
+    <string name="facebook_app_invite">"אנשי קשר מ-Facebook"</string>
+    <string name="fb_request_error_permissions">"ליישום אין הרשאה לשם כך. נסה להיכנס שוב ליישום."</string>
+    <string name="fileList_Nofiles">אין קבצים</string>
+    <string description="Dialog Title: File information dialog title" maxwidth="-1" name="file_info_dialog_title">פרטי קובץ</string>
+    <string description="Application Name shown on title" maxwidth="" name="file_manager">"מנהל קבצים"</string>
+    <string description="string indicating camera flash is not used" maxwidth="-1" name="flash_off">ללא פלאש</string>
+    <string description="string indicating camera flash is fired" maxwidth="-1" name="flash_on">צילום עם פלאש</string>
+    <string description="click to retrieve password" maxwidth="-1" name="forget_password">"<u>שכחת את הסיסמה?</u>"</string>
+    <string name="fragment_analyzer_allfiles_used_hint">"בשימוש:"</string>
+    <string name="fragment_analyzer_chart_free_hint">"פנוי:"</string>
+    <string name="fragment_analyzer_chart_total_hint">"סך הכל:"</string>
+    <string name="fragment_analyzer_chart_used_hint">"בשימוש"</string>
+    <string name="fragment_analyzer_more_hint">"עוד"</string>
+    <string name="google_app_invite">"אנשי קשר מ-Google"</string>
+    <string name="group_title_installed">"מותקן"</string>
+    <string name="group_title_not_installed">"לא מותקן"</string>
+    <string name="group_title_others">"אחרים"</string>
+    <string name="group_title_recommended">"מומלץ"</string>
+    <string name="hidden_zone_change_password">"שינוי הסיסמה"</string>
+    <string name="hidden_zone_confirm_password">"אשרו את קוד ה-PIN"</string>
+    <string name="hidden_zone_enter_password">"הזן את קוד ה-PIN שלך"</string>
+    <string name="hidden_zone_fingerprint_to_unlock">"טביעת אצבע לשחרור הנעילה"</string>
+    <string name="hidden_zone_forget_password">"שכח את הסיסמה"</string>
+    <string name="hidden_zone_introduction_description">"הסתירו את קוד ה-PIN שלכם בארון מסתור. לפתיחת ארון מסתור יש צורך בקוד ה-PIN."</string>
+    <string name="hidden_zone_password_mismatch">"קוד ה-PIN שלכם אינו תואם"</string>
+    <string name="hidden_zone_set_password_success">"הסיסמה הוגדרה בהצלחה"</string>
+    <string name="hidden_zone_setup_account">"הגדרת החשבון"</string>
+    <string name="hidden_zone_setup_password">"יש להזין קוד PIN בן ארבע ספרות"</string>
+    <string name="hidden_zone_wrong_password">"קוד PIN שגוי"</string>
+    <string description="Can’t connect to HomeCloud." maxwidth="-1" name="homecloud_access_error">החיבור ל-HomeCloud נכשל. ודא שהשירות HomeCloud פעיל.</string>
+    <string name="homecloud_notice_1">ASUS HomeCloud היא תוכנת שרת שפועלת במערכת ההפעלה של Windows. התוכנה מעוצבת כספרייה של תוכן ביתי דיגיטלי ומספקת שירותי אחסון בענן ושידור מולטימדיה ברשת. בעתיד ייתכנו שירותים נוספים.</string>
+    <string name="homecloud_notice_2">ניתן להוריד את התוכנה וליהנות ממנה כעת. </string>
+    <string name="homecloud_notice_3">http://home.asuscloud.com/</string>
+    <string name="homecloud_toast_udp_unsupported">הרשת מוגבלת, פנה למנהל הרשת או עבור לרשת אחרת.</string>
+    <string msgid="2546819039651509323" name="hour">"שעה אחת"</string>
+    <string msgid="2071487018566991613" name="hours">"<ns1:g id="HOURS">%s</ns1:g> שעות"</string>
+    <string maxwidth="" name="httpserver_acquire_permission_message">"שרת הקבצים HTTP ייסגר וייתכן שהפעולות יופסקו. האם להמשיך?"</string>
+    <string maxwidth="" name="httpserver_connectwifiname">"נקודת הגישה ל-Wi-Fi שמחוברת:"</string>
+    <string maxwidth="" name="httpserver_description">"פתח את השירות כדי לחבר בין המכשיר הנייד למחשב."</string>
+    <string maxwidth="" name="httpserver_instruction">"הקלד את הכתובת הזו בדפדפן שבמחשב:"</string>
+    <string maxwidth="" name="httpserver_need_saf">"אם תרצה לנהל את זיכרון האחסון החיצוני מהמחשב, עליך להעניק את הרשאת הגישה המתאימה."</string>
+    <string maxwidth="" name="httpserver_no_network">"חבר את המכשיר לאותה רשת Wi-Fi"</string>
+    <string maxwidth="" name="httpserver_no_permission_message">"לא תוכל לכתוב לזיכרון האחסון החיצוני ללא הרשאת הגישה המתאימה. האם להמשיך?"</string>
+    <string maxwidth="" name="httpserver_no_permission_title">"התחל בהעברת קבצים אלחוטית"</string>
+    <string maxwidth="" name="httpserver_start">"התחל"</string>
+    <string maxwidth="" name="httpserver_stop">"עצור"</string>
+    <string maxwidth="" name="httpserver_title">"העברת קבצים אלחוטית למחשב"</string>
+    <string description="Context Menu: options of context menu" maxwidth="-1" name="info">פרטים</string>
+    <string description="file info textview context" maxwidth="-1" name="info_aperture">"צמצם: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_datetime">"תאריך הצילום"</string>
+    <string description="file info textview context" maxwidth="-1" name="info_exposure_time">"זמן חשיפה: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_file_num">"מספר קבצים: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_flash">"פלאש: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_focal_length">"רוחק מוקד: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_image_height">"גובה: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_image_width">"רוחב"</string>
+    <string description="file info textview context" maxwidth="-1" name="info_image_x">" x "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_iso">"ISO:"</string>
+    <string description="file info textview context" maxwidth="-1" name="info_location">"מיקום: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_maker">"יוצר: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_model">"דגם: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_modified">"תאריך שינוי: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_name">"שם: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_orientation">"כיוון: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_path">"נתיב: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_permission">"הרשאה: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_type">סוג:</string>
+    <string description="file info textview context" maxwidth="-1" name="info_white_balance">"איזון לבן: "</string>
+    <string description="Do not translate ASUS" maxwidth="" name="inspire_asus_description">אוסף נתוני משתמש ל-ASUS כדי לשפר את המוצרים ואת חוויית המשתמש</string>
+    <string name="inspire_asus_title">"הענק ל-ASUS השראה"</string>
+    <string name="install">"התקן"</string>
+    <string description="storage label" maxwidth="-1" name="internal_storage_title">אמצעי אחסון פנימי</string>
+    <string description="Toast: the account is invalid" maxwidth="-1" name="invalid_account">"חשבון לא חוקי"</string>
+    <string description="Invalid directory path" maxwidth="-1" name="invalid_directory_path">נתיב תיקייה לא חוקי</string>
+    <string name="invalid_server_id">"מזהה השרת לא חוקי"</string>
+    <string name="invalid_xml">"קובץ xml לא חוקי"</string>
+    <string name="inviteContentTitle">"%1$s מזמין אותך להוריד ולהתקין את מנהל הקבצים של ASUS."</string>
+    <string name="inviteContent_p1">"מנהל הקבצים של ASUS הוא הדרך האידיאלית לניהול הקבצים בעזרת הטלפון החכם. זוהי אפליקציה לניהול קבצים שעוזרת למיין ולסדר את הקבצים השונים ששמורים בזיכרון של הטלפון, בכרטיס microSD, ברשת מקומית ואפילו בענן."</string>
+    <string name="inviteContent_p2">"נהל את הקבצים ביעילות ובקלות עם מנהל הקבצים של ASUS! מנהל הקבצים של ASUS עוזרת לך לנהל את כל הקבצים השונים ששמורים בזיכרון של המכשיר, בכרטיס microSD, ברשת מקומית ואפילו בחשבונות האחסון שלך בענן, כגון השירות שלנו ASUS HomeCloud ו-Webstorage או שירותי ענן אחרים כגון Dropbox, ‏Google Drive או Microsoft OneDrive."</string>
+    <string name="inviteContent_p3">"נהניתי להשתמש ב-מנהל הקבצים של ASUS. נסה אותה כעת! D:"</string>
+    <string description="sticker detail page button name" maxwidth="-1" name="invite_friends">"הזמן חברים"</string>
+    <string name="item">פריט</string>
+    <string name="items">פריטים</string>
+    <string name="keep">"שמור"</string>
+    <string name="kk_sd_permission_warning">בשל מגבלה מצד Android, ‏Android 4.4 לא מאפשר ליישומי צד שלישי לשנות כרטיסי זיכרון חיצוניים.</string>
+    <string name="large_files_content_hint">"מחפש קבצים גדולים למחיקה באישורך."</string>
+    <string description="linked file is missing" maxwidth="-1" name="linked_file_missing">"הקובץ המקושר חסר"</string>
+    <string description="text for progress bar" maxwidth="-1" name="loading">"טוען..."</string>
+    <string name="local">מקומיים</string>
+    <string description="button text for sort file by date" maxwidth="-1" name="location">"מיקום"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="logging_cloud_storage">מתחבר...</string>
+    <string name="login_account_miss">"היישום Facebook לא הצליח לרשום מנהל‏ חשבון Android. נסה לצאת באמצעות היישום Facebook ולאחר מכן היכנס שוב."</string>
+    <string name="login_again_later">"השרת אינו זמין כעת. נסה שוב מאוחר יותר."</string>
+    <string description="dialog title, key in the asus ID and PW to Login account" maxwidth="-1" name="login_asus_id">"כניסה לחשבון ASUS"</string>
+    <string description="Toast: login account fail" name="login_fail" width="-1">ההתחברות נכשלה</string>
+    <string description="login account name" maxwidth="-1" name="login_id">"שם החשבון/מזהה WebStorage"</string>
+    <string description="logout account" name="logout_account" width="-1">יציאה</string>
+    <string name="low_storage_tutorial_description">הקש והחזק כדי לבחור את הקבצים, ולאחר מכן בחר באפשרות "העבר אל" Google Drive</string>
+    <string name="low_storage_tutorial_title">העברת קבצים ל-Google Drive</string>
+    <string name="m_permission_dialog_message">"הקישו על [הגדרות] כדי להפעיל את ההרשאה של  [%2$s] ב[פרטי האפליקציה] ו-[הרשאות], ולאחר מכן אתחלו את  %1$s."</string>
+    <string name="m_permission_dialog_positive_button">"הגדרות"</string>
+    <string name="m_permission_setting_subtitle_files">"%1$s זקוקה להרשאה מ-%2$s לצורך קבלת גישה לקבצים שלכם במכשיר."</string>
+    <string name="m_permission_setting_title_cloud_storage">"לא ניתן לגשת לאחסון בענן"</string>
+    <string name="m_permission_setting_title_files">"לא ניתן לגשת לקבצים"</string>
+    <string name="m_permission_setting_turn_on">"הפעלה"</string>
+    <string description="string indicating how camera shooting feature is used" maxwidth="-1" name="manual">ידנית</string>
+    <string name="market_app_error">"אירעה שגיאה באפליקציית השוק שמותקנת במכשיר שלך!"</string>
+    <string description="ask user to enter email address as account name" maxwidth="-1" name="member_id_hint">"הזן כתובת דוא"ל"</string>
+    <string description="The title of a menu for General Preferences.Pressing the menu item lets user to view and edit his general settings" maxwidth="30" name="menu_general_preferences">"הגדרות כלליות"</string>
+    <string description="settings menu tutorial" maxwidth="-1" name="menu_tutorial">הדרכה</string>
+    <string msgid="2486157997434653710" name="minute">"דקה אחת"</string>
+    <string msgid="6115838729146292526" name="minutes">"<ns1:g id="MINUTES">%s</ns1:g> דקות"</string>
+    <string description="Hint: move the items" maxwidth="-1" name="move">העבר</string>
+    <string name="move_or_delete_msg">"האם למחוק כעת את הפריטים ולהעביר אותם לסל המחזור?\n((סמן את התיבה שלמטה כד לבצע מחיקה סופית.)"</string>
+    <string name="move_to">העבר אל</string>
+    <string description="Toast: move to recycle bin fails" maxwidth="-1" name="move_to_hidden_zone_fail">"ההעברה לארון מסתור נכשלה"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="move_to_hidden_zone_progress">"מעביר לארון מסתור..."</string>
+    <string description="Toast: move to recycle bin success" maxwidth="-1" name="move_to_hidden_zone_success_more">"הקבצים שנבחרו הועברו לארון מסתור."</string>
+    <string description="Toast: move to recycle bin success. %s is variable string." maxwidth="-1" name="move_to_hidden_zone_success_one">"\"%s\" הועבר לארון מסתור."</string>
+    <string description="Toast: move to recycle bin fails" maxwidth="-1" name="move_to_trash_fail">"ההעברה לסל המחזור נכשלה"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="move_to_trash_progress">"מעביר לסל המחזור..."</string>
+    <string description="Toast: move to recycle bin success" maxwidth="-1" name="move_to_trash_success_more">"הקבצים שנבחרו הועברו לסל המחזור"</string>
+    <string description="Toast: move to recycle bin success. %s is variable string." maxwidth="-1" name="move_to_trash_success_one">"\"%s\" הועבר לסל המחזור"</string>
+    <string name="msg_too_big_to_recycle">"הפריטים גדולים מדי לשחזור.\nהאם למחוק אותם סופית?"</string>
+    <string name="multi_drm_file_forbidden_operation">הפעולה אסורה כיוון שחלק מהקבצים מוגנים בזכויות יוצרים על ידי DRM.</string>
+    <string description="shortcut label" maxwidth="-1" name="my_camera_title">מצלמה</string>
+    <string description="shortcut label" maxwidth="-1" name="my_download_title">הורד</string>
+    <string description="shortcut label" maxwidth="-1" name="my_music_title">מוסיקה</string>
+    <string description="shortcut label" maxwidth="-1" name="my_picture_title">תמונה</string>
+    <string description="storage label" maxwidth="-1" name="my_storage_title">אמצעי האחסון שלי</string>
+    <string description="button text for sort file by name" maxwidth="-1" name="name">שם</string>
+    <string description="button text for sort file by name ascending" maxwidth="-1" name="name_ascending">שם (z-a)</string>
+    <string description="button text for sort file by name descending" maxwidth="-1" name="name_descending">שם (a-z)</string>
+    <string name="network_cta_hint">"אנא אשרו כדי להתחבר לרשת"</string>
+    <string name="network_invalid">"החיבור לרשת לא חוקי"</string>
+    <string name="network_invalid_info">"החיבור אינו חוקי. בדוק אותו שוב."</string>
+    <string name="network_not_available">"החיבור לרשת נכשל"</string>
+    <string description="Can’t connect to networkpalce" maxwidth="-1" name="networkplace_access_error">"החיבור נכשל. ודא שהשרת מחובר."</string>
+    <string name="networkplace_storage_title">"מקום הרשת"</string>
+    <string description="Dialog Title: create new folder" maxwidth="" name="new_folder_dialog">צור תיקייה חדשה</string>
+    <string description="Toast: new folder fails" maxwidth="-1" name="new_folder_fail">יצירת תיקיה חדשה נכשלה.</string>
+    <string description="Toast: new folder success. %s is variable string." maxwidth="-1" name="new_folder_success">תיקית \"%s\" נוצרה.</string>
+    <string maxwidth="" name="news_1"><b>התאמה אישית של לוח הבית</b>: כעת ניתן להתאים אישית את לוח הבית עם קטגוריות שונות וסדר אישי.</string>
+    <string maxwidth="" name="news_2"><b>בחירת מועדפים</b>: הוספת תיקיית מועדפים ישירות מהקטגוריה המועדפת.</string>
+    <string maxwidth="" name="news_3"><b>יישומון לניהול הקבצים</b>: יצירת תיקיית קיצור דרך במסך ההפעלה.</string>
+    <string maxwidth="" name="news_mark1">"★  "</string>
+    <string maxwidth="" name="news_subtitle">"הנה העדכונים המרכזיים שלא כדאי לפספס."</string>
+    <string maxwidth="" name="news_title">"מה חדש"</string>
+    <string maxwidth="" name="news_v21"><b>העברת קבצים אלחוטית בין המכשיר למחשב</b>: העברה/ניהול קבצים בין המכשיר למחשב</string>
+    <string maxwidth="" name="news_v23">"שיפור הביצועים ותיקון באגים"</string>
+    <string maxwidth="" name="news_v31">"מנתח האחסון מאפשר לך לדעת את סוגי הקבצים שממלאים את שטח האחסון"</string>
+    <string maxwidth="" name="news_v32">"קטגוריית יישומונים חדשה ומשופרת"</string>
+    <string name="news_v41">"הסתירו את הקבצים הפרטיים שלכם בארון נסתר."</string>
+    <string name="news_v42">"שחזור קבצים שנמחקו מסל המחזור"</string>
+    <string name="news_v43">"הסרת קבצים כפולים ממנתח האחסון"</string>
+    <string name="news_v44">"תכונת תצוגה חדשה - מצב אפלה"</string>
+    <string name="news_v45">"ביצועים משופרים"</string>
+    <string name="news_v46">"באגים שתוקנו"</string>
+    <string name="newversion_description">"קיימת גרסה עדכנית ל-מנהל הקבצים של . האם תרצה לעדכן כעת?"</string>
+    <string name="newversion_title">"גרסה חדשה"</string>
+    <string name="next">הבא</string>
+    <string description="Dialog Button: no for dialog" maxwidth="" name="no">לא</string>
+    <string name="no_device">"אין מכשיר"</string>
+    <string name="no_items">"אין פריטים"</string>
+    <string name="no_network">"אין חיבור לרשת"</string>
+    <string description="The description to inform users when there is no internet access" maxwidth="-1" name="no_network_connection_message">"בדוק את החיבור ונסה שוב"</string>
+    <string name="no_network_info">"כדי לגשת לאפליקציה הזו צריך חיבור לאינטרנט. הפעל את הרשת הסלולרית או את WiFi בהגדרות."</string>
+    <string name="no_password">"הזן את הסיסמה שלך"</string>
+    <string name="no_right">"לחשבון שלך אין זכויות כניסה."</string>
+    <string name="no_share_folder">לא שותפו קבצים עם מכשיר זה</string>
+    <string description="Toast: No space to copy file and left on device" maxwidth="-1" name="no_space_fail">אין די שטח אחסון</string>
+    <string name="no_user_exist">"שם המשתמש לא קיים"</string>
+    <string name="no_username">"הזן ראשית את שם המשתמש."</string>
+    <string name="notification_gdrive_redeem_content">"קבל זאת כעת מ-Google Drive. "</string>
+    <string name="notification_gdrive_redeem_title">"שטח אחסון של 100GB בחינם!"</string>
+    <string name="occur_error_do_relogin">"התחבר שוב אל s%"</string>
+    <string description="Dialog Button: ok for dialog" maxwidth="" name="ok">אישור</string>
+    <string name="onedrive_account_only_one_alert">"ניתן להוסיף רק OneDrive אחד עבור חשבון ASUS. עליך למחוק את החשבון הנוכחי שלך לפני שתחליף אותו בחדש."</string>
+    <string name="open">פתח</string>
+    <string description="Toast: open file fails" maxwidth="-1" name="open_fail">פתיחת קובץ נכשלה</string>
+    <string maxwidth="" name="open_source_license_description">הודעות בנוגע לרישיונות עבור תוכנה בקוד פתוח</string>
+    <string maxwidth="" name="open_source_license_title">"רישיונות קוד פתוח"</string>
+    <string name="othersforum_site_url">http://www.asus.com/Terms_of_Use_Notice_Privacy_Policy/OthersForum_Site/</string>
+    <string name="password">סיסמה</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="paste">הדבק</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="paste_exist_apply">החל על כולם</string>
+    <string description="Dialog Title: paste exist dialog title" maxwidth="" name="paste_exist_dialog">אותו שם קובץ</string>
+    <string description="Dialog Content: text in dialog. %s is variable string." maxwidth="" name="paste_exist_file">הקובץ \"%s\" כבר קיים.</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="paste_exist_replace">האם ברצונך להחליף בחדש?</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="paste_exist_to">אל</string>
+    <string description="Toast: paste fails" maxwidth="-1" name="paste_fail">הדבקת קבצים נכשלה.</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="paste_progress">מדביק...</string>
+    <string name="paste_progress_title">משימת העתקה אחרת פועלת..</string>
+    <string description="Toast: paste success. %s is variable string." maxwidth="-1" name="paste_success">הקבצים הוספו אל \"%s\".</string>
+    <string name="permanently_delete">"מחיקה סופית"</string>
+    <string description="Toast: operation permission deny" maxwidth="-1" name="permission_deny">הרשאה נדחתה</string>
+    <string name="permission_dialog_title">"הרשאות לאפליקציה"</string>
+    <string name="permission_essential">"האפליקציה זקוקה להרשאות מסוימות. עבור להגדרות והענק את ההרשאות!"</string>
+    <string name="permission_reason_contact">"מנהל הקבצים של זקוקה להרשאת גישה לפרטי החשבון שלך כדי להתחבר לשירות האחסון בענן."</string>
+    <string name="permission_reason_storage">"מנהל הקבצים של זקוקה להרשאת גישה לזיכרון האחסון של המכשיר כדי לפעול"</string>
+    <string description="Toast: You may not select more than %s photos." maxwidth="-1" name="photo_selection_limit_number_toast">בחר את המספר המרבי של תמונות %s</string>
+    <string description="This is the title of the screen for setting user preferences." maxwidth="-1" name="preferences_title">"הגדרות"</string>
+    <string name="previous_folder">"התיקייה הקודמת"</string>
+    <string maxwidth="" name="privacy_policy">מדיניות הפרטיות</string>
+    <string name="privacy_policy_url">http://www.asus.com/us/Terms_of_Use_Notice_Privacy_Policy/Privacy_Policy/</string>
+    <string name="processing_picture">"מעבד תמונה"</string>
+    <string name="processing_video">"מעבד סרטון"</string>
+    <string name="progressactivity_title">Transmission Manager</string>
+    <string name="promote_darkmode_message">"שנה את העדפותיך בדך %s"</string>
+    <string name="promote_darkmode_title">"תכונת תצוגה חדשה - מצב אפלה"</string>
+    <string name="promotion_notification_content">"אתה חייב לנסות את \"העברת הקבצים האלחוטית\"!"</string>
+    <string name="promotion_notification_title">"עדיין משתמש בכבל USB כדי להעביר קבצים?"</string>
+    <string name="publish">"פרסום"</string>
+    <string name="pullfreshlistview_footer_hint_normal">טען עוד</string>
+    <string name="pullfreshlistview_footer_hint_ready">שחרר כדי לטעון עוד</string>
+    <string name="pullfreshlistview_header_hint_loading">מרענן...</string>
+    <string name="pullfreshlistview_header_hint_normal">משוך למטה</string>
+    <string name="pullfreshlistview_header_hint_ready">שחרר כדי לרענן</string>
+    <string name="pullfreshlistview_header_last_time">שעת רענון אחרון:</string>
+    <string name="rate_later">"מאוחר יותר"</string>
+    <string name="rate_now">"דרג כעת"</string>
+    <string description="rate us" maxwidth="-1" name="rate_us">דרג אותנו</string>
+    <string name="rating_dialog_message_v3_1">"נהנה מהשימוש ב-%s? דרג אותנו ב-Google Play כדי לעודד את המוטיבציה שלנו!"</string>
+    <string name="rating_dialog_message_v3_2">"כדי לשלוח הצעות ומשוב, תוכל לכתוב אלינו לכתובת %s."</string>
+    <string name="recent_files_content_hint">"מחפש קבצים אחרונים למחיקה באישורך."</string>
+    <string description="shortcut title: recently used files" name="recently_used" width="-1">לאחרונה</string>
+    <string name="recommend_clean_master_msg">"האפליקציה האמינה בעולם לשיפור מכשיר ה-Android, האצת המהירות, חיסכון בצריכת הסוללה והגנה מפני וירוסים. \nהאם להוריד כעת?"</string>
+    <string name="recommend_clean_master_title">"המלצה לאפליקציה"</string>
+    <string name="recommend_scan_qr_code">"המלץ לחברים להוריד את האפליקציה\nעל ידי סריקה של קוד ה-QR."</string>
+    <string description="recruit beta user" maxwidth="-1" name="recruit_beta_user">קבל גרסת תצוגה מקדימה</string>
+    <string name="recycle_bin_content_hint">"מכיל את כל הקבצים והספריות שנמחקו."</string>
+    <string description="dialog title, key in the asus ID and PW to Login account" maxwidth="-1" name="regist_asus_id">"צור חשבון ASUS"</string>
+    <string description="ask user to enter email address to registe New Account" name="registe_id">שם החשבון</string>
+    <string description="ask user to enter new password" name="registe_password">הזן 8-25 תווים</string>
+    <string description="sign up registe action" name="registe_sign_up">הרשמה</string>
+    <string description="network is unavailable, please try again" maxwidth="-1" name="remote_connected_error_hint">הרשת אינה זמינה, נסה שוב</string>
+    <string description="remote storage label" maxwidth="-1" name="remote_storage_title">אחסון מרחוק</string>
+    <string name="remove_favorite">הסר מהמועדפים</string>
+    <string name="remove_favorite_notice_more">האם אתה בטוח שברצונך להסיר %d פריטים מתיקיית המועדפים?</string>
+    <string name="remove_favorite_notice_one">האם אתה בטוח שברצונך להסיר את \"%s\" מתיקיית המועדפים?</string>
+    <string name="remove_favorite_success">ההסרה הצליחה</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="rename">שנה שם</string>
+    <string description="Dialog Title: rename dialog title" maxwidth="" name="rename_dialog">שנה שם</string>
+    <string description="Toast: rename fails" maxwidth="-1" name="rename_fail">שינוי שם נכשל.</string>
+    <string name="rename_favorite_folder">שנה שם של תיקיית המועדפים</string>
+    <string name="rename_favorite_notice">קיימת כבר תיקייה עם אותו שם בתיקיית המועדפים, האם ברצונך לשנות את השם?</string>
+    <string name="rename_favorite_success">שנה שם ושמור במועדפים</string>
+    <string description="Toast: rename success" maxwidth="-1" name="rename_success">שם הקובץ שונה בהצלחה.</string>
+    <string description="renaming file" name="renaming_file" width="-1">משנה שם</string>
+    <string name="replace">"החלף"</string>
+    <string description="Toast: restore fails" maxwidth="-1" name="restore_fail">"השחזור נכשל"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="restore_progress">"משחזר..."</string>
+    <string description="Toast: restore success" maxwidth="-1" name="restore_success_more">"הקבצים שנבחרו שוחזרו"</string>
+    <string description="Toast: restore success. %s is variable string." maxwidth="-1" name="restore_success_one">"\"%s\" שוחזר"</string>
+    <string name="retention_notification_large_file">"יש %1$s קבצים גדולים. הצג אותם כעת."</string>
+    <string name="retention_notification_recent_file">"הקבצים האחרונים שלך תופסים %1$s. הצג אותם כעת."</string>
+    <string name="saf_permission_tutorial_content">מנהל הקבצים של ASUS מבקש גישה להפעלת כרטיס ה-SD. האם ברצונך להעניק גישה?</string>
+    <string name="saf_permission_tutorial_content_v2">"כדי להעניק הרשאות גישה של %s עליך לבצע צעדים מוגדרים."</string>
+    <string name="saf_permission_tutorial_dialog">"עליך להעניק הרשאות גישה לכרטיס הזיכרון. האם ברצונך להמשיך?"</string>
+    <string name="saf_permission_tutorial_title">בקש גישה להפעלת כרטיס SD</string>
+    <string name="saf_tutorial_step_one">"הקש על סמל התפריט ולאחר מכן הקש על 'הצג כרטיס SD'."</string>
+    <string name="saf_tutorial_step_three">"הקש על 'בחר כרטיס SD' כדי להעניק גישה למנהל הקבצים של ASUS."</string>
+    <string name="saf_tutorial_step_three_v2">"הקש על בחר \"%s\" כדי להניק גישה למנהל הקבצים של ASUS."</string>
+    <string name="saf_tutorial_step_two">החלק את הקצה השמאלי של המסך כדי להציג את המגרה ולאחר מכן הקש על כרטיס ה-SD.</string>
+    <string name="saf_tutorial_step_two_v2">"החלק ימינה מצד שמאל של המרקע כדי להציג את המגרה והקש על %s."</string>
+    <string name="saf_tutorial_title">הרשאה להשתמש בכרטיס הזיכרון</string>
+    <string name="saf_tutorial_title_v2">"היתר לתפעל את %s"</string>
+    <string description="account config dialog remind message" maxwidth="-1" name="samba_client_config_check">זכור את שם המשתמש והסיסמה והתחבר ישירות בפעם הבאה</string>
+    <string name="samba_input_error">השדות שם משתמש או סיסמה אינם יכולים להיות ריקים!</string>
+    <string name="samba_login_error">שם המשתמש או הסיסמה שהוזנו לא נכונים.</string>
+    <string name="samba_storage_add_title">"מיקום ברשת"</string>
+    <string name="samba_storage_title">"SAMBA"</string>
+    <string name="scan_qr_code">"סרוק את קוד ה-QR"</string>
+    <string description="rate now" maxwidth="" name="scroll_up_toast">גלול כדי לדרג</string>
+    <string maxwidth="-1" name="sd_label">OneDrive ל-ASUS</string>
+    <string name="search_action">"חיפוש"</string>
+    <string description="search hint message" maxwidth="-1" name="search_hint">הזן את שם הקובץ</string>
+    <string description="cutstom action bar view title for search" maxwidth="-1" name="search_label">חפש קבצים</string>
+    <string description="search dialog message" maxwidth="-1" name="search_progress">מחפש...</string>
+    <string description=" text for search result" formatted="false" maxwidth="-1" name="search_result_title">מחפש ‏%s ב-%s:נמצאו קובצי ‏%d‏</string>
+    <string name="select_album">בחר אלבום</string>
+    <string description="Menu Option: select all checkbox" maxwidth="" name="select_all">בחר הכל</string>
+    <string description="Title: select the folder" maxwidth="-1" name="select_folder">בחר תיקייה</string>
+    <string name="select_folder_by_ok_button">"לחץ על %1$s כדי לבחור את התיקייה הזו"</string>
+    <string name="select_photo">בחר תמונה</string>
+    <string name="server">"שרת"</string>
+    <string name="server_error">"שגיאת שרת"</string>
+    <string name="server_hint">"172.0.0.1/ShareFolder"</string>
+    <string name="server_title">שרת</string>
+    <string maxwidth="-1" name="service_not_available_in_your_country">"פריט זה אינו זמין במדינתך."</string>
+    <string name="set_password_title">"צור קוד PIN"</string>
+    <string name="set_ring">"הגדרה כצלצול"</string>
+    <string name="setting_display_group">"הצג"</string>
+    <string name="setting_notification_group">"הודעות"</string>
+    <string name="setting_notification_large_files">"הודעת קובץ גדול"</string>
+    <string name="setting_notification_recent_files">"הודעת קבצים אחרונים"</string>
+    <string name="setting_notification_wireless_transfer">"הודעת העברה באלחוט"</string>
+    <string name="setting_view_group">"הצג הגדרות"</string>
+    <string name="setting_view_hide_files">"הסתר קובצי מערכת"</string>
+    <string name="settings">"הגדרות"</string>
+    <string description="This is the title of cache size" maxwidth="-1" name="settings_cache_size_title">"גודל המטמון"</string>
+    <string description="Remove all cache documents" maxwidth="-1" name="settings_clear_cache_info">"הסרת כל מסמכי המטמון"</string>
+    <string description="Clear the cache" maxwidth="-1" name="settings_clear_cache_title">"ניקוי המטמון"</string>
+    <string description="This is the title of clearing search history action for setting user preferences." maxwidth="-1" name="settings_clear_search_history">"ניקוי היסטוריית החיפוש"</string>
+    <string name="settings_darkmode_message">"החל מצב אפלה"</string>
+    <string name="settings_description">"תיקיות וקבצים מקומיים"</string>
+    <string description="This is the title of documents cache" maxwidth="-1" name="settings_documents_cache">"מטמון המסמכים"</string>
+    <string description="recommend text" maxwidth="" name="settings_encourage_us_detail">אם אתה נהנה מהשימוש ב %s, הענק לנו דירוג של חמישה כוכבים ב-Play Store. המשוב שלך יסייע לנו להמשיך בשיפור המוצר!</string>
+    <string description="This is the title of hiding system files action for setting user preferences." maxwidth="-1" name="settings_hide_system_files">"הסתרת קבצי מערכת"</string>
+    <string description="This is the title of moving to the trash can." maxwidth="-1" name="settings_moved_to_the_trash_can">"הועבר לפח האשפה""Moved to the Trash can"</string>
+    <string description="Remove account" maxwidth="-1" name="settings_remove_account">"הסרת חשבון"</string>
+    <string description="Set the cache size to %s" maxwidth="-1" name="settings_set_cache_size">"גודל המטמון הוגדל כ-\"%s\""</string>
+    <string description="This is the title of space used for setting user preferences." maxwidth="-1" name="settings_space_used">"השטח הנמצא בשימוש"</string>
+    <string description="This is the title of trash can information for setting user preferences." maxwidth="-1" name="settings_trash_can">"פח אשפה"</string>
+    <string description="This is the title of user name" maxwidth="-1" name="settings_user_name">"שם משתמש"</string>
+    <string name="setup">"הגדרה"</string>
+    <string name="setup_account_description">"יש להגדיר חשבון דוא"ל לצורך שחזור קוד ה-PIN שלך"</string>
+    <string name="setup_account_no_internet_connection">"אין חיבור לאינטרנט"</string>
+    <string name="setup_account_skip">"דלג"</string>
+    <string name="setup_account_title">"שחזור קוד PIN"</string>
+    <string name="setup_fingerprint_message">"האם לאפשר את השימוש בטביעת אצבע כדי לשחרר את הנעילה? ארון מסתור תומך באימות טביעת אצבע. כדי להתחיל, סרוק את טביעת האצבע שלך בהגדרות."</string>
+    <string name="setup_my_digital_code">"הגדר קוד PIN"</string>
+    <string name="share_more">"אחרים"</string>
+    <string name="share_with_friend">"שיתוף האפליקציה עם החברים"</string>
+    <string description="Context Menu: options of context menu: share folder via Wi-Fi Direct" maxwidth="" name="shared_folder">שתף באמצעות Wi-Fi Direct</string>
+    <string description="shortcit title" maxwidth="-1" name="short_cuts_title">קיצור דרך</string>
+    <string name="shortcut_hint">"הקש והחזק קטגוריה או תיקייה כדי ליצור קיצור דרך בתוכנת ההפעלה."</string>
+    <string description="check if user want to show password" name="show_passwd">הצג סיסמה</string>
+    <string description="show when sign in failed" maxwidth="-1" name="signin_failed">"הכניסה נכשלה"</string>
+    <string description="signout account" name="signout_account" width="-1">התנתק</string>
+    <string name="single_drm_file_forbidden_operation">הפעולה אסורה כיוון שהתוכן מוגן בזכויות יוצרים על ידי DRM.</string>
+    <string description="button text for sort file by size" maxwidth="-1" name="size">גודל</string>
+    <string description="button text for sort file by size ascending" maxwidth="-1" name="size_ascending">גודל (גדול-קטן)</string>
+    <string description="button text for sort file by size descending" maxwidth="-1" name="size_descending">גודל (קטן-גדול)</string>
+    <string name="ssl_err_msg_info">"לא ניתן לבצע חיבור מאובטח לשרת. האם ברצונך להמשיך?"</string>
+    <string name="ssl_err_msg_title">"שגיאת חיבור SSL"</string>
+    <string description="shortcut title: my favorite files" name="starred" width="-1">"מסומן בכוכב"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"‎999+‎"</string>
+    <string name="storage_type_cloud">שטח אחסון בענן</string>
+    <string name="storage_type_cloud_att">"אחסון ברשת"</string>
+    <string name="storage_type_local">שטח אחסון מקומי</string>
+    <string name="storage_type_shortcut">"קיצור דרך"</string>
+    <string name="storagetype_add_account">הוסף חשבון</string>
+    <string name="tap_to_exit">הקש שוב כדי לצאת</string>
+    <string name="target_directory_is_child_of_source">"לא ניתן להשלים את הפעולה מכיוון שתיקיית היעד היא היא חלק מתיקיית המקור."</string>
+    <string description="Toast: target file exists" maxwidth="-1" name="target_exist">קובץ יעד קיים.</string>
+    <string description="Toast: target folder exists. %s is variable string." maxwidth="-1" name="target_folder_exist">התיקייה: \"%s\" כבר קיימת.</string>
+    <string description="" maxwidth="" name="tell_friend">ספר לחבר</string>
+    <string maxwidth="" name="terms_of_service">הודעה בנוגע לתנאי שימוש</string>
+    <string maxwidth="" name="terms_of_service_url">http://www.asus.com/us/Terms_of_Use_Notice_Privacy_Policy/Official-Site/</string>
+    <string description="title" maxwidth="-1" name="title">"מידע משפטי:"</string>
+    <string name="toast_auto_lock_notify_message">"נעל ארון מסתור כאשר המכשיר נעול."</string>
+    <string description="Toast: The item(s) has been copied completely" maxwidth="-1" name="toast_drag_copied_items">הפריט/ים הועתק/ו בהצלחה.</string>
+    <string description="Toast: The item(s) has been moved completely" maxwidth="-1" name="toast_drag_moved_items">הפריט/ים הועבר/ו בהצלחה.</string>
+    <string description="Toast: Sorry, copy files complete but cut fail" maxwidth="-1" name="toast_warning_copy_comple_cut_fail">"מתנצלים, העתקת הקבצים הושלמה אך מחיקת הקבצים הישנים נכשלה".</string>
+    <string description="Toast: Sorry, copy folders has not been supported" maxwidth="-1" name="toast_warning_copy_folders">"מתנצלים, העתקת תיקיות אינה נתמכת"</string>
+    <string maxwidth="35" name="toolbar_item_title_encourage_us">עזור לנו</string>
+    <string name="tools_clean_master">"ניקוי זבל"</string>
+    <string name="tools_file_transfer">"העברת קבצים למחשב"</string>
+    <string name="tools_hidden_zone">"ארון מסתור"</string>
+    <string name="tools_recycle_bin">"סל המחזור"</string>
+    <string name="tools_storage_analyzer">"ניתוח אחסון"</string>
+    <string name="tools_tip_animation">"משוך למעלה לכלים!"</string>
+    <string name="tools_zenui_instant_update">"עדכון מיידי"</string>
+    <string description="shortcut title: trash can" name="trash_can" width="-1">"פח אשפה"</string>
+    <string maxwidth="-1" name="trash_info_deleted">"נתונים שנמחקו: "</string>
+    <string maxwidth="-1" name="trash_info_path">"נתיב מקורי: "</string>
+    <string description="label for trending searches" maxwidth="-1" name="trending_searches">"חיפושי מגמות"</string>
+    <string name="tutorial_analyzer_content">"מנתח הקבצים מספק מידע על הקבצים המאוחסנים בדיסק."</string>
+    <string name="tutorial_category_content">"מעולם לא היה חיפוש קבצים קל יותר מאשר באמצעות התצוגה לפי קטגוריה של מנהל הקבצים של ASUS."</string>
+    <string name="tutorial_category_title">"תצוגה לפי קטגוריה"</string>
+    <string name="tutorial_cloud_content">"גישה לקבצים בטלפון חכם, במחשב אישי ובאחסון בענן."</string>
+    <string name="tutorial_cloud_title">"אחסון בענן"</string>
+    <string name="tutorial_done">סיום</string>
+    <string name="tutorial_page_content_long_press">הקש והחזק כדי לבחור פריט ולאחר מכן הקש על הסמל \"תפריט\" כדי להציג אפשרויות לפעולות אחרות.</string>
+    <string name="tutorial_page_four_content">הגדר תיקייה שנעשה בה שימוש תכוף כתיקיית מועדפים כדי לגשת לתיקיות במהירות ובקלות.</string>
+    <string name="tutorial_page_four_title">מועדפים</string>
+    <string name="tutorial_page_one_content">מנהל הקבצים של ASUS מאפשר לך לנהל בקלות את הקבצים השמורים שלך בזיכרון הפנימי, החיצוני, ברשת המקומית או בענן.</string>
+    <string name="tutorial_page_one_title">מנהל הקבצים של ASUS</string>
+    <string name="tutorial_page_three_content">"החלק פריט ימינה כדי להציג את הפעולות כגון 'הוסף למועדפים', 'שנה שם', 'העבר אל' 'העתק אל' ואפשרויות נוספות לניהול קבצים."</string>
+    <string name="tutorial_page_three_title">החלק ימינה רשימת פעולות</string>
+    <string name="tutorial_page_title_long_press">הצג תפריט פעולות</string>
+    <string name="tutorial_page_two_content">קטגוריות קלות לשימוש שמאפשרות לך לגשת במהירות לקבצים בזיכרון המקומי.</string>
+    <string name="tutorial_page_two_title">דף הבית</string>
+    <string name="tutorial_skip">דלג</string>
+    <string description="button text for sort file by type" maxwidth="-1" name="type">סוג</string>
+    <string description="document type" maxwidth="-1" name="type_abu">"גיבוי אפליקציית Asus"</string>
+    <string description="document type" maxwidth="-1" name="type_apk">"אפליקציית אנדרויד"</string>
+    <string description="document type" maxwidth="-1" name="type_audio">"אודיו"</string>
+    <string description="document type" maxwidth="-1" name="type_book">"ספר אלקטרוני"</string>
+    <string name="type_dialog_audio">שמע</string>
+    <string name="type_dialog_image">תמונה</string>
+    <string name="type_dialog_text">טקסט</string>
+    <string name="type_dialog_title">פתח בתור</string>
+    <string name="type_dialog_video">סרטון</string>
+    <string description="document type" maxwidth="-1" name="type_directory">"ספרייה"</string>
+    <string description="document type" maxwidth="-1" name="type_document">"מסמך"</string>
+    <string description="document type" maxwidth="-1" name="type_file">"קובץ"</string>
+    <string description="document type" maxwidth="-1" name="type_image">"תמונה"</string>
+    <string description="document type" maxwidth="-1" name="type_playlist">"רשימת ניגון"</string>
+    <string description="document type" maxwidth="-1" name="type_rar">"RAR"</string>
+    <string description="document type" maxwidth="-1" name="type_video">"וידאו"</string>
+    <string description="document type" maxwidth="-1" name="type_zip">"Zip"</string>
+    <string name="ud_sdk_all_app_update">"כל היישומים משתמשים בגרסה עדכנית."</string>
+    <string name="ud_sdk_asus_app_slogan">יישומים שימושיים</string>
+    <string name="ud_sdk_downloads">הורדות</string>
+    <string name="ud_sdk_free_download">הורדה בחינם</string>
+    <string name="ud_sdk_important_remind_text">"חשוב"</string>
+    <string name="ud_sdk_install">התקן</string>
+    <string name="ud_sdk_more_zen_family">גלה עוד יישומי ZenUI</string>
+    <string name="ud_sdk_no_network_connection_content">לא ניתן לעדכן את הנתונים. בדוק את הגדרות הרשת שלך.</string>
+    <string name="ud_sdk_no_network_connection_title">אין חיבור לרשת</string>
+    <string name="ud_sdk_open">פתח</string>
+    <string name="ud_sdk_update">עדכן</string>
+    <string maxwidth="-1" name="ud_sdk_update_sdk">משפחת ZenUI</string>
+    <string maxwidth="-1" name="ud_sdk_update_sdk_asus">עדכון מיידי של ZenUI</string>
+    <string name="ud_sdk_wifi_settings">הגדרות Wi-Fi</string>
+    <string name="uf_sdk_already_give_5star">"העניק כבר דירוג של 5 כוכבים"</string>
+    <string description="%d is a number, don&apos;t translate" name="uf_sdk_article_read_count">"%d היבטים"</string>
+    <string name="uf_sdk_attachment_format_warning">"תסדיר קובץ שגוי. ניתן לצרף רק קובצי תמונה"</string>
+    <string name="uf_sdk_attachment_total_size">"סה"כ"</string>
+    <string name="uf_sdk_attachment_warning">"גודל הקובץ המצורף חורג מהמגבלה המותרת"</string>
+    <string maxwidth="-1" name="uf_sdk_cancel_btn_content">"ביטול"</string>
+    <string name="uf_sdk_choosertitle_sharevia">"שתף באמצעות"</string>
+    <string name="uf_sdk_connection_error_msg">"החיבור בוטל על ידי השרת. נסה שוב מאוחר יותר."</string>
+    <string name="uf_sdk_connection_error_title">"שגיאת חיבור"</string>
+    <string name="uf_sdk_discard">"השלך"</string>
+    <string name="uf_sdk_email_illigal">"כתובת דוא"ל כבר בשימוש"</string>
+    <string maxwidth="-1" name="uf_sdk_empty_notification">"ריק :)"</string>
+    <string name="uf_sdk_faq">"שאלות נפוצות"</string>
+    <string name="uf_sdk_feedback_and_help">"משוב ועזרה"</string>
+    <string name="uf_sdk_forum_description">"הצטרף לשיחה עם משתמשי ASUS כדי למצוא פתרונות ולשתפם"</string>
+    <string maxwidth="-1" name="uf_sdk_grant_permission_title">"הענקת הרשאה עבור"</string>
+    <string name="uf_sdk_help">"עזרה"</string>
+    <string name="uf_sdk_instant_answer_question">"האם שאלה נפוצה זו הועילה לך?"</string>
+    <string name="uf_sdk_like">"אהבתי"</string>
+    <string maxwidth="-1" name="uf_sdk_message">"התראות"</string>
+    <string name="uf_sdk_msg_bad_email_format">"כתובת הדוא"ל לא חוקית. נסה שוב."</string>
+    <string name="uf_sdk_msg_confirm_discard_topic">"הטיוטה שלך לא תישמר. האם ברצונך למחוק אותה בכל מקרה?"</string>
+    <string name="uf_sdk_msg_confirm_discard_topic_title">"למחוק את התגובה?"</string>
+    <string name="uf_sdk_msg_subscribe">"הודעת סטטוס של הנושא תישלח לך בדוא"ל."</string>
+    <string name="uf_sdk_msg_subscribe_success">"ההרשמה הצליחה"</string>
+    <string name="uf_sdk_msg_ticket_created">"המשוב שלך הועבר בהצלחה -ASUS"</string>
+    <string name="uf_sdk_msg_topic_created">"הפרסום הצליח"</string>
+    <string name="uf_sdk_msg_unsubscribe">"ביטול ההרשמה הצליח"</string>
+    <string name="uf_sdk_name_hint">"הזן שם"</string>
+    <string name="uf_sdk_name_illigal">"שם המשתמש כבר תפוס"</string>
+    <string name="uf_sdk_network_error">"אין חיבור אינטרנט, בדוק את הגדרות הרשת."</string>
+    <string description="zenui news" maxwidth="" name="uf_sdk_news">"חדשות"</string>
+    <string name="uf_sdk_no_network_connection_content">"לא ניתן לעדכן את הנתונים. בדוק את הגדרות הרשת."</string>
+    <string name="uf_sdk_no_network_connection_title">"אין חיבור לרשת"</string>
+    <string name="uf_sdk_nothing_found">"לא נמצא דבר"</string>
+    <string name="uf_sdk_notice">"הודעה"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category1">"הודעות"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category2">"מדריכים וטיפים"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category3">"מבצעים"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category4">"אירועים"</string>
+    <string name="uf_sdk_publish_an_topic">"פרסם נושא חדש"</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_rate_now">"דרג כעת"</string>
+    <string description="%s is AP name, don&apos;t translate" maxWidth="" name="uf_sdk_rate_us_detail">"אם אתה נהנה מהשימוש ב-%s, הענק לנו דירוג של 5 כוכבים ב-Play Store."</string>
+    <string maxWidth="" name="uf_sdk_rate_us_detail_new">"התמיכה שלך באמצעות דירוג של 5 כוכבים יעודד אותנו להמשיך בעבודה!"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_rating">"דירוג של 5 כוכבים"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title">"דרג אותנו!"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title_new">"עזור לנו!"</string>
+    <string description="Menu item for userFeedback sdk" maxwidth="-1" name="uf_sdk_report_bug">דווח על באג</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_scroll_up_toast">"גלול כדי לדרג"</string>
+    <string name="uf_sdk_search_hint">"חיפוש"</string>
+    <string name="uf_sdk_select_common_bug">"בחר באג נפוץ"</string>
+    <string name="uf_sdk_send_feedback">"שלח משוב"</string>
+    <string name="uf_sdk_send_feedback_help">"המשוב וכתובת הדוא"ל שלך יישלחו ל-ASUS. צוות השירות יפנה אליך בדוא"ל."</string>
+    <string maxwidth="-1" name="uf_sdk_setting_btn_content">"הגדרות"</string>
+    <string description="recommend title" maxwidth="" name="uf_sdk_settings_encourage_us_title">"עזור לנו"</string>
+    <string maxwidth="-1" name="uf_sdk_storage_permission_description">"פונקציונליות זו צריכה לקבל את הרשאת האחסון לצורך קבלת גישה לקובצי המולטימדיה.\n\nאם ברצונכם להפעיל את הפונקציונליות הזו, אנא הקישו על כפתור ההגדרות כדי לעבור לעמוד הההגדרות של , ולאחר מכן הגדירו את \"פרטי האפליקציה\" ואת ה\"הרשאות\" כדי להעניק את ההרשאה.\n"</string>
+    <string name="uf_sdk_submit_topic">"פרסם"</string>
+    <string name="uf_sdk_subscribe_dialog_title">"הירשם לנושא זה"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_answered">"נענתה"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_completed">"הושלמה"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_declined">"נדחתה"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_implemented">"יושמה"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_planned">"מתוכננת"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_under_review">"בבדיקה"</string>
+    <string name="uf_sdk_thanks_for_your_feedback">"תודה על המשוב!"</string>
+    <string description="%s is a application name, don&apos;t translate" name="uf_sdk_ticket_hint">"הזן משוב עבור %s"</string>
+    <string name="uf_sdk_title_topic">"נושא"</string>
+    <string name="uf_sdk_topic">"נושא"</string>
+    <string name="uf_sdk_topic_description_heading">"תיאור"</string>
+    <string name="uf_sdk_topic_description_hint">"תאר את הנושא באופן מפורט"</string>
+    <string name="uf_sdk_topic_filter">"נושאים"</string>
+    <string name="uf_sdk_topic_form_help">"כשאתה מפרסם נושא בפורום של משתמשים, משתמשים אחרים יוכלו להירשם ולהגיב עליו. כשצוות הפיתוח של ASUS מגיב לנושא, תקבל הודעה בדוא"ל."</string>
+    <string name="uf_sdk_topic_form_title">"פרסם נושא חדש"</string>
+    <string name="uf_sdk_topic_text_heading">"פורום"</string>
+    <string name="uf_sdk_topic_text_hint">"הקלד את כותרת הנושא"</string>
+    <string name="uf_sdk_topic_title">"שם"</string>
+    <string name="uf_sdk_translation_10117605">"בעיית תרגום"</string>
+    <string name="uf_sdk_translation_117562">"סוג משוב"</string>
+    <string name="uf_sdk_translation_2529543">"דיווח על תקלה"</string>
+    <string name="uf_sdk_translation_2529544">"אחרים"</string>
+    <string name="uf_sdk_translation_2530478">"הצעה"</string>
+    <string name="uf_sdk_unhelpful_article_message_question">"האם ברצונך לשלוח משוב לצוות הפיתוח של ASUS?"</string>
+    <string name="uf_sdk_user_forum">"פורום משתמשים"</string>
+    <string name="uf_sdk_warning">"אזהרה"</string>
+    <string name="uf_sdk_wifi_settings">"הגדרות Wi-Fi"</string>
+    <string name="uf_sdk_wlan_settings">"הגדרות WLAN"</string>
+    <string name="uf_sdk_write_your_feedback">"הזן משוב כאן"</string>
+    <string name="uf_sdk_your_draft_will_be_discarded">"הטיוטה תושלך."</string>
+    <string description="description for empty search result" maxwidth="-1" name="unable_to_find_artlcles">"לא נמצאו \u0022%s\u0022 מאמרים קשורים"</string>
+    <string description="string indicating the length units in milli-meters" maxwidth="-1" name="unit_mm">מ\"מ</string>
+    <string description="Context Menu: options of context menu: unshare folder" maxwidth="-1" name="unshared_folder">בטל שיתוף</string>
+    <string name="unsupported_area">"האזור הזה אינו נתמך"</string>
+    <string description="toast message: extract files fail" maxwidth="-1" name="unzip_fail">חילוץ הקבצים נכשל</string>
+    <string description="extract file dialog message" maxwidth="-1" name="unzip_progress_msg">מחלץ...</string>
+    <string description="toast message: extract files successly" maxwidth="-1" name="unzip_success">הקבצים חולצו בהצלחה</string>
+    <string name="update">"עדכן"</string>
+    <string name="update_fb_app">"גרסת האפליקציה של Facebook לנייד אינה מעודכנת.  התקן את הגרסה האחרונה מ-Google Play."</string>
+    <string name="upgrade_notification_content">הצגת קבצים לפי סוג ממסך הבית החדש שלנו.</string>
+    <string name="upgrade_notification_title">נסה את מנהל הקבצים של החדשה עוד היום!</string>
+    <string name="upload_complete">"העלאה הושלמה"</string>
+    <string name="upload_complete_dialog_message">"הסרטון הועלה בהצלחה."</string>
+    <string name="upload_complete_dialog_title">"הושלם"</string>
+    <string name="upload_fail">ההעלאה נכשלה!</string>
+    <string name="upload_failed">"ההעלאה נכשלה"</string>
+    <string name="upload_picture_toast">"התמונה שלך יועלה. בדוק את ההתקדמות בחלון ההודעות."</string>
+    <string name="upload_toast">"הסרטון שלך יועלה. בדוק את ההתקדמות בחלון ההודעות."</string>
+    <string name="uploading_picture">"מעלה תמונה"</string>
+    <string name="uploading_video">"מעלה את הסרטון..."</string>
+    <string name="user">שם המשתמש</string>
+    <string name="user_hint">מנהל מערכת</string>
+    <string name="uv_admin_response_format">"תגובת מנהל מערכת: %1$s"</string>
+    <string name="uv_all_articles">"כל המאמרים"</string>
+    <string name="uv_all_results_filter">"הכול"</string>
+    <string name="uv_android_sdk">Android SDK</string>
+    <string name="uv_article_browse_question">"האם המאמר עזר?"</string>
+    <string name="uv_article_instant_answer_question">"האם שאלה נפוצה זו הועילה לך?"</string>
+    <string name="uv_cancel">"בטל"</string>
+    <string name="uv_category">"קטגוריה"</string>
+    <string name="uv_close">"סגור"</string>
+    <string name="uv_comment_hint">"הזן הערה"</string>
+    <string name="uv_confirm">"אשר"</string>
+    <string name="uv_contact_continue_button">"אני עדיין רוצה לשלוח הודעה"</string>
+    <string name="uv_contact_hint">"הזן שאלה או משוב"</string>
+    <string name="uv_contact_us">"צור קשר"</string>
+    <string name="uv_display_name">"שם תצוגה"</string>
+    <string name="uv_email_address">"כתובת דוא"ל"</string>
+    <string name="uv_email_address_hint">"your@email.com (חובה)"</string>
+    <string name="uv_error">"שגיאה"</string>
+    <string name="uv_failed_signin_error">"כתובת דוא"ל או סיסמה שגויים"</string>
+    <string name="uv_forgot_password">"שכחתי סיסמה"</string>
+    <string name="uv_helpful_article_message_question">"האם אתה עדין רוצה לשלוח הודעה?"</string>
+    <string name="uv_i_want_this">"זה מה שאני רוצה!"</string>
+    <string name="uv_idea_description_heading">"תאר את הרעיון בפירוט רב יותר"</string>
+    <string name="uv_idea_description_hint">"(אופציונלי)"</string>
+    <string name="uv_idea_text_heading">"אני מציע לכם...."</string>
+    <string name="uv_loading">"טוען..."</string>
+    <string name="uv_matching_articles">"מאמר מתאים"</string>
+    <string name="uv_matching_articles_and_ideas">"מאמרים ורעיונות מתאימים"</string>
+    <string name="uv_menu_attach">"צרף"</string>
+    <string name="uv_menu_search">"חפש"</string>
+    <string name="uv_msg_bad_email_format">"הזן כתובת דוא"ל תקינה."</string>
+    <string name="uv_msg_comment_posted">"ההערה ששלחת נרשמה"</string>
+    <string name="uv_msg_confirm_discard_message">"בטוח? האם להשליך את ההודעה?"</string>
+    <string name="uv_msg_custom_fields_validation">"עליך למלא את כל שדות החובה."</string>
+    <string name="uv_msg_forgot_password">"נשלח מכתב דוא"ל בנוגע לסיסמה שנשכחה"</string>
+    <string name="uv_msg_idea_created">"הרעיון נוצר"</string>
+    <string name="uv_msg_ticket_created">"ההודעה נשלחה"</string>
+    <string name="uv_msg_user_identity_validation">"הזן כתובת דוא"ל"</string>
+    <string name="uv_name_hint">"עלום שם"</string>
+    <string name="uv_network_error">"התגלתה שגיאה בהתחברות ליישומון UserVoice"</string>
+    <string name="uv_nevermind">"שכח מזה"</string>
+    <string name="uv_new_comment">"הערה חדשה"</string>
+    <string name="uv_next">"הבא"</string>
+    <string name="uv_no">"לא"</string>
+    <string name="uv_none_of_these_help">"אף לא אחד עזר"</string>
+    <string name="uv_password">"סיסמה"</string>
+    <string name="uv_password_dialog_title">"הזן סיסמה"</string>
+    <string name="uv_portal_title">"עזרה"</string>
+    <string name="uv_post_a_comment">"פרסם הערה"</string>
+    <string name="uv_post_comment">"פרסם הערה"</string>
+    <string name="uv_posted_by_format">"פורסם על ידי %1$s בתאריך %2$s"</string>
+    <string name="uv_powered_by_uservoice">"מופעל על ידי UserVoice"</string>
+    <string name="uv_ranked">"מדורג %1$s"</string>
+    <string name="uv_remove_votes">"מחק הצבעות"</string>
+    <string name="uv_select_none">"(ללא)"</string>
+    <string name="uv_select_one">"בחר אחד"</string>
+    <string name="uv_send_message">"שלח הודעה"</string>
+    <string name="uv_signin_dialog_ok">"היכנס"</string>
+    <string name="uv_signin_dialog_title">"היכנס"</string>
+    <string name="uv_status_format">"מצב: %1$s"</string>
+    <string name="uv_submit_idea">"הגש רעיון"</string>
+    <string name="uv_subscribe">"הירשם כמנוי"</string>
+    <string name="uv_subscribe_dialog_title">"הירשם כמנוי לרעיון"</string>
+    <string name="uv_suggestion_instant_answer_question">"האם הרעיון עוזר?"</string>
+    <string name="uv_thanks">"תודה!"</string>
+    <string name="uv_unhelpful_article_message_question">"התרצה לשלוח אלינו הודעה?"</string>
+    <string name="uv_value">"ערך"</string>
+    <string name="uv_very_yes">"כן!"</string>
+    <string name="uv_yes">"כן"</string>
+    <string name="uv_your_email_address">"כתובת הדוא"ל שלך"</string>
+    <string name="uv_your_name">"שמך"</string>
+    <string description="version" maxwidth="-1" name="version">"גרסה"</string>
+    <string name="version_text">גרסה</string>
+    <string name="wait">"נא המתן…"</string>
+    <string name="warning_stophttpserver">"הקשר בין המכשיר הנייד למחשב יאבד. האם תרצה לעזוב?"</string>
+    <string name="whats_new_label">מה חדש</string>
+    <string description="message for request to connect Network" name="wifi_p2p_connection_msg" width="-1">עליך להתחבר לרשת כדי להשתמש בשירותי הענן.</string>
+    <string description="title for request to connect Network" name="wifi_p2p_connection_title" width="-1">התחבר לרשת</string>
+    <string description="message for request to turn on Wi-Fi" name="wifi_p2p_turn_on_wifi_msg" width="-1">הפעל את הקישורית Wi-Fi כדי להשתמש בשירותים Wi-Fi Direct. להפעיל את הקישורית Wi-Fi עכשיו?</string>
+    <string description="title for turn on WiFi dialog" name="wifi_p2p_turn_on_wifi_title" width="-1">הפעל את Wi-Fi</string>
+    <string description="search" maxwidth="-1" name="wifidirect_action_bar_scan">חיפוש</string>
+    <string description="Available devices" maxwidth="-1" name="wifidirect_available_devices">המכשירים הקיימים</string>
+    <string description="Do you want to connect to device" maxwidth="-1" name="wifidirect_connect_hint">האם ברצונך להתחבר עם</string>
+    <string description="Dialog title text: Invitation to connect" maxwidth="-1" name="wifidirect_connect_hint_title">הזמנה לחיבור</string>
+    <string description="Dialog title text: Wi-Fi Direct connecting" maxwidth="-1" name="wifidirect_connecting_hint_title">מתחבר אל Wi-Fi Direct...</string>
+    <string description="connectted" maxwidth="-1" name="wifidirect_connectted">מחובר</string>
+    <string description=">Do you want to disconnect" maxwidth="-1" name="wifidirect_disconnect_hint">האם ברצונך להתנתק מ-</string>
+    <string description="Disconnect Wi-Fi Direct" maxwidth="-1" name="wifidirect_disconnect_hint_title">התנתק מ- Wi-Fi Direct</string>
+    <string description="peer devices infomation" maxwidth="-1" name="wifidirect_peer_device_info">"כדי לקבל הזמנה ל- Wi-Fi Direct , ודא שהמכשיר המתחבר נשאר במסך \"מכשירי עמיתים\" במנהל הקבצים."</string>
+    <string description="peer devices title" maxwidth="-1" name="wifidirect_peer_device_title">מכשירי עמיתים</string>
+    <string description="searching" maxwidth="-1" name="wifidirect_scanning">מחפש...</string>
+    <string description="Search Wi-Fi Direct device" maxwidth="-1" name="wifidirect_storage_title">חפש התקן Wi-Fi Direct</string>
+    <string description="click to connect" maxwidth="-1" name="wifidirect_touch_to_connect">לחץ כדי להתחבר</string>
+    <string name="yandex_account_only_one_alert">"ניתן להוסיף רק חשבון Yandex אחד. עליך למחוק את החשבון הנוכחי שלך לפני שתחליף אותו בחדש."</string>
+    <string name="yes">כן</string>
+    <string name="zenui_update">"עדכון מידי של ZenUI"</string>
+    <string description="toast message: Compress files fail" maxwidth="-1" name="zip_fail">שגיאה בדחיסת קבצים</string>
+    <string description="compress dialog message" maxwidth="-1" name="zip_progress_msg">מתקדם...</string>
+    <string description="toast message: Compress files successly" maxwidth="-1" name="zip_success">דחיסת הקבצים הצליחה</string>
+</resources>

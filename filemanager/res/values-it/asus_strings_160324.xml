@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Sylvia Cheng, 2016/03/22, Setting page -->
+    <string name="action_settings" description="menu title for setting" maxwidth="-1">"Impostazioni"</string>
+    <string name="setting_view_group">"Visualizza imp"</string>
+    <string name="setting_view_hide_files">"Nasconti file syst"</string>
+    <string name="setting_notification_group">"Notifica"</string>
+    <string name="setting_notification_large_files">"Notifica file grande"</string>
+    <string name="setting_notification_recent_files">"Notifica file recenti"</string>
+    <string name="setting_notification_wireless_transfer">"Notificaa trasferim wireless"</string>
+    <string name="setting_display_group">"Display"</string>
+    <string name="tools_storage_analyzer">"Analisi archivio"</string>
+    <string name="tools_zenui_instant_update">"Aggiorn subito"</string>
+    <string name="category_others">"Altri"</string>
+    <string name="large_files_content_hint">"Trovare file grandi ed eliminarli con l'autorizzazione."</string>
+    <string name="recent_files_content_hint">"Trovare file recenti ed eliminarli con l'autorizzazione."</string>
+    <string name="fragment_analyzer_more_hint">"altro"</string>
+    <string name="fragment_analyzer_chart_total_hint">"Totale:"</string>
+    <string name="fragment_analyzer_chart_free_hint">"Libera:"</string>
+    <string name="fragment_analyzer_chart_used_hint">"USATO"</string>
+    <string name="fragment_analyzer_allfiles_used_hint">"Usato:"</string>
+    <string name="news_v31" maxwidth="">"L'Analisi archivio individua il tipo di file che occupano tutto lo spazio di archiviazione"</string>
+    <string name="news_v32" maxwidth="">"Categ app migliorate di recente"</string>
+</resources>

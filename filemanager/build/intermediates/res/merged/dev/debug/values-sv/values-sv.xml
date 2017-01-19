@@ -1,0 +1,1310 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="alarm_set">
+        <item msgid="6450913786084215050">"Alarmet ringer om mindre än 1 minut från och med nu."</item>
+        <item msgid="6002066367368421848">"Alarmet ringer om <ns1:g id="DAYS">%1$s</ns1:g> från och med nu."</item>
+        <item msgid="8824719306247973774">"Alarmet ringer om <ns1:g id="HOURS">%2$s</ns1:g> från och med nu."</item>
+        <item msgid="8182406852935468862">"Alarmet ringer om <ns1:g id="DAYS">%1$s</ns1:g> och <ns1:g id="HOURS">%2$s</ns1:g> från och med nu."</item>
+        <item msgid="2532279224777213194">"Alarmet ringer om <ns1:g id="MINUTES">%3$s</ns1:g> minuter från och med nu."</item>
+        <item msgid="5936557894247187717">"Alarmet ringer om <ns1:g id="DAYS">%1$s</ns1:g> och <ns1:g id="MINUTES">%3$s</ns1:g> från och med nu."</item>
+        <item msgid="9115697840826129603">"Alarmet ringer om <ns1:g id="HOURS">%2$s</ns1:g> och <ns1:g id="MINUTES">%3$s</ns1:g> från och med nu."</item>
+        <item msgid="2332583385137381060">"Alarmet ringer om <ns1:g id="DAYS">%1$s</ns1:g>, <ns1:g id="HOURS">%2$s</ns1:g> och <ns1:g id="MINUTES">%3$s</ns1:g> från och med nu."</item>
+    </string-array>
+    <string-array name="charset_array">
+        <item>"Latin-1 (ISO-8859-1)"</item>
+        <item>"Unicode (UTF-8)"</item>
+        <item>"Kinesisk (GBK)"</item>
+        <item>"Kinesisk (Big5)"</item>
+        <item>"Japansk (ISO-2022-JP)"</item>
+        <item>"Japansk (SHIFT_JIS)"</item>
+        <item>"Japansk (EUC-JP)"</item>
+        <item>"koreanska (EUC-KR)"</item>
+    </string-array>
+    <string-array name="country_names">
+        <item>Aruba</item>
+        <item>Afghanistan (جمهوری اسلامی افغانستان)</item>
+        <item>Angola (República de Angola)</item>
+        <item>Anguilla</item>
+        <item>Albanien (Shqipëri)</item>
+        <item>Andorra (Principat d\'Andorra)</item>
+        <item>Nederländska antillerna</item>
+        <item>Förenade arabemiraten (دولة الإمارات العربية المتحدة‎)</item>
+        <item>Argentina (República Argentina)</item>
+        <item>Armenien (Hayastan)</item>
+        <item>Amerikanska Samoa</item>
+        <item>Antarktis</item>
+        <item>Franska sydterritorierna</item>
+        <item>Antigua och Barbuda</item>
+        <item>Australien (Australia)</item>
+        <item>Österrike (Österreich)</item>
+        <item>Azerbaijan</item>
+        <item>Burundi</item>
+        <item>Belgien (België)</item>
+        <item>Benin</item>
+        <item>Burkina Faso</item>
+        <item>Bangladesh (বাংলাদেশ)</item>
+        <item>Bulgarien (България / Balgariya)</item>
+        <item>Bahrain (مملكة البحرين)</item>
+        <item>Bahamas</item>
+        <item>Bosnien/Herzegowina (Bosna i Hercegovina)</item>
+        <item>Vitryssland (Беларусь)</item>
+        <item>Belize</item>
+        <item>Bermuda</item>
+        <item>Bolivia</item>
+        <item>Brasilien</item>
+        <item>Barbados</item>
+        <item>Brunei Darussalam (بروني دارالسلام)</item>
+        <item>Bhutan</item>
+        <item>Bouvetön</item>
+        <item>Botswana (Lefatshe la Botswana)</item>
+        <item>Centralafrikanska republiken (République centrafricaine)</item>
+        <item>Kanada</item>
+        <item>Cocosöarna (Keeling)</item>
+        <item>Schweiz (Suisse)</item>
+        <item>Chile</item>
+        <item>Kina (中國)</item>
+        <item>Elfenbenskusten</item>
+        <item>Kamerun</item>
+        <item>Kongo</item>
+        <item>Cooköarna</item>
+        <item>Colombia</item>
+        <item>Komorerna</item>
+        <item>Cape Verde</item>
+        <item>Costa Rica</item>
+        <item>Cuba</item>
+        <item>Julön</item>
+        <item>Caymanöarna</item>
+        <item>Cypern (Euro)</item>
+        <item>Tjeckien (Česká republika)</item>
+        <item>Tyskland (Deutschland)</item>
+        <item>Djibouti</item>
+        <item>Dominica</item>
+        <item>Danmark (Danmark)</item>
+        <item>Dominikanska republiken</item>
+        <item>Algeriet</item>
+        <item>Ecuador</item>
+        <item>Egypten (مصر‎)</item>
+        <item>Eritrea</item>
+        <item>Västsahara</item>
+        <item>Spanien (España)</item>
+        <item>Estland (Eesti)</item>
+        <item>Etiopien</item>
+        <item>Finland (Suomi)</item>
+        <item>Fiji</item>
+        <item>Falklandsöarna</item>
+        <item>Frankrike (France)</item>
+        <item>Belgien (Belgique)</item>
+        <item>Faröarna</item>
+        <item>Mikronesien</item>
+        <item>Gabon</item>
+        <item>Storbritannien (United Kingdom)</item>
+        <item>Georgien (საქართველო)</item>
+        <item>Ghana</item>
+        <item>Gibraltar</item>
+        <item>Guinea</item>
+        <item>Guadeloupe</item>
+        <item>Gambia</item>
+        <item>Guinea-Bissau</item>
+        <item>Ekvatorialguinea</item>
+        <item>Grekland (Ελλάδα)</item>
+        <item>Grenada</item>
+        <item>Grönland</item>
+        <item>Guatemala</item>
+        <item>Franska Guiana</item>
+        <item>Guam</item>
+        <item>Guyana</item>
+        <item>Hong Kong (香港)</item>
+        <item>Heard- och McDonaldöarna</item>
+        <item>Honduras</item>
+        <item>Kroatien (Hrvatska)</item>
+        <item>Haiti</item>
+        <item>Ungern (Magyarország)</item>
+        <item>Indonesien</item>
+        <item>Indien (भारत गणराज्य )</item>
+        <item>Brittiska territoriet i Indiska oceanen</item>
+        <item>Irland (Ireland)</item>
+        <item>Iran (ایران)</item>
+        <item>Irak (العراق)</item>
+        <item>Island (Ísland)</item>
+        <item>Israel (מְדִינַת יִשְׂרָאֵל  /  دَوْلَةُ إِسْرَائِيلَ)</item>
+        <item>Italien (Italia)</item>
+        <item>Jamaica</item>
+        <item>Jordanien (L\'Ürdünn)</item>
+        <item>Japan (日本国)</item>
+        <item>Kazakstan</item>
+        <item>Kenya (Jamhuri ya Kenya)</item>
+        <item>Kirgizistan</item>
+        <item>Kambodja (कम्बोजदेश)</item>
+        <item>Kiribati</item>
+        <item>Saint Kitts och Nevis</item>
+        <item>Sydkorea (대한민국)</item>
+        <item>Kuwait (دولة الكويت)</item>
+        <item>Laos</item>
+        <item>Libanon (اَلْجُمْهُورِيَّة اَللُّبْنَانِيَّة)</item>
+        <item>Liberia</item>
+        <item>Libyen</item>
+        <item>Saint Lucia</item>
+        <item>Liechtenstein (Liechtenstein)</item>
+        <item>Sri Lanka (இலங்கை ஜனநாயக சமத்துவ)</item>
+        <item>Lesotho</item>
+        <item>Litauen (Lietuva)</item>
+        <item>Luxemburg (Lëtzebuerg)</item>
+        <item>Lettland (Latvija)</item>
+        <item>Macau</item>
+        <item>Marocko</item>
+        <item>Monaco (Monaco)</item>
+        <item>Moldova (Moldova)</item>
+        <item>Madagaskar</item>
+        <item>Maldiverna</item>
+        <item>Mexico</item>
+        <item>Marshallöarna</item>
+        <item>Makedonien</item>
+        <item>Mali</item>
+        <item>Malta (Malta)</item>
+        <item>Myanmar (Pyidaunzu Thanmăda Myăma Nainngandaw)</item>
+        <item>Mongoliet</item>
+        <item>Nordmarianerna</item>
+        <item>Mozambique</item>
+        <item>Mauritanien</item>
+        <item>Montserrat</item>
+        <item>Martinique (Martinique)</item>
+        <item>Mauritius (Republik Moris)</item>
+        <item>Malawi</item>
+        <item>Malaysia (Persekutuan Malaysia)</item>
+        <item>Mayotte</item>
+        <item>Namibia</item>
+        <item>Nya Kaledonien (Nouvelle-Calédonie)</item>
+        <item>Niger</item>
+        <item>Norfolköarna (Norfuk Ailen)</item>
+        <item>Nigeria (Republik Nijeriya)</item>
+        <item>Nicaragua</item>
+        <item>Niue</item>
+        <item>Nederländerna (Nederland)</item>
+        <item>Norge (Norge)</item>
+        <item>Nepal (सङ्घीय लोकतान्त्रिक गणतन्त्र नेपाल)</item>
+        <item>Nauru</item>
+        <item>Nya Zeeland (New Zealand)</item>
+        <item>Oman (لطنة عمان)</item>
+        <item>Pakistan (پاکِستان)</item>
+        <item>Panama</item>
+        <item>Pitcairnöarna</item>
+        <item>Peru</item>
+        <item>Filippinerna (Pilipinas)</item>
+        <item>Palau</item>
+        <item>Papua Nya Guinea</item>
+        <item>Polen (Polska)</item>
+        <item>Puerto Rico</item>
+        <item>Nordkorea</item>
+        <item>Portugal (Portugal)</item>
+        <item>Paraguay</item>
+        <item>Franska Polynesien</item>
+        <item>Qatar</item>
+        <item>Réunion</item>
+        <item>Rumänien (România)</item>
+        <item>Ryssland (Россия)</item>
+        <item>Rwanda</item>
+        <item>Saudiarabien (المملكة العربية السعودية)</item>
+        <item>Serbien och Montenegro</item>
+        <item>Sudan (جمهورية السودان)</item>
+        <item>Senegal</item>
+        <item>Singapore (Singapore)</item>
+        <item>Sydgeorgien och Sydsandwichöarna</item>
+        <item>Sankta Helena</item>
+        <item>Svalbard och Jan Mayen</item>
+        <item>Salomonöarna (Solomon Islands)</item>
+        <item>Sierra Leone</item>
+        <item>El Salvador</item>
+        <item>San Marino (San Marino)</item>
+        <item>Somalia</item>
+        <item>St. Pierre och Miquelon (St. Pierre and Miquelon)</item>
+        <item>Sao Tome och Principe</item>
+        <item>Surinam</item>
+        <item>Slovakien (Slovensko)</item>
+        <item>Slovenien (Slovenija)</item>
+        <item>Sverige</item>
+        <item>Swaziland (Swatini)</item>
+        <item>Seychellerna</item>
+        <item>Syrien (جمهورية العربية السورية)</item>
+        <item>Turks- och Caicosöarna</item>
+        <item>Tchad</item>
+        <item>Togo</item>
+        <item>Thailand (ราชอาณาจักรไทย)</item>
+        <item>Tadzjikistan</item>
+        <item>Tokelauöarna</item>
+        <item>Turkmenistan</item>
+        <item>Östtimor</item>
+        <item>Tonga</item>
+        <item>Trinidad och Tobago</item>
+        <item>Tunisien</item>
+        <item>Turkiet (Türkiye)</item>
+        <item>Tuvalu</item>
+        <item>TAIWAN (台灣)</item>
+        <item>Tanzania</item>
+        <item>Uganda (Jamhuri ya Uganda)</item>
+        <item>Ukraina (Україна)</item>
+        <item>Förenta staternas mindre öar i Oceanien och Västindien</item>
+        <item>Uruguay</item>
+        <item>USA</item>
+        <item>Uzbekistan</item>
+        <item>Vatikanstaten (Stato della Città del Vaticano)</item>
+        <item>Saint Vincent och Grenadinerna</item>
+        <item>Venezuela</item>
+        <item>Brittiska Jungfruöarna</item>
+        <item>Amerikanska Jungfruöarna</item>
+        <item>Vietnam (Việt Nam)</item>
+        <item>Vanuatu</item>
+        <item>Wallis- och Futunaöarna</item>
+        <item>Samoa</item>
+        <item>Yemen</item>
+        <item>Sydafrika (Republiek van Suid-Afrika)</item>
+        <item>Zaire</item>
+        <item>Zambia</item>
+        <item>Zimbabwe (Simudzai Mureza wedu WeZimbabwe)</item>
+    </string-array>
+    <plurals name="dialog_unzip_preview_size_text">
+        <item quantity="one">Totalt: %1$d fil, %2$s</item>
+        <item quantity="other">Totalt: %1$d filer, %2$s</item>
+    </plurals>
+    <plurals name="drag_items">
+        <item quantity="one">Dra objekt</item>
+        <item quantity="other">Dra objekt</item>
+    </plurals>
+    <plurals name="number_search_items">
+        <item quantity="one">"%d fil hittades"</item>
+        <item quantity="other">"%d filer hittades"</item>
+    </plurals>
+    <plurals name="number_selected_items">
+        <item quantity="one">%d objekt valt</item>
+        <item quantity="other">%d objekt valda</item>
+    </plurals>
+    <plurals name="uf_sdk_number_of_subscribers_format">
+        <item quantity="one">"%1$s gillar detta ämne"</item>
+        <item quantity="other">"%1$s gillar detta ämne"</item>
+    </plurals>
+    <plurals name="uf_sdk_topics">
+        <item quantity="one">"ämne"</item>
+        <item quantity="other">"ämnen"</item>
+    </plurals>
+    <plurals name="uv_comments">
+        <item quantity="one">"kommentar"</item>
+        <item quantity="other">"kommentarer"</item>
+    </plurals>
+    <plurals name="uv_number_of_subscribers_format">
+        <item quantity="one">"%1$s vill ha den här idén"</item>
+        <item quantity="other">"%1$s vill ha den här idén"</item>
+    </plurals>
+    <plurals name="uv_people">
+        <item quantity="one">"person"</item>
+        <item quantity="other">"människor"</item>
+    </plurals>
+    <plurals name="uv_subscribers">
+        <item quantity="one">"prenumerant"</item>
+        <item quantity="other">"prenumeranter"</item>
+    </plurals>
+    <string name="AsusWebstroage">AsusWebstorage</string>
+    <string name="AuCloud">AuCloud</string>
+    <string name="BaiDuPCS">BaiDuPCS</string>
+    <string name="Default">Standard</string>
+    <string name="Dropbox">Dropbox</string>
+    <string name="Google_Drive">Google Drive</string>
+    <string name="HomeCloud">HomeCloud</string>
+    <string name="OneDrive">OneDrive</string>
+    <string name="Yandex">Yandex</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Visa startsidan"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Navigera uppåt"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Fler alternativ"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Klart"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Visa alla"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Välj en app"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"AV"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"PÅ"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Sök …"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Ta bort frågan"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Sökfråga"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Sök"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Skicka fråga"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Röstsökning"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Dela med"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Dela med %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Komprimera"</string>
+    <string name="about">"Om"</string>
+    <string name="account_asus">ASUS</string>
+    <string maxwidth="-1" name="action">Logga in</string>
+    <string description="cutstom action bar view title for about" maxwidth="-1" name="action_about">Om</string>
+    <string description="action add files" maxwidth="-1" name="action_add">Lägg till</string>
+    <string description="cutstom action bar view title for add folder" maxwidth="-1" name="action_add_folder">Lägg till mapp</string>
+    <string description="View title of custom action bar, apply to multiple selected files" maxwidth="-1" name="action_apply_selected_file">Använd</string>
+    <string description="action cancel" maxwidth="-1" name="action_cancel">Avbryt</string>
+    <string maxwidth="-1" name="action_clean">"Rensa"</string>
+    <string maxwidth="-1" name="action_clean_all">"Rensa alla"</string>
+    <string description="cutstom action bar view title for clear search history" maxwidth="" name="action_clear_history">Rensa sökhistorik</string>
+    <string description="cutstom action bar view title for edit" maxwidth="" name="action_edit">"Ändra"</string>
+    <string maxwidth="" name="action_hidden_zone">"Flytta till dolt skåp"</string>
+    <string description="cutstom action bar view title for hinde system file" maxwidth="-1" name="action_hind_system_file">Dölj filsystem</string>
+    <string name="action_loading">"Laddar…"</string>
+    <string description="cutstom action bar view title for open with" maxwidth="" name="action_open_with">"Öppna med..."</string>
+    <string name="action_refresh_cloudfile">"Uppdatera"</string>
+    <string maxwidth="-1" name="action_restore">"Återställ"</string>
+    <string maxwidth="-1" name="action_restore_all">"Återställ alla"</string>
+    <string description="cutstom action bar view title for search" maxwidth="" name="action_search">Sök</string>
+    <string description="cutstom action bar view title for set as" maxwidth="" name="action_set_as">"Ange bild som"</string>
+    <string description="menu title for setting" maxwidth="-1" name="action_settings">"Inställningar"</string>
+    <string description="cutstom action bar view title for sharing" maxwidth="-1" name="action_share">"Dela"</string>
+    <string description="String for asking for the rule of sorting" maxwidth="-1" name="action_sort_by">Sortera efter</string>
+    <string description="cutstom action bar view title for zip" maxwidth="" name="action_zip">Komprimera</string>
+    <string description="Dialog title: Add cloud storage" maxwidth="-1" name="add_cloud_storage_dialog_title">Lägg till molnlagring</string>
+    <string name="add_favorite">Lägg till i Favoriter</string>
+    <string name="add_favorite_folder">"Lägg till favoritmapp"</string>
+    <string name="add_favorite_success">Spara i Favoriter</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="add_progress">Skapar...</string>
+    <string description="Don&apos;t remind me again" maxwidth="-1" name="alert_cb_msg">Påminn mig inte igen</string>
+    <string description="ASUS ZenUI Services is not support, need update ASUS ZenUI Services" maxwidth="-1" name="alert_msg_azs_update">%1$s kräver den senaste versionen av ASUS ZenUI-tjänster, installera den nu.</string>
+    <string description="Client app is not support, need update client app" maxwidth="-1" name="alert_msg_client_update">Ny version av %1$s finns tillgänglig, installera den nu.</string>
+    <string description="Client app version is compatible with ASUS ZenUI Services" maxwidth="-1" name="alert_msg_compatible">%1$s-versionen  är inte kompatibel med ASUS ZenUI Services.</string>
+    <string description="Client app version is match with ASUS ZenUI Services" maxwidth="-1" name="alert_msg_match">%1$s-versionen matchar ASUS ZenUI Services.</string>
+    <string description="ASUS ZenUI Services is not found on device" maxwidth="-1" name="alert_msg_not_found">ASUS ZenUI Services har inte installerats.\n\nVill du hämta och installera?</string>
+    <string description="Dialog title" maxwidth="-1" name="alert_title">OBS!</string>
+    <string description="Dialog title" maxwidth="-1" name="alert_title_update">Uppdatering rekommenderas</string>
+    <string name="app_cloudstorage_name">Molnlagring</string>
+    <string name="app_upload_complete">"%s av överföringen är klar."</string>
+    <string description="" name="article_one">Jag accepterar ASUS \"<u>Villkorsmeddelandet</u>\", ASUS \"<u>Sekretesspolicy</u>\", ASUS WebStorage \"<u>Villkorsmeddelande</u>\", ASUS WebStorage \"<u>Sekretesspolicy</u>\".</string>
+    <string description="" name="article_two">Håll mig uppdaterad genom eDMs om ASUS-nyheter, programuppdateringar och den senaste produkt- och serviceinformationen.</string>
+    <string description="Text for create asus account button." maxwidth="" name="asus_account_create_button">Skapa ny</string>
+    <string name="asus_account_integrate_dialog_content">Vill du integrera ASUS molnlagringstjänst med ditt ASUS-konto? \n\n Efter integrationen kan alla ASUS-tjänster användas från samma konto.</string>
+    <string name="asus_account_integrate_dialog_skip">Hoppa över</string>
+    <string name="asus_account_integrate_dialog_title">Integrera ASUS-tjänster</string>
+    <string name="asus_account_integrate_dialog_yes">Ja</string>
+    <string description="Text for asus account content 1st." maxwidth="" name="asus_account_msg_content_1">Personlig ASUS-supporttjänst och förlängd garanti för registrerade produkter.</string>
+    <string description="Text for asus account content 2nd." maxwidth="" name="asus_account_msg_content_2">5GB molnlagringsutrymme gratis.</string>
+    <string description="Text for asus account content 3rd." maxwidth="" name="asus_account_msg_content_3">Den senaste informationen om tillbehör och förbättrade produkter.</string>
+    <string description="Text for asus account content title." maxwidth="" name="asus_account_msg_title">Skapa ett ASUS-konto för att få:</string>
+    <string name="asus_account_only_one_alert">"Endast ett ASUS-konto får läggas till åt gången. Du måste radera ditt nuvarande konto innan du lägger till ett nytt."</string>
+    <string name="asus_account_prefc">"Inställningar"</string>
+    <string name="asus_account_prefc_advc">"Avancerade inställningar"</string>
+    <string name="asus_account_registe_country_error">Välj en landsregion!</string>
+    <string name="asus_account_registe_id_error">E-postfel</string>
+    <string name="asus_account_registe_policy_error">Du måste acceptera ASUS policy för att registrera ett ASUS-konto!</string>
+    <string name="asus_account_registe_pw_error_1">Lösenordet kan inte vara tomt!</string>
+    <string name="asus_account_registe_pw_error_2">Lösenordsbekräftelsen kan inte vara tom!</string>
+    <string name="asus_account_registe_pw_error_3">Lösenord och bekräftelse måste vara identiska!</string>
+    <string name="asus_account_registe_pw_error_4">"Lösenordet ska innehålla 8 till 25 tecken."</string>
+    <string name="asus_account_removeaccount_dialog_content">"Kontot har integrerats. Logga in igen med det nya kontot."</string>
+    <string name="asus_account_removeaccount_dialog_title">"ASUS-kontot har integrerats"</string>
+    <string name="asus_commonui_activity_chooser_view_see_all">"Visa alla"</string>
+    <string name="asus_commonui_activity_resolver_use_always">"Alltid"</string>
+    <string name="asus_commonui_activity_resolver_use_once">"Bara en gång"</string>
+    <string name="asus_commonui_activitychooserview_choose_application">"Välj en app"</string>
+    <string name="asus_commonui_activitychooserview_choose_application_error">
+        "Det gick inte att starta <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string name="asus_commonui_cancel_label">"Avbryt"</string>
+    <string name="asus_commonui_chooseActivity">"Välj en åtgärd"</string>
+    <string msgid="3968620852217927702" name="asus_commonui_day_picker_description">"Rutnät för månad"</string>
+    <string msgid="6908431551612331381" name="asus_commonui_deleted_key">"<ns1:g id="KEY">%1$s</ns1:g> har tagits bort"</string>
+    <string name="asus_commonui_done_label">"OK"</string>
+    <string msgid="7586639618712934060" name="asus_commonui_hour_picker_description">"Cirkelreglage för timmar"</string>
+    <string msgid="2674929164900463786" name="asus_commonui_item_is_selected">"<ns1:g id="ITEM">%1$s</ns1:g> har markerats"</string>
+    <string msgid="6024811202872705251" name="asus_commonui_minute_picker_description">"Cirkelreglage för minuter"</string>
+    <string name="asus_commonui_noApplications">"Inga appar kan utföra den här åtgärden."</string>
+    <string name="asus_commonui_no_url_handler">Det finns inga appar som kan hantera webbadressen</string>
+    <string name="asus_commonui_privacy_policy">Sekretesspolicy</string>
+    <string name="asus_commonui_privacy_policy_url">http://www.asus.com/SE/Terms_of_Use_Notice_Privacy_Policy/Privacy_Policy</string>
+    <string msgid="3973338219107019769" name="asus_commonui_select_day">"Välj månad och dag"</string>
+    <string msgid="7651068754188418859" name="asus_commonui_select_hours">"Välj timmar"</string>
+    <string msgid="8327182090226828481" name="asus_commonui_select_minutes">"Välj minuter"</string>
+    <string msgid="2603330600102539372" name="asus_commonui_select_year">"Välj år"</string>
+    <string name="asus_commonui_shareactionprovider_share_with">"Dela med"</string>
+    <string name="asus_commonui_shareactionprovider_share_with_application">
+        "Dela med <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string name="asus_commonui_terms_of_use_notice">Meddelande om användarvillkor</string>
+    <string name="asus_commonui_terms_of_use_notice_url">http://www.asus.com/SE/Terms_of_Use_Notice_Privacy_Policy/Official_Site/</string>
+    <string name="asus_commonui_whichApplication">"Slutför åtgärd genom att använda"</string>
+    <string name="asus_commonui_whichHomeApplication">"Välj en app på startskärmen"</string>
+    <string msgid="6963340404644587098" name="asus_commonui_year_picker_description">"Lista över år"</string>
+    <string name="asus_feedback_and_help">Feedback och Hjälp</string>
+    <string name="asus_registe_success_title">"ASUS-kontot har registrerats"</string>
+    <string name="asus_response_resultdata">"Detta konto har redan registrerats."</string>
+    <string name="asusaccount_app_name">ASUS-konto</string>
+    <string maxwidth="-1" name="attribution_notice">"Tillskrivet meddelande:"</string>
+    <string maxwidth="-1" name="attribution_notice_content">
+    "    \nDen här produkten innehåller de öppna källkoder som listas nedan:
+\n\nuservoice-android-sdk licensierad under Apache License Version 2.0. Licensen kan hämtas från http://www.apache.org/licenses/LICENSE-2.0.html .
+        \n\nangular-filemanager licensierad under MIT. Licensen kan hämtas från https://github.com/joni2back/angular-filemanager/blob/master/LICENSE .
+        \n\nprogressbar licensierad under MIT. Licensen kan hämtas från https://github.com/kimmobrunfeldt/progressbar.js/blob/master/LICENSE .
+        \n\ntoastr, Copyright (c) 2012-2015 John Papa, Tim Ferrell, Hans Fjällemark\nHärmed ges tillåtelse till alla personer att gratis hämta en kopia av den här mjukvaran (”Mjukvaran”) och att använda Mjukvaran utan begränsning, inklusive och utan förbehåll rätten att använda, kopiera, ändra, slå samman, publicera, distribuera, underlicensiera och/eller sälja kopior av Mjukvaran och tillåta personer till vilka Mjukvaran tillhandahålls att göra detsamma, förutsatt följande:
+        Ovanstående meddelande om upphovsrätt ska inkluderas i alla kopior av eller väsentliga delar av Mjukvaran. MJUKVARAN TILLHANDHÅLLS "I BEFINTLIGT SKICK", UTAN NÅGRA SOM HELST GARANTIER, UTTRYCKLIGA ELLER UNDERFÖRSTÅDDA, INKLUSIVE MEN INTE BEGRÄNSAT TILL SÄLJBARHET FÖR ETT VISST SYFTE OCH ICKE-INTRÅNG. UNDER INGA SOM HELST OMSTÄNDIGHETER SKA FÖRFATTARNA ELLER UPPHOVSRÄTTSINNEHAVARNA ÅLÄGGAS ANSVAR FÖR NÅGRA KRAV, SKADOR ELLER ANNAN FÖRPLIKTESLE, OAVSETT OM DET ÄR I KONTRAKT, KRAV PÅ GRUND AV OTILLÅTEN HANDLING ELLER PÅ ANNAT SÄTT HÄRRÖR FRÅN, PÅ GRUND AV ELLER I ANSLUTNING TILL MJUKVARAN ELLER ANVÄNDANDE ELLER ANNAN HANTERING AV MJUKVARAN."
+    </string>
+    <string name="aucloud_account_only_one_alert">"Endast ett au Cloud-konto får läggas till åt gången. Du måste radera ditt nuvarande konto innan du lägger till ett nytt."</string>
+    <string description="string indicating how camera shooting feature is used" maxwidth="-1" name="auto">Auto</string>
+    <string maxwidth="-1" name="aws_install_contnet">Ingen webblagring installerad, vill du hämta och installera från Play Store?</string>
+    <string maxwidth="" name="aws_install_title">Ingen webblagring installerad</string>
+    <string description="button text." maxwidth="-1" name="back_button_label">Tillbaka</string>
+    <string name="baidu_alert_info">"Baserat på Baidus lattform, kan enheten bara öppna datan under "My Application Data\\asus\\"."</string>
+    <string name="baidu_alert_title">"Baidu molnlagring"</string>
+    <string name="baidu_storage_title">"百度云"</string>
+    <string name="baidupcs_account_only_one_alert">"Endast en Baidu för ASUS-konto får läggas till åt gången. Du måste radera ditt nuvarande konto innan du lägger till ett nytt."</string>
+    <string name="btn_OK">OK</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="calculate_progress">"Bearbetas..."</string>
+    <string description="Toast: can not open in hidden zone" maxwidth="-1" name="can_not_open_in_hidden_zone">"Kan inte öppnas i dolt skåp"</string>
+    <string description="Dialog Button: cancel for dialog" maxwidth="" name="cancel">Avbryt</string>
+    <string name="cancle">Avbryt</string>
+    <string name="category_apk">Appar</string>
+    <string maxwidth="11" name="category_app1">"Appar"</string>
+    <string name="category_compress">"Komprimerade"</string>
+    <string maxwidth="11" name="category_compressed1">"Komprim."</string>
+    <string name="category_count">"%s"</string>
+    <string maxwidth="11" name="category_document1">"Dokument"</string>
+    <string name="category_documents">"Dokument"</string>
+    <string name="category_download">Hämta</string>
+    <string maxwidth="11" name="category_download1">"Hämtat"</string>
+    <string name="category_favorite">Favorit</string>
+    <string maxwidth="11" name="category_favorite1">"Favoriter"</string>
+    <string name="category_game">"Spel"</string>
+    <string name="category_image">Bild</string>
+    <string maxwidth="11" name="category_image1">"Bilder"</string>
+    <string maxwidth="11" name="category_large_file1">"Stora filer"</string>
+    <string name="category_music">Musik</string>
+    <string maxwidth="11" name="category_music1">"Musik"</string>
+    <string name="category_name_app_wallpaper">"Levande bakgrundsbilder"</string>
+    <string name="category_name_app_widgets">"Widgetar"</string>
+    <string name="category_name_books_and_reference">"Böcker och referensmaterial"</string>
+    <string name="category_name_business">"Företag"</string>
+    <string name="category_name_comics">"Serietidningar"</string>
+    <string name="category_name_communication">"Kommunikation"</string>
+    <string name="category_name_education">"Utbildning"</string>
+    <string name="category_name_entertainment">"Underhållning"</string>
+    <string name="category_name_finance">"Ekonomi"</string>
+    <string name="category_name_game">"Spel"</string>
+    <string name="category_name_game_action">"Action"</string>
+    <string name="category_name_game_adventure">"Äventyr"</string>
+    <string name="category_name_game_arcade">"Arkadspel"</string>
+    <string name="category_name_game_board">"Brädspel"</string>
+    <string name="category_name_game_card">"Kort"</string>
+    <string name="category_name_game_casino">"Kasino"</string>
+    <string name="category_name_game_casual">"Diverse"</string>
+    <string name="category_name_game_educational">"Utbildning"</string>
+    <string name="category_name_game_family">"Familj"</string>
+    <string name="category_name_game_music">"Musik"</string>
+    <string name="category_name_game_puzzle">"Tankenötter"</string>
+    <string name="category_name_game_racing">"Hastighetstävling"</string>
+    <string name="category_name_game_role_playing">"Rollspel"</string>
+    <string name="category_name_game_simulation">"Simulator"</string>
+    <string name="category_name_game_sports">"Sportspel"</string>
+    <string name="category_name_game_strategy">"Strategi"</string>
+    <string name="category_name_game_trivia">"Frågesport"</string>
+    <string name="category_name_game_word">"Ordspel"</string>
+    <string name="category_name_health_and_fitness">"Hälsa och fitness"</string>
+    <string name="category_name_libraries_and_demo">"Bibliotek och demo"</string>
+    <string name="category_name_lifestyle">"Livsstil"</string>
+    <string name="category_name_media_and_video">"Media och video"</string>
+    <string name="category_name_medical">"Sjukvård"</string>
+    <string name="category_name_music_and_audio">"Musik och ljud"</string>
+    <string name="category_name_news_and_magazines">"Nyheter och tidskrifter"</string>
+    <string name="category_name_personalization">"Anpassning"</string>
+    <string name="category_name_photography">"Fotografi"</string>
+    <string name="category_name_productivity">"Produktivitet"</string>
+    <string name="category_name_shopping">"Shopping"</string>
+    <string name="category_name_social">"Socialt"</string>
+    <string name="category_name_sports">"Sport"</string>
+    <string name="category_name_tools">"Verktyg"</string>
+    <string name="category_name_transportation">"Transportmedel"</string>
+    <string name="category_name_travel_and_local">"Resa och lokalt"</string>
+    <string name="category_name_weather">"Väder"</string>
+    <string name="category_others">"Övriga"</string>
+    <string maxwidth="11" name="category_recent1">"Senaste"</string>
+    <string name="category_recent_files">"Nyligen tillagd"</string>
+    <string name="category_sorting_summary">"Välj objekt som visas på kategoripanelen"</string>
+    <string name="category_title_category">Kategori</string>
+    <string name="category_title_local_storage">Lokal lagring</string>
+    <string name="category_title_tools">"Verktyg"</string>
+    <string name="category_toast_invalid_item_size_6_or_9">"Välj 6 eller 9 objekt"</string>
+    <string name="category_toast_invalid_item_size_9">"Välj 9 objekt"</string>
+    <string name="category_toast_invalid_remove">"Det går inte att ta bort detta objekt"</string>
+    <string name="category_toast_max_item_size">"Välj högst 9 objekt"</string>
+    <string name="category_video">Video</string>
+    <string maxwidth="11" name="category_video1">"Videor"</string>
+    <string name="clear_account_info">Glöm alla konton</string>
+    <string description="Menu Option: clear all checkbox" maxwidth="" name="clear_all">Rensa alla</string>
+    <string name="click_plus_to_add_favorite_folder">"Tryck på + för att lägga till en favoritmapp"</string>
+    <string description="Toast: The size is over the limit and cannot be uploaded" maxwidth="-1" name="cloud_download_flie_limit_space">Storleken är över gränsen och kan inte överföras</string>
+    <string description="Toast: The name of the file uploaded is not supported by cloud server" maxwidth="-1" name="cloud_flie_name_not_supported">"Åtgärden kunde inte slutföras eftersom filnamnet inte stöds av molnserver."</string>
+    <string description="home cloud get available devices fail" name="cloud_homebox_get_devices_fail">Det gick inte att söka efter tillgängliga HomeCloud-enheter</string>
+    <string description="home cloud has no available devices" name="cloud_homebox_no_available_devices">Inga tillgängliga HomeCloud-enheter</string>
+    <string description="home cloud device is sleep" name="cloud_homebox_status__info_Sleep">Vila</string>
+    <string description="home cloud device is offline" name="cloud_homebox_status__info_offline">Offline</string>
+    <string description="home cloud device is online" name="cloud_homebox_status__info_online">Online</string>
+    <string description="home cloud device is offline" name="cloud_homebox_status_offline">Enheten är  offline.</string>
+    <string description="diaglog cloud background paste" name="cloud_paste_backgroud">Bakgrund</string>
+    <string description="diaglog cloud  now is copy files" name="cloud_paste_copying">Kopierar...</string>
+    <string description="diaglog cloud  current" name="cloud_paste_current">Nuvarande</string>
+    <string description="diaglog cloud  now is delete source files" name="cloud_paste_deleting">radera källfiler...</string>
+    <string description="diaglog cloud  paste" name="cloud_paste_downloading">Hämtning av filer</string>
+    <string description="diaglog cloud  total" name="cloud_paste_total">Totalt</string>
+    <string description="diaglog cloud  paste uploading" name="cloud_paste_uploading">Överföring av filer</string>
+    <string description="Toast: cloud preview action" maxwidth="-1" name="cloud_preview_action_fail">Molnfilerna kunde inte förhandsgranskas.</string>
+    <string description="Toast: cloud share action" maxwidth="-1" name="cloud_share_action_fail">Molnfilerna kunde inte delas.</string>
+    <string description=">Do you want to remove" maxwidth="-1" name="cloud_storage_remove_hint">"Vill du logga ut kontot \"%s\"?"</string>
+    <string description="Dialog title: Remove cloud storage" maxwidth="-1" name="cloud_storage_remove_hint_title">Logga ut</string>
+    <string description=">Do you want to signin" maxwidth="-1" name="cloud_storage_sign_in">Anslut genom att använda följande konto:</string>
+    <string description="Dialog title: Signin cloud storage" maxwidth="-1" name="cloud_storage_sign_in_title">Anslut %s</string>
+    <string description=">Do you want to signout" maxwidth="-1" name="cloud_storage_sign_out">Vill du fortsätta att logga ut?</string>
+    <string description="Dialog title: Signout cloud storage" maxwidth="-1" name="cloud_storage_sign_out_title">Koppla från</string>
+    <string description="Add more cloud storage" maxwidth="-1" name="cloud_storage_title">Lägg till mer molnlagring</string>
+    <string description="diaglog cloud  token is invalidate" name="cloud_token_invalidate">Upphävd token, logga in igen!</string>
+    <string description="Toast: The size is over the limit and cannot be uploaded" maxwidth="-1" name="cloud_upload_flie_limit_space">Storleken är över gränsen och kan inte överföras</string>
+    <string name="com_facebook_image_download_unknown_error">Oväntat fel vid hämtning av en bild.</string>
+    <string name="com_facebook_internet_permission_error_message">Webbinloggning kräver internetbehörighet</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifest-fel</string>
+    <string name="com_facebook_like_button_liked">Gillade</string>
+    <string name="com_facebook_like_button_not_liked">Gilla</string>
+    <string name="com_facebook_loading">Laddar ...</string>
+    <string name="com_facebook_loginview_cancel_action">Avbryt</string>
+    <string name="com_facebook_loginview_log_in_button">Logga in</string>
+    <string name="com_facebook_loginview_log_in_button_long">Logga in med Facebook</string>
+    <string name="com_facebook_loginview_log_out_action">Logga ut</string>
+    <string name="com_facebook_loginview_log_out_button">Logga ut</string>
+    <string name="com_facebook_loginview_logged_in_as">Inloggad som: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Inloggad med Facebook</string>
+    <string name="com_facebook_send_button_text">Skicka</string>
+    <string name="com_facebook_share_button_text">Dela</string>
+    <string name="com_facebook_tooltip_default">Nyhet! Du bestämmer – välj vilken info du vill dela med appar.</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Aktivera"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> fungerar inte om du inte aktiverar Google Play-tjänster."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Aktivera Google Play-tjänster"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Installera"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> kan inte köras utan Google Play-tjänsterna, som saknas på enheten."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Hämta Google Play-tjänster"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Fel på Google Play-tjänster"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"Det har uppstått ett fel mellan <ns1:g id="APP_NAME">%1$s</ns1:g> och Google Play-tjänsterna. Försök igen."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> fungerar inte utan Google Play-tjänsterna, som inte stöds på enheten."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Uppdatera"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> kan inte köras om du inte uppdaterar Google Play-tjänsterna."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Uppdatera Google Play-tjänster"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> kan inte köras utan Google Play-tjänster, och dessa uppdateras för närvarande."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"En ny version av Google Play-tjänster krävs. Den uppdateras automatiskt inom kort."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Öppna på mobilen"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Logga in"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Logga in med Google"</string>
+    <string name="confirm">"Bekräfta"</string>
+    <string maxwidth="-1" name="confirm_ok">OK</string>
+    <string description="confirm password textview title" name="confirm_password">bekräfta lösenord</string>
+    <string description="ask user to enter password again to confirm" name="confirm_password_edit">Ange lösenordet igen</string>
+    <string description="content" maxwidth="-1" name="content">"Användandet av den här mjukvaran är föremål för regler och villkor på Asus hemsida: \nhttp://www.asus.com"</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="copy">Kopiera</string>
+    <string description="Toast: copy ready" maxwidth="-1" name="copy_ready_more">Den valda filen har kopierats och är klar att klistras in.</string>
+    <string description="Toast: copy ready. %s is variable string." maxwidth="-1" name="copy_ready_one">"\"%s\" har kopierats är klar att klistras in."</string>
+    <string name="copy_to">Kopiera till</string>
+    <string description="country region textview title" name="country_region">Landsregion</string>
+    <string description="ack user to select on country" name="country_region_select">Välj din region</string>
+    <string name="create_shortcut">"Skapa genväg"</string>
+    <string name="create_shortcut_dialog">"Skapa genväg i Start"</string>
+    <string name="create_shortcut_toast">"Genväg i Start har skapats"</string>
+    <string name="cta_agree">"Tillåt"</string>
+    <string name="cta_check_title">"Kom ihåg"</string>
+    <string name="cta_dialog_content"><b>Filhanterare</b> försöker använda nätverket, det kan innebära andra avgifter beroende på ditt abonnemang.</string>
+    <string name="cta_dialog_title">"Använder nätverk"</string>
+    <string name="cta_disagree">"Avvisa"</string>
+    <string name="cta_show_menu">"Nätverksbehörighet"</string>
+    <string name="current_folder">"Aktuell mapp"</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="cut">Klipp ut</string>
+    <string description="Toast: cut ready" maxwidth="-1" name="cut_ready_more">Den valda filen har kopierats och är klar att klistras in.</string>
+    <string description="Toast: cut ready. %s is variable string." maxwidth="-1" name="cut_ready_one">"\"%s\" har klippts ut och är klar att klistras in."</string>
+    <string description="button text for sort file by date" maxwidth="-1" name="date">Datum</string>
+    <string description="button text for sort file by date ascending" maxwidth="-1" name="date_ascending">Datum (äldsta-senaste)</string>
+    <string description="button text for sort file by date descending" maxwidth="-1" name="date_descending">Datum (senaste-äldsta)</string>
+    <string msgid="7984755014526510295" name="day">"1 dag"</string>
+    <string msgid="2070509222727852210" name="days">"<ns1:g id="DAYS">%s</ns1:g> dagar"</string>
+    <string maxwidth="-1" name="dbx_install_contnet">Ingen dropbox installerad, vill du hämta och installera från Play Store?</string>
+    <string maxwidth="" name="dbx_install_title">Ingen dropbox installerad</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="delete">Ta bort</string>
+    <string description="Dialog Title: delete dialog title" maxwidth="" name="delete_dialog">Filradering</string>
+    <string description="Toast: delete fails" maxwidth="-1" name="delete_fail">Radering av fil misslyckades.</string>
+    <string description="Dialog Content: text in dialog. %d is variable number." maxwidth="" name="delete_more_files">Vill du radera %d posterna?</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="delete_one_directory">Vill du radera arkivet?</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="delete_one_files">Vill du radera filen?</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="delete_progress">Raderar...</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="delete_size">"Storlek: "</string>
+    <string description="Toast: delete success" maxwidth="-1" name="delete_success_more">Den markerade filen har raderats.</string>
+    <string description="Toast: delete success. %s is variable string." maxwidth="-1" name="delete_success_one">\"%s\" har raderats.</string>
+    <string description="cutstom action bar view title for deselect all checkbox" maxwidth="" name="deselect_all">Avmarkera alla</string>
+    <string name="device_root_path">rot</string>
+    <string description="compress dialog title" maxwidth="-1" name="dialog_create_zip_title">Ange arkivnamn</string>
+    <string description="extract zip file dialog title. %s is a dynamic string. It is zip file name." maxwidth="-1" name="dialog_extract_zip_title">Extrahera %s till:</string>
+    <string name="dialog_load_stream_url_info">Hämtar nödvändig information från server</string>
+    <string name="dialog_msg_market_login_account">"Logga in på ditt Google-konto för att hämta appen"</string>
+    <string description="text encoding dialog title" maxwidth="-1" name="dialog_text_encoding_title">Textkodning</string>
+    <string name="dialog_title_market_login_account">"Lägg till konto"</string>
+    <string description="show zip info dialog title. %s is a dynamic string. Is is a zip file name" maxwidth="-1" name="dialog_unzip_preview_title">Extrahera %s</string>
+    <string description="Dialog Title: Directory information dialog title" maxwidth="-1" name="dir_info_dialog_title">Kataloginformation</string>
+    <string name="display">"Visa som"</string>
+    <string name="display_hint">"Min Dator, kan vara tom"</string>
+    <string name="dm_openfile">"Öppna fil"</string>
+    <string name="do_not_show_again">"Visa inte igen"</string>
+    <string name="domain">"Domän:"</string>
+    <string name="domain_hint">"Kan vara tom"</string>
+    <string name="download_fail">hämtning misslyckades!</string>
+    <string name="drag_items_one">Dra objekt</string>
+    <string name="drag_items_other">Dra objekt</string>
+    <string name="drawer_close">"Stäng navigationslåda"</string>
+    <string name="drawer_home">Start</string>
+    <string name="drawer_open">"Öppna navigationslåda"</string>
+    <string description="Hint: the operation is incorrect" maxwidth="-1" name="drop_incorrect_hint">Felaktig hantering</string>
+    <string description="Hint: the target folder which you want to do something" maxwidth="-1" name="drop_target_to">Mål till:</string>
+    <string name="dumdownloadfrom">Hämta från</string>
+    <string name="dumuploadto">Överför till</string>
+    <string name="duplicate_files">"Dubblettfiler"</string>
+    <string name="duplicate_files_content_hint">"Hitta dubblettfiler och radera dem med din tillåtelse."</string>
+    <string name="edit_toast_name_too_long">Maximalt antal tecken har uppnåtts</string>
+    <string name="edit_toast_special_char">Specialtecken kan inte inkluderas</string>
+    <string name="editcategory_hint">"Tryck på knappen Redigera för att anpassa Kategori-panelen."</string>
+    <string description="describe the empty folder" maxwidth="-1" name="empty_folder_title">"Inga filer"</string>
+    <string description="Dialog Button: click to open the encoding list dialog" maxwidth="-1" name="encode">Textkodning</string>
+    <string description="ask user to enter password" maxwidth="-1" name="enter_password">"Ange lösenord"</string>
+    <string name="eula_content_description">
+        \nLicensavtalet (”EULA”) utgör ett giltigt och bindande avtal mellan ASUSTeK Computer Inc. (”ASUS”) och er, i egenskap av användare, för användning av ASUS-programvara (”Programvaran”) definierat enligt nedanstående. Genom att installera och fortsätta att använda Programvaran BEKRÄFTAR NI UTTRYCKLIGEN ATT NI HAR LÄST OCH FÖRSTÅTT OCH SAMTYCKER TILL ATT VARA BUNDEN AV VILLKOREN I DETTA EULA och eventuella nya versioner härav 
+\n\n1.PROGRAMVARA innebär den ASUS-programvara som tillhandahålls tillsammans med tillämplig ASUS-produkt, inklusive men inte begränsat till eventuella framtida programmeringskorrigeringar, uppdateringar, uppgraderingar och modifierade versioner.
+\nProgramvaran kan åtföljas av andra programvaror framtagna av ASUS eller tredje part som licensierats, under en eller flera av de licenser för gratis öppen programvara, enligt www.opensource.org/licenses. Sådan gratis öppen programvara tillhandahålls er enbart enligt villkoren i respektive licensavtal eller meddelande om upphovsrätt som medföljer den eller finns i FOSS-licensfilen som medföljer Programvaran. Villkoren i detta EULA tillämpas INTE på sådan gratis öppen programvara.
+\n\n2.LICENS Enligt villkoren i detta EULA, ger ASUS er en begränsad, personlig, icke-kommersiell, icke-exklusiv licens att använda programvaran endast på det sätt som den är inbäddad i ASUS-produkterna. Ni får göra en kopia av programvaran i maskinläsbar form för säkerhetskopieringsändamål, förutsatt att säkerhetskopian även inkluderar alla meddelanden om upphovsrätt eller äganderätt i original. Den här licensen får inte underlicensieras, den går inte att överföra, förutom till en person eller enhet till vilken ni överför äganderätten för den fullständiga ASUS-produkten som innehåller programvaran. Om ni överför äganderätten måste ni permanent överföra alla rättigheter under detta EULA och får inte behålla hela eller partiella kopior av programvaran och mottagaren förbinder sig att godkänna villkoren i detta EULA.
+\n\n3.FÖRBUD MOT REVERSERING Ni får inte dekonstruera, dekompilera, dekryptera eller demontera Programvaran eller tillåta eller förmå någon att göra detta utom i den utsträckning tillämplig lag förbjuder verkställighet för det tidigare nämnda.
+\n\n4.SEKRETESS Ni har en skyldighet att skydda och att inte yppa eller orsaka att konfidentiell information i programvaran helt eller delvis lämnas ut i någon form till tredje part, inklusive men inte begränsat till affärshemligheter, upphovsrättsskyddat material.
+\n\n5.Immateriella RÄTTIGHETER (Intellectual Property Rights, förkortat ”IP”) Ni medger och samtycker till att alla IP-rättigheter, rätten till eller som härrör från programvaran är och skall förbli exklusivt ägandeskap hos ASUS eller dess licensgivare. Ingenting i detta EULA överför sådana IP-rättigheter till er. All obehörig användning av IP-rättigheter är ett brott mot detta EULA liksom ett brott mot immaterialrättsliga lagar, inklusive men inte begränsat till lagar om upphovsrätt och varumärken.
+\nGenom att skicka någon sorts information, material, idéer, koncept eller metoder, utom för syftet personlig information, till ASUS via Programvaran (”Återkoppling”) godkänner och samtycker ni till att: (i) Era Återkopplingar inte får innehålla konfidentiell eller äganderättsligt skyddad information; (ii) ASUS har inte skyldighet till någon form av konfidentialitet, uttryckliga eller underförstådda, avseende återkopplingarna, (iii) ASUS skall ha rätt att, efter ASUS eget gottfinnande, använda eller avslöja återkopplingar för alla ändamål, på alla sätt, över hela världen, (iv) Era återkopplingar blir ASUS egendom utan att innebära någon förpliktelse för ASUS; och (v) Ni är inte berättigad till någon kompensation eller ersättning av något slag.
+\n\n6.GILTIGHETSTID OCH UPPHÖRANDE Detta EULA är giltigt från och med det datum ni installerar programvaran. Ni kan när som helst avsluta denna Licens genom att upphöra med all användning av programvaran och ta bort programvaran från ASUS-produkten. Era rättigheter avslutas utan föregående meddelande från ASUS om vi anser att ni inte uppfyller alla villkoren i detta licensavtal.
+\n\n7.Garantifriskrivning och ansvarsbegränsning NI BEKRÄFTAR ATT NI ÄR MEDVETEN OM ATT PROGRAMVARAN TILLHANDAHÅLLS ”I BEFINTLIGT SKICK”. HELA RISKEN FÖR KVALITET OCH PRESTANDA I DENNA PROGRAMVARA ÄR ER, INKLUSIVE MEN INTE BEGRÄNSAT TILL KOSTNADER FÖR NÖDVÄNDIG SERVICE OCH REPARATION. I DEN UTSTRÄCKNING LAGEN TILLÅTER, GER ASUS INGA GARANTIER, UTTRYCKLIGA ELLER UNDERFÖRSTÅDDA, MED HÄNSYN TILL PROGRAMVARAN ELLER NÅGON ANNAN INFORMATION ELLER DOKUMENTATION SOM TILLHANDAHÅLLS UNDER DETTA EULA ELLER FÖR DEN HÄR PROGRAMVARAN, INKLUSIVE MEN INTE BEGRÄNSAT TILL NÅGON GARANTI OM SÄLJBARHET ELLER LÄMPLIGHET FÖR ETT VISST ÄNDAMÅL ELLER SKYDD MOT INTRÅNG ELLER NÅGON GARANTI TILL FÖLJD AV ANVÄNDNING ELLER PRESTANDA. ASUS GER INTE HELLER NÅGON GARANTI FÖR DE RESULTAT SOM KAN ERHÅLLAS FRÅN ANVÄNDNING AV DENNA PROGRAMVARA ELLER FÖR RIKTIGHETEN ELLER TILLFÖRLITLIGHETEN I INFORMATIONEN SOM ERHÅLLITS GENOM DENNA PROGRAMVARA. VISSA JURISDIKTIONER TILLÅTER INTE UTESLUTNING AV VISSA GARANTIER ELLER BEGRÄNSNING ELLER UTESLUTANDE AV ANSVAR FÖR VISSA SKADOR. FÖLJAKTLIGEN KAN VISSA AV OVANSTÅENDE FRISKRIVNINGAR OCH BEGRÄNSNINGAR AV ANSVAR INTE VARA GILTIGA FÖR DIG.
+\nHELA RISKEN TILL FÖLJD AV ANVÄNDNINGEN AV OCH/ELLER PRESTANDAN HOS DENNA PROGRAMVARA LIGGER HOS ER. UNDER INGA OMSTÄNDIGHETER SKALL ASUS, DESS LICENSTAGARE ELLER NÅGON AV DERAS RESPEKTIVE TJÄNSTEMÄN, DIREKTÖRER, ANSTÄLLDA, AGENTER ELLER DOTTERBOLAG HÅLLAS ANSVARIGA FÖR FÖLJDSKADOR, DIREKTA, INDIREKTA, SÄRSKILDA, SKADESTÅND TILL FÖLJD AV OLYCKA ELLER ANDRA SKADOR (INKLUSIVE, MEN UTAN ATT VARA BEGRÄNSAT TILL, SKADOR FÖR FÖRLUST AV VINST, AVBROTT, FÖRLUST AV INFORMATION ELLER ANNAN EKONOMISK FÖRLUST) SOM HÄRRÖR FRÅN ELLER HAR SAMBAND MED DETTA EULA ELLER ANVÄNDNINGEN AV ELLER OFÖRMÅGAN ATT ANVÄNDA PROGRAMVARAN ELLER NÅGON DEL DÄRAV, ÄVEN OM ASUS HAR INFORMERATS OM RISKEN FÖR SÅDANA SKADOR. VISSA JURISDIKTIONER TILLÅTER INTE UTESLUTNING AV VISSA GARANTIER ELLER BEGRÄNSNING ELLER UTESLUTANDE AV ANSVAR FÖR VISSA SKADOR. FÖLJAKTLIGEN KAN VISSA AV OVANSTÅENDE FRISKRIVNINGAR OCH BEGRÄNSNINGAR AV ANSVAR INTE VARA GILTIGA FÖR ER.
+\n\n8.Ansvar Ni accepterar att försvara, skydda och hålla ASUS och dess dotterbolag, tjänsteleverantörer, samarbetspartners, distributörer, licensgivare, befattningshavare, styrelseledamöter och anställda skadeslösa från och för alla förluster, skadestånd och utgifter till följd av alla anspråk eller krav (inklusive rimliga advokatarvoden, avgifter och rättegångskostnader), på grund av eller i samband med er överträdelse av detta EULA eller någon tillämplig lag eller förordning, eller tredje parts rättighet.
+    </string>
+    <string name="eula_content_title">"Licensavtal"</string>
+    <string description="Do not translate ASUS" maxwidth="" name="eula_description">"Ett juridiskt avtal mellan ASUS-applikationer och slutanvändare"</string>
+    <string maxwidth="" name="eula_title">"Licensavtal"</string>
+    <string name="example">"Exempel:"</string>
+    <string description="Dialog Button: extract file for dialog" maxwidth="-1" name="extract">Extrahera</string>
+    <string name="facebook_app_invite">"Facebook-kontakter"</string>
+    <string name="fb_request_error_permissions">"Den här appen har inte behörighet att göra detta. Försök att logga in på appen igen."</string>
+    <string name="fileList_Nofiles">Inga filer</string>
+    <string description="Dialog Title: File information dialog title" maxwidth="-1" name="file_info_dialog_title">Filinformation</string>
+    <string description="Application Name shown on title" maxwidth="" name="file_manager">Filhanterare</string>
+    <string description="string indicating camera flash is not used" maxwidth="-1" name="flash_off">Ingen blixt</string>
+    <string description="string indicating camera flash is fired" maxwidth="-1" name="flash_on">Blixt utlöst</string>
+    <string description="click to retrieve password" maxwidth="-1" name="forget_password">"<u>Glömt lösenordet?</u>"</string>
+    <string name="fragment_analyzer_allfiles_used_hint">"Använt:"</string>
+    <string name="fragment_analyzer_chart_free_hint">"Ledigt:"</string>
+    <string name="fragment_analyzer_chart_total_hint">"Totalt:"</string>
+    <string name="fragment_analyzer_chart_used_hint">"ANVÄNT"</string>
+    <string name="fragment_analyzer_more_hint">"mer"</string>
+    <string name="google_app_invite">"Google-kontakter"</string>
+    <string name="group_title_installed">"Installerade"</string>
+    <string name="group_title_not_installed">"Inte installerade"</string>
+    <string name="group_title_others">"Övriga"</string>
+    <string name="group_title_recommended">"Rekommenderade"</string>
+    <string name="hidden_zone_change_password">"Byt lösenord"</string>
+    <string name="hidden_zone_confirm_password">"Bekräfta PIN-kod"</string>
+    <string name="hidden_zone_enter_password">"Ange din PIN-kod"</string>
+    <string name="hidden_zone_fingerprint_to_unlock">"Fingeravtryck för att låsa upp"</string>
+    <string name="hidden_zone_forget_password">"Glömt lösenord"</string>
+    <string name="hidden_zone_introduction_description">"Dölj dina privata filer i dolt skåp. Det krävs PIN-kod för att öppna dolt skåp."</string>
+    <string name="hidden_zone_password_mismatch">"PIN-kod matchar inte"</string>
+    <string name="hidden_zone_set_password_success">"Lösenordet har ställts in"</string>
+    <string name="hidden_zone_setup_account">"Konfigurera ett konto"</string>
+    <string name="hidden_zone_setup_password">"Ange en 4-siffrig PIN-kod"</string>
+    <string name="hidden_zone_wrong_password">"Fel PIN-kod"</string>
+    <string description="Can’t connect to HomeCloud." maxwidth="-1" name="homecloud_access_error">Det gick inte att ansluta till HomeCloud Kontrollera att HomeCloud-tjänsten är online.</string>
+    <string name="homecloud_notice_1">ASUS HomeCloud är en del av ett serverprogram på Windows-system. Det är utformat som ett bibliotek med digitalt innehåll för hemmabruk, och erbjuder nu molnlagringstjänster och multimediaströmningstjänster, och kan utökas med fler tjänster i framtiden.</string>
+    <string name="homecloud_notice_2">Du kan hämta och uppleva det nu. </string>
+    <string name="homecloud_notice_3">http://home.asuscloud.com/</string>
+    <string name="homecloud_toast_udp_unsupported">Begränsat nätverk, kontakta din nätverksadminstratör eller byt till ett annat nätverk.</string>
+    <string msgid="2546819039651509323" name="hour">"1 timme"</string>
+    <string msgid="2071487018566991613" name="hours">"<ns1:g id="HOURS">%s</ns1:g> timmar"</string>
+    <string maxwidth="" name="httpserver_acquire_permission_message">"HTTP-filservern kommer att stängas och åtgärderna kan avbrytas. Fortsätta?"</string>
+    <string maxwidth="" name="httpserver_connectwifiname">"Ansluten Wi-Fi AP:"</string>
+    <string maxwidth="" name="httpserver_description">"Starta tjänsten för att ansluta mobiltelefonen till datorn."</string>
+    <string maxwidth="" name="httpserver_instruction">"Skriv in den här adressen i webbläsaren på datorn:"</string>
+    <string maxwidth="" name="httpserver_need_saf">"Om du vill hantera din externa lagring från datorn, måste du ge tillstånd."</string>
+    <string maxwidth="" name="httpserver_no_network">"Anslut enheten till samma Wi-Fi-nätverk"</string>
+    <string maxwidth="" name="httpserver_no_permission_message">"Du kommer inte att kunna skriva på extern lagring utan tillstånd. Fortsätta?"</string>
+    <string maxwidth="" name="httpserver_no_permission_title">"Starta trådlös filöverföring"</string>
+    <string maxwidth="" name="httpserver_start">"Starta"</string>
+    <string maxwidth="" name="httpserver_stop">"Stopp"</string>
+    <string maxwidth="" name="httpserver_title">"Trådlös filöverföring till dator"</string>
+    <string description="Context Menu: options of context menu" maxwidth="-1" name="info">Information</string>
+    <string description="file info textview context" maxwidth="-1" name="info_aperture">"Bländare: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_datetime">"Taget datum: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_exposure_time">"Exponeringstid: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_file_num">"Antal filer: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_flash">"Blixt: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_focal_length">"Fokuslängd: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_image_height">"Höjd: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_image_width">"Bredd"</string>
+    <string description="file info textview context" maxwidth="-1" name="info_image_x">" x "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_iso">"ISO: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_location">"Plats: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_maker">"Upphovsman: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_model">"Modell: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_modified">"Ändringsdatum: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_name">"Namn: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_orientation">"Riktning: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_path">"Sökväg: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_permission">"Tillåtelse: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_type">Тyp:</string>
+    <string description="file info textview context" maxwidth="-1" name="info_white_balance">"Vitbalans: "</string>
+    <string description="Do not translate ASUS" maxwidth="" name="inspire_asus_description">"Samla in användardata till ASUS för att förbättra produkter och användarupplevelse"</string>
+    <string name="inspire_asus_title">"Inspirera ASUS"</string>
+    <string name="install">"Installera"</string>
+    <string description="storage label" maxwidth="-1" name="internal_storage_title">Intern lagringsplats</string>
+    <string description="Toast: the account is invalid" maxwidth="-1" name="invalid_account">"Ogiltigt konto"</string>
+    <string description="Invalid directory path" maxwidth="-1" name="invalid_directory_path">Ogiltig sökväg</string>
+    <string name="invalid_server_id">"Ogiltigt server-ID"</string>
+    <string name="invalid_xml">"Ogiltig xml"</string>
+    <string name="inviteContentTitle">%1$s bjuder in dig att hämta och installera ASUS filhanterare.</string>
+    <string name="inviteContent_p1">ASUS filhanterare är det perfekta sättet att hantera filer med din smarta enhet. Denna filhanteringsapp hjälper dig hantera och sortera igenom de olika filerna som finns lagrade i din telefons minne, microSD-kort, lokala nätverksområde och även i molnet.</string>
+    <string name="inviteContent_p2">Hantera dina filer effektivt och lätt med ASUS filhanterare! ASUS filhanterare hjälper dig hantera alla dina filer om de är lagrade på enhetens minne, microSD-kort, lokala nätverksområde och molnlagringskonton som våra egna ASUS HomeCloud och Webstorage och andra molntjänster som Dropbox, Google Drive eller Microsoft OneDrive.</string>
+    <string name="inviteContent_p3">Ha kul med ASUS filhanterare. Prova den NU! :D</string>
+    <string description="sticker detail page button name" maxwidth="-1" name="invite_friends">"Bjud in vänner"</string>
+    <string name="item">objekt</string>
+    <string name="items">objekt</string>
+    <string name="keep">"Behåll"</string>
+    <string name="kk_sd_permission_warning">På grund av begränsningar hos Android, tillåter Android 4.4 inte att tredjeparts program modifierar externa SD-kort.</string>
+    <string name="large_files_content_hint">"Hitta stora filer och radera dem med din tillåtelse."</string>
+    <string description="linked file is missing" maxwidth="-1" name="linked_file_missing">"Länkad fil saknas"</string>
+    <string description="text for progress bar" maxwidth="-1" name="loading">"Läser in …"</string>
+    <string name="local">Lokalt</string>
+    <string description="button text for sort file by date" maxwidth="-1" name="location">"Plats"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="logging_cloud_storage">Loggning...</string>
+    <string name="login_account_miss">"Facebook-appen kunde inte registrera Android kontohanterare. Försök att logga ut via Facebook-appen och logga in igen."</string>
+    <string name="login_again_later">"Servern är inte tillgänglig nu. Försök igen senare."</string>
+    <string description="dialog title, key in the asus ID and PW to Login account" maxwidth="-1" name="login_asus_id">"Inloggning för ASUS-konto"</string>
+    <string description="Toast: login account fail" name="login_fail" width="-1">Inloggningen misslyckades</string>
+    <string description="login account name" maxwidth="-1" name="login_id">"Kontonamn/WebStorage-ID"</string>
+    <string description="logout account" name="logout_account" width="-1">Logga ut</string>
+    <string name="low_storage_tutorial_description">Tryck och håll på filerna du ska välja, och välj sedan "Flytta till" Google Drive</string>
+    <string name="low_storage_tutorial_title">Flytta filer till Google Drive</string>
+    <string name="m_permission_dialog_message">"Tryck på [Inställningar] för att slå på behörigheterna [%2$s] i [Appinfo] > [Behörigheter], starta sedan om %1$s."</string>
+    <string name="m_permission_dialog_positive_button">"Inställningar"</string>
+    <string name="m_permission_setting_subtitle_files">"%1$s behöver behörighet till %2$s för att få åtkomst till dina filer på enheten."</string>
+    <string name="m_permission_setting_title_cloud_storage">"Får inte åtkomst till molnlagring"</string>
+    <string name="m_permission_setting_title_files">"Får inte åtkomst till filer"</string>
+    <string name="m_permission_setting_turn_on">"Slå på"</string>
+    <string description="string indicating how camera shooting feature is used" maxwidth="-1" name="manual">Manuell</string>
+    <string name="market_app_error">"Det är något fel med det markerade applikationsprogrammet som är installerat på enheten!"</string>
+    <string description="ask user to enter email address as account name" maxwidth="-1" name="member_id_hint">"Ange e-postadress"</string>
+    <string description="The title of a menu for General Preferences.Pressing the menu item lets user to view and edit his general settings" maxwidth="30" name="menu_general_preferences">"Allmänna inställningar"</string>
+    <string description="settings menu tutorial" maxwidth="-1" name="menu_tutorial">Handledning</string>
+    <string name="messenger_send_button_text">Skicka</string>
+    <string msgid="2486157997434653710" name="minute">"1 minut"</string>
+    <string msgid="6115838729146292526" name="minutes">"<ns1:g id="MINUTES">%s</ns1:g> minuter"</string>
+    <string description="Hint: move the items" maxwidth="-1" name="move">Flytta</string>
+    <string name="move_or_delete_msg">"Radera objekten temporärt till papperskorgen nu?\n(Markera rutan nedan för att permanent radera objekten.)"</string>
+    <string name="move_to">Flytta till</string>
+    <string description="Toast: move to recycle bin fails" maxwidth="-1" name="move_to_hidden_zone_fail">"Flytt till dolt skåp misslyckades"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="move_to_hidden_zone_progress">"Flyttar till dolt skåp..."</string>
+    <string description="Toast: move to recycle bin success" maxwidth="-1" name="move_to_hidden_zone_success_more">"Det valda filerna har flyttats till dolt skåp."</string>
+    <string description="Toast: move to recycle bin success. %s is variable string." maxwidth="-1" name="move_to_hidden_zone_success_one">"\"%s\" har flyttats till dolt skåp."</string>
+    <string description="Toast: move to recycle bin fails" maxwidth="-1" name="move_to_trash_fail">"Flytta till papperskorg misslyckades"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="move_to_trash_progress">"Flyttar till papperskorg..."</string>
+    <string description="Toast: move to recycle bin success" maxwidth="-1" name="move_to_trash_success_more">"De valda filerna har flyttats till papperskorg"</string>
+    <string description="Toast: move to recycle bin success. %s is variable string." maxwidth="-1" name="move_to_trash_success_one">"\"%s\" har flyttats till papperskorg"</string>
+    <string name="msg_too_big_to_recycle">"Objekten är för stora för att läggas i papperskorg.\nVill du radera dem permanent?"</string>
+    <string name="multi_drm_file_forbidden_operation">Åtgärden är inte tillåten på grund av att några av de valda filerna är DRM-skyddade.</string>
+    <string description="shortcut label" maxwidth="-1" name="my_camera_title">Kamera</string>
+    <string description="shortcut label" maxwidth="-1" name="my_download_title">Hämta</string>
+    <string description="shortcut label" maxwidth="-1" name="my_music_title">Musik</string>
+    <string description="shortcut label" maxwidth="-1" name="my_picture_title">Bild</string>
+    <string description="storage label" maxwidth="-1" name="my_storage_title">Min lagringsplats</string>
+    <string description="button text for sort file by name" maxwidth="-1" name="name">Namn</string>
+    <string description="button text for sort file by name ascending" maxwidth="-1" name="name_ascending">Namn (z-a)</string>
+    <string description="button text for sort file by name descending" maxwidth="-1" name="name_descending">Namn (a-z)</string>
+    <string name="network_cta_hint">"Vänligen acceptera för att ansluta till nätverket "</string>
+    <string name="network_invalid">"Ogiltig nätverksanslutning"</string>
+    <string name="network_invalid_info">"Anslutningen är ogitig. Kontrollera igen."</string>
+    <string name="network_not_available">"Nätverksanslutning misslyckades"</string>
+    <string description="Can’t connect to networkpalce" maxwidth="-1" name="networkplace_access_error">"Anslutningen misslyckades. Se till att servern är ansluten till nätet."</string>
+    <string name="networkplace_storage_title">"Nätverksplats"</string>
+    <string description="Dialog Title: create new folder" maxwidth="" name="new_folder_dialog">Skapa ny mapp</string>
+    <string description="Toast: new folder fails" maxwidth="-1" name="new_folder_fail">Skapande av ny mapp misslyckades.</string>
+    <string description="Toast: new folder success. %s is variable string." maxwidth="-1" name="new_folder_success">Mapp "%s\" har skapats.</string>
+    <string maxwidth="" name="news_1">"<b>Anpassa startpanel</b>: Nu kan du anpassa din startpanel med olika kategorier och ordningar."</string>
+    <string maxwidth="" name="news_2"><b>Favoritväljare</b>: Lägg till favoritmapp direkt från favoritkategori.</string>
+    <string maxwidth="" name="news_3"><b>Filhanterar-widget</b>: Skapa en genvägsmapp i Start.</string>
+    <string maxwidth="" name="news_mark1">"★  "</string>
+    <string maxwidth="" name="news_subtitle">"Här är den stora uppdateringen som du inte får missa."</string>
+    <string maxwidth="" name="news_title">"Något nytt"</string>
+    <string maxwidth="" name="news_v21"><b>Trådlös filöverföring till/från dator</b>: Överför/hantera filer till/från datorn</string>
+    <string maxwidth="" name="news_v23">"Prestandaförbättring och buggfixar"</string>
+    <string maxwidth="" name="news_v31">"Lagringsanalyseraren låter dig veta vilken typ av filer som tog upp all lagringsplats"</string>
+    <string maxwidth="" name="news_v32">"Appkategorin nyligen förbättrad"</string>
+    <string name="news_v41">"Dölj dina privata filer i dolt skåp"</string>
+    <string name="news_v42">"Återställ raderade filer från Papperskorgen"</string>
+    <string name="news_v43">"Ta bort dubblettfiler från Lagringsanalyserare"</string>
+    <string name="news_v44">"Ny displayfunktion - Mörkt läge"</string>
+    <string name="news_v45">"Förbättrad prestanda"</string>
+    <string name="news_v46">"Åtgärdat buggar"</string>
+    <string name="newversion_description">"En uppdaterad version av filhanteraren finns nu tillgänglig. Vill du uppdatera nu?</string>
+    <string name="newversion_title">"Ny version"</string>
+    <string name="next">Nästa</string>
+    <string description="Dialog Button: no for dialog" maxwidth="" name="no">Nr</string>
+    <string name="no_device">"Ingen enhet"</string>
+    <string name="no_items">"Inga objekt"</string>
+    <string name="no_network">"Ingen nätverksanslutning"</string>
+    <string description="The description to inform users when there is no internet access" maxwidth="-1" name="no_network_connection_message">"Kontrollera din anslutning och försök igen"</string>
+    <string name="no_network_info">"Internet-anslutning krävs för att öppna applikationen. Aktivera det mobila nätverket eller WiFi i Inställningar."</string>
+    <string name="no_password">"Ange ditt lösenord"</string>
+    <string name="no_right">"Ditt konto saknar inloggningsrättighet."</string>
+    <string name="no_share_folder">Ingen fil har delats på enheten</string>
+    <string description="Toast: No space to copy file and left on device" maxwidth="-1" name="no_space_fail">Otillräcklig lagring</string>
+    <string name="no_user_exist">"Användarnamnet finns inte"</string>
+    <string name="no_username">"Ange ditt användarnamn först."</string>
+    <string name="notification_gdrive_redeem_content">"Få det NU från Google Drive. "</string>
+    <string name="notification_gdrive_redeem_title">"Gratis 100 GB lagring!"</string>
+    <string name="occur_error_do_relogin">"Logga in igen på %s"</string>
+    <string description="Dialog Button: ok for dialog" maxwidth="" name="ok">OK</string>
+    <string name="onedrive_account_only_one_alert">"Endast en OneDrive för ASUS-konto får läggas till åt gången. Du måste radera ditt nuvarande konto innan du lägger till ett nytt."</string>
+    <string name="open">Öppna</string>
+    <string description="Toast: open file fails" maxwidth="-1" name="open_fail">Misslyckades öppna fil.</string>
+    <string maxwidth="" name="open_source_license_description">"Licensmeddelanden för programvara med öppen källkod"</string>
+    <string maxwidth="" name="open_source_license_title">"Öppen källkodslicens"</string>
+    <string name="othersforum_site_url">http://www.asus.com/Terms_of_Use_Notice_Privacy_Policy/OthersForum_Site/</string>
+    <string name="password">Lösenord</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="paste">Klistra in</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="paste_exist_apply">Gäller alla</string>
+    <string description="Dialog Title: paste exist dialog title" maxwidth="" name="paste_exist_dialog">Samma filnamn</string>
+    <string description="Dialog Content: text in dialog. %s is variable string." maxwidth="" name="paste_exist_file">Filen \"%s\" finns redan.</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="paste_exist_replace">Vill du ersätta den med den nya?</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="paste_exist_to">Till</string>
+    <string description="Toast: paste fails" maxwidth="-1" name="paste_fail">Inklistring av filer misslyckades.</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="paste_progress">Klistrar in...</string>
+    <string name="paste_progress_title">Annan kopieringsaktivitet körs...</string>
+    <string description="Toast: paste success. %s is variable string." maxwidth="-1" name="paste_success">"Filerna har lagts till i \"%s\"."</string>
+    <string name="permanently_delete">"Radera permanent"</string>
+    <string description="Toast: operation permission deny" maxwidth="-1" name="permission_deny">Tillstånd nekad.</string>
+    <string name="permission_dialog_title">"Programbehörigheter"</string>
+    <string name="permission_essential">"Behörigheter krävs. Gå till Inställningar för att aktivera behörigheter!"</string>
+    <string name="permission_reason_contact">"Filhanteraren behöver tillgång till dina kontouppgifter för att logga in på molnlagring."</string>
+    <string name="permission_reason_storage">"Filhanteraren behöver tillgång till din enhets lagring för att fungera korrekt"</string>
+    <string description="Toast: You may not select more than %s photos." maxwidth="-1" name="photo_selection_limit_number_toast">Vyberte maximálne %s fotografií</string>
+    <string description="This is the title of the screen for setting user preferences." maxwidth="-1" name="preferences_title">"Inställningar"</string>
+    <string name="previous_folder">"Föregående mapp"</string>
+    <string maxwidth="" name="privacy_policy">"Sekretesspolicy"</string>
+    <string name="privacy_policy_url">http://www.asus.com/us/Terms_of_Use_Notice_Privacy_Policy/Privacy_Policy/</string>
+    <string name="processing_picture">"Bearbetar bild"</string>
+    <string name="processing_video">"Bearbetar video"</string>
+    <string name="progressactivity_title">Transmission Manager</string>
+    <string name="promote_darkmode_message">"Ändra dina installningar i %s"</string>
+    <string name="promote_darkmode_title">"Ny displayfunktion - Mörkt läge"</string>
+    <string name="promotion_notification_content">"Du måste prova \"Trådlös filöverföring\"!"</string>
+    <string name="promotion_notification_title">"Använder du fortfarande en USB-kabel för att överföra filer?"</string>
+    <string name="publish">"Publicera"</string>
+    <string name="pullfreshlistview_footer_hint_normal">Läs in mer</string>
+    <string name="pullfreshlistview_footer_hint_ready">Släpp för att läsa in mer</string>
+    <string name="pullfreshlistview_header_hint_loading">Uppdaterar...</string>
+    <string name="pullfreshlistview_header_hint_normal">Dra ner</string>
+    <string name="pullfreshlistview_header_hint_ready">Släpp för att uppdatera</string>
+    <string name="pullfreshlistview_header_last_time">Senaste uppdateringstid:</string>
+    <string name="rate_later">"Senare"</string>
+    <string name="rate_now">"Betygsätt nu"</string>
+    <string description="rate us" maxwidth="-1" name="rate_us">Betygsätt oss</string>
+    <string name="rating_dialog_message_v3_1">"Älskar att använda %s? Betygsätt oss på Google Play för att hålla oss inspirerade!"</string>
+    <string name="rating_dialog_message_v3_2">"För förslag och feedback, skriv till oss via %s."</string>
+    <string name="recent_files_content_hint">"Hitta nyliga filer och radera dem med din tillåtelse."</string>
+    <string description="shortcut title: recently used files" name="recently_used" width="-1">Senaste</string>
+    <string name="recommend_clean_master_msg">"Världens mest pålitliga Android Optimizer, Speed Booster, batterispar och gratis antivirus-app. \nHämta nu?"</string>
+    <string name="recommend_clean_master_title">"App-rekommendation"</string>
+    <string name="recommend_scan_qr_code">"Säg till dina vänner att ladda ner\n den här appen genom att skanna QR-koden."</string>
+    <string description="recruit beta user" maxwidth="-1" name="recruit_beta_user">Få förhandsversion</string>
+    <string name="recycle_bin_content_hint">"Innehåller alla raderade filer och mappar."</string>
+    <string description="dialog title, key in the asus ID and PW to Login account" maxwidth="-1" name="regist_asus_id">"Skapa ASUS-konto"</string>
+    <string description="ask user to enter email address to registe New Account" name="registe_id">Kontonamn</string>
+    <string description="ask user to enter new password" name="registe_password">Ange 8~25 tecken</string>
+    <string description="sign up registe action" name="registe_sign_up">Registrera dig</string>
+    <string description="network is unavailable, please try again" maxwidth="-1" name="remote_connected_error_hint">Nätverket är inte tillgängligt, försök igen</string>
+    <string description="remote storage label" maxwidth="-1" name="remote_storage_title">Fjärrlagring</string>
+    <string name="remove_favorite">Ta bort från Favoriter</string>
+    <string name="remove_favorite_notice_more">Vill du verkligen ta bort %d objekt från favoritmappen?</string>
+    <string name="remove_favorite_notice_one">Vill du verkligen ta bort \"%s\" från favoritmappen?</string>
+    <string name="remove_favorite_success">Har tagits bort</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="rename">Byt namn</string>
+    <string description="Dialog Title: rename dialog title" maxwidth="" name="rename_dialog">Byt namn</string>
+    <string description="Toast: rename fails" maxwidth="-1" name="rename_fail">Misslyckades byta namn på fil.</string>
+    <string name="rename_favorite_folder">Byt namn på favoritmapp</string>
+    <string name="rename_favorite_notice">Det finns redan en mapp med samma namn i favoritmappen, vill du byta namn?</string>
+    <string name="rename_favorite_success">Har bytt namn och Spara i Favoriter</string>
+    <string description="Toast: rename success" maxwidth="-1" name="rename_success">Filen har bytt namn.</string>
+    <string description="renaming file" name="renaming_file" width="-1">Namnbyte</string>
+    <string name="replace">"Byt ut"</string>
+    <string description="Toast: restore fails" maxwidth="-1" name="restore_fail">"Återställning misslyckades"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="restore_progress">"Återställer..."</string>
+    <string description="Toast: restore success" maxwidth="-1" name="restore_success_more">"De valda filerna har återställts"</string>
+    <string description="Toast: restore success. %s is variable string." maxwidth="-1" name="restore_success_one">"\"%s\" har återställts"</string>
+    <string name="retention_notification_large_file">"Du har lagt till %1$s stor(a) fil(er). Visa fil(er) nu."</string>
+    <string name="retention_notification_recent_file">"Dina senaste filer upptar %1$s utrymme. Visa dem nu."</string>
+    <string name="saf_permission_tutorial_content">ASUS File Manager begär åtkomst för att arbeta med ditt SD-kort. Vill du bevilja åtkomst?</string>
+    <string name="saf_permission_tutorial_content_v2">"Du måste utföra de specifika stegen för att tilldela %s åtkomstbehörigheter."</string>
+    <string name="saf_permission_tutorial_dialog">"En procedur måste genomföras för att ge SD-kortet åtkomsträttigheter. Vill du fortsätta?"</string>
+    <string name="saf_permission_tutorial_title">Begär åtkomst för att arbeta med SD-kort</string>
+    <string name="saf_tutorial_step_one">Tryck på menyikonen och därefter på Visa SD-kort.</string>
+    <string name="saf_tutorial_step_three">Tryck på Välj SD-kort för att bevilja åtkomst till ASUS Filhanterare.</string>
+    <string name="saf_tutorial_step_three_v2">"Tryck på Välj %s för att tilldela behörighet till ASUS Filhanterare."</string>
+    <string name="saf_tutorial_step_two">Svep på skärmens vänstra kant för att visa lådan, och tryck på SD-kortet.</string>
+    <string name="saf_tutorial_step_two_v2">"Svep från vänster sida av skärmen för att visa lådan, tryck sedan på %s."</string>
+    <string name="saf_tutorial_title">Tillstånd att använda SD-kort</string>
+    <string name="saf_tutorial_title_v2">"Behörighet att använda %s"</string>
+    <string description="account config dialog remind message" maxwidth="-1" name="samba_client_config_check">Kom ihåg användarnamn och lösenord, anslut direkt nästa gång</string>
+    <string name="samba_input_error">Användarnamn eller lösenord kan inte vara tomt!</string>
+    <string name="samba_login_error">Användarnamnet eller lösenordet är felaktigt.</string>
+    <string name="samba_storage_add_title">"Nätverksplats"</string>
+    <string name="samba_storage_title">"SAMBA"</string>
+    <string name="scan_qr_code">"Skanna QR-koden"</string>
+    <string description="rate now" maxwidth="" name="scroll_up_toast">Rulla upp för betygsätta</string>
+    <string maxwidth="-1" name="sd_label">OneDrive för ASUS</string>
+    <string name="search_action">"Sök"</string>
+    <string description="search hint message" maxwidth="-1" name="search_hint">Ange filnamn</string>
+    <string description="cutstom action bar view title for search" maxwidth="-1" name="search_label">Sök filer</string>
+    <string description="search dialog message" maxwidth="-1" name="search_progress">Söker...</string>
+    <string description=" text for search result" formatted="false" maxwidth="-1" name="search_result_title">Söker %s på %s: %d filer hittades</string>
+    <string name="select_album">Välj ett album</string>
+    <string description="Menu Option: select all checkbox" maxwidth="" name="select_all">Välj alla</string>
+    <string description="Title: select the folder" maxwidth="-1" name="select_folder">Välj mapp</string>
+    <string name="select_folder_by_ok_button">"Tryck på %1$s för att välja denna mapp"</string>
+    <string name="select_photo">Välj en bild</string>
+    <string name="server">"Server:"</string>
+    <string name="server_error">"Serverfel"</string>
+    <string name="server_hint">"172.0.0.1/ShareFolder"</string>
+    <string name="server_title">Server</string>
+    <string maxwidth="-1" name="service_not_available_in_your_country">"Den här artikeln är inte tillgänglig i ditt land."</string>
+    <string name="set_password_title">"Skapa en PIN-kod"</string>
+    <string name="set_ring">"Ställ in som ring"</string>
+    <string name="setting_display_group">"Display"</string>
+    <string name="setting_notification_group">"Meddelande"</string>
+    <string name="setting_notification_large_files">"Meddelande om stor fil"</string>
+    <string name="setting_notification_recent_files">"Meddelande om nyliga filer"</string>
+    <string name="setting_notification_wireless_transfer">"Meddelande om trådlös överföring"</string>
+    <string name="setting_view_group">"Visa inställningar"</string>
+    <string name="setting_view_hide_files">"Dölj systemfiler"</string>
+    <string name="settings">"Inställningar"</string>
+    <string description="This is the title of cache size" maxwidth="-1" name="settings_cache_size_title">"Cache-storlek"</string>
+    <string description="Remove all cache documents" maxwidth="-1" name="settings_clear_cache_info">"Ta bort alla cachade dokument"</string>
+    <string description="Clear the cache" maxwidth="-1" name="settings_clear_cache_title">"Rensa cache"</string>
+    <string description="This is the title of clearing search history action for setting user preferences." maxwidth="-1" name="settings_clear_search_history">"Rensa sökhistorik"</string>
+    <string name="settings_darkmode_message">"Tillämpa mörkt läge"</string>
+    <string name="settings_description">"Lokala mappar och filer"</string>
+    <string description="This is the title of documents cache" maxwidth="-1" name="settings_documents_cache">"Dokumentcache"</string>
+    <string description="recommend text" maxwidth="" name="settings_encourage_us_detail">Om du gillar %s, vänligen ge oss 5 stjärnor på Play Store. Det uppmuntrar oss till att fortsätta förbättra produkten!</string>
+    <string description="This is the title of hiding system files action for setting user preferences." maxwidth="-1" name="settings_hide_system_files">"Dölj systemfiler"</string>
+    <string description="This is the title of moving to the trash can." maxwidth="-1" name="settings_moved_to_the_trash_can">"Flyttad till papperskorg"</string>
+    <string description="Remove account" maxwidth="-1" name="settings_remove_account">"Ta bort konto"</string>
+    <string description="Set the cache size to %s" maxwidth="-1" name="settings_set_cache_size">"Cache-storlek är inställt på \"%s\""</string>
+    <string description="This is the title of space used for setting user preferences." maxwidth="-1" name="settings_space_used">"Använt utrymme"</string>
+    <string description="This is the title of trash can information for setting user preferences." maxwidth="-1" name="settings_trash_can">"Papperskorg"</string>
+    <string description="This is the title of user name" maxwidth="-1" name="settings_user_name">"Användarnamn"</string>
+    <string name="setup">"Konfiguration"</string>
+    <string name="setup_account_description">"Vänligen konfigurera ett e-postkonto för att hämta din PIN-kod"</string>
+    <string name="setup_account_no_internet_connection">"Ingen Internetanslutning"</string>
+    <string name="setup_account_skip">"Hoppa över"</string>
+    <string name="setup_account_title">"Hämta PIN-kod"</string>
+    <string name="setup_fingerprint_message">"Aktivera fingeravtryck för att låsa upp? Dolt skåp har stöd för verifiering med fingeravtryck. Skanna ditt fingeravtryck i Inställningar för att komma igång."</string>
+    <string name="setup_my_digital_code">"Konfigurera PIN-kod"</string>
+    <string name="share_more">"Andra"</string>
+    <string name="share_with_friend">"Dela den här appen med dina vänner"</string>
+    <string description="Context Menu: options of context menu: share folder via Wi-Fi Direct" maxwidth="" name="shared_folder">Dela via Wi-Fi Direct</string>
+    <string description="shortcit title" maxwidth="-1" name="short_cuts_title">Genväg</string>
+    <string name="shortcut_hint">"Tryck och håll ned en kategori eller mapp för att skapa en genväg till Launcher."</string>
+    <string description="check if user want to show password" name="show_passwd">Visa lösenord</string>
+    <string description="show when sign in failed" maxwidth="-1" name="signin_failed">"Inloggningen misslyckades"</string>
+    <string description="signout account" name="signout_account" width="-1">Koppla från</string>
+    <string name="single_drm_file_forbidden_operation">Åtgärden är inte tillåten på grund av att DRM är skyddad.</string>
+    <string description="button text for sort file by size" maxwidth="-1" name="size">Storlek</string>
+    <string description="button text for sort file by size ascending" maxwidth="-1" name="size_ascending">Storlek (stor-liten)</string>
+    <string description="button text for sort file by size descending" maxwidth="-1" name="size_descending">Storlek (liten-stor)</string>
+    <string name="ssl_err_msg_info">"Det går inte att göra en säker serveranslutning. Vill du fortsätta?"</string>
+    <string name="ssl_err_msg_title">"SSL-anslutningsfel"</string>
+    <string description="shortcut title: my favorite files" name="starred" width="-1">"Stjärnmärkt"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">">999"</string>
+    <string name="storage_type_cloud">Molnlagring</string>
+    <string name="storage_type_cloud_att">"Nätverkslagring"</string>
+    <string name="storage_type_local">Lokal lagring</string>
+    <string name="storage_type_shortcut">"Genväg"</string>
+    <string name="storagetype_add_account">Lägg till konto</string>
+    <string name="tap_to_exit">Tryck igen för att avsluta</string>
+    <string name="target_directory_is_child_of_source">"Åtgärden kunde inte slutföras eftersom målkatalogen är ett barn till källkatalogen."</string>
+    <string description="Toast: target file exists" maxwidth="-1" name="target_exist">Målfil finns.</string>
+    <string description="Toast: target folder exists. %s is variable string." maxwidth="-1" name="target_folder_exist">Mappen \"%s\" finns redan.</string>
+    <string description="" maxwidth="" name="tell_friend">Berätta för en vän</string>
+    <string maxwidth="" name="terms_of_service">"Meddelande om användarvillkor"</string>
+    <string maxwidth="" name="terms_of_service_url">http://www.asus.com/us/Terms_of_Use_Notice_Privacy_Policy/Official-Site/</string>
+    <string description="title" maxwidth="-1" name="title">"Rättslig information:"</string>
+    <string name="toast_auto_lock_notify_message">"Lås dolt skåp när enheten är låst"</string>
+    <string description="Toast: The item(s) has been copied completely" maxwidth="-1" name="toast_drag_copied_items">Objekt(en) har kopierats.</string>
+    <string description="Toast: The item(s) has been moved completely" maxwidth="-1" name="toast_drag_moved_items">Objekt(en) har flyttats.</string>
+    <string description="Toast: Sorry, copy files complete but cut fail" maxwidth="-1" name="toast_warning_copy_comple_cut_fail">"Tyvärr, kopiering av filer är slutfört men radering av gamla filer misslyckades"</string>
+    <string description="Toast: Sorry, copy folders has not been supported" maxwidth="-1" name="toast_warning_copy_folders">"Tyvärr, kopiering av mappar saknar stöd"</string>
+    <string maxwidth="35" name="toolbar_item_title_encourage_us">Uppmuntra oss</string>
+    <string name="tools_clean_master">"Ta bort skräp"</string>
+    <string name="tools_file_transfer">"Filöverföring till dator"</string>
+    <string name="tools_hidden_zone">"Dolt skåp"</string>
+    <string name="tools_recycle_bin">"Papperskorg"</string>
+    <string name="tools_storage_analyzer">"Lagringsanalyseraren"</string>
+    <string name="tools_tip_animation">"Hämta verktyg!"</string>
+    <string name="tools_zenui_instant_update">"Omedelbar uppdatering"</string>
+    <string description="shortcut title: trash can" name="trash_can" width="-1">"Papperskorg"</string>
+    <string maxwidth="-1" name="trash_info_deleted">"Datum raderat: "</string>
+    <string maxwidth="-1" name="trash_info_path">"Ursprunglig sökväg: "</string>
+    <string description="label for trending searches" maxwidth="-1" name="trending_searches">"Sökningar som trendar"</string>
+    <string name="tutorial_analyzer_content">"Lagringsanalyserare talar om för dig vilka filer som tar upp plats på ditt diskutrymme."</string>
+    <string name="tutorial_category_content">"Att söka efter filer har aldrig varit så enkelt med ASUS Filhanterares kategorivy."</string>
+    <string name="tutorial_category_title">"Kategorivy"</string>
+    <string name="tutorial_cloud_content">"Få åtkomst till filer från din smarttelefon, PC och molnlagringar."</string>
+    <string name="tutorial_cloud_title">"Molnlagring"</string>
+    <string name="tutorial_done">Klar</string>
+    <string name="tutorial_page_content_long_press">Håll intryckt för att välja ett objekt, och tryck sedan på ikonen \"Meny\" för att visa andra åtgärdsalternativ.</string>
+    <string name="tutorial_page_four_content">Ställ in en standardmapp som Favorit för att komma åt mapparna snabbt och enkelt.</string>
+    <string name="tutorial_page_four_title">Favoriter</string>
+    <string name="tutorial_page_one_content">ASUS filhanterare ger dig möjlighet att enkelt hantera dina filer som finns lagrade på dina interna, externa, LAN- eller molnlagringsenheter.</string>
+    <string name="tutorial_page_one_title">"ASUS filhanterare"</string>
+    <string name="tutorial_page_three_content">Svep ett objekt åt höger för att visa åtgärder som Lägg till i Favoriter, Byt namn, Flytta till, Kopiera till och andra filhanteringsmöjligheter.</string>
+    <string name="tutorial_page_three_title">Lista över högersvepåtgärd</string>
+    <string name="tutorial_page_title_long_press">Visa åtgärdsmeny</string>
+    <string name="tutorial_page_two_content">Lättanvända kategorier som ger dig möjlighet att snabbt komma åt filer i din lokala lagringsenhet.</string>
+    <string name="tutorial_page_two_title">Startsida</string>
+    <string name="tutorial_skip">Hoppa över</string>
+    <string description="button text for sort file by type" maxwidth="-1" name="type">Typ</string>
+    <string description="document type" maxwidth="-1" name="type_abu">"Säkerhetskopiering Asusapp"</string>
+    <string description="document type" maxwidth="-1" name="type_apk">"Androidapp"</string>
+    <string description="document type" maxwidth="-1" name="type_audio">"Ljud"</string>
+    <string description="document type" maxwidth="-1" name="type_book">"E-bok"</string>
+    <string name="type_dialog_audio">Ljud</string>
+    <string name="type_dialog_image">Bild</string>
+    <string name="type_dialog_text">Text</string>
+    <string name="type_dialog_title">Öppna som</string>
+    <string name="type_dialog_video">Video</string>
+    <string description="document type" maxwidth="-1" name="type_directory">"Katalog"</string>
+    <string description="document type" maxwidth="-1" name="type_document">"Dokument"</string>
+    <string description="document type" maxwidth="-1" name="type_file">"Fil"</string>
+    <string description="document type" maxwidth="-1" name="type_image">"Bild"</string>
+    <string description="document type" maxwidth="-1" name="type_playlist">"Spellista"</string>
+    <string description="document type" maxwidth="-1" name="type_rar">"RAR"</string>
+    <string description="document type" maxwidth="-1" name="type_video">"Video"</string>
+    <string description="document type" maxwidth="-1" name="type_zip">"Zip"</string>
+    <string name="ud_sdk_all_app_update">"Alla appar kör sin nuvarande version."</string>
+    <string name="ud_sdk_asus_app_slogan">användbar app</string>
+    <string name="ud_sdk_downloads">Hämtningar</string>
+    <string name="ud_sdk_free_download">Gratis hämtning</string>
+    <string name="ud_sdk_important_remind_text">"Viktigt"</string>
+    <string name="ud_sdk_install">Installera</string>
+    <string name="ud_sdk_more_zen_family">Upptäck fler ZenUI-appar</string>
+    <string name="ud_sdk_no_network_connection_content">Data kan inte uppdateras. Kontrollera dina nätverksinställningar. </string>
+    <string name="ud_sdk_no_network_connection_title">Ingen nätverksanslutning</string>
+    <string name="ud_sdk_open">Öppna</string>
+    <string name="ud_sdk_update">Uppdatera</string>
+    <string maxwidth="-1" name="ud_sdk_update_sdk">"ZenUI-familjen"</string>
+    <string maxwidth="-1" name="ud_sdk_update_sdk_asus">Direkt ZenUI-uppdatering</string>
+    <string name="ud_sdk_wifi_settings">Wi-Fi-inställningar</string>
+    <string name="uf_sdk_already_give_5star">"Har redan gett ett 5-stjärnigt betyg"</string>
+    <string description="%d is a number, don&apos;t translate" name="uf_sdk_article_read_count">"%d visningar"</string>
+    <string name="uf_sdk_attachment_format_warning">"Fel filformat. Endast bildfiler kan bifogas."</string>
+    <string name="uf_sdk_attachment_total_size">"Totalt"</string>
+    <string name="uf_sdk_attachment_warning">"Bilagans storlek överskrider den tillåtna gränsen"</string>
+    <string maxwidth="-1" name="uf_sdk_cancel_btn_content">"Avbryt"</string>
+    <string name="uf_sdk_choosertitle_sharevia">"Dela via"</string>
+    <string name="uf_sdk_connection_error_msg">"Anslutningen avbröts av servern. Försök igen senare."</string>
+    <string name="uf_sdk_connection_error_title">"Anslutningsfel"</string>
+    <string name="uf_sdk_discard">"Ta bort"</string>
+    <string name="uf_sdk_email_illigal">"E-postadressen används redan"</string>
+    <string maxwidth="-1" name="uf_sdk_empty_notification">"Tom :)"</string>
+    <string name="uf_sdk_faq">"Vanliga frågor"</string>
+    <string name="uf_sdk_feedback_and_help">"Återkoppling &amp; Hjälp"</string>
+    <string name="uf_sdk_forum_description">"Gå med i samtalet mellan ASUS-användare för att hitta och dela dina lösningar"</string>
+    <string maxwidth="-1" name="uf_sdk_grant_permission_title">"Tilldela behörighet"</string>
+    <string name="uf_sdk_help">"Hjälp"</string>
+    <string name="uf_sdk_instant_answer_question">"Är dessa Vanliga frågor till hjälp?"</string>
+    <string name="uf_sdk_like">"Gilla"</string>
+    <string maxwidth="-1" name="uf_sdk_message">"Meddelanden"</string>
+    <string name="uf_sdk_msg_bad_email_format">"E-postadressen är inte giltig, försök igen."</string>
+    <string name="uf_sdk_msg_confirm_discard_topic">"Ditt utkast kommer inte att sparas. Vill du ta bort det ändå?"</string>
+    <string name="uf_sdk_msg_confirm_discard_topic_title">"Ta bort inlägg?"</string>
+    <string name="uf_sdk_msg_subscribe">"Statusmeddelande för ämnesprenumeration kommer att levereras till dig via e-post."</string>
+    <string name="uf_sdk_msg_subscribe_success">"Prenumeration lyckades"</string>
+    <string name="uf_sdk_msg_ticket_created">"Din återkoppling skickades till ASUS"</string>
+    <string name="uf_sdk_msg_topic_created">"Publicering lyckades"</string>
+    <string name="uf_sdk_msg_unsubscribe">"Avslutning av prenumeration lyckades"</string>
+    <string name="uf_sdk_name_hint">"Skriv in ditt namn"</string>
+    <string name="uf_sdk_name_illigal">"Användarnamn finns redan"</string>
+    <string name="uf_sdk_network_error">"Ingen Internet-anslutning, kontrollera dina nätverksinställningar."</string>
+    <string description="zenui news" maxwidth="" name="uf_sdk_news">"Nyheter"</string>
+    <string name="uf_sdk_no_network_connection_content">"Anslutningen avbröts av servern. Vänligen försök senare."</string>
+    <string name="uf_sdk_no_network_connection_title">"Anslutningsfel"</string>
+    <string name="uf_sdk_nothing_found">"Inget hittades"</string>
+    <string name="uf_sdk_notice">"Meddelande"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category1">"Tillkännagivanden"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category2">"Handledningar &amp; tips"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category3">"Erbjudanden"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category4">"Händelser"</string>
+    <string name="uf_sdk_publish_an_topic">"Publicera nytt ämne"</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_rate_now">"Betygsätt nu"</string>
+    <string description="%s is AP name, don&apos;t translate" maxWidth="" name="uf_sdk_rate_us_detail">"Om du tycker om att använda %s, ge oss 5 stjärnor i Play Store."</string>
+    <string maxWidth="" name="uf_sdk_rate_us_detail_new">"Ditt stöd med ett 5-stjärnigt betyg inspirerar oss att fortsätta vårt arbete!"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_rating">"5-stjärnigt betyg"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title">"Betygsätt oss!"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title_new">"Uppmuntra oss!"</string>
+    <string description="Menu item for userFeedback sdk" maxwidth="-1" name="uf_sdk_report_bug">Rapportera bugg</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_scroll_up_toast">"Rulla upp för betygsätta"</string>
+    <string name="uf_sdk_search_hint">"Sök"</string>
+    <string name="uf_sdk_select_common_bug">"Välj gemensam bugg"</string>
+    <string name="uf_sdk_send_feedback">"Skicka återkoppling"</string>
+    <string name="uf_sdk_send_feedback_help">"Din återkoppling och e-postadress skickas till ASUS. Ett serviceteam kommer att kontakta dig via e-post."</string>
+    <string maxwidth="-1" name="uf_sdk_setting_btn_content">"Inställningar"</string>
+    <string description="recommend title" maxwidth="" name="uf_sdk_settings_encourage_us_title">"Uppmuntra oss"</string>
+    <string maxwidth="-1" name="uf_sdk_storage_permission_description">"Den här funktionaliteten behöver få lagringsbehörighet för att få åtkomst till multimediafiler. \n\nOm du vill aktivera den här funktionaliteten, vänligen tryck på knappen Inställningar för att gå till sidan Inställningar, ställ sedan in \"Appinfo\" > \"Behörigheter\" till att ge behörigheten.\n"</string>
+    <string name="uf_sdk_submit_topic">"Publicera"</string>
+    <string name="uf_sdk_subscribe_dialog_title">"Prenumerera på detta ämne"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_answered">"Besvarad"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_completed">"Klar"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_declined">"Avvisad"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_implemented">"Implementerad"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_planned">"Planerad"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_under_review">"Utvärderas"</string>
+    <string name="uf_sdk_thanks_for_your_feedback">"Tack för din återkoppling!"</string>
+    <string description="%s is a application name, don&apos;t translate" name="uf_sdk_ticket_hint">"Ge återkoppling för %s"</string>
+    <string name="uf_sdk_title_topic">"Ämne"</string>
+    <string name="uf_sdk_topic">"Ämne"</string>
+    <string name="uf_sdk_topic_description_heading">"Beskrivning"</string>
+    <string name="uf_sdk_topic_description_hint">"Beskriv ditt ämne i detalj"</string>
+    <string name="uf_sdk_topic_filter">"ÄMNEN"</string>
+    <string name="uf_sdk_topic_form_help">"När du publicerar ett ämne på användarforum kommer andra användare att kunna prenumerera på och kommentera det. När ASUS utvecklingsteam svarar på ämnet, kommer du att meddelas via e-post."</string>
+    <string name="uf_sdk_topic_form_title">"Publicera nytt ämne"</string>
+    <string name="uf_sdk_topic_text_heading">"Forum"</string>
+    <string name="uf_sdk_topic_text_hint">"Skriv in ämnets titel"</string>
+    <string name="uf_sdk_topic_title">"Titel"</string>
+    <string name="uf_sdk_translation_10117605">"Översättningsproblem"</string>
+    <string name="uf_sdk_translation_117562">"Återkopplingstyp"</string>
+    <string name="uf_sdk_translation_2529543">"Felrapport"</string>
+    <string name="uf_sdk_translation_2529544">"Övrigt"</string>
+    <string name="uf_sdk_translation_2530478">"Förslag"</string>
+    <string name="uf_sdk_unhelpful_article_message_question">"Vill du skicka återkoppling till ASUS utvecklingsteam?"</string>
+    <string name="uf_sdk_user_forum">"Användarforum"</string>
+    <string name="uf_sdk_warning">"Varning"</string>
+    <string name="uf_sdk_wifi_settings">"Wi-Fi-inställningar"</string>
+    <string name="uf_sdk_wlan_settings">"WLAN-inställningar"</string>
+    <string name="uf_sdk_write_your_feedback">"Ge återkoppling här"</string>
+    <string name="uf_sdk_your_draft_will_be_discarded">"Ditt utkast tas bort."</string>
+    <string description="description for empty search result" maxwidth="-1" name="unable_to_find_artlcles">"Hittar inga \u0022%s\u0022 relaterade artiklar"</string>
+    <string description="string indicating the length units in milli-meters" maxwidth="-1" name="unit_mm">mm</string>
+    <string description="Context Menu: options of context menu: unshare folder" maxwidth="-1" name="unshared_folder">Ta bort delning</string>
+    <string name="unsupported_area">"Detta område stöds inte"</string>
+    <string description="toast message: extract files fail" maxwidth="-1" name="unzip_fail">Det gick inte att extrahera filerna</string>
+    <string description="extract file dialog message" maxwidth="-1" name="unzip_progress_msg">Extraherar...</string>
+    <string description="toast message: extract files successly" maxwidth="-1" name="unzip_success">Filerna har extraherats</string>
+    <string name="update">"Uppdatera"</string>
+    <string name="update_fb_app">"Den mobila versionen för Facebook-appen är inte uppdaterad.  Installera den senaste versionen från Google Play."</string>
+    <string name="upgrade_notification_content">Visa filer efter typ från vår helt nya startsida.</string>
+    <string name="upgrade_notification_title">Prova den nya filhanteraren nu!</string>
+    <string name="upload_complete">"Överföring slutförd."</string>
+    <string name="upload_complete_dialog_message">"Videon har överförts."</string>
+    <string name="upload_complete_dialog_title">"Slutfört"</string>
+    <string name="upload_fail">överföringen misslyckades!</string>
+    <string name="upload_failed">"Överföringen misslyckades"</string>
+    <string name="upload_picture_toast">"Din bild kommer att överföras Kontrollera förloppet i meddelandefältet."</string>
+    <string name="upload_toast">"Din video kommer att överföras. Kontrollera förloppet i meddelandefältet."</string>
+    <string name="uploading_picture">"Överför bild"</string>
+    <string name="uploading_video">"Överför video..."</string>
+    <string name="user">Användarnamn</string>
+    <string name="user_hint">administratör</string>
+    <string name="uv_admin_response_format">"Adminsvar: %1$s"</string>
+    <string name="uv_all_articles">"Alla artiklar"</string>
+    <string name="uv_all_results_filter">"ALLA"</string>
+    <string name="uv_android_sdk">Android SDK</string>
+    <string name="uv_article_browse_question">"Blev du hjälpt av den här artikeln?"</string>
+    <string name="uv_article_instant_answer_question">"Är dessa Vanliga frågor till hjälp?"</string>
+    <string name="uv_cancel">"Avbryt"</string>
+    <string name="uv_category">"Kategori"</string>
+    <string name="uv_close">"Stäng"</string>
+    <string name="uv_comment_hint">"Skriv din kommentar"</string>
+    <string name="uv_confirm">"Bekräfta"</string>
+    <string name="uv_contact_continue_button">"Jag vill fortfarande skicka ett meddelande"</string>
+    <string name="uv_contact_hint">"Ange dina frågor eller din återkoppling"</string>
+    <string name="uv_contact_us">"Kontaktar oss"</string>
+    <string name="uv_display_name">"Visningsnamn"</string>
+    <string name="uv_email_address">"E-postadress"</string>
+    <string name="uv_email_address_hint">"din@e-postadress.com (obligatoriskt)"</string>
+    <string name="uv_error">"Fel"</string>
+    <string name="uv_failed_signin_error">"E-postadress eller lösenord är felaktig"</string>
+    <string name="uv_forgot_password">"Glömt lösenord"</string>
+    <string name="uv_helpful_article_message_question">"Vill du fortfarande skicka ett meddelande?"</string>
+    <string name="uv_i_want_this">"Jag vill ha detta!"</string>
+    <string name="uv_idea_description_heading">"Beskriv utförligt din idé"</string>
+    <string name="uv_idea_description_hint">"(valfritt)"</string>
+    <string name="uv_idea_text_heading">"Jag föreslår att du…"</string>
+    <string name="uv_loading">"Läser in…"</string>
+    <string name="uv_matching_articles">"Matchande artiklar"</string>
+    <string name="uv_matching_articles_and_ideas">"Matchande artiklar och idéer"</string>
+    <string name="uv_menu_attach">"Bifoga"</string>
+    <string name="uv_menu_search">"Sök"</string>
+    <string name="uv_msg_bad_email_format">"Ange en giltig e-postadress."</string>
+    <string name="uv_msg_comment_posted">"Din kommentar har postats"</string>
+    <string name="uv_msg_confirm_discard_message">"Är du säker på att du vill ta bort ditt meddelande?"</string>
+    <string name="uv_msg_custom_fields_validation">"Fyll i alla obligatoriska fält."</string>
+    <string name="uv_msg_forgot_password">"Glömt lösenord skickat"</string>
+    <string name="uv_msg_idea_created">"Din idé har skapats"</string>
+    <string name="uv_msg_ticket_created">"Ditt meddelande har skickats"</string>
+    <string name="uv_msg_user_identity_validation">"Ange din e-postadress"</string>
+    <string name="uv_name_hint">"Anonym"</string>
+    <string name="uv_network_error">"Det uppstod ett fel vid anslutning till UserVoice"</string>
+    <string name="uv_nevermind">"Inte viktigt"</string>
+    <string name="uv_new_comment">"Ny kommentar"</string>
+    <string name="uv_next">"Nästa"</string>
+    <string name="uv_no">"Nej"</string>
+    <string name="uv_none_of_these_help">"Ingen av dessa hjälpavsnitt"</string>
+    <string name="uv_password">"Lösenord"</string>
+    <string name="uv_password_dialog_title">"Ange ditt lösenord"</string>
+    <string name="uv_portal_title">"Hjälp"</string>
+    <string name="uv_post_a_comment">"Posta en kommentar"</string>
+    <string name="uv_post_comment">"Posta kommentar"</string>
+    <string name="uv_posted_by_format">"Postad av %1$s den %2$s"</string>
+    <string name="uv_powered_by_uservoice">"Drivs av UserVoice"</string>
+    <string name="uv_ranked">"Rankad %1$s"</string>
+    <string name="uv_remove_votes">"Fjärröster"</string>
+    <string name="uv_select_none">"(ingen)"</string>
+    <string name="uv_select_one">"Välj en"</string>
+    <string name="uv_send_message">"Skicka meddelande"</string>
+    <string name="uv_signin_dialog_ok">"Logga in"</string>
+    <string name="uv_signin_dialog_title">"Logga in"</string>
+    <string name="uv_status_format">"Status: %1$s"</string>
+    <string name="uv_submit_idea">"Skicka in idén"</string>
+    <string name="uv_subscribe">"Prenumerera"</string>
+    <string name="uv_subscribe_dialog_title">"Prenumerera på den här idén"</string>
+    <string name="uv_suggestion_instant_answer_question">"Är den här idén till hjälp?"</string>
+    <string name="uv_thanks">"Tack!"</string>
+    <string name="uv_unhelpful_article_message_question">"Vill du skicka ett meddelande till oss?"</string>
+    <string name="uv_value">"Värde"</string>
+    <string name="uv_very_yes">"Ja!"</string>
+    <string name="uv_yes">"Ja"</string>
+    <string name="uv_your_email_address">"Din e-postadress"</string>
+    <string name="uv_your_name">"Ditt namn"</string>
+    <string description="version" maxwidth="-1" name="version">"Version"</string>
+    <string name="version_text">version</string>
+    <string name="wait">"Vänta…"</string>
+    <string name="warning_stophttpserver">"Du kommer att förlora anslutningen mellan mobiltelefonen och datorn. Vill du fortsätta?"</string>
+    <string name="whats_new_label">Vad är nytt</string>
+    <string description="message for request to connect Network" name="wifi_p2p_connection_msg" width="-1">För att etablera en nätverksanslutning för att använda med molntjänster.</string>
+    <string description="title for request to connect Network" name="wifi_p2p_connection_title" width="-1">Etablera en nätverksanslutning</string>
+    <string description="message for request to turn on Wi-Fi" name="wifi_p2p_turn_on_wifi_msg" width="-1">Na používanie služieb Wi-Fi Direct musí byť zapnuté Wi-Fi. Zapnúť Wi-Fi teraz?</string>
+    <string description="title for turn on WiFi dialog" name="wifi_p2p_turn_on_wifi_title" width="-1">Zapnúť Wi-Fi</string>
+    <string description="search" maxwidth="-1" name="wifidirect_action_bar_scan">Sök</string>
+    <string description="Available devices" maxwidth="-1" name="wifidirect_available_devices">Tillgängliga enheter</string>
+    <string description="Do you want to connect to device" maxwidth="-1" name="wifidirect_connect_hint">Vill du ansluta med</string>
+    <string description="Dialog title text: Invitation to connect" maxwidth="-1" name="wifidirect_connect_hint_title">Inbjudan att ansluta</string>
+    <string description="Dialog title text: Wi-Fi Direct connecting" maxwidth="-1" name="wifidirect_connecting_hint_title">Wi-Fi Direct ansluter...</string>
+    <string description="connectted" maxwidth="-1" name="wifidirect_connectted">Ansluten</string>
+    <string description=">Do you want to disconnect" maxwidth="-1" name="wifidirect_disconnect_hint">Vill du koppla från med</string>
+    <string description="Disconnect Wi-Fi Direct" maxwidth="-1" name="wifidirect_disconnect_hint_title">Koppla ifrån Wi-Fi Direct</string>
+    <string description="peer devices infomation" maxwidth="-1" name="wifidirect_peer_device_info">Ak chcete získať pozvanie Wi-Fi Direct, Vaše pripojené zariadenie musí v aplikácii filhanteraren zostať na stránke \„Rovnocenné zariadenia“\.</string>
+    <string description="peer devices title" maxwidth="-1" name="wifidirect_peer_device_title">Peer-enheter</string>
+    <string description="searching" maxwidth="-1" name="wifidirect_scanning">Söker...</string>
+    <string description="Search Wi-Fi Direct device" maxwidth="-1" name="wifidirect_storage_title">Hľadať zariadenie Wi-Fi Direct</string>
+    <string description="click to connect" maxwidth="-1" name="wifidirect_touch_to_connect">Klicka för att ansluta</string>
+    <string name="yandex_account_only_one_alert">"Endast ett Yandex-konto får läggas till åt gången. Du måste radera ditt nuvarande konto innan du lägger till ett nytt."</string>
+    <string name="yes">Ja</string>
+    <string name="zenui_update">"ZenUI direkta uppdateringar"</string>
+    <string description="toast message: Compress files fail" maxwidth="-1" name="zip_fail">Det gick inte att komprimera filer</string>
+    <string description="compress dialog message" maxwidth="-1" name="zip_progress_msg">Bearbetar...</string>
+    <string description="toast message: Compress files successly" maxwidth="-1" name="zip_success">Filerna komprimerades</string>
+</resources>

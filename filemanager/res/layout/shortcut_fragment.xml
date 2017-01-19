@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/* Copyright 2010, The Android Open Source Project
+**
+** Licensed under the Apache License, Version 2.0 (the "License");
+** you may not use this file except in compliance with the License.
+** You may obtain a copy of the License at
+**
+**     http://www.apache.org/licenses/LICENSE-2.0
+**
+** Unless required by applicable law or agreed to in writing, software
+** distributed under the License is distributed on an "AS IS" BASIS,
+** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+** See the License for the specific language governing permissions and
+** limitations under the License.
+*/
+-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/asus_ep_shortcut_fragment_bg">
+
+    <TextView android:layout_width="match_parent"
+        android:id="@+id/mystorage_title"
+        android:layout_height="50dp"
+        android:paddingLeft="30dp"
+        android:background="@drawable/asus_ep_shortcut_title_bg"
+        style="@style/witeTextStyle"
+        android:text="@string/my_storage_title_new"
+        android:textSize="20sp"
+        android:singleLine="true"
+        android:visibility="gone"
+    />
+
+    <FrameLayout android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:background="@drawable/asus_ep_shortcut_button_bg_normal">
+
+        <com.asus.filemanager.utility.ShortCutHScrollView android:id="@+id/listContainer"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:fadingEdge="none"
+                android:fillViewport="true">
+
+            <ExpandableListView android:id="@android:id/list"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:fadingEdge="none"
+                    android:scrollbars="none"
+                    android:divider="@null"/>
+        </com.asus.filemanager.utility.ShortCutHScrollView>
+
+        <LinearLayout android:id="@+id/progressContainer"
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:visibility="gone"
+                android:gravity="center"
+                android:focusable="false"
+                android:clickable="false">
+
+            <ProgressBar style="?android:attr/progressBarStyleLarge"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+            <TextView android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="@string/loading"
+                    android:textColor="?text_color"
+                    android:paddingTop="4dip"
+                    android:singleLine="true" />
+
+        </LinearLayout>
+
+        <!-- the view just for dragging and dropping operation to detect the list bottom when scrolling-->
+        <View android:id="@+id/list_bottom"
+            android:layout_width="match_parent"
+            android:layout_height="20dip"
+            android:background="@android:color/transparent"
+            android:layout_gravity="bottom"/>
+    </FrameLayout>
+
+    <TextView android:layout_width="match_parent"
+        android:id="@+id/shortcut_title"
+        android:layout_height="50dp"
+        android:paddingLeft="30dp"
+        android:background="@drawable/asus_ep_shortcut_title_bg"
+        style="@style/witeTextStyle"
+        android:text="@string/short_cuts_title"
+        android:textSize="20sp"
+        android:visibility="gone"
+    />
+
+    <View android:layout_width="match_parent"
+         android:layout_height="1dp"
+         android:background="@drawable/asus_ep_shortcut_divider"
+         android:visibility="gone"
+    />
+
+    <LinearLayout android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:orientation="horizontal"
+        android:background="@drawable/asus_ep_shortcut_title_bg"
+        android:visibility="gone">
+
+        <LinearLayout android:id="@+id/shortcut_picture"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+            android:background="@drawable/asus_ep_shortcut_bg"
+            android:paddingTop="3dp"
+            android:focusable="true"
+            android:clickable="true"
+            android:layout_weight="1">
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/asus_ep_ic_my_picture"
+                android:focusable="false"
+                android:clickable="false"/>
+
+            <TextView android:layout_width="74dp"
+                android:layout_height="wrap_content"
+                style="@style/witeTextButtonStyle"
+                android:textSize="16dp"
+                android:text="@string/my_picture_title_new"
+                android:gravity="center"
+                android:focusable="false"
+                android:clickable="false"/>
+        </LinearLayout>
+
+        <View android:layout_width="1dp"
+             android:layout_height="match_parent"
+             android:background="@drawable/asus_ep_shortcut_divider"
+             android:layout_marginTop="10dp"
+             android:layout_marginBottom="10dp"
+        />
+
+        <LinearLayout android:id="@+id/shortcut_camera"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+            android:background="@drawable/asus_ep_shortcut_bg"
+            android:paddingTop="3dp"
+            android:focusable="true"
+            android:clickable="true"
+            android:layout_weight="1">
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/asus_ep_ic_my_camera"
+                android:focusable="false"
+                android:clickable="false"/>
+
+            <TextView android:layout_width="74dp"
+                android:layout_height="wrap_content"
+                style="@style/witeTextButtonStyle"
+                android:textSize="16dp"
+                android:text="@string/my_camera_title_new"
+                android:gravity="center"
+                android:focusable="false"
+                android:clickable="false"/>
+        </LinearLayout>
+
+        <View android:layout_width="1dp"
+             android:layout_height="match_parent"
+             android:background="@drawable/asus_ep_shortcut_divider"
+             android:layout_marginTop="10dp"
+             android:layout_marginBottom="10dp"
+        />
+
+        <LinearLayout android:id="@+id/shortcut_music"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+            android:background="@drawable/asus_ep_shortcut_bg"
+            android:paddingTop="3dp"
+            android:focusable="true"
+            android:clickable="true"
+            android:layout_weight="1">
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/asus_ep_ic_my_music"
+                android:focusable="false"
+                android:clickable="false"/>
+
+            <TextView android:layout_width="74dp"
+                android:layout_height="wrap_content"
+                style="@style/witeTextButtonStyle"
+                android:textSize="16dp"
+                android:text="@string/my_music_title_new"
+                android:gravity="center"
+                android:focusable="false"
+                android:clickable="false"/>
+        </LinearLayout>
+
+        <View android:layout_width="1dp"
+             android:layout_height="match_parent"
+             android:background="@drawable/asus_ep_shortcut_divider"
+             android:layout_marginTop="10dp"
+             android:layout_marginBottom="10dp"
+        />
+
+        <LinearLayout android:id="@+id/shortcut_download"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+            android:background="@drawable/asus_ep_shortcut_bg"
+            android:paddingTop="3dp"
+            android:focusable="true"
+            android:clickable="true"
+            android:layout_weight="1">
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/asus_ep_ic_my_download"
+                android:focusable="false"
+                android:clickable="false"/>
+
+            <TextView android:layout_width="95dp"
+                android:layout_height="wrap_content"
+                style="@style/witeTextButtonStyle"
+                android:textSize="16dp"
+                android:text="@string/my_download_title_new"
+                android:paddingRight="4dp"
+                android:gravity="center"
+                android:focusable="false"
+                android:clickable="false"/>
+        </LinearLayout>
+
+    </LinearLayout>
+</LinearLayout>
+

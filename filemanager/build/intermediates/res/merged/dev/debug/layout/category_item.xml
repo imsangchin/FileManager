@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/item"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_weight="1"
+    android:focusable="true" >
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true" >
+
+        <RelativeLayout
+            android:layout_width="@dimen/category_image_height"
+            android:layout_height="@dimen/category_image_height"
+            android:layout_centerHorizontal="true" >
+
+            <ImageView
+                android:id="@+id/icon"
+                android:layout_width="@dimen/category_image_height"
+                android:layout_height="@dimen/category_image_height"
+                android:scaleType="centerInside"
+                android:background="@drawable/category_circle"
+                android:src="@drawable/icon_image" />
+        </RelativeLayout>
+
+        <com.asus.filemanager.ui.AutoResizeTextView
+            android:id="@+id/count"
+            android:layout_width="@dimen/category_image_count_width"
+            android:layout_height="@dimen/category_image_count_height"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="@dimen/category_capsule_margin"
+            android:gravity="center"
+            android:singleLine="true"
+            android:textColor="@color/category_image_count_font_color"
+            android:textSize="@dimen/category_image_count_font_size"
+            android:background="?caplet_color"
+             />
+
+        <com.asus.filemanager.ui.AutoResizeTextView
+            android:id="@+id/name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/count"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="@dimen/category_item_marginbottom"
+            android:gravity="top"
+            android:singleLine="true"
+            android:text="@string/category_image"
+            android:textSize="@dimen/category_image_font_size"
+            android:textColor="?category_image_font_color" />
+    </RelativeLayout>
+
+</RelativeLayout>

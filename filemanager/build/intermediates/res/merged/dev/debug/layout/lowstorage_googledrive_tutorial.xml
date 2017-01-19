@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/lowstorage_tutorial"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/category_image_font_color" >
+
+    <RelativeLayout
+        android:id="@+id/tutorial_content"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:gravity="center_vertical|center_horizontal" >
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/tutorial_info"
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="50dp"
+            android:layout_marginRight="50dp"
+            android:layout_weight="1"
+            android:adjustViewBounds="true"
+            android:scaleType="fitCenter"
+            android:src="@drawable/ic_tips_for_storage_low" />
+
+        <LinearLayout
+            android:id="@+id/tutorial_info"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_marginLeft="50dp"
+            android:layout_marginRight="50dp"
+            android:layout_weight="1"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="sans-serif"
+                android:text="@string/low_storage_tutorial_title"
+                android:textColor="@color/category_local_storage_space_font_color"
+                android:textSize="23sp" />
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:fontFamily="sans-serif"
+                android:text="@string/low_storage_tutorial_description"
+                android:textColor="@color/color_white" />
+
+            <Button
+                android:id="@+id/button_ok"
+                android:layout_width="106dp"
+                android:layout_height="38dp"
+                android:layout_marginTop="20dp"
+                android:background="@color/category_local_storage_space_font_color"
+                android:gravity="center"
+                android:text="@string/ok"
+                android:textColor="@color/white" />
+        </LinearLayout>
+    </RelativeLayout>
+
+</RelativeLayout>

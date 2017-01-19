@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="actionbar_color">#3e5776</color>
+    <color name="actionmode_bg">#353535</color>
+    <color name="file_list_item_name_grey">#323232</color>
+    <color name="statusbar_color">#3e5776</color>
+    <color name="transmission_divider_gray">#3e5776</color>
+    <color name="white">#FFFFFF</color>
+    <style name="ActionBarStyle" parent="@android:style/Widget.DeviceDefault.Light.ActionBar.Solid.Inverse">
+        <item name="android:titleTextStyle">@style/ActionBarTitleTextStyle</item>
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+    <style name="ActionBarTitleTextStyle" parent="@android:style/TextAppearance.DeviceDefault.Widget.ActionBar.Title.Inverse">
+        <item name="android:textSize">23sp</item>
+    </style>
+    <style name="ActionModeStyle" parent="android:style/Widget.DeviceDefault.ActionMode">
+        <item name="android:titleTextStyle">@style/WhiteTextStyle.Medium</item>
+    </style>
+    <style name="AlertDailogStyle" parent="@android:style/Theme.DeviceDefault.Light.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+    <style name="ProgressInfoActivityStyle" parent="android:Theme.DeviceDefault.Light.DarkActionBar">
+        <!-- API 19 theme customizations can go here. -->
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:actionBarStyle">@style/ActionBarStyle</item>
+        <item name="android:actionModeStyle">@style/ActionModeStyle</item>
+        <item name="android:actionModeBackground">@color/actionmode_bg</item>
+        <item name="android:homeAsUpIndicator">@drawable/asus_back</item>
+        <item name="android:height">48dip</item> 
+        <item name="android:textSize">23dip</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="WhiteTextStyle.Medium" parent="witeTextStyle">
+        <item name="android:textSize">18sp</item>
+    </style>
+    <style name="witeTextStyle">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:ellipsize">end</item>
+    </style>
+</resources>

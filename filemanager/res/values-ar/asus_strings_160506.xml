@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!--Text for trash-->
+    <string name="permanently_delete">"حذف نهائي"</string>
+    <string name="tools_recycle_bin">"سلة المهملات"</string>
+    <!--string name="move_or_delete">Move or delete</string-->
+    <string name="move_or_delete_msg">"حذف العناصر مؤقتًا في سلة المهملات الآن؟\n(اختر المربع أدناه لحذف العناصر نهائيًا.)"</string>
+    <string name="move_to_trash_progress" description="Progress Content: text in progress dialog" maxwidth="">"جاري النقل إلى سلة المهملات..."</string>
+    <string name="move_to_trash_success_one" description="Toast: move to recycle bin success. %s is variable string." maxwidth="-1">"\"%s\" تم نقله إلى سلة المهملات"</string>
+    <string name="move_to_trash_success_more" description="Toast: move to recycle bin success" maxwidth="-1">"الملفات المحددة تم نقلها إلى سلة المهملات"</string>
+    <string name="move_to_trash_fail" description="Toast: move to recycle bin fails" maxwidth="-1">"فشل النقل إلى سلة المهملات"</string>
+    <string name="trash_info_deleted" maxwidth="-1">"تاريخ الحذف: "</string>
+    <string name="trash_info_path" maxwidth="-1">"المسار الأصلي: "</string>
+    <string name="action_clean_all" maxwidth="-1">"تنظيف الكل"</string>
+    <string name="action_restore_all" maxwidth="-1">"استعادة الكل"</string>
+    <string name="action_clean" maxwidth="-1">"تنظيف"</string>
+    <string name="action_restore" maxwidth="-1">"استعادة"</string>
+    <string name="restore_success_one" description="Toast: restore success. %s is variable string." maxwidth="-1">"\"%s\" تم استعادته"</string>
+    <string name="restore_success_more" description="Toast: restore success" maxwidth="-1">"تمت استعادة الملفات المحددة"</string>
+    <string name="restore_fail" description="Toast: restore fails" maxwidth="-1">"فشلت الاستعادة"</string>
+    <string name="restore_progress" description="Progress Content: text in progress dialog" maxwidth="">"جاري الاستعادة..."</string>
+    <string name="calculate_progress" description="Progress Content: text in progress dialog" maxwidth="">"قيد التقدم..."</string>
+    <string name="msg_too_big_to_recycle">"العناصر كبيرة للغاية على سلة المهملات.\nهل تريد حذفها نهائيًا؟"</string>
+    <string name="duplicate_files">"ملفات مكررة"</string>
+    <string name="duplicate_files_content_hint">"العثور على الملفات المكررة وحذفها بإذنك."</string>
+</resources>

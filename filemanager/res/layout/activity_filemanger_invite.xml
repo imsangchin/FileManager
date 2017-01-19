@@ -1,0 +1,99 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="?normal_background_color" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center" >
+
+            <TextView
+                android:id="@+id/activity_filemanager_invite_share_hint"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/activity_filemanager_invite_text_margin"
+                android:layout_marginTop="@dimen/activity_filemanager_invite_layout_margintop"
+                android:gravity="center"
+                android:text="@string/share_with_friend"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="?title_color" />
+
+            <TextView
+                android:id="@+id/activity_filemanager_invite_scan_hint"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/activity_filemanager_invite_share_hint"
+                android:layout_centerHorizontal="true"
+                android:layout_marginBottom="@dimen/activity_filemanager_invite_text_margin"
+                android:gravity="center"
+                android:text="@string/scan_qr_code"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="?subtitle_color" />
+
+            <TextView
+                android:id="@+id/activity_filemanager_invite_recommend_hint"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/activity_filemanager_invite_qrcode"
+                android:layout_centerHorizontal="true"
+                android:layout_marginBottom="@dimen/activity_filemanager_invite_text_button_margin"
+                android:gravity="center"
+                android:text="@string/recommend_scan_qr_code"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="?subtitle_color" />
+
+            <Button
+                android:id="@+id/activity_filemanager_invite_google"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@+id/activity_filemanager_invite_recommend_hint"
+                android:layout_alignRight="@+id/activity_filemanager_invite_recommend_hint"
+                android:layout_below="@+id/activity_filemanager_invite_recommend_hint"
+                android:layout_marginBottom="@dimen/activity_filemanager_invite_button_margin"
+                android:background="@drawable/dialog_button_background"
+                android:textColor="@color/white"
+                android:text="@string/google_app_invite"
+                style="?android:attr/borderlessButtonStyle"
+                />
+
+            <Button
+                android:id="@+id/activity_filemanager_invite_fb"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@+id/activity_filemanager_invite_google"
+                android:layout_alignRight="@+id/activity_filemanager_invite_google"
+                android:layout_below="@+id/activity_filemanager_invite_google"
+                android:layout_marginBottom="@dimen/activity_filemanager_invite_button_margin"
+                android:background="@drawable/dialog_button_background"
+                android:textColor="@color/white"
+                android:text="@string/facebook_app_invite"
+                style="?android:attr/borderlessButtonStyle" />
+
+            <Button
+                android:id="@+id/activity_filemanager_invite_more"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@+id/activity_filemanager_invite_fb"
+                android:layout_alignRight="@+id/activity_filemanager_invite_fb"
+                android:layout_below="@+id/activity_filemanager_invite_fb"
+                android:layout_marginBottom="@dimen/activity_filemanager_invite_button_margin"
+                android:background="@drawable/dialog_button_background"
+                android:textColor="@color/white"
+                android:text="@string/share_more"
+                style="?android:attr/borderlessButtonStyle" />
+
+            <ImageView
+                android:id="@+id/activity_filemanager_invite_qrcode"
+                android:layout_width="@dimen/activity_filemanager_invite_qrcode_size"
+                android:layout_height="@dimen/activity_filemanager_invite_qrcode_size"
+                android:layout_below="@+id/activity_filemanager_invite_scan_hint"
+                android:layout_centerHorizontal="true"
+                android:layout_marginBottom="@dimen/activity_filemanager_invite_text_margin"
+                android:background="@color/white"
+                android:src="@drawable/asus_invite_qrcode" />
+        </RelativeLayout>
+
+
+</ScrollView>

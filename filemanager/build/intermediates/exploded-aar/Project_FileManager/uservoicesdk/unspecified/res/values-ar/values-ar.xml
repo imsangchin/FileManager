@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="uf_sdk_number_of_subscribers_format">
+        <item quantity="one">"%1$s يعجبه هذا الموضوع"</item>
+        <item quantity="other">"%1$s يعجبهم هذا الموضوع"</item>
+    </plurals>
+    <plurals name="uf_sdk_topics">
+        <item quantity="one">"الموضوع"</item>
+        <item quantity="other">"الموضوعات"</item>
+    </plurals>
+    <plurals name="uv_comments">
+        <item quantity="one">"التعليق"</item>
+        <item quantity="other">"التعليقات"</item>
+    </plurals>
+    <plurals name="uv_number_of_subscribers_format">
+        <item quantity="one">"%1$s يريد هذه الفكرة"</item>
+        <item quantity="other">"%1$s يريدون هذه الفكرة"</item>
+    </plurals>
+    <plurals name="uv_people">
+        <item quantity="one">"الشخص"</item>
+        <item quantity="other">"الأشخاص"</item>
+    </plurals>
+    <plurals name="uv_subscribers">
+        <item quantity="one">"المشترك"</item>
+        <item quantity="other">"المشتركون"</item>
+    </plurals>
+    <string description="label for trending searches" maxwidth="-1" name="trending_searches">"عمليات البحث المتداولة"</string>
+    <string name="uf_sdk_already_give_5star">"بالفعل منح تقييم 5 نجوم"</string>
+    <string description="%d is a number, don&apos;t translate" name="uf_sdk_article_read_count">"%d مشاهدات"</string>
+    <string name="uf_sdk_attachment_format_warning">"تنسيق ملف خطأ. يمكن إرفاق ملف صورة فقط"</string>
+    <string name="uf_sdk_attachment_total_size">"الإجمالي"</string>
+    <string name="uf_sdk_attachment_warning">"يتجاوز حجم المرفق الحد المسموح به"</string>
+    <string maxwidth="-1" name="uf_sdk_cancel_btn_content">"إلغاء"</string>
+    <string name="uf_sdk_choosertitle_sharevia">"مشاركة عبر"</string>
+    <string name="uf_sdk_connection_error_msg">"تم إيقاف الاتصال بواسطة الخادم. يرجى المحاولة لاحقًا."</string>
+    <string name="uf_sdk_connection_error_title">"خطأ في الاتصال"</string>
+    <string name="uf_sdk_discard">"تجاهل"</string>
+    <string name="uf_sdk_email_illigal">"عنوان البريد الإلكتروني مستخدم بالفعل"</string>
+    <string maxwidth="-1" name="uf_sdk_empty_notification">"فارغ :)"</string>
+    <string name="uf_sdk_faq">"الأسئلة الشائعة"</string>
+    <string name="uf_sdk_feedback_and_help">"التعليقات والمساعدة"</string>
+    <string name="uf_sdk_forum_description">"انضم للمحادثة مع مستخدمي ASUS للعثور على الحلول الخاصة بك ومشاركتها"</string>
+    <string maxwidth="-1" name="uf_sdk_grant_permission_title">"منح الإذن إلى"</string>
+    <string name="uf_sdk_help">"المساعدة"</string>
+    <string name="uf_sdk_instant_answer_question">"هل هذه الأسئلة الشائعة مفيدة؟"</string>
+    <string name="uf_sdk_like">"إعجاب"</string>
+    <string maxwidth="-1" name="uf_sdk_message">"إشعارات"</string>
+    <string name="uf_sdk_msg_bad_email_format">"عنوان البريد الإلكتروني غير صالح, يرجى المحاولة مرة أخرى."</string>
+    <string name="uf_sdk_msg_confirm_discard_topic">"لن يتم حفظ مسودتك. هل تريد حذفها على أي حال؟"</string>
+    <string name="uf_sdk_msg_confirm_discard_topic_title">"حذف المنشور؟"</string>
+    <string name="uf_sdk_msg_subscribe">"الاشتراك في إشعارات حالة الموضوع سيتم تسليمه إليك عبر البريد الإلكتروني."</string>
+    <string name="uf_sdk_msg_subscribe_success">"تم الاشتراك بنجاح"</string>
+    <string name="uf_sdk_msg_ticket_created">"تم إرسال تعليقك بنجاح إلى ASUS"</string>
+    <string name="uf_sdk_msg_topic_created">"تم النشر بنجاح"</string>
+    <string name="uf_sdk_msg_unsubscribe">"تم إلغاء الاشتراك بنجاح"</string>
+    <string name="uf_sdk_name_hint">"أدخل اسمك"</string>
+    <string name="uf_sdk_name_illigal">"اسم المستخدم مستخدم بالفعل"</string>
+    <string name="uf_sdk_network_error">"إذا كان لا يوجد اتصال بالإنترنت, فيرجى التحقق من إعدادات الشبكة لديك."</string>
+    <string description="zenui news" maxwidth="" name="uf_sdk_news">"أخبار"</string>
+    <string name="uf_sdk_no_network_connection_content">"تم إيقاف الاتصال بواسطة الخادم. يرجى المحاولة لاحقًا."</string>
+    <string name="uf_sdk_no_network_connection_title">"خطأ في الاتصال"</string>
+    <string name="uf_sdk_nothing_found">"لم يتم العثور على أي شيء"</string>
+    <string name="uf_sdk_notice">"ملحوظة"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category1">"إعلانات"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category2">"دروس تعليمية ومعلومات"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category3">"عروض ترويجية"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category4">"أحداث"</string>
+    <string name="uf_sdk_publish_an_topic">"نشر موضوع جديد"</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_rate_now">"قيِّم الآن"</string>
+    <string description="%s is AP name, don&apos;t translate" maxWidth="" name="uf_sdk_rate_us_detail">"إذا كنت تستمتع باستخدام %s, فقيِّمنا بـ 5 نجوم على Play Store."</string>
+    <string maxWidth="" name="uf_sdk_rate_us_detail_new">"دعمك لنا عن طريق تقييمنا بـ 5 نجوم يلهمنا للاستمرار في عملنا!"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_rating">"تقييم بـ 5 نجوم"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title">"قيِّمنا"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title_new">"شجعنا!"</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_scroll_up_toast">"يرجى التمرير لأعلى للتقييم"</string>
+    <string name="uf_sdk_search_hint">"بحث المساعدة"</string>
+    <string name="uf_sdk_select_common_bug">"تحديد خطأ شائع"</string>
+    <string name="uf_sdk_send_feedback">"إرسال تعليق"</string>
+    <string name="uf_sdk_send_feedback_help">"سيتم إرسال تعليقك وعنوان بريدك الإلكتروني إلى ASUS. سيتصل بك فريق الخدمة عبر البريد الإلكتروني."</string>
+    <string maxwidth="-1" name="uf_sdk_setting_btn_content">"الإعدادات"</string>
+    <string description="recommend title" maxwidth="" name="uf_sdk_settings_encourage_us_title">"شجعنا"</string>
+    <string maxwidth="-1" name="uf_sdk_storage_permission_description">"تحتاج هذه الوظيفة إلى إذن التخزين للوصول إلى ملفات الوسائط المتعددة. \n\nإذا كنت تريد تمكين هذه الوظيفة، يرجى لمس زر الإعدادات للوصول إلى صفحة إعدادات ، ثم إعداد \"معلومات التطبيق\" > \"الأذونات\" لمنح الإذن.\n"</string>
+    <string name="uf_sdk_submit_topic">"نشر"</string>
+    <string name="uf_sdk_subscribe_dialog_title">"الاشتراك في هذا الموضوع"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_answered">"مردود عليه"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_completed">"مكتمل"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_declined">"مرفوض"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_implemented">"منفذ"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_planned">"مخطط"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_under_review">"يخضع للمراجعة"</string>
+    <string name="uf_sdk_thanks_for_your_feedback">"شكرًا لك على تعليقك!"</string>
+    <string description="%s is a application name, don&apos;t translate" name="uf_sdk_ticket_hint">"إدخال تعليقات لـ %s"</string>
+    <string name="uf_sdk_title_topic">"الموضوع"</string>
+    <string name="uf_sdk_topic">"الموضوع"</string>
+    <string name="uf_sdk_topic_description_heading">"الوصف"</string>
+    <string name="uf_sdk_topic_description_hint">"صِف موضوعك بالتفصيل"</string>
+    <string name="uf_sdk_topic_filter">"الموضوعات"</string>
+    <string name="uf_sdk_topic_form_help">"عندما تنشر موضوعًا على منتدى المستخدم, سيتمكن المستخدمون الآخرون من المشاركة فيه والتعليق عليه. بالإضافة إلى ذلك، عندما يستجيب فريق تطوير ASUS لموضوعك, سيتم إعلامك عبر البريد الإلكتروني."</string>
+    <string name="uf_sdk_topic_form_title">"نشر موضوع جديد"</string>
+    <string name="uf_sdk_topic_text_heading">"المنتدى"</string>
+    <string name="uf_sdk_topic_text_hint">"اكتب عنوان موضوعك"</string>
+    <string name="uf_sdk_topic_title">"العنوان"</string>
+    <string name="uf_sdk_translation_10117605">"مشكلة ترجمة"</string>
+    <string name="uf_sdk_translation_117562">"نوع التعليق"</string>
+    <string name="uf_sdk_translation_2529543">"إبلاغ عن خطأ"</string>
+    <string name="uf_sdk_translation_2529544">"أخرى"</string>
+    <string name="uf_sdk_translation_2530478">"اقتراح"</string>
+    <string name="uf_sdk_unhelpful_article_message_question">"هل تريد إرسال تعليق إلى فريق تطوير ASUS؟"</string>
+    <string name="uf_sdk_user_forum">"منتدى المستخدم"</string>
+    <string name="uf_sdk_warning">"تحذير"</string>
+    <string name="uf_sdk_wifi_settings">"إعدادات Wi-Fi"</string>
+    <string name="uf_sdk_wlan_settings">"إعدادات WLAN"</string>
+    <string name="uf_sdk_write_your_feedback">"أدخل التعليقات هنا"</string>
+    <string name="uf_sdk_your_draft_will_be_discarded">"سيتم تجاهل مسودتك."</string>
+    <string description="description for empty search result" maxwidth="-1" name="unable_to_find_artlcles">"لا يمكن العثور على مقالات مرتبطة بـ \u0022%s\u0022"</string>
+    <string name="uv_admin_response_format">"استجابة المدير: %1$s"</string>
+    <string name="uv_all_articles">"كل المقالات"</string>
+    <string name="uv_all_results_filter">"الكل"</string>
+    <string name="uv_android_sdk">Android SDK</string>
+    <string name="uv_article_browse_question">"هل كان هذا المقال مفيدًا؟"</string>
+    <string name="uv_article_instant_answer_question">"هل هذه الأسئلة الشائعة مفيدة؟"</string>
+    <string name="uv_cancel">"إلغاء"</string>
+    <string name="uv_category">"الفئة"</string>
+    <string name="uv_close">"إغلاق"</string>
+    <string name="uv_comment_hint">"أدخل تعليقك"</string>
+    <string name="uv_confirm">"تأكيد"</string>
+    <string name="uv_contact_continue_button">"ما زلت أريد إرسال رسالة"</string>
+    <string name="uv_contact_hint">"أدخل سؤالك أو تعليقك"</string>
+    <string name="uv_contact_us">"اتصل بنا"</string>
+    <string name="uv_display_name">"اسم العرض"</string>
+    <string name="uv_email_address">"عنوان البريد الإلكتروني"</string>
+    <string name="uv_email_address_hint">"your@email.com (مطلوب)"</string>
+    <string name="uv_error">"خطأ"</string>
+    <string name="uv_failed_signin_error">"بريد إلكتروني أو كلمة مرور غير صحيحة"</string>
+    <string name="uv_forgot_password">"نسيت كلمة المرور"</string>
+    <string name="uv_helpful_article_message_question">"هل ما زلت تريد إرسال رسالة؟"</string>
+    <string name="uv_i_want_this">"أريد ذلك!"</string>
+    <string name="uv_idea_description_heading">"صِف فكرتك بتفصيل أكثر"</string>
+    <string name="uv_idea_description_hint">"(خياري)"</string>
+    <string name="uv_idea_text_heading">"أنا أقترح عليك..."</string>
+    <string name="uv_loading">"جاري التحميل..."</string>
+    <string name="uv_matching_articles">"المقالات المطابقة"</string>
+    <string name="uv_matching_articles_and_ideas">"المقالات والأفكار المطابقة"</string>
+    <string name="uv_menu_attach">"إرفاق"</string>
+    <string name="uv_menu_search">"بحث"</string>
+    <string name="uv_msg_bad_email_format">"يرجى إدخال عنوان بريد إلكتروني صالح."</string>
+    <string name="uv_msg_comment_posted">"تم نشر تعليقك"</string>
+    <string name="uv_msg_confirm_discard_message">"هل تريد بالتأكيد تجاهل رسالتك؟"</string>
+    <string name="uv_msg_custom_fields_validation">"يرجى ملء كل الحقول المطلوبة."</string>
+    <string name="uv_msg_forgot_password">"تم إرسال البريد الإلكتروني الخاص بنسيان كلمة المرور"</string>
+    <string name="uv_msg_idea_created">"تم إنشاء فكرتك"</string>
+    <string name="uv_msg_ticket_created">"تم إرسال رسالتك"</string>
+    <string name="uv_msg_user_identity_validation">"يرجى إدخال عنوان بريدك الإلكتروني"</string>
+    <string name="uv_name_hint">"مجهول"</string>
+    <string name="uv_network_error">""كان هناك خطأ في الاتصال بـ UserVoice"</string>
+    <string name="uv_nevermind">"لا عليك"</string>
+    <string name="uv_new_comment">"تعليق جديد"</string>
+    <string name="uv_next">"التالي"</string>
+    <string name="uv_no">"لا"</string>
+    <string name="uv_none_of_these_help">"أي من هذه لا يفيد"</string>
+    <string name="uv_password">"كلمة المرور"</string>
+    <string name="uv_password_dialog_title">"يرجى إدخال كلمة مرورك"</string>
+    <string name="uv_portal_title">"المساعدة"</string>
+    <string name="uv_post_a_comment">"انشر تعليقًا"</string>
+    <string name="uv_post_comment">"نشر التعليق"</string>
+    <string name="uv_posted_by_format">"نشر بواسطة %1$s في %2$s"</string>
+    <string name="uv_powered_by_uservoice">"مشغل بواسطة UserVoice"</string>
+    <string name="uv_ranked">"ترتيب %1$s"</string>
+    <string name="uv_remove_votes">"إزالة الأصوات"</string>
+    <string name="uv_select_none">"(لا شيء)"</string>
+    <string name="uv_select_one">"حدد واحدًا"</string>
+    <string name="uv_send_message">"إرسال الرسالة"</string>
+    <string name="uv_signin_dialog_ok">"تسجيل الدخول"</string>
+    <string name="uv_signin_dialog_title">"تسجيل الدخول"</string>
+    <string name="uv_status_format">"الحالة: %1$s"</string>
+    <string name="uv_submit_idea">"إرسال الفكرة"</string>
+    <string name="uv_subscribe">"اشترك"</string>
+    <string name="uv_subscribe_dialog_title">"الاشتراك في هذه الفكرة"</string>
+    <string name="uv_suggestion_instant_answer_question">"هل هذه الفكرة مفيدة؟"</string>
+    <string name="uv_thanks">"شكرًا!"</string>
+    <string name="uv_unhelpful_article_message_question">"هل تريد إرسال رسالة إلينا؟"</string>
+    <string name="uv_value">"القيمة"</string>
+    <string name="uv_very_yes">"نعم!"</string>
+    <string name="uv_yes">"نعم"</string>
+    <string name="uv_your_email_address">"عنوان بريدك الإلكتروني"</string>
+    <string name="uv_your_name">"اسمك"</string>
+</resources>

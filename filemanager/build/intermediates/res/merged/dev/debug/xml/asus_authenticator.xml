@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<account-authenticator xmlns:android="http://schemas.android.com/apk/res/android"
+    android:accountType="com.asus.account.asusservice"
+    android:label="@string/account_asus"
+    android:icon="@drawable/asus_service2"
+    android:customTokens="true"
+    android:accountPreferences="@xml/asus_preference"
+    android:smallIcon="@drawable/asus_service2" />

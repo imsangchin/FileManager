@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="file_manager" description="Application Name shown on title" maxwidth="">"Upravitelj datotek"</string>
+    <string name="ok" description="Dialog Button: ok for dialog" maxwidth="">"V redu"</string>
+    <string name="no" description="Dialog Button: no for dialog" maxwidth="">"Ne"</string>
+    <string name="cancel" description="Dialog Button: cancel for dialog" maxwidth="">"Prekliči"</string>
+    <string name="select_all" description="Menu Option: select all checkbox" maxwidth="">"Izberi vse"</string>
+    <string name="clear_all" description="Menu Option: clear all checkbox" maxwidth="">"Počisti vse"</string>
+    <string name="open_fail" description="Toast: open file fails" maxwidth="-1">"Odpiranje datoteke ni uspelo."</string>
+    <string name="permission_deny" description="Toast: operation permission deny" maxwidth="-1">"Dovoljenje zavrnjeno."</string>
+    <string name="target_exist" description="Toast: target file exists" maxwidth="-1">"Ciljna datoteka obstaja."</string>
+    <string name="target_folder_exist" description="Toast: target folder exists. %s is variable string." maxwidth="-1">"Mapa \"%s\" že obstaja."</string>
+    <string name="rename" description="Context Menu: options of context menu" maxwidth="">"Preimenuj"</string>
+    <string name="rename_dialog" description="Dialog Title: rename dialog title" maxwidth="">"Preimenuj"</string>
+    <string name="rename_fail" description="Toast: rename fails" maxwidth="-1">"Preimenovanje datoteke ni uspelo."</string>
+    <string name="delete" description="Context Menu: options of context menu" maxwidth="">"Izbriši"</string>
+    <string name="delete_dialog" description="Dialog Title: delete dialog title" maxwidth="">"Izbriši datoteko"</string>
+    <string name="delete_one_files" description="Dialog Content: text in dialog" maxwidth="">"Ali želite izbrisati datoteko?"</string>
+    <string name="delete_more_files" description="Dialog Content: text in dialog. %d is variable number." maxwidth="">"Ali želite izbrisati elemente %d?"</string>
+    <string name="delete_size" description="Dialog Content: text in dialog" maxwidth="">"Velikost: "</string>
+    <string name="delete_progress" description="Progress Content: text in progress dialog" maxwidth="">"Brišem ..."</string>
+    <string name="delete_fail" description="Toast: delete fails" maxwidth="-1">"Izbris datoteke ni uspel."</string>
+    <string name="delete_success_one" description="Toast: delete success. %s is variable string." maxwidth="-1">"\"%s\" je izbrisan."</string>
+    <string name="delete_success_more" description="Toast: delete success" maxwidth="-1">"Izbrane datoteke so izbrisane."</string>
+    <string name="new_folder_dialog" description="Dialog Title: create new folder" maxwidth="">"Ustvari novo mapo"</string>
+    <string name="new_folder_fail" description="Toast: new folder fails" maxwidth="-1">"Ustvarjanje nove mape ni uspelo."</string>
+    <string name="new_folder_success" description="Toast: new folder success. %s is variable string." maxwidth="-1">"Mapa \"%s\" je ustvarjena."</string>
+    <string name="copy" description="Context Menu: options of context menu" maxwidth="">"Kopiraj"</string>
+    <string name="copy_ready_one" description="Toast: copy ready. %s is variable string." maxwidth="-1">"\"%s\" je kopirana in pripravljena, da jo prilepite."</string>
+    <string name="copy_ready_more" description="Toast: copy ready" maxwidth="-1">"Izbrane datoteke so kopirane in pripravljene na lepljenje."</string>
+    <string name="cut" description="Context Menu: options of context menu" maxwidth="">"Izreži"</string>
+    <string name="cut_ready_one" description="Toast: cut ready. %s is variable string." maxwidth="-1">"\"%s\" je izrezana in pripravljena, da jo prilepite."</string>
+    <string name="cut_ready_more" description="Toast: cut ready" maxwidth="-1">"Izbrane datoteke so izrezane in pripravljanje na lepljenje."</string>
+    <string name="paste" description="Context Menu: options of context menu" maxwidth="">"Prilepi"</string>
+    <string name="paste_exist_dialog" description="Dialog Title: paste exist dialog title" maxwidth="">"Enako ime datoteke"</string>
+    <string name="paste_exist_file" description="Dialog Content: text in dialog. %s is variable string." maxwidth="">"Datoteka \"%s\" že obstaja."</string>
+    <string name="paste_exist_replace" description="Dialog Content: text in dialog" maxwidth="">"Ali jo želite zamenjati z novim?"</string>
+    <string name="paste_exist_to" description="Dialog Content: text in dialog" maxwidth="">"Do"</string>
+    <string name="paste_exist_apply" description="Dialog Content: text in dialog" maxwidth="">"Uporabi za vse"</string>
+    <string name="paste_progress" description="Progress Content: text in progress dialog" maxwidth="">"Lepim ..."</string>
+    <string name="paste_fail" description="Toast: paste fails" maxwidth="-1">"Lepljenje datotek ni uspelo."</string>
+    <string name="paste_success" description="Toast: paste success. %s is variable string." maxwidth="-1">"Datoteke so dodane v \"%s\"."</string>
+    <!-- Guoliang_Lin, 2011/04/01, UI required, new feature -->
+    <string name="no_space_fail" description="Toast: No space to copy file and left on device" maxwidth="-1">"Ni dovolj prostora v shrambi"</string>
+    <!-- Guoliang Lin, 2011/04/27, UI required, new feature -->
+    <string name="action_add_folder" description="cutstom action bar view title for add folder" maxwidth="-1">"Dodaj mapo"</string>
+    <string name="action_hind_system_file" description="cutstom action bar view title for hinde system file" maxwidth="-1">"Skrij sistemske datoteke"</string>
+    <string name="deselect_all" description="cutstom action bar view title for deselect all checkbox" maxwidth="">"Prekliči izbor vseh"</string>
+    <!-- Guoliang Lin, 2011/05/11, UI required, new feature -->
+    <string name="file_info_dialog_title" description="Dialog Title: File information dialog title" maxwidth="-1">"Informacije o datoteki"</string>
+    <string name="dir_info_dialog_title" description="Dialog Title: Directory information dialog title" maxwidth="-1">"Informacije o imeniku"</string>
+    <string name="info" description="Context Menu: options of context menu" maxwidth="-1">"Informacije"</string>
+    <string name="info_name" description="file info textview context" maxwidth="-1">"Ime: "</string>
+    <string name="info_file_num" description="file info textview context" maxwidth="-1">"Datoteke: "</string>
+    <string name="info_permission" description="file info textview context" maxwidth="-1">"Dovoljenje: "</string>
+    <string name="info_modified" description="file info textview context" maxwidth="-1">"Modificiran datum: "</string>
+    <!-- Guoliang Lin, 2011/05/27, UI required, new feature -->
+    <string name="action_about" description="cutstom action bar view title for about" maxwidth="-1">"Vizitka"</string>
+    <!-- Johnson Chen, 2011/08/05, UI required, new feature -->
+    <string name="select_folder" description="Title: select the folder" maxwidth="-1">"Izberite mapo"</string>
+    <string name="invalid_directory_path" description="Invalid directory path" maxwidth="-1">"Neveljavna pot imenika"</string>
+    <string name="short_cuts_title" description="shortcit title" maxwidth="-1">"Bližnjica"</string>
+    <string name="type" description="button text for sort file by type" maxwidth="-1">"Tip"</string>
+    <string name="name" description="button text for sort file by name" maxwidth="-1">"Ime"</string>
+    <string name="size" description="button text for sort file by size" maxwidth="-1">"Velikost"</string>
+    <string name="date" description="button text for sort file by date" maxwidth="-1">"Datum"</string>
+    <string name="name_ascending" description="button text for sort file by name ascending" maxwidth="-1">"Ime (z-a)"</string>
+    <string name="name_descending" description="button text for sort file by name descending" maxwidth="-1">"Ime (a-z)"</string>
+    <string name="size_ascending" description="button text for sort file by size ascending" maxwidth="-1">"Velikost (majhno-veliko)"</string>
+    <string name="size_descending" description="button text for sort file by size descending" maxwidth="-1">"Velikost (majhno-veliko)"</string>
+    <string name="date_ascending" description="button text for sort file by date ascending" maxwidth="-1">"Datum (najstarejše-najnovejše)"</string>
+    <string name="date_descending" description="button text for sort file by date descending" maxwidth="-1">"Datum (najnovejše-najstarejše)"</string>
+    <string name="my_storage_title" description="storage label" maxwidth="-1">"Moja shramba"</string>
+    <string name="internal_storage_title" description="storage label" maxwidth="-1">"Notranja shramba"</string>
+    <string name="my_picture_title" description="shortcut label" maxwidth="-1">"Slika"</string>
+    <string name="my_camera_title" description="shortcut label" maxwidth="-1">"Kamera"</string>
+    <string name="my_music_title" description="shortcut label" maxwidth="-1">"Glasba"</string>
+    <string name="my_download_title" description="shortcut label" maxwidth="-1">"Prenesi"</string>
+    <string name="dialog_create_zip_title" description="compress dialog title" maxwidth="-1">"Vnesi ime arhiva"</string>
+    <string name="zip_progress_msg" description="compress dialog message" maxwidth="-1">"V teku ..."</string>
+    <string name="zip_fail" description="toast message: Compress files fail" maxwidth="-1">"Stiskanje datotek ni uspelo"</string>
+    <string name="zip_success" description="toast message: Compress files successly" maxwidth="-1">"Stiskanje datotek je uspelo"</string>
+    <string name="search_label" description="cutstom action bar view title for search" maxwidth="-1">"Poišči datoteke"</string>
+    <string name="search_progress" description="search dialog message" maxwidth="-1">"Iščem ..."</string>
+    <string name="location" description="button text for sort file by date" maxwidth="-1">"Lokacija"</string>
+    <plurals name="number_search_items">
+        <item quantity="one">"%d datoteka najdena"</item>
+        <item quantity="other">"%d datotek najdenih"</item>
+    </plurals>
+    <string name="search_result_title" description=" text for search result" formatted="false" maxwidth="-1">"Iščem %s v %s: "</string>
+    <string name="dialog_extract_zip_title" description="extract zip file dialog title. %s is a dynamic string. It is zip file name." maxwidth="-1">"Ekstrahiraj %s v :"</string>
+    <string name="unzip_progress_msg" description="extract file dialog message" maxwidth="-1">"Ekstrahiram ..."</string>
+    <string name="unzip_fail" description="toast message: extract files fail" maxwidth="-1">"Ekstrahiranje datotek ni uspelo"</string>
+    <string name="unzip_success" description="toast message: extract files successly" maxwidth="-1">"Ekstrahiranje datotek je uspelo"</string>
+    <string name="action_clear_history" description="cutstom action bar view title for clear search history" maxwidth="">"Počisti zgodovino iskanja"</string>
+    <plurals name="drag_items">
+        <item quantity="one">"Povleci element"</item>
+        <item quantity="other">"Povleci elemente"</item>
+    </plurals>
+    <string name="drag_items_one">"Povleci element"</string>
+    <string name="drag_items_other">"Povleci elemente"</string>
+    <string name="toast_drag_copied_items" description="Toast: The item(s) has been copied completely" maxwidth="-1">"Element(i) je/so kopiran(i) v celoti"</string>
+    <string name="toast_warning_copy_folders" description="Toast: Sorry, copy folders has not been supported" maxwidth="-1">"Nažalost kopiranje map ni podprto"</string>
+    <string name="toast_warning_copy_comple_cut_fail" description="Toast: Sorry, copy files complete but cut fail" maxwidth="-1">"Nažalost je kopiranje končano, a izbris starih datotek ni uspelo"</string>
+    <string name="toast_drag_moved_items" description="Toast: The item(s) has been moved completely" maxwidth="-1">"Element(i) je/so v celoti premaknjen(i)"</string>
+    <string name="move" description="Hint: move the items" maxwidth="-1">"Premakni"</string>
+    <string name="drop_target_to" description="Hint: the target folder which you want to do something" maxwidth="-1">"Cilj:"</string>
+    <string name="drop_incorrect_hint" description="Hint: the operation is incorrect" maxwidth="-1">"Nepravilna operacija"</string>
+    <!-- Willie Huang, 2012/01/20, UI required, new feature -->
+    <string name="dialog_unzip_preview_title" description="show zip info dialog title. %s is a dynamic string. Is is a zip file name" maxwidth="-1">"Ekstrahiraj %s"</string>
+    <string name="extract" description="Dialog Button: extract file for dialog" maxwidth="-1">"Ekstrahiraj"</string>
+    <plurals name="dialog_unzip_preview_size_text">
+        <item quantity="one">"Skupaj: %1$d datoteka, %2$s"</item>
+        <item quantity="other">"Skupaj: %1$d datotek, %2$s"</item>
+    </plurals>
+    <string name="encode" description="Dialog Button: click to open the encoding list dialog" maxwidth="-1">"Kodiranje besedila"</string>
+    <string name="dialog_text_encoding_title" description="text encoding dialog title" maxwidth="-1">"Kodiranje besedila"</string>
+    <string-array name="charset_array">
+        <item>"Latin-1 (ISO-8859-1)"</item>
+        <item>"Unicode (UTF-8)"</item>
+        <item>"Kitajsko (GBK)"</item>
+        <item>"Kitajsko (Big5)"</item>
+        <item>"Japonsko (ISO-2022-JP)"</item>
+        <item>"Japonsko (SHIFT_JIS)"</item>
+        <item>"Japonsko (EUC-JP)"</item>
+        <item>"Korejsko (EUC-KR)"</item>
+    </string-array>
+    <!-- Willie Huang, 2012/03/28, UI required, new feature -->
+    <string name="info_aperture" description="file info textview context" maxwidth="-1">"Zaslonka: "</string>
+    <string name="info_datetime" description="file info textview context" maxwidth="-1">"Datum posnetka: "</string>
+    <string name="info_exposure_time" description="file info textview context" maxwidth="-1">"Čas osvetlitve: "</string>
+    <string name="info_flash" description="file info textview context" maxwidth="-1">"Bliskavica: "</string>
+    <string name="info_focal_length" description="file info textview context" maxwidth="-1">"Goriščna razdalja: "</string>
+    <string name="info_image_height" description="file info textview context" maxwidth="-1">"Višina: "</string>
+    <string name="info_image_x" description="file info textview context" maxwidth="-1">" x "</string>
+    <string name="info_image_width" description="file info textview context" maxwidth="-1">"Širina"</string>
+    <string name="info_iso" description="file info textview context" maxwidth="-1">"ISO: "</string>
+    <string name="info_location" description="file info textview context" maxwidth="-1">"Lokacija: "</string>
+    <string name="info_maker" description="file info textview context" maxwidth="-1">"Avtor: "</string>
+    <string name="info_model" description="file info textview context" maxwidth="-1">"Model: "</string>
+    <string name="info_orientation" description="file info textview context" maxwidth="-1">"Usmerjenost: "</string>
+    <string name="info_white_balance" description="file info textview context" maxwidth="-1">"Ravnovesje beline: "</string>
+    <string name="flash_on" description="string indicating camera flash is fired" maxwidth="-1">"Bliskavica sprožena"</string>
+    <string name="flash_off" description="string indicating camera flash is not used" maxwidth="-1">"Brez bliskavice"</string>
+    <string name="unit_mm" description="string indicating the length units in milli-meters" maxwidth="-1">"mm"</string>
+    <string name="manual" description="string indicating how camera shooting feature is used" maxwidth="-1">"Ročno"</string>
+    <string name="auto" description="string indicating how camera shooting feature is used" maxwidth="-1">"Samodejno"</string>
+    <!-- Guoliang_Lin, 2012/03/20, UI required, new feature -->
+    <string name="wait">"Prosimo počakajte\u2026"</string>
+    <!-- Johnson Chen, 2012/04/13, UI required, new feature -->
+    <string name="select_album">"Izberi album"</string>
+    <string name="select_photo">"Izberi fotografijo"</string>
+    <string name="back_button_label" description="button text." maxwidth="-1">"Nazaj"</string>
+    <!-- Willie Huang, 2012/05/18, UI required, new feature -->
+    <string name="action_apply_selected_file" description="View title of custom action bar, apply to multiple selected files" maxwidth="-1">"Uporabi"</string>
+    <!-- Willie Huang, 2013/01/03, UI required, new feature -->
+    <string name="loading" description="text for progress bar" maxwidth="-1">"Nalagam\u2026"</string>
+    <string name="version" description="version" maxwidth="-1">"Različica"</string>
+    <string name="title" description="title" maxwidth="-1">"Pravne informacije:"</string>
+    <string name="content" description="content" maxwidth="-1">"Uporaba te programske opreme je predmet pogojev in določil na spletnem mestu ASUS: \nhttp://www.asus.com"</string>
+    <string name="action_share" description="cutstom action bar view title for sharing" maxwidth="-1">"Daj v skupno rabo"</string>
+    <!-- Johnson Chen, 2012/05/18, UI required, new feature-->
+    <string name="photo_selection_limit_number_toast" description="Toast: You may not select more than %s photos." maxwidth="-1">"Izberi največ %s fotografij"</string>
+    <!-- Alex6 Lin, -->
+    <string name="action_sort_by" description="String for asking for the rule of sorting" maxwidth="-1">"Razvrsti po"</string>
+    <plurals name="number_selected_items">
+        <item quantity="one">"%d izbrana"</item>
+        <item quantity="other">"%d izbranih"</item>
+    </plurals>
+    <string name="info_type" description="file info textview context" maxwidth="-1">"Tip: "</string>
+    <string name="type_document" description="document type" maxwidth="-1">"Dokument"</string>
+    <string name="type_audio" description="document type" maxwidth="-1">"Zvok"</string>
+    <string name="type_video" description="document type" maxwidth="-1">"Video"</string>
+    <string name="type_playlist" description="document type" maxwidth="-1">"Seznam predvajanja"</string>
+    <string name="type_image" description="document type" maxwidth="-1">"Slika"</string>
+    <string name="type_book" description="document type" maxwidth="-1">"E-knjiga"</string>
+    <string name="type_zip" description="document type" maxwidth="-1">"Zip"</string>
+    <string name="type_apk" description="document type" maxwidth="-1">"Program Android"</string>
+    <string name="type_abu" description="document type" maxwidth="-1">"Varnostna kopija programa Asus"</string>
+    <string name="type_file" description="document type" maxwidth="-1">"Datoteka"</string>
+    <string name="type_directory" description="document type" maxwidth="-1">"Imenik"</string>
+    <string name="search_action">"Iskanje"</string>
+    <string name="fileList_Nofiles">"Brez datotek"</string>
+    <!-- Johnson Chen, 2012/05/18, UI required, new feature-->
+    <string name="wifidirect_available_devices" description="Available devices" maxwidth="-1">"Razpoložljive naprave"</string>
+    <string name="wifidirect_connect_hint_title" description="Dialog title text: Invitation to connect" maxwidth="-1">"Povabilo za povezavo"</string>
+    <string name="wifidirect_connect_hint" description="Do you want to connect to device" maxwidth="-1">"Ali se želite povezati z"</string>
+    <string name="wifidirect_connecting_hint_title" description="Dialog title text: Wi-Fi Direct connecting" maxwidth="-1">"Povezujem Wi-Fi Direct ..."</string>
+    <string name="wifidirect_disconnect_hint" description=">Do you want to disconnect" maxwidth="-1">"Ali želite preklicati povezavo z"</string>
+    <string name="shared_folder" description="Context Menu: options of context menu: share folder via Wi-Fi Direct" maxwidth="">"Skupna raba prek Wi-Fi Direct"</string>
+    <string name="unshared_folder" description="Context Menu: options of context menu: unshare folder" maxwidth="-1">"Prekliči skupno rabo"</string>
+    <string name="remote_storage_title" description="remote storage label" maxwidth="-1">"Shramba na daljavo"</string>
+    <string name="remote_connected_error_hint" description="network is unavailable, please try again" maxwidth="-1">"Omrežje ni na voljo, poskusite znova kasneje"</string>
+    <string name="wifidirect_peer_device_title" description="peer devices title" maxwidth="-1">"Enakovredne naprave"</string>
+    <string name="wifidirect_scanning" description="searching" maxwidth="-1">"Iščem ..."</string>
+    <string name="wifidirect_touch_to_connect" description="click to connect" maxwidth="-1">"Kliknite za povezavo"</string>
+    <string name="wifidirect_connectted" description="connectted" maxwidth="-1">"Povezano"</string>
+    <string name="wifidirect_action_bar_scan" description="search" maxwidth="-1">"Iskanje"</string>
+    <string name="wifidirect_storage_title" description="Search Wi-Fi Direct device" maxwidth="-1">"Poišči napravo Wi-Fi Direct"</string>
+    <string name="wifidirect_peer_device_info" description="peer devices infomation" maxwidth="-1">"Za sprejem povabila Wi-Fi Direct poskrbite, da je povezana naprava ostane na strani \"Enakovredne naprave\" v Upravitelju datotek."</string>
+    <string name="wifidirect_disconnect_hint_title" description="Disconnect Wi-Fi Direct" maxwidth="-1">"Prekliči povezavo Wi-Fi Direct"</string>
+    <string name="wifi_p2p_turn_on_wifi_title" description="title for turn on WiFi dialog" width="-1">"Vklopi Wi-Fi"</string>
+    <string name="wifi_p2p_turn_on_wifi_msg" description="message for request to turn on Wi-Fi" width="-1">"Vklopite Wi-Fi za uporabo storitev Wi-Fi Direct. Vklopim Wi-Fi zdaj?"</string>
+    <!-- Johnson Chen, 2013/03/22, UI required, new feature-->
+    <string name="cloud_storage_title" description="Add more cloud storage" maxwidth="-1">"Dodaj več shrambe v oblaku"</string>
+    <string name="add_cloud_storage_dialog_title" description="Dialog title: Add cloud storage" maxwidth="-1">"Dodaj shrambo v oblaku"</string>
+    <string name="cloud_storage_remove_hint" description=">Do you want to remove" maxwidth="-1">"Ali se želite izpisati iz računa \"%s\"?"</string>
+    <string name="cloud_storage_remove_hint_title" description="Dialog title: Remove cloud storage" maxwidth="-1">"Izpis"</string>
+    <string name="add_progress" description="Progress Content: text in progress dialog" maxwidth="">"Ustvarjam ..."</string>
+    <string name="logging_cloud_storage" description="Progress Content: text in progress dialog" maxwidth="">"Vpisujem ..."</string>
+    <string name="wifi_p2p_connection_msg" description="message for request to connect Network" width="-1">"Vzpostavite omrežno povezavo za uporabo storitev v oblaku."</string>
+    <string name="wifi_p2p_connection_title" description="title for request to connect Network" width="-1">"Vzpostavite omrežno povezavo"</string>
+    <string name="logout_account" description="logout account" width="-1">"Izpis"</string>
+    <string name="renaming_file" description="renaming file" width="-1">"Preimenovanje"</string>
+    <string name="rename_success" description="Toast: rename success" maxwidth="-1">"Preimenovanje datoteke uspešno."</string>
+    <string name="login_fail" description="Toast: login account fail" width="-1">"Prijava ni uspela"</string>
+    <string name="starred" description="shortcut title: my favorite files" width="-1">"Z zvezdico"</string>
+    <string name="recently_used" description="shortcut title: recently used files" width="-1">"Nedavno"</string>
+    <string name="trash_can" description="shortcut title: trash can" width="-1">"Koš"</string>
+    <!-- Settings Page -->
+    <string name="menu_general_preferences" description="The title of a menu for General Preferences.Pressing the menu item lets user to view and edit his general settings" maxwidth="30">"Splošne nastavitve"</string>
+    <string name="preferences_title" description="This is the title of the screen for setting user preferences." maxwidth="-1">"Nastavitve"</string>
+    <string name="settings_space_used" description="This is the title of space used for setting user preferences." maxwidth="-1">"Porabljen prostor"</string>
+    <string name="settings_clear_search_history" description="This is the title of clearing search history action for setting user preferences." maxwidth="-1">"Počisti zgodovino iskanja"</string>
+    <string name="settings_hide_system_files" description="This is the title of hiding system files action for setting user preferences." maxwidth="-1">"Skrij sistemske datoteke"</string>
+    <string name="settings_trash_can" description="This is the title of trash can information for setting user preferences." maxwidth="-1">"Koš"</string>
+    <string name="settings_moved_to_the_trash_can" description="This is the title of moving to the trash can." maxwidth="-1">"Premaknjeno v koš"</string>
+    <string name="settings_user_name" description="This is the title of user name" maxwidth="-1">"Uporabniško ime"</string>
+    <string name="settings_documents_cache" description="This is the title of documents cache" maxwidth="-1">"Predpomnilnik dokumentov"</string>
+    <string name="settings_cache_size_title" description="This is the title of cache size" maxwidth="-1">"Velikost predpomnilnika"</string>
+    <string name="settings_set_cache_size" description="Set the cache size to %s" maxwidth="-1">"Velikost predpomnilnika je nastavljena na \"%s\""</string>
+    <string name="settings_clear_cache_title" description="Clear the cache" maxwidth="-1">"Počisti predpomnilnik"</string>
+    <string name="settings_clear_cache_info" description="Remove all cache documents" maxwidth="-1">"Odstrani vse dokumente v predpomnilniku"</string>
+    <string name="settings_remove_account" description="Remove account" maxwidth="-1">"Odstrani račun"</string>
+    <string name="drawer_open">"Odpri navigacijski predal"</string>
+    <string name="drawer_close">"Zapri navigacijski predal"</string>
+    <!-- begin add new server -->
+    <string name="samba_storage_title">"SAMBA"</string>
+    <string name="samba_storage_add_title">"Omrežni prostor"</string>
+    <string name="server_title">"Strežnik"</string>
+    <string name="domain">"Domena:"</string>
+    <string name="domain_hint">"Lahko je prazno"</string>
+    <string name="server">"Strežnik:"</string>
+    <string name="server_hint">"172.0.0.1/ShareFolder"</string>
+    <string name="example">"Primer:"</string>
+    <string name="user">"Uporabniško ime"</string>
+    <string name="user_hint">"skrbnik"</string>
+    <string name="password">"Geslo"</string>
+    <string name="display">"Prikaži kot"</string>
+    <string name="display_hint">"Moj računalnik je lahko prazen"</string>
+    <string name="samba_input_error">"uporabniško ime ali geslo ne moreta biti prazna!"</string>
+    <string name="samba_client_config_check" description="account config dialog remind message" maxwidth="-1">"Zapomni si uporabniško ime in geslo, naslednjič se poveži neposredno"</string>
+    <string name="pullfreshlistview_header_hint_normal">"Povleci navzdol"</string>
+    <string name="pullfreshlistview_header_hint_ready">"Spusti za osvežitev"</string>
+    <string name="pullfreshlistview_header_hint_loading">"Osvežujem ..."</string>
+    <string name="pullfreshlistview_header_last_time">"Čas zadnje osvežitve:"</string>
+    <string name="pullfreshlistview_footer_hint_normal">"Naloži več"</string>
+    <string name="pullfreshlistview_footer_hint_ready">"Spusti za nalaganje ostalega"</string>
+    <string name="cloud_preview_action_fail" description="Toast: cloud preview action" maxwidth="-1">"predogled datotek v oblaku ni uspelo."</string>
+    <string name="cloud_share_action_fail" description="Toast: cloud share action" maxwidth="-1">"skupna raba datotek v oblaku ni uspela."</string>
+    <string name="cloud_paste_backgroud" description="diaglog cloud background paste">"Ozadje"</string>
+    <string name="cloud_paste_uploading" description="diaglog cloud  paste uploading">"Nalagam datoteke"</string>
+    <string name="cloud_paste_downloading" description="diaglog cloud  paste">"Prenašam datoteke"</string>
+    <string name="cloud_paste_total" description="diaglog cloud  total">"Skupaj"</string>
+    <string name="cloud_paste_current" description="diaglog cloud  current">"Trenutno"</string>
+    <string name="cloud_paste_copying" description="diaglog cloud  now is copy files">"Kopiram ..."</string>
+    <string name="cloud_paste_deleting" description="diaglog cloud  now is delete source files">"Brišem izvorne datoteke ..."</string>
+    <string name="cloud_token_invalidate" description="diaglog cloud  token is invalidate">"Žeton je razveljavljen, ponovno se vpišite!"</string>
+    <string name="cloud_homebox_status_offline" description="home cloud device is offline">"Naprave je brez povezave"</string>
+    <string name="cloud_homebox_status__info_offline" description="home cloud device is offline">"Brez povezave"</string>
+    <string name="cloud_homebox_status__info_online" description="home cloud device is online">"V spletu"</string>
+    <string name="cloud_homebox_status__info_Sleep" description="home cloud device is sleep">"Spanje"</string>
+    <string name="cloud_homebox_no_available_devices" description="home cloud has no available devices">"Brez razpoložljivih naprav HomeCloud"</string>
+    <string name="cloud_homebox_get_devices_fail" description="home cloud get available devices fail">"Iskanje razpoložljivih naprav HomeCloud ni uspelo"</string>
+<!--  <string name="cloud_paste_string_format"  description="diaglog cloud  paste string format" maxwidth="-1">%d / %d</string>-->
+    <string name="storage_type_cloud">"Shramba v oblaku"</string>
+    <string name="storage_type_local">"Lokalni pomnilnik"</string>
+    <string name="storagetype_add_account">"Dodaj račun Google"</string>
+    <string name="network_cta_hint">"Sprejmite za povezavo z omrežjem "</string>
+ <string name="action_refresh_cloudfile">"Osveži"</string>
+ <string name="baidu_storage_title">"百度云"</string>
+ <string name="dialog_load_stream_url_info">"Pridobivam potrebne informacije s strežnika"</string>
+ <string name="paste_progress_title">"V teku je drugo opravilo kopiranja ... "</string>
+ <string name="single_drm_file_forbidden_operation">"To dejanje je prepovedano zaradi zaščite DRM."</string>
+ <string name="multi_drm_file_forbidden_operation">"To dejanje je prepovedano, ker os nekatere izbrane datoteke zaščitene z DRM."</string>
+ <string name="samba_login_error">"Uporabniško ime ali geslo, ki ste ga vnesli je nepravilno."</string>
+     <string name="action_search" description="cutstom action bar view title for search" maxwidth="">"Iskanje"</string>
+ <string name="cloud_upload_flie_limit_space" description="Toast: The size is over the limit and cannot be uploaded" maxwidth="-1">"Prenos datoteke ni uspel. Velikost datoteke je nad maksimalno omejitvijo."</string>
+ <string name="cloud_download_flie_limit_space" description="Toast: The size is over the limit and cannot be uploaded" maxwidth="-1">"Prenos datoteke ni uspel. Velikost datoteke je nad maksimalno omejitvijo."</string>
+ <string name="invalid_account" description="Toast: the account is invalid" maxwidth="-1">"Neveljaven račun"</string>
+ <string name="homecloud_access_error" description="Can’t connect to HomeCloud." maxwidth="-1">"Povezava s HomeCloud ni uspela. Poskrbite, da je storitev HomeCloud dosegljiva."</string>
+ <string name="cloud_flie_name_not_supported" description="Toast: The name of the file uploaded is not supported by cloud server" maxwidth="-1">"Operacije ni mogoče končati, ker strežnik v oblaku ne podpira imena datoteke."</string>
+ <string name="action_cancel" description="action cancel" maxwidth="-1">"Prekliči"</string>
+ <string name="action_add" description="action add files" maxwidth="-1">"Dodaj"</string>
+ <string name="no_share_folder">"Brez datotek v skupni rabi v tej napravi"</string>
+ <string name="edit_toast_special_char">"Ne morem vključiti posebnih znakov"</string>
+ <string name="delete_one_directory" description="Dialog Content: text in dialog" maxwidth="">"Ali želite izbrisati imenik?"</string>
+ <string name="type_dialog_title">"Odpri kot"</string>
+ <string name="type_dialog_text">"Besedilo"</string>
+ <string name="type_dialog_image">"Slika"</string>
+ <string name="type_dialog_audio">"Zvok"</string>
+ <string name="type_dialog_video">"Video"</string>
+ <string name="target_directory_is_child_of_source">"Operacije ni mogoče končati, ker je ciljni imenik podrejen izvornemu imeniku."</string>
+ <string name="edit_toast_name_too_long">Doseženo je največje dovoljeno število znakov</string>
+ <string name="settings_description">"Lokalne mape in datoteke"</string>
+ <string name="clear_account_info">"Pozabi vse račune"</string>
+ <string name="type_rar" description="document type" maxwidth="-1">"RAR"</string>
+ <string name="set_ring">"Nastavi kot zvonjenje"</string>
+    <string name="action_zip" description="cutstom action bar view title for zip" maxwidth="">"Stisni"</string>
+    <string name="signout_account" description="signout account" width="-1">"Prekini povezavo"</string>
+    <string name="cloud_storage_sign_out" description=">Do you want to signout" maxwidth="-1">"Ali ste prepričani, da želite prekiniti povezavo \"%s\" ?"</string>
+    <string name="cloud_storage_sign_out_title" description="Dialog title: Signout cloud storage" maxwidth="-1">"Prekini povezavo"</string>
+    <string name="cloud_storage_sign_in" description=">Do you want to signin" maxwidth="-1">"Poveži se z uporabo naslednjega računa:"</string>
+    <string name="cloud_storage_sign_in_title" description="Dialog title: Signin cloud storage" maxwidth="-1">"Poveži %s"</string>
+    <!-- start add for CTA check  -->
+    <string name="cta_dialog_title">"Uporabi omrežje"</string>
+    <string name="cta_dialog_content"><b>Upravitelj datoteke</b> poskuša uporabiti omrežje, morda boste zaradi tega morali plačati druge stroške, odvisno od vaše naročnine.</string>
+    <string name="cta_check_title">"Zapomni si"</string>
+    <string name="cta_agree">"Dovoli"</string>
+    <string name="cta_disagree">"Zavrni"</string>
+    <string name="cta_show_menu">"Dovoljenje za omrežje"</string>
+    <!-- end add for CTA check  -->
+    <string name="move_to">Premakni v</string>
+    <string name="copy_to">Kopiraj v</string>
+    <string name="category_title_category">Kategorija</string>
+    <string name="category_title_local_storage">Lokalni pomnilnik</string>
+    <string name="category_image">Slika</string>
+    <string name="category_music">Glasba</string>
+    <string name="category_video">Videoposnetek</string>
+    <string name="category_apk">Aplikacije</string>
+    <string name="category_download">Prenesi</string>
+    <string name="category_favorite">Priljubljeno</string>
+    <string name="category_count">"%s"</string>
+    <string name="open">Odpri</string>
+    <string name="add_favorite">Dodaj med priljubljene</string>
+    <string name="remove_favorite">Odstranjevanje iz priljubljenih</string>
+    <string name="add_favorite_success">Shrani med priljubljene</string>
+    <string name="rename_favorite_folder">Preimenuj mapo s priljubljenimi</string>
+    <string name="rename_favorite_success">Uspešno preimenovano in shranjeno med priljubljene</string>
+    <string name="rename_favorite_notice">To ime mape s priljubljenimi že obstaja. Ali jo želite preimenovati?</string>
+    <string name="remove_favorite_notice_one">Ali res želite odstraniti »%s« iz mape s priljubljenimi?</string>
+    <string name="remove_favorite_notice_more">Ali res želite odstraniti elemente (%d) iz mape s priljubljenimi?</string>
+    <string name="remove_favorite_success">Uspešno odstranjeno</string>
+    <string name="tutorial_skip">Preskoči</string>
+    <string name="tutorial_done">Končano</string>
+    <string name="tutorial_page_one_title">"Upravitelj datotek ASUS"</string>
+    <string name="tutorial_page_one_content">Upravitelj datotek ASUS vam omogoča preprosto upravljanje datotek, ki so shranjene v napravi, zunanji napravi, lokalnem omrežju ali shrambah v oblaku.</string>
+    <string name="tutorial_page_two_title">Domača stran</string>
+    <string name="tutorial_page_two_content">Preproste kategorije, ki vam omogočajo hiter dostop do datotek v lokalnem pomnilniku.</string>
+    <string name="tutorial_page_three_title">Priročni meni s seznamom dejanj</string>
+    <string name="tutorial_page_three_content">Podrsnite po elementu v desno, da prikažete dejanja, na primer »Dodaj med priljubljene«, »Preimenuj«, »Premakni v«, »Kopiraj v« in druge možnosti za upravljanje datotek.</string>
+    <string name="tutorial_page_four_title">Priljubljene</string>
+    <string name="tutorial_page_four_content">Nastavite pogosto uporabljeno mapo kot priljubljeno, da omogočite hiter in preprost dostop do nje.</string>
+    <string name="saf_permission_tutorial_title">Zahteva za dostop do kartice SD</string>
+    <string name="saf_permission_tutorial_content">Upravitelj datotek ASUS zahteva dostop do vaše kartice SD. Ali mu dovolite dostop?</string>
+    <string name="saf_tutorial_step_one">Tapnite ikono »Meni« in nato »Pokaži kartico SD«.</string>
+    <string name="saf_tutorial_step_two">Podrsnite ob levem robu zaslona, da prikažete predal, in nato tapnite kartico SD.</string>
+    <string name="saf_tutorial_step_three">Tapnite »Izberi kartico SD«, da Upravitelju datotek ASUS omogočite dostop.</string>
+    <string name="device_root_path">koren</string>
+    <string name="tap_to_exit">Za izhod znova tapnite</string>
+    <string name="info_path" description="file info textview context" maxwidth="-1">"Pot: "</string>
+    <string name="recruit_beta_user" description="recruit beta user" maxwidth="-1">Pridobite različico za predogled</string>
+    <string name="rate_us" description="rate us" maxwidth="-1">Ocenite nas</string>
+    <string name="scroll_up_toast" description="rate now" maxwidth="">"Pomaknite se navzgor, da ocenite"</string>
+    <string name="settings_encourage_us_detail" description="recommend text" maxwidth="">"Če uživate v uporabi %s, dajte oceno 5 zvezdic v Trgovini Play. S tem nas boste spodbujali pri nadaljnjih izboljšavah izdelka!"</string>
+    <string name="yes">"Da"</string>
+    <string name="menu_tutorial" description="settings menu tutorial" maxwidth="-1">Vadnica</string>
+    <string name="about">Vizitka</string>
+    <string name="version_text">različica</string>
+    <string name="tell_friend" description="" maxwidth="">"Priporočite prijatelju"</string>
+    <string name="toolbar_item_title_encourage_us" maxwidth="35">Podprite nas</string>
+    <string name="zenui_update">"Takojšnja posodobitev ZenUI"</string>
+    <string name="whats_new_label">Novosti</string>
+    <string name="next">Naprej</string>
+    <string name="invite_friends" description="sticker detail page button name" maxwidth="-1">"Povabi prijatelje"</string>
+    <string name="news_mark1" maxwidth="">"★  "</string>
+</resources>

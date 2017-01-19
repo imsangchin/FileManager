@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Sylvia Cheng, 2016/03/22, Setting page -->
+    <string name="action_settings" description="menu title for setting" maxwidth="-1">"Cài đặt"</string>
+    <string name="setting_view_group">"Xem cài đặt"</string>
+    <string name="setting_view_hide_files">"Ẩn các tập tin hệ thống"</string>
+    <string name="setting_notification_group">"Thông báo"</string>
+    <string name="setting_notification_large_files">"Thông báo về tập tin lớn"</string>
+    <string name="setting_notification_recent_files">"Thông báo tập tin gần đây"</string>
+    <string name="setting_notification_wireless_transfer">"Thông báo chuyển không giây"</string>
+    <string name="setting_display_group">"Hiển thị"</string>
+    <string name="tools_storage_analyzer">"Trình phân tích bộ nhớ"</string>
+    <string name="tools_zenui_instant_update">"Cập nhật tức thì"</string>
+    <string name="category_others">"Khác"</string>
+    <string name="large_files_content_hint">"Tìm tập tin lớn và xóa chúng với sự cho phép của bạn."</string>
+    <string name="recent_files_content_hint">"Tìm các tập tin gần đây và xóa chúng với sự cho phép của bạn."</string>
+    <string name="fragment_analyzer_more_hint">"xem thêm"</string>
+    <string name="fragment_analyzer_chart_total_hint">"Tổng:"</string>
+    <string name="fragment_analyzer_chart_free_hint">"Còn trống:"</string>
+    <string name="fragment_analyzer_chart_used_hint">"ĐÃ DÙNG"</string>
+    <string name="fragment_analyzer_allfiles_used_hint">"Đã dùng:"</string>
+    <string name="news_v31" maxwidth="">"Trình phân tích bộ nhớ cho phép bạn biết kiểu tập tin nào đã chiếm toàn bộ dung lượng bộ nhớ"</string>
+    <string name="news_v32" maxwidth="">"Danh mục ứng dụng mới được cải tiến"</string>
+</resources>

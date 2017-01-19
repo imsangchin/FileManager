@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="uf_sdk_number_of_subscribers_format">
+        <item quantity="one">"%1$s ने इस विषय को पसंद किया"</item>
+        <item quantity="other">"%1$s ने इस विषय को पसंद किया"</item>
+    </plurals>
+    <plurals name="uf_sdk_topics">
+        <item quantity="one">"विषय"</item>
+        <item quantity="other">"विषय"</item>
+    </plurals>
+    <plurals name="uv_comments">
+        <item quantity="one">"टिप्पणी"</item>
+        <item quantity="other">"टिप्पणियाँ"</item>
+    </plurals>
+    <plurals name="uv_number_of_subscribers_format">
+        <item quantity="one">"%1$s को यह विचार चाहिए"</item>
+        <item quantity="other">"%1$s को यह विचार चाहिए"</item>
+    </plurals>
+    <plurals name="uv_people">
+        <item quantity="one">"व्यक्ति"</item>
+        <item quantity="other">"लोग"</item>
+    </plurals>
+    <plurals name="uv_subscribers">
+        <item quantity="one">"ग्राहक"</item>
+        <item quantity="other">"ग्राहक"</item>
+    </plurals>
+    <string description="label for trending searches" maxwidth="-1" name="trending_searches">"ट्रेंडिंग खोजें"</string>
+    <string name="uf_sdk_already_give_5star">"पहले ही 5 स्टार रेटिंग दे चुके हैं"</string>
+    <string description="%d is a number, don&apos;t translate" name="uf_sdk_article_read_count">"%d दृश्य"</string>
+    <string name="uf_sdk_attachment_format_warning">"ग़लत फ़ाइल फ़ॉरमेट। केवल छवि फ़ाइल संलग्न की जा सकती है"</string>
+    <string name="uf_sdk_attachment_total_size">"कुल"</string>
+    <string name="uf_sdk_attachment_warning">"अनुलग्नक आकार स्वीकार्य सीमा से अधिक है"</string>
+    <string maxwidth="-1" name="uf_sdk_cancel_btn_content">"रद्द करें"</string>
+    <string name="uf_sdk_choosertitle_sharevia">"इसके द्वारा साझा करें"</string>
+    <string name="uf_sdk_connection_error_msg">"सर्वर द्वारा कनेक्शन समाप्त किया गया। कृपया बाद में प्रयास करें।"</string>
+    <string name="uf_sdk_connection_error_title">"कनेक्शन त्रुटि"</string>
+    <string name="uf_sdk_discard">"त्याग दें"</string>
+    <string name="uf_sdk_email_illigal">"ई-मेल पता पहले से उपयोग में है"</string>
+    <string maxwidth="-1" name="uf_sdk_empty_notification">"खाली :)"</string>
+    <string name="uf_sdk_faq">"अक्सर पूछे जाने वाले प्रश्न"</string>
+    <string name="uf_sdk_feedback_and_help">"फ़ीडबैक एवं सहायता"</string>
+    <string name="uf_sdk_forum_description">"अपने समाधानों को खोजने और साझा करने के लिए ASUS उपयोगकर्ताओं के साथ बात बातचीत में शामिल हों"</string>
+    <string maxwidth="-1" name="uf_sdk_grant_permission_title">"के लिए अनुमति दें"</string>
+    <string name="uf_sdk_help">"सहायता"</string>
+    <string name="uf_sdk_instant_answer_question">"क्या यह अक्सर पूछे जाने वाले प्रश्न सहायक है?"</string>
+    <string name="uf_sdk_like">"पसंद"</string>
+    <string maxwidth="-1" name="uf_sdk_message">"सूचनाएँ"</string>
+    <string name="uf_sdk_msg_bad_email_format">"ईमेल पता मान्य नहीं है, कृपया पुनः प्रयास करें।"</string>
+    <string name="uf_sdk_msg_confirm_discard_topic">"आपका ड्राफ़्ट नहीं सहेजा जाएगा। क्या आप इसे हटा देना चाहते हैं?"</string>
+    <string name="uf_sdk_msg_confirm_discard_topic_title">"पोस्ट हटाएँ?"</string>
+    <string name="uf_sdk_msg_subscribe">"आपको विषय स्थिति सूचना सब्सक्रिप्शन ईमेल द्वारा भेज दिया जाएगा।"</string>
+    <string name="uf_sdk_msg_subscribe_success">"सब्सक्रिप्शन सफल"</string>
+    <string name="uf_sdk_msg_ticket_created">"आपका फ़ीडबैक ASUS को सफलतापूर्वक भेज दिया गया है"</string>
+    <string name="uf_sdk_msg_topic_created">"सफलतापूर्वक प्रकाशित"</string>
+    <string name="uf_sdk_msg_unsubscribe">"अनसब्सक्रिप्शन सफल"</string>
+    <string name="uf_sdk_name_hint">"अपना नाम दर्ज करें"</string>
+    <string name="uf_sdk_name_illigal">"उपयोगकर्ता नाम पहले ही ले लिया गया है"</string>
+    <string name="uf_sdk_network_error">"कोई इंटरनेट कनेक्शन नहीं है, कृपया अपने नेटवर्क सेटिंग की जाँच करें।"</string>
+    <string description="zenui news" maxwidth="" name="uf_sdk_news">"समाचार"</string>
+    <string name="uf_sdk_no_network_connection_content">"डेटा अपडेट करने में असमर्थ। कृपया अपने नेटवर्क सेटिंग की जांच करें। "</string>
+    <string name="uf_sdk_no_network_connection_title">"कोई नेटवर्क कनेक्शन नहीं"</string>
+    <string name="uf_sdk_nothing_found">"कुछ नहीं मिला"</string>
+    <string name="uf_sdk_notice">"सूचना"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category1">"घोषणाएँ"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category2">"ट्यूटोरियल एवं सलाह"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category3">"प्रचार"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category4">"ईवेंट"</string>
+    <string name="uf_sdk_publish_an_topic">"नया विषय प्रकाशित करें"</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_rate_now">"अभी रेट करें"</string>
+    <string description="%s is AP name, don&apos;t translate" maxWidth="" name="uf_sdk_rate_us_detail">"यदि आपको %s का उपयोग पसंद है, तो कृपया हमें Play Store में 5-स्टार के साथ रेट करें।"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_detail_new">"आपका 5-स्टार रेटिंग वाला समर्थन हमें कार्य को जारी रखने की प्रेरणा देगा!"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_rating">"5-स्टार रेटिंग"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title">"हमें रेट करें!"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title_new">"हमें प्रोत्साहित करें!"</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_scroll_up_toast">"कृपया रेट करने के लिए ऊपर स्क्रॉल करें"</string>
+    <string name="uf_sdk_search_hint">"खोजें"</string>
+    <string name="uf_sdk_select_common_bug">"सामान्य बग चुनें"</string>
+    <string name="uf_sdk_send_feedback">"फ़ीडबैक भेजें"</string>
+    <string name="uf_sdk_send_feedback_help">"आपका फ़ीडबैक और ईमेल पता ASUS को भेजा जाएगा। सर्विस टीम आपसे ईमेल के माध्यम से संपर्क करेगी।"</string>
+    <string maxwidth="-1" name="uf_sdk_setting_btn_content">"सेटिंग्स"</string>
+    <string description="recommend title" maxwidth="" name="uf_sdk_settings_encourage_us_title">"हमें प्रोत्साहित करें"</string>
+    <string maxwidth="-1" name="uf_sdk_storage_permission_description">"इस कार्यक्षमता को मल्टीमीडिया फ़ाइलों तक पहुँचने के लिए संग्रहण की अनुमति प्राप्त करने के की ज़रूरत है। \n\nअगर आप यह कार्यक्षमता सक्षम करना चाहते हैं, तो कृपया  के सेटिंग्स पृष्ठ पर जाने के लिए सेटिंग्स बटन पर टैप करें, फिर अनुमति देने के लिए \"ऐप जानकारी\" > \"अनुमतियाँ\" सेट करें।\n"</string>
+    <string name="uf_sdk_submit_topic">"प्रकाशित करें"</string>
+    <string name="uf_sdk_subscribe_dialog_title">"इस विषय को सब्सक्राइब करें"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_answered">"उत्तरित"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_completed">"पूर्ण"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_declined">"अस्वीकृत"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_implemented">"कार्यान्वित"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_planned">"नियोजित"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_under_review">"समीक्षाधीन"</string>
+    <string name="uf_sdk_thanks_for_your_feedback">"आपके फ़ीडबैक के लिए धन्यवाद!"</string>
+    <string description="%s is a application name, don&apos;t translate" name="uf_sdk_ticket_hint">"%s के लिए फ़ीडबैक प्रविष्ट करें"</string>
+    <string name="uf_sdk_title_topic">"विषय"</string>
+    <string name="uf_sdk_topic">"विषय"</string>
+    <string name="uf_sdk_topic_description_heading">"विवरण"</string>
+    <string name="uf_sdk_topic_description_hint">"अपने विषय का विस्तार से वर्णन करें"</string>
+    <string name="uf_sdk_topic_filter">"विषय"</string>
+    <string name="uf_sdk_topic_form_help">"जब आप उपयोगकर्ता फोरम में कोई विषय प्रकाशित करते हैं, तो दूसरे लोग इसे सब्सक्राइब कर पाएँगे और इस पर टिप्पणी कर पाएँगे। जब ASUS डेवलपर टीम विषय पर प्रतिक्रिया देता है, तो आपको ईमेल के द्वारा सूचित कर दिया जाएगा।"</string>
+    <string name="uf_sdk_topic_form_title">"नया विषय प्रकाशित करें"</string>
+    <string name="uf_sdk_topic_text_heading">"फोरम"</string>
+    <string name="uf_sdk_topic_text_hint">"अपने विषय का शीर्षक टाइप करें"</string>
+    <string name="uf_sdk_topic_title">"शीर्षक"</string>
+    <string name="uf_sdk_translation_10117605">"अनुवाद समस्या"</string>
+    <string name="uf_sdk_translation_117562">"फ़ीडबैक प्रकार"</string>
+    <string name="uf_sdk_translation_2529543">"बग रिपोर्ट"</string>
+    <string name="uf_sdk_translation_2529544">"अन्य"</string>
+    <string name="uf_sdk_translation_2530478">"सुझाव"</string>
+    <string name="uf_sdk_unhelpful_article_message_question">"क्या आप अपना फ़ीडबैक ASUS डेवलपर टीम को भेजना चाहेंगे?"</string>
+    <string name="uf_sdk_user_forum">"उपयोगकर्ता फ़ोरम"</string>
+    <string name="uf_sdk_warning">"चेतावनी"</string>
+    <string name="uf_sdk_wifi_settings">"Wi-Fi सेटिंग"</string>
+    <string name="uf_sdk_wlan_settings">"WLAN सेटिंग"</string>
+    <string name="uf_sdk_write_your_feedback">"यहाँ फ़ीडबैक प्रविष्ट करें"</string>
+    <string name="uf_sdk_your_draft_will_be_discarded">"आपका प्रारूप त्याग दिया जाएगा।"</string>
+    <string description="description for empty search result" maxwidth="-1" name="unable_to_find_artlcles">"\u0022%s\u0022 से सम्बंधित लेख नहीं मिल रहे"</string>
+    <string name="uv_admin_response_format">"व्यवस्थापक प्रतिक्रिया: %1$s"</string>
+    <string name="uv_all_articles">"सभी आलेख"</string>
+    <string name="uv_all_results_filter">"सभी"</string>
+    <string name="uv_android_sdk">Android SDK</string>
+    <string name="uv_article_browse_question">"क्या यह आलेख उपयोगी था?"</string>
+    <string name="uv_article_instant_answer_question">"क्या यह अक्सर पूछे जाने वाले प्रश्न सहायक है?"</string>
+    <string name="uv_cancel">"रद्द करें"</string>
+    <string name="uv_category">"श्रेणी"</string>
+    <string name="uv_close">"बंद करें"</string>
+    <string name="uv_comment_hint">"अपनी टिप्पणी दर्ज करें"</string>
+    <string name="uv_confirm">"पुष्टि करें"</string>
+    <string name="uv_contact_continue_button">"मैं अभी भी संदेश भेजना चाहता हूँ"</string>
+    <string name="uv_contact_hint">"अपना प्रश्न या फ़ीडबैक दर्ज करें"</string>
+    <string name="uv_contact_us">"हमसे संपर्क करें"</string>
+    <string name="uv_display_name">"प्रदर्शित नाम"</string>
+    <string name="uv_email_address">"ईमेल पता"</string>
+    <string name="uv_email_address_hint">"your@email.com (ज़रूरी है)"</string>
+    <string name="uv_error">"त्रुटि"</string>
+    <string name="uv_failed_signin_error">"ग़लत ई-मेल और पासवर्ड"</string>
+    <string name="uv_forgot_password">"पासवर्ड भूल गए"</string>
+    <string name="uv_helpful_article_message_question">"क्या आप अभी भी संदेश भेजना चाहते हैं?"</string>
+    <string name="uv_i_want_this">"मैं यह चाहता हूँ!"</string>
+    <string name="uv_idea_description_heading">"अपने विचार का और विस्तार वर्णन करें"</string>
+    <string name="uv_idea_description_hint">"(वैकल्पिक)"</string>
+    <string name="uv_idea_text_heading">"मेरा आपको सुझाव है…"</string>
+    <string name="uv_loading">"लोड हो रहा है..."</string>
+    <string name="uv_matching_articles">"मिलान के आलेख"</string>
+    <string name="uv_matching_articles_and_ideas">"मिलान के आलेख और विचार"</string>
+    <string name="uv_menu_attach">"संलग्न करें"</string>
+    <string name="uv_menu_search">"खोजें"</string>
+    <string name="uv_msg_bad_email_format">"कृपया मान्य ईमेल पता दर्ज करें।"</string>
+    <string name="uv_msg_comment_posted">"आपकी टिप्पणी पोस्ट कर दी गई है"</string>
+    <string name="uv_msg_confirm_discard_message">"क्या आप वाकई अपना संदेश छोड़ना चाहते हैं?"</string>
+    <string name="uv_msg_custom_fields_validation">"कृपया सभी ज़रूरी फ़ील्ड भरें।"</string>
+    <string name="uv_msg_forgot_password">"पासवर्ड भूल गए ईमेल भेज दी गई है"</string>
+    <string name="uv_msg_idea_created">"आपका विचार बना दिया गया है"</string>
+    <string name="uv_msg_ticket_created">"आपका संदेश भेज दिया गया है"</string>
+    <string name="uv_msg_user_identity_validation">"कृपया अपना ईमेल पता दर्ज करें"</string>
+    <string name="uv_name_hint">"बेनाम"</string>
+    <string name="uv_network_error">"UserVoice से कनेक्ट करने में त्रुटि हुई है"</string>
+    <string name="uv_nevermind">"परवाह नहीं"</string>
+    <string name="uv_new_comment">"नई टिप्पणी"</string>
+    <string name="uv_next">"अगला"</string>
+    <string name="uv_no">"नहीं"</string>
+    <string name="uv_none_of_these_help">"इनमे से कोई नहीं सहायता"</string>
+    <string name="uv_password">"पासवर्ड"</string>
+    <string name="uv_password_dialog_title">"कृपया अपना पासवर्ड दर्ज करें"</string>
+    <string name="uv_portal_title">"सहायता"</string>
+    <string name="uv_post_a_comment">"टिप्पणी पोस्ट करें"</string>
+    <string name="uv_post_comment">"टिप्पणी पोस्ट करें"</string>
+    <string name="uv_posted_by_format">"%1$s द्वारा %2$s पर पोस्ट किया गया"</string>
+    <string name="uv_powered_by_uservoice">"UserVoice द्वारा संचालित"</string>
+    <string name="uv_ranked">"रैंक दिया गया %1$s"</string>
+    <string name="uv_remove_votes">"वोट हटाएँ"</string>
+    <string name="uv_select_none">"(कोई नहीं)"</string>
+    <string name="uv_select_one">"एक चुनें"</string>
+    <string name="uv_send_message">"संदेश भेजें"</string>
+    <string name="uv_signin_dialog_ok">"साइन इन करें"</string>
+    <string name="uv_signin_dialog_title">"साइन इन करें"</string>
+    <string name="uv_status_format">"स्थिति: %1$s"</string>
+    <string name="uv_submit_idea">"विचार जमा करें"</string>
+    <string name="uv_subscribe">"सदस्यता लें"</string>
+    <string name="uv_subscribe_dialog_title">"इस विचार के लिए सदस्यता लें"</string>
+    <string name="uv_suggestion_instant_answer_question">"क्या यह विचार मददगार है?"</string>
+    <string name="uv_thanks">"धन्यवाद!"</string>
+    <string name="uv_unhelpful_article_message_question">"क्या आप हमें संदेश भेजना चाहेंगे?"</string>
+    <string name="uv_value">"मान"</string>
+    <string name="uv_very_yes">"हाँ!"</string>
+    <string name="uv_yes">"हाँ"</string>
+    <string name="uv_your_email_address">"आपका ईमेल पता"</string>
+    <string name="uv_your_name">"आपका नाम"</string>
+</resources>

@@ -1,0 +1,1311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="alarm_set">
+        <item msgid="6450913786084215050">"Alarmın çalmasına şu andan itibaren bir dakikadan az var."</item>
+        <item msgid="6002066367368421848">"Alarmın çalmasına şu andan itibaren <ns1:g id="DAYS">%1$s</ns1:g> var."</item>
+        <item msgid="8824719306247973774">"Alarmın çalmasına şu andan itibaren <ns1:g id="HOURS">%2$s</ns1:g> var."</item>
+        <item msgid="8182406852935468862">"Alarmın çalmasına şu andan itibaren <ns1:g id="DAYS">%1$s</ns1:g> ve <ns1:g id="HOURS">%2$s</ns1:g> var."</item>
+        <item msgid="2532279224777213194">"Alarmın çalmasına şu andan itibaren <ns1:g id="MINUTES">%3$s</ns1:g> var."</item>
+        <item msgid="5936557894247187717">"Alarmın çalmasına şu andan itibaren <ns1:g id="DAYS">%1$s</ns1:g> ve <ns1:g id="MINUTES">%3$s</ns1:g> var."</item>
+        <item msgid="9115697840826129603">"Alarmın çalmasına şu andan itibaren <ns1:g id="HOURS">%2$s</ns1:g> ve <ns1:g id="MINUTES">%3$s</ns1:g> var."</item>
+        <item msgid="2332583385137381060">"Alarmın çalmasına şu andan itibaren <ns1:g id="DAYS">%1$s</ns1:g>, <ns1:g id="HOURS">%2$s</ns1:g> ve <ns1:g id="MINUTES">%3$s</ns1:g> var."</item>
+    </string-array>
+    <string-array name="charset_array">
+        <item>"Latin-1 (ISO-8859-1)"</item>
+        <item>"Unicode (UTF-8)"</item>
+        <item>"Çince (GBK)"</item>
+        <item>"Çince (Big5)"</item>
+        <item>"Japonca (ISO-2022-JP)"</item>
+        <item>"Japonca (SHIFT_JIS)"</item>
+        <item>"Japonca (EUC-JP)"</item>
+        <item>"Korece (EUC-KR)"</item>
+    </string-array>
+    <string-array name="country_names">
+        <item>Aruba</item>
+        <item>Afganistan (جمهوری اسلامی افغانستان)</item>
+        <item>Angola (República de Angola)</item>
+        <item>Anguilla</item>
+        <item>Arnavutluk (Shqipëri)</item>
+        <item>Andora (Principat d\'Andorra)</item>
+        <item>Hollanda Antilleri</item>
+        <item>Birleşik Arap Emirlikleri (دولة الإمارات العربية المتحدة‎)</item>
+        <item>Arjantin (República Argentina)</item>
+        <item>Ermenistan (Hayastan)</item>
+        <item>Amerikan Samoası</item>
+        <item>Antarktika</item>
+        <item>Fransız Güney Bölgeleri</item>
+        <item>Antigua ve Barbuda</item>
+        <item>Avustralya (Australia)</item>
+        <item>Avusturya (Österreich)</item>
+        <item>Azerbaycan</item>
+        <item>Burundi</item>
+        <item>Belçika (België)</item>
+        <item>Benin</item>
+        <item>Burkina Faso</item>
+        <item>Bangladeş (বাংলাদেশ)</item>
+        <item>Bulgaristan (България / Balgariya)</item>
+        <item>Bahreyn (مملكة البحرين)</item>
+        <item>Bahamalar</item>
+        <item>Bosna/Hersek (Bosna i Hercegovina)</item>
+        <item>Belarus (Беларусь)</item>
+        <item>Belize</item>
+        <item>Bermuda</item>
+        <item>Bolivya</item>
+        <item>Brezilya</item>
+        <item>Barbados</item>
+        <item>Brunei Darüsselam (بروني دارالسلام)</item>
+        <item>Bhutan</item>
+        <item>Bouvet Adası</item>
+        <item>Botsvana (Lefatshe la Botswana)</item>
+        <item>Orta Afrika Cumhuriyeti (République centrafricaine)</item>
+        <item>Kanada</item>
+        <item>Cocos (Keeling) Adaları</item>
+        <item>İsviçre (Suisse)</item>
+        <item>Şili</item>
+        <item>Çin (中國)</item>
+        <item>Fildişi Sahili</item>
+        <item>Kamerun</item>
+        <item>Kongo</item>
+        <item>Cook Adaları</item>
+        <item>Kolombiya</item>
+        <item>Komorlar</item>
+        <item>Yeşil Burun</item>
+        <item>Kosta Rika</item>
+        <item>Küba</item>
+        <item>Christmas Adası</item>
+        <item>Cayman Adaları</item>
+        <item>Kıbrıs (Euro)</item>
+        <item>Çek Cumhuriyeti (Česká republika)</item>
+        <item>Almanya (Deutschland)</item>
+        <item>Cibuti</item>
+        <item>Dominik</item>
+        <item>Danimarka (Danmark)</item>
+        <item>Dominik Cumhuriyeti</item>
+        <item>Cezayir</item>
+        <item>Ekvator</item>
+        <item>Mısır (مصر‎)</item>
+        <item>Eritre</item>
+        <item>Batı Sahra</item>
+        <item>İspanya (España)</item>
+        <item>Estonya (Eesti)</item>
+        <item>Etiyopya</item>
+        <item>Finlandiya (Suomi)</item>
+        <item>Fiji</item>
+        <item>Falkland Adaları</item>
+        <item>Fransa (France)</item>
+        <item>Belçika (Belgique)</item>
+        <item>Faroe Adaları</item>
+        <item>Mikronezya</item>
+        <item>Gabon</item>
+        <item>İngiltere (United Kingdom)</item>
+        <item>Gürcistan (საქართველო)</item>
+        <item>Gana</item>
+        <item>Cebeli Tarık</item>
+        <item>Gine</item>
+        <item>Guadölup</item>
+        <item>Gambiya</item>
+        <item>Gine-Bissau</item>
+        <item>Ekvator Ginesi</item>
+        <item>Yunanistan (Ελλάδα)</item>
+        <item>Grenada</item>
+        <item>Grönland</item>
+        <item>Guatemala</item>
+        <item>Fransız Ginesi</item>
+        <item>Guam</item>
+        <item>Guyana</item>
+        <item>Hong Kong (香港)</item>
+        <item>Heard ve Mc Donald Adaları</item>
+        <item>Honduras</item>
+        <item>Hırvatistan (Hrvatska)</item>
+        <item>Haiti</item>
+        <item>Macaristan (Magyarország)</item>
+        <item>Endonezya Republik Indonesia)</item>
+        <item>Hindistan (भारत गणराज्य )</item>
+        <item>İngiliz Hint Okyanusu Bölgesi</item>
+        <item>İrlanda (Ireland)</item>
+        <item>İran (ایران)</item>
+        <item>Irak (العراق)</item>
+        <item>İzlanda (Ísland)</item>
+        <item>İsrail (מְדִינַת יִשְׂרָאֵל  /  دَوْلَةُ إِسْرَائِيلَ)</item>
+        <item>İtalya (Italia)</item>
+        <item>Jamaika</item>
+        <item>Ürdün (L\'Ürdünn)</item>
+        <item>Japonya (日本国)</item>
+        <item>Kazakistan</item>
+        <item>Kenya (Jamhuri ya Kenya)</item>
+        <item>Kırgızistan</item>
+        <item>Kamboçya (कम्बोजदेश)</item>
+        <item>Kiribati</item>
+        <item>Saint Kitts ve Nevis</item>
+        <item>Kore Cumhuriyeti (대한민국)</item>
+        <item>Kuveyt (دولة الكويت)</item>
+        <item>Lao Halk Demokratik Cumhuriyeti</item>
+        <item>Lübnan (اَلْجُمْهُورِيَّة اَللُّبْنَانِيَّة)</item>
+        <item>Liberya</item>
+        <item>Libya Arap Cemahiriyesi</item>
+        <item>Saint Lucia</item>
+        <item>Lihtenştayn (Liechtenstein)</item>
+        <item>Sri Lanka (இலங்கை ஜனநாயக சமத்துவ)</item>
+        <item>Lesoto</item>
+        <item>Litvanya (Lietuva)</item>
+        <item>Lüksemburg (Lëtzebuerg)</item>
+        <item>Letonya (Latvija)</item>
+        <item>Makao</item>
+        <item>Fas</item>
+        <item>Monako (Monaco)</item>
+        <item>Moldova (Moldova)</item>
+        <item>Madagaskar</item>
+        <item>Maldivler</item>
+        <item>Meksika</item>
+        <item>Marshall Adaları</item>
+        <item>Makedonya</item>
+        <item>Mali</item>
+        <item>Malta (Malta)</item>
+        <item>Myanmar (Pyidaunzu Thanmăda Myăma Nainngandaw)</item>
+        <item>Moğolistan</item>
+        <item>Kuzey Mariana Adaları</item>
+        <item>Mozambik</item>
+        <item>Moritanya</item>
+        <item>Montserrat</item>
+        <item>Martinik (Martinique)</item>
+        <item>Morityus (Republik Moris)</item>
+        <item>Malavi</item>
+        <item>Malezya (Persekutuan Malaysia)</item>
+        <item>Mayotte</item>
+        <item>Namibya</item>
+        <item>Yeni Kaledonya (Nouvelle-Calédonie)</item>
+        <item>Nijer</item>
+        <item>Norfolk Adası (Norfuk Ailen)</item>
+        <item>Nijerya (Republik Nijeriya)</item>
+        <item>Niakaragua</item>
+        <item>Niue</item>
+        <item>Hollanda (Nederland)</item>
+        <item>Norveç (Norge)</item>
+        <item>Nepal (सङ्घीय लोकतान्त्रिक गणतन्त्र नेपाल)</item>
+        <item>Nauru</item>
+        <item>Yeni Zelanda (New Zealand)</item>
+        <item>Umman (لطنة عمان)</item>
+        <item>Pakistan (پاکِستان)</item>
+        <item>Panama</item>
+        <item>Pitcairn</item>
+        <item>Peru</item>
+        <item>Filipinler (Pilipinas)</item>
+        <item>Palau</item>
+        <item>Papua Yeni Gine</item>
+        <item>Polonya (Polska)</item>
+        <item>Porto Riko</item>
+        <item>Kore Demokratik Halk Cumhuriyeti</item>
+        <item>Portekiz (Portugal)</item>
+        <item>Paraguay</item>
+        <item>Fransız Polinezyası</item>
+        <item>Katar</item>
+        <item>Reunion</item>
+        <item>Romanya (România)</item>
+        <item>Rusya (Россия)</item>
+        <item>Ruanda</item>
+        <item>Suudi Arabistan (المملكة العربية السعودية)</item>
+        <item>Sırbistan ve Karadağ</item>
+        <item>Sudan (جمهورية السودان)</item>
+        <item>Senegal</item>
+        <item>Singapur (Singapore)</item>
+        <item>Güney Georgia ve Güney Sandiviç Adaları</item>
+        <item>St. Helena</item>
+        <item>Svalbard ve Jan Mayen Adaları</item>
+        <item>Solomon Adaları (Solomon Islands)</item>
+        <item>Sierra Leone</item>
+        <item>El Salvador</item>
+        <item>San Marino (San Marino)</item>
+        <item>Somali</item>
+        <item>St. Pierre ve Miquelon (St. Pierre and Miquelon)</item>
+        <item>Sao Tome ve Principe</item>
+        <item>Surinam</item>
+        <item>Slovakya (Slovensko)</item>
+        <item>Slovenya (Slovenija)</item>
+        <item>İsveç (Sverige)</item>
+        <item>Swaziland (Swatini)</item>
+        <item>Şeyseller</item>
+        <item>Suriye Arap Cumhuriyeti (جمهورية العربية السورية)</item>
+        <item>Turks ve Caicos Adaları</item>
+        <item>Çad</item>
+        <item>Togo</item>
+        <item>Tayland (ราชอาณาจักรไทย)</item>
+        <item>Tacikistan</item>
+        <item>Tokelau</item>
+        <item>Türkmenistan</item>
+        <item>Doğu Timor</item>
+        <item>Tonga</item>
+        <item>Trinidad ve Tobago</item>
+        <item>Tunus</item>
+        <item>Türkiye (Türkiye)</item>
+        <item>Tuvalu</item>
+        <item>TAYVAN, ROC (台灣)</item>
+        <item>Tanzanya</item>
+        <item>Uganda (Jamhuri ya Uganda)</item>
+        <item>Ukrayna (Україна)</item>
+        <item>Birleşik Devler Minor Outlying Adaları</item>
+        <item>Uruguay</item>
+        <item>Amerika Birleşik Devletleri</item>
+        <item>Özbekistan</item>
+        <item>Vatikan (Stato della Città del Vaticano)</item>
+        <item>Saint Vincent ve Grenadinler</item>
+        <item>Venezuela</item>
+        <item>Virgin Adaları (İngiliz)</item>
+        <item>Virgin Adaları (ABD)</item>
+        <item>Vietnam (Việt Nam)</item>
+        <item>Vanuatu</item>
+        <item>Wallis ve Futuna Adaları</item>
+        <item>Samoa</item>
+        <item>Yemen</item>
+        <item>Güney Afrika (Republiek van Suid-Afrika)</item>
+        <item>Zaire</item>
+        <item>Zambiya</item>
+        <item>Zimbabve (Simudzai Mureza wedu WeZimbabwe)</item>
+    </string-array>
+    <plurals name="dialog_unzip_preview_size_text">
+        <item quantity="one">Toplam: %1$d dosya, %2$s</item>
+        <item quantity="other">Toplam: %1$d dosya, %2$s</item>
+    </plurals>
+    <plurals name="drag_items">
+        <item quantity="one">Öğeyi sürükle</item>
+        <item quantity="other">Öğeleri sürükle</item>
+    </plurals>
+    <plurals name="number_search_items">
+        <item quantity="one">"%d dosya bulundu"</item>
+        <item quantity="other">"%d dosya bulundu"</item>
+    </plurals>
+    <plurals name="number_selected_items">
+        <item quantity="one">%d öğe seçildi</item>
+        <item quantity="other">%d öğe seçildi</item>
+    </plurals>
+    <plurals name="uf_sdk_number_of_subscribers_format">
+        <item quantity="one">"%1$s bu konuyu beğendi"</item>
+        <item quantity="other">"%1$s bu konuyu beğendi"</item>
+    </plurals>
+    <plurals name="uf_sdk_topics">
+        <item quantity="one">"konu"</item>
+        <item quantity="other">"konu"</item>
+    </plurals>
+    <plurals name="uv_comments">
+        <item quantity="one">"yorum"</item>
+        <item quantity="other">"yorumlar"</item>
+    </plurals>
+    <plurals name="uv_number_of_subscribers_format">
+        <item quantity="one">"%1$s bu fikri istiyor"</item>
+        <item quantity="other">"%1$s bu fikri istiyor"</item>
+    </plurals>
+    <plurals name="uv_people">
+        <item quantity="one">"kişi"</item>
+        <item quantity="other">"kişiler"</item>
+    </plurals>
+    <plurals name="uv_subscribers">
+        <item quantity="one">"abone"</item>
+        <item quantity="other">"aboneler"</item>
+    </plurals>
+    <string name="AsusWebstroage">AsusWebstorage</string>
+    <string name="AuCloud">AuCloud</string>
+    <string name="BaiDuPCS">BaiDuPCS</string>
+    <string name="Default">Varsayılan</string>
+    <string name="Dropbox">Dropbox</string>
+    <string name="Google_Drive">Google Drive</string>
+    <string name="HomeCloud">HomeCloud</string>
+    <string name="OneDrive">OneDrive</string>
+    <string name="Yandex">Yandex</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Ana ekrana git"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Yukarı git"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Diğer seçenekler"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Bitti"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Tümünü göster"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Bir uygulama seçin"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"KAPAT"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"AÇ"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Ara…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Sorguyu temizle"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Arama sorgusu"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Ara"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Sorguyu gönder"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Sesli arama"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Şununla paylaş"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"%s ile paylaş"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Daralt"</string>
+    <string name="about">Hakkında</string>
+    <string name="account_asus">ASUS</string>
+    <string maxwidth="-1" name="action">Oturum aç</string>
+    <string description="cutstom action bar view title for about" maxwidth="-1" name="action_about">Hakkında</string>
+    <string description="action add files" maxwidth="-1" name="action_add">Ekle</string>
+    <string description="cutstom action bar view title for add folder" maxwidth="-1" name="action_add_folder">Klasör Ekle</string>
+    <string description="View title of custom action bar, apply to multiple selected files" maxwidth="-1" name="action_apply_selected_file">Uygula</string>
+    <string description="action cancel" maxwidth="-1" name="action_cancel">İptal</string>
+    <string maxwidth="-1" name="action_clean">"Temizle"</string>
+    <string maxwidth="-1" name="action_clean_all">"Tümünü temizle"</string>
+    <string description="cutstom action bar view title for clear search history" maxwidth="" name="action_clear_history">Arama geçmişini temizle</string>
+    <string description="cutstom action bar view title for edit" maxwidth="" name="action_edit">"Düzenle"</string>
+    <string maxwidth="" name="action_hidden_zone">"Gizli Dolaba Taşı"</string>
+    <string description="cutstom action bar view title for hinde system file" maxwidth="-1" name="action_hind_system_file">Sistem dosyalarını gizle</string>
+    <string name="action_loading">"Yükleniyor..."</string>
+    <string description="cutstom action bar view title for open with" maxwidth="" name="action_open_with">"Birlikte aç..."</string>
+    <string name="action_refresh_cloudfile">"Yenile"</string>
+    <string maxwidth="-1" name="action_restore">"Geri yükle"</string>
+    <string maxwidth="-1" name="action_restore_all">"Tümünü geri yükle"</string>
+    <string description="cutstom action bar view title for search" maxwidth="" name="action_search">Ara</string>
+    <string description="cutstom action bar view title for set as" maxwidth="" name="action_set_as">"Resmi farklı ayarla"</string>
+    <string description="menu title for setting" maxwidth="-1" name="action_settings">"Ayarlar"</string>
+    <string description="cutstom action bar view title for sharing" maxwidth="-1" name="action_share">"Paylaş"</string>
+    <string description="String for asking for the rule of sorting" maxwidth="-1" name="action_sort_by">Sırala</string>
+    <string description="cutstom action bar view title for zip" maxwidth="" name="action_zip">Sıkıştır</string>
+    <string description="Dialog title: Add cloud storage" maxwidth="-1" name="add_cloud_storage_dialog_title">Bulut depolaması ekle</string>
+    <string name="add_favorite">Sık Kullanılana Ekle</string>
+    <string name="add_favorite_folder">"Favori klasör ekle"</string>
+    <string name="add_favorite_success">Sık Kullanılana Kaydet</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="add_progress">Oluşturuluyor...</string>
+    <string description="Don&apos;t remind me again" maxwidth="-1" name="alert_cb_msg">Tekrar hatırlatma</string>
+    <string description="ASUS ZenUI Services is not support, need update ASUS ZenUI Services" maxwidth="-1" name="alert_msg_azs_update">%1$s, ASUS ZenUI Hizmetlerinin en son sürümünü gerektirmektedir, lütfen şimdi yükleyin.</string>
+    <string description="Client app is not support, need update client app" maxwidth="-1" name="alert_msg_client_update">%1$s yeni sürümü var, lütfen şimdi yükleyin.</string>
+    <string description="Client app version is compatible with ASUS ZenUI Services" maxwidth="-1" name="alert_msg_compatible">%1$s sürümü, ASUS ZenUI Services ile uyumlu değil.</string>
+    <string description="Client app version is match with ASUS ZenUI Services" maxwidth="-1" name="alert_msg_match">%1$s sürümü ASUS ZenUI Services ile uyuşuyor.</string>
+    <string description="ASUS ZenUI Services is not found on device" maxwidth="-1" name="alert_msg_not_found">ASUS ZenUI Services yüklenmemiş!\n\nİndirilip yüklensin mi?</string>
+    <string description="Dialog title" maxwidth="-1" name="alert_title">Not</string>
+    <string description="Dialog title" maxwidth="-1" name="alert_title_update">Güncelleme yapılması önerilir</string>
+    <string name="app_cloudstorage_name">BulutDepolama</string>
+    <string name="app_upload_complete">"%s karşıya yükleme tamamlandı"</string>
+    <string description="" name="article_one">ASUS \"<u>Kullanım Koşulları Bildirimi</u>\", ASUS \"<u>Gizlilik İlkesi</u>\", ASUS WebStorage \"<u>Kullanım Koşulları Bildirimi</u>\", ASUS WebStorage \"<u>Gizlilik İlkesi</u>\".</string>
+    <string description="" name="article_two">eDMS ile ASUS haberler, yazılım güncelleştirmeleri ve en son ürün ve hizmet bilgilerinden beni haberdar edin.</string>
+    <string description="Text for create asus account button." maxwidth="" name="asus_account_create_button">Yeni oluştur</string>
+    <string name="asus_account_integrate_dialog_content">ASUS Hesabınızla ASUS Bulut Depolama hizmetine entegre olmak istiyor musunuz? \n\n Bu entegrasyondan sonra tüm ASUS hizmetleri ayanı hesaptan kullanılabilir.</string>
+    <string name="asus_account_integrate_dialog_skip">Atla</string>
+    <string name="asus_account_integrate_dialog_title">ASUS Hizmetlerine Entegre Ol</string>
+    <string name="asus_account_integrate_dialog_yes">Evet</string>
+    <string description="Text for asus account content 1st." maxwidth="" name="asus_account_msg_content_1">Kayıtlı ürünler için Kişisel ASUS destek hizmeti ve garanti uzatma.</string>
+    <string description="Text for asus account content 2nd." maxwidth="" name="asus_account_msg_content_2">5GB ücretsiz bulut depolama alanı.</string>
+    <string description="Text for asus account content 3rd." maxwidth="" name="asus_account_msg_content_3">Aksesuarlar ve yenilenmiş ürünlerle ilgili en son bilgileri.</string>
+    <string description="Text for asus account content title." maxwidth="" name="asus_account_msg_title">Şunları almak için bir ASUS hesabı oluşturun:</string>
+    <string name="asus_account_only_one_alert">"Yalnızca bir ASUS hesabı eklenmesine izin verilir. Yeni bir tanesiyle değiştirmeden önce geçerli hesabınızı silmek zorundasınız."</string>
+    <string name="asus_account_prefc">"Ayarlar"</string>
+    <string name="asus_account_prefc_advc">"Gelişmiş ayarlar"</string>
+    <string name="asus_account_registe_country_error">Lütfen bir adet ülke bölgesi seçin!</string>
+    <string name="asus_account_registe_id_error">E-posta hatası</string>
+    <string name="asus_account_registe_policy_error">ASUS Hesabına kaydolmak için ASUS ilkesini kabul etmelisiniz!</string>
+    <string name="asus_account_registe_pw_error_1">Parola boş olamaz!</string>
+    <string name="asus_account_registe_pw_error_2">Onay parolası boş olamaz!</string>
+    <string name="asus_account_registe_pw_error_3">Parola ve onay aynı olmalıdır!</string>
+    <string name="asus_account_registe_pw_error_4">"Şifre 8 ila 25 karakter olmalıdır."</string>
+    <string name="asus_account_removeaccount_dialog_content">"Hesap tümleştirme başarılı. Yeni hesabı kullanarak tekrar oturum açın."</string>
+    <string name="asus_account_removeaccount_dialog_title">"ASUS hesabı tümleştirme başarılı"</string>
+    <string name="asus_commonui_activity_chooser_view_see_all">"Tümünü göster"</string>
+    <string name="asus_commonui_activity_resolver_use_always">"Her zaman"</string>
+    <string name="asus_commonui_activity_resolver_use_once">"Yalnızca bir defa"</string>
+    <string name="asus_commonui_activitychooserview_choose_application">"Bir uygulama seçin"</string>
+    <string name="asus_commonui_activitychooserview_choose_application_error">
+        "<ns1:g id="APPLICATION_NAME">%s</ns1:g> başlatılamadı"</string>
+    <string name="asus_commonui_cancel_label">"İptal"</string>
+    <string name="asus_commonui_chooseActivity">"İşlem seçin"</string>
+    <string msgid="3968620852217927702" name="asus_commonui_day_picker_description">"Ayın günleri tablosu"</string>
+    <string msgid="6908431551612331381" name="asus_commonui_deleted_key">"<ns1:g id="KEY">%1$s</ns1:g> silindi"</string>
+    <string name="asus_commonui_done_label">"Tamam"</string>
+    <string msgid="7586639618712934060" name="asus_commonui_hour_picker_description">"Saatler için kaydırma çemberi"</string>
+    <string msgid="2674929164900463786" name="asus_commonui_item_is_selected">"<ns1:g id="ITEM">%1$s</ns1:g> seçildi"</string>
+    <string msgid="6024811202872705251" name="asus_commonui_minute_picker_description">"Dakikalar için kaydırma çemberi"</string>
+    <string name="asus_commonui_noApplications">"Bu eylemi hiçbir uygulama gerçekleştiremez."</string>
+    <string name="asus_commonui_no_url_handler">"URL'yi açacak uygulama bulunamadı"</string>
+    <string name="asus_commonui_privacy_policy">Gizlilik İlkesi</string>
+    <string name="asus_commonui_privacy_policy_url">http://www.asus.com/TR/Terms_of_Use_Notice_Privacy_Policy/Privacy_Policy</string>
+    <string msgid="3973338219107019769" name="asus_commonui_select_day">"Ayı ve günü seçin"</string>
+    <string msgid="7651068754188418859" name="asus_commonui_select_hours">"Saat seçin"</string>
+    <string msgid="8327182090226828481" name="asus_commonui_select_minutes">"Dakika seçin"</string>
+    <string msgid="2603330600102539372" name="asus_commonui_select_year">"Yılı seçin"</string>
+    <string name="asus_commonui_shareactionprovider_share_with">Şununla paylaş:"</string>
+    <string name="asus_commonui_shareactionprovider_share_with_application">
+        "<ns1:g id="APPLICATION_NAME">%s</ns1:g> ile paylaş"</string>
+    <string name="asus_commonui_terms_of_use_notice">Kullanım Hükümleri Bildirimi</string>
+    <string name="asus_commonui_terms_of_use_notice_url">http://www.asus.com/TR/Terms_of_Use_Notice_Privacy_Policy/Official_Site/</string>
+    <string name="asus_commonui_whichApplication">"İşlemi şunu kullanarak tamamla"</string>
+    <string name="asus_commonui_whichHomeApplication">"Ana ekran uygulaması seçin"</string>
+    <string msgid="6963340404644587098" name="asus_commonui_year_picker_description">"Yıl listesi"</string>
+    <string name="asus_feedback_and_help">Geri Bildirim ve Yardım</string>
+    <string name="asus_registe_success_title">"ASUS hesabı kaydı başarılı"</string>
+    <string name="asus_response_resultdata">"Bu hesap zaten kaydettirilmiş."</string>
+    <string name="asusaccount_app_name">ASUS Hesabı</string>
+    <string maxwidth="-1" name="attribution_notice">Özellik Bildirimi:</string>
+    <string maxwidth="-1" name="attribution_notice_content">
+    "
+    \nBu ürün aşağıdaki açık kaynakları içerir:
+\n\ Apache License Version 2.0 lisanslı nuservoice-android-sdk. Bu lisans http://www.apache.org/licenses/LICENSE-2.0.html adresinden indirilebilir.
+        \n\MIT lisanslı nangular-filemanager. Bu lisans https://github.com/joni2back/angular-filemanager/blob/master/LICENSE adresinden indirilebilir.
+        \n\MIT lisanslı nprogressbar. Bu lisans https://github.com/kimmobrunfeldt/progressbar.js/blob/master/LICENSE adresinden indirilebilir.
+        \n\ntoastr, Telif Hakkı (c) 2012-2015 John Papa, Tim Ferrell, Hans Fjällemark\n Bu yazılımın ve ilgili doküman dosyalarının (“Yazılım”) bir kopyasını edinen tüm kişilere, kullanmak, kopyalamak, değiştirmek, birleştirmek, yayınlamak, dağıtmak, alt lisanslar sağlamak ve/veya Yazılım’ın kopyalarını satmak dahil ancak bunlarla sınırlı olmayacak şekilde hiçbir kısıtlama olmaksızın Yazılım’ı kullanma ve Yazılım’ı, amaçlandığı üzere, diğer kişilerin de bu şekilde kullanması için yetki vermek konusunda ücretsiz olarak izin verilmiştir ve aşağıdaki koşullara tabidir:
+        Yukarıdaki telif hakkı bildirimi ve bu izin bildirimi, Yazılım’ın tüm kopyalarında veya önemli bölümlerinde yer alacaktır. YAZILIM “OLDUĞU GİBİ” SAĞLANMAKTADIR VE PAZARLANABİLİRLİK, BELİRLİ BİR AMAÇ VE İHLAL ETMEME DURUMUNA UYGUNLUK DA DAHİL ANCAK BUNLARLA SINIRLI OLMAMAK ÜZERE, AÇIKÇA VEYA DOLAYLI OLARAK HİÇBİR GARANTİYE SAHİP DEĞİLDİR. YAZILIMI YAZANLAR VEYA TELİF HAKKI SAHİPLERİ, YAZILIMIN KULLANIMI VEYA ÜZERİNDE YAPILAN DİĞER TÜRLÜ EYLEMLERDEN KAYNAKLI VEYA BUNLARLA İLİŞKİLİ OLARAK ORTAYA ÇIKABİLECEK, SÖZLEŞME, HAKSIZ FİİL VEYA BAŞKA BİR DAVA KAPSAMINDAKİ HİÇBİR TALEP, TAZMİNAT VEYA DİĞER TÜRLÜ BİR YÜKÜMLÜLÜKTEN SORUMLU DEĞİLDİR."
+    </string>
+    <string name="aucloud_account_only_one_alert">"Yalnızca bir au Cloud hesabı eklenmesine izin verilir. Yeni bir tanesiyle değiştirmeden önce geçerli hesabınızı silmek zorundasınız."</string>
+    <string description="string indicating how camera shooting feature is used" maxwidth="-1" name="auto">Otomatik</string>
+    <string maxwidth="-1" name="aws_install_contnet">WebStorage yüklenmedi, play store\'dan yükleyip kurmak istiyor musunuz?</string>
+    <string maxwidth="" name="aws_install_title">WebStorage yüklenmedi</string>
+    <string description="button text." maxwidth="-1" name="back_button_label">Geri</string>
+    <string name="baidu_alert_info">"Baidu’nun platformu temelinde, bu aygıt yalnızca "My Application Data\\asus\\" altındaki verilere erişebilir."</string>
+    <string name="baidu_alert_title">"Baidu Bulut Depolama"</string>
+    <string name="baidu_storage_title">"百度云"</string>
+    <string name="baidupcs_account_only_one_alert">"Yalnızca bir Baidu for ASUS hesabı eklenmesine izin verilir. Yeni bir tanesiyle değiştirmeden önce geçerli hesabınızı silmek zorundasınız."</string>
+    <string name="btn_OK">Tamam</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="calculate_progress">"İlerliyor..."</string>
+    <string description="Toast: can not open in hidden zone" maxwidth="-1" name="can_not_open_in_hidden_zone">"Gizli Dolap açılamıyor"</string>
+    <string description="Dialog Button: cancel for dialog" maxwidth="" name="cancel">İptal</string>
+    <string name="cancle">İptal</string>
+    <string name="category_apk">Uygulamalar</string>
+    <string maxwidth="11" name="category_app1">"Uygulamalar"</string>
+    <string name="category_compress">"Sıkıştırılmış"</string>
+    <string maxwidth="11" name="category_compressed1">"Sıkıştırılmış"</string>
+    <string name="category_count">"%s"</string>
+    <string maxwidth="11" name="category_document1">"Belgeler"</string>
+    <string name="category_documents">"Belgeler"</string>
+    <string name="category_download">İndir</string>
+    <string maxwidth="11" name="category_download1">"İndirmeler"</string>
+    <string name="category_favorite">Sık Kullanılan</string>
+    <string maxwidth="11" name="category_favorite1">"Favoriler"</string>
+    <string name="category_game">"Oyunlar"</string>
+    <string name="category_image">Görüntü</string>
+    <string maxwidth="11" name="category_image1">"Görüntüler"</string>
+    <string maxwidth="11" name="category_large_file1">"Büyük dosyalar"</string>
+    <string name="category_music">Müzik</string>
+    <string maxwidth="11" name="category_music1">"Müzik"</string>
+    <string name="category_name_app_wallpaper">"Canlı Duvar Kağıdı"</string>
+    <string name="category_name_app_widgets">"Widget'lar"</string>
+    <string name="category_name_books_and_reference">"Kitaplar ve Referans"</string>
+    <string name="category_name_business">"İş"</string>
+    <string name="category_name_comics">"Karikatür"</string>
+    <string name="category_name_communication">"Haberleşme"</string>
+    <string name="category_name_education">"Eğitim"</string>
+    <string name="category_name_entertainment">"Eğlence"</string>
+    <string name="category_name_finance">"Finans"</string>
+    <string name="category_name_game">"Oyunlar"</string>
+    <string name="category_name_game_action">"Aksiyon"</string>
+    <string name="category_name_game_adventure">"Macera Oyunları"</string>
+    <string name="category_name_game_arcade">"Atari Oyunları"</string>
+    <string name="category_name_game_board">"Masa Oyunları"</string>
+    <string name="category_name_game_card">"Kağıt"</string>
+    <string name="category_name_game_casino">"Kumarhane Oyunları"</string>
+    <string name="category_name_game_casual">"Klasik"</string>
+    <string name="category_name_game_educational">"Eğitici"</string>
+    <string name="category_name_game_family">"Aile"</string>
+    <string name="category_name_game_music">"Müzik"</string>
+    <string name="category_name_game_puzzle">"Bulmaca"</string>
+    <string name="category_name_game_racing">"Yarış"</string>
+    <string name="category_name_game_role_playing">"Rol Oyunu"</string>
+    <string name="category_name_game_simulation">"Simülasyon"</string>
+    <string name="category_name_game_sports">"Spor"</string>
+    <string name="category_name_game_strategy">"Strateji Oyunları"</string>
+    <string name="category_name_game_trivia">"Eğlencelik Bilgi Oyunları"</string>
+    <string name="category_name_game_word">"Kelime"</string>
+    <string name="category_name_health_and_fitness">"Sağlık ve Fitness"</string>
+    <string name="category_name_libraries_and_demo">"Kitaplıklar ve Kısa Sunum"</string>
+    <string name="category_name_lifestyle">"Yaşam Tarzı"</string>
+    <string name="category_name_media_and_video">"Medya ve Video"</string>
+    <string name="category_name_medical">"Tıp"</string>
+    <string name="category_name_music_and_audio">"Müzik ve Ses"</string>
+    <string name="category_name_news_and_magazines">"Haberler ve Dergiler"</string>
+    <string name="category_name_personalization">"Kişiselleştirme"</string>
+    <string name="category_name_photography">"Fotoğrafçılık"</string>
+    <string name="category_name_productivity">"Verimlilik"</string>
+    <string name="category_name_shopping">"Alışveriş"</string>
+    <string name="category_name_social">"Sosyal"</string>
+    <string name="category_name_sports">"Spor"</string>
+    <string name="category_name_tools">"Araçlar"</string>
+    <string name="category_name_transportation">"Ulaşım"</string>
+    <string name="category_name_travel_and_local">"Seyahat ve Yerel"</string>
+    <string name="category_name_weather">"Hava Durumu"</string>
+    <string name="category_others">"Diğerleri"</string>
+    <string maxwidth="11" name="category_recent1">"Yakında"</string>
+    <string name="category_recent_files">"En son eklenen"</string>
+    <string name="category_sorting_summary">"Kategori panelinde görünen öğeleri seçin"</string>
+    <string name="category_title_category">Kategori</string>
+    <string name="category_title_local_storage">Yerel Depolama</string>
+    <string name="category_title_tools">"Araçlar"</string>
+    <string name="category_toast_invalid_item_size_6_or_9">"Lütfen 6 veya 9 öğe seçin"</string>
+    <string name="category_toast_invalid_item_size_9">"Lütfen 9 öğe seçin"</string>
+    <string name="category_toast_invalid_remove">"Bu öğe kaldırılamaz"</string>
+    <string name="category_toast_max_item_size">"En fazla 9 öğe seçin"</string>
+    <string name="category_video">Video</string>
+    <string maxwidth="11" name="category_video1">"Videolar"</string>
+    <string name="clear_account_info">Tüm hesapları unut</string>
+    <string description="Menu Option: clear all checkbox" maxwidth="" name="clear_all">Tümünü Temizle</string>
+    <string name="click_plus_to_add_favorite_folder">"Bir favori klasör eklemek için + simgesine dokunun"</string>
+    <string description="Toast: The size is over the limit and cannot be uploaded" maxwidth="-1" name="cloud_download_flie_limit_space">Boyut sınırın üzerinde ve karşıya yüklenemez</string>
+    <string description="Toast: The name of the file uploaded is not supported by cloud server" maxwidth="-1" name="cloud_flie_name_not_supported">"Dosya adı bulut sunucusu tarafından desteklenmediği için işlem tamamlanamadı."</string>
+    <string description="home cloud get available devices fail" name="cloud_homebox_get_devices_fail">Kullanılabilir HomeCloud aygıtları taranamadı</string>
+    <string description="home cloud has no available devices" name="cloud_homebox_no_available_devices">Hiç kullanılabilir HomeCloud aygıtı yok</string>
+    <string description="home cloud device is sleep" name="cloud_homebox_status__info_Sleep">Uyku</string>
+    <string description="home cloud device is offline" name="cloud_homebox_status__info_offline">Çevrim dışı</string>
+    <string description="home cloud device is online" name="cloud_homebox_status__info_online">Çevrimiçi</string>
+    <string description="home cloud device is offline" name="cloud_homebox_status_offline">Aygıt çevrim dışı</string>
+    <string description="diaglog cloud background paste" name="cloud_paste_backgroud">Arka Plan</string>
+    <string description="diaglog cloud  now is copy files" name="cloud_paste_copying">Kopyalanıyor...</string>
+    <string description="diaglog cloud  current" name="cloud_paste_current">Geçerli</string>
+    <string description="diaglog cloud  now is delete source files" name="cloud_paste_deleting">Kaynak dosyalar siliniyor...</string>
+    <string description="diaglog cloud  paste" name="cloud_paste_downloading">Dosyalar karşıdan yükleniyor</string>
+    <string description="diaglog cloud  total" name="cloud_paste_total">Toplam</string>
+    <string description="diaglog cloud  paste uploading" name="cloud_paste_uploading">Dosyalar karşıya yükleniyor</string>
+    <string description="Toast: cloud preview action" maxwidth="-1" name="cloud_preview_action_fail">Başarısız bulut dosyalarını ön izleyin.</string>
+    <string description="Toast: cloud share action" maxwidth="-1" name="cloud_share_action_fail">Başarısız bulut dosyalarını paylaşın.</string>
+    <string description=">Do you want to remove" maxwidth="-1" name="cloud_storage_remove_hint">"\"%s\" hesabından çıkış yapmak istiyor musunuz??"</string>
+    <string description="Dialog title: Remove cloud storage" maxwidth="-1" name="cloud_storage_remove_hint_title">Oturumu Kapat</string>
+    <string description=">Do you want to signin" maxwidth="-1" name="cloud_storage_sign_in">Aşağıdaki hesabı kullanarak bağlan:</string>
+    <string description="Dialog title: Signin cloud storage" maxwidth="-1" name="cloud_storage_sign_in_title">%s bağlantısı kur</string>
+    <string description=">Do you want to signout" maxwidth="-1" name="cloud_storage_sign_out">Oturumu kapatmak istediğinizden emin misiniz?</string>
+    <string description="Dialog title: Signout cloud storage" maxwidth="-1" name="cloud_storage_sign_out_title">Bağlantıyı Kes</string>
+    <string description="Add more cloud storage" maxwidth="-1" name="cloud_storage_title">Daha fazla bulut depolaması ekle</string>
+    <string description="diaglog cloud  token is invalidate" name="cloud_token_invalidate">Belirteç geçersiz hale getirildi, lütfen yeniden oturum açın!</string>
+    <string description="Toast: The size is over the limit and cannot be uploaded" maxwidth="-1" name="cloud_upload_flie_limit_space">Boyut sınırın üzerinde ve karşıya yüklenemez</string>
+    <string name="com_facebook_image_download_unknown_error">Görsel indirilirken beklenmeyen hata.</string>
+    <string name="com_facebook_internet_permission_error_message">WebView girişi için İNTERNET izni gerekir</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifest Hatası</string>
+    <string name="com_facebook_like_button_liked">Beğendin</string>
+    <string name="com_facebook_like_button_not_liked">Beğen</string>
+    <string name="com_facebook_loading">Yükleniyor...</string>
+    <string name="com_facebook_loginview_cancel_action">İptal</string>
+    <string name="com_facebook_loginview_log_in_button">Giriş yap</string>
+    <string name="com_facebook_loginview_log_in_button_long">Facebook ile giriş yap</string>
+    <string name="com_facebook_loginview_log_out_action">Çıkış yap</string>
+    <string name="com_facebook_loginview_log_out_button">Çıkış yap</string>
+    <string name="com_facebook_loginview_logged_in_as">Giriş yapan: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Facebook ile giriş yapıldı</string>
+    <string name="com_facebook_send_button_text">Gönder</string>
+    <string name="com_facebook_share_button_text">Paylaş</string>
+    <string name="com_facebook_tooltip_default">Yeni! Kontrol sende. Uygulamalarla paylaşmak istediğin bilgileri seç.</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Etkinleştir"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"Google Play hizmetlerini etkinleştirmezseniz <ns1:g id="APP_NAME">%1$s</ns1:g> çalışmaz."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Google Play hizmetlerini etkinleştirin"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Yükle"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>, şu anda cihazınızda bulunmayan Google Play hizmetleri olmadan çalışmaz."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Google Play hizmetlerini edinin"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Google Play Hizmetleri hatası"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g>, Google Play hizmetleriyle ilgili sorun yaşıyor. Lütfen tekrar deneyin."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>, Google Play hizmetleri olmadan çalışmaz ve bu hizmetler cihazınız tarafından desteklenmiyor."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Güncelle"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"Google Play hizmetlerini güncellemezseniz <ns1:g id="APP_NAME">%1$s</ns1:g> çalışmayacak."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Google Play hizmetlerini güncelleyin"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>, şu anda güncellenmekte olan Google Play hizmetleri olmadan çalışmaz."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Google Play hizmetlerinin yeni sürümü gerekiyor. Kendisini kısa süre içinde güncelleyecektir."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Telefonda aç"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Oturum aç"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Google\'da oturum aç"</string>
+    <string name="confirm">"Onayla"</string>
+    <string maxwidth="-1" name="confirm_ok">Tamam</string>
+    <string description="confirm password textview title" name="confirm_password">Parolayı doğrula</string>
+    <string description="ask user to enter password again to confirm" name="confirm_password_edit">Parolayı yeniden gir</string>
+    <string description="content" maxwidth="-1" name="content">"Bu yazılımın kullanımı, ASUS'un web sitesindeki şart ve koşullara tabidir: \nhttp://www.asus.com"</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="copy">Kopyala</string>
+    <string description="Toast: copy ready" maxwidth="-1" name="copy_ready_more">Seçili dosyalar kopyalandı ve yapıştırılmaya hazır.</string>
+    <string description="Toast: copy ready. %s is variable string." maxwidth="-1" name="copy_ready_one">\"%s\" kopyalandı ve yapıştırılmaya hazır.</string>
+    <string name="copy_to">Kopyalama yeri</string>
+    <string description="country region textview title" name="country_region">Ülke bölgesi</string>
+    <string description="ack user to select on country" name="country_region_select">Bölgenizi seçin</string>
+    <string name="create_shortcut">"Kısayol oluştur"</string>
+    <string name="create_shortcut_dialog">"Başlatıcı kısmında kısayol oluştur"</string>
+    <string name="create_shortcut_toast">"Başlatıcı kısmında kısayol oluşturma tamamlandı"</string>
+    <string name="cta_agree">"İzin ver"</string>
+    <string name="cta_check_title">"Hatırla"</string>
+    <string name="cta_dialog_content"><b>Dosya Yöneticisi</b> ağı kullanmaya çalışıyor, aboneliklerinize bağlı olarak ücret uygulanabilir.</string>
+    <string name="cta_dialog_title">"Ağ Kullanılıyor"</string>
+    <string name="cta_disagree">"Reddet"</string>
+    <string name="cta_show_menu">"Ağ izni"</string>
+    <string name="current_folder">"Geçerli klasör"</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="cut">Kes</string>
+    <string description="Toast: cut ready" maxwidth="-1" name="cut_ready_more">Seçili dosyalar kesildi ve yapıştırılmaya hazır.</string>
+    <string description="Toast: cut ready. %s is variable string." maxwidth="-1" name="cut_ready_one">\"%s\" kesildi ve yapıştırılmaya hazır.</string>
+    <string description="button text for sort file by date" maxwidth="-1" name="date">Tarih</string>
+    <string description="button text for sort file by date ascending" maxwidth="-1" name="date_ascending">Tarih (en eski - en yeni)</string>
+    <string description="button text for sort file by date descending" maxwidth="-1" name="date_descending">Tarih (en yeni - en eski)</string>
+    <string msgid="7984755014526510295" name="day">"1 gün"</string>
+    <string msgid="2070509222727852210" name="days">"<ns1:g id="DAYS">%s</ns1:g> gün"</string>
+    <string maxwidth="-1" name="dbx_install_contnet">Dropbox yüklenmedi, play store\'dan yükleyip kurmak istiyor musunuz?</string>
+    <string maxwidth="" name="dbx_install_title">Dropbox yüklenmedi</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="delete">Sil</string>
+    <string description="Dialog Title: delete dialog title" maxwidth="" name="delete_dialog">Dosya Silme</string>
+    <string description="Toast: delete fails" maxwidth="-1" name="delete_fail">Dosya silinemedi.</string>
+    <string description="Dialog Content: text in dialog. %d is variable number." maxwidth="" name="delete_more_files">%d öğeyi silmek istiyor musunuz?</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="delete_one_directory">Dizini silmek istiyor musunuz?</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="delete_one_files">Dosyayı silmek istiyor musunuz?</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="delete_progress">Siliniyor...</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="delete_size">"Boyut: "</string>
+    <string description="Toast: delete success" maxwidth="-1" name="delete_success_more">Seçili dosyalar silindi.</string>
+    <string description="Toast: delete success. %s is variable string." maxwidth="-1" name="delete_success_one">\"%s\" silindi.</string>
+    <string description="cutstom action bar view title for deselect all checkbox" maxwidth="" name="deselect_all">Tümünün Seçimini Kaldır</string>
+    <string name="device_root_path">kök</string>
+    <string description="compress dialog title" maxwidth="-1" name="dialog_create_zip_title">Arşiv adını girin</string>
+    <string description="extract zip file dialog title. %s is a dynamic string. It is zip file name." maxwidth="-1" name="dialog_extract_zip_title">Ayıkla %s:</string>
+    <string name="dialog_load_stream_url_info">Sunucudan gerekli bilgiler getiriliyor</string>
+    <string name="dialog_msg_market_login_account">"Uygulamayı indirmek için lütfen Google hesabınızda oturum açın"</string>
+    <string description="text encoding dialog title" maxwidth="-1" name="dialog_text_encoding_title">Metin kodlama</string>
+    <string name="dialog_title_market_login_account">"Hesap ekle"</string>
+    <string description="show zip info dialog title. %s is a dynamic string. Is is a zip file name" maxwidth="-1" name="dialog_unzip_preview_title">%s çıkar</string>
+    <string description="Dialog Title: Directory information dialog title" maxwidth="-1" name="dir_info_dialog_title">Dizin Bilgileri</string>
+    <string name="display">"Görüntüleme şekli:"</string>
+    <string name="display_hint">"Bilgisayarım, boş olabilir"</string>
+    <string name="dm_openfile">"Dosyayı aç"</string>
+    <string name="do_not_show_again">"Tekrar gösterme"</string>
+    <string name="domain">"Etki Alanı:"</string>
+    <string name="domain_hint">"Boş olabilir"</string>
+    <string name="download_fail">indirme başarısız!</string>
+    <string name="drag_items_one">Öğeyi sürükle</string>
+    <string name="drag_items_other">Öğeleri sürükle</string>
+    <string name="drawer_close">"Gezinti menüsünü kapat"</string>
+    <string name="drawer_home">Ana</string>
+    <string name="drawer_open">"Gezinti menüsünü aç"</string>
+    <string description="Hint: the operation is incorrect" maxwidth="-1" name="drop_incorrect_hint">Yanlış işlem</string>
+    <string description="Hint: the target folder which you want to do something" maxwidth="-1" name="drop_target_to">Hedef:</string>
+    <string name="dumdownloadfrom">Şuradan indir:</string>
+    <string name="dumuploadto">Şuraya yükle:</string>
+    <string name="duplicate_files">"Tekrarlanan dosyalar"</string>
+    <string name="duplicate_files_content_hint">"Tekrarlanan dosyaları bulur ve sizin izninizle siler."</string>
+    <string name="edit_toast_name_too_long">En fazla karakter sayısına ulaşıldı</string>
+    <string name="edit_toast_special_char">Özel karakter içeremez</string>
+    <string name="editcategory_hint">"Kategori panelini özelleştirmek için düzenle düğmesine dokunun."</string>
+    <string description="describe the empty folder" maxwidth="-1" name="empty_folder_title">"Dosya yok"</string>
+    <string description="Dialog Button: click to open the encoding list dialog" maxwidth="-1" name="encode">Metin kodlama</string>
+    <string description="ask user to enter password" maxwidth="-1" name="enter_password">"Şifreyi girin"</string>
+    <string name="eula_content_description">
+        \nBu Son Kullanıcı Lisans Anlaşması (“SKLA”) aşağıda tanımlanan ASUS Yazılımı (“Yazılım”) kullanımı hakkında ASUSTeK Computer Inc. (“ASUS”) ve SizİN aranızda geçerli ve bağlayıcı bir anlaşmadır. Yazılımı kurarak ve ve kullanmaya devam ederek BU SKLA VE TÜM YENİ SÜRÜMLERİNİN ŞARTLARINI OKUDUĞUNUZU, ANLADIĞINIZI VE BU ŞARTLARA BAĞLI KALMAYI KABUL ETTİĞİNİZİ ONAYLAMIŞ OLURSUNUZ. 
+\n\n1.YAZILIM sonraki program düzeltmeleri, güncellemeler, yükseltmeler ve değiştirilen sürümler dahil ancak bunlarla sınırlı olmamak üzere uygulanabilir ASUS ürününde veya ürünü ile sağlanan ASUS Yazılımıdır.
+\nYazılım www.opensource.org/licenses adresinde listelenen Serbest Açık Kaynak Yazılımı lisanslarında bir veya daha fazlası ile lisanslı olan diğer ASUS veya üçüncü  taraflarca oluşturulan yazılımlara eşlik edebilir. Bu tür bir Serbest Açık Kaynak Yazılımı size yalnızca ilgili lisans anlaşması şartları altında veya eşlik eden telif hakkı bildirimi veya Yazılım ile birlikte sağlanan FOSS lisansları dosyası ile sağlanır. Bu SKLA\'nın şartları bu tür bir Serbest Açık Kaynak Yazılımına\'na UYGULANAMAZ.
+\n\n2.LİSANS Bu SKLA şartlarına bağlı olarak, ASUS Size Yazılımı yalnızca ASUS ürünlerine bağlı olarak kullanabileceğiniz kısıtlı, kişisel, ticari olmayan, özel olmayan lisans sağlar. Yazılımın yalnızca yedekleme amacı ile makinede okunabilir formatta olmak üzere kopyalayabilirsiniz ancak yedek kopya orijinalde bulunan tüm telif hakkı veya diğer tescil uyarılarını içermelidir. Bu lisansa alt lisans verilemez ve bu SKLA üzerindeki tüm haklarınızı kalıcı olarak devrettiğinizde bu Yazılımın tamamen veya kısmi kopyasının kalmadığı taktirde alıcının bu SKLA şartlarını kabul ettiği varsayılarak Yazılımı içeren tüm ASUS ürününün sahipliğini kişi veya tüzel kişiye devretmeniz dışında devredilemez.
+\n\n3.TERS KISITLAMASI Yazılımın ters mühendisliğini yapamazsınız, şifresini geri çözemezsiniz veya ayıramazsınız ya da yukarıdakilerin yapılmasına doğrudan uygulanabilir kanunların izin verdikleri dışında bunların yapılmasına izin veremez veya teşvik edemezsiniz.
+\n\n4.GİZLİLİK Yazılımın ticari sırları, telif hakkı bulunan materyalleri dahil ancak bunlarla kısıtlı olmamak üzere Yazılımın hiç bir şekilde gizlilik bilgisinin tamamını veya bir kısmını üçüncü şahıslara açıklayamaz veya açıklanmasına neden olamazsınız ve bunları koruma sorumluluğu kullanıcıya aittir.
+\n\n5.Fikri Mülkiyet HAKLARI (“IP Hakları”) Yazılım ile ilgili veya Yazılımdan doğan tüm IP Haklarının, isminin ASUS ve onun lisansörünün özel varlığı olduğunu ve öyle kalacağını kabul edersiniz. Bu SKLA herhangi bir IP Hakkını Size aktarmayı amaçlamaz. IP Haklarının herhangi bir yetkilendirilmemiş kullanımı telif hakkı kanunu ve ticari marka kanunları dahil ancak bunlarla sınırlı olmamak üzere fikri mülkiyet hakkı kanunlarının ihlali olduğu gibi bu SKLA\'un da ihlalidir
+\nYazılım ile ASUS\'a kişisel bilgi dışında herhangi bir bilgi, materyal, fikir, kavram veya teknik göndererek (“Geri Bildirim”), şunları kabul eder ve onaylarsınız: (i) Geri Bildiriminiz gizli bilgi veya mülkiyet bilgisi içermez; (ii) ASUS Geri Bildirimler ile ilgili açıkça veya ima edilerek gizlilikle ilgili herhangi bir sorumluluk kabul etmez; (iii)ASUS, hakkı ASUS\'a ait olmak üzere herhangi bir şekilde herhangi bir amaç için Geri Bildirimleri kullanma veya ifşa etme etme hakkına sahiptir; (iv) Geribildirimleriniz ASUS\'un size herhangi bir sorumluluğu olmadan ASUS\'un mülkiyeti olabilir; ve (v) Bunlarla ilgili herhangi bir tazminat veya ödeme hakkına sahip olmazsınız.
+\n\n6.SÜRE VE FESİH Bu SKLA Sizin Yazılımı yüklediğiniz tarihten itibaren geçerli olacaktır. Bu Lisansı Yazılımın tüm kullanımı durdurarak ve Yazılımı ASUS ürününden kaldırarak sonlandırabilirsiniz. Bu SKLA\'un şartlarına uymadığınızı düşündüğümüzde ASUS tarafından herhangi bir ön bildirim olmadan haklarınız sonlandırılmaktadır.
+\n\n7.Garanti Süresi ve Sorumluluğun Sınırlandırılması BU YAZILIMIN “BU ŞEKİLDE” SAĞLANDIĞINI KABUL EDERSİNİZ. TÜM GEREKLİ SERVİS VE BAKIM MASRAFLARI DAHİL ANCAK BUNLARLA SINIRLI OLMAMAK ÜZERE BU YAZILIMIN KALİTESİ VE PERFORMANSI İLE İLGİLİ TÜM RİSK SİZE AİTTİR. KANUNLARIN İZİN VERDİĞİ ÖLÇÜDE ASUS BU YAZILIM İLE İLGİLİ VEYA BU YAZILIM İÇİN SKLA İLE SAĞLANAN DİĞER BİLGİ VE BELGE İLE İLGİLİ PAZARLANABİLİRLİK VEYA ÖZEL AMACA UYGUNLUK VEYA İHLALE KARŞI VEYA KULLANIM VE PERFORMANS DIŞINDA ORTAYA ÇIKAN GARANTİLER DAHİL ANCAK BUNLARLA SINIRLI OLMAMAK ÜZERE DOĞRUDAN VEYA DOLAYLI OLARAK HERHANGİ BİR GARANTİDE BULUNMAZ. ASUS AYRICA BU YAZILIMIN KULLANIMINDAN KAYNAKLANABİLECEK VEYA BU YAZILIM İLE SAĞLANAN HERHANGİ BİR BİLGİNİN DOĞRULUĞU VEYA GÜVENİLİRLİĞİ İLE İLGİLİ SONUÇLAR HAKKINDA GARANTİDE BULUNMAZ. BAZI DÜZENLEMELER BELİRLİ GARANTİLERİN AYRI TUTULMASINA VEYA KISITLANMASINA VEYA BELİRLİ HASARLAR KONUSUNDA SORUMLULUĞUN HARİÇ TUTULMASINA İZİN VERMEZ. BUNA BAĞLI OLARAK YUKARIDAKİ BİLDİRİMLERİN VE SORUMLULUK KISITLAMALARININ BAZILARI SİZİN İÇİN GEÇERLİ OLMAYABİLİR.
+\nBU YAZILIMIN KULLANIMINDAN VE/VEYA PERFORMANSINDAN KAYNAKLANAN TÜM RİSK SİZE AİTTİR. HİÇ BİR KOŞULDA ASUS, LİSANSÖRLERİ VEYA ONLARIN HERHANGİ BİR İLGİLİ GÖREVLİLERİ, YÖNETİCİLERİ, ÇALIŞANLARI VEYA ARACILARI  VEYA KATILIMCILARI BU SKLA\'DAN VEYA SKLA DIŞINDA KAYNAKLANAN YAZILIMIN VEYA HERHANGİ BİR PARÇASININ KULLANIMINDAN VEYA KULLANILAMAMASINDAN BU TÜR HASARLARDAN ASUS HABERDAR EDİLSE DAHİ,ÖNEMLİ, KAZARA, DOĞRUDAN, DOLAYLI OLARAK ÖZEL, CEZALANDIRICI VEYA HERHANGİ DİĞER HASARLARDAN (KESİNTİ, BİLGİ KAYBI VEYA DİĞER MADDİ KAYIPLAR DAHİL ANCAK BUNLARLA SINIRLI OLMAMAK ÜZERE) SORUMLU TUTULAMAZ. BAZI DÜZENLEMELER BELİRLİ GARANTİLERİN AYRI TUTULMASINA VEYA KISITLANMASINA VEYA BELİRLİ HASARLAR KONUSUNDA SORUMLULUĞUN HARİÇ TUTULMASINA İZİN VERMEZ. BUNA BAĞLI OLARAK YUKARIDAKİ BİLDİRİMLERİN VE SORUMLULUK KISITLAMALARININ BAZILARI SİZİN İÇİN GEÇERLİ OLMAYABİLİR.
+\n\n8.Tazminat Bu SKLA\'U  herhangi bir uygulanabilir kanunu, DÜzenlemeyi veya üçüncü ŞAHISLARIN haklarını ihlal etmeniz nedeniyle veya sonucunda herhangi bir iddiadan veya talepten doğan (uygulanabilir avukat\' ücret ve masrafları dahil olmak üzere) herhangi bir ve tüm kayıp, hasar, sorumluluk ve masraflar nedeniyle ve bunlara karşı ASUS ve iştirakçilerini, hizmet sağlayıcılarını, sendikacıları, bayileri, lisansörleri, görevlileri, yöneticileri ve çalışanları savunmakla, tazmin etmekle ve zarar gelmesini önlemekle yükümlü olduğunuzu kabul edersiniz.
+    </string>
+    <string name="eula_content_title">"Son kullanıcı lisans anlaşması"</string>
+    <string description="Do not translate ASUS" maxwidth="" name="eula_description">"ASUS uygulamaları ve son kullanıcılar arasında yasal bir sözleşme"</string>
+    <string maxwidth="" name="eula_title">"Son kullanıcı lisans anlaşması"</string>
+    <string name="example">"Örnek:"</string>
+    <string description="Dialog Button: extract file for dialog" maxwidth="-1" name="extract">Çıkar</string>
+    <string name="facebook_app_invite">"Facebook kişileri"</string>
+    <string name="fb_request_error_permissions">"Bu uygulama bunu yapma iznine sahip değil. Uygulamada tekrar oturum açmayı deneyin."</string>
+    <string name="fileList_Nofiles">Dosya yok</string>
+    <string description="Dialog Title: File information dialog title" maxwidth="-1" name="file_info_dialog_title">Dosya Bilgileri</string>
+    <string description="Application Name shown on title" maxwidth="" name="file_manager">Dosya Yöneticisi</string>
+    <string description="string indicating camera flash is not used" maxwidth="-1" name="flash_off">Flaş yok</string>
+    <string description="string indicating camera flash is fired" maxwidth="-1" name="flash_on">Flaş patladı</string>
+    <string description="click to retrieve password" maxwidth="-1" name="forget_password">"<u>Şifrenizi mi unuttunuz?</u>"</string>
+    <string name="fragment_analyzer_allfiles_used_hint">"Kullanılan:"</string>
+    <string name="fragment_analyzer_chart_free_hint">"Boş:"</string>
+    <string name="fragment_analyzer_chart_total_hint">"Toplam:"</string>
+    <string name="fragment_analyzer_chart_used_hint">"KULLANILAN"</string>
+    <string name="fragment_analyzer_more_hint">"daha fazla"</string>
+    <string name="google_app_invite">"Google kişileri"</string>
+    <string name="group_title_installed">"Yüklenmiş"</string>
+    <string name="group_title_not_installed">"Yüklenmemiş"</string>
+    <string name="group_title_others">"Diğerleri"</string>
+    <string name="group_title_recommended">"Önerilen"</string>
+    <string name="hidden_zone_change_password">"Şifreyi değiştir"</string>
+    <string name="hidden_zone_confirm_password">"PIN kodunu onayla"</string>
+    <string name="hidden_zone_enter_password">"PIN kodunuzu girin"</string>
+    <string name="hidden_zone_fingerprint_to_unlock">"Kilit açmak için parmak izi"</string>
+    <string name="hidden_zone_forget_password">"Şifreyi unuttum"</string>
+    <string name="hidden_zone_introduction_description">"Özel dosyalarınızı Gizli dolapta saklayın. Gizli Dolabı açmak için PIN kodu gereklidir."</string>
+    <string name="hidden_zone_password_mismatch">"PIN kodu eşleşmiyor"</string>
+    <string name="hidden_zone_set_password_success">"Şifre başarılı şekilde değiştirildi"</string>
+    <string name="hidden_zone_setup_account">"Hesap kurulumu"</string>
+    <string name="hidden_zone_setup_password">"4 rakamlı PIN kodu girin"</string>
+    <string name="hidden_zone_wrong_password">"Yanlış PIN kodu"</string>
+    <string description="Can’t connect to HomeCloud." maxwidth="-1" name="homecloud_access_error">"HomeCloud'a bağlanılamadı. Lütfen HomeCloud hizmetinin çevrimiçi olduğundan emin olun."</string>
+    <string name="homecloud_notice_1">ASUS HomeCloud, Windows sisteminde çalışan sunucu yazılımının bir parçasıdır. Ev için dijital içeriklerin bir kitaplığı olarak tasarlanmıştır ve şu an için bulut depolama hizmetleri ve multimedya akış hizmetleri sağlar, gelecekte de daha fazla hizmete genişletebilir.</string>
+    <string name="homecloud_notice_2">Şimdi indirip deneyebilirsiniz. </string>
+    <string name="homecloud_notice_3">http://home.asuscloud.com/</string>
+    <string name="homecloud_toast_udp_unsupported">Sınırlı ağ; lütfen ağ yöneticinizle iletişime geçin veya başka bir ağa geçiş yapın.</string>
+    <string msgid="2546819039651509323" name="hour">"1 saat"</string>
+    <string msgid="2071487018566991613" name="hours">"<ns1:g id="HOURS">%s</ns1:g> saat"</string>
+    <string maxwidth="" name="httpserver_acquire_permission_message">"HTTP dosya sunucusu kapatılacak; işlemler kesintiye uğrayabilir. Devam edilsin mi?"</string>
+    <string maxwidth="" name="httpserver_connectwifiname">"Bağlanılan Wi-Fi Erişim Noktası:"</string>
+    <string maxwidth="" name="httpserver_description">"Mobil aygıtınızı bilgisayara bağlamak için hizmeti başlatın."</string>
+    <string maxwidth="" name="httpserver_instruction">"Şu adresi bilgisayarınızda tarayıcıya girin:"</string>
+    <string maxwidth="" name="httpserver_need_saf">"Harici depolama alanınızı bilgisayardan yönetmek isterseniz izin vermelisiniz."</string>
+    <string maxwidth="" name="httpserver_no_network">"Aygıtınızı aynı Wi-Fi ağına bağlayın"</string>
+    <string maxwidth="" name="httpserver_no_permission_message">"Uygun izin olmadan harici depolama alanına yazamayacaksınız. Devam edilsin mi?"</string>
+    <string maxwidth="" name="httpserver_no_permission_title">"Kablosuz dosya aktarımını başlatın"</string>
+    <string maxwidth="" name="httpserver_start">"Başlat"</string>
+    <string maxwidth="" name="httpserver_stop">"Durdur"</string>
+    <string maxwidth="" name="httpserver_title">"Bilgisayara kablosuz dosya aktarımı"</string>
+    <string description="Context Menu: options of context menu" maxwidth="-1" name="info">Bilgi</string>
+    <string description="file info textview context" maxwidth="-1" name="info_aperture">"Diyafram: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_datetime">"Çekildiği tarih: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_exposure_time">"Pozlama süresi: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_file_num">"Dosya sayısı: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_flash">"Flaş: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_focal_length">"Odak Uzaklığı: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_image_height">"Yükseklik: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_image_width">"Genişlik"</string>
+    <string description="file info textview context" maxwidth="-1" name="info_image_x">" x "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_iso">"ISO: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_location">"Konum: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_maker">"Yapımcı: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_model">"Model: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_modified">"Değiştirme tarihi: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_name">"Ad: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_orientation">"Yön: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_path">"Yol: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_permission">"İzin: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_type">Tür:</string>
+    <string description="file info textview context" maxwidth="-1" name="info_white_balance">"Beyaz dengesi: "</string>
+    <string description="Do not translate ASUS" maxwidth="" name="inspire_asus_description">"Ürünleri ve kullanıcı deneyimini iyileştirmek için kullanım verilerini ASUS'a topla"</string>
+    <string name="inspire_asus_title">"ASUS'a ilham ver"</string>
+    <string name="install">"Yükle"</string>
+    <string description="storage label" maxwidth="-1" name="internal_storage_title">Dahili Bellek</string>
+    <string description="Toast: the account is invalid" maxwidth="-1" name="invalid_account">"Geçersiz hesap"</string>
+    <string description="Invalid directory path" maxwidth="-1" name="invalid_directory_path">Geçersiz dizin yolu</string>
+    <string name="invalid_server_id">"Geçersiz sunucu kimliği"</string>
+    <string name="invalid_xml">"Geçersiz xml"</string>
+    <string name="inviteContentTitle">%1$s sizi ASUS Dosya Yöneticisi uygulamasını indirip yüklemeye davet ediyor.</string>
+    <string name="inviteContent_p1">ASUS Dosya Yöneticisi, akıllı aygıtınızla dosyaları yönetmenin mükemmel bir yoludur. Bu dosya yönetimi uygulaması, telefon belleğiniz, microSD kartınız, yerel alan ağınız ve hatta Bulut alanınızda depolanan çeşitli dosyaları kullanmanıza ve aralarından seçim yapmanıza yardımcı olur.</string>
+    <string name="inviteContent_p2">ASUS Dosya Yöneticisi uygulamasıyla dosyalarınızı verimli biçimde ve kolayca yönetin! ASUS Dosya Yöneticisi, aygıtınızın belleğinde, microSD kartınızda, yerel alan ağınızda, kendinize ait ASUS HomeCloud ve Webstorage üzerinde ve Dropbox, Google Drive veya Microsoft OneDrive gibi diğer Bulut hizmetlerinde depolanan tüm dosyalarınızı kullanmanıza yardımcı olur.</string>
+    <string name="inviteContent_p3">ASUS Dosya Yöneticisi uygulamasıyla eğleniyorum. ŞİMDİ dene! :D</string>
+    <string description="sticker detail page button name" maxwidth="-1" name="invite_friends">"Arkadaşları Davet Et"</string>
+    <string name="item">öğe</string>
+    <string name="items">öğe</string>
+    <string name="keep">"Koru"</string>
+    <string name="kk_sd_permission_warning">Android sınırlamasından dolayı, Android 4.4 üçüncü taraf uygulamaların harici SD kartları düzenlemesine izin vermez.</string>
+    <string name="large_files_content_hint">"Büyük dosyaları bulur ve izin verdiğinizde siler."</string>
+    <string description="linked file is missing" maxwidth="-1" name="linked_file_missing">"Bağlı dosya yok"</string>
+    <string description="text for progress bar" maxwidth="-1" name="loading">"Yükleniyor..."</string>
+    <string name="local">Yerel</string>
+    <string description="button text for sort file by date" maxwidth="-1" name="location">"Konum"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="logging_cloud_storage">Oturum açılıyor...</string>
+    <string name="login_account_miss">"Facebook uygulaması Android Hesap Yöneticisini kaydedemedi. Lütfen Facebook uygulaması aracılığıyla oturumu kapatmayı deneyip ardından tekrar oturum açın."</string>
+    <string name="login_again_later">"Sunucu şu anda kullanılamıyor. Lütfen daha sonra tekrar deneyin."</string>
+    <string description="dialog title, key in the asus ID and PW to Login account" maxwidth="-1" name="login_asus_id">"ASUS hesabı oturum açma"</string>
+    <string description="Toast: login account fail" name="login_fail" width="-1">Oturum açma başarısız</string>
+    <string description="login account name" maxwidth="-1" name="login_id">"Hesap adı/WebStorage kimliği"</string>
+    <string description="logout account" name="logout_account" width="-1">Oturumu Kapat</string>
+    <string name="low_storage_tutorial_description">"Dosyalarınızı seçmek için dokunup basılı tutun ve Google Drive'a \"Taşı\" öğesini seçin"</string>
+    <string name="low_storage_tutorial_title">"Dosyaları Google Drive'a taşı"</string>
+    <string name="m_permission_dialog_message">"[Uygulama bilgileri] > [İzinler] bünyesindeki [%2$s] iznini açmak için [Ayarlar] öğesine dokunun ardından %1$s yeniden başlatılmalıdır."</string>
+    <string name="m_permission_dialog_positive_button">"Ayarlar"</string>
+    <string name="m_permission_setting_subtitle_files">"Cihazda dosyalarınıza erişim için %1$s öğesinin %2$s izni gerekmektedir."</string>
+    <string name="m_permission_setting_title_cloud_storage">"Bulut depolamaya erişilemiyor"</string>
+    <string name="m_permission_setting_title_files">"Dosyalara erişilemiyor"</string>
+    <string name="m_permission_setting_turn_on">"Aç"</string>
+    <string description="string indicating how camera shooting feature is used" maxwidth="-1" name="manual">El ile</string>
+    <string name="market_app_error">"Aygıtınızda yüklü mağaza uygulamasıyla ilgili bir hata var!"</string>
+    <string description="ask user to enter email address as account name" maxwidth="-1" name="member_id_hint">"E-posta adresini girin"</string>
+    <string description="The title of a menu for General Preferences.Pressing the menu item lets user to view and edit his general settings" maxwidth="30" name="menu_general_preferences">"Genel ayarlar"</string>
+    <string description="settings menu tutorial" maxwidth="-1" name="menu_tutorial">Öğretici</string>
+    <string name="messenger_send_button_text">Gönder</string>
+    <string msgid="2486157997434653710" name="minute">"1 dakika"</string>
+    <string msgid="6115838729146292526" name="minutes">"<ns1:g id="MINUTES">%s</ns1:g> dakika"</string>
+    <string description="Hint: move the items" maxwidth="-1" name="move">Taşı</string>
+    <string name="move_or_delete_msg">"Şimdi öğeler geçici olarak çöp kutusuna gönderilsin mi?\n(Öğeleri kalıcı olarak silmek için aşağıdaki kutuya tıklayın.)"</string>
+    <string name="move_to">Taşıma yeri</string>
+    <string description="Toast: move to recycle bin fails" maxwidth="-1" name="move_to_hidden_zone_fail">"Gizli Dolaba Taşıma başarısız oldu"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="move_to_hidden_zone_progress">"Gizli Dolaba Taşınıyor..."</string>
+    <string description="Toast: move to recycle bin success" maxwidth="-1" name="move_to_hidden_zone_success_more">"Seçilen dosyalar Gizli Dolaba taşındı."</string>
+    <string description="Toast: move to recycle bin success. %s is variable string." maxwidth="-1" name="move_to_hidden_zone_success_one">"\"%s\" Gizli Dolaba taşındı."</string>
+    <string description="Toast: move to recycle bin fails" maxwidth="-1" name="move_to_trash_fail">"Çöp Kutusuna taşınamadı"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="move_to_trash_progress">"Çöp Kutusuna Taşınıyor..."</string>
+    <string description="Toast: move to recycle bin success" maxwidth="-1" name="move_to_trash_success_more">"Seçilen dosyalar Çöp Kutusuna taşındı"</string>
+    <string description="Toast: move to recycle bin success. %s is variable string." maxwidth="-1" name="move_to_trash_success_one">"\"%s\" Çöp Kutusuna taşındı"</string>
+    <string name="msg_too_big_to_recycle">"Öğeler çöp kutusu için çok büyük.\nKalıcı olarak silmek ister misiniz?"</string>
+    <string name="multi_drm_file_forbidden_operation">Seçilen dosyaların bazıları DRM korumalı olduğundan bu eylem yasak.</string>
+    <string description="shortcut label" maxwidth="-1" name="my_camera_title">Kamera</string>
+    <string description="shortcut label" maxwidth="-1" name="my_download_title">İndir</string>
+    <string description="shortcut label" maxwidth="-1" name="my_music_title">Müzik</string>
+    <string description="shortcut label" maxwidth="-1" name="my_picture_title">Resim</string>
+    <string description="storage label" maxwidth="-1" name="my_storage_title">Belleğim</string>
+    <string description="button text for sort file by name" maxwidth="-1" name="name">Ad</string>
+    <string description="button text for sort file by name ascending" maxwidth="-1" name="name_ascending">Ad (z-a)</string>
+    <string description="button text for sort file by name descending" maxwidth="-1" name="name_descending">Ad (a-z)</string>
+    <string name="network_cta_hint">"Lütfen ağa bağlanmayı kabul edin"</string>
+    <string name="network_invalid">"Geçersiz ağ bağlantısı"</string>
+    <string name="network_invalid_info">"Bağlantı geçersiz. Lütfen tekrar kontrol edin."</string>
+    <string name="network_not_available">"Ağ bağlantısı kurulamadı"</string>
+    <string description="Can’t connect to networkpalce" maxwidth="-1" name="networkplace_access_error">"Bağlantı başarısız. Lütfen sunucunun çevrimiçi olduğundan emin olun."</string>
+    <string name="networkplace_storage_title">"Ağ konumu"</string>
+    <string description="Dialog Title: create new folder" maxwidth="" name="new_folder_dialog">Yeni Klasör Oluştur</string>
+    <string description="Toast: new folder fails" maxwidth="-1" name="new_folder_fail">Yeni klasör oluşturulamadı.</string>
+    <string description="Toast: new folder success. %s is variable string." maxwidth="-1" name="new_folder_success">Klasör \"%s\" oluşturuldu.</string>
+    <string maxwidth="" name="news_1"><b>Özelleştirilebilir ana panel</b>: Artık ana panelinizi farklı kategoriler ve düzenlerle özelleştirebilirsiniz.</string>
+    <string maxwidth="" name="news_2"><b>Favori seçici</b>: Favori klasörünü doğrudan favori kategorisinden ekleyin.</string>
+    <string maxwidth="" name="news_3"><b>Dosya yöneticisi pencere öğesi</b>: Başlatıcı kısmından bir klasör kısayolu oluşturun.</string>
+    <string maxwidth="" name="news_mark1">"★  "</string>
+    <string maxwidth="" name="news_subtitle">"İşte kaçırmamanız gereken önemli bir güncelleme."</string>
+    <string maxwidth="" name="news_title">"Yenilikler"</string>
+    <string maxwidth="" name="news_v21"><b>Bilgisayara/bilgisayardan kablosuz dosya aktarımı</b>: Dosyaları bilgisayara/bilgisayardan aktarın/yönetin</string>
+    <string maxwidth="" name="news_v23">"Performans iyileştirmesi ve hata düzeltmeleri"</string>
+    <string maxwidth="" name="news_v31">"Depolama analiz aracı tüm depolama alanını kaplayan dosya türerini bilmenizi sağlar"</string>
+    <string maxwidth="" name="news_v32">"Yeni zenginleştirilmiş uygulama kategorisi"</string>
+    <string name="news_v41">"Gizli dosyalarınızı Gizli Kasa'da saklayın"</string>
+    <string name="news_v42">"Geri Dönüşüm Kutusu'ndaki silinen dosyalarınızı kurtarın"</string>
+    <string name="news_v43">"Depolama Alanı Analiz Aracı ile dosyaların ikinci kopyalarını kaldırın"</string>
+    <string name="news_v44">"Yeni ekran özelliği - Karanlık mod"</string>
+    <string name="news_v45">"Geliştirilmiş performans"</string>
+    <string name="news_v46">"Hata düzeltmeler"</string>
+    <string name="newversion_description">"Dosya Yöneticisi uygulamasının güncellenmiş bir sürümü var. Şimdi güncellemek ister misiniz?"</string>
+    <string name="newversion_title">"Yeni sürüm"</string>
+    <string name="next">İleri</string>
+    <string description="Dialog Button: no for dialog" maxwidth="" name="no">Hayır</string>
+    <string name="no_device">"Aygıt yok"</string>
+    <string name="no_items">"Öğe yok"</string>
+    <string name="no_network">"Ağ bağlantısı yok"</string>
+    <string description="The description to inform users when there is no internet access" maxwidth="-1" name="no_network_connection_message">"Lütfen bağlantınızı kontrol edip tekrar deneyin"</string>
+    <string name="no_network_info">"Bu uygulamaya erişmek için Internet bağlantısı gereklidir. Lütfen Ayarlar kısmında mobil ağ veya WiFi işlevini etkinleştirin."</string>
+    <string name="no_password">"Lütfen şifrenizi girin"</string>
+    <string name="no_right">"Hesabınız oturum açma hakkına sahip değil."</string>
+    <string name="no_share_folder">Bu aygıtta hiçbir dosya paylaşılmadı</string>
+    <string description="Toast: No space to copy file and left on device" maxwidth="-1" name="no_space_fail">Yetersiz depolama alanı</string>
+    <string name="no_user_exist">"Kullanıcı adı yok"</string>
+    <string name="no_username">"Önce kullanıcı adınızı girin."</string>
+    <string name="notification_gdrive_redeem_content">"Google Drive'dan HEMEN edinin. "</string>
+    <string name="notification_gdrive_redeem_title">"Ücretsiz 100 GB depolama alanı!"</string>
+    <string name="occur_error_do_relogin">"%s oturumunu tekrar açın"</string>
+    <string description="Dialog Button: ok for dialog" maxwidth="" name="ok">Tamam</string>
+    <string name="onedrive_account_only_one_alert">"Yalnızca bir OneDrive for ASUS hesabı eklenmesine izin verilir. Yeni bir tanesiyle değiştirmeden önce geçerli hesabınızı silmek zorundasınız."</string>
+    <string name="open">Aç</string>
+    <string description="Toast: open file fails" maxwidth="-1" name="open_fail">Dosya açılamadı.</string>
+    <string maxwidth="" name="open_source_license_description">"Açık kaynaklı yazılımlar için lisans bildirimleri"</string>
+    <string maxwidth="" name="open_source_license_title">"Açık kaynak lisansları"</string>
+    <string name="othersforum_site_url">http://www.asus.com/tr/Terms_of_Use_Notice_Privacy_Policy/OthersForum_Site/</string>
+    <string name="password">Şifre</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="paste">Yapıştır</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="paste_exist_apply">Tümüne uygula</string>
+    <string description="Dialog Title: paste exist dialog title" maxwidth="" name="paste_exist_dialog">Aynı Dosya Adı</string>
+    <string description="Dialog Content: text in dialog. %s is variable string." maxwidth="" name="paste_exist_file">Dosya \"%s\" zaten var.</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="paste_exist_replace">Yenisiyle değiştirmek istiyor musunuz?</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="paste_exist_to">Kime</string>
+    <string description="Toast: paste fails" maxwidth="-1" name="paste_fail">Dosyalar yapıştırılamadı.</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="paste_progress">Yapıştırılıyor...</string>
+    <string name="paste_progress_title">Diğer kopyalama görevi çalışıyor...</string>
+    <string description="Toast: paste success. %s is variable string." maxwidth="-1" name="paste_success">Dosyalar \"%s\" içine eklendi.</string>
+    <string name="permanently_delete">"Kalıcı olarak sil"</string>
+    <string description="Toast: operation permission deny" maxwidth="-1" name="permission_deny">İzin verilmedi.</string>
+    <string name="permission_dialog_title">"Uygulama İzni"</string>
+    <string name="permission_essential">"İzinler gerekli. İzinleri etkinleştirmek için Ayarlar kısmına gidin!"</string>
+    <string name="permission_reason_contact">"Dosya Yöneticisi uygulamasının, bulut depolama oturumu açmak için hesap bilgilerinize erişmesi gerekir."</string>
+    <string name="permission_reason_storage">"Dosya Yöneticisi uygulamasının, düzgün biçimde çalışmak için aygıtınızın depolama alanına erişmesi gerekir."</string>
+    <string description="Toast: You may not select more than %s photos." maxwidth="-1" name="photo_selection_limit_number_toast">En fazla %s fotoğraf seçin</string>
+    <string description="This is the title of the screen for setting user preferences." maxwidth="-1" name="preferences_title">"Ayarlar"</string>
+    <string name="previous_folder">"Önceki klasör"</string>
+    <string maxwidth="" name="privacy_policy">"Gizlilik ilkesi"</string>
+    <string name="privacy_policy_url">http://www.asus.com/us/Terms_of_Use_Notice_Privacy_Policy/Privacy_Policy/</string>
+    <string name="processing_picture">"Resim işleniyor"</string>
+    <string name="processing_video">"Video işleniyor"</string>
+    <string name="progressactivity_title">Transmission Manager</string>
+    <string name="promote_darkmode_message">"%s'de tercihlerinizi değiştirin"</string>
+    <string name="promote_darkmode_title">"Yeni ekran özelliği - Karanlık mod"</string>
+    <string name="promotion_notification_content">"\"Kablosuz dosya aktarımı\" özelliğini denemelisiniz!"</string>
+    <string name="promotion_notification_title">"Dosyaları aktarmak için hâlâ USB kablosu mu kullanıyorsunuz?"</string>
+    <string name="publish">"Yayınla"</string>
+    <string name="pullfreshlistview_footer_hint_normal">Daha fazla yükle</string>
+    <string name="pullfreshlistview_footer_hint_ready">Daha fazla yüklemek için serbest bırak</string>
+    <string name="pullfreshlistview_header_hint_loading">Yenileniyor...</string>
+    <string name="pullfreshlistview_header_hint_normal">Aşağı Çek</string>
+    <string name="pullfreshlistview_header_hint_ready">Yenilemek için serbest bırakın</string>
+    <string name="pullfreshlistview_header_last_time">Son yenileme zamanı:</string>
+    <string name="rate_later">"Daha sonra"</string>
+    <string name="rate_now">"Şimdi puan ver"</string>
+    <string description="rate us" maxwidth="-1" name="rate_us">Bize puan verin</string>
+    <string name="rating_dialog_message_v3_1">"%s kullanmayı sevdiniz mi? Bizi teşvik etmek için Google Play'de bize puan verin!"</string>
+    <string name="rating_dialog_message_v3_2">"Öneriler ve geri bildirimler için %s aracılığıyla bize yazın."</string>
+    <string name="recent_files_content_hint">"Yeni dosyaları bulur ve izin verdiğinizde siler."</string>
+    <string description="shortcut title: recently used files" name="recently_used" width="-1">En son</string>
+    <string name="recommend_clean_master_msg">"Dünyanın en güvenilir Android İyileştirici, Hızlandırıcı, Pil Tasarrufu Sağlayıcı ve Ücretsiz Virüs Önleme uygulaması. \nŞimdi indirilsin mi?"</string>
+    <string name="recommend_clean_master_title">"Uygulama önerisi"</string>
+    <string name="recommend_scan_qr_code">"Arkadaşlarınıza, bu QR kodunu\n tarayarak bu uygulamayı indirmelerini bildirin."</string>
+    <string description="recruit beta user" maxwidth="-1" name="recruit_beta_user">Önizleme Sürümünü Edinin</string>
+    <string name="recycle_bin_content_hint">"Tüm silinen dosyaları ve klasörleri içerir."</string>
+    <string description="dialog title, key in the asus ID and PW to Login account" maxwidth="-1" name="regist_asus_id">"ASUS hesabı oluşturma"</string>
+    <string description="ask user to enter email address to registe New Account" name="registe_id">Hesap Adı</string>
+    <string description="ask user to enter new password" name="registe_password">8~25 karakter gir</string>
+    <string description="sign up registe action" name="registe_sign_up">Kaydol</string>
+    <string description="network is unavailable, please try again" maxwidth="-1" name="remote_connected_error_hint">Ağ kullanılamıyor, lütfen tekrar deneyin</string>
+    <string description="remote storage label" maxwidth="-1" name="remote_storage_title">Uzak Depolama</string>
+    <string name="remove_favorite">Sık Kullanılandan Kaldır</string>
+    <string name="remove_favorite_notice_more">%d öğeyi sık kullanılan klasöründen kaldırmak istediğinize emin misiniz?</string>
+    <string name="remove_favorite_notice_one">\"%s\" öğesini sık kullanılan klasöründen kaldırmak istediğinize emin misiniz?</string>
+    <string name="remove_favorite_success">Başarıyla kaldırıldı</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="rename">Yeniden Adlandır</string>
+    <string description="Dialog Title: rename dialog title" maxwidth="" name="rename_dialog">Yeniden Adlandır</string>
+    <string description="Toast: rename fails" maxwidth="-1" name="rename_fail">Dosya yeniden adlandırılamadı.</string>
+    <string name="rename_favorite_folder">Sık kullanılan klasörünü yeniden adlandır</string>
+    <string name="rename_favorite_notice">Sık kullanılan klasöründe aynı ada sahip bir klasör zaten var; yeniden adlandırmak istiyor musunuz?</string>
+    <string name="rename_favorite_success">Başarıyla yeniden adlandırıldı ve Sık Kullanılana kaydedildi</string>
+    <string description="Toast: rename success" maxwidth="-1" name="rename_success">Dosya yeniden adlandırma başarılı.</string>
+    <string description="renaming file" name="renaming_file" width="-1">Yeniden Adlandırma</string>
+    <string name="replace">"Değiştir"</string>
+    <string description="Toast: restore fails" maxwidth="-1" name="restore_fail">"Geri yükleme başarısız oldu"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="restore_progress">"Geri yükleniyor..."</string>
+    <string description="Toast: restore success" maxwidth="-1" name="restore_success_more">"Seçilen dosyalar geri yüklendi"</string>
+    <string description="Toast: restore success. %s is variable string." maxwidth="-1" name="restore_success_one">"\"%s\" geri yüklendi"</string>
+    <string name="retention_notification_large_file">"%1$s büyük dosya eklediniz. Bunları şimdi görüntüleyin."</string>
+    <string name="retention_notification_recent_file">"Yakın zamandaki dosyalarınız %1$s alan kullanıyor. Bunları şimdi görüntüleyin."</string>
+    <string name="saf_permission_tutorial_content">ASUS File Manager, SD kartınızı kullanmak için erişim ister. Erişim izni vermek istiyor musunuz?</string>
+    <string name="saf_permission_tutorial_content_v2">"%s erişim haklarını sağlamak için belirli adımları gerçekleştirmelisiniz."</string>
+    <string name="saf_permission_tutorial_dialog">"SD kart erişim hakları vermek için bir prosedür gerçekleştirilmelidir. Devam etmek istiyor musunuz?"</string>
+    <string name="saf_permission_tutorial_title">SD kartı kullanmak için erişim iste</string>
+    <string name="saf_tutorial_step_one">Menü simgesine, ardından da SD kartı göster öğesine dokunun.</string>
+    <string name="saf_tutorial_step_three">"ASUS Dosya Yöneticisi uygulamasına erişim izni vermek için SD kartı seç öğesine dokunun."</string>
+    <string name="saf_tutorial_step_three_v2">"ASUS Dosya Yöneticisi'ne erişim sağlamak için %s öğesini Seç'e dokunun."</string>
+    <string name="saf_tutorial_step_two">Çekmeceyi görüntülemek için ekranın sol kenarından çekin, ardından SD kart öğesine dokunun.</string>
+    <string name="saf_tutorial_step_two_v2">"Çekmeceyi görüntülemek için ekranın solundan kaydırın ve %s öğesine dokunun."</string>
+    <string name="saf_tutorial_title">SD kartı çalıştırma izni</string>
+    <string name="saf_tutorial_title_v2">"%s kullanmak için izin"</string>
+    <string description="account config dialog remind message" maxwidth="-1" name="samba_client_config_check">Kullanıcı adını ve şifreyi anımsa, bir dahaki sefere doğrudan bağlan</string>
+    <string name="samba_input_error">Kullanıcı veya parola boş olamaz!</string>
+    <string name="samba_login_error">Girdiğiniz kullanıcı adı ya da şifre yanlış.</string>
+    <string name="samba_storage_add_title">"Ağ yeri"</string>
+    <string name="samba_storage_title">"SAMBA"</string>
+    <string name="scan_qr_code">"QR kodunu tara"</string>
+    <string description="rate now" maxwidth="" name="scroll_up_toast">Puan vermek için lütfen yukarı kaydırın</string>
+    <string maxwidth="-1" name="sd_label">ASUS için OneDrive</string>
+    <string name="search_action">"Ara"</string>
+    <string description="search hint message" maxwidth="-1" name="search_hint">Dosya adı girin</string>
+    <string description="cutstom action bar view title for search" maxwidth="-1" name="search_label">Dosyaları Ara</string>
+    <string description="search dialog message" maxwidth="-1" name="search_progress">Arıyor...</string>
+    <string description=" text for search result" formatted="false" maxwidth="-1" name="search_result_title">%s içinde %s aranıyor:%d dosya bulundu</string>
+    <string name="select_album">Albüm seçin</string>
+    <string description="Menu Option: select all checkbox" maxwidth="" name="select_all">Tümünü Seç</string>
+    <string description="Title: select the folder" maxwidth="-1" name="select_folder">Klasörü seçin</string>
+    <string name="select_folder_by_ok_button">"Bu klasörü seçmek için %1$s düğmesine basın"</string>
+    <string name="select_photo">Fotoğraf seçin</string>
+    <string name="server">"Sunucu:"</string>
+    <string name="server_error">"Sunucu hatası"</string>
+    <string name="server_hint">"172.0.0.1/ShareFolder"</string>
+    <string name="server_title">Sunucu</string>
+    <string maxwidth="-1" name="service_not_available_in_your_country">"Bu öğe ülkenizde kullanılamıyor."</string>
+    <string name="set_password_title">"PIN kodu oluştur"</string>
+    <string name="set_ring">"Halka Olarak Ayarla"</string>
+    <string name="setting_display_group">"Görüntüle"</string>
+    <string name="setting_notification_group">"Bildirim"</string>
+    <string name="setting_notification_large_files">"Büyük dosya bildirimi"</string>
+    <string name="setting_notification_recent_files">"Son dosyaların bildirimi"</string>
+    <string name="setting_notification_wireless_transfer">"Kablosuz aktarım bildirimi"</string>
+    <string name="setting_view_group">"Ayarları görüntüle"</string>
+    <string name="setting_view_hide_files">"Sistem dosyalarını sakla"</string>
+    <string name="settings">"Ayarlar"</string>
+    <string description="This is the title of cache size" maxwidth="-1" name="settings_cache_size_title">"Önbellek boyutu"</string>
+    <string description="Remove all cache documents" maxwidth="-1" name="settings_clear_cache_info">"Tüm önbellek belgelerini kaldır"</string>
+    <string description="Clear the cache" maxwidth="-1" name="settings_clear_cache_title">"Önbellek temizle"</string>
+    <string description="This is the title of clearing search history action for setting user preferences." maxwidth="-1" name="settings_clear_search_history">"Arama geçmişini temizle"</string>
+    <string name="settings_darkmode_message">"Karanlık mod uygula"</string>
+    <string name="settings_description">"Yerel klasörler ve dosyalar"</string>
+    <string description="This is the title of documents cache" maxwidth="-1" name="settings_documents_cache">"Belge Önbelleği"</string>
+    <string description="recommend text" maxwidth="" name="settings_encourage_us_detail">"%s kullanmaktan keyif alıyorsanız, lütfen bize Play Store'da 5 yıldız verin. Bu ürünümüzü geliştirmeyi sürdürmemiz için olağanüstü bir destek olacaktır!"</string>
+    <string description="This is the title of hiding system files action for setting user preferences." maxwidth="-1" name="settings_hide_system_files">"Sistem dosyalarını gizle"</string>
+    <string description="This is the title of moving to the trash can." maxwidth="-1" name="settings_moved_to_the_trash_can">"Çöp kutusuna taşındı"</string>
+    <string description="Remove account" maxwidth="-1" name="settings_remove_account">"Hesabı kaldır"</string>
+    <string description="Set the cache size to %s" maxwidth="-1" name="settings_set_cache_size">"Önbellek boyutu \"%s\" olarak ayarlandı"</string>
+    <string description="This is the title of space used for setting user preferences." maxwidth="-1" name="settings_space_used">"Boşluk kullanıldı"</string>
+    <string description="This is the title of trash can information for setting user preferences." maxwidth="-1" name="settings_trash_can">"Çöp kutusu"</string>
+    <string description="This is the title of user name" maxwidth="-1" name="settings_user_name">"Kullanıcı adı"</string>
+    <string name="setup">"Kurulum"</string>
+    <string name="setup_account_description">"PIN kodunuzu kurtarmak için lütfen bir e-posta hesabı oluşturun"</string>
+    <string name="setup_account_no_internet_connection">"Internet bağlantısı yok"</string>
+    <string name="setup_account_skip">"Atla"</string>
+    <string name="setup_account_title">"PIN kodunu kurtar"</string>
+    <string name="setup_fingerprint_message">"Parmak iziyle kilit açma etkinleştirilsin mi? Gizli Dolap parmak izi doğrulamayı destekler. Başlamak için Ayarlarda parmak izinizi tarayın."</string>
+    <string name="setup_my_digital_code">"PIN kodunu oluştur"</string>
+    <string name="share_more">"Diğerleri"</string>
+    <string name="share_with_friend">"Bu uygulamayı arkadaşlarınızla paylaşın"</string>
+    <string description="Context Menu: options of context menu: share folder via Wi-Fi Direct" maxwidth="" name="shared_folder">"Wi-Fi Direct'le paylaş"</string>
+    <string description="shortcit title" maxwidth="-1" name="short_cuts_title">Kısayol</string>
+    <string name="shortcut_hint">"Başlatıcı'da bir kısayol oluşturmak için bir kategoriye veya klasöre dokunup basılı tutun."</string>
+    <string description="check if user want to show password" name="show_passwd">Şifreyi göster</string>
+    <string description="show when sign in failed" maxwidth="-1" name="signin_failed">"Oturum açma başarısız"</string>
+    <string description="signout account" name="signout_account" width="-1">Bağlantıyı Kes</string>
+    <string name="single_drm_file_forbidden_operation">DRM korumalı olduğundan bu eylem yasak.</string>
+    <string description="button text for sort file by size" maxwidth="-1" name="size">Boyut</string>
+    <string description="button text for sort file by size ascending" maxwidth="-1" name="size_ascending">Boyut (büyük-küçük)</string>
+    <string description="button text for sort file by size descending" maxwidth="-1" name="size_descending">Boyut (küçük-büyük)</string>
+    <string name="ssl_err_msg_info">"Sunucuya güvenli bağlantı kurulamıyor. Devam etmek istiyor musunuz?"</string>
+    <string name="ssl_err_msg_title">"SSL bağlantısı hatası"</string>
+    <string description="shortcut title: my favorite files" name="starred" width="-1">"Yıldız işaretlendi"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="storage_type_cloud">Bulut depolama</string>
+    <string name="storage_type_cloud_att">"Ağ depolama"</string>
+    <string name="storage_type_local">Yerel depolama</string>
+    <string name="storage_type_shortcut">"Kısayol"</string>
+    <string name="storagetype_add_account">Hesap Google ekle</string>
+    <string name="tap_to_exit">Çıkmak için tekrar dokunun</string>
+    <string name="target_directory_is_child_of_source">"Hedef dizin, kaynağın alt dizini olduğu için işlem tamamlanamadı."</string>
+    <string description="Toast: target file exists" maxwidth="-1" name="target_exist">Hedef dosya var.</string>
+    <string description="Toast: target folder exists. %s is variable string." maxwidth="-1" name="target_folder_exist">"Klasör: \"%s\" zaten var."</string>
+    <string description="" maxwidth="" name="tell_friend">Bir arkadaşa söyle</string>
+    <string maxwidth="" name="terms_of_service">"Kullanım uyarısı şartları"</string>
+    <string maxwidth="" name="terms_of_service_url">http://www.asus.com/us/Terms_of_Use_Notice_Privacy_Policy/Official-Site/</string>
+    <string description="title" maxwidth="-1" name="title">"Yasal bilgi:"</string>
+    <string name="toast_auto_lock_notify_message">"Cihaz kilitlendiğinde Gizli Dolabı kilitle"</string>
+    <string description="Toast: The item(s) has been copied completely" maxwidth="-1" name="toast_drag_copied_items">Öğeler başarıyla kopyalandı.</string>
+    <string description="Toast: The item(s) has been moved completely" maxwidth="-1" name="toast_drag_moved_items">Öğeler başarıyla taşındı.</string>
+    <string description="Toast: Sorry, copy files complete but cut fail" maxwidth="-1" name="toast_warning_copy_comple_cut_fail">"Üzgünüz, dosya kopyalama tamamlandı ancak eski dosyalar silinemedi"</string>
+    <string description="Toast: Sorry, copy folders has not been supported" maxwidth="-1" name="toast_warning_copy_folders">"Üzgünüz, klasör kopyalama desteklenmemektedir"</string>
+    <string maxwidth="35" name="toolbar_item_title_encourage_us">Bize destek verin</string>
+    <string name="tools_clean_master">"Gereksiz içerikleri temizleyin"</string>
+    <string name="tools_file_transfer">"Bilgisayar dosya aktarımı"</string>
+    <string name="tools_hidden_zone">"Gizli Dolap"</string>
+    <string name="tools_recycle_bin">"Çöp Kutusu"</string>
+    <string name="tools_storage_analyzer">"Depoloma analiz aracı"</string>
+    <string name="tools_tip_animation">"Araçlar için yukarı çekin!"</string>
+    <string name="tools_zenui_instant_update">"Hızlı güncelle"</string>
+    <string description="shortcut title: trash can" name="trash_can" width="-1">"Çöp kutusu"</string>
+    <string maxwidth="-1" name="trash_info_deleted">"Tarih silindi: "</string>
+    <string maxwidth="-1" name="trash_info_path">"Orijinal yol: "</string>
+    <string description="label for trending searches" maxwidth="-1" name="trending_searches">"Sık arananlar"</string>
+    <string name="tutorial_analyzer_content">"Depolama Analizi size hangi dosyaların disk alanınızı kapladığını gösterir."</string>
+    <string name="tutorial_category_content">"ASUS Dosya Yöneticisi'nin Kategori görünümü sayesinde dosyaları aramak hiç bu kadar kolay olmamıştı."</string>
+    <string name="tutorial_category_title">"Kategori görünümü"</string>
+    <string name="tutorial_cloud_content">"Dosyalarınıza akıllı telefonunuz, PC'niz ve Bulut depolama hizmetleriniz üzerinden erişin."</string>
+    <string name="tutorial_cloud_title">"Bulut depolama"</string>
+    <string name="tutorial_done">Bitti</string>
+    <string name="tutorial_page_content_long_press">Bir öğe seçmek için dokunup basılı tutun, ardından diğer eylem seçeneklerini görüntülemek için \"Menü\" simgesine dokunun.</string>
+    <string name="tutorial_page_four_content">Klasörlere hızla ve kolayca erişmek için, sık kullanılan bir klasörü Sık Kullanılan olarak ayarlayın.</string>
+    <string name="tutorial_page_four_title">Sık Kullanılanlar</string>
+    <string name="tutorial_page_one_content">ASUS Dosya Yöneticisi, dâhili, harici, yerel alan ağı veya bulut depolamalarda saklanan dosyalarınızı kolayca yönetmenizi sağlar.</string>
+    <string name="tutorial_page_one_title">"ASUS Dosya Yöneticisi"</string>
+    <string name="tutorial_page_three_content">Sık Kullanılanlara Ekle, Yeniden Adlandır, Taşıma yeri, Kopyalama yeri gibi eylemleri ve diğer dosya yönetimi seçeneklerini görüntülemek için bir öğeyi sağa çekin.</string>
+    <string name="tutorial_page_three_title">Sağa çekme eylem listesi</string>
+    <string name="tutorial_page_title_long_press">Eylem menüsünü görüntüle</string>
+    <string name="tutorial_page_two_content">Yerel depolama alanınızdaki dosyalarınıza rahatça erişmenizi sağlayan kullanımı kolay kategoriler.</string>
+    <string name="tutorial_page_two_title">Ana sayfa</string>
+    <string name="tutorial_skip">Atla</string>
+    <string description="button text for sort file by type" maxwidth="-1" name="type">Tür</string>
+    <string description="document type" maxwidth="-1" name="type_abu">"Asus Uygulama Yedekleme"</string>
+    <string description="document type" maxwidth="-1" name="type_apk">"Android Uygulaması"</string>
+    <string description="document type" maxwidth="-1" name="type_audio">"Ses"</string>
+    <string description="document type" maxwidth="-1" name="type_book">"eKitap"</string>
+    <string name="type_dialog_audio">Ses</string>
+    <string name="type_dialog_image">Görüntü</string>
+    <string name="type_dialog_text">Metin</string>
+    <string name="type_dialog_title">Farklı aç</string>
+    <string name="type_dialog_video">Video</string>
+    <string description="document type" maxwidth="-1" name="type_directory">"Dizin"</string>
+    <string description="document type" maxwidth="-1" name="type_document">"Belge"</string>
+    <string description="document type" maxwidth="-1" name="type_file">"Dosya"</string>
+    <string description="document type" maxwidth="-1" name="type_image">"Görüntü"</string>
+    <string description="document type" maxwidth="-1" name="type_playlist">"Çalma Listesi"</string>
+    <string description="document type" maxwidth="-1" name="type_rar">"RAR"</string>
+    <string description="document type" maxwidth="-1" name="type_video">"Video"</string>
+    <string description="document type" maxwidth="-1" name="type_zip">"Zip"</string>
+    <string name="ud_sdk_all_app_update">"Tüm uygulamalar geçerli sürümlerini çalıştırıyor."</string>
+    <string name="ud_sdk_asus_app_slogan">kullanışlı uygulama</string>
+    <string name="ud_sdk_downloads">İndirmeler</string>
+    <string name="ud_sdk_free_download">Ücretsiz İndirin</string>
+    <string name="ud_sdk_important_remind_text">"Önemli"</string>
+    <string name="ud_sdk_install">Yükle</string>
+    <string name="ud_sdk_more_zen_family">Daha fazla ZenUI uygulaması keşfedin</string>
+    <string name="ud_sdk_no_network_connection_content">Veriler güncellenemiyor. Lütfen ağ ayarlarınızı kontrol edin.</string>
+    <string name="ud_sdk_no_network_connection_title">Ağ bağlantısı yok</string>
+    <string name="ud_sdk_open">Aç</string>
+    <string name="ud_sdk_update">Güncelle</string>
+    <string maxwidth="-1" name="ud_sdk_update_sdk">ZenUI Ailesi</string>
+    <string maxwidth="-1" name="ud_sdk_update_sdk_asus">ZenUI Anlık Güncelleme</string>
+    <string name="ud_sdk_wifi_settings">Wi-Fi ayarları</string>
+    <string name="uf_sdk_already_give_5star">"Zaten 5 yıldız puan verdim"</string>
+    <string description="%d is a number, don&apos;t translate" name="uf_sdk_article_read_count">"%d görüş"</string>
+    <string name="uf_sdk_attachment_format_warning">"Yanlış dosya biçimi. Yalnızca görüntü dosyası eklenebilir"</string>
+    <string name="uf_sdk_attachment_total_size">"Toplam"</string>
+    <string name="uf_sdk_attachment_warning">"Ek boyutu izin verilen sınırı aşıyor"</string>
+    <string maxwidth="-1" name="uf_sdk_cancel_btn_content">"İptal"</string>
+    <string name="uf_sdk_choosertitle_sharevia">"Şunu kullanarak paylaş:"</string>
+    <string name="uf_sdk_connection_error_msg">"Bağlantı sunucu tarafından sonlandırıldı. Lütfen daha sonra deneyin."</string>
+    <string name="uf_sdk_connection_error_title">"Bağlantı hatası"</string>
+    <string name="uf_sdk_discard">"Kaldır"</string>
+    <string name="uf_sdk_email_illigal">"E-posta adresi zaten kullanılıyor"</string>
+    <string maxwidth="-1" name="uf_sdk_empty_notification">"Boş :)"</string>
+    <string name="uf_sdk_faq">"SSS"</string>
+    <string name="uf_sdk_feedback_and_help">"Geri Bildirim ve Yardım"</string>
+    <string name="uf_sdk_forum_description">"Çözümler bulmak ve kendi çözümlerinizi paylaşmak için ASUS kullanıcılarıyla konuşmaya katılın"</string>
+    <string maxwidth="-1" name="uf_sdk_grant_permission_title">"Şunun için izin alın:"</string>
+    <string name="uf_sdk_help">"Yardım"</string>
+    <string name="uf_sdk_instant_answer_question">"Bu SSS yardımcı oldu mu?"</string>
+    <string name="uf_sdk_like">"Beğen"</string>
+    <string maxwidth="-1" name="uf_sdk_message">"Bildirimler"</string>
+    <string name="uf_sdk_msg_bad_email_format">"E-posta adresi geçerli değil; lütfen tekrar deneyin."</string>
+    <string name="uf_sdk_msg_confirm_discard_topic">"Taslağınız kaydedilmeyecek. Yine de silmek istiyor musunuz?"</string>
+    <string name="uf_sdk_msg_confirm_discard_topic_title">"Gönderi silinsin mi?"</string>
+    <string name="uf_sdk_msg_subscribe">"Konu durumu bilgilendirme aboneliği e-postayla sağlanacaktır."</string>
+    <string name="uf_sdk_msg_subscribe_success">"Abonelik başarılı"</string>
+    <string name="uf_sdk_msg_ticket_created">"Geri bildiriminiz ASUS\'a başarıyla gönderildi"</string>
+    <string name="uf_sdk_msg_topic_created">"Başarıyla yayınlandı"</string>
+    <string name="uf_sdk_msg_unsubscribe">"Abonelikten çıkma başarılı"</string>
+    <string name="uf_sdk_name_hint">"Adınızı girin"</string>
+    <string name="uf_sdk_name_illigal">"Kullanıcı adı zaten alınmış"</string>
+    <string name="uf_sdk_network_error">"Internet bağlantısı yok; lütfen ağ ayarlarınızı kontrol edin."</string>
+    <string description="zenui news" maxwidth="" name="uf_sdk_news">"Haberleri"</string>
+    <string name="uf_sdk_no_network_connection_content">"Veriler güncellenemiyor. Lütfen ağ ayarlarınızı denetleyin. "</string>
+    <string name="uf_sdk_no_network_connection_title">"Ağ bağlantısı yok"</string>
+    <string name="uf_sdk_nothing_found">"Hiçbir şey bulunamadı"</string>
+    <string name="uf_sdk_notice">"Bildirim"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category1">"Duyurular"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category2">"Öğreticiler ve ipuçları"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category3">"Promosyonlar"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category4">"Etkinlikler"</string>
+    <string name="uf_sdk_publish_an_topic">"Yeni konu yayınla"</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_rate_now">"Şimdi puan ver"</string>
+    <string description="%s is AP name, don&apos;t translate" maxWidth="" name="uf_sdk_rate_us_detail">"%s kullanmaktan keyif alıyorsanız, lütfen bize Play Store'da 5 yıldız verin."</string>
+    <string maxWidth="" name="uf_sdk_rate_us_detail_new">"5 yıldız vererek göstereceğiniz destek, bizi çalışmaya devam etmeye teşvik eder!"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_rating">"5 yıldız verin"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title">"Bize puan verin!"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title_new">"Bize destek verin!"</string>
+    <string description="Menu item for userFeedback sdk" maxwidth="-1" name="uf_sdk_report_bug">Hata Bildir</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_scroll_up_toast">"Puan vermek için lütfen yukarı kaydırın"</string>
+    <string name="uf_sdk_search_hint">"Ara"</string>
+    <string name="uf_sdk_select_common_bug">"Yaygın hatayı seçin"</string>
+    <string name="uf_sdk_send_feedback">"Geri bildirim gönder"</string>
+    <string name="uf_sdk_send_feedback_help">"Geri bildiriminiz ve e-posta adresiniz ASUS\'a gönderilecek. Hizmet ekibi e-posta aracılığıyla sizinle iletişime geçecektir."</string>
+    <string maxwidth="-1" name="uf_sdk_setting_btn_content">"Ayarlar"</string>
+    <string description="recommend title" maxwidth="" name="uf_sdk_settings_encourage_us_title">"Bize destek verin"</string>
+    <string maxwidth="-1" name="uf_sdk_storage_permission_description">"Bu işlevin multimedya dosyalarına erişmesi için depolama alanı izni gerekmektedir. \n\nBu işlevi etkinleştirmek isterseniz izin vermek için Ayarlar düğmesine dokunun ve Ayarlar sayfasına giderek \"Uygulama bilgisi\" > \"İzinler\" bölümünü ayarlayın.\n"</string>
+    <string name="uf_sdk_submit_topic">"Yayınla"</string>
+    <string name="uf_sdk_subscribe_dialog_title">"Bu konuya abone ol"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_answered">"Yanıtlandı"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_completed">"Tamamlandı"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_declined">"Reddedildi"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_implemented">"Uygulandı"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_planned">"Planlandı"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_under_review">"İnceleniyor"</string>
+    <string name="uf_sdk_thanks_for_your_feedback">"Geri bildiriminiz için teşekkür ederiz!"</string>
+    <string description="%s is a application name, don&apos;t translate" name="uf_sdk_ticket_hint">"%s için geri bildirimler girin"</string>
+    <string name="uf_sdk_title_topic">"Konu"</string>
+    <string name="uf_sdk_topic">"Konu"</string>
+    <string name="uf_sdk_topic_description_heading">"Açıklama"</string>
+    <string name="uf_sdk_topic_description_hint">"Konunuzu ayrıntılı açıklayın"</string>
+    <string name="uf_sdk_topic_filter">"KONULAR"</string>
+    <string name="uf_sdk_topic_form_help">"Kullanıcı forumunda bir konu yayınladığınızda, diğer kullanıcılar abone olup yorum yapabilecektir. ASUS geliştirme ekibi konuya yanıt verdiğinde, e-posta aracılığıyla bilgilendirileceksiniz."</string>
+    <string name="uf_sdk_topic_form_title">"Yeni konu yayınla"</string>
+    <string name="uf_sdk_topic_text_heading">"Forum"</string>
+    <string name="uf_sdk_topic_text_hint">"Konu başlığınızı yazın"</string>
+    <string name="uf_sdk_topic_title">"Başlık"</string>
+    <string name="uf_sdk_translation_10117605">"Çeviri sorunu"</string>
+    <string name="uf_sdk_translation_117562">"Geri bildirim türü"</string>
+    <string name="uf_sdk_translation_2529543">"Hata raporu"</string>
+    <string name="uf_sdk_translation_2529544">"Diğerleri"</string>
+    <string name="uf_sdk_translation_2530478">"Öneri"</string>
+    <string name="uf_sdk_unhelpful_article_message_question">"ASUS geliştirme ekibine geri bildirim göndermek istiyor musunuz?"</string>
+    <string name="uf_sdk_user_forum">"Kullanıcı forumu"</string>
+    <string name="uf_sdk_warning">"Uyarı"</string>
+    <string name="uf_sdk_wifi_settings">"Wi-Fi ayarları"</string>
+    <string name="uf_sdk_wlan_settings">"WLAN ayarları"</string>
+    <string name="uf_sdk_write_your_feedback">"Geri bildirimleri buraya girin"</string>
+    <string name="uf_sdk_your_draft_will_be_discarded">"Taslağınız kaldırılacak."</string>
+    <string description="description for empty search result" maxwidth="-1" name="unable_to_find_artlcles">"\u0022%s\u0022 ile ilgili makaleler bulunumadı"</string>
+    <string description="string indicating the length units in milli-meters" maxwidth="-1" name="unit_mm">mm</string>
+    <string description="Context Menu: options of context menu: unshare folder" maxwidth="-1" name="unshared_folder">Paylaşımı kaldır</string>
+    <string name="unsupported_area">"Bu alan desteklenmiyor"</string>
+    <string description="toast message: extract files fail" maxwidth="-1" name="unzip_fail">Dosyalar ayıklanamadı</string>
+    <string description="extract file dialog message" maxwidth="-1" name="unzip_progress_msg">Ayıklanıyor…</string>
+    <string description="toast message: extract files successly" maxwidth="-1" name="unzip_success">Dosyalar başarıyla ayıklandı</string>
+    <string name="update">"Güncelle"</string>
+    <string name="update_fb_app">"Facebook mobil uygulaması sürümü güncel değil. Lütfen Google Play'den en son sürümü yükleyin."</string>
+    <string name="upgrade_notification_content">Yepyeni Ana ekranımızda dosyaları türe göre görüntüleyin.</string>
+    <string name="upgrade_notification_title">Yeni Dosya Yöneticisi uygulamasını şimdi deneyin!</string>
+    <string name="upload_complete">"Karşıya yükleme tamamlandı"</string>
+    <string name="upload_complete_dialog_message">"Video başarıyla karşıya yüklendi."</string>
+    <string name="upload_complete_dialog_title">"Tamamlandı"</string>
+    <string name="upload_fail">karşıya yükleme başarısız!</string>
+    <string name="upload_failed">"Karşıya yükleme başarısız"</string>
+    <string name="upload_picture_toast">"Resminiz yüklenecektir. Bildirimler penceresinde ilerlemeyi kontrol edin."</string>
+    <string name="upload_toast">"Videonuz karşıya yüklenecek. İlerlemeyi bildirimler penceresinden kontrol edin."</string>
+    <string name="uploading_picture">"Resim yükleniyor"</string>
+    <string name="uploading_video">"Video karşıya yükleniyor..."</string>
+    <string name="user">Kullanıcı adı</string>
+    <string name="user_hint">yönetici</string>
+    <string name="uv_admin_response_format">"Yönetici yanıtı: %1$s"</string>
+    <string name="uv_all_articles">"Tüm Makaleler"</string>
+    <string name="uv_all_results_filter">"TÜMÜ"</string>
+    <string name="uv_android_sdk">Android SDK</string>
+    <string name="uv_article_browse_question">"Bu makale yardımcı oldu mu?"</string>
+    <string name="uv_article_instant_answer_question">"Bu SSS yardımcı oldu mu?"</string>
+    <string name="uv_cancel">"İptal"</string>
+    <string name="uv_category">"Kategori"</string>
+    <string name="uv_close">"Kapat"</string>
+    <string name="uv_comment_hint">"Yorumunuzu girin"</string>
+    <string name="uv_confirm">"Onayla"</string>
+    <string name="uv_contact_continue_button">"Hala mesaj göndermek istiyorum"</string>
+    <string name="uv_contact_hint">"Sorunuzu veya geribildiriminizi girin"</string>
+    <string name="uv_contact_us">"Bizimle iletişime geçin"</string>
+    <string name="uv_display_name">"Görünen ad"</string>
+    <string name="uv_email_address">"E-posta adresi"</string>
+    <string name="uv_email_address_hint">"sizin@epostanız.com (gerekli)"</string>
+    <string name="uv_error">"Hata"</string>
+    <string name="uv_failed_signin_error">"Yanlış e-posta adresi veya şifre"</string>
+    <string name="uv_forgot_password">"Şifreyi unuttum"</string>
+    <string name="uv_helpful_article_message_question">"Hala mesaj göndermek istiyor musunuz?"</string>
+    <string name="uv_i_want_this">"Bunu istiyorum!"</string>
+    <string name="uv_idea_description_heading">"Fikrinizi daha ayrıntılı şekilde tanımlayın"</string>
+    <string name="uv_idea_description_hint">"(isteğe bağlı)"</string>
+    <string name="uv_idea_text_heading">"Size önerim:"</string>
+    <string name="uv_loading">"Yükleniyor…"</string>
+    <string name="uv_matching_articles">"Eşleşen makaleler"</string>
+    <string name="uv_matching_articles_and_ideas">"Eşleşen makaleler ve fikirler"</string>
+    <string name="uv_menu_attach">"Ekle"</string>
+    <string name="uv_menu_search">"Ara"</string>
+    <string name="uv_msg_bad_email_format">"Lütfen geçerli bir e-posta adresi girin."</string>
+    <string name="uv_msg_comment_posted">"Yorumunuz gönderildi"</string>
+    <string name="uv_msg_confirm_discard_message">"Fikrinizi silmek istediğinizden emin misiniz?"</string>
+    <string name="uv_msg_custom_fields_validation">"Lütfen tüm gerekli alanları doldurun."</string>
+    <string name="uv_msg_forgot_password">"Şifremi unuttum e-postası gönderildi"</string>
+    <string name="uv_msg_idea_created">"Fikriniz oluşturuldu"</string>
+    <string name="uv_msg_ticket_created">"Mesajınız gönderildi"</string>
+    <string name="uv_msg_user_identity_validation">"Lütfen e-posta adresinizi girin"</string>
+    <string name="uv_name_hint">"Anonim"</string>
+    <string name="uv_network_error">"UserVoice öğesine bağlanırken bir hata oluştu"</string>
+    <string name="uv_nevermind">"Asla"</string>
+    <string name="uv_new_comment">"Yeni yorum"</string>
+    <string name="uv_next">"İleri"</string>
+    <string name="uv_no">"Hayır"</string>
+    <string name="uv_none_of_these_help">"Bu yardımların hiç biri değil"</string>
+    <string name="uv_password">"Şifre"</string>
+    <string name="uv_password_dialog_title">"Lütfen şifrenizi girin"</string>
+    <string name="uv_portal_title">"Yardım"</string>
+    <string name="uv_post_a_comment">"Yorum gönder"</string>
+    <string name="uv_post_comment">"Yorum gönder"</string>
+    <string name="uv_posted_by_format">"Gönderen: %1$s , %2$s"</string>
+    <string name="uv_powered_by_uservoice">"UserVoice tarafından"</string>
+    <string name="uv_ranked">"Sıralama: %1$s"</string>
+    <string name="uv_remove_votes">"Uzak Oylar"</string>
+    <string name="uv_select_none">"(hiç biri)"</string>
+    <string name="uv_select_one">"Birini seçin"</string>
+    <string name="uv_send_message">"Mesaj gönder"</string>
+    <string name="uv_signin_dialog_ok">"Oturum aç"</string>
+    <string name="uv_signin_dialog_title">"Oturum aç"</string>
+    <string name="uv_status_format">"Durum: %1$s"</string>
+    <string name="uv_submit_idea">"Fikri gönder"</string>
+    <string name="uv_subscribe">"Abone ol"</string>
+    <string name="uv_subscribe_dialog_title">"Bu fikre abone ol"</string>
+    <string name="uv_suggestion_instant_answer_question">"Bu fikir yardımcı oldu mu?"</string>
+    <string name="uv_thanks">"Teşekkürler!"</string>
+    <string name="uv_unhelpful_article_message_question">"Bize mesaj göndermek ister misiniz?"</string>
+    <string name="uv_value">"Değer"</string>
+    <string name="uv_very_yes">"Evet!"</string>
+    <string name="uv_yes">"Evet"</string>
+    <string name="uv_your_email_address">"E-posta adresiniz"</string>
+    <string name="uv_your_name">"Adınız"</string>
+    <string description="version" maxwidth="-1" name="version">"Sürüm"</string>
+    <string name="version_text">sürüm</string>
+    <string name="wait">"Lütfen bekleyin..."</string>
+    <string name="warning_stophttpserver">"Mobil aygıtınız ve bilgisayar arasındaki bağlantıyı kaybedeceksiniz. Ayrılmak istiyor musunuz?"</string>
+    <string name="whats_new_label">Yenilikler</string>
+    <string description="message for request to connect Network" name="wifi_p2p_connection_msg" width="-1">Lütfen bulut hizmetlerini kullanmak için bir ağ bağlantısı kurun.</string>
+    <string description="title for request to connect Network" name="wifi_p2p_connection_title" width="-1">Ağ bağlantısı kur</string>
+    <string description="message for request to turn on Wi-Fi" name="wifi_p2p_turn_on_wifi_msg" width="-1">"Wi-Fi Direct hizmetlerini kullanmak için Wi-Fi'yi açın. Wi-Fi şimdi açılsın mı?"</string>
+    <string description="title for turn on WiFi dialog" name="wifi_p2p_turn_on_wifi_title" width="-1">"Wi-Fi'i aç"</string>
+    <string description="search" maxwidth="-1" name="wifidirect_action_bar_scan">Ara</string>
+    <string description="Available devices" maxwidth="-1" name="wifidirect_available_devices">Kullanılabilir aygıtlar</string>
+    <string description="Do you want to connect to device" maxwidth="-1" name="wifidirect_connect_hint">Şuna bağlanmak istiyor musunuz</string>
+    <string description="Dialog title text: Invitation to connect" maxwidth="-1" name="wifidirect_connect_hint_title">Bağlantı daveti</string>
+    <string description="Dialog title text: Wi-Fi Direct connecting" maxwidth="-1" name="wifidirect_connecting_hint_title">Wi-Fi Direct bağlanıyor...</string>
+    <string description="connectted" maxwidth="-1" name="wifidirect_connectted">Bağlandı</string>
+    <string description=">Do you want to disconnect" maxwidth="-1" name="wifidirect_disconnect_hint">Şununla bağlantıyı kesmek istiyor musunuz</string>
+    <string description="Disconnect Wi-Fi Direct" maxwidth="-1" name="wifidirect_disconnect_hint_title">Wi-Fi Direct bağlantısını kes</string>
+    <string description="peer devices infomation" maxwidth="-1" name="wifidirect_peer_device_info">"Bir Wi-Fi Direct davetiyesi almak için, bağlanan aygıtınızın Dosya Yöneticisindeki \"Eş aygıtlar\" sayfasında bulunduğundan emin olun."</string>
+    <string description="peer devices title" maxwidth="-1" name="wifidirect_peer_device_title">Eş aygıtlar</string>
+    <string description="searching" maxwidth="-1" name="wifidirect_scanning">Aranıyor...</string>
+    <string description="Search Wi-Fi Direct device" maxwidth="-1" name="wifidirect_storage_title">Wi-Fi Direct aygıtı ara</string>
+    <string description="click to connect" maxwidth="-1" name="wifidirect_touch_to_connect">Bağlanmak için tıklatın</string>
+    <string name="yandex_account_only_one_alert">"Yalnızca bir Yandex hesabı eklenmesine izin verilir. Yeni bir tanesiyle değiştirmeden önce geçerli hesabınızı silmek zorundasınız."</string>
+    <string name="yes">Evet</string>
+    <string name="zenui_update">"ZenUI Hızlı Güncellemeler"</string>
+    <string description="toast message: Compress files fail" maxwidth="-1" name="zip_fail">Dosyalar sıkıştırılamadı</string>
+    <string description="compress dialog message" maxwidth="-1" name="zip_progress_msg">İşleniyor...</string>
+    <string description="toast message: Compress files successly" maxwidth="-1" name="zip_success">Dosyalar başarıyla sıkıştırıldı</string>
+</resources>

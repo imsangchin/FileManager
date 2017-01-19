@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Sylvia Cheng, 2016/03/22, Setting page -->
+    <string name="action_settings" description="menu title for setting" maxwidth="-1">"Inställningar"</string>
+    <string name="setting_view_group">"Visa inställningar"</string>
+    <string name="setting_view_hide_files">"Dölj systemfiler"</string>
+    <string name="setting_notification_group">"Meddelande"</string>
+    <string name="setting_notification_large_files">"Meddelande om stor fil"</string>
+    <string name="setting_notification_recent_files">"Meddelande om nyliga filer"</string>
+    <string name="setting_notification_wireless_transfer">"Meddelande om trådlös överföring"</string>
+    <string name="setting_display_group">"Display"</string>
+    <string name="tools_storage_analyzer">"Lagringsanalyseraren"</string>
+    <string name="tools_zenui_instant_update">"Omedelbar uppdatering"</string>
+    <string name="category_others">"Övriga"</string>
+    <string name="large_files_content_hint">"Hitta stora filer och radera dem med din tillåtelse."</string>
+    <string name="recent_files_content_hint">"Hitta nyliga filer och radera dem med din tillåtelse."</string>
+    <string name="fragment_analyzer_more_hint">"mer"</string>
+    <string name="fragment_analyzer_chart_total_hint">"Totalt:"</string>
+    <string name="fragment_analyzer_chart_free_hint">"Ledigt:"</string>
+    <string name="fragment_analyzer_chart_used_hint">"ANVÄNT"</string>
+    <string name="fragment_analyzer_allfiles_used_hint">"Använt:"</string>
+    <string name="news_v31" maxwidth="">"Lagringsanalyseraren låter dig veta vilken typ av filer som tog upp all lagringsplats"</string>
+    <string name="news_v32" maxwidth="">"Appkategorin nyligen förbättrad"</string>
+</resources>

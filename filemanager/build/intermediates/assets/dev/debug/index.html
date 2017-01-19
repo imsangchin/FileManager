@@ -1,0 +1,213 @@
+<!doctype html>
+<html lang="en" data-ng-app="FileManagerApp">
+<head>
+  <!--
+    * Angular FileManager v1.4.0 (https://github.com/joni2back/angular-filemanager)
+    * Jonas Sciangula Street <joni2back@gmail.com>
+    * Licensed under MIT (https://github.com/joni2back/angular-filemanager/blob/master/LICENSE)
+  -->
+  <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+  <meta charset="utf-8">
+  <title>ASUS File Manager</title>
+
+  <!-- third party -->
+    <script src="bower_components/angular/angular.min.js"></script>
+    <script src="bower_components/angular-translate/angular-translate.min.js"></script>
+    <script src="bower_components/angular-cookies/angular-cookies.min.js"></script>
+    <script src="bower_components/jquery/dist/jquery.min.js"></script>
+    <script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="bower_components/bootswatch/paper/bootstrap.min.css" />
+
+  <!-- /third party -->
+
+
+  <!-- Comment if you need to use raw source code -->
+    <link href="dist/angular-filemanager-de-minimize.css" rel="stylesheet">
+    <link href="dist/toastr.min.css" rel="stylesheet">
+    <script src="dist/toastr.min.js"></script>
+    <script src="dist/en/fileManagerString_160121.js"></script>
+    <script src="dist/zh-rTW/fileManagerString_160121.js"></script>
+    <script src="dist/zh-rCN/fileManagerString_160121.js"></script>
+    <script src="dist/ar/fileManagerString_160121.js"></script>
+    <script src="dist/bg/fileManagerString_160121.js"></script>
+    <script src="dist/cs/fileManagerString_160121.js"></script>
+    <script src="dist/da/fileManagerString_160121.js"></script>
+    <script src="dist/de/fileManagerString_160121.js"></script>
+    <script src="dist/el/fileManagerString_160121.js"></script>
+    <script src="dist/es/fileManagerString_160121.js"></script>
+    <script src="dist/et/fileManagerString_160121.js"></script>
+    <script src="dist/fi/fileManagerString_160121.js"></script>
+    <script src="dist/fr/fileManagerString_160121.js"></script>
+    <script src="dist/hi/fileManagerString_160121.js"></script>
+    <script src="dist/hr/fileManagerString_160121.js"></script>
+    <script src="dist/hu/fileManagerString_160121.js"></script>
+    <script src="dist/in/fileManagerString_160121.js"></script>
+    <script src="dist/it/fileManagerString_160121.js"></script>
+    <script src="dist/iw/fileManagerString_160121.js"></script>
+    <script src="dist/ja/fileManagerString_160121.js"></script>
+    <script src="dist/ko/fileManagerString_160121.js"></script>
+    <script src="dist/lt/fileManagerString_160121.js"></script>
+    <script src="dist/lv/fileManagerString_160121.js"></script>
+    <script src="dist/ms/fileManagerString_160121.js"></script>
+    <script src="dist/my/fileManagerString_160121.js"></script>
+    <script src="dist/nb/fileManagerString_160121.js"></script>
+    <script src="dist/nl/fileManagerString_160121.js"></script>
+    <script src="dist/pl/fileManagerString_160121.js"></script>
+    <script src="dist/pt-rBR/fileManagerString_160121.js"></script>
+    <script src="dist/pt-rPT/fileManagerString_160121.js"></script>
+    <script src="dist/ro/fileManagerString_160121.js"></script>
+    <script src="dist/ru/fileManagerString_160121.js"></script>
+    <script src="dist/sk/fileManagerString_160121.js"></script>
+    <script src="dist/sl/fileManagerString_160121.js"></script>
+    <script src="dist/sr/fileManagerString_160121.js"></script>
+    <script src="dist/sv/fileManagerString_160121.js"></script>
+    <script src="dist/th/fileManagerString_160121.js"></script>
+    <script src="dist/tr/fileManagerString_160121.js"></script>
+    <script src="dist/uk/fileManagerString_160121.js"></script>
+    <script src="dist/vi/fileManagerString_160121.js"></script>
+    <script src="dist/zg-rMM/fileManagerString_160121.js"></script>
+
+    <script src="dist/angular-filemanager.js"></script>
+  <!-- /Comment if you need to use raw source code -->
+  <script type="text/javascript">
+    var VERSION_CHROME = 20,
+       VERSION_FIREFOX = 35,
+       VERSION_IE = 10;
+
+    var tempUrl = "";
+
+    function get_browser_info(){
+       var ua=navigator.userAgent,tem,M=ua.match(/(opera|chrome|safari|firefox|msie|trident(?=\/))\/?\s*(\d+)/i) || []; 
+       if(/trident/i.test(M[1])){
+          tem=/\brv[ :]+(\d+)/g.exec(ua) || []; 
+          return {name:'IE',version:(tem[1]||'')};
+          }   
+       if(M[1]==='Chrome'){
+          tem=ua.match(/\bOPR\/(\d+)/)
+          if(tem!=null)   {return {name:'Opera', version:tem[1]};}
+          }   
+       M=M[2]? [M[1], M[2]]: [navigator.appName, navigator.appVersion, '-?'];
+       if((tem=ua.match(/version\/(\d+)/i))!=null) {M.splice(1,1,tem[1]);}
+       return {
+           name: M[0],
+           version: M[1]
+       };
+    }
+
+    function showNotSupportInfo(){
+       $('angular-filemanager').remove();
+       var $div = $("<div class='noSupportDiv'><p style='padding: 10px'>Your browser doesn\'t support the feature of ASUS Filemanager file transfer. Please use the supported browser and update the version as below:<br /><br />Google Chrome: 20.0.+<br />Mozilla Firefox: 35.0.+<br />Internet Explore: 10.0.+</p>").appendTo('body');
+    }
+
+    function checkServerAlive() {
+      var timer = setInterval(function() {
+        $.get( tempUrl + "/file/", function( data ) {
+        }).done(function() {
+        }).fail(function() {
+          alert( "You have lost connection between the mobile device and PC.\nPlease check your Wi-Fi status or server running state in mobile ASUS File Manager." );
+          clearInterval(timer);
+        });
+      }, 30000);
+
+   }
+
+   //form tags to omit in NS6+:
+   var omitformtags=["textarea"]
+
+   omitformtags=omitformtags.join("|")
+
+   function disableselect(e){
+    if (omitformtags.indexOf(e.target.tagName.toLowerCase())==-1)
+    return false
+   }
+
+   function reEnable(){
+    return true
+   }
+
+   if (typeof document.onselectstart!="undefined")
+    document.onselectstart=new Function ("return false")
+   else{
+    document.onmousedown=disableselect
+    document.onmouseup=reEnable
+   }
+
+
+   $(document).ready(function(){
+      // detect the language of the browser
+      //var userLang = navigator.language || navigator.userLanguage;
+      //var langObj = null;
+      //if(userLang.toLowerCase() == 'zh-tw')
+      //  langObj = window["resource_zhTW"];
+
+      //alert(langObj["browser_not_support"]);
+      checkServerAlive();
+
+      var browser = get_browser_info();
+      switch(browser.name.toLowerCase()){
+        case 'chrome':
+          if(browser.version >= VERSION_CHROME)
+            break;
+        case 'firefox':
+          if(browser.version >= VERSION_FIREFOX)
+            break;
+        case 'msie':
+        case 'ie':
+          if(browser.version >= VERSION_IE)
+            break;
+        default:
+        showNotSupportInfo();
+      }
+    });
+    
+    //example to override angular-filemanager default config
+    angular.module('FileManagerApp').config(['fileManagerConfigProvider', function (config) {
+      var defaults = config.$get();
+      config.set({
+        appName: 'ASUS File Manager',
+        listUrl: tempUrl + "/file/",
+        uploadUrl: tempUrl + "/file/",
+        resumeUrl: tempUrl + "/file/",
+        downloadFileUrl: tempUrl + "/file",
+        removeUrl: tempUrl + "/file/",
+        createFolderUrl: tempUrl + "/file/",
+        compressUrl: tempUrl + "/compress/",
+        compressUrlPreStr: tempUrl + "/file",
+        isEditableFilePattern: /\.()$/i,
+        allowedActions: angular.extend(defaults.allowedActions, {
+          remove: true,
+          changePermissions: false,
+          copy: false,
+          edit: false,
+          preview: false,
+          rename: false
+        })
+      });
+
+      toastr.options = {
+        "closeButton": false,
+        "debug": false,
+        "newestOnTop": true,
+        "progressBar": false,
+        "positionClass": "toast-top-right",
+        "preventDuplicates": false,
+        "onclick": null,
+        "showDuration": "300",
+        "hideDuration": "1000",
+        "timeOut": "2000",
+        "extendedTimeOut": "1000",
+        "showEasing": "swing",
+        "hideEasing": "swing",
+        "showMethod": "fadeIn",
+        "hideMethod": "fadeOut"
+      }
+    }]);
+
+  window.onbeforeunload = function() { return "Do you want to leave this page?"; };
+  </script>
+</head>
+
+<body class="ng-cloak">
+  <angular-filemanager></angular-filemanager>
+</body>
+</html>

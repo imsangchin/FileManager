@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="uf_sdk_number_of_subscribers_format">
+        <item quantity="one">"%1$s vindt dit onderwerp leuk"</item>
+        <item quantity="other">"%1$s vinden dit onderwerp leuk"</item>
+    </plurals>
+    <plurals name="uf_sdk_topics">
+        <item quantity="one">"onderwerp"</item>
+        <item quantity="other">"onderwerpen"</item>
+    </plurals>
+    <plurals name="uv_comments">
+        <item quantity="one">"opmerking"</item>
+        <item quantity="other">"opmerkingen"</item>
+    </plurals>
+    <plurals name="uv_number_of_subscribers_format">
+        <item quantity="one">"%1$s wil dit idee"</item>
+        <item quantity="other">"%1$s willen dit idee"</item>
+    </plurals>
+    <plurals name="uv_people">
+        <item quantity="one">"persoon"</item>
+        <item quantity="other">"mensen"</item>
+    </plurals>
+    <plurals name="uv_subscribers">
+        <item quantity="one">"abonnee"</item>
+        <item quantity="other">"abonnees"</item>
+    </plurals>
+    <string description="label for trending searches" maxwidth="-1" name="trending_searches">"Trending-zoekopdrachten"</string>
+    <string name="uf_sdk_already_give_5star">"Al een beoordeling van 5 sterren gegeven"</string>
+    <string description="%d is a number, don&apos;t translate" name="uf_sdk_article_read_count">"%d bekeken"</string>
+    <string name="uf_sdk_attachment_format_warning">"Verkeerde bestandsindeling. U kunt alleen imagebestanden toevoegen"</string>
+    <string name="uf_sdk_attachment_total_size">"Totaal"</string>
+    <string name="uf_sdk_attachment_warning">"De grootte van de bijlage overschrijdt de toegestane  limiet"</string>
+    <string maxwidth="-1" name="uf_sdk_cancel_btn_content">"Annuleren"</string>
+    <string name="uf_sdk_choosertitle_sharevia">"Delen via"</string>
+    <string name="uf_sdk_connection_error_msg">"Verbinding verbroken door de server. Probeer het later opnieuw."</string>
+    <string name="uf_sdk_connection_error_title">"Verbindingsfout"</string>
+    <string name="uf_sdk_discard">"Verwijderen"</string>
+    <string name="uf_sdk_email_illigal">"Het e-mailadres is al in gebruik"</string>
+    <string maxwidth="-1" name="uf_sdk_empty_notification">"Leeg :)"</string>
+    <string name="uf_sdk_faq">"Veelgestelde vragen"</string>
+    <string name="uf_sdk_feedback_and_help">"Feedback en help"</string>
+    <string name="uf_sdk_forum_description">"Neem deel aan het gesprek met ASUS-gebruikers om oplossingen te zoeken en te delen"</string>
+    <string maxwidth="-1" name="uf_sdk_grant_permission_title">"Machtiging verlenen"</string>
+    <string name="uf_sdk_help">"Help"</string>
+    <string name="uf_sdk_instant_answer_question">"Zijn deze FAQ nuttig?"</string>
+    <string name="uf_sdk_like">"Like"</string>
+    <string maxwidth="-1" name="uf_sdk_message">"Meldingen"</string>
+    <string name="uf_sdk_msg_bad_email_format">"Het e-mailadres is ongeldig. Probeer het opnieuw."</string>
+    <string name="uf_sdk_msg_confirm_discard_topic">"Uw concept wordt niet opgeslagen. Wilt u het toch verwijderen?"</string>
+    <string name="uf_sdk_msg_confirm_discard_topic_title">"Publicatie verwijderen?"</string>
+    <string name="uf_sdk_msg_subscribe">"Uw abonnement op statusmeldingen over het onderwerp ontvangt u via e-mail."</string>
+    <string name="uf_sdk_msg_subscribe_success">"U bent geabonneerd"</string>
+    <string name="uf_sdk_msg_ticket_created">"Uw feedback is naar ASUS verzonden"</string>
+    <string name="uf_sdk_msg_topic_created">"Publicatie gelukt"</string>
+    <string name="uf_sdk_msg_unsubscribe">"Abonnement opgezegd"</string>
+    <string name="uf_sdk_name_hint">"Voer uw naam in"</string>
+    <string name="uf_sdk_name_illigal">"De gebruikersnaam wordt al gebruikt"</string>
+    <string name="uf_sdk_network_error">"Geen internetverbinding. Controleer uw netwerkinstellingen."</string>
+    <string description="zenui news" maxwidth="" name="uf_sdk_news">"Nieuws"</string>
+    <string name="uf_sdk_no_network_connection_content">"Kan gegevens niet bijwerken. Controleer uw netwerkinstellingen."</string>
+    <string name="uf_sdk_no_network_connection_title">"Geen netwerkverbinding"</string>
+    <string name="uf_sdk_nothing_found">"Niets gevonden"</string>
+    <string name="uf_sdk_notice">"Opmerking"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category1">"Aankondigingen"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category2">"Handleiding &amp; tips"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category3">"Promoties"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category4">"Gebeurtenissen"</string>
+    <string name="uf_sdk_publish_an_topic">"Nieuw onderwerp publiceren"</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_rate_now">"Nu beoordelen"</string>
+    <string description="%s is AP name, don&apos;t translate" maxWidth="" name="uf_sdk_rate_us_detail">"Gebruikt u %s graag, geef ons dan een beoordeling van 5 sterren op Play Store."</string>
+    <string maxWidth="" name="uf_sdk_rate_us_detail_new">"Uit uw 5-sterrenbeoordeling putten wij kracht om verder te werken!"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_rating">"5-sterrenbeoordeling"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title">"Beoordeel ons!"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title_new">"Moedig ons aan!"</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_scroll_up_toast">"Scroll omhoog om te beoordelen"</string>
+    <string name="uf_sdk_search_hint">"Zoeken in Help"</string>
+    <string name="uf_sdk_select_common_bug">"Algemene fout selecteren"</string>
+    <string name="uf_sdk_send_feedback">"Feedback verzenden"</string>
+    <string name="uf_sdk_send_feedback_help">"Uw feedback en e-mailadres worden verzonden naar ASUS. Het serviceteam zal contact met u opnemen via e-mail."</string>
+    <string maxwidth="-1" name="uf_sdk_setting_btn_content">"Instellingen"</string>
+    <string description="recommend title" maxwidth="" name="uf_sdk_settings_encourage_us_title">"Moedig ons aan"</string>
+    <string maxwidth="-1" name="uf_sdk_storage_permission_description">"Deze functie vereist de opslagmachtiging voor toegang tot de multimediabestanden. \n\nWilt u deze functie inschakelen, tik dan op de knop Instellingen om de instellingspagina van te openen en stel \"Appinformatie\" > \"Machtigingen\" in om de machtiging te verlenen.\n"</string>
+    <string name="uf_sdk_submit_topic">"Publiceren"</string>
+    <string name="uf_sdk_subscribe_dialog_title">"Abonneren op dit onderwerp"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_answered">"Beantwoord"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_completed">"Voltooid"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_declined">"Geweigerd"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_implemented">"Geïmplementeerd"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_planned">"Gepland"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_under_review">"Wordt gecontroleerd"</string>
+    <string name="uf_sdk_thanks_for_your_feedback">"Bedankt voor uw feedback."</string>
+    <string description="%s is a application name, don&apos;t translate" name="uf_sdk_ticket_hint">"Voer feedback in voor %s"</string>
+    <string name="uf_sdk_title_topic">"Onderwerp"</string>
+    <string name="uf_sdk_topic">"Onderwerp"</string>
+    <string name="uf_sdk_topic_description_heading">"Beschrijving"</string>
+    <string name="uf_sdk_topic_description_hint">"Beschrijf uw onderwerp in detail"</string>
+    <string name="uf_sdk_topic_filter">"ONDERWERPEN"</string>
+    <string name="uf_sdk_topic_form_help">"Als u een onderwerp publiceert op het gebruikersforum kunnen andere gebruikers zich hierop abonneren en er commentaar op geven. Als het ASUS-ontwikkelteam op het onderwerp reageert, wordt u daarvan op de hoogte gebracht via e-mail."</string>
+    <string name="uf_sdk_topic_form_title">"Nieuw onderwerp publiceren"</string>
+    <string name="uf_sdk_topic_text_heading">"Forum"</string>
+    <string name="uf_sdk_topic_text_hint">"Voer de titel van uw onderwerp in"</string>
+    <string name="uf_sdk_topic_title">"Titel"</string>
+    <string name="uf_sdk_translation_10117605">"Vertaalprobleem"</string>
+    <string name="uf_sdk_translation_117562">"Feedbacktype"</string>
+    <string name="uf_sdk_translation_2529543">"Bugrapport"</string>
+    <string name="uf_sdk_translation_2529544">"Overige"</string>
+    <string name="uf_sdk_translation_2530478">"Suggestie"</string>
+    <string name="uf_sdk_unhelpful_article_message_question">"Wilt u feedback verzenden naar het ASUS-ontwikkelteam?"</string>
+    <string name="uf_sdk_user_forum">"Gebruikersforum"</string>
+    <string name="uf_sdk_warning">"Waarschuwing"</string>
+    <string name="uf_sdk_wifi_settings">"Wi-Fi-instellingen"</string>
+    <string name="uf_sdk_wlan_settings">"WLAN-instellingen"</string>
+    <string name="uf_sdk_write_your_feedback">"Voer hier feedback in"</string>
+    <string name="uf_sdk_your_draft_will_be_discarded">"Uw concept wordt verwijderd."</string>
+    <string description="description for empty search result" maxwidth="-1" name="unable_to_find_artlcles">"Kan geen gerelateerde artikelen met \u0022%s\u0022 vinden"</string>
+    <string name="uv_admin_response_format">"Antwoord beheerder: %1$s"</string>
+    <string name="uv_all_articles">"Alle artikels"</string>
+    <string name="uv_all_results_filter">"ALLES"</string>
+    <string name="uv_android_sdk">Android SDK</string>
+    <string name="uv_article_browse_question">"Was dit artikel nuttig?"</string>
+    <string name="uv_article_instant_answer_question">"Zijn deze FAQ nuttig?"</string>
+    <string name="uv_cancel">"Annuleren"</string>
+    <string name="uv_category">"Categorie"</string>
+    <string name="uv_close">"Sluiten"</string>
+    <string name="uv_comment_hint">"Voer uw opmerking in"</string>
+    <string name="uv_confirm">"Bevestigen"</string>
+    <string name="uv_contact_continue_button">"Ik wil mijn bericht nog steeds verzenden"</string>
+    <string name="uv_contact_hint">"Voer uw vraag of feedback in"</string>
+    <string name="uv_contact_us">"Contactgegevens"</string>
+    <string name="uv_display_name">"Gebruikersnaam"</string>
+    <string name="uv_email_address">"E-mailadres"</string>
+    <string name="uv_email_address_hint">"uw@email.com (verplicht)"</string>
+    <string name="uv_error">"Fout"</string>
+    <string name="uv_failed_signin_error">"E-mail of wachtwoord is onjuist"</string>
+    <string name="uv_forgot_password">"Wachtwoord vergeten"</string>
+    <string name="uv_helpful_article_message_question">"Wilt u nog steeds een bericht verzenden?"</string>
+    <string name="uv_i_want_this">"Ik wil dit!"</string>
+    <string name="uv_idea_description_heading">"Beschrijf uw idee in meer detail"</string>
+    <string name="uv_idea_description_hint">"(optioneel)"</string>
+    <string name="uv_idea_text_heading">"Ik stel u voor..."</string>
+    <string name="uv_loading">"Bezig met laden…"</string>
+    <string name="uv_matching_articles">"Bijhorende artikels"</string>
+    <string name="uv_matching_articles_and_ideas">"Bijhorende artikels en ideeën"</string>
+    <string name="uv_menu_attach">"Toevoegen als bijlage"</string>
+    <string name="uv_menu_search">"Zoeken"</string>
+    <string name="uv_msg_bad_email_format">"Voer een geldig e-mailadres in."</string>
+    <string name="uv_msg_comment_posted">"Uw opmerking is gepubliceerd"</string>
+    <string name="uv_msg_confirm_discard_message">"Weet u zeker dat u uw bericht wilt verwijderen?"</string>
+    <string name="uv_msg_custom_fields_validation">"Vul alle vereiste velden in."</string>
+    <string name="uv_msg_forgot_password">"E-mail voor vergeten wachtwoord verzonden"</string>
+    <string name="uv_msg_idea_created">"Uw idee is gemaakt"</string>
+    <string name="uv_msg_ticket_created">"Uw bericht is verzonden"</string>
+    <string name="uv_msg_user_identity_validation">"Voer uw e-mailadres in"</string>
+    <string name="uv_name_hint">"Anoniem"</string>
+    <string name="uv_network_error">"Er is een fout opgetreden bij het verbinden met UserVoice"</string>
+    <string name="uv_nevermind">"Maakt niets uit"</string>
+    <string name="uv_new_comment">"Nieuwe opmerking"</string>
+    <string name="uv_next">"Volgende"</string>
+    <string name="uv_no">"Nee"</string>
+    <string name="uv_none_of_these_help">"Niets van deze Help"</string>
+    <string name="uv_password">"Wachtwoord"</string>
+    <string name="uv_password_dialog_title">"Voer uw wachtwoord in"</string>
+    <string name="uv_portal_title">"Help"</string>
+    <string name="uv_post_a_comment">"Een opmerking publiceren"</string>
+    <string name="uv_post_comment">"Opmerking publiceren"</string>
+    <string name="uv_posted_by_format">"Gepubliceerd door %1$s op %2$s"</string>
+    <string name="uv_powered_by_uservoice">"Aangeboden door UserVoice"</string>
+    <string name="uv_ranked">"Geclassificeerd %1$s"</string>
+    <string name="uv_remove_votes">"Stemmen verwijderen"</string>
+    <string name="uv_select_none">"(geen)"</string>
+    <string name="uv_select_one">"Selecteer een"</string>
+    <string name="uv_send_message">"Bericht verzenden"</string>
+    <string name="uv_signin_dialog_ok">"Aanmelden"</string>
+    <string name="uv_signin_dialog_title">"Aanmelden"</string>
+    <string name="uv_status_format">"Status: %1$s"</string>
+    <string name="uv_submit_idea">"Idee indienen"</string>
+    <string name="uv_subscribe">"Abonneren"</string>
+    <string name="uv_subscribe_dialog_title">"Abonneren op dit idee"</string>
+    <string name="uv_suggestion_instant_answer_question">"Is dit idee nuttig?"</string>
+    <string name="uv_thanks">"Bedankt!"</string>
+    <string name="uv_unhelpful_article_message_question">"Wilt u ons een bericht sturen?"</string>
+    <string name="uv_value">"Waarde"</string>
+    <string name="uv_very_yes">"Ja!"</string>
+    <string name="uv_yes">"Ja"</string>
+    <string name="uv_your_email_address">"Uw e-mailadres"</string>
+    <string name="uv_your_name">"Uw naam"</string>
+</resources>

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:background="?normal_background_color" >
+
+    <include layout="@layout/toolbar"/>
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/fragment_analyser_allfiles_edit_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+        style="?actionmode_style"
+        />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/path_view_height"
+        android:gravity="center_vertical">
+
+
+
+        <LinearLayout
+            android:id="@+id/fragment_analyser_allfiles_indicator_root"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_marginEnd="@dimen/listview_item_margin"
+            android:layout_marginStart="@dimen/listview_item_margin"
+            android:layout_marginLeft="@dimen/listview_item_margin"
+            android:layout_marginRight="@dimen/listview_item_margin"
+            android:orientation="horizontal">
+
+
+            <HorizontalScrollView
+                android:id="@+id/fragment_analyser_allfiles_indicator_scrollView"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="center_vertical"
+                android:clickable="false"
+                android:focusable="false"
+                android:gravity="center_vertical">
+
+                <com.asus.filemanager.ui.PathIndicatorView
+                    android:id="@+id/fragment_analyser_allfiles_indicator_container"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center_vertical"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal"/>
+            </HorizontalScrollView>
+        </LinearLayout>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="@dimen/listview_item_margin"
+        android:layout_marginStart="@dimen/listview_item_margin"
+        android:layout_marginBottom="@dimen/listview_item_margin"
+        android:layout_marginLeft="@dimen/listview_item_margin"
+        android:layout_marginRight="@dimen/listview_item_margin">
+
+
+        <TextView
+            android:id="@+id/fragment_analyser_allfiles_used_hint"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/fragment_analyzer_allfiles_used_hint"
+            android:paddingEnd="@dimen/fragment_analyser_text_padding_right"
+            android:paddingRight="@dimen/fragment_analyser_text_padding_right"
+            android:textColor="@color/fragment_analyser_allfiles_used_color"
+            android:textSize="@dimen/fragment_analyser_allfiles_used_sizes"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"/>
+
+        <TextView
+            android:id="@+id/fragment_analyser_allfiles_used"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:textColor="@color/fragment_analyser_allfiles_used_color"
+            android:textSize="@dimen/fragment_analyser_allfiles_used_sizes"
+            android:layout_toEndOf="@+id/fragment_analyser_allfiles_used_hint"
+            android:layout_toRightOf="@+id/fragment_analyser_allfiles_used_hint"/>
+
+    </RelativeLayout>
+
+    <!-- divider -->
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dividerHeight"
+        android:layout_marginEnd="@dimen/listview_item_margin"
+        android:layout_marginStart="@dimen/listview_item_margin"
+        android:background="?filelist_pathcontainer_divider_color" />
+
+    <!-- Loading -->
+
+    <LinearLayout
+        android:id="@+id/fragment_analyser_allfiles_loading"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:visibility="visible">
+
+        <ProgressBar
+            style="?android:attr/progressBarStyleLarge"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <TextView
+            android:id="@+id/fragment_analyser_allfiles_loading_hint"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:singleLine="true"
+            android:ellipsize="middle"
+            android:layout_marginLeft = "@dimen/loading_hint_margin"
+            android:layout_marginStart = "@dimen/loading_hint_margin"
+            android:layout_marginRight = "@dimen/loading_hint_margin"
+            android:layout_marginEnd = "@dimen/loading_hint_margin"
+            android:text="@string/loading"
+            android:textColor="?text_color"
+            android:textAppearance="?android:attr/textAppearanceSmall"/>
+    </LinearLayout>
+
+    <!-- Container -->
+
+    <FrameLayout
+        android:id="@+id/fragment_analyser_allfiles_list_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ListView
+            android:id="@+id/fragment_analyser_allfiles_listview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginEnd="@dimen/listview_item_margin"
+            android:layout_marginStart="@dimen/listview_item_margin"
+            android:dividerHeight="@dimen/dividerHeight"
+            android:drawSelectorOnTop="false"
+            android:headerDividersEnabled="false"
+            android:scrollbars="vertical"
+            android:divider="?filelist_divider_color" >
+        </ListView>
+
+        <TextView
+            android:id="@+id/fragment_analyser_allfiles_empty"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:paddingLeft="15dip"
+            android:paddingRight="15dip"
+            android:text="@string/fileList_Nofiles"
+            android:textSize="16dp"
+            android:visibility="gone"
+            android:textColor="?filelist_item_name_color" />
+    </FrameLayout>
+
+</LinearLayout>

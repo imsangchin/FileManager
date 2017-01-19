@@ -1,0 +1,1309 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="alarm_set">
+        <item msgid="6450913786084215050">"Budík sa spustí o menej než 1 minútu."</item>
+        <item msgid="6002066367368421848">"Budík sa spustí o <ns1:g id="DAYS">%1$s</ns1:g>."</item>
+        <item msgid="8824719306247973774">"Budík sa spustí o <ns1:g id="HOURS">%2$s</ns1:g>."</item>
+        <item msgid="8182406852935468862">"Budík sa spustí o <ns1:g id="DAYS">%1$s</ns1:g> a <ns1:g id="HOURS">%2$s</ns1:g>."</item>
+        <item msgid="2532279224777213194">"Budík sa spustí o <ns1:g id="MINUTES">%3$s</ns1:g>."</item>
+        <item msgid="5936557894247187717">"Budík sa spustí o <ns1:g id="DAYS">%1$s</ns1:g> a <ns1:g id="MINUTES">%3$s</ns1:g>."</item>
+        <item msgid="9115697840826129603">"Budík sa spustí o <ns1:g id="HOURS">%2$s</ns1:g> a <ns1:g id="MINUTES">%3$s</ns1:g>."</item>
+        <item msgid="2332583385137381060">"Budík sa spustí o: <ns1:g id="DAYS">%1$s</ns1:g>, <ns1:g id="HOURS">%2$s</ns1:g> a <ns1:g id="MINUTES">%3$s</ns1:g>."</item>
+    </string-array>
+    <string-array name="charset_array">
+        <item>"Latin-1 (ISO-8859-1)"</item>
+        <item>"Unicode (UTF-8)"</item>
+        <item>"Čínština (GBK)"</item>
+        <item>"Čínština (Big5)"</item>
+        <item>"Japončina (ISO-2022-JP)"</item>
+        <item>"Japončina (SHIFT_JIS)"</item>
+        <item>"Japončina (EUC-JP)"</item>
+        <item>"Kórejčina (EUC-KR)"</item>
+    </string-array>
+    <string-array name="country_names">
+        <item>Aruba</item>
+        <item>Afganistan (جمهوری اسلامی افغانستان)</item>
+        <item>Angola (República de Angola)</item>
+        <item>Anguilla</item>
+        <item>Albánsko (Shqipëri)</item>
+        <item>Andorra (Principat d\'Andorra)</item>
+        <item>Holandské Antily</item>
+        <item>Spojené arabské emiráty (دولة الإمارات العربية المتحدة‎)</item>
+        <item>Argentína (República Argentina)</item>
+        <item>Arménsko (Hayastan)</item>
+        <item>Americká Samoa</item>
+        <item>Antarktída</item>
+        <item>Francúzske južné územia</item>
+        <item>Antigua a Barbuda</item>
+        <item>Austrália (Austrália)</item>
+        <item>Rakúsko (Österreich)</item>
+        <item>Azerbajdžan</item>
+        <item>Burundi</item>
+        <item>Belgicko (België)</item>
+        <item>Benin</item>
+        <item>Burkina Faso</item>
+        <item>Bangladéš (বাংলাদেশ)</item>
+        <item>Bulharsko (България/Balgariya)</item>
+        <item>Bahrain (مملكة البحرين)</item>
+        <item>Bahamské ostrovy</item>
+        <item>Bosna a Hercegovina (Bosna i Hercegovina)</item>
+        <item>Bielorusko (Беларусь)</item>
+        <item>Belize</item>
+        <item>Bermudy</item>
+        <item>Bolívia</item>
+        <item>Brazília</item>
+        <item>Barbados</item>
+        <item>Brunej Darussalam (بروني دارالسلام)</item>
+        <item>Bhután</item>
+        <item>Bouvetov ostrov</item>
+        <item>Botswana (Lefatshe la Botswana)</item>
+        <item>Stredoafrická republika (République centrafricaine)</item>
+        <item>Kanada</item>
+        <item>Kokosové ostrovy (Keeling)</item>
+        <item>Švajčiarsko (Suisse)</item>
+        <item>Čile</item>
+        <item>Čína (中國)</item>
+        <item>Pobrežie Slonoviny (Cote D\'Ivoire)</item>
+        <item>Kamerun</item>
+        <item>Kongo</item>
+        <item>Cookove ostrovy</item>
+        <item>Kolumbia</item>
+        <item>Komory</item>
+        <item>Kapverdy</item>
+        <item>Kostarika</item>
+        <item>Kuba</item>
+        <item>Vianočný ostrov</item>
+        <item>Kajmanské ostrovy</item>
+        <item>Cyprus (Europa)</item>
+        <item>Česká republika</item>
+        <item>Nemecko (Deutschland)</item>
+        <item>Džibuti</item>
+        <item>Dominika</item>
+        <item>Dánsko (Danmark)</item>
+        <item>Dominikánska republika</item>
+        <item>Alžírsko</item>
+        <item>Ekvádor</item>
+        <item>Egypt (مصر‎)</item>
+        <item>Eritrea</item>
+        <item>Západná Sahara</item>
+        <item>Španielsko (España)</item>
+        <item>Estónsko (Eesti)</item>
+        <item>Etiópia</item>
+        <item>Fínsko (Suomi)</item>
+        <item>Fidži</item>
+        <item>Falklandské ostrovy</item>
+        <item>Francúzsko (France)</item>
+        <item>Belgicko (Belgique)</item>
+        <item>Faerské ostrovy</item>
+        <item>Mikronézia</item>
+        <item>Gabon</item>
+        <item>Spojené kráľovstvo</item>
+        <item>Gruzínsko (საქართველო)</item>
+        <item>Ghana</item>
+        <item>Gibraltár</item>
+        <item>Guinea</item>
+        <item>Guadeloupe</item>
+        <item>Gambia</item>
+        <item>Guinea-Bissau</item>
+        <item>Rovníková Guinea</item>
+        <item>Grécko (Ελλάδα)</item>
+        <item>Grenada</item>
+        <item>Grénsko</item>
+        <item>Guatemala</item>
+        <item>Francúzska Guyana</item>
+        <item>Guam</item>
+        <item>Guyana</item>
+        <item>Hong Kong (香港)</item>
+        <item>Heardov ostrov a McDonaldove ostrovy</item>
+        <item>Honduras</item>
+        <item>Chorvátsko (Hrvatska)</item>
+        <item>Haiti</item>
+        <item>Maďarsko (Magyarország)</item>
+        <item>Indonézia (Republik Indonesia)</item>
+        <item>India (भारत गणराज्य )</item>
+        <item>Britské indickooceánske územie</item>
+        <item>Írsko</item>
+        <item>Irán (ایران)</item>
+        <item>Irak (العراق)</item>
+        <item>Island (Ísland)</item>
+        <item>Izrael (מְדִינַת יִשְׂרָאֵל  /  دَوْلَةُ إِسْرَائِيلَ)</item>
+        <item>Taliansko</item>
+        <item>Jamaica</item>
+        <item>Jordán (L\'Ürdünn)</item>
+        <item>Japonsko (日本国)</item>
+        <item>Kazachstan</item>
+        <item>Keňa (Jamhuri ya Kenya)</item>
+        <item>Kirgizsko</item>
+        <item>Kambodža (कम्बोजदेश)</item>
+        <item>Kiribati</item>
+        <item>Svätý Krištof a Nevis</item>
+        <item>Kórejská republika (대한민국)</item>
+        <item>Kuvajt (دولة الكويت)</item>
+        <item>Laoská ľudovodemokratická republika</item>
+        <item>Lebanon (اَلْجُمْهُورِيَّة اَللُّبْنَانِيَّة)</item>
+        <item>Libéria</item>
+        <item>Líbyjská Arabská Džamahírija</item>
+        <item>Svätá Lucia</item>
+        <item>Lichtenštajnsko (Liechtenstein)</item>
+        <item>Srí Lanka (இலங்கை ஜனநாயக சமத்துவ)</item>
+        <item>Lesotho</item>
+        <item>Litva (Lietuva)</item>
+        <item>Luxembursko (Lëtzebuerg)</item>
+        <item>Lotyšsko (Latvija)</item>
+        <item>Macao</item>
+        <item>Maroko</item>
+        <item>Monako </item>
+        <item>Moldavsko (Moldova)</item>
+        <item>Madagaskar</item>
+        <item>Maldivy</item>
+        <item>Mexiko</item>
+        <item>Marshallove ostrovy</item>
+        <item>Macedónsko</item>
+        <item>Mali</item>
+        <item>Malta</item>
+        <item>Mjanmarsko (Pyidaunzu Thanmăda Myăma Nainngandaw)</item>
+        <item>Mongolsko</item>
+        <item>Severné Mariány</item>
+        <item>Mozambik</item>
+        <item>Mauritánia</item>
+        <item>Montserrat</item>
+        <item>Martinik</item>
+        <item>Mauritius (Republik Moris)</item>
+        <item>Malawi</item>
+        <item>Malajzia (Persekutuan Malaysia)</item>
+        <item>Mayotte</item>
+        <item>Namíbia</item>
+        <item>Nová Kaledónia (Nouvelle-Calédonie)</item>
+        <item>Niger</item>
+        <item>Ostrov Norfolk (Norfuk Ailen)</item>
+        <item>Nigéria (Republik Nijeriya)</item>
+        <item>Nikaragua</item>
+        <item>Niue</item>
+        <item>Holandsko</item>
+        <item>Nórsko</item>
+        <item>Nepál (सङ्घीय लोकतान्त्रिक गणतन्त्र नेपाल)</item>
+        <item>Nauru</item>
+        <item>Nový Zéland</item>
+        <item>Omán (لطنة عمان)</item>
+        <item>Pakistan (پاکِستان)</item>
+        <item>Panama</item>
+        <item>Pitcairnove ostrovy</item>
+        <item>Peru</item>
+        <item>Filipíny</item>
+        <item>Palau</item>
+        <item>Papua-Nová Guinea</item>
+        <item>Poľsko</item>
+        <item>Portoriko</item>
+        <item>Kórejská ľudovodemokratická republika</item>
+        <item>Portugalsko</item>
+        <item>Paraguaj</item>
+        <item>Francúzska Polynézia</item>
+        <item>Katar</item>
+        <item>Réunion</item>
+        <item>Rumunsko (România)</item>
+        <item>Rusko (Россия)</item>
+        <item>Rwanda</item>
+        <item>Saudská Arábia (المملكة العربية السعودية)</item>
+        <item>Srbsko a Čierna Hora</item>
+        <item>Sudán (جمهورية السودان)</item>
+        <item>Senegal</item>
+        <item>Singapur (Singapore)</item>
+        <item>Južná Georgia a Južné Sandwichove ostrovy</item>
+        <item>Svätá Helena</item>
+        <item>Ostrovy Svalbard a Jan Mayen</item>
+        <item>Šalamúnove ostrovy</item>
+        <item>Sierra Leone</item>
+        <item>Salvádor</item>
+        <item>San Maríno</item>
+        <item>Somálsko</item>
+        <item>St. Pierre a Miquelon </item>
+        <item>Svätý Tomáš a Princov ostrov</item>
+        <item>Surinam</item>
+        <item>Slovensko</item>
+        <item>Slovinsko</item>
+        <item>Švédsko</item>
+        <item>Svazijsko</item>
+        <item>Seychely</item>
+        <item>Sýria (جمهورية العربية السورية)</item>
+        <item>Ostrovy Turks a Caicos</item>
+        <item>Čad</item>
+        <item>Togo</item>
+        <item>Thajsko (ราชอาณาจักรไทย)</item>
+        <item>Tadžikistan</item>
+        <item>Tokelau</item>
+        <item>Turkménsko</item>
+        <item>Východný Timor</item>
+        <item>Tonga</item>
+        <item>Trinidad a Tobago</item>
+        <item>Tunisko</item>
+        <item>Turkecko</item>
+        <item>Tuvalu</item>
+        <item>Taiwan, Republika Číny (台灣)</item>
+        <item>Tanzánia</item>
+        <item>Uganda (Jamhuri ya Uganda)</item>
+        <item>Ukrajina (Україна)</item>
+        <item>Menšie odľahlé ostrovy USA</item>
+        <item>Uruguaj</item>
+        <item>Spojené štáty</item>
+        <item>Uzbekistan</item>
+        <item>Svätá stolica (Stato della Città del Vaticano)</item>
+        <item>Svätý Vincent a Grenadíny</item>
+        <item>Venezuela</item>
+        <item>Britské Panenské ostrovy</item>
+        <item>Americké Panenské ostrovy</item>
+        <item>Vietnam (Việt Nam)</item>
+        <item>Vanuatu</item>
+        <item>Wallis a Futuna</item>
+        <item>Samoa</item>
+        <item>Jemen</item>
+        <item>Južná Afrika (Republiek van Suid-Afrika)</item>
+        <item>Zaire</item>
+        <item>Zambia</item>
+        <item>Zimbabwe (Simudzai Mureza wedu WeZimbabwe)</item>
+    </string-array>
+    <plurals name="dialog_unzip_preview_size_text">
+        <item quantity="one">Spolu: %1$d súbor, %2$s</item>
+        <item quantity="other">Spolu: %1$d súborov, %2$s</item>
+    </plurals>
+    <plurals name="drag_items">
+        <item quantity="one">Presunúť položku</item>
+        <item quantity="other">Presunúť položky</item>
+    </plurals>
+    <plurals name="number_search_items">
+        <item quantity="one">"%d súbor sa našiel"</item>
+        <item quantity="other">"Nájdené súbory: %d"</item>
+    </plurals>
+    <plurals name="number_selected_items">
+        <item quantity="one">%d položka vybraná</item>
+        <item quantity="other">%d položiek vybraných</item>
+    </plurals>
+    <plurals name="uf_sdk_number_of_subscribers_format">
+        <item quantity="one">"Táto téma sa páči %1$s"</item>
+        <item quantity="other">"Táto téma sa páči %1$s"</item>
+    </plurals>
+    <plurals name="uf_sdk_topics">
+        <item quantity="one">"téma"</item>
+        <item quantity="other">"témy"</item>
+    </plurals>
+    <plurals name="uv_comments">
+        <item quantity="one">"komentár"</item>
+        <item quantity="other">"komentáre"</item>
+    </plurals>
+    <plurals name="uv_number_of_subscribers_format">
+        <item quantity="one">"%1$s chce tento nápad"</item>
+        <item quantity="other">"%1$s chcú tento nápad"</item>
+    </plurals>
+    <plurals name="uv_people">
+        <item quantity="one">"osoba"</item>
+        <item quantity="other">"ľudia"</item>
+    </plurals>
+    <plurals name="uv_subscribers">
+        <item quantity="one">"odberateľ"</item>
+        <item quantity="other">"odberatelia"</item>
+    </plurals>
+    <string name="AsusWebstroage">AsusWebstorage</string>
+    <string name="AuCloud">AuCloud</string>
+    <string name="BaiDuPCS">BaiDuPCS</string>
+    <string name="Default">Predvolená hodnota</string>
+    <string name="Dropbox">Dropbox</string>
+    <string name="Google_Drive">Google Drive</string>
+    <string name="HomeCloud">HomeCloud</string>
+    <string name="OneDrive">OneDrive</string>
+    <string name="Yandex">Yandex</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Prejsť na plochu"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Prejsť hore"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Ďalšie možnosti"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Hotovo"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Zobraziť všetko"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Zvoľte aplikáciu"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"VYP."</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ZAP."</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Vyhľadať…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Vymazať dopyt"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Vyhľadávací dopyt"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Hľadať"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Odoslať dopyt"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Hlasové vyhľadávanie"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Zdieľať pomocou"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Zdieľať pomocou %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Zbaliť"</string>
+    <string name="about">Informácie</string>
+    <string name="account_asus">ASUS</string>
+    <string maxwidth="-1" name="action">Prih. sa</string>
+    <string description="cutstom action bar view title for about" maxwidth="-1" name="action_about">O</string>
+    <string description="action add files" maxwidth="-1" name="action_add">Pridať</string>
+    <string description="cutstom action bar view title for add folder" maxwidth="-1" name="action_add_folder">Pridať priečinok</string>
+    <string description="View title of custom action bar, apply to multiple selected files" maxwidth="-1" name="action_apply_selected_file">Použiť</string>
+    <string description="action cancel" maxwidth="-1" name="action_cancel">Zrušiť</string>
+    <string maxwidth="-1" name="action_clean">"Vyčistiť"</string>
+    <string maxwidth="-1" name="action_clean_all">"Vyčistiť všetko"</string>
+    <string description="cutstom action bar view title for clear search history" maxwidth="" name="action_clear_history">Vymazať históriu vyhľadávania</string>
+    <string description="cutstom action bar view title for edit" maxwidth="" name="action_edit">"Upraviť"</string>
+    <string maxwidth="" name="action_hidden_zone">"Presunúť do Tajnej skrinky"</string>
+    <string description="cutstom action bar view title for hinde system file" maxwidth="-1" name="action_hind_system_file">Skryť systémové súbory</string>
+    <string name="action_loading">"Načítava sa..."</string>
+    <string description="cutstom action bar view title for open with" maxwidth="" name="action_open_with">"Otvoriť s..."</string>
+    <string name="action_refresh_cloudfile">"Obnoviť"</string>
+    <string maxwidth="-1" name="action_restore">"Obnoviť"</string>
+    <string maxwidth="-1" name="action_restore_all">"Obnoviť všetko"</string>
+    <string description="cutstom action bar view title for search" maxwidth="" name="action_search">Hľadať</string>
+    <string description="cutstom action bar view title for set as" maxwidth="" name="action_set_as">"Obrázok uložiť ako"</string>
+    <string description="menu title for setting" maxwidth="-1" name="action_settings">"Nastavenia"</string>
+    <string description="cutstom action bar view title for sharing" maxwidth="-1" name="action_share">"Zdieľať"</string>
+    <string description="String for asking for the rule of sorting" maxwidth="-1" name="action_sort_by">Zoradiť podľa</string>
+    <string description="cutstom action bar view title for zip" maxwidth="" name="action_zip">Skomprimovať</string>
+    <string description="Dialog title: Add cloud storage" maxwidth="-1" name="add_cloud_storage_dialog_title">Pridať Cloud Storage</string>
+    <string name="add_favorite">Pridať do obľúb.</string>
+    <string name="add_favorite_folder">"Pridať priečinok s obľúbenými položkami"</string>
+    <string name="add_favorite_success">Uložiť do obľúb.</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="add_progress">Vytvára sa...</string>
+    <string description="Don&apos;t remind me again" maxwidth="-1" name="alert_cb_msg">Znova nepripomínať</string>
+    <string description="ASUS ZenUI Services is not support, need update ASUS ZenUI Services" maxwidth="-1" name="alert_msg_azs_update">%1$s si vyžaduje najnovšiu verziu aplikácie ASUS ZenUI Services, nainštalujte ju teraz.</string>
+    <string description="Client app is not support, need update client app" maxwidth="-1" name="alert_msg_client_update">K dispozícii je nová verzia %1$s, nainštalujte ju teraz.</string>
+    <string description="Client app version is compatible with ASUS ZenUI Services" maxwidth="-1" name="alert_msg_compatible">Verzia %1$s je kompatibilná so službami ASUS ZenUI Services.</string>
+    <string description="Client app version is match with ASUS ZenUI Services" maxwidth="-1" name="alert_msg_match">Verzia %1$s vyhovuje službám ASUS ZenUI Services.</string>
+    <string description="ASUS ZenUI Services is not found on device" maxwidth="-1" name="alert_msg_not_found">ASUS ZenUI Services neboli nainštalované!\n\nPrejdite na Súbory na prevzatie a vykonajte inštaláciu?</string>
+    <string description="Dialog title" maxwidth="-1" name="alert_title">Poznámka</string>
+    <string description="Dialog title" maxwidth="-1" name="alert_title_update">Odporúča sa aktualizovať </string>
+    <string name="app_cloudstorage_name">CloudStorage</string>
+    <string name="app_upload_complete">"Nahrávanie dokončené na %s"</string>
+    <string description="" name="article_one">Súhlasím s \„<u>Oznámením o podmienkach používania</u>\“ ASUS, \„<u>Ochranou osobných údajov</u>\“ ASUS, \„<u>Oznámením o podmienkach používania</u>\“ ASUS WebStorage, \„<u>Ochranou osobných údajov</u>\“ ASUS WebStorage.</string>
+    <string description="" name="article_two">Informujte ma prostredníctvom eDMSS o novinkách ASUS, aktualizáciách softvéru a najnovších informáciách o produktoch a službách.</string>
+    <string description="Text for create asus account button." maxwidth="" name="asus_account_create_button">Vytv. nové</string>
+    <string name="asus_account_integrate_dialog_content">Chcete spojiť službu ASUS Cloud Storage s kontom ASUS? \n\n Po tomto spojení môžu byť všetky služby ASUS použité z rovnakého konta.</string>
+    <string name="asus_account_integrate_dialog_skip">Preskočiť</string>
+    <string name="asus_account_integrate_dialog_title">Spojiť služby ASUS</string>
+    <string name="asus_account_integrate_dialog_yes">Áno</string>
+    <string description="Text for asus account content 1st." maxwidth="" name="asus_account_msg_content_1">podpornú službu Personal ASUS a rozšírenie záruky na registrované výrobky;</string>
+    <string description="Text for asus account content 2nd." maxwidth="" name="asus_account_msg_content_2">5 GB voľného miesta úložiska cloud;</string>
+    <string description="Text for asus account content 3rd." maxwidth="" name="asus_account_msg_content_3">najnovšie informácie o príslušenstve a vylepšených výrobkoch.</string>
+    <string description="Text for asus account content title." maxwidth="" name="asus_account_msg_title">Vytvoriť konto ASUS s cieľom získať:</string>
+    <string name="asus_account_only_one_alert">"Iba jedno konto ASUS môže byť pridané. Musíte zrušiť svoje aktuálne konto pred jeho výmenou za nové."</string>
+    <string name="asus_account_prefc">"Nastavenia"</string>
+    <string name="asus_account_prefc_advc">"Rozšírené nastavenia"</string>
+    <string name="asus_account_registe_country_error">Vyberte jednu krajinu alebo región!</string>
+    <string name="asus_account_registe_id_error">Chyba e-mailu</string>
+    <string name="asus_account_registe_policy_error">Ak chcete zaregistrovať konto ASUS, musíte súhlasiť s politikou ASUS!</string>
+    <string name="asus_account_registe_pw_error_1">Heslo nesmie byť prázdne!</string>
+    <string name="asus_account_registe_pw_error_2">Potvrdené heslo nesmie byť prázdne!</string>
+    <string name="asus_account_registe_pw_error_3">Heslo a potvrdenie musia byť zhodné!</string>
+    <string name="asus_account_registe_pw_error_4">"Heslo musí obsahovať 8 až 25 znakov."</string>
+    <string name="asus_account_removeaccount_dialog_content">"Konto bolo úspešne integrované. Znova sa prihláste pomocou nového konta."</string>
+    <string name="asus_account_removeaccount_dialog_title">"Konto ASUS bolo úspešne integrované"</string>
+    <string name="asus_commonui_activity_chooser_view_see_all">"Zobraziť všetky"</string>
+    <string name="asus_commonui_activity_resolver_use_always">"Vždy"</string>
+    <string name="asus_commonui_activity_resolver_use_once">"Len raz"</string>
+    <string name="asus_commonui_activitychooserview_choose_application">"Zvoľte aplikáciu"</string>
+    <string name="asus_commonui_activitychooserview_choose_application_error">
+        "Aplikáciu <ns1:g id="APPLICATION_NAME">%s</ns1:g> nie je možné spustiť"</string>
+    <string name="asus_commonui_cancel_label">"Zrušiť"</string>
+    <string name="asus_commonui_chooseActivity">"Zvoľte akciu"</string>
+    <string msgid="3968620852217927702" name="asus_commonui_day_picker_description">"Tabuľka dní v mesiaci"</string>
+    <string msgid="6908431551612331381" name="asus_commonui_deleted_key">"<ns1:g id="KEY">%1$s</ns1:g> odstránené"</string>
+    <string name="asus_commonui_done_label">"OK"</string>
+    <string msgid="7586639618712934060" name="asus_commonui_hour_picker_description">"Kruhový posúvač hodín"</string>
+    <string msgid="2674929164900463786" name="asus_commonui_item_is_selected">"Bola vybratá položka <ns1:g id="ITEM">%1$s</ns1:g>"</string>
+    <string msgid="6024811202872705251" name="asus_commonui_minute_picker_description">"Kruhový posúvač minút"</string>
+    <string name="asus_commonui_noApplications">"Túto akciu nemôžu vykonávať žiadne aplikácie."</string>
+    <string name="asus_commonui_no_url_handler">Webovú adresu nemôže otvoriť žiadna aplikácia</string>
+    <string name="asus_commonui_privacy_policy">Zásady ochrany osobných údajov</string>
+    <string name="asus_commonui_privacy_policy_url">http://www.asus.com/SK/Terms_of_Use_Notice_Privacy_Policy/Privacy_Policy</string>
+    <string msgid="3973338219107019769" name="asus_commonui_select_day">"Vyberte mesiac a deň"</string>
+    <string msgid="7651068754188418859" name="asus_commonui_select_hours">"Vyberte hodiny"</string>
+    <string msgid="8327182090226828481" name="asus_commonui_select_minutes">"Vyberte minúty"</string>
+    <string msgid="2603330600102539372" name="asus_commonui_select_year">"Vyberte rok"</string>
+    <string name="asus_commonui_shareactionprovider_share_with">"Zdieľať s"</string>
+    <string name="asus_commonui_shareactionprovider_share_with_application">
+        "Zdieľať s aplikáciou <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string name="asus_commonui_terms_of_use_notice">Upozornenie na podmienky používania</string>
+    <string name="asus_commonui_terms_of_use_notice_url">http://www.asus.com/SK/Terms_of_Use_Notice_Privacy_Policy/Official_Site/</string>
+    <string name="asus_commonui_whichApplication">"Dokončiť akciu pomocou aplikácie"</string>
+    <string name="asus_commonui_whichHomeApplication">"Vyberte domovskú aplikáciu"</string>
+    <string msgid="6963340404644587098" name="asus_commonui_year_picker_description">"Zoznam rokov"</string>
+    <string name="asus_feedback_and_help">Spätná väzba a pomocník</string>
+    <string name="asus_registe_success_title">"Konto ASUS bolo úspešne zaregistrované"</string>
+    <string name="asus_response_resultdata">"Toto konto je už zaregistrované."</string>
+    <string name="asusaccount_app_name">Konto ASUS</string>
+    <string maxwidth="-1" name="attribution_notice">"Upozornenie o atribútoch"</string>
+    <string maxwidth="-1" name="attribution_notice_content">
+    \nTento produkt obsahuje ďalej uvedený softvér s otvoreným zdrojovým kódom:
+\n\nuservoice-android-sdk, na ktorý sa vzťahuje licencia Apache License Version 2.0. Licencia sa dá prevziať zo stránky http://www.apache.org/licenses/LICENSE-2.0.html .
+        \n\nangular-filemanager, na ktorý sa vzťahuje licencia MIT. Licencia sa dá prevziať zo stránky https://github.com/joni2back/angular-filemanager/blob/master/LICENSE .
+        \n\nprogressbar, na ktorý sa vzťahuje licencia MIT. Licencia sa dá prevziať zo stránky https://github.com/kimmobrunfeldt/progressbar.js/blob/master/LICENSE .
+        \n\ntoastr, Copyright (c) 2012-2015 John Papa, Tim Ferrell, Hans Fjällemark\nVýslovne sa bezplatne každej osobe udeľuje povolenie na získanie kópie tohto softvéru a súvisiacich dokumentačných súborov („Softvér“), na používanie Softvéru bez obmedzenia, ktoré zahŕňa práva na používanie, kopírovanie, úpravy, zlúčenie, uverejnenie, šírenie, udeľovanie zástupnej licencie a/alebo predávanie kópií Softvéru. Osoby, ktoré tak robia, sa musia riadiť nasledujúcimi podmienkami:
+        Hore uvedené vyhlásenie o autorských právach a oznámenie o povolení musia byť zahrnuté vo všetkých kópiách alebo čiastkových dieloch Softvéru. SOFTVÉR JE VÁM POSKYTOVANÝ „TAK AKO JE“ BEZ VÝSLOVNEJ ANI PREDPOKLADANEJ ZÁRUKY AKÉHOKOĽVEK DRUHU, OKREM INÉHO ZÁRUK PREDAJNOSTI, VHODNOSTI NA URČITÝ ÚČEL A NEPORUŠENIE PODMIENOK. AUTORI ANI DRŽITELIA AUTORSKÝCH PRÁV NEBUDÚ ZA ŽIADNYCH OKOLNOSTÍ ZODPOVEDNÍ ZA ŽIADNE NÁROKY, ŠKODY ANI INAK, ČI UŽ VYPLYNULI ZO ZMLUVY, NEDBALOSTI ALEBO INAK, VZNIKNUTÉ PRI POUŽÍVANÍ SOFTVÉRU ALEBO V SPOJITOSTI S NÍM ALEBO PRI INÝCH ČINNOSTIACH SO SOFTVÉROM.
+    </string>
+    <string name="aucloud_account_only_one_alert">"Iba jedno konto Cloud môže byť pridané. Musíte zrušiť svoje aktuálne konto pred jeho výmenou za nové."</string>
+    <string description="string indicating how camera shooting feature is used" maxwidth="-1" name="auto">Auto</string>
+    <string maxwidth="-1" name="aws_install_contnet">WebStorage nie nainštalovaný. Chcete ho prevziať a nainštalovať z Play Store?</string>
+    <string maxwidth="" name="aws_install_title">WebStorage nie je nainšt.</string>
+    <string description="button text." maxwidth="-1" name="back_button_label">Späť</string>
+    <string name="baidu_alert_info">"Toto zariadenie môže podľa platformy Baidu získať prístup k údajom iba v položkách "Údaje mojej aplikácie\\asus\\"."</string>
+    <string name="baidu_alert_title">"Ukladací priestor Baidu Cloud"</string>
+    <string name="baidu_storage_title">"百度云"</string>
+    <string name="baidupcs_account_only_one_alert">"Iba jeden ovládač Baidu môže byť pridaný pre konto ASUS. Musíte zrušiť svoje aktuálne konto pred jeho výmenou za nové."</string>
+    <string name="btn_OK">OK</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="calculate_progress">"Prebieha..."</string>
+    <string description="Toast: can not open in hidden zone" maxwidth="-1" name="can_not_open_in_hidden_zone">"Nedá sa otvoriť v Tajnej skrinke"</string>
+    <string description="Dialog Button: cancel for dialog" maxwidth="" name="cancel">Zrušiť</string>
+    <string name="cancle">Zrušiť</string>
+    <string name="category_apk">Aplikácie</string>
+    <string maxwidth="11" name="category_app1">"Aplikácie"</string>
+    <string name="category_compress">"Skomprimované"</string>
+    <string maxwidth="11" name="category_compressed1">"Skomprimované"</string>
+    <string name="category_count">"%s"</string>
+    <string maxwidth="11" name="category_document1">"Dokumenty"</string>
+    <string name="category_documents">"Dokumenty"</string>
+    <string name="category_download">Prevziať</string>
+    <string maxwidth="11" name="category_download1">"Prevzaté súbory"</string>
+    <string name="category_favorite">Obľúbené</string>
+    <string maxwidth="11" name="category_favorite1">"Obľúbené"</string>
+    <string name="category_game">"Hry"</string>
+    <string name="category_image">Obraz</string>
+    <string maxwidth="11" name="category_image1">"Obrazy"</string>
+    <string maxwidth="11" name="category_large_file1">"Veľké súbory"</string>
+    <string name="category_music">Hudba</string>
+    <string maxwidth="11" name="category_music1">"Hudba"</string>
+    <string name="category_name_app_wallpaper">"Aktívne tapety"</string>
+    <string name="category_name_app_widgets">"Miniaplikácie"</string>
+    <string name="category_name_books_and_reference">"Knihy a referenčné materiály"</string>
+    <string name="category_name_business">"Biznis"</string>
+    <string name="category_name_comics">"Komiksy"</string>
+    <string name="category_name_communication">"Komunikácia"</string>
+    <string name="category_name_education">"Vzdelanie"</string>
+    <string name="category_name_entertainment">"Zábava"</string>
+    <string name="category_name_finance">"Financie"</string>
+    <string name="category_name_game">"Hry"</string>
+    <string name="category_name_game_action">"Akčné"</string>
+    <string name="category_name_game_adventure">"Dobrodružné"</string>
+    <string name="category_name_game_arcade">"Arkády"</string>
+    <string name="category_name_game_board">"Stolové hry"</string>
+    <string name="category_name_game_card">"Kartové"</string>
+    <string name="category_name_game_casino">"Kasíno"</string>
+    <string name="category_name_game_casual">"Jednoduché hry"</string>
+    <string name="category_name_game_educational">"Náučné"</string>
+    <string name="category_name_game_family">"Rodinné"</string>
+    <string name="category_name_game_music">"Hudba"</string>
+    <string name="category_name_game_puzzle">"Hlavolamy"</string>
+    <string name="category_name_game_racing">"Preteky"</string>
+    <string name="category_name_game_role_playing">"Hry na hrdinov"</string>
+    <string name="category_name_game_simulation">"Simulácie"</string>
+    <string name="category_name_game_sports">"Športové hry"</string>
+    <string name="category_name_game_strategy">"Strategické"</string>
+    <string name="category_name_game_trivia">"Kvízy"</string>
+    <string name="category_name_game_word">"Slovné hry"</string>
+    <string name="category_name_health_and_fitness">"Zdravie a fitnes"</string>
+    <string name="category_name_libraries_and_demo">"Knižnice a ukážky"</string>
+    <string name="category_name_lifestyle">"Životný štýl"</string>
+    <string name="category_name_media_and_video">"Médiá a video"</string>
+    <string name="category_name_medical">"Medicína"</string>
+    <string name="category_name_music_and_audio">"Hudba a zvuk"</string>
+    <string name="category_name_news_and_magazines">"Noviny a časopisy"</string>
+    <string name="category_name_personalization">"Prispôsobenie"</string>
+    <string name="category_name_photography">"Fotografia"</string>
+    <string name="category_name_productivity">"Produktivita"</string>
+    <string name="category_name_shopping">"Nakupovanie"</string>
+    <string name="category_name_social">"Sociálne siete"</string>
+    <string name="category_name_sports">"Športové"</string>
+    <string name="category_name_tools">"Nástroje"</string>
+    <string name="category_name_transportation">"Doprava"</string>
+    <string name="category_name_travel_and_local">"Cestovanie a miestne informácie"</string>
+    <string name="category_name_weather">"Počasie"</string>
+    <string name="category_others">"Iné"</string>
+    <string maxwidth="11" name="category_recent1">"Najnovšie"</string>
+    <string name="category_recent_files">"Nedávno pridané"</string>
+    <string name="category_sorting_summary">"Zvoľte položky, ktoré sa zobrazujú na obrazovke Kategória"</string>
+    <string name="category_title_category">Kategória</string>
+    <string name="category_title_local_storage">Miestna pamäť</string>
+    <string name="category_title_tools">"Nástroje"</string>
+    <string name="category_toast_invalid_item_size_6_or_9">"Zvoľte 6 alebo 9 položiek"</string>
+    <string name="category_toast_invalid_item_size_9">"Zvoľte 9 položiek"</string>
+    <string name="category_toast_invalid_remove">"Túto položku nemôže odstrániť"</string>
+    <string name="category_toast_max_item_size">"Zvoľte minimálne 9 položiek"</string>
+    <string name="category_video">Video</string>
+    <string maxwidth="11" name="category_video1">"Videá"</string>
+    <string name="clear_account_info">Zabudnúť všetky kontá</string>
+    <string description="Menu Option: clear all checkbox" maxwidth="" name="clear_all">Vymazať všetky</string>
+    <string name="click_plus_to_add_favorite_folder">"Ak chcete pridať priečinok s obľúbenými položkami, ťuknite na znamienko +"</string>
+    <string description="Toast: The size is over the limit and cannot be uploaded" maxwidth="-1" name="cloud_download_flie_limit_space">Veľkosť prekračuje limit a súbor nemožno nahrať</string>
+    <string description="Toast: The name of the file uploaded is not supported by cloud server" maxwidth="-1" name="cloud_flie_name_not_supported">"Činnosť nemôže byť dokončená, pretože server služby Cloud nepodporuje názov súboru."</string>
+    <string description="home cloud get available devices fail" name="cloud_homebox_get_devices_fail">Vyhľadanie dostupných zariadení so službou HomeCloud zlyhalo</string>
+    <string description="home cloud has no available devices" name="cloud_homebox_no_available_devices">Žiadne dostupné zariadenia so službou HomeCloud</string>
+    <string description="home cloud device is sleep" name="cloud_homebox_status__info_Sleep">Spánok</string>
+    <string description="home cloud device is offline" name="cloud_homebox_status__info_offline">Nepripojené</string>
+    <string description="home cloud device is online" name="cloud_homebox_status__info_online">Pripojené</string>
+    <string description="home cloud device is offline" name="cloud_homebox_status_offline">Zariadenie nie je pripojené</string>
+    <string description="diaglog cloud background paste" name="cloud_paste_backgroud">Pozadie</string>
+    <string description="diaglog cloud  now is copy files" name="cloud_paste_copying">Kopíruje sa...</string>
+    <string description="diaglog cloud  current" name="cloud_paste_current">Aktuálny</string>
+    <string description="diaglog cloud  now is delete source files" name="cloud_paste_deleting">Odstraňujú sa zdrojové súbory...</string>
+    <string description="diaglog cloud  paste" name="cloud_paste_downloading">Preberanie súborov</string>
+    <string description="diaglog cloud  total" name="cloud_paste_total">Celkom</string>
+    <string description="diaglog cloud  paste uploading" name="cloud_paste_uploading">Nahrávanie súborov</string>
+    <string description="Toast: cloud preview action" maxwidth="-1" name="cloud_preview_action_fail">Náhľad súborov Cloud zlyhal.</string>
+    <string description="Toast: cloud share action" maxwidth="-1" name="cloud_share_action_fail">Zdieľanie súborov Cloud zlyhalo.</string>
+    <string description=">Do you want to remove" maxwidth="-1" name="cloud_storage_remove_hint">"Chcete sa odhlásiť z konta \"%s\"?"</string>
+    <string description="Dialog title: Remove cloud storage" maxwidth="-1" name="cloud_storage_remove_hint_title">Odhlásiť sa</string>
+    <string description=">Do you want to signin" maxwidth="-1" name="cloud_storage_sign_in">Pripojiť pomocou nasledovného konta:</string>
+    <string description="Dialog title: Signin cloud storage" maxwidth="-1" name="cloud_storage_sign_in_title">Pripojiť pomocou %s</string>
+    <string description=">Do you want to signout" maxwidth="-1" name="cloud_storage_sign_out">Naozaj sa chcete odhlásiť?</string>
+    <string description="Dialog title: Signout cloud storage" maxwidth="-1" name="cloud_storage_sign_out_title">Odpojiť</string>
+    <string description="Add more cloud storage" maxwidth="-1" name="cloud_storage_title">Pridať ďalšie Cloud Storage</string>
+    <string description="diaglog cloud  token is invalidate" name="cloud_token_invalidate">Tento znak je neplatný. Prihláste sa znova!</string>
+    <string description="Toast: The size is over the limit and cannot be uploaded" maxwidth="-1" name="cloud_upload_flie_limit_space">Veľkosť prekračuje limit a súbor nemožno nahrať</string>
+    <string name="com_facebook_image_download_unknown_error">Pri sťahovaní obrázka sa vyskytla neočakávaná chyba.</string>
+    <string name="com_facebook_internet_permission_error_message">Na prihlásenie sa v rozhraní WebView sa vyžaduje povolenie pre INTERNET</string>
+    <string name="com_facebook_internet_permission_error_title">Chyba súboru AndroidManifest</string>
+    <string name="com_facebook_like_button_liked">Páči sa mi to</string>
+    <string name="com_facebook_like_button_not_liked">Páči sa mi to</string>
+    <string name="com_facebook_loading">Načítava sa...</string>
+    <string name="com_facebook_loginview_cancel_action">Zrušiť</string>
+    <string name="com_facebook_loginview_log_in_button">Prihlásiť sa</string>
+    <string name="com_facebook_loginview_log_in_button_long">Prihlásiť sa cez Facebook</string>
+    <string name="com_facebook_loginview_log_out_action">Odhlásiť sa</string>
+    <string name="com_facebook_loginview_log_out_button">Odhlásiť sa</string>
+    <string name="com_facebook_loginview_logged_in_as">Prihlásený ako: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Prihlásený cez Facebook</string>
+    <string name="com_facebook_send_button_text">Odoslať</string>
+    <string name="com_facebook_share_button_text">Zdieľať</string>
+    <string name="com_facebook_tooltip_default">Novinka! Máte to pod kontrolou: vyberte, ktoré informácie chcete zdieľať s aplikáciami.</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Povoliť"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"Aplikácia <ns1:g id="APP_NAME">%1$s</ns1:g> bude fungovať až po povolení služieb Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Povoliť služby Google Play"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Inštalovať"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"Na spustenie aplikácie <ns1:g id="APP_NAME">%1$s</ns1:g> sa vyžadujú služby Google Play, ktoré na zariadení nemáte."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Inštalovať služby Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Chyba služieb Google Play"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"Aplikácia <ns1:g id="APP_NAME">%1$s</ns1:g> má problémy so službami Google Play. Skúste to znova."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"Aplikáciu <ns1:g id="APP_NAME">%1$s</ns1:g> nebude možné spustiť bez služieb Google Play, ktoré vaše zariadenie nepodporuje."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Aktualizovať"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"Aplikáciu <ns1:g id="APP_NAME">%1$s</ns1:g> bude možné spustiť až po aktualizácii služieb Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Aktualizácia služieb Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"Na spustenie aplikácie <ns1:g id="APP_NAME">%1$s</ns1:g> sa vyžadujú služby Google Play, ktoré sa momentálne aktualizujú."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Vyžaduje sa nová verzia služieb Google Play. Aktualizujú sa automaticky v najbližšom čase."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Otvoriť v telefóne"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Prihlásiť sa"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Prihlásiť sa do účtu Google"</string>
+    <string name="confirm">"Potvrdiť"</string>
+    <string maxwidth="-1" name="confirm_ok">OK</string>
+    <string description="confirm password textview title" name="confirm_password">Potvrďte heslo</string>
+    <string description="ask user to enter password again to confirm" name="confirm_password_edit">Heslo zadajte znovu</string>
+    <string description="content" maxwidth="-1" name="content">"Používanie tohto softvéru sa riadi podmienkami a ustanoveniami na webovej stránke ASUS: \nhttp://www.asus.com"</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="copy">Kopírovať</string>
+    <string description="Toast: copy ready" maxwidth="-1" name="copy_ready_more">Vybrané súbory boli skopírované a sú pripravené na prilepenie.</string>
+    <string description="Toast: copy ready. %s is variable string." maxwidth="-1" name="copy_ready_one">\"%s\" bol skopírovaný a je pripravený na prilepenie.</string>
+    <string name="copy_to">Skopírovať do</string>
+    <string description="country region textview title" name="country_region">Región štátu</string>
+    <string description="ack user to select on country" name="country_region_select">Vyberte svoj región</string>
+    <string name="create_shortcut">"Vytvoriť klávesová skratku"</string>
+    <string name="create_shortcut_dialog">"Vytvoriť klávesovú skratku pre spúšťač aplikácií"</string>
+    <string name="create_shortcut_toast">"Vytvorenie klávesovej skratky pre spúšťač aplikácií je dokončené"</string>
+    <string name="cta_agree">"Povoliť"</string>
+    <string name="cta_check_title">"Zapamätať"</string>
+    <string name="cta_dialog_content"><b>Správca súborov</b> sa pokúša použiť sieť, v závislosti od predplatenia môžu byť účtované ďalšie poplatky.</string>
+    <string name="cta_dialog_title">"Používanie siete"</string>
+    <string name="cta_disagree">"Zamietnuť"</string>
+    <string name="cta_show_menu">"Povolenie siete"</string>
+    <string name="current_folder">"Aktuálny priečinok"</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="cut">Vystrihnúť</string>
+    <string description="Toast: cut ready" maxwidth="-1" name="cut_ready_more">Vybrané súbory boli vystrihnuté a sú pripravené na prilepenie.</string>
+    <string description="Toast: cut ready. %s is variable string." maxwidth="-1" name="cut_ready_one">"\"%s\" je vystrihnutý a je pripravený na prilepenie."</string>
+    <string description="button text for sort file by date" maxwidth="-1" name="date">Dátum</string>
+    <string description="button text for sort file by date ascending" maxwidth="-1" name="date_ascending">Dátum (najstarší - najnovší)</string>
+    <string description="button text for sort file by date descending" maxwidth="-1" name="date_descending">Dátum (najnovší - najstarší)</string>
+    <string msgid="7984755014526510295" name="day">"1 deň"</string>
+    <string msgid="2070509222727852210" name="days">"<ns1:g id="DAYS">%s</ns1:g> d."</string>
+    <string maxwidth="-1" name="dbx_install_contnet">Dropbox nie nainštalovaný. Chcete ho prevziať a nainštalovať z Play Store?</string>
+    <string maxwidth="" name="dbx_install_title">Dropbox nie je nainšt.</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="delete">Vymazať</string>
+    <string description="Dialog Title: delete dialog title" maxwidth="" name="delete_dialog">Odstránenie súboru</string>
+    <string description="Toast: delete fails" maxwidth="-1" name="delete_fail">Chybné vymazanie súboru.</string>
+    <string description="Dialog Content: text in dialog. %d is variable number." maxwidth="" name="delete_more_files">Chcete vymazať %d položiek?</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="delete_one_directory">Chcete odstrániť adresár?</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="delete_one_files">Chcete vymazať súbor?</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="delete_progress">Mazanie...</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="delete_size">"Veľkosť: "</string>
+    <string description="Toast: delete success" maxwidth="-1" name="delete_success_more">Vybrané súbory boli vymazané.</string>
+    <string description="Toast: delete success. %s is variable string." maxwidth="-1" name="delete_success_one">"\"%s\" bol vymazaný."</string>
+    <string description="cutstom action bar view title for deselect all checkbox" maxwidth="" name="deselect_all">Zrušiť označenie všetkých</string>
+    <string name="device_root_path">koreňový priečinok</string>
+    <string description="compress dialog title" maxwidth="-1" name="dialog_create_zip_title">Zadanie názvu archívu</string>
+    <string description="extract zip file dialog title. %s is a dynamic string. It is zip file name." maxwidth="-1" name="dialog_extract_zip_title">Extrahovať %s do:</string>
+    <string name="dialog_load_stream_url_info">Získavam potrebné informácie zo servera</string>
+    <string name="dialog_msg_market_login_account">"Ak si chcete prevziať túto aplikáciu, prihláste sa na svoje konto Google"</string>
+    <string description="text encoding dialog title" maxwidth="-1" name="dialog_text_encoding_title">Kódovanie textu</string>
+    <string name="dialog_title_market_login_account">"Pridať konto"</string>
+    <string description="show zip info dialog title. %s is a dynamic string. Is is a zip file name" maxwidth="-1" name="dialog_unzip_preview_title">Vybrať %s</string>
+    <string description="Dialog Title: Directory information dialog title" maxwidth="-1" name="dir_info_dialog_title">Informácie o adresári</string>
+    <string name="display">"Zobraziť ako"</string>
+    <string name="display_hint">"Tento počítač, môže byť prázdne"</string>
+    <string name="dm_openfile">"Otvoriť súbor"</string>
+    <string name="do_not_show_again">"Toto hlásenie neukazovať znovu."</string>
+    <string name="domain">"Doména:"</string>
+    <string name="domain_hint">"Môže byť prázdne"</string>
+    <string name="download_fail">prevzatie zlyhalo!</string>
+    <string name="drag_items_one">Presunúť položku</string>
+    <string name="drag_items_other">Presunúť položky</string>
+    <string name="drawer_close">"Zavrieť navigačný panel"</string>
+    <string name="drawer_home">Domov</string>
+    <string name="drawer_open">"Otvoriť navigačný panel"</string>
+    <string description="Hint: the operation is incorrect" maxwidth="-1" name="drop_incorrect_hint">Nesprávna činnosť</string>
+    <string description="Hint: the target folder which you want to do something" maxwidth="-1" name="drop_target_to">Cieľ do:</string>
+    <string name="dumdownloadfrom">Prevziať z</string>
+    <string name="dumuploadto">Odoslať do</string>
+    <string name="duplicate_files">"Duplicitné súbory"</string>
+    <string name="duplicate_files_content_hint">"Vyhľadanie duplicitných súborov a ich odstránenie bez vášho dovolenia."</string>
+    <string name="edit_toast_name_too_long">Dosiahli ste maximálny počet znakov</string>
+    <string name="edit_toast_special_char">Nemožno používať špeciálne znaky.</string>
+    <string name="editcategory_hint">"Ťuknutím na tlačidlo Upraviť prispôsobte panel Kategória."</string>
+    <string description="describe the empty folder" maxwidth="-1" name="empty_folder_title">"Žiadne súbory"</string>
+    <string description="Dialog Button: click to open the encoding list dialog" maxwidth="-1" name="encode">Kódovanie textu</string>
+    <string description="ask user to enter password" maxwidth="-1" name="enter_password">"Zadajte heslo"</string>
+    <string name="eula_content_description">
+        \nTáto licenčná zmluva pre koncového používateľa (ďalej „EULA“) predstavuje platnú a záväznú zmluvu medzi spoločnosťou ASUSTeK Computer Inc. (ďalej „spoločnosť ASUS“) a vami ako používateľom oprávneným používať softvér ASUS (ďalej „Softvér“) v súlade s ďalej definovanými podmienkami a ustanoveniami. Pokračovaním v inštalácii a používaním softvéru VÝSLOVNE VYHLASUJETE, ŽE STE SI PREČÍTALI PODMIENKY TEJTO ZMLUVY EULA, POROZUMELI IM A SÚHLASÍTE S NIMI, AKO AJ S JEJ NOVÝMI VERZIAMI. 
+\n\n1.SOFTVÉR znamená Softvér ASUS, ktorý vám bol poskytnutý v príslušných výrobkoch ASUS alebo spolu s príslušnými výrobkami ASUS, okrem iného všetky budúce programové opravy, aktualizácie, inovácie a upravené verzie.
+\nSoftvér môže byť previazaný s iným softvérom ASUS alebo softvérom tretej strany, na ktorý sa vzťahuje jedna alebo viaceré bezplatné licencie na softvér s otvoreným zdrojovým kódom, ako je uvedené na webovej stránke www.opensource.org/licenses. Takýto bezplatný softvér s otvoreným zdrojovým kódom sa vám poskytuje výhradne v rámci príslušnej licenčnej zmluvy alebo oznámenia o autorských právach previazaných s licenčným súborom FOSS, ktorý je k Softvéru priložený. Podmienky a ustanovenia tejto zmluvy EULA sa NETÝKAJÚ takéhoto bezplatného softvéru s otvoreným zdrojovým kódom.
+\n\n2.LICENCIA V súlade s podmienkami a ustanoveniami tejto zmluvy EULA vám spoločnosť ASUS udeľuje obmedzenú osobnú nekomerčnú a nevýhradnú licenciu na používanie Softvéru výhradne zabudovaného vo výrobkoch ASUS. Len na účely zálohovania si môžete vytvoriť jednu kópiu Softvéru v počítačom čitateľnej podobe pod podmienkou, že záložná kópia musí obsahovať všetky oznámenia o autorských a vlastníckych právach, ktoré obsahuje originál. Táto licencia nesmie byť ďalej sublicencovaná a nie je prenositeľná okrem prípadu, že sa na osobu alebo subjekt, na ktoré prenášate vlastníctvo kompletných výrobkov ASUS obsahujúcich Softvér prenesú všetky práva v rámci tejto zmluvy EULA a neponecháte si žiadnu úplnú ani čiastočnú kópiu Softvéru, a príjemca súhlasí s podmienkami a ustanoveniami tejto zmluvy EULA.
+\n\n3.ZÁKAZ SPÄTNÉHO ROZOBERANIA Spätne rozoberať, dekompilovať, dešifrovať, rozkladať Softvér a tiež umožniť či vyvolať hore uvedené je zakázané, okrem prípadu, ak je to podľa platných zákonov právne vymáhateľné.
+\n\n4.DÔVERNOSŤ Musíte dbať na ochranu, zachovať utajenie a neumožniť odtajnenie dôverných údajov Softvéru vcelku ako aj jeho častí, okrem iného údaje, ktoré sú predmetom obchodného tajomstva, materiál s autorskými právami, tretím osobám v akejkoľvek forme.
+\n\n5.PRÁVA duševného vlastníctva Beriete na vedomie a súhlasíte s tým, že všetky práva duševného vlastníctva, oprávnenia a záujmy vyplývajúce zo Softvéru sú a musia zostať vo výhradnom vlastníctve spoločnosti ASUS alebo poskytovateľa licencie. Ničím sa v tejto zmluve EULA  na vás neprenášajú práva duševného vlastníctva. Akékoľvek nepovolené použitie práv duševného vlastníctva je porušenie tejto zmluvy EULA, ako aj porušenie zákonov na ochranu duševného vlastníctva, okrem iného zákonov týkajúcich sa autorských práv a zákonov týkajúcich sa ochranných známok.
+\nOdosielaním akýchkoľvek informácií, materiálov, nápadov, konceptov alebo techník (okrem osobných údajov) spoločnosti ASUS prostredníctvom Softvéru (ďalej „Odozva“) beriete na vedomie a súhlasíte s nasledovným: (I) Vaša Odozva nesmie obsahovať dôverné ani patentové informácie. (II) Spoločnosť ASUS nenesie žiadnu zodpovednosť za dôvernosť, výslovnú ani predpokladanú, týkajúcu sa Odozvy. (III) Spoločnosť ASUS má právo použiť alebo odtajniť (podľa vlastného rozhodnutia) Odozvu na akýkoľvek účel, ľubovoľným spôsobom na celom svete. (IV) Vaša Odozva sa stáva vlastníctvom spoločnosti ASUS bez akýchkoľvek záväzkov spoločnosti ASUS voči Vám. (V) Nemáte nárok na žiadnu kompenzáciu ani náhradu za to.
+\n\n6.PLATNOSŤ A UKONČENIE Táto zmluva EULA nadobúda účinnosť dňom inštalácie Softvéru. Túto Licenciu môžete ukončiť kedykoľvek úplným skončením používania Softvéru a odstránením Softvéru z výrobku ASUS. Vaše práva strácajú platnosť bez predchádzajúceho oznámenia od spoločnosti ASUS, ak sa budeme domnievať, že ste porušili akékoľvek ustanovenie tejto zmluvy EULA.
+\n\n7.Vyhlásenie o záruke a Obmedzenie záruky BERIETE NA VEDOMIE, ŽE SOFTVÉR SA POSKYTUJE „TAK AKO JE“. VŠETKY RIZIKÁ TÝKAJÚCE SA KVALITY A VÝKONU SOFTVÉRU, OKREM INÉHO TÝKAJÚCE SA NÁKLADOV NA NEVYHNUTNÝ SERVIS A OPRAVU, ZNÁŠATE VY. V MAXIMÁLNOM ROZSAHU POVOLENOM PLATNÝMI ZÁKONMI SPOLOČNOSŤ ASUS NEPOSKYTUJE ŽIADNE ZÁRUKY, VÝSLOVNÉ ANI ZÁKONNÉ, KTORÉ SA TÝKAJÚ TOHTO SOFTVÉRU, OKREM INÉHO ŽIADNE ZÁRUKY PREDAJNOSTI, VHODNOSTI NA URČITÝ ÚČEL ANI PRÁV, ANI ŽIADNU ZÁRUKU VYPLÝVAJÚCU Z POUŽÍVANIA ALEBO Z PRIEBEHU PLNENIA. SPOLOČNOSŤ ASUS TIEŽ NEPOSKYTUJE ŽIADNU ZÁRUKU TÝKAJÚCU SA VÝSLEDKOV ZÍSKANÝCH PRI POUŽÍVANÍ SOFTVÉRU ANI PRESNOSTI A SPOĽAHLIVOSTI AKÝCHKOĽVEK INFORMÁCIÍ ZÍSKANÝCH PROSTREDNÍCTVOM TOHTO SOFTVÉRU. V NIEKTORÝCH PRÁVNYCH SYSTÉMOCH NIE JE MOŽNÉ VYŇAŤ URČITÉ ZÁRUKY ALEBO ZAHRNÚŤ OBMEDZENIE, PRÍPADNE ZBAVIŤ SA ZODPOVEDNOSTI ZA URČITÉ ŠKODY. V SÚLADE S TÝM PRE VÁS NEMUSIA PLATIŤ NIEKTORÉ HORE UVEDENÉ VYHLÁSENIA A OBMEDZENIA ZODPOVEDNOSTI.
+\nVŠETKY RIZIKÁ VYPLÝVAJÚCE Z POUŽITIA ALEBO VÝKONU TOHTO SOFTVÉRU OSTÁVAJÚ NA VÁS. SPOLOČNOSŤ ASUS, POSKYTOVATELIA LICENCIÍ A JEJ PRÍSLUŠNÍ ÚRADNÍCI, VEDÚCI PRACOVNÍCI, ZAMESTNANCI, AGENTI ALEBO POBOČKY NIE SÚ ZA ŽIADNYCH OKOLNOSTÍ ZODPOVEDNÍ ZA ŽIADNE NÁSLEDNÉ, NÁHODNÉ, NEPRIAME, ZVLÁŠTNE, TRESTNÉ ANI ZA ŽIADNE INÉ ŠKODY (VRÁTANE ALE BEZ OBMEDZENIA NA STRATY NA ZISKU Z OBCHODU, PRERUŠENIA OBCHODU, STRATU OBCHODNÝCH INFORMÁCIÍ ALEBO INÝCH PEŇAŽNÝCH STRÁT) VYPLÝVAJÚCE Z TEJTO ZMLUVY ALEBO POUŽITIA ALEBO NEMOŽNOSTI POUŽITIA SOFTVÉRU, ALEBO OBSAHU, A TO ANI V PRÍPADE, ŽE BOLA SPOLOČNOSŤ ASUS OBOZNÁMENÁ S MOŽNOSŤOU TAKÝCHTO ŠKÔD. V NIEKTORÝCH PRÁVNYCH SYSTÉMOCH NIE JE MOŽNÉ VYŇAŤ URČITÉ ZÁRUKY ALEBO ZAHRNÚŤ OBMEDZENIE, PRÍPADNE ZBAVIŤ SA ZODPOVEDNOSTI ZA URČITÉ ŠKODY. V SÚLADE S TÝM PRE VÁS NEMUSIA PLATIŤ NIEKTORÉ HORE UVEDENÉ VYHLÁSENIA A OBMEDZENIA ZODPOVEDNOSTI.
+\n\n8.Beztrestnosť Súhlasíte s tým, že zbavujete spoločnosť ASUS a jej pobočky, poskytovateľov služieb, zmluvných partnerov, distribútorov, poskytovateľov licencií, úradníkov, vedúcich pracovníkov a zamestnancov akejkoľvek zodpovednosti, poškodenia, vyrovnania, straty alebo nákladov (okrem iného poplatkov za právne zastúpenie a náklady) vynaložené v súvislosti s akýmkoľvek VAŠIM porušením tejto zmluvy EULA alebo platných zákonov alebo predpisov, prípadne nárokov tretej strany.
+    </string>
+    <string name="eula_content_title">"Licenčná zmluva pre koncového používateľa"</string>
+    <string description="Do not translate ASUS" maxwidth="" name="eula_description">"Právna zmluva medzi aplikáciami ASUS a koncovými používateľmi"</string>
+    <string maxwidth="" name="eula_title">"Licenčná zmluva pre koncového používateľa"</string>
+    <string name="example">"Príklad:"</string>
+    <string description="Dialog Button: extract file for dialog" maxwidth="-1" name="extract">Vybrať</string>
+    <string name="facebook_app_invite">"Kontakty na Facebooku"</string>
+    <string name="fb_request_error_permissions">"Na prevzatie tejto aplikácie nie je daný súhlas. Skúste sa znova prihlásiť do tejto aplikácie."</string>
+    <string name="fileList_Nofiles">Žiadne súbory</string>
+    <string description="Dialog Title: File information dialog title" maxwidth="-1" name="file_info_dialog_title">Informácie o súbore</string>
+    <string description="Application Name shown on title" maxwidth="" name="file_manager">Správca súborov</string>
+    <string description="string indicating camera flash is not used" maxwidth="-1" name="flash_off">Bez blesku</string>
+    <string description="string indicating camera flash is fired" maxwidth="-1" name="flash_on">S bleskom</string>
+    <string description="click to retrieve password" maxwidth="-1" name="forget_password">"<u>Zabudli ste heslo?</u>"</string>
+    <string name="fragment_analyzer_allfiles_used_hint">"Využité:"</string>
+    <string name="fragment_analyzer_chart_free_hint">"Voľné:"</string>
+    <string name="fragment_analyzer_chart_total_hint">"Celkom:"</string>
+    <string name="fragment_analyzer_chart_used_hint">"VYUŽITÉ"</string>
+    <string name="fragment_analyzer_more_hint">"viac"</string>
+    <string name="google_app_invite">"Kontakty Google"</string>
+    <string name="group_title_installed">"Nainštalované"</string>
+    <string name="group_title_not_installed">"Nenainštalované"</string>
+    <string name="group_title_others">"Iné"</string>
+    <string name="group_title_recommended">"Odporúčané"</string>
+    <string name="hidden_zone_change_password">"Zmeniť heslo"</string>
+    <string name="hidden_zone_confirm_password">"Potvrdiť kód PIN"</string>
+    <string name="hidden_zone_enter_password">"Zadajte svoj kód PIN"</string>
+    <string name="hidden_zone_fingerprint_to_unlock">"Odtlačkom prsta odomknite"</string>
+    <string name="hidden_zone_forget_password">"Zabudnuté heslo"</string>
+    <string name="hidden_zone_introduction_description">"Skryte svoje súkromné súbory so Tajnej skrinky. Na otvorenie Tajnej skrinky je potrebný kód PIN."</string>
+    <string name="hidden_zone_password_mismatch">"Kód PIN sa nezhoduje"</string>
+    <string name="hidden_zone_set_password_success">"Heslo bolo úspešne nastavené"</string>
+    <string name="hidden_zone_setup_account">"Nastaviť konto"</string>
+    <string name="hidden_zone_setup_password">"Zadajte 4-ciferný kód PIN"</string>
+    <string name="hidden_zone_wrong_password">"Nesprávny kód PIN"</string>
+    <string description="Can’t connect to HomeCloud." maxwidth="-1" name="homecloud_access_error">Pripojenie k službe HomeCloud zlyhalo. Skontrolujte, že služba HomeCloud je on-line.</string>
+    <string name="homecloud_notice_1">ASUS HomeCloud je softvérová aplikácia bežiaca pod v operačnom systéme Windows. Bola navrhnutá ako knižnica pre domáce digitálne dáta a v súčasnosti poskytuje služby úložiska Cloud s možnosťou rozšírenia o viaceré služby v budúcnosti.</string>
+    <string name="homecloud_notice_2">Teraz si ju môžete prevziať a užívať. </string>
+    <string name="homecloud_notice_3">http://home.asuscloud.com/</string>
+    <string name="homecloud_toast_udp_unsupported">Obmedzený prístup k sieti. Obráťte sa na svojho správcu siete alebo sa pripojte k inej sieti.</string>
+    <string msgid="2546819039651509323" name="hour">"1 hodina"</string>
+    <string msgid="2071487018566991613" name="hours">"<ns1:g id="HOURS">%s</ns1:g> hod."</string>
+    <string maxwidth="" name="httpserver_acquire_permission_message">"Súborový server HTTP bude zatvorený a operácie môžu byť prerušené. Pokračovať?"</string>
+    <string maxwidth="" name="httpserver_connectwifiname">"Pripojiť k Wi-Fi AP:"</string>
+    <string maxwidth="" name="httpserver_description">"Ak chcete pripojiť svoje mobilné zariadenie k počítaču, spustite službu."</string>
+    <string maxwidth="" name="httpserver_instruction">"Túto adresu zadajte do prehliadača vo vašom počítači:"</string>
+    <string maxwidth="" name="httpserver_need_saf">"Ak chcete svoju externú pamäť spravovať z počítača, musíte udeliť povolenie."</string>
+    <string maxwidth="" name="httpserver_no_network">"Svoje zariadenie pripojte k rovnakej sieti Wi-Fi"</string>
+    <string maxwidth="" name="httpserver_no_permission_message">"Bez správneho povolenia nebudete môcť zapisovať do externej pamäte. Pokračovať?"</string>
+    <string maxwidth="" name="httpserver_no_permission_title">"Spustite bezdrôtový prenos súborov"</string>
+    <string maxwidth="" name="httpserver_start">"Spustiť"</string>
+    <string maxwidth="" name="httpserver_stop">"Zastaviť"</string>
+    <string maxwidth="" name="httpserver_title">"Bezdrôtový prenos súborov do počítača"</string>
+    <string description="Context Menu: options of context menu" maxwidth="-1" name="info">Informácie</string>
+    <string description="file info textview context" maxwidth="-1" name="info_aperture">"Clona: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_datetime">"Dátum nasnímania: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_exposure_time">"Doba expozície: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_file_num">"Počet súborov: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_flash">"Blesk: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_focal_length">"Ohnisk. vzd.: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_image_height">"Výška: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_image_width">"Šírka"</string>
+    <string description="file info textview context" maxwidth="-1" name="info_image_x">" x "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_iso">"ISO: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_location">"Poloha: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_maker">"Autor: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_model">"Model: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_modified">"Dátum úpravy: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_name">"Názov: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_orientation">"Orientácia: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_path">"Cesta: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_permission">"Povolenie: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_type">Тyp:</string>
+    <string description="file info textview context" maxwidth="-1" name="info_white_balance">"Vyváženie bielej: "</string>
+    <string description="Do not translate ASUS" maxwidth="" name="inspire_asus_description">"Zber údajov o využití pre spoločnosť ASUS, aby mohla zlepšovať svoje produkty a používateľskú skúsenosť"</string>
+    <string name="inspire_asus_title">"Inšpirujte spoločnosť ASUS"</string>
+    <string name="install">"Nainštalovať"</string>
+    <string description="storage label" maxwidth="-1" name="internal_storage_title">Vnútorná pamäť</string>
+    <string description="Toast: the account is invalid" maxwidth="-1" name="invalid_account">"Neplatné konto"</string>
+    <string description="Invalid directory path" maxwidth="-1" name="invalid_directory_path">Nesprávna prístupová cesta do adresára</string>
+    <string name="invalid_server_id">"Neplatné ident. číslo servera"</string>
+    <string name="invalid_xml">"Neplatný formát xml"</string>
+    <string name="inviteContentTitle">%1$s vás vyzval prevziať si a nainštalovať Správca súborov ASUS.</string>
+    <string name="inviteContent_p1">Správca súborov ASUS je ideálny spôsob spravovania súborov pomocou inteligentného zariadenia. Táto aplikácia na spravovanie súborov umožňuje spracúvať a triediť rôzne súbory uložené v pamäti telefónu, na karte microSD, v lokálnej počítačovej sieti a tiež v úložisku Cloud.</string>
+    <string name="inviteContent_p2">Spravujte svoje súbory efektívne a ľahko pomocou aplikácie Správca súborov ASUS! Pomocou aplikácia Správca súborov ASUS môžete spracúvať všetky svoje súbory bez ohľadu na to, či sú uložené v pamäti zariadenia, na karte microSD, v miestnej počítačovej sieti a konte úložiska Cloud, napríklad ako naše vlastné služby ASUS HomeCloud, Webstorage a ďalšie cloudové služby ako Dropbox, Google Drive alebo Microsoft OneDrive.</string>
+    <string name="inviteContent_p3">S Správca súborov ASUS sa bavím. Skúste to TERAZ! :D</string>
+    <string description="sticker detail page button name" maxwidth="-1" name="invite_friends">"Pozvať priateľov"</string>
+    <string name="item">položka</string>
+    <string name="items">položky</string>
+    <string name="keep">"Ponechať"</string>
+    <string name="kk_sd_permission_warning">Android 4.4 nepovoľuje aplikáciám 3. strany upravovať externé karty 3D vzhľadom na obmedzenia systému Android.</string>
+    <string name="large_files_content_hint">"Vyhľadanie veľkých súborov a ich odstránenie s vaším povolením."</string>
+    <string description="linked file is missing" maxwidth="-1" name="linked_file_missing">"Chýba prepojený súbor"</string>
+    <string description="text for progress bar" maxwidth="-1" name="loading">"Prebieha načítavanie..."</string>
+    <string name="local">Miestne</string>
+    <string description="button text for sort file by date" maxwidth="-1" name="location">"Poloha"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="logging_cloud_storage">Prihlasuje sa...</string>
+    <string name="login_account_miss">"Aplikácii Facebook sa nepodarilo zaregistrovať Android Account Manager. Skúste sa odhlásiť cez aplikáciu Facebook a potom skúste znova."</string>
+    <string name="login_again_later">"Server je momentálne nedostupný. Skúste znova neskôr, prosím."</string>
+    <string description="dialog title, key in the asus ID and PW to Login account" maxwidth="-1" name="login_asus_id">"Prihlásenie sa na konto ASUS"</string>
+    <string description="Toast: login account fail" name="login_fail" width="-1">Prihlásenie zlyhalo</string>
+    <string description="login account name" maxwidth="-1" name="login_id">"Názov konta/Ident. č. WebStorage"</string>
+    <string description="logout account" name="logout_account" width="-1">Odhlásiť sa</string>
+    <string name="low_storage_tutorial_description">Súbory vyberte tak, že na ne ťuknete a podržíte na nich prst a potom vyberte možnosť „Presunúť do“ Google Drive</string>
+    <string name="low_storage_tutorial_title">Súbory presunúť do Google Drive</string>
+    <string name="m_permission_dialog_message">"Ťuknutím na [Nastavenie] zapnite povolenie [%2$s] v položke [Informácie o aplikácii] > [Povolenia]. Potom reštartujte %1$s."</string>
+    <string name="m_permission_dialog_positive_button">"Nastavenie"</string>
+    <string name="m_permission_setting_subtitle_files">"%1$s vyžaduje povolenie k položke %2$s, aby bol možný prístup k súborom v zariadení."</string>
+    <string name="m_permission_setting_title_cloud_storage">"Prístup k ukladaciemu priestoru Cloud nie je možný"</string>
+    <string name="m_permission_setting_title_files">"Prístup k súborom nie je možný"</string>
+    <string name="m_permission_setting_turn_on">"Zapnúť"</string>
+    <string description="string indicating how camera shooting feature is used" maxwidth="-1" name="manual">Ručne</string>
+    <string name="market_app_error">"V nainštalovanej aplikácii Market Aplication APP vo vašom zariadení došlo k chybe!"</string>
+    <string description="ask user to enter email address as account name" maxwidth="-1" name="member_id_hint">"Zadajte e-mailovú adresu"</string>
+    <string description="The title of a menu for General Preferences.Pressing the menu item lets user to view and edit his general settings" maxwidth="30" name="menu_general_preferences">"Všeobecné nastavenia"</string>
+    <string description="settings menu tutorial" maxwidth="-1" name="menu_tutorial">Školiaci program</string>
+    <string msgid="2486157997434653710" name="minute">"1 minúta"</string>
+    <string msgid="6115838729146292526" name="minutes">"<ns1:g id="MINUTES">%s</ns1:g> min."</string>
+    <string description="Hint: move the items" maxwidth="-1" name="move">Presunúť</string>
+    <string name="move_or_delete_msg">"Odstrániť teraz dočasne položky do Koša?\n(Začiarknutím políčka dole odstránite položky natrvalo.)"</string>
+    <string name="move_to">Pres. do</string>
+    <string description="Toast: move to recycle bin fails" maxwidth="-1" name="move_to_hidden_zone_fail">"Nepodarilo sa presunúť do Tajnej skrinky"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="move_to_hidden_zone_progress">"Presúva sa do Tajnej skrinky..."</string>
+    <string description="Toast: move to recycle bin success" maxwidth="-1" name="move_to_hidden_zone_success_more">"Vybrané súbory boli presunuté do Tajnej skrinky."</string>
+    <string description="Toast: move to recycle bin success. %s is variable string." maxwidth="-1" name="move_to_hidden_zone_success_one">"\"%s\" bolo presunuté do Tajnej skrinky."</string>
+    <string description="Toast: move to recycle bin fails" maxwidth="-1" name="move_to_trash_fail">"Nepodarilo sa premiestniť do Koša"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="move_to_trash_progress">"Premiestňuje sa do Koša..."</string>
+    <string description="Toast: move to recycle bin success" maxwidth="-1" name="move_to_trash_success_more">"Vybraný súbor bol premiestnený do Koša"</string>
+    <string description="Toast: move to recycle bin success. %s is variable string." maxwidth="-1" name="move_to_trash_success_one">"\"%s\" premiestnené do Koša"</string>
+    <string name="msg_too_big_to_recycle">"Položky sú príliš veľké na Kôš.\nChcete ich natrvalo odstrániť?"</string>
+    <string name="multi_drm_file_forbidden_operation">Táto akcia je zakázaná, pretože niektoré vybrané súbory sú chránené DRM.</string>
+    <string description="shortcut label" maxwidth="-1" name="my_camera_title">Kamera</string>
+    <string description="shortcut label" maxwidth="-1" name="my_download_title">Stiahnuť</string>
+    <string description="shortcut label" maxwidth="-1" name="my_music_title">Hudba</string>
+    <string description="shortcut label" maxwidth="-1" name="my_picture_title">Obrázok</string>
+    <string description="storage label" maxwidth="-1" name="my_storage_title">Moja pamäť</string>
+    <string description="button text for sort file by name" maxwidth="-1" name="name">Názov</string>
+    <string description="button text for sort file by name ascending" maxwidth="-1" name="name_ascending">Meno (z - a)</string>
+    <string description="button text for sort file by name descending" maxwidth="-1" name="name_descending">Meno (a - z)</string>
+    <string name="network_cta_hint">"Prijmite pripojenie k sieti"</string>
+    <string name="network_invalid">"Neplatné pripojenie k sieti"</string>
+    <string name="network_invalid_info">"Pripojenie je neplatné. Znova skontrolujte."</string>
+    <string name="network_not_available">"Sieťové pripojenie zlyhalo."</string>
+    <string description="Can’t connect to networkpalce" maxwidth="-1" name="networkplace_access_error">"Pripojenie zlyhalo. Server musí byť v režime on-line."</string>
+    <string name="networkplace_storage_title">"Miesto v sieti"</string>
+    <string description="Dialog Title: create new folder" maxwidth="" name="new_folder_dialog">Vytvoriť nový priečinok</string>
+    <string description="Toast: new folder fails" maxwidth="-1" name="new_folder_fail">Vytvorenie nového priečinka zlyhalo.</string>
+    <string description="Toast: new folder success. %s is variable string." maxwidth="-1" name="new_folder_success">Priečinok \"%s\" bol vytvorený.</string>
+    <string maxwidth="" name="news_1"><b>Prispôsobiteľná domovská obrazovka</b>: Teraz si môžete domovskú obrazovku prispôsobiť s rôznymi kategóriami a poradiami.</string>
+    <string maxwidth="" name="news_2"><b>Obľúbený výber</b>: Priečinok s obľúbenými položkami pridajte priamo z kategórie obľúbených položiek.</string>
+    <string maxwidth="" name="news_3"><b>Miniaplikácia Správca súborov</b>: V spúšťači aplikácií vytvorte odkaz na priečinok.</string>
+    <string maxwidth="" name="news_mark1">"★  "</string>
+    <string maxwidth="" name="news_subtitle">"Je tu väčšia aktualizácia,ktorú by ste si nemali nechať ujsť."</string>
+    <string maxwidth="" name="news_title">"Služba What's New"</string>
+    <string maxwidth="" name="news_v21">"<b>Bezdrôtový prenos súborov do alebo z počítača</b>: Súbory prenášajte alebo spravujte v počítači alebo z neho"</string>
+    <string maxwidth="" name="news_v23">"Zvýšenie výkonu a opravy chýb"</string>
+    <string maxwidth="" name="news_v31">"Analyzátor miesta na ukladanie vám dá vedieť typ súborov, ktoré zaberajú všetko miesto na ukladanie"</string>
+    <string maxwidth="" name="news_v32">"Nová vylepšená kategória aplikácií"</string>
+    <string name="news_v41">"Skryte svoje súkromné súbory do Tajnej skrinky"</string>
+    <string name="news_v42">"Obnovte odstránené súbory z Koša"</string>
+    <string name="news_v43">"Cez Analyzátor uklad. priestoru odstráňte duplicitné súbory"</string>
+    <string name="news_v44">"Nová funkcia zobrazenia – Nočný režim"</string>
+    <string name="news_v45">"Vylepšený výkon"</string>
+    <string name="news_v46">"Opravené chyby"</string>
+    <string name="newversion_description">"Teraz je k dispozícii aktualizovaná verzia Správca súborov. Chcete aktualizovať teraz?"</string>
+    <string name="newversion_title">"Nová verzia"</string>
+    <string name="next">Ďalej</string>
+    <string description="Dialog Button: no for dialog" maxwidth="" name="no">Nie</string>
+    <string name="no_device">"Žiadne zariadenie"</string>
+    <string name="no_items">"Žiadne položky"</string>
+    <string name="no_network">"Žiadne pripojenie k sieti"</string>
+    <string description="The description to inform users when there is no internet access" maxwidth="-1" name="no_network_connection_message">"Odpojte prosím svoje pripojenie a skúste to znova."</string>
+    <string name="no_network_info">"Pre prístup k aplikácii sa vyžaduje pripojenie k internetu. V možnosti Nastavenia povoľte mobilnú sieť alebo sieť Wi-Fi."</string>
+    <string name="no_password">"Zadajte svoje heslo"</string>
+    <string name="no_right">"Vaše konto nemá oprávnenie na prihlásenie."</string>
+    <string name="no_share_folder">V tomto zariadení nie je žiadny zdieľaný súbor</string>
+    <string description="Toast: No space to copy file and left on device" maxwidth="-1" name="no_space_fail">Nedostatočná kapacita ukladacieho priestoru</string>
+    <string name="no_user_exist">"Používateľské meno neexistuje"</string>
+    <string name="no_username">"Najskôr zadajte svoje používateľské meno."</string>
+    <string name="notification_gdrive_redeem_content">"Získajte to TERAZ z Google Drive. "</string>
+    <string name="notification_gdrive_redeem_title">"Voľných 100 GB v pamäti!"</string>
+    <string name="occur_error_do_relogin">"Znova sa prihláste na %s"</string>
+    <string description="Dialog Button: ok for dialog" maxwidth="" name="ok">OK</string>
+    <string name="onedrive_account_only_one_alert">"Iba jeden ovládač OneDrive môže byť pridaný pre konto ASUS. Musíte zrušiť svoje aktuálne konto pred jeho výmenou za nové."</string>
+    <string name="open">Otvoriť</string>
+    <string description="Toast: open file fails" maxwidth="-1" name="open_fail">Chyba pri otváraní súboru.</string>
+    <string maxwidth="" name="open_source_license_description">"Licenčné oznámenia k softvéru s otvoreným zdrojovým kódom"</string>
+    <string maxwidth="" name="open_source_license_title">"Licencie na otvorený zdrojový kód"</string>
+    <string name="othersforum_site_url">http://www.asus.com/sk/Terms_of_Use_Notice_Privacy_Policy/OthersForum_Site/</string>
+    <string name="password">Heslo</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="paste">Prilepiť</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="paste_exist_apply">Aplikovať na všetky</string>
+    <string description="Dialog Title: paste exist dialog title" maxwidth="" name="paste_exist_dialog">Rovnaký názov súboru</string>
+    <string description="Dialog Content: text in dialog. %s is variable string." maxwidth="" name="paste_exist_file">"Súbor \"%s\" už existuje."</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="paste_exist_replace">Chcete ho nahradiť novým?</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="paste_exist_to">Do</string>
+    <string description="Toast: paste fails" maxwidth="-1" name="paste_fail">Prilepovanie súborov zlyhalo.</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="paste_progress">Prilepuje sa...</string>
+    <string name="paste_progress_title">Spustená je iná úloha kopírovania...</string>
+    <string description="Toast: paste success. %s is variable string." maxwidth="-1" name="paste_success">"Súbory boli pridané do \"%s\"."</string>
+    <string name="permanently_delete">"Natrvalo odstrániť"</string>
+    <string description="Toast: operation permission deny" maxwidth="-1" name="permission_deny">Povolenie bolo odmietnuté.</string>
+    <string name="permission_dialog_title">"Povolenie aplikácie"</string>
+    <string name="permission_essential">"Potrebné sú povolenia. Ak chcete zapnúť povolenia, prejdite do nastavení!"</string>
+    <string name="permission_reason_contact">"Aby sa aplikácia Správca súborov mohla prihlásiť do cloudového úložiska, musí vstúpiť do pamäte vášho zariadenia."</string>
+    <string name="permission_reason_storage">"Aby aplikácia Správca súborov mohla správne fungovať, musí vstúpiť do pamäte vášho zariadenia"</string>
+    <string description="Toast: You may not select more than %s photos." maxwidth="-1" name="photo_selection_limit_number_toast">Vyberte maximálne %s fotografií</string>
+    <string description="This is the title of the screen for setting user preferences." maxwidth="-1" name="preferences_title">"Nastavenie"</string>
+    <string name="previous_folder">"Predchádzajúci priečinok"</string>
+    <string maxwidth="" name="privacy_policy">"Zásady ochrany osobných údajov"</string>
+    <string name="privacy_policy_url">http://www.asus.com/us/Terms_of_Use_Notice_Privacy_Policy/Privacy_Policy/</string>
+    <string name="processing_picture">"Spracovanie obrázka"</string>
+    <string name="processing_video">"Spracovanie videa"</string>
+    <string name="progressactivity_title">Transmission Manager</string>
+    <string name="promote_darkmode_message">"Zmeňte svoje predvoľby v %s"</string>
+    <string name="promote_darkmode_title">"Nová funkcia zobrazenia – Nočný režim"</string>
+    <string name="promotion_notification_content">"Mali by ste vyskúšať \"Bezdrôtový prenos súborov\"!"</string>
+    <string name="promotion_notification_title">"Stále používate kábel USB na prenos súborov?"</string>
+    <string name="publish">"Publikovať"</string>
+    <string name="pullfreshlistview_footer_hint_normal">Načítať viac</string>
+    <string name="pullfreshlistview_footer_hint_ready">Uvoľnením načítať viac</string>
+    <string name="pullfreshlistview_header_hint_loading">Obnovuje sa...</string>
+    <string name="pullfreshlistview_header_hint_normal">Potiahnuť dolu</string>
+    <string name="pullfreshlistview_header_hint_ready">Uvoľnením obnoviť</string>
+    <string name="pullfreshlistview_header_last_time">Čas poslednej obnovy:</string>
+    <string name="rate_later">"Neskôr"</string>
+    <string name="rate_now">"Vyhodnotiť teraz"</string>
+    <string description="rate us" maxwidth="-1" name="rate_us">Ohodnoťte nás</string>
+    <string name="rating_dialog_message_v3_1">"Radi používate %s? Ohodnoťte nás na Google Play, aby sme boli aj naďalej inšpirovaní!"</string>
+    <string name="rating_dialog_message_v3_2">"Návrhy a pripomienky nám píšte prostredníctvom %s."</string>
+    <string name="recent_files_content_hint">"Vyhľadanie najnovších súborov a ich odstránenie s vaším povolením."</string>
+    <string description="shortcut title: recently used files" name="recently_used" width="-1">Najnovšie</string>
+    <string name="recommend_clean_master_msg">"Najdôveryhodnejšie aplikácie na svete sú Android Optimizer, Speed Booster, Battery Saver a Free Anti-Virus. \nPrevziať teraz?"</string>
+    <string name="recommend_clean_master_title">"Odporúčanie aplikácií"</string>
+    <string name="recommend_scan_qr_code">"Povedzte svojim priateľom, aby si prevzali\ntúto aplikáciu nasnímaním tohto kódu QR."</string>
+    <string description="recruit beta user" maxwidth="-1" name="recruit_beta_user">Získajte ukážku verzie</string>
+    <string name="recycle_bin_content_hint">"Obsahuje všetky odstránené súbory a priečinky."</string>
+    <string description="dialog title, key in the asus ID and PW to Login account" maxwidth="-1" name="regist_asus_id">"Vytvorenie konta ASUS"</string>
+    <string description="ask user to enter email address to registe New Account" name="registe_id">Názov konta</string>
+    <string description="ask user to enter new password" name="registe_password">Zadajte 8 až 25 znakov</string>
+    <string description="sign up registe action" name="registe_sign_up">Prihlásiť sa</string>
+    <string description="network is unavailable, please try again" maxwidth="-1" name="remote_connected_error_hint">Sieť nie je k dispozícii, skúste to prosím znova</string>
+    <string description="remote storage label" maxwidth="-1" name="remote_storage_title">Vzdialené úložisko</string>
+    <string name="remove_favorite">Presun. z obľúbených</string>
+    <string name="remove_favorite_notice_more">Naozaj chcete odstrániť položky %d z priečinka Obľúbené?</string>
+    <string name="remove_favorite_notice_one">Naozaj chcete odstrániť položky \"%s\" z priečinka Obľúbené?</string>
+    <string name="remove_favorite_success">Odstránenie bolo úspešné</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="rename">Premenovať</string>
+    <string description="Dialog Title: rename dialog title" maxwidth="" name="rename_dialog">Premenovať</string>
+    <string description="Toast: rename fails" maxwidth="-1" name="rename_fail">Chybné premenovanie súboru.</string>
+    <string name="rename_favorite_folder">Premenovať zložku Obľúbené</string>
+    <string name="rename_favorite_notice">Priečinok s rovnakým názvom už existuje v zložke Obľúbené, chcete ho premenovať ?</string>
+    <string name="rename_favorite_success">Priečinok bol úspešne premenovaný a uložený do zložky Obľúbené</string>
+    <string description="Toast: rename success" maxwidth="-1" name="rename_success">Súbor bol úspešne premenovaný.</string>
+    <string description="renaming file" name="renaming_file" width="-1">Premenovať</string>
+    <string name="replace">"Nahradiť"</string>
+    <string description="Toast: restore fails" maxwidth="-1" name="restore_fail">"Nepodarilo sa obnoviť"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="restore_progress">"Obnovuje sa..."</string>
+    <string description="Toast: restore success" maxwidth="-1" name="restore_success_more">"Vybrané súbory boli obnovené"</string>
+    <string description="Toast: restore success. %s is variable string." maxwidth="-1" name="restore_success_one">"\"%s\" obnovené"</string>
+    <string name="retention_notification_large_file">"Pridali ste veľké súbory (%1$s). Pozrite si ich hneď."</string>
+    <string name="retention_notification_recent_file">"Vaše najnovšie súbory zaberajú %1$s miesta. Pozrieť ich teraz."</string>
+    <string name="saf_permission_tutorial_content">Aplikácia ASUS File Manager požaduje prístup na ovládanie vašej karty SD. Chcete prideliť prístup?</string>
+    <string name="saf_permission_tutorial_content_v2">"Ak chcete udeliť aplikácii %s práva na prístup, je potrebné urobiť nejaké kroky."</string>
+    <string name="saf_permission_tutorial_dialog">"Na udelenie prístupových práv ku karte SD je potrebné vykonať tento postup. Chcete pokračovať?"</string>
+    <string name="saf_permission_tutorial_title">Požiadavka na prístup na ovládanie karty SD</string>
+    <string name="saf_tutorial_step_one">Ťuknite na ikonu Ponuka a potom kartu SD zobrazte ťuknutím na ňu.</string>
+    <string name="saf_tutorial_step_three">Ak chcete prideliť prístup k aplikácii Správca súborov ASUS, kartu SD vyberte ťuknutím na ňu.</string>
+    <string name="saf_tutorial_step_three_v2">"Ťuknite na možnosť Vyberte %s, ak chcete udeliť právo prístupu aplikácii Správca súborov ASUS."</string>
+    <string name="saf_tutorial_step_two">Ak chcete zobraziť zásuvku, prstom potiahnite od ľavého kraja obrazovky a potom ťuknite na kartu SD.</string>
+    <string name="saf_tutorial_step_two_v2">"Potiahnutím ľavého okraja obrazovky zobrazte zásuvku, potom ťuknite na %s."</string>
+    <string name="saf_tutorial_title">Povolenie na používanie karty SD</string>
+    <string name="saf_tutorial_title_v2">"Povolenie na používanie funkcie %s"</string>
+    <string description="account config dialog remind message" maxwidth="-1" name="samba_client_config_check">Zapamätajte si používateľské meno a heslo, aby ste sa nabudúce mohli pripojiť priamo</string>
+    <string name="samba_input_error">Používateľské meno alebo heslo nemôže byť prázdne!</string>
+    <string name="samba_login_error">Zadali ste nesprávne užívateľské meno alebo heslo.</string>
+    <string name="samba_storage_add_title">"Miesto v sieti"</string>
+    <string name="samba_storage_title">"SAMBA"</string>
+    <string name="scan_qr_code">"Nasnímať kód QR"</string>
+    <string description="rate now" maxwidth="" name="scroll_up_toast">Ak chcete hodnotiť, posúvajte hore</string>
+    <string maxwidth="-1" name="sd_label">OneDrive pre ASUS</string>
+    <string name="search_action">"Hľadať"</string>
+    <string description="search hint message" maxwidth="-1" name="search_hint">Zadajte názov súboru</string>
+    <string description="cutstom action bar view title for search" maxwidth="-1" name="search_label">Vyhľadávanie súborov</string>
+    <string description="search dialog message" maxwidth="-1" name="search_progress">Vyhľadávanie...</string>
+    <string description=" text for search result" formatted="false" maxwidth="-1" name="search_result_title">Vyhľadávanie % v %s: Našli sa súbory %d</string>
+    <string name="select_album">Vybrať album</string>
+    <string description="Menu Option: select all checkbox" maxwidth="" name="select_all">Vybrať všetky</string>
+    <string description="Title: select the folder" maxwidth="-1" name="select_folder">Vybrať zložku</string>
+    <string name="select_folder_by_ok_button">"Stlačením tlačidla %1$s zvoľte tento priečinok"</string>
+    <string name="select_photo">Vyberte fotografiu</string>
+    <string name="server">"Server:"</string>
+    <string name="server_error">"Chyba servera"</string>
+    <string name="server_hint">"172.0.0.1/ShareFolder"</string>
+    <string name="server_title">Server</string>
+    <string maxwidth="-1" name="service_not_available_in_your_country">"Táto položka nie je vo vašej krajine k dispozícii."</string>
+    <string name="set_password_title">"Vytvorte kód PIN"</string>
+    <string name="set_ring">"Nastaviť ako zvonenie"</string>
+    <string name="setting_display_group">"Zobrazenie"</string>
+    <string name="setting_notification_group">"Upozornenie"</string>
+    <string name="setting_notification_large_files">"Upozornenie na veľký súbor"</string>
+    <string name="setting_notification_recent_files">"Upozornenie na najnovšie súbory"</string>
+    <string name="setting_notification_wireless_transfer">"Upozornenie na bezdrôtový prenos"</string>
+    <string name="setting_view_group">"Zobraziť nastavenie"</string>
+    <string name="setting_view_hide_files">"Skryť systémové súbory"</string>
+    <string name="settings">"Nastavenia"</string>
+    <string description="This is the title of cache size" maxwidth="-1" name="settings_cache_size_title">"Veľkosť vyrov. pamäte"</string>
+    <string description="Remove all cache documents" maxwidth="-1" name="settings_clear_cache_info">"Odstrániť všetky dokumenty z vyrov. pamäte"</string>
+    <string description="Clear the cache" maxwidth="-1" name="settings_clear_cache_title">"Vymazať vyrov. pamäť"</string>
+    <string description="This is the title of clearing search history action for setting user preferences." maxwidth="-1" name="settings_clear_search_history">"Vymazať históriu hľadania"</string>
+    <string name="settings_darkmode_message">"Použiť Nočný režim"</string>
+    <string name="settings_description">"Lokálne priečinky a súbory"</string>
+    <string description="This is the title of documents cache" maxwidth="-1" name="settings_documents_cache">"Vyrov. pamäť dokumentov"</string>
+    <string description="recommend text" maxwidth="" name="settings_encourage_us_detail">Ak sa vám páči aplikácia %s, dajte nám v Play Store 5 hviezdičiek. Bude to pre nás veľká podpora pri pokračujúcom vylepšovaní produktu!</string>
+    <string description="This is the title of hiding system files action for setting user preferences." maxwidth="-1" name="settings_hide_system_files">"Skryť systémové súbory"</string>
+    <string description="This is the title of moving to the trash can." maxwidth="-1" name="settings_moved_to_the_trash_can">"Presunuté do Koša"</string>
+    <string description="Remove account" maxwidth="-1" name="settings_remove_account">"Odstrániť konto"</string>
+    <string description="Set the cache size to %s" maxwidth="-1" name="settings_set_cache_size">"Veľkosť vyrov. pamäte je nastavená na \"%s\""</string>
+    <string description="This is the title of space used for setting user preferences." maxwidth="-1" name="settings_space_used">"Využité miesto"</string>
+    <string description="This is the title of trash can information for setting user preferences." maxwidth="-1" name="settings_trash_can">"Kôš"</string>
+    <string description="This is the title of user name" maxwidth="-1" name="settings_user_name">"Používateľské meno"</string>
+    <string name="setup">"Nastavenie"</string>
+    <string name="setup_account_description">"Nastavte e-mailové konto, na ktoré obnovíte svoj kód PIN"</string>
+    <string name="setup_account_no_internet_connection">"Žiadne pripojenie na internet"</string>
+    <string name="setup_account_skip">"Preskočiť"</string>
+    <string name="setup_account_title">"Obnovenie kódu PIN"</string>
+    <string name="setup_fingerprint_message">"Povoliť odomknutie odtlačkom prsta. Tajná skrinka podporuje overenie odtlačkom prsta. Najprv cez Nastavenie naskenujte svoj odtlačok prsta."</string>
+    <string name="setup_my_digital_code">"Nastaviť kód PIN"</string>
+    <string name="share_more">"Iné"</string>
+    <string name="share_with_friend">"Zdieľajte túto aplikáciu so svojimi priateľmi"</string>
+    <string description="Context Menu: options of context menu: share folder via Wi-Fi Direct" maxwidth="" name="shared_folder">Zdieľ. cez Wi-Fi Direct</string>
+    <string description="shortcit title" maxwidth="-1" name="short_cuts_title">Skratka</string>
+    <string name="shortcut_hint">"Ťuknutím na kategóriu a podržaním prsta na nej vytvorte klávesovú skratku na spúšťač."</string>
+    <string description="check if user want to show password" name="show_passwd">Zobraziť heslo</string>
+    <string description="show when sign in failed" maxwidth="-1" name="signin_failed">"Prihlásenie sa nepodarilo"</string>
+    <string description="signout account" name="signout_account" width="-1">Odpojiť</string>
+    <string name="single_drm_file_forbidden_operation">Táto akcia je zakázaná, preto že je chránená DRM.</string>
+    <string description="button text for sort file by size" maxwidth="-1" name="size">Veľkosť</string>
+    <string description="button text for sort file by size ascending" maxwidth="-1" name="size_ascending">Veľkosť (veľké - malé)</string>
+    <string description="button text for sort file by size descending" maxwidth="-1" name="size_descending">Veľkosť (malé - veľké)</string>
+    <string name="ssl_err_msg_info">"Nemožno vytvoriť zabezpečené pripojenie k serveru. Chcete pokračovať?"</string>
+    <string name="ssl_err_msg_title">"Chyba pripojenia SSL"</string>
+    <string description="shortcut title: my favorite files" name="starred" width="-1">"Obľúbené"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="storage_type_cloud">Cloud Storage</string>
+    <string name="storage_type_cloud_att">"Sieťový ukladací priestor"</string>
+    <string name="storage_type_local">Miestna pamäť</string>
+    <string name="storage_type_shortcut">"Klávesová skratka"</string>
+    <string name="storagetype_add_account">Pridať Google konto</string>
+    <string name="tap_to_exit">Ak chcete zrušiť, znovu poklepte na</string>
+    <string name="target_directory_is_child_of_source">"Činnosť nemôže byť dokončená, pretože cieľový priečinok je podpriečinok zdrojového priečinka."</string>
+    <string description="Toast: target file exists" maxwidth="-1" name="target_exist">Cieľový súbor existuje.</string>
+    <string description="Toast: target folder exists. %s is variable string." maxwidth="-1" name="target_folder_exist">"Priečinok: \"%s\" už existuje."</string>
+    <string description="" maxwidth="" name="tell_friend">Povedať priateľovi</string>
+    <string maxwidth="" name="terms_of_service">"Upozornenie na podmienky používania"</string>
+    <string maxwidth="" name="terms_of_service_url">http://www.asus.com/us/Terms_of_Use_Notice_Privacy_Policy/Official-Site/</string>
+    <string description="title" maxwidth="-1" name="title">"Právne informácie:"</string>
+    <string name="toast_auto_lock_notify_message">"Uzamknúť Tajnú skrinku pri uzamknutí zariadenia"</string>
+    <string description="Toast: The item(s) has been copied completely" maxwidth="-1" name="toast_drag_copied_items">Úspešne skopírované položky.</string>
+    <string description="Toast: The item(s) has been moved completely" maxwidth="-1" name="toast_drag_moved_items">Úspešne premiestnené položky.</string>
+    <string description="Toast: Sorry, copy files complete but cut fail" maxwidth="-1" name="toast_warning_copy_comple_cut_fail">"Ľutujeme, kopírovanie súborov bolo dokončené, ale odstránenie starých súborov bolo neúspešné"</string>
+    <string description="Toast: Sorry, copy folders has not been supported" maxwidth="-1" name="toast_warning_copy_folders">"Ľutujeme, kopírovanie súborov nebolo podporované"</string>
+    <string maxwidth="35" name="toolbar_item_title_encourage_us">Podporte nás</string>
+    <string name="tools_clean_master">"Vymazať nevyžiadanú poštu"</string>
+    <string name="tools_file_transfer">"Prenos súboru z počítača"</string>
+    <string name="tools_hidden_zone">"Tajná skrinka"</string>
+    <string name="tools_recycle_bin">"Kôš"</string>
+    <string name="tools_storage_analyzer">"Analyzátor miesta na ukladanie"</string>
+    <string name="tools_tip_animation">"Vyžiadajte si nástroje!"</string>
+    <string name="tools_zenui_instant_update">"Okamžitá aktualizácia"</string>
+    <string description="shortcut title: trash can" name="trash_can" width="-1">"Kôš"</string>
+    <string maxwidth="-1" name="trash_info_deleted">"Dátum odstránenia: "</string>
+    <string maxwidth="-1" name="trash_info_path">"Pôvodné umiestnenie: "</string>
+    <string description="label for trending searches" maxwidth="-1" name="trending_searches">"Práve obľúbené vyhľadávanie"</string>
+    <string name="tutorial_analyzer_content">"Analyzátor ukladacieho priestoru vám dá vedieť, ktoré súbory zaberajú miesto na disku."</string>
+    <string name="tutorial_category_content">"Vyhľadávanie súborov nikdy nebolo také ľahké, ako teraz v zobrazení kategórií v aplikácii správca súborov ASUS."</string>
+    <string name="tutorial_category_title">"Zobrazenie kategórií"</string>
+    <string name="tutorial_cloud_content">"Prístup k súborom zo smartfónu, počítača a ukladacích priestorov Cloud."</string>
+    <string name="tutorial_cloud_title">"Ukladací priestor Cloud"</string>
+    <string name="tutorial_done">Hotovo</string>
+    <string name="tutorial_page_content_long_press">Ak chcete vybrať položku, ťuknite na ňu a podržte na nej prst a potom ťuknutím na ikonu \„Ponuka\“ zobrazíte možnosti ďalšej akcie.</string>
+    <string name="tutorial_page_four_content">Ak chcete získať rýchly a ľahký prístup k priečinkom, často používaný priečinok nastavte ako Obľúbené.</string>
+    <string name="tutorial_page_four_title">Obľúbené</string>
+    <string name="tutorial_page_one_content">Aplikácia Správca súborov ASUS umožňuje ľahko spravovať súbory uložené vo vnútornej a vonkajšej pamäti, v lokálnej sieti LAN alebo v cloudovom úložisku.</string>
+    <string name="tutorial_page_one_title">"Správca súborov ASUS"</string>
+    <string name="tutorial_page_three_content">Ak chcete zobraziť akcie, ako napríklad Pridať do obľúbených, Premenovať, Presunúť do, Skopírovať do a ďalšie operácie spravovania súborov, položku potiahnite prstom doprava.</string>
+    <string name="tutorial_page_three_title">Zoznam akcií potiahnutia prstom doprava</string>
+    <string name="tutorial_page_title_long_press">Zobraziť ponuku Akcia</string>
+    <string name="tutorial_page_two_content">Jednoducho použiteľné kategórie, ktoré umožňujú rýchly prístup k súborom v miestnej pamäti.</string>
+    <string name="tutorial_page_two_title">Domovská stránka</string>
+    <string name="tutorial_skip">Preskočiť</string>
+    <string description="button text for sort file by type" maxwidth="-1" name="type">Typ</string>
+    <string description="document type" maxwidth="-1" name="type_abu">"Záloha aplikácie Asus"</string>
+    <string description="document type" maxwidth="-1" name="type_apk">"Aplikácia pre Android"</string>
+    <string description="document type" maxwidth="-1" name="type_audio">"Zvuk"</string>
+    <string description="document type" maxwidth="-1" name="type_book">"E-kniha"</string>
+    <string name="type_dialog_audio">Zvuk</string>
+    <string name="type_dialog_image">Obrázok</string>
+    <string name="type_dialog_text">Text</string>
+    <string name="type_dialog_title">Otvoriť ako</string>
+    <string name="type_dialog_video">Video</string>
+    <string description="document type" maxwidth="-1" name="type_directory">"Priečinok"</string>
+    <string description="document type" maxwidth="-1" name="type_document">"Dokument"</string>
+    <string description="document type" maxwidth="-1" name="type_file">"Súbor"</string>
+    <string description="document type" maxwidth="-1" name="type_image">"Obrázok"</string>
+    <string description="document type" maxwidth="-1" name="type_playlist">"Zoznam titulov"</string>
+    <string description="document type" maxwidth="-1" name="type_rar">"RAR"</string>
+    <string description="document type" maxwidth="-1" name="type_video">"Video"</string>
+    <string description="document type" maxwidth="-1" name="type_zip">"ZIP"</string>
+    <string name="ud_sdk_all_app_update">"Spustené sú aktuálne verzie všetkých aplikácií."</string>
+    <string name="ud_sdk_asus_app_slogan">užitočná aplikácia</string>
+    <string name="ud_sdk_downloads">Položky na prevzatie</string>
+    <string name="ud_sdk_free_download">Bezplatné prevzatie</string>
+    <string name="ud_sdk_important_remind_text">"Dôležitý"</string>
+    <string name="ud_sdk_install">Inštalovať</string>
+    <string name="ud_sdk_more_zen_family">Objavte viac aplikácií ZenUI</string>
+    <string name="ud_sdk_no_network_connection_content">Údaje nemožno aktualizovať. Skontrolujte si nastavenia siete.</string>
+    <string name="ud_sdk_no_network_connection_title">Žiadne pripojenie k sieti</string>
+    <string name="ud_sdk_open">Otvoriť</string>
+    <string name="ud_sdk_update">Aktualiz.</string>
+    <string maxwidth="-1" name="ud_sdk_update_sdk">Skupina ZenUI</string>
+    <string maxwidth="-1" name="ud_sdk_update_sdk_asus">okamžitá aktual, ap. ZenUI</string>
+    <string name="ud_sdk_wifi_settings">Nastavenia siete Wi-Fi</string>
+    <string name="uf_sdk_already_give_5star">"Už som udelil/a 5-hviezdičkové hodnotenie"</string>
+    <string description="%d is a number, don&apos;t translate" name="uf_sdk_article_read_count">"Zobrazenia: %d"</string>
+    <string name="uf_sdk_attachment_format_warning">"Nesprávny formát súboru. Priložiť sa dajú len obrázkové súbory."</string>
+    <string name="uf_sdk_attachment_total_size">"Celkom"</string>
+    <string name="uf_sdk_attachment_warning">"Veľkosť prílohy prekračuje prípustný limit"</string>
+    <string maxwidth="-1" name="uf_sdk_cancel_btn_content">"Zrušiť"</string>
+    <string name="uf_sdk_choosertitle_sharevia">"Zdieľať pomocou"</string>
+    <string name="uf_sdk_connection_error_msg">"Pripojenie bolo prerušené serverom. Skúste neskôr znova."</string>
+    <string name="uf_sdk_connection_error_title">"Chyba pripojenia"</string>
+    <string name="uf_sdk_discard">"Zahodiť"</string>
+    <string name="uf_sdk_email_illigal">"E-mailová adresa sa už používa"</string>
+    <string maxwidth="-1" name="uf_sdk_empty_notification">"Prázdne: )"</string>
+    <string name="uf_sdk_faq">"Najčastejšie otázky"</string>
+    <string name="uf_sdk_feedback_and_help">"Spätná väzba a Pomocník"</string>
+    <string name="uf_sdk_forum_description">"Začnite konverzovať s používateľmi produktov ASUS, nachádzajte a zdieľajte svoje riešenia"</string>
+    <string maxwidth="-1" name="uf_sdk_grant_permission_title">"Udeľte povolenie"</string>
+    <string name="uf_sdk_help">"Pomocník"</string>
+    <string name="uf_sdk_instant_answer_question">"Je toto riešenie nápomocné?"</string>
+    <string name="uf_sdk_like">"Páči sa mi to"</string>
+    <string maxwidth="-1" name="uf_sdk_message">"Oznámenia"</string>
+    <string name="uf_sdk_msg_bad_email_format">"E-mailová adresa nie je platná; skúste znova."</string>
+    <string name="uf_sdk_msg_confirm_discard_topic">"Váš koncept nebude uložený. Chcete ho aj napriek tomu odstrániť?"</string>
+    <string name="uf_sdk_msg_confirm_discard_topic_title">"Odstrániť príspevok?"</string>
+    <string name="uf_sdk_msg_subscribe">"Prihlásenie na odber oznámení na stav témy bude doručené e-mailom."</string>
+    <string name="uf_sdk_msg_subscribe_success">"Prihlásenie na odber bolo úspešné"</string>
+    <string name="uf_sdk_msg_ticket_created">"Vaša odozva bola spoločnosti ASUS úspešne odoslaná"</string>
+    <string name="uf_sdk_msg_topic_created">"Úspešne publikované"</string>
+    <string name="uf_sdk_msg_unsubscribe">"Zrušenie odberu bolo úspešné"</string>
+    <string name="uf_sdk_name_hint">"Zadajte svoje meno"</string>
+    <string name="uf_sdk_name_illigal">"Meno používateľa už používa niekto iný"</string>
+    <string name="uf_sdk_network_error">"Žiadne internetové pripojenie; skontrolujte svoje sieťové nastavenia."</string>
+    <string description="zenui news" maxwidth="" name="uf_sdk_news">"Novinky"</string>
+    <string name="uf_sdk_no_network_connection_content">"Údaje nemožno aktualizovať. Skontrolujte svoje sieťové nastavenia."</string>
+    <string name="uf_sdk_no_network_connection_title">"Žiadne sieťové pripojenie"</string>
+    <string name="uf_sdk_nothing_found">"Nič sa nenašlo"</string>
+    <string name="uf_sdk_notice">"Upozornenie"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category1">"Oznámenia"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category2">"Kurzy a tipy"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category3">"Akcie"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category4">"Udalosti"</string>
+    <string name="uf_sdk_publish_an_topic">"Publikovať novú tému"</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_rate_now">"Ohodnotiť teraz"</string>
+    <string description="%s is AP name, don&apos;t translate" maxWidth="" name="uf_sdk_rate_us_detail">"Ak radi používate %s, ohodnoťte nás 5 hviezdičkami v Play StoreIf."</string>
+    <string maxWidth="" name="uf_sdk_rate_us_detail_new">"Vaša podpora ohodnotením 5 hviezdičkami nám umožní pokračovať v našej práci!"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_rating">"Ohodnotiť 5 hviezdičkami"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title">"Ohodnoťte nás!"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title_new">"Podporte nás!"</string>
+    <string description="Menu item for userFeedback sdk" maxwidth="-1" name="uf_sdk_report_bug">Chybové hlásenie</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_scroll_up_toast">"Ak chcete hodnotiť, posúvajte hore"</string>
+    <string name="uf_sdk_search_hint">"Vyhľadať pomoc"</string>
+    <string name="uf_sdk_select_common_bug">"Vyberte bežnú chybu"</string>
+    <string name="uf_sdk_send_feedback">"Poslať spätnú väzbu"</string>
+    <string name="uf_sdk_send_feedback_help">"Vaša odozva a e-mailová adresa budú odoslané spoločnosti ASUS. Servisný tím vás bude kontaktovať e-mailom."</string>
+    <string maxwidth="-1" name="uf_sdk_setting_btn_content">"Nastavenie"</string>
+    <string description="recommend title" maxwidth="" name="uf_sdk_settings_encourage_us_title">"Podporte nás"</string>
+    <string maxwidth="-1" name="uf_sdk_storage_permission_description">"Táto funkcia vyžaduje povolenie prístupu k ukladaciemu priestoru a otváraniu multimediálnych súborov.\n\nAk chcete povoliť túto funkciu, ťuknutím na tlačidlo Nastavenie prejdite na stránku nastavenia aplikácie, potom udeľte povolenie nastavením položky \"Informácie o aplikácii\" > \"Povolenia\".\n"</string>
+    <string name="uf_sdk_submit_topic">"Publikovať"</string>
+    <string name="uf_sdk_subscribe_dialog_title">"Prihlásiť sa na odber pre túto tému"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_answered">"Prijatý"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_completed">"Dokončený"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_declined">"Odmietnutý"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_implemented">"Realizovaný"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_planned">"Naplánovaný"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_under_review">"Kontroluje sa"</string>
+    <string name="uf_sdk_thanks_for_your_feedback">"Ďakujeme vám za vašu spätnú väzbu!"</string>
+    <string description="%s is a application name, don&apos;t translate" name="uf_sdk_ticket_hint">"Zadajte spätné väzby pre %s"</string>
+    <string name="uf_sdk_title_topic">"Téma"</string>
+    <string name="uf_sdk_topic">"Téma"</string>
+    <string name="uf_sdk_topic_description_heading">"Opis"</string>
+    <string name="uf_sdk_topic_description_hint">"Opíšte podrobne svoju tému"</string>
+    <string name="uf_sdk_topic_filter">"TÉMY"</string>
+    <string name="uf_sdk_topic_form_help">"Ak vo fóre používateľov budete publikovať tému, ostatní používatelia sa môžu prihlásiť na odber a môžu pridávať komentáre. Ak tím vývojárov ASUS odpovie na tému, dostanete oznámenie formou e-mailu."</string>
+    <string name="uf_sdk_topic_form_title">"Publikovať novú tému"</string>
+    <string name="uf_sdk_topic_text_heading">"Fórum"</string>
+    <string name="uf_sdk_topic_text_hint">"Napíšte názov svojej témy"</string>
+    <string name="uf_sdk_topic_title">"Názov"</string>
+    <string name="uf_sdk_translation_10117605">"Problém s prekladom"</string>
+    <string name="uf_sdk_translation_117562">"Typ odozvy"</string>
+    <string name="uf_sdk_translation_2529543">"Správa o chybách"</string>
+    <string name="uf_sdk_translation_2529544">"Iné"</string>
+    <string name="uf_sdk_translation_2530478">"Návrh"</string>
+    <string name="uf_sdk_unhelpful_article_message_question">"Chcete odoslať odozvu tím vývojárov ASUS?"</string>
+    <string name="uf_sdk_user_forum">"Fórum používateľov"</string>
+    <string name="uf_sdk_warning">"Výstraha"</string>
+    <string name="uf_sdk_wifi_settings">"Nastavenia siete Wi-Fi"</string>
+    <string name="uf_sdk_wlan_settings">"Nastavenia siete WLAN"</string>
+    <string name="uf_sdk_write_your_feedback">"Zadajte sem spätné väzby"</string>
+    <string name="uf_sdk_your_draft_will_be_discarded">"Koncept bol zahodený."</string>
+    <string description="description for empty search result" maxwidth="-1" name="unable_to_find_artlcles">"Nedajú sa nájsť články ohľadom \u0022%s\u0022"</string>
+    <string description="string indicating the length units in milli-meters" maxwidth="-1" name="unit_mm">mm</string>
+    <string description="Context Menu: options of context menu: unshare folder" maxwidth="-1" name="unshared_folder">Zrušiť zdieľanie</string>
+    <string name="unsupported_area">"Toto zariadenie nie je podporované"</string>
+    <string description="toast message: extract files fail" maxwidth="-1" name="unzip_fail">Chyba pri extrahovaní súborov</string>
+    <string description="extract file dialog message" maxwidth="-1" name="unzip_progress_msg">Extrahovanie...</string>
+    <string description="toast message: extract files successly" maxwidth="-1" name="unzip_success">Úspešne extrahované súbory</string>
+    <string name="update">"Aktualizovať"</string>
+    <string name="update_fb_app">"Verzia mobilnej aplikácie Facebook nie je aktuálna.  Nainštalujte si novú z Google Play."</string>
+    <string name="upgrade_notification_content">Súbory zobrazujte podľa typu z našej úplne novej domovskej stránky.</string>
+    <string name="upgrade_notification_title">Skúste novú aplikáciu Správca súborov teraz!</string>
+    <string name="upload_complete">"Nahrávanie sa skončilo"</string>
+    <string name="upload_complete_dialog_message">"Video bolo úspešne nahrané."</string>
+    <string name="upload_complete_dialog_title">"Hotovo"</string>
+    <string name="upload_fail">odoslanie zlyhalo!</string>
+    <string name="upload_failed">"Nepodarilo sa odovzdať"</string>
+    <string name="upload_picture_toast">"Váš obrázok bude nahraný. Priebeh skontrolujte v okne s oznámeniami."</string>
+    <string name="upload_toast">"Vaše video bude nahraté. Priebeh si pozrite v okne s oznámeniami."</string>
+    <string name="uploading_picture">"Nahrávanie obrázka"</string>
+    <string name="uploading_video">"Nahrávanie videa..."</string>
+    <string name="user">Používateľské meno</string>
+    <string name="user_hint">správca</string>
+    <string name="uv_admin_response_format">"Odpoveď správcu: %1$s"</string>
+    <string name="uv_all_articles">"Všetky články"</string>
+    <string name="uv_all_results_filter">"VŠETKO"</string>
+    <string name="uv_android_sdk">Android SDK</string>
+    <string name="uv_article_browse_question">"Bol tento článok užitočný?"</string>
+    <string name="uv_article_instant_answer_question">"Je toto riešenie nápomocné?"</string>
+    <string name="uv_cancel">"Zrušiť"</string>
+    <string name="uv_category">"Kategória"</string>
+    <string name="uv_close">"Zavrieť"</string>
+    <string name="uv_comment_hint">"Zadajte svoj komentár"</string>
+    <string name="uv_confirm">"Potvrdiť"</string>
+    <string name="uv_contact_continue_button">"Stále chcem poslať správu"</string>
+    <string name="uv_contact_hint">"Zadajte svoju otázku alebo odozvu"</string>
+    <string name="uv_contact_us">"Obráťte sa na nás"</string>
+    <string name="uv_display_name">"Zobrazené meno"</string>
+    <string name="uv_email_address">"E-mailová adresa"</string>
+    <string name="uv_email_address_hint">"vas@email.com (povinné)"</string>
+    <string name="uv_error">"Chyba"</string>
+    <string name="uv_failed_signin_error">"Nesprávny e-mail alebo heslo"</string>
+    <string name="uv_forgot_password">"Zabudnuté heslo"</string>
+    <string name="uv_helpful_article_message_question">"Stále chcete odoslať správu?"</string>
+    <string name="uv_i_want_this">"Chcem to!"</string>
+    <string name="uv_idea_description_heading">"Opíšte svoj nápad podrobnejšie"</string>
+    <string name="uv_idea_description_hint">"(nepovinné)"</string>
+    <string name="uv_idea_text_heading">"Navrhujem vám…"</string>
+    <string name="uv_loading">"Načítava sa…"</string>
+    <string name="uv_matching_articles">"Zodpovedajúce články"</string>
+    <string name="uv_matching_articles_and_ideas">"Zodpovedajúce články a nápady"</string>
+    <string name="uv_menu_attach">"Priložiť"</string>
+    <string name="uv_menu_search">"Vyhľadať"</string>
+    <string name="uv_msg_bad_email_format">"Zadajte platnú e-mailovú adresu."</string>
+    <string name="uv_msg_comment_posted">"Komentár bol pridaný"</string>
+    <string name="uv_msg_confirm_discard_message">"Naozaj chcete zahodiť svoju správu?"</string>
+    <string name="uv_msg_custom_fields_validation">"Vyplňte všetky povinné políčka."</string>
+    <string name="uv_msg_forgot_password">"E-mail so zabudnutým heslom odoslaný"</string>
+    <string name="uv_msg_idea_created">"Váš nápad bol vytvorený"</string>
+    <string name="uv_msg_ticket_created">"Vaša správa bola odoslaná"</string>
+    <string name="uv_msg_user_identity_validation">"Zadajte e-mailovú adresu"</string>
+    <string name="uv_name_hint">"Anonymne"</string>
+    <string name="uv_network_error">"Chyba pri pripájaní k UserVoice"</string>
+    <string name="uv_nevermind">"Neprekáža"</string>
+    <string name="uv_new_comment">"Nový komentár"</string>
+    <string name="uv_next">"Ďalej"</string>
+    <string name="uv_no">"Nie"</string>
+    <string name="uv_none_of_these_help">"Nič z toho nepomohlo"</string>
+    <string name="uv_password">"Heslo"</string>
+    <string name="uv_password_dialog_title">"Zadajte heslo"</string>
+    <string name="uv_portal_title">"Pomocník"</string>
+    <string name="uv_post_a_comment">"Pridať komentár"</string>
+    <string name="uv_post_comment">"Pridať komentár"</string>
+    <string name="uv_posted_by_format">"Pridal/a %1$s na %2$s"</string>
+    <string name="uv_powered_by_uservoice">"Poskytuje UserVoice"</string>
+    <string name="uv_ranked">"Ohodnotené %1$s"</string>
+    <string name="uv_remove_votes">"Odstrániť hlasy"</string>
+    <string name="uv_select_none">"(žiadne)"</string>
+    <string name="uv_select_one">"Vyberte možnosť"</string>
+    <string name="uv_send_message">"Odoslať správu"</string>
+    <string name="uv_signin_dialog_ok">"Prihlásiť sa"</string>
+    <string name="uv_signin_dialog_title">"Prihlásiť sa"</string>
+    <string name="uv_status_format">"Stav: %1$s"</string>
+    <string name="uv_submit_idea">"Odoslať nápad"</string>
+    <string name="uv_subscribe">"Odoberať"</string>
+    <string name="uv_subscribe_dialog_title">"Odoberať tento nápad"</string>
+    <string name="uv_suggestion_instant_answer_question">"Je tento nápad užitočný?"</string>
+    <string name="uv_thanks">"Ďakujeme!"</string>
+    <string name="uv_unhelpful_article_message_question">"Chcete nám poslať správu?"</string>
+    <string name="uv_value">"Hodnota"</string>
+    <string name="uv_very_yes">"Áno!"</string>
+    <string name="uv_yes">"Áno"</string>
+    <string name="uv_your_email_address">"Vaša e-mailová adresa"</string>
+    <string name="uv_your_name">"Vaše meno"</string>
+    <string description="version" maxwidth="-1" name="version">"Verzia"</string>
+    <string name="version_text">verzia</string>
+    <string name="wait">"Čakajte..."</string>
+    <string name="warning_stophttpserver">"Stratíte spojenie medzi mobilným zariadením a počítačom. Chcete ukončiť?"</string>
+    <string name="whats_new_label">Čo je nové</string>
+    <string description="message for request to connect Network" name="wifi_p2p_connection_msg" width="-1">Ak chcete používať služby Cloud, vytvorte pripojenie k sieti.</string>
+    <string description="title for request to connect Network" name="wifi_p2p_connection_title" width="-1">Vytvoriť pripojenie k sieti</string>
+    <string description="message for request to turn on Wi-Fi" name="wifi_p2p_turn_on_wifi_msg" width="-1">Na používanie služieb Wi-Fi Direct musí byť zapnuté Wi-Fi. Zapnúť Wi-Fi teraz?</string>
+    <string description="title for turn on WiFi dialog" name="wifi_p2p_turn_on_wifi_title" width="-1">Zapnúť Wi-Fi</string>
+    <string description="search" maxwidth="-1" name="wifidirect_action_bar_scan">Vyhľadať</string>
+    <string description="Available devices" maxwidth="-1" name="wifidirect_available_devices">Dostupné zariadenia</string>
+    <string description="Do you want to connect to device" maxwidth="-1" name="wifidirect_connect_hint">Chcete sa spojiť s</string>
+    <string description="Dialog title text: Invitation to connect" maxwidth="-1" name="wifidirect_connect_hint_title">Výzva na pripojenie</string>
+    <string description="Dialog title text: Wi-Fi Direct connecting" maxwidth="-1" name="wifidirect_connecting_hint_title">Pripája sa Wi-Fi Direct...</string>
+    <string description="connectted" maxwidth="-1" name="wifidirect_connectted">Pripojené</string>
+    <string description=">Do you want to disconnect" maxwidth="-1" name="wifidirect_disconnect_hint">Chcete sa odpojiť od</string>
+    <string description="Disconnect Wi-Fi Direct" maxwidth="-1" name="wifidirect_disconnect_hint_title">Odpojiť Wi-Fi Direct</string>
+    <string description="peer devices infomation" maxwidth="-1" name="wifidirect_peer_device_info">"Ak chcete získať pozvanie Wi-Fi Direct, Vaše pripojené zariadenie musí v aplikácii Správca súborov zostať na stránke „Rovnocenné zariadenia“."</string>
+    <string description="peer devices title" maxwidth="-1" name="wifidirect_peer_device_title">Rovnocenné zariadenia</string>
+    <string description="searching" maxwidth="-1" name="wifidirect_scanning">Vyhľadáva sa...</string>
+    <string description="Search Wi-Fi Direct device" maxwidth="-1" name="wifidirect_storage_title">Hľadať zariadenie Wi-Fi Direct</string>
+    <string description="click to connect" maxwidth="-1" name="wifidirect_touch_to_connect">Kliknite na tlačidlo Pripojiť</string>
+    <string name="yandex_account_only_one_alert">"Iba jedno konto Yandex môže byť pridané. Musíte zrušiť svoje aktuálne konto pred jeho výmenou za nové."</string>
+    <string name="yes">Áno</string>
+    <string name="zenui_update">"Okamžité aktual, ap. ZenUI"</string>
+    <string description="toast message: Compress files fail" maxwidth="-1" name="zip_fail">Zlyhala kompresia súborov</string>
+    <string description="compress dialog message" maxwidth="-1" name="zip_progress_msg">Komprimovanie...</string>
+    <string description="toast message: Compress files successly" maxwidth="-1" name="zip_success">Kompresia súborov bola úspešná</string>
+</resources>

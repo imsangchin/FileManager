@@ -1,0 +1,87 @@
+<resources>
+
+    <!-- App Wide -->
+    <dimen name="swc_status_bar_height">25dp</dimen>
+    <dimen name="swc_toolbar_title_text_size">25sp</dimen>
+
+    <!-- Main Page -->
+    <dimen name="swc_main_page_text_size">16sp</dimen>
+    <dimen name="swc_main_page_padding_left_right">20dp</dimen>
+    <dimen name="swc_toast_margin">15dp</dimen>
+    <dimen name="swc_toast_padding_left_right">42dp</dimen>
+    <dimen name="swc_toast_padding_top_bottom">20dp</dimen>
+    <dimen name="swc_toast_corner_radius">4dp</dimen>
+    <dimen name="swc_toast_text_size">16sp</dimen>
+
+    <!-- Navigation Drawer -->
+    <dimen name="swc_drawer_width">260dp</dimen>
+    <dimen name="swc_drawer_header_height">125dp</dimen>
+    <dimen name="swc_drawer_header_text_size">24sp</dimen>
+    <dimen name="swc_drawer_item_height">56dp</dimen>
+    <dimen name="swc_drawer_item_text_size">20sp</dimen>
+    <dimen name="swc_drawer_item_text_padding_left_right">27dp</dimen>
+
+    <!-- General margin of card view -->
+    <dimen name="swc_card_view_horizontal_margin">4dp</dimen>
+    <dimen name="swc_card_view_vertical_margin">6dp</dimen>
+    <dimen name="swc_card_view_corner_radius">4dp</dimen>
+    <dimen name="swc_app_icon_size">60dp</dimen>
+    <dimen name="swc_app_icon_horizontal_margin">11dp</dimen>
+    <dimen name="swc_app_name_horizontal_margin">11dp</dimen>
+    <dimen name="swc_app_download_icon_width">80dp</dimen>
+    <dimen name="swc_app_download_icon_height">30dp</dimen>
+    <dimen name="swc_app_download_icon_margin">10dp</dimen>
+    <dimen name="swc_app_download_icon_text_size">14sp</dimen>
+    <dimen name="swc_app_info_text_drawable_padding">4dp</dimen>
+    <dimen name="swc_app_info_text_size">14sp</dimen>
+    <dimen name="swc_app_rating_bar_height">12dp</dimen>
+    <dimen name="swc_app_rating_bar_vertical_margin">7dp</dimen>
+
+    <!-- Basic card view -->
+    <dimen name="swc_basic_card_app_name_vertical_margin">14dp</dimen>
+    <dimen name="swc_basic_card_app_name_text_size">18sp</dimen>
+    <dimen name="swc_basic_card_app_info_margin_bottom">12dp</dimen>
+    <dimen name="swc_basic_card_app_info_margin_top">5dp</dimen>
+
+    <!-- Gallery card view -->
+    <dimen name="swc_gallery_card_app_name_text_size">18sp</dimen>
+    <dimen name="swc_gallery_card_app_download_icon_vertical_margin">10dp</dimen>
+    <dimen name="swc_gallery_card_app_info_margin_start">11dp</dimen>
+    <dimen name="swc_gallery_card_app_info_margin_end">15dp</dimen>
+    <dimen name="swc_gallery_card_app_description_vertical_margin">10dp</dimen>
+    <dimen name="swc_gallery_card_app_description_text_size">12sp</dimen>
+    <dimen name="swc_gallery_card_app_description_text_line_spacing">3dp</dimen>
+
+    <!-- Simple card view -->
+    <dimen name="swc_simple_card_app_name_text_size">14sp</dimen>
+    <dimen name="swc_simple_card_app_name_text_line_spacing">2dp</dimen>
+    <dimen name="swc_simple_card_app_name_margin_top">3dp</dimen>
+    <dimen name="swc_simple_card_app_status_background_size">65dp</dimen>
+    <dimen name="swc_simple_card_app_status_icon_margin_left">5dp</dimen>
+    <dimen name="swc_simple_card_app_status_icon_margin_bottom">40dp</dimen>
+    <dimen name="swc_simple_card_app_icon_margin_top">25dp</dimen>
+    <dimen name="swc_simple_card_app_rating_bar_margin_end">5dp</dimen>
+    <dimen name="swc_simple_card_app_rating_bar_margin_top">5dp</dimen>
+
+    <!-- Banner view -->
+    <dimen name="swc_banner_height">192dp</dimen>
+    <dimen name="swc_banner_dot_container_height">50dp</dimen>
+    <dimen name="swc_banner_dot_container_padding">6dp</dimen>
+    <dimen name="swc_banner_dot_margin">2dp</dimen>
+
+    <dimen name="native_ad_item_height">105dp</dimen>
+    <dimen name="native_ad_download_icon_width">80dp</dimen>
+    <dimen name="native_ad_download_icon_height">30dp</dimen>
+    <dimen name="native_ad_title_text_size">16sp</dimen>
+    <dimen name="native_ad_description_text_size">11sp</dimen>
+    <dimen name="native_ad_download_text_size">12sp</dimen>
+    <dimen name="native_ad_icon_margin_right">10dp</dimen>
+    <dimen name="native_ad_icon_margin_top">20dp</dimen>
+    <dimen name="native_ad_description_text_line_spacing">3dp</dimen>
+
+    <dimen name="recommend_app_download_icon_width">80dp</dimen>
+    <dimen name="recommend_app_download_icon_height">30dp</dimen>
+    <dimen name="recommend_app_title_text_size">16sp</dimen>
+    <dimen name="recommend_app_category_text_size">14sp</dimen>
+    <dimen name="recommend_app_download_text_size">12sp</dimen>
+</resources>

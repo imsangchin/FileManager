@@ -1,0 +1,1292 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="alarm_set">
+        <item>"Modinātājs iestatīts mazāk par 1 minūti no šā brīža."</item>
+        <item>"Modinātājs iestatīts <ns1:g example="2" id="DAYS">%1$s</ns1:g> no šā brīža."</item>
+        <item>"Modinātājs iestatīts <ns1:g example="2" id="HOURS">%2$s</ns1:g> no šā brīža."</item>
+        <item>"Modinātājs iestatīts <ns1:g example="2" id="DAYS">%1$s</ns1:g> un <ns1:g example="2" id="HOURS">%2$s</ns1:g> no šā brīža."</item>
+        <item>"Modinātājs iestatīts <ns1:g example="2" id="MINUTES">%3$s</ns1:g> no šā brīža."</item>
+        <item>"Modinātājs iestatīts <ns1:g example="2" id="DAYS">%1$s</ns1:g> un <ns1:g example="2" id="MINUTES">%3$s</ns1:g> no šā brīža."</item>
+        <item>"Modinātājs iestatīts <ns1:g example="2" id="HOURS">%2$s</ns1:g> un <ns1:g example="2" id="MINUTES">%3$s</ns1:g> no šā brīža."</item>
+        <item>"Modinātājs iestatīts <ns1:g example="2" id="DAYS">%1$s</ns1:g>, <ns1:g example="2" id="HOURS">%2$s</ns1:g> un <ns1:g example="2" id="MINUTES">%3$s</ns1:g> no šā brīža."</item>
+    </string-array>
+    <string-array name="charset_array">
+        <item>"Latīņu-1 (ISO-8859-1)"</item>
+        <item>"Unicode (UTF-8)"</item>
+        <item>"Ķīniešu (GBK)"</item>
+        <item>"Ķīniešu (Big5)"</item>
+        <item>"Japāņu (ISO-2022-JP)"</item>
+        <item>"Japāņu (SHIFT_JIS)"</item>
+        <item>"Japāņu (EUC-JP)"</item>
+        <item>"Korejiešu (EUC-KR)"</item>
+    </string-array>
+    <string-array name="country_names">
+        <item>"Afganistāna (جمهوری اسلامی افغانستان)"</item>
+        <item>"Albānija (Shqipëri)"</item>
+        <item>"Alžīrija"</item>
+        <item>"Amerikas Samoa"</item>
+        <item>"Andora (Principat d\'Andorra)"</item>
+        <item>"Angola (República de Angola)"</item>
+        <item>"Angilja"</item>
+        <item>"Antarktika"</item>
+        <item>"Antigva un Barbuda"</item>
+        <item>"Argentīna (República Argentina)"</item>
+        <item>"Armēnija (Hayastan)"</item>
+        <item>"Aruba"</item>
+        <item>"Austrālija (Australia)"</item>
+        <item>"Austrija (Österreich)"</item>
+        <item>"Azerbaidžāna"</item>
+        <item>"Bahamas"</item>
+        <item>"Bahreina (مملكة البحرين)"</item>
+        <item>"Bangladeša (বাংলাদেশ)"</item>
+        <item>"Barbadosa"</item>
+        <item>"Baltkrievija (Беларусь)"</item>
+        <item>"Beļģija (België)"</item>
+        <item>"Beļģija (België)"</item>
+        <item>"Beliza"</item>
+        <item>"Benina"</item>
+        <item>"Bermudu salas"</item>
+        <item>"Butāna"</item>
+        <item>"Bolīvija"</item>
+        <item>"Bosnija un Hercegovina (Bosna i Hercegovina)"</item>
+        <item>"Botsvāna (Lefatshe la Botswana)"</item>
+        <item>"Buvē sala"</item>
+        <item>"Brazīlija"</item>
+        <item>"Britu Indijas okeāna teritorija"</item>
+        <item>"Bruneja Darusalama (بروني دارالسلام)"</item>
+        <item>"Bulgārija (България/Balgariya)"</item>
+        <item>"Burkinafaso"</item>
+        <item>"Burundi"</item>
+        <item>"Kambodža (कम्बोजदेश)"</item>
+        <item>"Kamerūna"</item>
+        <item>"Kanāda"</item>
+        <item>"Kaboverde"</item>
+        <item>"Kaimanu salas"</item>
+        <item>"Centrālāfrikas Republika (République centrafricaine)"</item>
+        <item>"Čada"</item>
+        <item>"Čīle"</item>
+        <item>"Ķīna (中國)"</item>
+        <item>"Ziemassvētku sala"</item>
+        <item>"Kokosu salas (Keeling)"</item>
+        <item>"Kolumbija"</item>
+        <item>"Komoru salas"</item>
+        <item>"Kongo"</item>
+        <item>"Kuka salas"</item>
+        <item>"Kostarika"</item>
+        <item>"Kotdivuāra"</item>
+        <item>"Horvātija (Hrvatska)"</item>
+        <item>"Kuba"</item>
+        <item>"Kipra"</item>
+        <item>"Čehijas Republika (Česká republika)"</item>
+        <item>"Dānija (Danmark)"</item>
+        <item>"Džibutija"</item>
+        <item>"Dominika"</item>
+        <item>"Dominikānas Republika"</item>
+        <item>"Austrumtimora"</item>
+        <item>"Ekvadora"</item>
+        <item>"Ēģipte (مصر‎)"</item>
+        <item>"Salvadora"</item>
+        <item>"Ekvatoriālā Gvineja"</item>
+        <item>"Eritreja"</item>
+        <item>"Igaunija (Eesti)"</item>
+        <item>"Etiopija"</item>
+        <item>"Folklenda salas"</item>
+        <item>"Fēru salas"</item>
+        <item>"Fidži salas"</item>
+        <item>"Somija (Suomi)"</item>
+        <item>"Francija (France)"</item>
+        <item>"Franču Gviāna"</item>
+        <item>"Franču Polinēzija"</item>
+        <item>"Franču dienvidu teritorijas"</item>
+        <item>"Gabona"</item>
+        <item>"Gambija"</item>
+        <item>"Gruzija (საქართველო)"</item>
+        <item>"Vācija (Deutschland)"</item>
+        <item>"Gana"</item>
+        <item>"Gibraltārs"</item>
+        <item>"Grieķija (Ελλάδα)"</item>
+        <item>"Grenlande"</item>
+        <item>"Grenāda"</item>
+        <item>"Gvadelupa"</item>
+        <item>"Guama"</item>
+        <item>"Gvatemala"</item>
+        <item>"Gvineja"</item>
+        <item>"Gvineja-Bisava"</item>
+        <item>"Gajāna"</item>
+        <item>"Haiti"</item>
+        <item>"Hērda Sala un Makdonalda Salas"</item>
+        <item>"Vatikāns (Stato della Città del Vaticano)"</item>
+        <item>"Hondurasa"</item>
+        <item>"Honkonga (香港)"</item>
+        <item>"Ungārija (Magyarország)"</item>
+        <item>"Islande (Ísland)"</item>
+        <item>"Indija (भारत गणराज्य )"</item>
+        <item>"Indonēzija (Republik Indonesia)"</item>
+        <item>"Irāna (ایران)"</item>
+        <item>"Irāka (العراق)"</item>
+        <item>"Īrija (Ireland)"</item>
+        <item>"Izraēla (מְדִינַת יִשְׂרָאֵל  /  دَوْلَةُ إِسْرَائِيلَ)"</item>
+        <item>"Itālija (Italia)"</item>
+        <item>"Jamaika"</item>
+        <item>"Japāna (日本国)"</item>
+        <item>"Jordānija (L\'Ürdünn)"</item>
+        <item>"Kazahstāna"</item>
+        <item>"Kenija (Jamhuri ya Kenya)"</item>
+        <item>"Kiribati"</item>
+        <item>"Korejas Tautas Demokrātiskā Republika (조선민주주의인민공화국)"</item>
+        <item>"Korejas Republika (대한민국)"</item>
+        <item>"Kuveita (دولة الكويت)"</item>
+        <item>"Kirgizstāna"</item>
+        <item>"Laosas Tautas Demokrātiskā Republika"</item>
+        <item>"Latvija (Latvija)"</item>
+        <item>"Libāna (اَلْجُمْهُورِيَّة اَللُّبْنَانِيَّة)"</item>
+        <item>"Lesoto"</item>
+        <item>"Libērija"</item>
+        <item>"Lībijas Sociālistiskā Arābu tautas Džamahīrija"</item>
+        <item>"Lihtenšteina (Liechtenstein)"</item>
+        <item>"Lietuva (Lietuva)"</item>
+        <item>"Luksemburga (Lëtzebuerg)"</item>
+        <item>"Makao"</item>
+        <item>"Maķedonija"</item>
+        <item>"Madagaskara"</item>
+        <item>"Malāvija"</item>
+        <item>"Malaizija (Persekutuan Malaysia)"</item>
+        <item>"Maldīvu salas"</item>
+        <item>"Mali"</item>
+        <item>"Malta (Malta)"</item>
+        <item>"Māršala salas"</item>
+        <item>"Martinika (Martinique)"</item>
+        <item>"Mauritānija"</item>
+        <item>"Maurīcija (Republik Moris)"</item>
+        <item>"Majota"</item>
+        <item>"Meksika"</item>
+        <item>"Mikronēzija"</item>
+        <item>"Moldova (Moldova)"</item>
+        <item>"Monako (Monaco)"</item>
+        <item>"Mongolija"</item>
+        <item>"Montserrata"</item>
+        <item>"Maroka"</item>
+        <item>"Mozambika"</item>
+        <item>"Mjanma (Pyidaunzu Thanmăda Myăma Nainngandaw)"</item>
+        <item>"Namībija"</item>
+        <item>"Nauru"</item>
+        <item>"Nepāla (सङ्घीय लोकतान्त्रिक गणतन्त्र नेपाल)"</item>
+        <item>"Nīderlandes Antiļas"</item>
+        <item>"Nīderlande (Nederland)"</item>
+        <item>"Jaunkaledonija (Nouvelle-Calédonie)"</item>
+        <item>"Jaunzēlande (New Zealand)"</item>
+        <item>"Nikaragva"</item>
+        <item>"Nigēra"</item>
+        <item>"Nigērija (Republik Nijeriya)"</item>
+        <item>"Niue"</item>
+        <item>"Norfolkas Sala (Norfuk Ailen)"</item>
+        <item>"Ziemeļu Marianas Salas"</item>
+        <item>"Norvēģija (Norge)"</item>
+        <item>"Omāna (لطنة عمان)"</item>
+        <item>"Pakistāna (پاکِستان)"</item>
+        <item>"Palau"</item>
+        <item>"Panama"</item>
+        <item>"Papua-Jaungvineja"</item>
+        <item>"Paragvaja"</item>
+        <item>"Peru"</item>
+        <item>"Filipīnas (Pilipinas)"</item>
+        <item>"Pitkērna"</item>
+        <item>"Polija (Polska)"</item>
+        <item>"Portugāle (Portugal)"</item>
+        <item>"Puertoriko"</item>
+        <item>"Katara"</item>
+        <item>"Reinjona"</item>
+        <item>"Rumānija (România)"</item>
+        <item>"Krievija (Россия)"</item>
+        <item>"Ruanda"</item>
+        <item>"Sentkitsa un Nevisa"</item>
+        <item>"Sentlūsija"</item>
+        <item>"Sentvinsenta un Grenadīnas"</item>
+        <item>"Samoa"</item>
+        <item>"Sanmarīno (San Marino)"</item>
+        <item>"Santome un Prinsipi"</item>
+        <item>"Saūda Arābija (المملكة العربية السعودية)"</item>
+        <item>"Senegāla"</item>
+        <item>"Serbija un Melnkalne"</item>
+        <item>"Seišelas"</item>
+        <item>"Sjerraleone"</item>
+        <item>"Singapūra (Singapore)"</item>
+        <item>"Slovākija (Slovensko)"</item>
+        <item>"Slovēnija (Slovenija)"</item>
+        <item>"Zālamana Salas (Solomon Islands)"</item>
+        <item>"Somālija"</item>
+        <item>"Dienvidāfrikas Republika (Republiek van Suid-Afrika)"</item>
+        <item>"Dienviddžordžija un Dienvidsendviču Salas"</item>
+        <item>"Spānija (España)"</item>
+        <item>"Šrilanka (இலங்கை ஜனநாயக சமத்துவ)"</item>
+        <item>"Sv. Helēnas sala"</item>
+        <item>"Senpjēra un Mikelona (St. Pierre and Miquelon)"</item>
+        <item>"Sudāna (جمهورية السودان)"</item>
+        <item>"Surinama"</item>
+        <item>"Svalbāra un Jana Majena sala"</item>
+        <item>"Svazilenda (Swatini)"</item>
+        <item>"Zviedrija (Sverige)"</item>
+        <item>"Šveice (Suisse)"</item>
+        <item>"Sīrijas Arābu Republika (جمهورية العربية السورية)"</item>
+        <item>"Taivāna (台灣)"</item>
+        <item>"Tadžikistāna"</item>
+        <item>"Tanzānija"</item>
+        <item>"Taizeme (ราชอาณาจักรไทย)"</item>
+        <item>"Togo"</item>
+        <item>"Tokelau"</item>
+        <item>"Tonga"</item>
+        <item>"Trinidāda un Tobāgo"</item>
+        <item>"Tunisija"</item>
+        <item>"Turcija (Türkiye)"</item>
+        <item>"Turkmenistāna"</item>
+        <item>"Tērksas un Kaikosas salas"</item>
+        <item>"Tuvalu"</item>
+        <item>"Uganda (Jamhuri ya Uganda)"</item>
+        <item>"Ukraina (Україна)"</item>
+        <item>"Apvienotie Arābu Emirāti (دولة الإمارات العربية المتحدة‎)"</item>
+        <item>"Apvienotā Karaliste (United Kingdom)"</item>
+        <item>"Amerikas Savienoto Valstu mazās aizjūras salas"</item>
+        <item>"Amerikas Savienotās Valstis"</item>
+        <item>"Urugvaja"</item>
+        <item>"Uzbekistāna"</item>
+        <item>"Vanuatu"</item>
+        <item>"Venecuēla"</item>
+        <item>"Vjetnama (Việt Nam)"</item>
+        <item>"Britu Virdžīnu salas"</item>
+        <item>"ASV Virdžīnu salas"</item>
+        <item>"Volisa un Futunas salas"</item>
+        <item>"Rietumsahāra"</item>
+        <item>"Jemena"</item>
+        <item>"Zaira"</item>
+        <item>"Zambija"</item>
+        <item>"Zimbabve (Simudzai Mureza wedu WeZimbabwe)"</item>
+    </string-array>
+    <plurals name="dialog_unzip_preview_size_text">
+        <item quantity="one">"Kopā: %1$d fails, %2$s"</item>
+        <item quantity="other">"Kopā: %1$d faili, %2$s"</item>
+    </plurals>
+    <plurals name="drag_items">
+        <item quantity="one">"Vilkt vienumu"</item>
+        <item quantity="other">"Vilkt vienumus"</item>
+    </plurals>
+    <plurals name="number_search_items">
+        <item quantity="one">"Atrasts %d fails"</item>
+        <item quantity="other">"Atrasti %d faili"</item>
+    </plurals>
+    <plurals name="number_selected_items">
+        <item quantity="one">"%d atlasīts"</item>
+        <item quantity="other">"%d atlasīts"</item>
+    </plurals>
+    <plurals name="uf_sdk_number_of_subscribers_format">
+        <item quantity="one">"%1$s patīk šī tēma"</item>
+        <item quantity="other">"%1$s patīk šī tēma"</item>
+    </plurals>
+    <plurals name="uf_sdk_topics">
+        <item quantity="one">"tēma"</item>
+        <item quantity="other">"tēmas"</item>
+    </plurals>
+    <plurals name="uv_comments">
+        <item quantity="one">"komentārs"</item>
+        <item quantity="other">"komentāri"</item>
+    </plurals>
+    <plurals name="uv_number_of_subscribers_format">
+        <item quantity="one">"%1$s vēlas šo ideju"</item>
+        <item quantity="other">"%1$s vēlas šo ideju"</item>
+    </plurals>
+    <plurals name="uv_people">
+        <item quantity="one">"persona"</item>
+        <item quantity="other">"personas"</item>
+    </plurals>
+    <plurals name="uv_subscribers">
+        <item quantity="one">"abonents"</item>
+        <item quantity="other">"abonenti"</item>
+    </plurals>
+    <string name="AsusWebstroage">"AsusWebstorage"</string>
+    <string name="AuCloud">"AuCloud"</string>
+    <string name="BaiDuPCS">"BaiDuPCS"</string>
+    <string name="Default">"Noklusējums"</string>
+    <string name="Dropbox">"Dropbox"</string>
+    <string name="Google_Drive">"Google Drive"</string>
+    <string name="HomeCloud">"HomeCloud"</string>
+    <string name="OneDrive">"OneDrive"</string>
+    <string name="Yandex">"Yandex"</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Pārvietoties uz sākuma ekrānu"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s: %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s: %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Pārvietoties augšup"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Vairāk opciju"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Gatavs"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Skatīt visu"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Izvēlieties lietotni"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"IZSLĒGTS"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"IESLĒGTS"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Meklējiet…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Notīrīt vaicājumu"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Meklēšanas vaicājums"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Meklēt"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Iesniegt vaicājumu"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Meklēšana ar balsi"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Kopīgot ar:"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Kopīgot ar %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Sakļaut"</string>
+    <string name="about">"Par"</string>
+    <string name="account_asus">"ASUS"</string>
+    <string name="action">"Pierakstīties"</string>
+    <string description="cutstom action bar view title for about" maxwidth="-1" name="action_about">"Par"</string>
+    <string description="action add files" maxwidth="-1" name="action_add">"Pievienot"</string>
+    <string description="cutstom action bar view title for add folder" maxwidth="-1" name="action_add_folder">"Pievienot mapi"</string>
+    <string description="View title of custom action bar, apply to multiple selected files" maxwidth="-1" name="action_apply_selected_file">"Lietot"</string>
+    <string description="action cancel" maxwidth="-1" name="action_cancel">"Atcelt"</string>
+    <string maxwidth="-1" name="action_clean">"Notīrīt"</string>
+    <string maxwidth="-1" name="action_clean_all">"Notīrīt visu"</string>
+    <string description="cutstom action bar view title for clear search history" maxwidth="" name="action_clear_history">"Notīrīt meklēšanas vēsturi"</string>
+    <string description="cutstom action bar view title for edit" maxwidth="" name="action_edit">"Rediģēt"</string>
+    <string maxwidth="" name="action_hidden_zone">"Pārvietot uz slēpto nodalījumu"</string>
+    <string description="cutstom action bar view title for hinde system file" maxwidth="-1" name="action_hind_system_file">"Slēpt sistēmas failus"</string>
+    <string name="action_loading">"Notiek ielāde..."</string>
+    <string description="cutstom action bar view title for open with" maxwidth="" name="action_open_with">"Atvērt, izmantojot..."</string>
+    <string name="action_refresh_cloudfile">"Atsvaidzināt"</string>
+    <string maxwidth="-1" name="action_restore">"Atjaunot"</string>
+    <string maxwidth="-1" name="action_restore_all">"Atjaunot visu"</string>
+    <string description="cutstom action bar view title for search" maxwidth="" name="action_search">"Meklēt"</string>
+    <string description="cutstom action bar view title for set as" maxwidth="" name="action_set_as">"Iestatīt attēlu kā"</string>
+    <string description="menu title for setting" maxwidth="-1" name="action_settings">"Iestatījumi"</string>
+    <string description="cutstom action bar view title for sharing" maxwidth="-1" name="action_share">"Kopīgot"</string>
+    <string description="String for asking for the rule of sorting" maxwidth="-1" name="action_sort_by">"Kārtot pēc"</string>
+    <string description="cutstom action bar view title for zip" maxwidth="" name="action_zip">"Saspiest"</string>
+    <string description="Dialog title: Add cloud storage" maxwidth="-1" name="add_cloud_storage_dialog_title">"Pievienot mākoņkrātuvi"</string>
+    <string name="add_favorite">"Pievienot izlasei"</string>
+    <string name="add_favorite_folder">"Pievienot izlases mapi"</string>
+    <string name="add_favorite_success">"Saglabāt izlasē"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="add_progress">"Veido..."</string>
+    <string name="app_cloudstorage_name">"CloudStorage"</string>
+    <string name="app_upload_complete">"%s no augšupielādes pabeigts"</string>
+    <string description="" name="article_one">"Es piekrītu ASUS \"<u>noteikumiem un nosacījumiem</u>\", ASUS \"<u>konfidencialitātes politikai</u>\", ASUS WebStorage \"<u>noteikumiem un nosacījumiem</u>\", ASUS WebStorage \"<u>konfidencialitātes politikai</u>\"."</string>
+    <string description="" name="article_two">"Informējiet mani par ASUS jaunumiem, programmatūras atjaunināšanu, jaunāko informāciju par izstrādājumiem un pakalpojumiem, izmantojot eDM."</string>
+    <string description="Text for create asus account button." maxwidth="" name="asus_account_create_button">"Reģistrēties"</string>
+    <string name="asus_account_integrate_dialog_content">"Vai vēlaties ASUS kontu integrēt WebStorage kontā? \n\n Pēc integrēšanas varat izmantot visus ASUS pakalpojumus."</string>
+    <string name="asus_account_integrate_dialog_skip">"Izlaist"</string>
+    <string name="asus_account_integrate_dialog_title">"Integrēt ASUS pakalpojumus"</string>
+    <string name="asus_account_integrate_dialog_yes">"Jā"</string>
+    <string description="Text for asus account content 1st." maxwidth="" name="asus_account_msg_content_1">"Saņemt reģistrēto izstrādājumu personalizētus ASUS atbalsta pakalpojumus un garantijas pagarinājumus."</string>
+    <string description="Text for asus account content 2nd." maxwidth="" name="asus_account_msg_content_2">"Saņemt 5 GB bezmaksas mākoņa krātuves vietu."</string>
+    <string description="Text for asus account content 3rd." maxwidth="" name="asus_account_msg_content_3">"Saņemt jaunāko informāciju par piederumiem un atjaunotajiem izstrādājumiem."</string>
+    <string description="Text for asus account content title." maxwidth="" name="asus_account_msg_title">"Izveidojiet ASUS kontu un varēsiet veikt tālāk norādīto."</string>
+    <string name="asus_account_only_one_alert">"Var pievienot tikai vienu ASUS kontu. Pirms konta aizvietošanas ar jaunu kontu ir jāizdzēš vecais konts."</string>
+    <string name="asus_account_prefc">"Iestatījumi"</string>
+    <string name="asus_account_prefc_advc">"Papildiestatījumi"</string>
+    <string name="asus_account_prefc_aws">"ASUS WebStorage"</string>
+    <string name="asus_account_prefc_homebox">"ASUS HomeCloud"</string>
+    <string name="asus_account_registe_country_error">"Lūdzu, izvēlieties savu valsti/reģionu!"</string>
+    <string name="asus_account_registe_id_error">"E-pasta formāta kļūda"</string>
+    <string name="asus_account_registe_policy_error">"Lai reģistrētu ASUS kontu, ir jāpiekrīt ASUS politikai!"</string>
+    <string name="asus_account_registe_pw_error_1">"Paroles lauks nedrīkst būt tukšs!"</string>
+    <string name="asus_account_registe_pw_error_2">"Apstiprināšanas paroles lauks nedrīkst būt tukšs!"</string>
+    <string name="asus_account_registe_pw_error_3">"Parolei un apstiprināšanas parolei ir jābūt identiskai!"</string>
+    <string name="asus_account_registe_pw_error_4">"Parolei ir jāsastāv no 8 līdz 25 rakstzīmēm."</string>
+    <string name="asus_account_removeaccount_dialog_content">"Konta integrēšana ir veiksmīga. Piesakieties vēlreiz, izmantojot jaunu kontu."</string>
+    <string name="asus_account_removeaccount_dialog_title">"ASUS konts sekmīgi integrēts"</string>
+    <string name="asus_commonui_activity_chooser_view_see_all">Skatīt visu</string>
+    <string name="asus_commonui_activity_resolver_use_always">Vienmēr</string>
+    <string name="asus_commonui_activity_resolver_use_once">Tikai vienreiz</string>
+    <string name="asus_commonui_activitychooserview_choose_application">Izvēlieties lietotni</string>
+    <string name="asus_commonui_activitychooserview_choose_application_error">Kļūda</string>
+    <string name="asus_commonui_cancel_label">Atcelt</string>
+    <string name="asus_commonui_chooseActivity">Izvēlieties darbību</string>
+    <string name="asus_commonui_day_picker_description">Mēneša dienu tabula</string>
+    <string name="asus_commonui_deleted_key">
+        <ns1:g example="4" id="key">%1$s</ns1:g> dzēsts</string>
+    <string name="asus_commonui_done_label">Labi</string>
+    <string name="asus_commonui_hour_picker_description">Stundu aplis</string>
+    <string name="asus_commonui_item_is_selected">
+        <ns1:g example="2013" id="item">%1$s</ns1:g> atlasīts</string>
+    <string name="asus_commonui_minute_picker_description">Minūšu aplis</string>
+    <string name="asus_commonui_noApplications">Šo darbību nevar veikt neviena lietotne.</string>
+    <string name="asus_commonui_no_url_handler">Nav atrasta neviena lietotne, kas varētu atvērt vietrādi URL.</string>
+    <string name="asus_commonui_select_day">Atlasīt mēnesi un dienu</string>
+    <string name="asus_commonui_select_hours">Atlasīt stundas</string>
+    <string name="asus_commonui_select_minutes">Atlasīt minūtes</string>
+    <string name="asus_commonui_select_year">Atlasīt gadu</string>
+    <string name="asus_commonui_shareactionprovider_share_with">Koplietot ar</string>
+    <string name="asus_commonui_shareactionprovider_share_with_application">Koplietot ar</string>
+    <string name="asus_commonui_whichApplication">Pabeigt darbību, izmantojot</string>
+    <string name="asus_commonui_whichHomeApplication">Atlasīt mājas lietotni</string>
+    <string name="asus_commonui_year_picker_description">Gada saraksts</string>
+    <string name="asus_feedback_and_help">Atsauksmes un palīdzība</string>
+    <string name="asus_flag">"-"</string>
+    <string name="asus_registe_success_title">"ASUS konts sekmīgi reģistrēts"</string>
+    <string name="asus_response_resultdata">"Šis konts jau ir reģistrēts."</string>
+    <string name="asusaccount_app_name">"ASUS konts"</string>
+    <string maxwidth="-1" name="attribution_notice">"Paziņojums par attiecināšanu"</string>
+    <string maxwidth="-1" name="attribution_notice_content">
+    "
+    \nŠis izstrādājums ietver tālāk norādīto atvērto pirmkodu:
+\n\nuservoice-android-sdk, kas licencēts saskaņā ar Apache License versiju 2.0. Šo licenci var lejupielādēt šeit: http://www.apache.org/licenses/LICENSE-2.0.html.
+    "
+    </string>
+    <string maxWidth="" name="au_label">"au Cloud"</string>
+    <string name="aucloud_account_only_one_alert">"Var pievienot tikai vienu Cloud kontu. Pirms konta aizvietošanas ar jaunu kontu ir jāizdzēš vecais konts."</string>
+    <string name="aucloud_login_redirect">"Lai pieteiktos, ievadiet ID lietotājvārdu un paroli."</string>
+    <string maxWidth="" name="auth_stop">"Autentifikācijas process tika pamests."</string>
+    <string description="string indicating how camera shooting feature is used" maxwidth="-1" name="auto">"Automātiski"</string>
+    <string name="aws_install_contnet">"WebStorage nav instalēts. Vai vēlaties lejupielādēt un instalēt pakalpojumā Play Store?"</string>
+    <string name="aws_install_title">"WebStorage nav instalēts"</string>
+    <string description="button text." maxwidth="-1" name="back_button_label">"Iepriekšējais"</string>
+    <string name="baidu_alert_info">"Balstoties uz Baidu platformas, šī ierīce var piekļūt tikai sadaļā "My Application Data\\asus\\" esošiem datiem."</string>
+    <string name="baidu_alert_title">"Baidu mākoņa krātuve"</string>
+    <string name="baidu_storage_title">"百度云"</string>
+    <string name="baidupcs_account_only_one_alert">"ASUS kontam var pievienot tikai vienu Baidu. Pirms konta aizvietošanas ar jaunu kontu ir jāizdzēš vecais konts."</string>
+    <string name="bd_label">"ASUS Baidu"</string>
+    <string name="btn_OK">"Labi"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="calculate_progress">"Noris..."</string>
+    <string description="Toast: can not open in hidden zone" maxwidth="-1" name="can_not_open_in_hidden_zone">"Nevar atvērt slēptajā nodalījumā"</string>
+    <string description="Dialog Button: cancel for dialog" maxwidth="" name="cancel">"Atcelt"</string>
+    <string name="cancle">"Atcelt"</string>
+    <string name="category_apk">"Lietotnes"</string>
+    <string maxwidth="11" name="category_app1">"Lietotnes"</string>
+    <string name="category_compress">"Saspiests"</string>
+    <string maxwidth="11" name="category_compressed1">"Saspiests"</string>
+    <string name="category_count">"%s"</string>
+    <string maxwidth="11" name="category_document1">"Dokumenti"</string>
+    <string name="category_documents">"Dokumenti"</string>
+    <string name="category_download">"Lejupielādes"</string>
+    <string maxwidth="11" name="category_download1">"Lejupielādes"</string>
+    <string name="category_favorite">"Izlase"</string>
+    <string maxwidth="11" name="category_favorite1">"Izlase"</string>
+    <string name="category_game">"Spēles"</string>
+    <string name="category_image">"Attēli"</string>
+    <string maxwidth="11" name="category_image1">"Attēli"</string>
+    <string maxwidth="11" name="category_large_file1">"Lieli faili"</string>
+    <string name="category_music">"Mūzika"</string>
+    <string maxwidth="11" name="category_music1">"Mūzika"</string>
+    <string name="category_name_app_wallpaper">"Kustīgas fona tapetes"</string>
+    <string name="category_name_app_widgets">"Logrīki"</string>
+    <string name="category_name_books_and_reference">"Grāmatas un uzziņas"</string>
+    <string name="category_name_business">"Uzņēmums"</string>
+    <string name="category_name_comics">"Komiksi"</string>
+    <string name="category_name_communication">"Saziņa"</string>
+    <string name="category_name_education">"Izglītība"</string>
+    <string name="category_name_entertainment">"Izklaide"</string>
+    <string name="category_name_finance">"Finanses"</string>
+    <string name="category_name_game">"Spēles"</string>
+    <string name="category_name_game_action">"Darbības spēles"</string>
+    <string name="category_name_game_adventure">"Piedzīvojumu spēles"</string>
+    <string name="category_name_game_arcade">"Arkādes spēles"</string>
+    <string name="category_name_game_board">"Galda spēles"</string>
+    <string name="category_name_game_card">"Kāršu spēles"</string>
+    <string name="category_name_game_casino">"Kazino spēles"</string>
+    <string name="category_name_game_casual">"Dažādas spēles"</string>
+    <string name="category_name_game_educational">"Izglītojošas spēles"</string>
+    <string name="category_name_game_family">"Ģimene"</string>
+    <string name="category_name_game_music">"Mūzika"</string>
+    <string name="category_name_game_puzzle">"Atjautības spēles"</string>
+    <string name="category_name_game_racing">"Sacīkstes"</string>
+    <string name="category_name_game_role_playing">"Lomu spēles"</string>
+    <string name="category_name_game_simulation">"Simulācijas spēles"</string>
+    <string name="category_name_game_sports">"Sporta spēles"</string>
+    <string name="category_name_game_strategy">"Stratēģiskās spēles"</string>
+    <string name="category_name_game_trivia">"Viktorīnas"</string>
+    <string name="category_name_game_word">"Vārdu spēles"</string>
+    <string name="category_name_health_and_fitness">"Veselība un fitness"</string>
+    <string name="category_name_libraries_and_demo">"Bibliotēkas un demoversijas"</string>
+    <string name="category_name_lifestyle">"Dzīvesveids"</string>
+    <string name="category_name_media_and_video">"Multivide un video"</string>
+    <string name="category_name_medical">"Medicīna"</string>
+    <string name="category_name_music_and_audio">"Mūzika un audio"</string>
+    <string name="category_name_news_and_magazines">"Ziņas un žurnāli"</string>
+    <string name="category_name_personalization">"Personalizēšana"</string>
+    <string name="category_name_photography">"Fotoattēli"</string>
+    <string name="category_name_productivity">"Produktivitāte"</string>
+    <string name="category_name_shopping">"Iepirkšanās"</string>
+    <string name="category_name_social">"Sociālie tīkli"</string>
+    <string name="category_name_sports">"Sports"</string>
+    <string name="category_name_tools">"Rīki"</string>
+    <string name="category_name_transportation">"Transportēšana"</string>
+    <string name="category_name_travel_and_local">"Ārpus mājām"</string>
+    <string name="category_name_weather">"Laika ziņas"</string>
+    <string name="category_others">"Citi"</string>
+    <string maxwidth="11" name="category_recent1">"Nesenie"</string>
+    <string name="category_recent_files">"Nesen pievienotie"</string>
+    <string name="category_sorting_summary">"Atlasiet kategoriju panelī rādītos vienumus"</string>
+    <string name="category_title_category">"Kategorija"</string>
+    <string name="category_title_local_storage">"Lokālā krātuve"</string>
+    <string name="category_title_tools">"Rīki"</string>
+    <string name="category_toast_invalid_item_size_6_or_9">"Atlasiet 6 vai 9 vienumus"</string>
+    <string name="category_toast_invalid_item_size_9">"Atlasiet 9 vienumus"</string>
+    <string name="category_toast_invalid_remove">"Šo vienumu var noņemt"</string>
+    <string name="category_toast_max_item_size">"Atlasiet maksimāli 9 vienumus"</string>
+    <string name="category_video">"Video"</string>
+    <string maxwidth="11" name="category_video1">"Video"</string>
+    <string name="clear_account_info">"Aizmirst visus kontus"</string>
+    <string description="Menu Option: clear all checkbox" maxwidth="" name="clear_all">"Notīrīt visu"</string>
+    <string name="click_plus_to_add_favorite_folder">"Pieskarieties +, lai pievienotu izlases mapi"</string>
+    <string description="Toast: The size is over the limit and cannot be uploaded" maxwidth="-1" name="cloud_download_flie_limit_space">"Neizdevās lejupielādēt failu. Faila lielums pārsniedz maksimālo ierobežojumu."</string>
+    <string description="Toast: The name of the file uploaded is not supported by cloud server" maxwidth="-1" name="cloud_flie_name_not_supported">"Darbību nevarēja pabeigt, jo mākoņserveris neatbalsta faila nosaukumu."</string>
+    <string description="home cloud get available devices fail" name="cloud_homebox_get_devices_fail">"Neizdevās meklēt pieejamās HomeCloud ierīces"</string>
+    <string description="home cloud has no available devices" name="cloud_homebox_no_available_devices">"Nav pieejama neviena HomeCloud ierīce"</string>
+    <string description="home cloud device is sleep" name="cloud_homebox_status__info_Sleep">"Miegs"</string>
+    <string description="home cloud device is offline" name="cloud_homebox_status__info_offline">"Bezsaistē"</string>
+    <string description="home cloud device is online" name="cloud_homebox_status__info_online">"Tiešsaistē"</string>
+    <string description="home cloud device is offline" name="cloud_homebox_status_offline">"Ierīce ir bezsaistē"</string>
+    <string description="diaglog cloud background paste" name="cloud_paste_backgroud">"Fons"</string>
+    <string description="diaglog cloud  now is copy files" name="cloud_paste_copying">"Kopē..."</string>
+    <string description="diaglog cloud  current" name="cloud_paste_current">"Pašreizējais"</string>
+    <string description="diaglog cloud  now is delete source files" name="cloud_paste_deleting">"Dzēš avota failus..."</string>
+    <string description="diaglog cloud  paste" name="cloud_paste_downloading">"Lejupielādē failus"</string>
+    <string description="diaglog cloud  total" name="cloud_paste_total">"Kopā"</string>
+    <string description="diaglog cloud  paste uploading" name="cloud_paste_uploading">"Augšupielādē failus"</string>
+    <string description="Toast: cloud preview action" maxwidth="-1" name="cloud_preview_action_fail">"Neizdevās priekšskatīt mākoņa failus."</string>
+    <string description="Toast: cloud share action" maxwidth="-1" name="cloud_share_action_fail">"Neizdevās kopīgot mākoņa failus."</string>
+    <string description=">Do you want to remove" maxwidth="-1" name="cloud_storage_remove_hint">"Vai vēlaties atteikties no \"%s\" konta?"</string>
+    <string description="Dialog title: Remove cloud storage" maxwidth="-1" name="cloud_storage_remove_hint_title">"Atteikties"</string>
+    <string description=">Do you want to signin" maxwidth="-1" name="cloud_storage_sign_in">"Savienot, izmantojot šo kontu:"</string>
+    <string description="Dialog title: Signin cloud storage" maxwidth="-1" name="cloud_storage_sign_in_title">"Savienot %s"</string>
+    <string description=">Do you want to signout" maxwidth="-1" name="cloud_storage_sign_out">"Vai tiešām vēlaties atvienot \"%s\" ?"</string>
+    <string description="Dialog title: Signout cloud storage" maxwidth="-1" name="cloud_storage_sign_out_title">"Atvienot"</string>
+    <string description="Add more cloud storage" maxwidth="-1" name="cloud_storage_title">"Pievienot papildu mākoņkrātuvi"</string>
+    <string description="diaglog cloud  token is invalidate" name="cloud_token_invalidate">"Pilnvara ir nederīga. Lūdzu, pierakstieties vēlreiz!"</string>
+    <string description="Toast: The size is over the limit and cannot be uploaded" maxwidth="-1" name="cloud_upload_flie_limit_space">"Neizdevās augšupielādēt failu. Faila lielums pārsniedz maksimālo ierobežojumu."</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Iespējot"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"Lai lietotne <ns1:g id="APP_NAME">%1$s</ns1:g> darbotos, ir jāiespējo Google Play pakalpojumi."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Google Play pakalpojumu iespējošana"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Instalēt"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"Lai lietotne <ns1:g id="APP_NAME">%1$s</ns1:g> darbotos, ierīcē ir jāinstalē Google Play pakalpojumi."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Google Play pakalpojumu iegūšana"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Google Play pakalpojumu kļūda"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"Lietotnē <ns1:g id="APP_NAME">%1$s</ns1:g> ir radusies problēma ar Google Play pakalpojumu darbību. Lūdzu, mēģiniet vēlreiz."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"Lai lietotne <ns1:g id="APP_NAME">%1$s</ns1:g> darbotos, ir nepieciešami Google Play pakalpojumi, taču jūsu ierīce tos neatbalsta."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Atjaunināt"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"Lai lietotne <ns1:g id="APP_NAME">%1$s</ns1:g> darbotos, jums ir jāatjaunina Google Play pakalpojumi."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Google Play pakalpojumu atjaunināšana"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"Lai lietotne <ns1:g id="APP_NAME">%1$s</ns1:g> darbotos, ir jāinstalē Google Play pakalpojumi. Pašlaik notiek to atjaunināšana."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Ir nepieciešama jauna Google Play pakalpojumu versija. Drīzumā tā tiks instalēta."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Atvērt tālrunī"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Pierakstīties"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Pierakstīties ar Google kontu"</string>
+    <string name="confirm">"Apstiprināt"</string>
+    <string name="confirm_ok">"Labi"</string>
+    <string description="confirm password textview title" name="confirm_password">"Apstipriniet paroli"</string>
+    <string description="ask user to enter password again to confirm" name="confirm_password_edit">"Vēlreiz ievadiet paroli"</string>
+    <string description="content" maxwidth="-1" name="content">"Šīs programmatūras lietošana ir pakļauta noteikumiem un nosacījumiem, kas sniegti ASUS tīmekļa vietnē: \nhttp://www.asus.com"</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="copy">"Kopēt"</string>
+    <string description="Toast: copy ready" maxwidth="-1" name="copy_ready_more">"Izvēlētie faili ir nokopēti un gatavi ielīmēšanai."</string>
+    <string description="Toast: copy ready. %s is variable string." maxwidth="-1" name="copy_ready_one">"Fails \"%s\" ir nokopēts un gatavs ielīmēšanai."</string>
+    <string name="copy_to">"Kopēt uz"</string>
+    <string description="country region textview title" name="country_region">"Valsts/reģions"</string>
+    <string description="ack user to select on country" name="country_region_select">"Atlasiet reģionu"</string>
+    <string name="create_shortcut">"Izveidot īsinājumikonu"</string>
+    <string name="create_shortcut_dialog">"Palaidējā izveidojiet īsinājumikonu"</string>
+    <string name="create_shortcut_toast">"Īsinājumikonas izveide palaidējā pabeigta"</string>
+    <string name="cta_agree">"Atļaut"</string>
+    <string name="cta_check_title">"Ņemiet vērā!"</string>
+    <string name="cta_dialog_content"><b>Failu pārvaldnieks</b> mēģina izmantot tīklu. Atkarībā no abonementa var tikt piemērota papildu maksa.</string>
+    <string name="cta_dialog_title">"Tīkla izmantošana"</string>
+    <string name="cta_disagree">"Atteikt"</string>
+    <string name="cta_show_menu">"Tīkla atļauja"</string>
+    <string name="current_folder">"Pašreizējā mape"</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="cut">"Izgriezt"</string>
+    <string description="Toast: cut ready" maxwidth="-1" name="cut_ready_more">"Izvēlētie faili ir izgriezti un gatavi ielīmēšanai."</string>
+    <string description="Toast: cut ready. %s is variable string." maxwidth="-1" name="cut_ready_one">"Fails \"%s\" ir izgriezts un gatavs ielīmēšanai."</string>
+    <string description="button text for sort file by date" maxwidth="-1" name="date">"Datums"</string>
+    <string description="button text for sort file by date ascending" maxwidth="-1" name="date_ascending">"Datums (vecākais-jaunākais)"</string>
+    <string description="button text for sort file by date descending" maxwidth="-1" name="date_descending">"Datums (jaunākais–vecākais)"</string>
+    <string name="day">"1 diena"</string>
+    <string name="days">"<ns1:g id="days">%s</ns1:g> dienas"</string>
+    <string name="dbx_install_contnet">"Dropbox nav instalēts. Vai vēlaties lejupielādēt un instalēt pakalpojumā Play Store?"</string>
+    <string name="dbx_install_title">"Dropbox nav instalēts"</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="delete">"Dzēst"</string>
+    <string description="Dialog Title: delete dialog title" maxwidth="" name="delete_dialog">"Dzēst failu"</string>
+    <string description="Toast: delete fails" maxwidth="-1" name="delete_fail">"Neizdevās izdzēst failu."</string>
+    <string description="Dialog Content: text in dialog. %d is variable number." maxwidth="" name="delete_more_files">"Vai vēlaties dzēst %d vienumus?"</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="delete_one_directory">"Vai vēlaties dzēst direktoriju?"</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="delete_one_files">"Vai vēlaties dzēst failu?"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="delete_progress">"Notiek dzēšana..."</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="delete_size">"Izmēri: "</string>
+    <string description="Toast: delete success" maxwidth="-1" name="delete_success_more">"Izvēlētie faili ir izdzēsti."</string>
+    <string description="Toast: delete success. %s is variable string." maxwidth="-1" name="delete_success_one">"\"%s\" ir dzēsta."</string>
+    <string description="cutstom action bar view title for deselect all checkbox" maxwidth="" name="deselect_all">"Atcelt atlasi visam"</string>
+    <string name="device_root_path">"sakne"</string>
+    <string description="compress dialog title" maxwidth="-1" name="dialog_create_zip_title">"Ievadiet arhīva nosaukumu"</string>
+    <string description="extract zip file dialog title. %s is a dynamic string. It is zip file name." maxwidth="-1" name="dialog_extract_zip_title">"Izvilkt %s mapē:"</string>
+    <string name="dialog_load_stream_url_info">"Izgūst nepieciešamo informāciju no servera"</string>
+    <string name="dialog_msg_market_login_account">"Piesakieties savā Google kontā, lai lejupielādētu šo lietotni"</string>
+    <string description="text encoding dialog title" maxwidth="-1" name="dialog_text_encoding_title">"Teksta kodējums"</string>
+    <string name="dialog_title_market_login_account">"Pievienot kontu"</string>
+    <string description="show zip info dialog title. %s is a dynamic string. Is is a zip file name" maxwidth="-1" name="dialog_unzip_preview_title">"Izvilkt %s"</string>
+    <string description="Dialog Title: Directory information dialog title" maxwidth="-1" name="dir_info_dialog_title">"Direktorija informācija"</string>
+    <string name="display">"Parādīt kā"</string>
+    <string name="display_hint">"Mans dators, var būt tukšs"</string>
+    <string name="dm_openfile">"Atvērt failu"</string>
+    <string name="do_not_show_again">"Vairs nerādīt"</string>
+    <string name="domain">"Domēns:"</string>
+    <string name="domain_hint">"Var būt tukšs"</string>
+    <string name="download_fail">"Lejupielāde neizdevās!"</string>
+    <string name="drag_items_one">"Vilkt vienumu"</string>
+    <string name="drag_items_other">"Vilkt vienumus"</string>
+    <string name="drawer_close">"Aizvērt navigācijas sadaļu"</string>
+    <string name="drawer_home">Sākums</string>
+    <string name="drawer_open">"Atvērt navigācijas sadaļu"</string>
+    <string description="Hint: the operation is incorrect" maxwidth="-1" name="drop_incorrect_hint">"Nepareiza darbība"</string>
+    <string description="Hint: the target folder which you want to do something" maxwidth="-1" name="drop_target_to">"Mērķis:"</string>
+    <string name="dumdownloadfrom">"Lejupielādēt no"</string>
+    <string name="dumuploadto">"Augšupielādēt uz"</string>
+    <string name="duplicate_files">"Dublēt failus"</string>
+    <string name="duplicate_files_content_hint">"Atrodiet dublētos failus un dzēsiet tos ar jūsu atļauju."</string>
+    <string name="edit_toast_name_too_long">"Sasniegts maksimālais rakstzīmju skaits"</string>
+    <string name="edit_toast_special_char">"Nevar iekļaut īpašo rakstzīmi"</string>
+    <string name="editcategory_hint">"Pieskarieties rediģēšanas pogai, lai pielāgotu paneli Kategorija."</string>
+    <string description="describe the empty folder" maxwidth="-1" name="empty_folder_title">"Nav failu"</string>
+    <string description="Dialog Button: click to open the encoding list dialog" maxwidth="-1" name="encode">"Teksta kodējums"</string>
+    <string description="ask user to enter password" maxwidth="-1" name="enter_password">"Ievadiet paroli"</string>
+    <string name="eula_content_description">
+        \nŠis Lietotāja licences līgums (turpmāk tekstā — “LLL”) ir spēkā esošs un saistošs līgums starp ASUSTeK Computer Inc. (turpmāk tekstā — “ASUS”) un Jums kā lietotāju, par ASUS programmatūras (turpmāk tekstā — “Programmatūra”) izmantošanu, kā izklāstīts tālāk. Instalējot un turpinot lietot programmatūru, JŪS SKAIDRI APLIECINĀT, KA ESAT IZLASĪJIS UN IZPRATIS ŠĪ LIETOTĀJA LICENCES LĪGUMA UN TĀ JAUNĀKU VERSIJU NOTEIKUMUS UN PIEKRĪTAT TOS IEVĒROT. 
+\n\n1.PROGRAMMATŪRA nozīmē ASUS programmatūra, kas ir nodrošināta atbilstošā ASUS produktā vai kopā ar to, iekļaujot, bet neaprobežojoties ar turpmākajiem programmēšanas labojumiem, atjauninājumiem, jauninājumiem un modificētām versijām.
+\nProgrammatūras komplektācijā var būt cita ASUS vai trešo personu izveidota programmatūra, kas ir licencēta saskaņā ar vienu vai vairākām bezmaksas atvērtā pirmkoda programmatūras licencēm šeit: www.opensource.org/licenses. Šāda bezmaksas atvērtā pirmkoda programmatūra ir nodrošināta tikai un vienīgi saskaņā ar attiecīgās licences līguma noteikumiem vai autortiesību paziņojumu, kas pievienots tai, vai FOSS licences failā, kas pievienots Programmatūrai. Šī LLL noteikumi NEATTIECAS uz šādu bezmaksas atvērtā pirmkoda programmatūru.
+\n\n2.LICENCE Saskaņā ar šī LLL noteikumiem, ASUS līdz ar šo piešķir jums ierobežotu, personīgu, nekomerciālu, un neekskluzīvu licenci Programmatūras izmantošanai tikai un vienīgi kā iestrādātu ASUS produktos. Dublēšanas nolūkos, varat izveidot vienu Programmatūras kopiju elektroniskā formātā, norādot, ka dublētajai kopijai ir jāietver visus autortiesību un citu īpašumtiesību paziņojumus, kas ir ietverti oriģinālā. Šo licenci nedrīkst apakšlicencēt, un tā nav nododama tālāk, izņemot personai vai uzņēmumam, kura īpašumā nododat pilnu ASUS produktu, iekļaujot Programmatūru, kas ietver Programmatūras īpašumtiesības, norādot, ka jūs pavisam nododat visas tiesības saskaņā ar šo LLL un nepaturat pilnīgu vai daļēju Programmatūras kopiju, kā arī saņēmējs piekrīt šiem LLL noteikumiem.
+\n\n3.DEKONSTRUĒŠANAS IEROBEŽOJUMS Jūs nedrīkstat pārprojektēt, dekompilēt, atšifrēt vai demontēt šo Programmatūru, kā arī atļaut vai veicināt iepriekšminētās darbības, izņemot apmērā, kādā to atļauj piemērojamie likumi.
+\n\n4.KONFIDENCIALITĀTE Jums ir pienākums aizsargāt un neatklāt vai neizraisīt pilnīgu vai daļēju jebkāda veidā Programmatūras konfidenciālas informācijas atklāšanu trešajām personām, tostarp, bet neaprobežojoties ar tirdzniecības noslēpumiem un ar autortiesībām aizsargātu materiālu.
+\n\n5.Intelektuālā īpašuma TIESĪBAS (turpmāk tekstā — “IĪ tiesības”) Jūs atzīstat un piekrītat, ka visas IĪ tiesības, īpašumtiesības un priekšrocības, kas saistītas ar šo Programmatūru vai izriet no tās, ir un paliek ekskluzīvs ASUS vai tā licences devēja īpašums. Nekas šajā LLL nav uzskatāms par jebkādu šādu tiesību nodošanu Jums. Jebkāda neatļauta IĪ tiesību izmantošana ir šī LLL pārkāpums, kā arī intelektuālā īpašuma likumu pārkāpums, tostarp, bet neaprobežojoties ar autortiesību un preču zīmju likumiem.
+\nAr Programmatūras starpniecību nosūtot jebkādu informāciju, materiālus, idejas, koncepcijas vai tehnikas, izņemot personīgām vajadzībām, uz  ASUS (turpmāk tekstā — “Atsauksmes”), Jūs apliecināt un piekrītat, ka: (i) Jūsu Atsauksmes nedrīkst saturēt konfidenciālu vai īpašumtiesību informāciju; (ii) ASUS nav nekādu saistību attiecībā uz jebkādu konfidencialitāti, skaidri izteiktu vai domājamu, saistībā ar Atsauksmēm; (iii) ASUS ir tiesības izmantot vai atklāt, pēc ASUS ieskatiem, šīs Atsauksmes jebkādam nolūkam, jebkādā veidā, visā pasaulē; (iv) Jūsu Atsauksmes kļūst par ASUS īpašumu bez jebkādām saistībām no ASUS pret Jums; un (v) Jums nav tiesību uz jebkādu kompensāciju vai jebkādu atlīdzinājumu.
+\n\n6.DARBĪBAS LAIKS UN PĀRTRAUKŠANA Šis LLL stājas spēkā no Programmatūras instalēšanas brīža. Jūs varat pārtraukt šo Licenci jebkurā laikā, pārtraucot visu Programmatūras lietošanu un noņemot Programmatūru no ASUS produkta. Jūsu tiesības izbeigsies bez iepriekšēja brīdinājuma no ASUS, ja mēs uzskatīsim, ka Jūs neizpildāt kādu no šī LLL noteikumiem.
+\n\n7.Garantijas atruna un atbildības ierobežojums JŪS PIEKRĪTAT, KA PROGRAMMATŪRA TIEK NODROŠINĀTA TĀDA, “KĀDA TĀ IR”. JŪS UZŅEMATIES VISU ATBILDĪBU PAR ŠĪS PROGRAMMATŪRAS KVALITĀTI UN VEIKTSPĒJU, TOSTARP, BET NEAPROBEŽOJOTIES AR VISAS NEPIECIEŠAMĀS APKOPES UN REMONTA SAISTĪTAJĀM IZMAKSĀM. APJOMĀ, KĀDĀ TO PIEĻAUJ LIKUMS, UZŅĒMUMS ASUS NESNIEDZ NEKĀDAS TIEŠAS VAI NETIEŠAS GARANTIJAS ATTIECĪBĀ UZ ŠO PROGRAMMATŪRU VAI JEBKURU CITU INFORMĀCIJU VAI DOKUMENTĀCIJU, KAS SNIEGTA SAISTĪBĀ AR ŠO LIETOTĀJA LICENCES LĪGUMU VAI ŠAI PROGRAMMATŪRAI, TOSTARP, BET NEAPROBEŽOJOTIES AR JEBKĀDU GARANTIJU ATTIECĪBĀ UZ PIEMĒROTĪBU PĀRDOŠANAI VAI ATBILSTĪBU NOTEIKTAM MĒRĶIM, VAI PRET TIESĪBU PĀRKĀPUMU VAI JEBKĀDU GARANTIJU, KAS IZRIET NO LIETOŠANAS VAI VEIKTSPĒJAS LAIKĀ. ASUS ARĪ NEGARANTĒ REZULTĀTUS, KAS VAR TIKT IEGŪTI NO ŠĪS PROGRAMMATŪRAS LIETOŠANAS VAI JEBKĀDAS AR ŠO PROGRAMMATŪRU IEGŪTAS INFORMĀCIJAS PRECIZITĀTI VAI UZTICAMĪBU. DAŽAS JURISDIKCIJAS NEPIEĻAUJ NOTEIKTU GARANTIJU IZSLĒGŠANU VAI ATBILDĪBAS IEROBEŽOŠANU VAI IZSLĒGŠANU PAR DAŽIEM ZAUDĒJUMIEM. ATTIECĪGI DAŽAS NO IEPRIEKŠ MINĒTAJĀM ATRUNĀM VAR UZ JUMS NEATTIEKTIES.
+\nVISS RISKS, KAS RODAS NO ŠIS PROGRAMMATŪRAS LIETOŠANAS UN/VAI VEIKTSPĒJAS, ATTIECAS UZ JUMS. NEKĀDĀ GADĪJUMĀ ASUS, TĀS LICENCĒTĀJI VAI JEBKURŠ NO TO ATTIECĪGAJĀM VADOŠAJĀM AMATPERSONĀM, VADĪTĀJIEM, DARBINIEKIEM, PILNVAROTAJIEM VAI FILIĀLĒM NAV ATBILDĪGI PAR JEBKĀDIEM IZRIETOŠIEM, NEJAUŠIEM, TIEŠIEM, NETIEŠIEM, ĪPAŠIEM, SODIEM VAI JEBKĀDIEM CITIEM ZAUDĒJUMIEM (IESKAITOT, BET NEAPROBEŽOJOTIES AR ZAUDĒJUMIEM NO NEGŪTAS PEĻŅAS, PĀRTRAUKUMIEM, INFORMĀCIJAS ZUDUMIEM VAI CITIEM FINANŠU ZAUDĒJUMIEM), KAS RADUŠIES NO, VAI SAISTĪBĀ AR ŠO LLL VAI PROGRAMMATŪRAS LIETOŠANU, VAI NESPĒJU TO LIETOT, VAI KĀDU TĀS DAĻU, PAT, JA  ASUS IR BRĪDINĀTS PAR ŠĀDU ZAUDĒJUMU IESPĒJAMĪBU. DAŽAS JURISDIKCIJAS NEPIEĻAUJ NOTEIKTU GARANTIJU IZSLĒGŠANU VAI ATBILDĪBAS IEROBEŽOŠANU VAI IZSLĒGŠANU PAR DAŽIEM ZAUDĒJUMIEM. ATTIECĪGI, DAŽAS NO IEPRIEKŠ MINĒTAJĀM ATRUNĀM VAR UZ JUMS NEATTIEKTIES.
+\n\n8.Garantija pret zaudējumiem JŪS piekrītat aizsargāt, atbrīvot un pasargāt uzņēmumu ASUS un tā filiāles, pakalpojumu sniedzējus, sindikāta dalībniekus, izplatītājus, licences devējus, amatpersonas, pārstāvjus, vadītājus un darbiniekus no un pret jebkādiem zaudējumiem, bojājumiem, saistībām un izdevumiem, kas izriet no jebkādas prasības vai pieprasījuma (tostarp samērīgiem advokātu honorāriem un tiesu izmaksām), kas saistīts vai izriet no JŪSU veikta šī Lietotāja licences līguma pārkāpuma vai jebkāda cita piemērojamā likuma vai noteikuma, vai trešo personu tiesību pārkāpuma.
+    </string>
+    <string name="eula_content_title">"Lietotāja licences līgums"</string>
+    <string description="Do not translate ASUS" maxwidth="" name="eula_description">"Juridisks līgums starp ASUS programmām un lietotājiem"</string>
+    <string maxwidth="" name="eula_title">"Lietotāja licences līgums"</string>
+    <string name="example">"Piemērs:"</string>
+    <string description="Dialog Button: extract file for dialog" maxwidth="-1" name="extract">"Izvilkt"</string>
+    <string name="facebook_app_invite">"Facebook kontakti"</string>
+    <string name="fb_request_error_permissions">"Šai lietotnei nav atļaujas veikt šo darbību. Mēģiniet pierakstīties šajā lietotnē atkārtoti."</string>
+    <string name="fileList_Nofiles">"Nav failu"</string>
+    <string description="Dialog Title: File information dialog title" maxwidth="-1" name="file_info_dialog_title">"Faila dati"</string>
+    <string description="Application Name shown on title" maxwidth="" name="file_manager">"Failu pārvaldnieks"</string>
+    <string description="string indicating camera flash is not used" maxwidth="-1" name="flash_off">"Bez zibspuldzes"</string>
+    <string description="string indicating camera flash is fired" maxwidth="-1" name="flash_on">"Izmantota zibspuldze"</string>
+    <string description="click to retrieve password" maxwidth="-1" name="forget_password">"<u>Vai aizmirsāt paroli?</u>"</string>
+    <string name="fragment_analyzer_allfiles_used_hint">"Izmantoti:"</string>
+    <string name="fragment_analyzer_chart_free_hint">"Brīvi:"</string>
+    <string name="fragment_analyzer_chart_total_hint">"Kopā:"</string>
+    <string name="fragment_analyzer_chart_used_hint">"IZMANTOTI"</string>
+    <string name="fragment_analyzer_more_hint">"vairāk"</string>
+    <string name="google_app_invite">"Google kontakti"</string>
+    <string name="group_title_installed">"Instalēta"</string>
+    <string name="group_title_not_installed">"Nav instalēta"</string>
+    <string name="group_title_others">"Citi"</string>
+    <string name="group_title_recommended">"Ieteikta"</string>
+    <string name="hidden_zone_change_password">"Mainīt paroli"</string>
+    <string name="hidden_zone_confirm_password">"Apstiprināt PIN kodu"</string>
+    <string name="hidden_zone_enter_password">"Ievadiet PIN kodu"</string>
+    <string name="hidden_zone_fingerprint_to_unlock">"Pirksta nospiedums, lai atbloķētu"</string>
+    <string name="hidden_zone_forget_password">"Aizmirsu paroli"</string>
+    <string name="hidden_zone_introduction_description">"Slēpt privātos failus slēptajā nodalījumā. Lai atvērtu slēpto nodalījumu, nepieciešams PIN kods."</string>
+    <string name="hidden_zone_password_mismatch">"PIN kods neatbilst"</string>
+    <string name="hidden_zone_set_password_success">"Parole ir sekmīgi iestatīta"</string>
+    <string name="hidden_zone_setup_account">"Iestatīt kontu"</string>
+    <string name="hidden_zone_setup_password">"Ievadiet 4 ciparu PIN kodu"</string>
+    <string name="hidden_zone_wrong_password">"Nepareizs PIN kods"</string>
+    <string description="Can’t connect to HomeCloud." maxwidth="-1" name="homecloud_access_error">"Neizdevās izveidot savienojumu ar HomeCloud. Lūdzu, pārliecinieties, vai HomeCloud pakalpojums ir tiešsaistē."</string>
+    <string name="homecloud_notice_1">"ASUS HomeCloud ir daļa no servera programmatūras, kas darbojas sistēmā Windows. Tas ir konstruēts kā digitālā satura bibliotēka lietošanai mājās un nodrošina mākoņa krātuves pakalpojumus un multivides straumēšanas pakalpojumus, un nākotnē tiks paplašināts ar vairāk pakalpojumiem."</string>
+    <string name="homecloud_notice_2">"Varat to lejupielādēt un izmēģināt tūlīt."</string>
+    <string name="homecloud_notice_3">"http://home.asuscloud.com/"</string>
+    <string name="homecloud_toast_udp_unsupported">"Ierobežots tīkls, sazinieties ar savu tīkla administratoru vai pārslēdziet uz citu tīklu."</string>
+    <string name="hour">"1 stunda"</string>
+    <string name="hours">"
+        <ns1:g id="hours">%s</ns1:g> stundas"</string>
+    <string maxwidth="" name="httpserver_acquire_permission_message">"HTTP failu serveris tiks aizvērts, un darbības tiks pārtrauktas. Turpināt?"</string>
+    <string maxwidth="" name="httpserver_connectwifiname">"Pievienots Wi-Fi AP:"</string>
+    <string maxwidth="" name="httpserver_description">"Palaidiet pakalpojumu, lai pievienotu mobilo ierīci datoram."</string>
+    <string maxwidth="" name="httpserver_instruction">"Datora pārlūkā ievadiet adresi:"</string>
+    <string maxwidth="" name="httpserver_need_saf">"Ja vēlaties pārvaldīt ārējo krātuvi no datora jums ir jāpiešķir atļauja."</string>
+    <string maxwidth="" name="httpserver_no_network">"Pievienojiet ierīci tam pašam Wi-Fi tīklam."</string>
+    <string maxwidth="" name="httpserver_no_permission_message">"Jūs nevarēsiet rakstīt ārējā krātuvē bez atbilstošas atļaujas. Turpināt?"</string>
+    <string maxwidth="" name="httpserver_no_permission_title">"Sākt bezvadu failu pārsūtīšanu"</string>
+    <string maxwidth="" name="httpserver_start">"Sākt"</string>
+    <string maxwidth="" name="httpserver_stop">"Apturēt"</string>
+    <string maxwidth="" name="httpserver_title">"Bezvadu failu pārsūtīšana uz datoru"</string>
+    <string description="Context Menu: options of context menu" maxwidth="-1" name="info">"Informācija"</string>
+    <string description="file info textview context" maxwidth="-1" name="info_aperture">"Atvērums: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_datetime">"Uzņemšanas datums: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_exposure_time">"Ekspozīcijas laiks: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_file_num">"Faili: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_flash">"Zibspuldze: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_focal_length">"Fokusa attālums: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_image_height">"Augstums: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_image_width">"Platums"</string>
+    <string description="file info textview context" maxwidth="-1" name="info_image_x">" x "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_iso">"ISO: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_location">"Atrašanās vieta: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_maker">"Ražotājs: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_model">"Modelis: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_modified">"Modificēšanas datums: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_name">"Nosaukums: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_orientation">"Orientācija: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_path">"Ceļš: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_permission">"Atļauja: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_type">"Veids: "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_white_balance">"Baltā balanss: "</string>
+    <string description="Do not translate ASUS" maxwidth="" name="inspire_asus_description">"Lietojuma datus apkopo uzņēmums ASUS, lai uzlabotu izstrādājumus un lietotāja pieredzi"</string>
+    <string name="inspire_asus_title">"Iedvesmot ASUS"</string>
+    <string name="install">"Instalēt"</string>
+    <string description="storage label" maxwidth="-1" name="internal_storage_title">"Iekšējā atmiņa"</string>
+    <string description="Toast: the account is invalid" maxwidth="-1" name="invalid_account">"Nederīgs konts"</string>
+    <string description="Invalid directory path" maxwidth="-1" name="invalid_directory_path">"Nederīgs direktorija ceļš"</string>
+    <string name="invalid_server_id">"Nederīgs servera ID"</string>
+    <string name="invalid_xml">"Nederīgs xml"</string>
+    <string name="inviteContentTitle">%1$s ielūdz jūs lejupielādēt un instalēt ASUS failu pārvaldnieks.</string>
+    <string name="inviteContent_p1">ASUS failu pārvaldnieks ir lielisks veids, kā pārvaldīt failus ar viedo ierīci. Šī failu pārvaldības lietotne palīdz apstrādāt un kārtot dažādus failus, kas tiek glabāti tālruņa atmiņā, microSD kartē, vietējā tīklā un pat mākonī.</string>
+    <string name="inviteContent_p2">Pārvaldiet savus failus efektīvi un viegli, izmantojot ASUS failu pārvaldnieks! ASUS failu pārvaldnieks palīdz apstrādāt visus jūsu failus neatkarīgi no tā, vai tie tiek glabāti ierīces atmiņā, microSD kartē, vietējā tīklā un mākoņa krātuves kontā, piemēram, mūsu pašu ASUS HomeCloud un Webstorage un citos mākoņa pakalpojumos, piemēram, Dropbox, Google Drive vai Microsoft OneDrive.</string>
+    <string name="inviteContent_p3">Man ir jautri ar ASUS failu pārvaldnieks. Izmēģiniet to TŪLĪT! :D</string>
+    <string description="sticker detail page button name" maxwidth="-1" name="invite_friends">"Ielūgt draugus"</string>
+    <string name="item">vienums</string>
+    <string name="items">vienumi</string>
+    <string name="keep">"Paturēt"</string>
+    <string name="kk_sd_permission_warning">Android ierobežojumu dēļ Android 4.4 trešo pušu lietojumprogrammām neatļauj modificēt ārējās SD kartes.</string>
+    <string name="large_files_content_hint">"Atrodiet lielus failus un dzēsiet tos ar savu atļauju."</string>
+    <string description="linked file is missing" maxwidth="-1" name="linked_file_missing">"Trūkst saistošā faila"</string>
+    <string description="text for progress bar" maxwidth="-1" name="loading">Ielādē\u2026</string>
+    <string name="local">"Vietējais"</string>
+    <string description="button text for sort file by date" maxwidth="-1" name="location">"Atrašanās vieta"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="logging_cloud_storage">"Reģistrē..."</string>
+    <string name="login_account_miss">"Facebook lietotnei neizdevās reģistrēt Android kontu pārvaldnieku. Izrakstieties no Facebook lietotnes un mēģiniet pierakstīties atkārtoti."</string>
+    <string name="login_again_later">"Serveris nav pieejams. Vēlāk mēģiniet vēlreiz."</string>
+    <string description="dialog title, key in the asus ID and PW to Login account" maxwidth="-1" name="login_asus_id">"Pierakstīšanās ASUS kontā"</string>
+    <string description="Toast: login account fail" name="login_fail" width="-1">"Pieteikšanās neizdevās."</string>
+    <string description="login account name" maxwidth="-1" name="login_id">"Konta nosaukums/WebStorage ID"</string>
+    <string description="logout account" name="logout_account" width="-1">"Atteikties"</string>
+    <string name="low_storage_tutorial_description">Turiet nospiestu, lai atlasītu failus un pēc tam izvēlieties Pārvietot uz Google Drive</string>
+    <string name="low_storage_tutorial_title">Pārvietot failus uz Google Drive</string>
+    <string name="m_permission_dialog_message">"Pieskarieties [Iestatījumi], lai sadaļā [Lietotnes informācija] > [Atļaujas] ieslēgtu piekļuves atļaujas [%2$s]. Pēc tam restartējiet %1$s."</string>
+    <string name="m_permission_dialog_positive_button">"Iestatījumi"</string>
+    <string name="m_permission_setting_subtitle_files">"%1$s nepieciešama atļauja %2$s, lai piekļūtu ierīces failiem."</string>
+    <string name="m_permission_setting_title_cloud_storage">"Nevar piekļūt mākoņa krātuvei"</string>
+    <string name="m_permission_setting_title_files">"Nevar piekļūt failiem"</string>
+    <string name="m_permission_setting_turn_on">"Ieslēgt"</string>
+    <string description="string indicating how camera shooting feature is used" maxwidth="-1" name="manual">"Manuāli"</string>
+    <string name="market_app_error">"Ierīcē instalētajai tirgus lietojumprogrammai APP radusies problēma!"</string>
+    <string description="ask user to enter email address as account name" maxwidth="-1" name="member_id_hint">"Ievadiet e-pasta adresi"</string>
+    <string description="The title of a menu for General Preferences.Pressing the menu item lets user to view and edit his general settings" maxwidth="30" name="menu_general_preferences">"Vispārīgie iestatījumi"</string>
+    <string description="settings menu tutorial" maxwidth="-1" name="menu_tutorial">"Apmācība"</string>
+    <string name="minute">"1 minūte"</string>
+    <string name="minutes">"<ns1:g id="minutes">%s</ns1:g> minūtes"</string>
+    <string description="Hint: move the items" maxwidth="-1" name="move">"Pārvietot"</string>
+    <string name="move_or_delete_msg">"Vai īslaicīgi dzēst vienumus un ievietot tos atkritnē?\n(Atzīmējiet izvēles rūtiņu tālāk, lai neatgriezeniski dzēstu vienumu.)"</string>
+    <string name="move_to">"Pārvietot uz"</string>
+    <string description="Toast: move to recycle bin fails" maxwidth="-1" name="move_to_hidden_zone_fail">"Neizdevās pārvietot uz slēpto nodalījumu"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="move_to_hidden_zone_progress">"Notiek pārvietošana uz slēpto nodalījumu..."</string>
+    <string description="Toast: move to recycle bin success" maxwidth="-1" name="move_to_hidden_zone_success_more">"Atlasītie faili ir pārvietoti uz slēpto nodalījumu."</string>
+    <string description="Toast: move to recycle bin success. %s is variable string." maxwidth="-1" name="move_to_hidden_zone_success_one">"\"%s\" pārvietots uz slēpto nodalījumu."</string>
+    <string description="Toast: move to recycle bin fails" maxwidth="-1" name="move_to_trash_fail">"Neizdevās pārvietot uz atkritni"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="move_to_trash_progress">"Notiek pārvietošana uz atkritni..."</string>
+    <string description="Toast: move to recycle bin success" maxwidth="-1" name="move_to_trash_success_more">"Atlasītie faili tika pārvietoti uz atkritni"</string>
+    <string description="Toast: move to recycle bin success. %s is variable string." maxwidth="-1" name="move_to_trash_success_one">"\"%s\" tika pārvietots uz atkritni"</string>
+    <string name="msg_too_big_to_recycle">"Vienumi ir pārāk lieli, lai ievietotu atkritnē.\nVai vēlaties tos neatgriezeniski dzēst?"</string>
+    <string name="multi_drm_file_forbidden_operation">"Šī darbība nav atļauta, jo dažus no izvēlētajiem failiem aizsargā DRM."</string>
+    <string description="shortcut label" maxwidth="-1" name="my_camera_title">"Kamera"</string>
+    <string description="shortcut label" maxwidth="-1" name="my_download_title">"Lejupielādēt"</string>
+    <string description="shortcut label" maxwidth="-1" name="my_music_title">"Mūzika"</string>
+    <string description="shortcut label" maxwidth="-1" name="my_picture_title">"Attēls"</string>
+    <string description="storage label" maxwidth="-1" name="my_storage_title">"Mana krātuve"</string>
+    <string description="button text for sort file by name" maxwidth="-1" name="name">"Vārds"</string>
+    <string description="button text for sort file by name ascending" maxwidth="-1" name="name_ascending">"Nosaukums (ž-a)"</string>
+    <string description="button text for sort file by name descending" maxwidth="-1" name="name_descending">"Nosaukums (a-ž)"</string>
+    <string name="network_cta_hint">"Lūdzu, piekrītiet, lai izveidotu savienojumu ar tīklu."</string>
+    <string name="network_invalid">"Nederīgs tīkla savienojums"</string>
+    <string name="network_invalid_info">"Savienojums nav derīgs. Lūdzu, pārbaudiet vēlreiz."</string>
+    <string name="network_not_available">"Nav tīkla savienojuma"</string>
+    <string description="Can’t connect to networkpalce" maxwidth="-1" name="networkplace_access_error">"Neizdevās izveidot savienojumu Lūdzu, pārliecinieties, vai serveris ir tiešsaistē."</string>
+    <string name="networkplace_storage_title">"Tīkla vieta"</string>
+    <string description="Dialog Title: create new folder" maxwidth="" name="new_folder_dialog">"Izveidot jaunu mapi"</string>
+    <string description="Toast: new folder fails" maxwidth="-1" name="new_folder_fail">"Neizdevās izveidot jaunu mapi."</string>
+    <string description="Toast: new folder success. %s is variable string." maxwidth="-1" name="new_folder_success">"Mape \"%s\" ir izveidota."</string>
+    <string maxwidth="" name="news_1"><b>Pielāgojams sākuma panelis</b>: Tagad, izmantojot dažādas kategorijas un kārtības, varat pielāgot sākuma paneli.</string>
+    <string maxwidth="" name="news_2"><b>Izlases atlasītājs</b>: Pievienojiet izlases mapi tieši no izlases kategorijas.</string>
+    <string maxwidth="" name="news_3"><b>Pārlūka Failu pārvaldnieks logrīks</b>: Palaidējā izveidojiet mapes īsinājumikonu.</string>
+    <string maxwidth="" name="news_mark1">"★  "</string>
+    <string maxwidth="" name="news_subtitle">"Šeit ir svarīgs atjauninājums, kuru nevajadzētu aizmirst."</string>
+    <string maxwidth="" name="news_title">"Jaunumi"</string>
+    <string maxwidth="" name="news_v21"><b>Bezvadu failu pārsūtīšana no datora un uz to</b>: Pārsūtīt/pārvaldīt no datora/uz datoru</string>
+    <string maxwidth="" name="news_v23">"Veiktspējas uzlabojumi un kļūdu labojumi"</string>
+    <string maxwidth="" name="news_v31">"Krātuves analizētājs ļauj uzzināt failu veidus, kas aizņem visu krātuves vietu"</string>
+    <string maxwidth="" name="news_v32">"Jauno uzlaboto programmu kategorija"</string>
+    <string name="news_v41">"Slēpt privātos failus sadaļā Slēptais skapis"</string>
+    <string name="news_v42">"Atjaunot dzēstos failus no atkritnes"</string>
+    <string name="news_v43">"Noņemt dublētos failus no lietotnes Krātuves analizētājs"</string>
+    <string name="news_v44">"Jauna displeja funkcija — tumšais režīms"</string>
+    <string name="news_v45">"Uzlabota veiktspēja"</string>
+    <string name="news_v46">"Izlabotas kļūdas"</string>
+    <string name="newversion_description">"Ir pieejama atjaunināta pārlūka Failu pārvaldnieks versija. Vai vēlaties atjaunināt tūlīt?"</string>
+    <string name="newversion_title">"Jauna versija"</string>
+    <string name="next">"Nākamais"</string>
+    <string description="Dialog Button: no for dialog" maxwidth="" name="no">"Nē"</string>
+    <string name="no_device">"Nav ierīces"</string>
+    <string name="no_items">"Nav vienumu"</string>
+    <string name="no_network">"Nav tīkla savienojuma"</string>
+    <string description="The description to inform users when there is no internet access" maxwidth="-1" name="no_network_connection_message">"Lūdzu, pārbaudiet tīkla savienojumu un pēc tam mēģiniet vēlreiz."</string>
+    <string name="no_network_info">"Lai piekļūtu šai lietojumprogrammai, ir nepieciešams interneta savienojums. Iestatījumos aktivizējiet mobilo tīklu vai Wi-Fi."</string>
+    <string name="no_password">"Ievadiet savu paroli"</string>
+    <string name="no_right">"Kontam nav tiesību pieteikties."</string>
+    <string name="no_share_folder">"Šajā ierīcē nav kopīgots neviens fails"</string>
+    <string description="Toast: No space to copy file and left on device" maxwidth="-1" name="no_space_fail">"Nepietiek vietas"</string>
+    <string name="no_user_exist">"Lietotājvārds nepastāv"</string>
+    <string name="no_username">"Vispirms ievadiet savu lietotājvārdu."</string>
+    <string name="no_wifi_when_wifionly">"Tikai Wi-Fi, ieslēdziet Wi-Fi"</string>
+    <string name="notification_gdrive_redeem_content">"Iegūstiet TŪLĪT no pakalpojuma Google Drive. "</string>
+    <string name="notification_gdrive_redeem_title">"Bezmaksas 100 GB krātuve!"</string>
+    <string name="occur_error_do_relogin">"Vēlreiz pietiekties šeit: %s"</string>
+    <string description="Dialog Button: ok for dialog" maxwidth="" name="ok">"Labi"</string>
+    <string name="onedrive_account_only_one_alert">"ASUS kontam var pievienot tikai vienu OneDrive. Pirms konta aizvietošanas ar jaunu kontu ir jāizdzēš vecais konts."</string>
+    <string name="open">"Atvērt"</string>
+    <string description="Toast: open file fails" maxwidth="-1" name="open_fail">"Neizdevās atvērt failu."</string>
+    <string maxwidth="" name="open_source_license_description">"Ziņojumi par licencēm atvērta koda programmatūrai"</string>
+    <string maxwidth="" name="open_source_license_title">"Atvērtā pirmkoda licences"</string>
+    <string name="othersforum_site_url">"http://www.asus.com/Terms_of_Use_Notice_Privacy_Policy/OthersForum_Site/"</string>
+    <string name="password">"Parole"</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="paste">"Ielīmēt"</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="paste_exist_apply">"Lietot visam"</string>
+    <string description="Dialog Title: paste exist dialog title" maxwidth="" name="paste_exist_dialog">"Tāds pats faila nosaukums"</string>
+    <string description="Dialog Content: text in dialog. %s is variable string." maxwidth="" name="paste_exist_file">"Fails \"%s\" jau pastāv."</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="paste_exist_replace">"Vai vēlaties to nomainīt ar jauno?"</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="paste_exist_to">"Kam:"</string>
+    <string description="Toast: paste fails" maxwidth="-1" name="paste_fail">"Neizdevās ielīmēt failus."</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="paste_progress">"Ielīmē..."</string>
+    <string name="paste_progress_title">"Notiek cits kopēšanas uzdevums..." "</string>
+    <string description="Toast: paste success. %s is variable string." maxwidth="-1" name="paste_success">"Fails ir ievietots mapē \"%s\"."</string>
+    <string name="permanently_delete">"Neatgriezeniski dzēst"</string>
+    <string description="Toast: operation permission deny" maxwidth="-1" name="permission_deny">"Atļauja ir liegta."</string>
+    <string name="permission_dialog_title">"Lietojumprogrammas atļauja"</string>
+    <string name="permission_essential">"Nepieciešama atļauja. Lai iespējotu atļaujas, atveriet sadaļu Iestatījumi."</string>
+    <string name="permission_reason_contact">"Lai lietotne Failu pārvaldnieks varētu pieteikties mākoņa krātuvē, tai nepieciešama jūsu konta informācija."</string>
+    <string name="permission_reason_storage">"Lai lietotne Failu pārvaldnieks darbotos pareizi, tai nepieciešama piekļuve ierīces krātuvei"</string>
+    <string description="Toast: You may not select more than %s photos." maxwidth="-1" name="photo_selection_limit_number_toast">"Izvēlieties ne vairāk kā %s fotoattēlus"</string>
+    <string description="This is the title of the screen for setting user preferences." maxwidth="-1" name="preferences_title">"Iestatījumi"</string>
+    <string name="previous_folder">"Iepriekšējā mape"</string>
+    <string maxwidth="" name="privacy_policy">"Konfidencialitātes politika"</string>
+    <string name="privacy_policy_url">http://www.asus.com/us/Terms_of_Use_Notice_Privacy_Policy/Privacy_Policy/</string>
+    <string name="processing_picture">"Apstrādā attēlu..."</string>
+    <string name="processing_video">"Video tiek apstrādāts"</string>
+    <string name="progressactivity_title">"Pārsūtīšanas pārvaldnieks"</string>
+    <string name="promote_darkmode_message">"Mainiet savu izvēli %s"</string>
+    <string name="promote_darkmode_title">"Jauna displeja funkcija — tumšais režīms"</string>
+    <string name="promotion_notification_content">"Jums ir jāizmēģina vienums \"Bezvadu failu pārsūtīšana\"!"</string>
+    <string name="promotion_notification_title">"Vai joprojām izmantojat USB kabeli failu pārsūtīšanai?"</string>
+    <string name="publish">"Publicēt"</string>
+    <string name="pullfreshlistview_footer_hint_normal">"Ielādēt vairāk"</string>
+    <string name="pullfreshlistview_footer_hint_ready">"Atlaidiet, lai ielādētu vairāk"</string>
+    <string name="pullfreshlistview_header_hint_loading">"Atsvaidzina..."</string>
+    <string name="pullfreshlistview_header_hint_normal">"Pavilkt uz leju"</string>
+    <string name="pullfreshlistview_header_hint_ready">"Atbrīvojiet, lai atsvaidzinātu"</string>
+    <string name="pullfreshlistview_header_last_time">"Pēdējā atsvaidzināšana:"</string>
+    <string name="rate_later">"Vēlāk"</string>
+    <string name="rate_now">"Novērtēt tūlīt"</string>
+    <string description="rate us" maxwidth="-1" name="rate_us">"Vērtējiet mūs"</string>
+    <string name="rating_dialog_message_v3_1">"Vai patīk lietot %s? Novērtējiet mūs pakalpojumā Google Play, lai turpinātu mūs iedvesmot!"</string>
+    <string name="rating_dialog_message_v3_2">"Ieteikumus un atsauksmes rakstiet mums, izmantojot %s."</string>
+    <string name="recent_files_content_hint">"Atrodiet pēdējos failus un dzēsiet tos ar savu atļauju."</string>
+    <string description="shortcut title: recently used files" name="recently_used" width="-1">"Nesenie"</string>
+    <string name="recommend_clean_master_msg">"Pasaules visuzticamākā Android optimizētāja, ātruma pastiprinātāja, akumulatora saglabātāja un bezmaksas pretvīrusa programma. \nVai lejupielādēt tūlīt?"</string>
+    <string name="recommend_clean_master_title">"Ieteikumi par programmām"</string>
+    <string name="recommend_scan_qr_code">"Pastāstiet draugiem, lai tie lejupielādētu\n šo lietotni, noskenējot šo QR kodu."</string>
+    <string description="recruit beta user" maxwidth="-1" name="recruit_beta_user">"Iegūt iepriekšējo versiju"</string>
+    <string name="recycle_bin_content_hint">"Ietver visus noteiktos failus un mapes."</string>
+    <string description="dialog title, key in the asus ID and PW to Login account" maxwidth="-1" name="regist_asus_id">"Izveido ASUS kontu"</string>
+    <string description="ask user to enter email address to registe New Account" name="registe_id">"Konta nosaukums"</string>
+    <string description="ask user to enter new password" name="registe_password">"Ievadiet 8~25 rakstzīmes"</string>
+    <string description="sign up registe action" name="registe_sign_up">"Pierakstīties"</string>
+    <string description="network is unavailable, please try again" maxwidth="-1" name="remote_connected_error_hint">"Tīkls nav pieejams. Lūdzu, mēģiniet vēlreiz!"</string>
+    <string description="remote storage label" maxwidth="-1" name="remote_storage_title">"Attālā krātuve"</string>
+    <string name="remove_favorite">"Noņemt no izlases"</string>
+    <string name="remove_favorite_notice_more">"Vai esat pārliecināts, ka vēlaties noņemt %d vienumus no izlases mapes?"</string>
+    <string name="remove_favorite_notice_one">"Vai esat pārliecināts, ka vēlaties noņemt \"%s\" no izlases mapes?"</string>
+    <string name="remove_favorite_success">"Noņemšana veiksmīga"</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="rename">"Pārdēvēt"</string>
+    <string description="Dialog Title: rename dialog title" maxwidth="" name="rename_dialog">"Pārdēvēt"</string>
+    <string description="Toast: rename fails" maxwidth="-1" name="rename_fail">"Neizdevās pārdēvēt failu."</string>
+    <string name="rename_favorite_folder">"Pārdēvēt izlases mapi"</string>
+    <string name="rename_favorite_notice">"Jau ir mape ar tādu pašu nosaukumu izlases mapē, vai vēlaties pārdēvēt?"</string>
+    <string name="rename_favorite_success">"Veiksmīgi pārdēvēt un saglabāt Izlasē"</string>
+    <string description="Toast: rename success" maxwidth="-1" name="rename_success">"Fails veiksmīgi pārdēvēts."</string>
+    <string description="renaming file" name="renaming_file" width="-1">"Pārdēvē"</string>
+    <string name="replace">"Nomainīt"</string>
+    <string description="Toast: restore fails" maxwidth="-1" name="restore_fail">"Atjaunošana neizdevās"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="restore_progress">"Notiek atjaunošana..."</string>
+    <string description="Toast: restore success" maxwidth="-1" name="restore_success_more">"Atlasītie faili tika atjaunoti"</string>
+    <string description="Toast: restore success. %s is variable string." maxwidth="-1" name="restore_success_one">"\"%s\" tika atjaunots"</string>
+    <string name="retention_notification_large_file">"Pievienojāt %1$s lielus failus. Skatiet tos tūlīt."</string>
+    <string name="retention_notification_recent_file">"Jūsu nesenie faili patērē %1$s vietas. Skatiet tos tūlīt."</string>
+    <string name="saf_permission_tutorial_content">"ASUS failu pārvaldnieks pieprasa atļauju piekļuvei, lai rīkotos ar SD karti. Vai vēlaties piešķirt atļauju?"</string>
+    <string name="saf_permission_tutorial_content_v2">"Nepieciešams veikt dažas darbības, lai %s piešķirtu piekļuves atļaujas."</string>
+    <string name="saf_permission_tutorial_dialog">"Procedūra ir jāveic, lai SD kartei piešķirtu piekļuves tiesības. Vai vēlaties turpināt?"</string>
+    <string name="saf_permission_tutorial_title">"Pieprasīt atļauju rīkoties ar SD karti"</string>
+    <string name="saf_tutorial_step_one">"Pieskarieties ikonai Izvēlne un pēc tam pieskarieties Rādīt SD karti."</string>
+    <string name="saf_tutorial_step_three">"Pieskarieties Atlasīt SD karti, lai atļautu piekļuvi ASUS failu pārvaldniekam."</string>
+    <string name="saf_tutorial_step_three_v2">"Pieskarieties Atlasīt %s, lai piešķirtu lietotnei ASUS failu pārvaldnieks piekļuves atļaujas."</string>
+    <string name="saf_tutorial_step_two">"Pavelciet ekrāna kreiso malu, lai rādītu atvilktni un pēc tam pieskarieties SD kartei."</string>
+    <string name="saf_tutorial_step_two_v2">"Velciet no ekrāna kreisās puses, lai rādītu atvilktni, un pēc tam pieskarieties %s."</string>
+    <string name="saf_tutorial_title">Atļauja lietot SD karti</string>
+    <string name="saf_tutorial_title_v2">"Atļauja darboties %s"</string>
+    <string description="account config dialog remind message" maxwidth="-1" name="samba_client_config_check">"Atcerēties lietotājvārdu un paroli, nākamreiz savienot uzreiz"</string>
+    <string name="samba_input_error">"lietotājvārda vai paroles lauks nevar būt tukšs."</string>
+    <string name="samba_login_error">"Ievadītais lietotājvārds vai parole ir nepareiza."</string>
+    <string name="samba_storage_add_title">"Tīkla vieta"</string>
+    <string name="samba_storage_title">"SAMBA"</string>
+    <string name="scan_qr_code">"Skenējiet QR kodu"</string>
+    <string description="rate now" maxwidth="" name="scroll_up_toast">"Ritiniet lejup, lai novērtētu"</string>
+    <string name="sd_label">"ASUS OneDrive"</string>
+    <string name="search_action">"Meklēt"</string>
+    <string description="search hint message" maxwidth="-1" name="search_hint">Ievadiet faila nosaukumu</string>
+    <string description="cutstom action bar view title for search" maxwidth="-1" name="search_label">"Meklēt failus"</string>
+    <string description="search dialog message" maxwidth="-1" name="search_progress">"Meklē..."</string>
+    <string description=" text for search result" formatted="false" maxwidth="-1" name="search_result_title">"Meklē %s mapē %s: "</string>
+    <string name="select_album">"Izvēlēties albumu"</string>
+    <string description="Menu Option: select all checkbox" maxwidth="" name="select_all">"Atlasīt visu"</string>
+    <string description="Title: select the folder" maxwidth="-1" name="select_folder">"Izvēlēties mapi"</string>
+    <string name="select_folder_by_ok_button">"Nospiediet %1$s, lai atlasītu šo mapi"</string>
+    <string name="select_photo">"Atlasīt fotoattēlu"</string>
+    <string name="server">"Serveris:"</string>
+    <string name="server_error">"Servera kļūda"</string>
+    <string name="server_hint">"172.0.0.1/ShareFolder"</string>
+    <string name="server_title">"Serveris"</string>
+    <string maxwidth="-1" name="service_not_available_in_your_country">"Šis vienums jūsu valstī nav pieejams."</string>
+    <string name="set_password_title">"Izveidot PIN kodu"</string>
+    <string name="set_ring">"Iestatīt kā zvana signālu"</string>
+    <string name="setting_display_group">"Displejs"</string>
+    <string name="setting_notification_group">"Paziņojums"</string>
+    <string name="setting_notification_large_files">"Paziņojums par lielu failu"</string>
+    <string name="setting_notification_recent_files">"Paziņojums par pēdējo failu"</string>
+    <string name="setting_notification_wireless_transfer">"Paziņojumus par bezvadu pārsūtīšanu"</string>
+    <string name="setting_view_group">"Skatīt iestatījumu"</string>
+    <string name="setting_view_hide_files">"Slēpt sistēmas failus"</string>
+    <string name="settings">"Iestatījumi"</string>
+    <string description="This is the title of cache size" maxwidth="-1" name="settings_cache_size_title">"Kešatmiņas lielums"</string>
+    <string description="Remove all cache documents" maxwidth="-1" name="settings_clear_cache_info">"Noņemt visus kešatmiņas dokumentus"</string>
+    <string description="Clear the cache" maxwidth="-1" name="settings_clear_cache_title">"Notīrīt kešatmiņu"</string>
+    <string description="This is the title of clearing search history action for setting user preferences." maxwidth="-1" name="settings_clear_search_history">"Notīrīt meklēšanas vēsturi"</string>
+    <string name="settings_darkmode_message">"Piemērot tumšo režīmu"</string>
+    <string name="settings_description">"Lokālās mapes un faili"</string>
+    <string description="This is the title of documents cache" maxwidth="-1" name="settings_documents_cache">"Dokumentu kešatmiņa"</string>
+    <string description="recommend text" maxwidth="" name="settings_encourage_us_detail">"Ja jums patīk lietot %s, novērtējiet to pakalpojumā Play Store ar 5 zvaigznēm. Tas būtu lielisks pamudinājums mums turpināt uzlabot izstrādājumu!"</string>
+    <string description="This is the title of hiding system files action for setting user preferences." maxwidth="-1" name="settings_hide_system_files">"Slēpt sistēmas failus"</string>
+    <string description="This is the title of moving to the trash can." maxwidth="-1" name="settings_moved_to_the_trash_can">"Pārvietots uz atkritni"</string>
+    <string description="Remove account" maxwidth="-1" name="settings_remove_account">"Noņemt kontu"</string>
+    <string description="Set the cache size to %s" maxwidth="-1" name="settings_set_cache_size">"Kešatmiņas lielums ir iestatīts uz \"%s\""</string>
+    <string description="This is the title of space used for setting user preferences." maxwidth="-1" name="settings_space_used">"Izmantotā vieta"</string>
+    <string description="This is the title of trash can information for setting user preferences." maxwidth="-1" name="settings_trash_can">"Atkritne"</string>
+    <string description="This is the title of user name" maxwidth="-1" name="settings_user_name">"Lietotājvārds"</string>
+    <string name="setup">"Iestatījums"</string>
+    <string name="setup_account_description">"Iestatiet e-pasta kontu, lai izgūtu savu PIN kodu"</string>
+    <string name="setup_account_no_internet_connection">"Nav interneta savienojuma"</string>
+    <string name="setup_account_skip">"Izlaist"</string>
+    <string name="setup_account_title">"Izgūt PIN kodu"</string>
+    <string name="setup_fingerprint_message">"Vai iespējot pirkstu nospiedumu, lai bloķētu? Slēptais nodalījums atbalsta pirksta nospieduma verifikāciju. Lai sāktu, sadaļā Iestatījumi skenējiet pirksta nospiedumu."</string>
+    <string name="setup_my_digital_code">"Iestatīt PIN kodu"</string>
+    <string name="share_more">"Citi"</string>
+    <string name="share_with_friend">"Koplietojiet šo lietotni ar saviem draugiem"</string>
+    <string description="Context Menu: options of context menu: share folder via Wi-Fi Direct" maxwidth="" name="shared_folder">"Kopīgot, izmantojot Wi-Fi Direct"</string>
+    <string description="shortcit title" maxwidth="-1" name="short_cuts_title">"Saīsne"</string>
+    <string name="shortcut_hint">"Pieskarieties kategorijai un turiet to nospiestu, lai palaidējā izveidotu īsinājumikonu."</string>
+    <string description="check if user want to show password" name="show_passwd">"Rādīt paroli"</string>
+    <string description="show when sign in failed" maxwidth="-1" name="signin_failed">"Pierakstīšanās neizdevās"</string>
+    <string description="signout account" name="signout_account" width="-1">"Atvienot"</string>
+    <string name="single_drm_file_forbidden_operation">"Šī darbība nav atļauta, jo to aizsargā DRM."</string>
+    <string description="button text for sort file by size" maxwidth="-1" name="size">"Izmēri"</string>
+    <string description="button text for sort file by size ascending" maxwidth="-1" name="size_ascending">"Izmēri (liels-mazs)"</string>
+    <string description="button text for sort file by size descending" maxwidth="-1" name="size_descending">"Izmēri (mazs–liels)"</string>
+    <string name="ssl_err_msg_info">"Nevar izveidot drošu savienojumu ar serveri. Vai vēlaties turpināt?"</string>
+    <string name="ssl_err_msg_title">"SSL savienojuma kļūda"</string>
+    <string description="shortcut title: my favorite files" name="starred" width="-1">"Atzīmēts ar zvaigznīti"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="storage_type_cloud">"Mākoņkrātuve"</string>
+    <string name="storage_type_cloud_att">"Tīkla krātuve"</string>
+    <string name="storage_type_local">"Lokālā krātuve"</string>
+    <string name="storage_type_shortcut">"Saīsne"</string>
+    <string name="storagetype_add_account">"Pievienot Google kontu"</string>
+    <string name="tap_to_exit">"Pieskarieties vēlreiz, lai izietu"</string>
+    <string name="target_directory_is_child_of_source">"Darbību nevar pabeigt, jo mērķa direktorijs ir avota direktorija apakšmape."</string>
+    <string description="Toast: target file exists" maxwidth="-1" name="target_exist">"Mērķa fails pastāv."</string>
+    <string description="Toast: target folder exists. %s is variable string." maxwidth="-1" name="target_folder_exist">"Mape \"%s\" jau pastāv."</string>
+    <string description="" maxwidth="" name="tell_friend">"Pastāstiet draugam"</string>
+    <string maxwidth="" name="terms_of_service">"Lietošanas noteikumu paziņojums"</string>
+    <string maxwidth="" name="terms_of_service_url">http://www.asus.com/us/Terms_of_Use_Notice_Privacy_Policy/Official-Site/</string>
+    <string description="title" maxwidth="-1" name="title">"Juridiskā informācija:"</string>
+    <string name="toast_auto_lock_notify_message">"Bloķēt slēpto nodalījumu, kad ierīce ir bloķēta"</string>
+    <string description="Toast: The item(s) has been copied completely" maxwidth="-1" name="toast_drag_copied_items">"Vienums(-i) ir pilnībā kopēts(-i)"</string>
+    <string description="Toast: The item(s) has been moved completely" maxwidth="-1" name="toast_drag_moved_items">"Vienums(-i) ir pilnībā pārvietots(-i)"</string>
+    <string description="Toast: Sorry, copy files complete but cut fail" maxwidth="-1" name="toast_warning_copy_comple_cut_fail">"Failu kopēšana ir pabeigta, bet veco failu dzēšana diemžēl neizdevās."</string>
+    <string description="Toast: Sorry, copy folders has not been supported" maxwidth="-1" name="toast_warning_copy_folders">"Diemžēl mapju kopēšana netiek atbalstīta."</string>
+    <string maxwidth="35" name="toolbar_item_title_encourage_us">"Iedrošiniet mūs"</string>
+    <string name="tools_clean_master">"Iztīrīt nevēlamo e-pastu"</string>
+    <string name="tools_file_transfer">"Datora faila pārsūtīšana"</string>
+    <string name="tools_hidden_zone">"Slēptais nodalījums"</string>
+    <string name="tools_recycle_bin">"Atkritne"</string>
+    <string name="tools_storage_analyzer">"Krātuves analizētājs"</string>
+    <string name="tools_tip_animation">"Velciet augšup rīkiem!"</string>
+    <string name="tools_zenui_instant_update">"Tūlītēji atjaunināt"</string>
+    <string description="shortcut title: trash can" name="trash_can" width="-1">"Atkritne"</string>
+    <string maxwidth="-1" name="trash_info_deleted">"Dzēšanas datums: "</string>
+    <string maxwidth="-1" name="trash_info_path">"Oriģinālais ceļš: "</string>
+    <string description="label for trending searches" maxwidth="-1" name="trending_searches">"Tendenču meklējumi"</string>
+    <string name="tunnelconnection_notice_1">"ASUS TunnelConnection ir daļa no lietojumprogrammas, kas darbojas sistēmā Android. Tas nodrošina tuneļa savienojuma pakalpojumus ar ASUS HomeCloud."</string>
+    <string name="tunnelconnection_notice_2">"Lai apmeklētu ASUS HomeCloud, to ir nepieciešams lejupielādēt."</string>
+    <string name="tunnelconnection_notice_3">"https://play.google.com/store/"</string>
+    <string name="tutorial_analyzer_content">"Krātuves analizētājs nodrošina iespēju uzzināt, kādi faili aizņem diska vietu."</string>
+    <string name="tutorial_category_content">"Failu meklēšana nekad nav bijusi tik viegla kā ar ASUS failu pārvaldnieka kategoriju skatu."</string>
+    <string name="tutorial_category_title">"Kategorijas skats"</string>
+    <string name="tutorial_cloud_content">"Piekļūstiet saviem failiem viedtālrunī, datorā un mākoņa krātuvēs."</string>
+    <string name="tutorial_cloud_title">"Mākoņa krātuve"</string>
+    <string name="tutorial_done">"Gatavs"</string>
+    <string name="tutorial_page_content_long_press">Pieskarieties un pieturiet, lai atlasītu vienumu, tad pieskarieties ikonai \"Izvēlne\" , lai parādītu citu darbību iespējas.</string>
+    <string name="tutorial_page_four_content">"Iestatiet bieži lietotu mapi kā izlasi, lai piekļūtu mapēm ātri un ērti."</string>
+    <string name="tutorial_page_four_title">"Izlase"</string>
+    <string name="tutorial_page_one_content">"ASUS failu pārvaldnieks ļauj ērti pārvaldīt failus, kas glabājas iekšējā, ārējā, vietējā tīkla vai mākoņa atmiņā."</string>
+    <string name="tutorial_page_one_title">"ASUS failu pārvaldnieks"</string>
+    <string name="tutorial_page_three_content">"Velciet vienumu pa labi, lai parādītu darbības, piemēram, Pievienot izlasei, Pārdēvēt, Pārvietot uz, Kopēt uz un citas failu pārvaldības opcijas."</string>
+    <string name="tutorial_page_three_title">"Vilkšanas darbība"</string>
+    <string name="tutorial_page_title_long_press">Parādīt darbību izvēlni</string>
+    <string name="tutorial_page_two_content">"Ērti lietojamas kategorijas, kas jums ļauj ātri piekļūt jūsu failiem vietējā atmiņā. "</string>
+    <string name="tutorial_page_two_title">"Sākumlapa"</string>
+    <string name="tutorial_skip">"Izlaist"</string>
+    <string description="button text for sort file by type" maxwidth="-1" name="type">"Veids"</string>
+    <string description="document type" maxwidth="-1" name="type_abu">"Asus lietotņu dublēšana"</string>
+    <string description="document type" maxwidth="-1" name="type_apk">"Android lietotne"</string>
+    <string description="document type" maxwidth="-1" name="type_audio">"Audio"</string>
+    <string description="document type" maxwidth="-1" name="type_book">"E-grāmata"</string>
+    <string name="type_dialog_audio">"Audio"</string>
+    <string name="type_dialog_image">"Attēls"</string>
+    <string name="type_dialog_text">"Teksts"</string>
+    <string name="type_dialog_title">"Atvērt kā"</string>
+    <string name="type_dialog_video">"Video"</string>
+    <string description="document type" maxwidth="-1" name="type_directory">"Direktorijs"</string>
+    <string description="document type" maxwidth="-1" name="type_document">"Dokuments"</string>
+    <string description="document type" maxwidth="-1" name="type_file">"Fails"</string>
+    <string description="document type" maxwidth="-1" name="type_image">"Attēls"</string>
+    <string description="document type" maxwidth="-1" name="type_playlist">"Atskaņošanas saraksts"</string>
+    <string description="document type" maxwidth="-1" name="type_rar">"RAR"</string>
+    <string description="document type" maxwidth="-1" name="type_video">"Video"</string>
+    <string description="document type" maxwidth="-1" name="type_zip">"Zip"</string>
+    <string name="ud_sdk_all_app_update">"Visas lietotnes darbojas to pašreizējā versijā."</string>
+    <string name="ud_sdk_asus_app_slogan">noderīga lietotne</string>
+    <string name="ud_sdk_downloads">Lejupielādes</string>
+    <string name="ud_sdk_free_download">Bezmaksas lejupielāde</string>
+    <string name="ud_sdk_important_remind_text">"Svarīgi"</string>
+    <string name="ud_sdk_install">Instalēt</string>
+    <string name="ud_sdk_more_zen_family">Atklāt vairāk ZenUI lietotņu</string>
+    <string name="ud_sdk_no_network_connection_content">Nevar atjaunināt datus. Pārbaudiet tīkla iestatījumus.</string>
+    <string name="ud_sdk_no_network_connection_title">Nav tīkla savienojuma</string>
+    <string name="ud_sdk_open">Atvērt</string>
+    <string name="ud_sdk_update">Atjaunināt</string>
+    <string maxwidth="-1" name="ud_sdk_update_sdk">ZenUI saime</string>
+    <string maxwidth="-1" name="ud_sdk_update_sdk_asus">ZenUI tūlītēja atjaunināšana</string>
+    <string name="ud_sdk_wifi_settings">Wi-Fi iestatījumi</string>
+    <string name="uf_sdk_already_give_5star">"Jau novērtēju ar 5 zvaigznēm"</string>
+    <string description="%d is a number, don&apos;t translate" name="uf_sdk_article_read_count">"%d skatījumi"</string>
+    <string name="uf_sdk_attachment_format_warning">"Nepareizs faila formāts. Var pievienot tikai attēlu"</string>
+    <string name="uf_sdk_attachment_total_size">"Kopā"</string>
+    <string name="uf_sdk_attachment_warning">"Pielikuma lielums pārsniedz pieejamo limitu"</string>
+    <string maxwidth="-1" name="uf_sdk_cancel_btn_content">"Atcelt"</string>
+    <string name="uf_sdk_choosertitle_sharevia">"Kopīgot, izmantojot"</string>
+    <string name="uf_sdk_connection_error_msg">"Savienojumu priekšlaicīgi pārtrauca serveris. Lūdzu, mēģiniet vēlreiz."</string>
+    <string name="uf_sdk_connection_error_title">"Savienojuma kļūda"</string>
+    <string name="uf_sdk_discard">"Atmest"</string>
+    <string name="uf_sdk_email_illigal">"E-pasta adrese jau tiek lietota"</string>
+    <string maxwidth="-1" name="uf_sdk_empty_notification">"Tukšs :)"</string>
+    <string name="uf_sdk_faq">"Bieži uzdotie jautājumi"</string>
+    <string name="uf_sdk_feedback_and_help">"Atsauksmes un palīdzība"</string>
+    <string name="uf_sdk_forum_description">"Pievienojieties sarunai ar ASUS lietotājiem, lai atrastu un kopīgotu savus risinājumus."</string>
+    <string maxwidth="-1" name="uf_sdk_grant_permission_title">"Piešķirt piekļuves atļauju"</string>
+    <string name="uf_sdk_help">"Palīdzība"</string>
+    <string name="uf_sdk_instant_answer_question">"Vai šis bieži uzdoto jautājumu saraksts ir noderīgs?"</string>
+    <string name="uf_sdk_like">"Patīk"</string>
+    <string maxwidth="-1" name="uf_sdk_message">"Paziņojumi"</string>
+    <string name="uf_sdk_msg_bad_email_format">"E-pasta adrese nav derīga. Lūdzu, mēģiniet vēlreiz!"</string>
+    <string name="uf_sdk_msg_confirm_discard_topic">"Jūsu melnraksts netiks saglabāts. Vai tomēr vēlaties to izdzēst?"</string>
+    <string name="uf_sdk_msg_confirm_discard_topic_title">"Vai izdzēst ziņu?"</string>
+    <string name="uf_sdk_msg_subscribe">"Tēmas statusa paziņojuma abonements tiks nosūtīts uz jūsu e-pasta adresi."</string>
+    <string name="uf_sdk_msg_subscribe_success">"Abonēšana veiksmīgi uzsākta"</string>
+    <string name="uf_sdk_msg_ticket_created">"Jūsu atsauksmes tika sekmīgi nosūtītas uzņēmumam ASUS"</string>
+    <string name="uf_sdk_msg_topic_created">"Sekmīgi publicēta"</string>
+    <string name="uf_sdk_msg_unsubscribe">"Abonēšana ir sekmīgi atcelta"</string>
+    <string name="uf_sdk_name_hint">"Ievadiet savu vārdu"</string>
+    <string name="uf_sdk_name_illigal">"Lietotājvārds jau tiek lietots"</string>
+    <string name="uf_sdk_network_error">"Nav interneta savienojuma. Lūdzu, pārbaudiet tīkla iestatījumus."</string>
+    <string description="zenui news" maxwidth="" name="uf_sdk_news">"Jaunumi"</string>
+    <string name="uf_sdk_no_network_connection_content">"Nevar atjaunināt datus. Lūdzu, pārbaudiet tīkla iestatījumus."</string>
+    <string name="uf_sdk_no_network_connection_title">"Nav tīkla savienojuma"</string>
+    <string name="uf_sdk_nothing_found">"Nekas nav atrasts"</string>
+    <string name="uf_sdk_notice">"Paziņojums"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category1">"Paziņojumi"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category2">"Apmācības un padomi"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category3">"Reklāmas"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category4">"Notikumi"</string>
+    <string name="uf_sdk_publish_an_topic">"Publicēt jaunu tēmu"</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_rate_now">"Novērtēt tūlīt"</string>
+    <string description="%s is AP name, don&apos;t translate" maxWidth="" name="uf_sdk_rate_us_detail">"Ja jums patīk lietot %s, novērtējiet to pakalpojumā Play Store ar 5 zvaigznēm."</string>
+    <string maxWidth="" name="uf_sdk_rate_us_detail_new">"Jūsu atbalsts ar 5 zvaigžņu novērtējumu iedrošina mūs strādāt!"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_rating">"Novērtējums ar 5 zvaigznēm"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title">"Novērtējiet mūs!"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title_new">"Novērtējiet mūs!"</string>
+    <string description="Menu item for userFeedback sdk" maxwidth="-1" name="uf_sdk_report_bug">Ziņojums par kļūdu</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_scroll_up_toast">"Lūdzu ritiniet augšup, lai novērtētu"</string>
+    <string name="uf_sdk_search_hint">"Meklēšanas palīdzība"</string>
+    <string name="uf_sdk_select_common_bug">"Izvēlēties bieži sastopamu kļūdu"</string>
+    <string name="uf_sdk_send_feedback">"Sūtīt atsauksmes"</string>
+    <string name="uf_sdk_send_feedback_help">"Uzņēmumam ASUS tiks nosūtīta jūsu atsauksme un e-pasta adrese. Atbalsta komanda sazināsies ar jums, izmantojot e-pastu."</string>
+    <string maxwidth="-1" name="uf_sdk_setting_btn_content">"Iestatījumi"</string>
+    <string description="recommend title" maxwidth="" name="uf_sdk_settings_encourage_us_title">"Novērtējiet mūs"</string>
+    <string maxwidth="-1" name="uf_sdk_storage_permission_description">"Šai funkcijai nepieciešams iegūt piekļuves atļaujas krātuvei, lai piekļūtu multivides failiem. \n\nJa vēlaties iespējot šo funkciju, pieskarieties pogai Iestatījumi, lai atvērtu iestatījumu lapu. Pēc tam iestatiet \"Lietotnes informācija\" > \"Atļaujas\", lai piešķirtu atļauju.\n"</string>
+    <string name="uf_sdk_submit_topic">"Publicēt"</string>
+    <string name="uf_sdk_subscribe_dialog_title">"Abonēt šo tēmu"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_answered">"Atbildēts"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_completed">"Pabeigts"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_declined">"Noraidīts"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_implemented">"Ieviests"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_planned">"Plānots"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_under_review">"Tiek pārskatīts"</string>
+    <string name="uf_sdk_thanks_for_your_feedback">"Paldies par atsauksmi!"</string>
+    <string description="%s is a application name, don&apos;t translate" name="uf_sdk_ticket_hint">"Ievadiet atsauksmes par %s"</string>
+    <string name="uf_sdk_title_topic">"Tēma"</string>
+    <string name="uf_sdk_topic">"Tēma"</string>
+    <string name="uf_sdk_topic_description_heading">"Apraksts"</string>
+    <string name="uf_sdk_topic_description_hint">"Detalizēti aprakstiet savu tēmu"</string>
+    <string name="uf_sdk_topic_filter">"TĒMAS"</string>
+    <string name="uf_sdk_topic_form_help">"Kad publicējat kādu tēmu lietotāju forumā, citi lietotāji var to abonēt un komentēt. Turklāt, kad ASUS izstrādātāju komanda atbildēs uz jūsu tēmu, jūs saņemsit e-pasta paziņojumu."</string>
+    <string name="uf_sdk_topic_form_title">"Publicēt jaunu tēmu"</string>
+    <string name="uf_sdk_topic_text_heading">"Forums"</string>
+    <string name="uf_sdk_topic_text_hint">"Ievadiet tēmas nosaukumu"</string>
+    <string name="uf_sdk_topic_title">"Nosaukums"</string>
+    <string name="uf_sdk_translation_10117605">"Tulkojuma problēma"</string>
+    <string name="uf_sdk_translation_117562">"Atsauksmes veids"</string>
+    <string name="uf_sdk_translation_2529543">"Ziņojums par kļūdu"</string>
+    <string name="uf_sdk_translation_2529544">"Citi"</string>
+    <string name="uf_sdk_translation_2530478">"Ieteikums"</string>
+    <string name="uf_sdk_unhelpful_article_message_question">"Vai vēlaties nosūtīt atsauksmi ASUS izstrādātāju komandai?"</string>
+    <string name="uf_sdk_user_forum">"Lietotāju forums"</string>
+    <string name="uf_sdk_warning">"Brīdinājums"</string>
+    <string name="uf_sdk_wifi_settings">"Wi-Fi iestatījumi"</string>
+    <string name="uf_sdk_wlan_settings">"WLAN iestatījumi"</string>
+    <string name="uf_sdk_write_your_feedback">"Ievadiet atsauksmes šeit"</string>
+    <string name="uf_sdk_your_draft_will_be_discarded">"Jūsu melnraksts tiks atmests."</string>
+    <string description="description for empty search result" maxwidth="-1" name="unable_to_find_artlcles">"Nevar atrast \u0022%s\u0022 saistītos rakstus"</string>
+    <string description="string indicating the length units in milli-meters" maxwidth="-1" name="unit_mm">"mm"</string>
+    <string description="Context Menu: options of context menu: unshare folder" maxwidth="-1" name="unshared_folder">"Atcelt kopīgošanu"</string>
+    <string name="unsupported_area">"Šī zona netiek atbalstīta"</string>
+    <string description="toast message: extract files fail" maxwidth="-1" name="unzip_fail">"Neizdevās izvilkt failus"</string>
+    <string description="extract file dialog message" maxwidth="-1" name="unzip_progress_msg">"Izvelk..."</string>
+    <string description="toast message: extract files successly" maxwidth="-1" name="unzip_success">"Faili ir veiksmīgi izvilkti."</string>
+    <string name="update">"Atjaunināt"</string>
+    <string name="update_fb_app">"Facebook mobilās lietotnes versija nav atjaunināta. Instalējiet jaunāko versiju no Google Play."</string>
+    <string name="upgrade_notification_content">Mūsu jaunajā sākumekrānā skatiet failus pēc tipa.</string>
+    <string name="upgrade_notification_title">Izmēģiniet jauno Failu pārvaldnieks tūlīt!</string>
+    <string name="upload_complete">"Augšupielādē pabeigta"</string>
+    <string name="upload_complete_dialog_message">"Augšupielāde ir sekmīgi pabeigta."</string>
+    <string name="upload_complete_dialog_title">"Pabeigts"</string>
+    <string name="upload_fail">"Augšupielāde neizdevās!"</string>
+    <string name="upload_failed">"Augšupielāde neizdevās"</string>
+    <string name="upload_picture_toast">"Jūsu attēls tiks augšupielādēts. Pārbaudiet norisi paziņojumu logā."</string>
+    <string name="upload_toast">"Jūsu video tiks augšupielādēts. Pārbaudiet norisi paziņojumu logā."</string>
+    <string name="uploading_picture">"Augšupielādē attēlu..."</string>
+    <string name="uploading_video">"Augšupielādē video..."</string>
+    <string name="user">"Lietotājvārds"</string>
+    <string name="user_hint">"administrators"</string>
+    <string name="uv_admin_response_format">"Administratora atbilde: %1$s"</string>
+    <string name="uv_all_articles">"Visi raksti"</string>
+    <string name="uv_all_results_filter">"VISS"</string>
+    <string name="uv_android_sdk">Android SDK</string>
+    <string name="uv_article_browse_question">"Vai šis raksts bija noderīgs?"</string>
+    <string name="uv_article_instant_answer_question">"Vai šis bieži uzdoto jautājumu saraksts ir noderīgs?"</string>
+    <string name="uv_cancel">"Atcelt"</string>
+    <string name="uv_category">"Kategorija"</string>
+    <string name="uv_close">"Aizvērt"</string>
+    <string name="uv_comment_hint">"Ievadiet savu komentāru"</string>
+    <string name="uv_confirm">"Apstiprināt"</string>
+    <string name="uv_contact_continue_button">"Es tomēr vēlos nosūtīt ziņu"</string>
+    <string name="uv_contact_hint">"Ievadiet savu jautājumu vai atsauksmi"</string>
+    <string name="uv_contact_us">"Sazinieties ar mums"</string>
+    <string name="uv_display_name">"Parādāmais vārds"</string>
+    <string name="uv_email_address">"E-pasta adrese"</string>
+    <string name="uv_email_address_hint">"jūsu@epasts.com (obligāts)"</string>
+    <string name="uv_error">"Kļūda"</string>
+    <string name="uv_failed_signin_error">"Nepareiza e-pasta adrese vai parole"</string>
+    <string name="uv_forgot_password">"Aizmirsta parole"</string>
+    <string name="uv_helpful_article_message_question">"Vai tomēr vēlaties nosūtīt ziņu?"</string>
+    <string name="uv_i_want_this">"Es to vēlos!"</string>
+    <string name="uv_idea_description_heading">"Aprakstiet savu ideju detalizētāk"</string>
+    <string name="uv_idea_description_hint">"(papildiespēja)"</string>
+    <string name="uv_idea_text_heading">"Es jums iesaku..."</string>
+    <string name="uv_loading">"Ielādē..."</string>
+    <string name="uv_matching_articles">"Līdzīgi raksti"</string>
+    <string name="uv_matching_articles_and_ideas">"Līdzīgi raksti un idejas"</string>
+    <string name="uv_menu_attach">"Pievienot"</string>
+    <string name="uv_menu_search">"Meklēt"</string>
+    <string name="uv_msg_bad_email_format">"Lūdzu, ievadiet derīgu e-pasta adresi."</string>
+    <string name="uv_msg_comment_posted">"Jūsu komentārs ir publicēts"</string>
+    <string name="uv_msg_confirm_discard_message">"Vai tiešām vēlaties atmest savu ziņu?"</string>
+    <string name="uv_msg_custom_fields_validation">"Lūdzu, aizpildiet obligātos failus."</string>
+    <string name="uv_msg_forgot_password">"Paroles atgādināšanas e-pasta ziņa ir nosūtīta."</string>
+    <string name="uv_msg_idea_created">"Jūsu ideja ir izveidota."</string>
+    <string name="uv_msg_ticket_created">"Jūsu ziņa ir nosūtīta."</string>
+    <string name="uv_msg_user_identity_validation">"Lūdzu, ievadiet savu e-pasta adresi"</string>
+    <string name="uv_name_hint">"Anonīms"</string>
+    <string name="uv_network_error">"Veidojot savienojumu ar UserVoice, radās kļūda."</string>
+    <string name="uv_nevermind">"Neņemt vērā"</string>
+    <string name="uv_new_comment">"Jauns komentārs"</string>
+    <string name="uv_next">"Tālāk"</string>
+    <string name="uv_no">"Nē"</string>
+    <string name="uv_none_of_these_help">"Nekas no tā nelīdzēja"</string>
+    <string name="uv_password">"Parole"</string>
+    <string name="uv_password_dialog_title">"Lūdzu, ievadiet savu paroli"</string>
+    <string name="uv_portal_title">"Palīdzība"</string>
+    <string name="uv_post_a_comment">"Publicēt komentāru"</string>
+    <string name="uv_post_comment">"Publicēt komentāru"</string>
+    <string name="uv_posted_by_format">"Publicēja %1$s, %2$s"</string>
+    <string name="uv_powered_by_uservoice">"Nodrošina UserVoice"</string>
+    <string name="uv_ranked">"Reitings: %1$s"</string>
+    <string name="uv_remove_votes">"Noņemt balsis"</string>
+    <string name="uv_select_none">"(nav)"</string>
+    <string name="uv_select_one">"Izvēlieties vienu"</string>
+    <string name="uv_send_message">"Sūtīt ziņu"</string>
+    <string name="uv_signin_dialog_ok">"Pierakstīties"</string>
+    <string name="uv_signin_dialog_title">"Pierakstīties"</string>
+    <string name="uv_status_format">"Statuss: %1$s"</string>
+    <string name="uv_submit_idea">"Iesniegt ideju"</string>
+    <string name="uv_subscribe">"Abonēt"</string>
+    <string name="uv_subscribe_dialog_title">"Abonēt šo ideju"</string>
+    <string name="uv_suggestion_instant_answer_question">"Vai šī ideja ir noderīga?"</string>
+    <string name="uv_thanks">"Paldies!"</string>
+    <string name="uv_unhelpful_article_message_question">"Vai vēlaties nosūtīt mums ziņu?"</string>
+    <string name="uv_value">"Vērtība"</string>
+    <string name="uv_very_yes">"Jā!"</string>
+    <string name="uv_yes">"Jā"</string>
+    <string name="uv_your_email_address">"Jūsu e-pasta adrese"</string>
+    <string name="uv_your_name">"Jūsu vārds"</string>
+    <string description="version" maxwidth="-1" name="version">"Versija"</string>
+    <string name="version_text">"Versija"</string>
+    <string name="wait">"Lūdzu, uzgaidiet\u2026"</string>
+    <string name="warning_stophttpserver">"Jūs zaudēsiet savienojumu starp mobilo ierīci un datoru. Vai vēlaties aizvērt?</string>
+    <string name="whats_new_label">"Jaunumi"</string>
+    <string description="message for request to connect Network" name="wifi_p2p_connection_msg" width="-1">"Lūdzu, izveidojiet tīkla savienojumu, lai lietotu mākoņpakalpojumus."</string>
+    <string description="title for request to connect Network" name="wifi_p2p_connection_title" width="-1">"Izveidot tīkla savienojumu"</string>
+    <string description="message for request to turn on Wi-Fi" name="wifi_p2p_turn_on_wifi_msg" width="-1">"Ieslēdziet Wi-Fi, lai izmantotu Wi-Fi Direct pakalpojumus. Vai ieslēgt Wi-Fi tūlīt?"</string>
+    <string description="title for turn on WiFi dialog" name="wifi_p2p_turn_on_wifi_title" width="-1">"Ieslēgt Wi-Fi"</string>
+    <string description="search" maxwidth="-1" name="wifidirect_action_bar_scan">"Meklēt"</string>
+    <string description="Available devices" maxwidth="-1" name="wifidirect_available_devices">"Pieejamās ierīces"</string>
+    <string description="Do you want to connect to device" maxwidth="-1" name="wifidirect_connect_hint">"Vai vēlaties izveidot savienojumu ar"</string>
+    <string description="Dialog title text: Invitation to connect" maxwidth="-1" name="wifidirect_connect_hint_title">"Uzaicinājums izveidot savienojumu"</string>
+    <string description="Dialog title text: Wi-Fi Direct connecting" maxwidth="-1" name="wifidirect_connecting_hint_title">"Veido Wi-Fi Direct savienojumu..."</string>
+    <string description="connectted" maxwidth="-1" name="wifidirect_connectted">"Savienojums ir izveidots"</string>
+    <string description=">Do you want to disconnect" maxwidth="-1" name="wifidirect_disconnect_hint">"Vai vēlaties atvienot no"</string>
+    <string description="Disconnect Wi-Fi Direct" maxwidth="-1" name="wifidirect_disconnect_hint_title">"Atvienot Wi-Fi Direct"</string>
+    <string description="peer devices infomation" maxwidth="-1" name="wifidirect_peer_device_info">"Lai saņemtu Wi-Fi Direct uzaicinājumu, pārliecinieties, vai ierīce, kas veido savienojumu, programmā Failu pārvaldnieks paliek lapā \"Vienādranga ierīces\"."</string>
+    <string description="peer devices title" maxwidth="-1" name="wifidirect_peer_device_title">"Vienādranga ierīces"</string>
+    <string description="searching" maxwidth="-1" name="wifidirect_scanning">"Meklē..."</string>
+    <string description="Search Wi-Fi Direct device" maxwidth="-1" name="wifidirect_storage_title">"Meklēt Wi-Fi Direct ierīci"</string>
+    <string description="click to connect" maxwidth="-1" name="wifidirect_touch_to_connect">"Noklikšķiniet, lai savienotu"</string>
+    <string name="yandex_account_only_one_alert">"Var pievienot tikai vienu Yandex kontu. Pirms konta aizvietošanas ar jaunu kontu ir jāizdzēš vecais konts."</string>
+    <string name="yd_label">"ASUS Yandex"</string>
+    <string name="yes">"Jā"</string>
+    <string name="zenui_update">"ZenUI tūlītēji atjauninājumi"</string>
+    <string description="toast message: Compress files fail" maxwidth="-1" name="zip_fail">"Neizdevās saspiest failus"</string>
+    <string description="compress dialog message" maxwidth="-1" name="zip_progress_msg">"Notiek..."</string>
+    <string description="toast message: Compress files successly" maxwidth="-1" name="zip_success">"Faili ir saspiesti"</string>
+</resources>

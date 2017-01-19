@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:id="@+id/fragment_analyzer_cardbase_baselayout"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="?card_bg"
+    >
+
+    <RelativeLayout
+        android:id="@+id/fragment_analyzer_cardbase_baselayout_up"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/fragment_analyzer_chart_divide"
+        android:layout_alignStart="@+id/fragment_analyzer_chart_divide"
+        android:layout_alignLeft="@+id/fragment_analyzer_chart_divide"
+        android:layout_alignRight="@+id/fragment_analyzer_chart_divide"
+        android:layout_marginBottom="@dimen/fragment_analyzer_title_margin"
+        android:layout_marginTop="@dimen/fragment_analyzer_title_margin">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:layout_toStartOf="@+id/fragment_analyzer_cardbase_more"
+            android:layout_toLeftOf="@+id/fragment_analyzer_cardbase_more"
+            >
+
+                        <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                >
+
+                <TextView
+                    android:id="@+id/fragment_analyzer_cardbase_title"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:gravity="center_vertical"
+                    android:layout_marginRight="@dimen/fragment_analyzer_title_margin"
+                    android:layout_marginEnd="@dimen/fragment_analyzer_title_margin"
+                    android:textSize="@dimen/fragment_analyzer_title_sizes"
+                    android:textStyle="bold"
+                    android:singleLine="true"
+                    android:layout_weight="1"
+                    android:textColor="?analyzer_cardbase_title_color"
+                    />
+
+
+<TextView
+                    android:id="@+id/fragment_analyzer_cardbase_sizes"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:gravity="center_vertical"
+                    android:textSize="@dimen/fragment_analyzer_more_sizes"
+                    android:layout_marginRight="@dimen/fragment_analyzer_title_margin"
+                    android:layout_marginEnd="@dimen/fragment_analyzer_title_margin"
+                    android:textStyle="bold"
+                    android:singleLine="true"
+                    android:textColor="?analyzer_cardbase_size_color" />
+              </LinearLayout>
+
+</LinearLayout>
+
+
+        <TextView
+            android:id="@+id/fragment_analyzer_cardbase_more"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/fragment_analyzer_more_margin"
+            android:layout_marginEnd="@dimen/fragment_analyzer_more_margin"
+            android:layout_toStartOf="@+id/fragment_analyzer_cardbase_next"
+            android:layout_toLeftOf="@+id/fragment_analyzer_cardbase_next"
+            android:gravity="center_vertical"
+            android:text="@string/fragment_analyzer_more_hint"
+            android:textSize="@dimen/fragment_analyzer_more_sizes"
+            android:textColor="?analyzer_cardbase_title_color"
+            />
+
+        <ImageView
+            android:id="@+id/fragment_analyzer_cardbase_next"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:src="@drawable/asus_ic_next"/>
+
+
+
+    </RelativeLayout>
+
+    <FrameLayout
+        android:id="@+id/fragment_analyzer_chart_divide"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_below="@+id/fragment_analyzer_cardbase_baselayout_up"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="@dimen/fragment_analyzer_title_margin"
+        android:layout_marginRight="@dimen/fragment_analyzer_title_margin"
+        android:layout_marginStart="@dimen/fragment_analyzer_title_margin"
+        android:layout_marginEnd="@dimen/fragment_analyzer_title_margin"
+        android:background="?divider_color" >
+    </FrameLayout>
+
+
+    <RelativeLayout
+
+        android:id="@+id/fragment_analyzer_cardbase_baselayout_down"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/fragment_analyzer_chart_divide"
+        android:layout_alignStart="@+id/fragment_analyzer_chart_divide"
+        android:layout_alignLeft="@+id/fragment_analyzer_chart_divide"
+        android:layout_alignRight="@+id/fragment_analyzer_chart_divide"
+        android:layout_below="@+id/fragment_analyzer_chart_divide"
+        android:layout_marginTop="@dimen/fragment_analyzer_title_margin">
+
+        <FrameLayout
+            android:id="@+id/fragment_analyzer_cardbase_frameLayout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="@dimen/fragment_analyzer_title_margin"
+            android:layout_marginEnd="@dimen/fragment_analyzer_title_margin">
+
+            <ImageView
+                android:id="@+id/fragment_analyzer_cardbase_item_base"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/round_cardbase_item"
+                />
+
+            <ImageView
+                android:id="@+id/fragment_analyzer_cardbase_item"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"/>
+        </FrameLayout>
+
+        <TextView
+            android:id="@+id/fragment_analyzer_cardbase_content"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toEndOf="@+id/fragment_analyzer_cardbase_frameLayout"
+            android:layout_toRightOf="@+id/fragment_analyzer_cardbase_frameLayout"
+            android:gravity="center_vertical"
+            android:textSize="@dimen/fragment_analyzer_cardbase_content_text_sizes"
+            android:textColor="?analyzer_cardbase_title_color" />
+
+    </RelativeLayout>
+    <LinearLayout
+        android:layout_below="@+id/fragment_analyzer_cardbase_baselayout_down"
+        android:layout_height="@dimen/fragment_analyzer_title_margin"
+        android:layout_width="match_parent"
+
+        ></LinearLayout>
+
+</RelativeLayout>

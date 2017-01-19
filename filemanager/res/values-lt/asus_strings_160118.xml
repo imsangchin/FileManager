@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="httpserver_title" maxwidth="">"Belaidis failų persiuntimas į kompiuterį"</string>
+    <string name="httpserver_start" maxwidth="">"Pradėti"</string>
+    <string name="httpserver_stop" maxwidth="">"Sustabdyti"</string>
+    <string name="httpserver_need_saf" maxwidth="">"Jeigu norite tvarkyti išorinę saugyklą iš kompiuterio, privalote duoti leidimą."</string>
+    <string name="httpserver_description" maxwidth="">"Įjunkite paslaugą, kad prijungtumėte savo mobilųjį prietaisą prie kompiuterio."</string>
+    <string name="httpserver_instruction" maxwidth="">"Savo kompiuterio naršyklėje įveskite šį adresą:"</string>
+    <string name="httpserver_no_network" maxwidth="">"Prijunkite savo prietaisą prie to paties Wi-Fi tinklo"</string>
+    <string name="httpserver_no_permission_title" maxwidth="">"Paleiskite belaidį failų persiuntimą"</string>
+    <string name="httpserver_no_permission_message" maxwidth="">"Negalėsite įrašyti išorinėje saugykloje, negavę tinkamo leidimo. Tęsti?"</string>
+    <string name="httpserver_acquire_permission_message" maxwidth="">"HTTP failų serveris bus uždarytas ir veiksmai gali būti pertraukti. Tęsti?"</string>
+    <string name="category_title_tools">"Įrankiai"</string>
+    <string name="tools_file_transfer">"Kompiuterio failų perkėlimas"</string>
+    <string name="tools_clean_master">"Valyti nepageidaujamą el. paštą"</string>
+    <string name="retention_notification_large_file">"Pridėjote %1$s didelius (-ių) failus (-ų). Peržiūrėkite juos dabar."</string>
+    <string name="retention_notification_recent_file">"Jūsų paskutiniai failai užima %1$s vietos. Peržiūrėkite juos dabar."</string>
+    <string name="recommend_clean_master_msg">"Visame pasaulyje patikimiausia Android“ optimizavimo, spartos didinimo, baterijos energijos taupymo priemonė ir nemokama antivirusinė programėlė. \nAtsisiųsti dabar?"</string>
+    <string name="recommend_clean_master_title">"Programėlės rekomendacija"</string>
+    <string name="tools_tip_animation">"Griebkite įrankius!"</string>
+</resources>

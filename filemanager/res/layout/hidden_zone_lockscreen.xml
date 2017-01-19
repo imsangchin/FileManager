@@ -1,0 +1,78 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="?normal_background_color" >
+
+    <include layout="@layout/toolbar" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="@dimen/hidden_zone_introduction_page_margin_left_and_right"
+        android:layout_marginRight="@dimen/hidden_zone_introduction_page_margin_left_and_right"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:paddingLeft="@dimen/lockscreen_padding_left_and_right"
+        android:paddingRight="@dimen/lockscreen_padding_left_and_right"
+        tools:context="${relativePackage}.${activityClass}">
+        <ImageView
+            android:id="@+id/banner"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="3"
+            android:src="@drawable/asus_filemanager_securezone_unlockbn" />
+
+        <com.asus.filemanager.ui.AutoResizeTextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:fontFamily="Roboto Medium"
+            android:gravity="center"
+            android:text="@string/set_password_title"
+            android:textSize="@dimen/lockscreen_title_font_size"
+            android:textColor="?title_color" />
+
+        <com.asus.filemanager.ui.AutoResizeTextView
+            android:id="@+id/description"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:fontFamily="Roboto Regular"
+            android:gravity="center"
+            android:maxLines="1"
+            android:textSize="@dimen/lockscreen_description_font_size"
+            android:textColor="?category_text_color" />
+
+        <include
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            layout="@layout/password_line" />
+
+        <LinearLayout
+            android:id="@+id/keyboard_container"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="6"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:weightSum="10" >
+
+            <com.asus.filemanager.hiddenzone.KeyboardView
+                android:id="@+id/pin_code_keyboard_view"
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_weight="9" />
+
+            <ImageView
+                android:id="@+id/fingerprint_icon"
+                android:layout_width="@dimen/lockscreen_fingerprint_icon_width"
+                android:layout_height="@dimen/lockscreen_fingerprint_icon_height"
+                android:layout_marginBottom="@dimen/lockscreen_fingerprint_margin_bottom"
+                android:layout_marginTop="@dimen/lockscreen_fingerprint_margin_top"
+                android:visibility="gone" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

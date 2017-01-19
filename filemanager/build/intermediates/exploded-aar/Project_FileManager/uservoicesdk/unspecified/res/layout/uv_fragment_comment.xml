@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <com.uservoice.uservoicesdk.ui.UListView
+        android:id="@+id/commentListview"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:listSelector="@android:color/transparent" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#E9EAED" />
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#F6F7F8" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal" >
+
+            <!--
+            <FrameLayout
+                android:id="@+id/uv_subscriber"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:clickable="true"
+                android:foreground="?android:attr/selectableItemBackground" >
+
+                <TextView
+                    android:id="@+id/uv_subscriber_status"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:background="@null"
+                    android:drawableLeft="@drawable/uv_heart"
+                    android:text="@string/uv_subscribe" />
+            </FrameLayout>
+            -->
+
+            <com.uservoice.uservoicesdk.ui.MaterialRippleLayout
+                android:id="@+id/uv_subscriber"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:clickable="true" >
+
+                <TextView
+                    android:id="@+id/uv_subscriber_status"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:background="@null"
+                    android:drawableLeft="@drawable/uv_heart"
+                    android:text="@string/uv_subscribe" />
+            </com.uservoice.uservoicesdk.ui.MaterialRippleLayout>
+
+            <View
+                android:layout_width="1dp"
+                android:layout_height="match_parent"
+                android:background="#E9EAED" />
+
+            <!--  
+            <FrameLayout
+                android:id="@+id/comment"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:clickable="true"
+                android:foreground="?android:attr/selectableItemBackground" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:background="@null"
+                    android:drawableLeft="@drawable/uv_comment"
+                    android:text="@string/uv_post_comment" />
+            </FrameLayout>
+            
+            -->
+            
+            <com.uservoice.uservoicesdk.ui.MaterialRippleLayout
+                 android:id="@+id/comment"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:clickable="true" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:background="@null"
+                    android:drawableLeft="@drawable/uv_comment"
+                    android:text="@string/uv_post_comment" />
+            </com.uservoice.uservoicesdk.ui.MaterialRippleLayout>
+            
+        </LinearLayout>
+    </FrameLayout>
+
+</LinearLayout>

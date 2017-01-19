@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="uf_sdk_number_of_subscribers_format">
+        <item quantity="one">%1$s 個人說這個主題讚</item>
+        <item quantity="other">%1$s 個人說這個主題讚</item>
+    </plurals>
+    <plurals name="uf_sdk_topics">
+        <item quantity="one">主題</item>
+        <item quantity="other">主題</item>
+    </plurals>
+    <plurals name="uv_comments">
+        <item quantity="one">評論</item>
+        <item quantity="other">評論</item>
+    </plurals>
+    <plurals name="uv_number_of_subscribers_format">
+        <item quantity="one">%1$s 喜歡這個意見</item>
+        <item quantity="other">%1$s 喜歡這個意見</item>
+    </plurals>
+    <plurals name="uv_people">
+        <item quantity="one">人</item>
+        <item quantity="other">人</item>
+    </plurals>
+    <plurals name="uv_subscribers">
+        <item quantity="one">訂閱者</item>
+        <item quantity="other">訂閱者</item>
+    </plurals>
+    <string description="label for trending searches" maxwidth="-1" name="trending_searches">"熱門搜尋"</string>
+    <string name="uf_sdk_already_give_5star">已經給過五顆星了</string>
+    <string description="%d is a number, don&apos;t translate" name="uf_sdk_article_read_count">%d 看過</string>
+    <string name="uf_sdk_attachment_format_warning">格式錯誤，僅支援圖檔</string>
+    <string name="uf_sdk_attachment_total_size">總計</string>
+    <string name="uf_sdk_attachment_warning">附件大小超過了允許的限制</string>
+    <string maxwidth="-1" name="uf_sdk_cancel_btn_content">"取消"</string>
+    <string name="uf_sdk_choosertitle_sharevia">"分享方式"</string>
+    <string name="uf_sdk_connection_error_msg">伺服器連線失敗，請稍後再試。</string>
+    <string name="uf_sdk_connection_error_title">連線錯誤</string>
+    <string name="uf_sdk_discard">"捨棄"</string>
+    <string name="uf_sdk_email_illigal">這個郵件帳號已被使用</string>
+    <string maxwidth="-1" name="uf_sdk_empty_notification">目前沒有通知 :)</string>
+    <string name="uf_sdk_faq">常見問題</string>
+    <string name="uf_sdk_feedback_and_help">意見與協助</string>
+    <string name="uf_sdk_forum_description">在此與其他華碩使用者分享您的經驗與密技</string>
+    <string maxwidth="-1" name="uf_sdk_grant_permission_title">"提供以下權限"</string>
+    <string name="uf_sdk_help">協助</string>
+    <string name="uf_sdk_instant_answer_question">這篇文章對您有幫助嗎？</string>
+    <string name="uf_sdk_like">讚</string>
+    <string maxwidth="-1" name="uf_sdk_message">通知</string>
+    <string name="uf_sdk_msg_bad_email_format">電子郵件位址不正確，請再試一次。</string>
+    <string name="uf_sdk_msg_confirm_discard_topic">您的草稿將不會被儲存。確認要取消發佈嗎？</string>
+    <string name="uf_sdk_msg_confirm_discard_topic_title">取消發佈？</string>
+    <string name="uf_sdk_msg_subscribe">主題狀態更新會自動寄送通知到您的電子信箱</string>
+    <string name="uf_sdk_msg_subscribe_success">訂閱成功</string>
+    <string name="uf_sdk_msg_ticket_created">已將您的意見傳送給華碩</string>
+    <string name="uf_sdk_msg_topic_created">發佈成功</string>
+    <string name="uf_sdk_msg_unsubscribe">取消訂閱成功。</string>
+    <string name="uf_sdk_name_hint">輸入您的姓名</string>
+    <string name="uf_sdk_name_illigal">使用者名稱已存在</string>
+    <string name="uf_sdk_network_error">無網路連線，請檢查您的網路設定。</string>
+    <string description="zenui news" maxwidth="" name="uf_sdk_news">最新消息</string>
+    <string name="uf_sdk_no_network_connection_content">伺服器連線失敗，請稍後再試。</string>
+    <string name="uf_sdk_no_network_connection_title">連線錯誤</string>
+    <string name="uf_sdk_nothing_found">沒有找到符合項目</string>
+    <string name="uf_sdk_notice">注意</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category1">公告</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category2">使用教學</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category3">好康推薦</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category4">活動訊息</string>
+    <string name="uf_sdk_publish_an_topic">發佈新主題</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_rate_now">馬上評分</string>
+    <string description="%s is AP name, don&apos;t translate" maxWidth="" name="uf_sdk_rate_us_detail">如果您喜歡使用%s，請在 Play  商店給我們五顆星的評價。</string>
+    <string maxWidth="" name="uf_sdk_rate_us_detail_new">您的五顆星肯定是我們最好的動力！</string>
+    <string maxWidth="" name="uf_sdk_rate_us_rating">評分去</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title">鼓勵我們！</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title_new">鼓勵我們</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_scroll_up_toast">請滑到下方為我們評分</string>
+    <string name="uf_sdk_search_hint">搜尋協助</string>
+    <string name="uf_sdk_select_common_bug">選擇常見問題</string>
+    <string name="uf_sdk_send_feedback">傳送意見</string>
+    <string name="uf_sdk_send_feedback_help">您的意見回饋與電子郵件信箱將被寄送給華碩，服務團隊會以電子郵件與您聯繫。</string>
+    <string maxwidth="-1" name="uf_sdk_setting_btn_content">"設定"</string>
+    <string description="recommend title" maxwidth="" name="uf_sdk_settings_encourage_us_title">鼓勵我們</string>
+    <string maxwidth="-1" name="uf_sdk_storage_permission_description">"本功能需取得儲存裝置相關權限，以便存取多媒體檔案。\n\n若要啟用此功能，請點擊下方的設定，並至『權限』中，設定開啟\n"</string>
+    <string name="uf_sdk_submit_topic">發佈</string>
+    <string name="uf_sdk_subscribe_dialog_title">訂閱此主題</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_answered">"已回覆"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_completed">"已完成"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_declined">"暫不導入"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_implemented">"已實作"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_planned">"計畫中"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_under_review">"審核中"</string>
+    <string name="uf_sdk_thanks_for_your_feedback">非常感謝您的鼓勵！</string>
+    <string description="%s is a application name, don&apos;t translate" name="uf_sdk_ticket_hint">提供您對%s的建議</string>
+    <string name="uf_sdk_title_topic">主題</string>
+    <string name="uf_sdk_topic">主題</string>
+    <string name="uf_sdk_topic_description_heading">說明</string>
+    <string name="uf_sdk_topic_description_hint">詳盡描述您想討論的主題</string>
+    <string name="uf_sdk_topic_filter">主題</string>
+    <string name="uf_sdk_topic_form_help">當您在用戶討論區發佈主題時，其他使用者將可以訂閱或評論您的主題貼文。此外，若華碩研發團隊回覆了您的主題，系統會寄送電子郵件通知您。</string>
+    <string name="uf_sdk_topic_form_title">發佈新主題</string>
+    <string name="uf_sdk_topic_text_heading">討論區</string>
+    <string name="uf_sdk_topic_text_hint">輸入您的主題標題</string>
+    <string name="uf_sdk_topic_title">標題</string>
+    <string name="uf_sdk_translation_10117605">"翻譯問題"</string>
+    <string name="uf_sdk_translation_117562">意見類型</string>
+    <string name="uf_sdk_translation_2529543">錯誤回報</string>
+    <string name="uf_sdk_translation_2529544">其他</string>
+    <string name="uf_sdk_translation_2530478">建議</string>
+    <string name="uf_sdk_unhelpful_article_message_question">您是否要提供意見回饋給華碩研發團隊？</string>
+    <string name="uf_sdk_user_forum">用戶討論區</string>
+    <string name="uf_sdk_warning">警告</string>
+    <string name="uf_sdk_wifi_settings">Wi-Fi設定</string>
+    <string name="uf_sdk_wlan_settings">WLAN設定</string>
+    <string name="uf_sdk_write_your_feedback">提供您的寶貴建議</string>
+    <string name="uf_sdk_your_draft_will_be_discarded">"您的草稿將被捨棄。"</string>
+    <string description="description for empty search result" maxwidth="-1" name="unable_to_find_artlcles">"找不到「%s」的相關文章"</string>
+    <string name="uv_admin_response_format">管理員回應： %1$s</string>
+    <string name="uv_all_articles">所有文章</string>
+    <string name="uv_all_results_filter">全部</string>
+    <string name="uv_android_sdk">Android SDK</string>
+    <string name="uv_article_browse_question">這篇文章對您有幫助嗎？</string>
+    <string name="uv_article_instant_answer_question">這篇文章對您有幫助嗎？</string>
+    <string name="uv_cancel">取消</string>
+    <string name="uv_category">分類</string>
+    <string name="uv_close">關閉</string>
+    <string name="uv_comment_hint">輸入您的評論</string>
+    <string name="uv_confirm">確認</string>
+    <string name="uv_contact_continue_button">我仍然想發送訊息</string>
+    <string name="uv_contact_hint">寫下您的寶貴意見</string>
+    <string name="uv_contact_us">聯絡我們</string>
+    <string name="uv_display_name">顯示名稱</string>
+    <string name="uv_email_address">Email 信箱</string>
+    <string name="uv_email_address_hint">your@email.com （必填）</string>
+    <string name="uv_error">錯誤</string>
+    <string name="uv_failed_signin_error">錯誤的 Email 或密碼</string>
+    <string name="uv_forgot_password">忘記密碼</string>
+    <string name="uv_helpful_article_message_question">您仍然想要發送訊息嗎？</string>
+    <string name="uv_i_want_this">我想要這個！</string>
+    <string name="uv_idea_description_heading">更詳細地描述您的意見</string>
+    <string name="uv_idea_description_hint">（選填）</string>
+    <string name="uv_idea_text_heading">我建議您…</string>
+    <string name="uv_loading">讀取中…</string>
+    <string name="uv_matching_articles">符合的文章</string>
+    <string name="uv_matching_articles_and_ideas">符合的文章和意見</string>
+    <string name="uv_menu_attach">附件</string>
+    <string name="uv_menu_search">搜尋</string>
+    <string name="uv_msg_bad_email_format">請輸入有效的電子郵件地址。</string>
+    <string name="uv_msg_comment_posted">您的評論已經張貼</string>
+    <string name="uv_msg_confirm_discard_message">您確定要捨棄您的訊息？</string>
+    <string name="uv_msg_custom_fields_validation">請輸入所有必填欄位。</string>
+    <string name="uv_msg_forgot_password">忘記密碼通知信已經送出</string>
+    <string name="uv_msg_idea_created">您的意見已經發佈</string>
+    <string name="uv_msg_ticket_created">您的訊息已經送出</string>
+    <string name="uv_msg_user_identity_validation">請輸入您的 Email 信箱</string>
+    <string name="uv_name_hint">“匿名”</string>
+    <string name="uv_network_error">連線到 UserVoice 時發生錯誤</string>
+    <string name="uv_nevermind">沒關係</string>
+    <string name="uv_new_comment">新評論</string>
+    <string name="uv_next">下一頁</string>
+    <string name="uv_no">否</string>
+    <string name="uv_none_of_these_help">這些內容沒有幫助</string>
+    <string name="uv_password">密碼</string>
+    <string name="uv_password_dialog_title">請輸入您的密碼</string>
+    <string name="uv_portal_title">幫助</string>
+    <string name="uv_post_a_comment">張貼一則評論</string>
+    <string name="uv_post_comment">張貼評論</string>
+    <string name="uv_posted_by_format">由 %1$s 於 %2$s 張貼</string>
+    <string name="uv_powered_by_uservoice">"由 UserVoice 提供"</string>
+    <string name="uv_ranked">"排名 %1$s"</string>
+    <string name="uv_remove_votes">移除投票</string>
+    <string name="uv_select_none">（無）</string>
+    <string name="uv_select_one">請選擇</string>
+    <string name="uv_send_message">發送訊息</string>
+    <string name="uv_signin_dialog_ok">登入</string>
+    <string name="uv_signin_dialog_title">登入</string>
+    <string name="uv_status_format">狀態： %1$s</string>
+    <string name="uv_submit_idea">送出意見</string>
+    <string name="uv_subscribe">訂閱</string>
+    <string name="uv_subscribe_dialog_title">訂閱此意見</string>
+    <string name="uv_suggestion_instant_answer_question">這個意見對您有幫助嗎？</string>
+    <string name="uv_thanks">謝謝！</string>
+    <string name="uv_unhelpful_article_message_question">您是否願意發送訊息給我們？</string>
+    <string name="uv_value">值</string>
+    <string name="uv_very_yes">是！</string>
+    <string name="uv_yes">是</string>
+    <string name="uv_your_email_address">您的 Email 信箱</string>
+    <string name="uv_your_name">您的姓名</string>
+</resources>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2010 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:id="@+id/select_all_action"
+        android:icon="@drawable/asus_ep_ic_select_all"
+        android:showAsAction="always"
+        android:title="@string/select_all">
+    </item>
+    <item
+        android:id="@+id/menu_overflow"
+        android:icon="@drawable/asus_ic_menu_grey"
+        android:title=""
+        android:showAsAction="always"            android:actionLayout="@layout/menu_badge">
+        <menu>
+            <item
+                android:id="@+id/add_favorite_action"
+                android:showAsAction="never"
+                android:title="@string/add_favorite">
+            </item>
+            <item
+                android:id="@+id/remove_favorite_action"
+                android:showAsAction="never"
+                android:title="@string/remove_favorite">
+            </item>
+            <item
+                android:id="@+id/create_shortcut_action"
+                android:showAsAction="never"
+                android:title="@string/create_shortcut">
+            </item>
+            <item
+                android:id="@+id/compress_action"
+                android:showAsAction="never"
+                android:title="@string/action_zip">
+            </item>
+            <item
+                android:id="@+id/hidden_zone_action"
+                android:showAsAction="never"
+                android:visible="false"
+                android:title="@string/action_hidden_zone">
+            </item>
+            <item
+                android:id="@+id/rename_action"
+                android:showAsAction="never"
+                android:title="@string/rename">
+            </item>
+            <item
+                android:id="@+id/info_action"
+                android:showAsAction="never"
+                android:title="@string/info">
+            </item>
+        </menu>
+    </item>
+
+</menu>

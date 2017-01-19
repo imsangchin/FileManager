@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal|center_vertical"
+    android:minHeight="@dimen/uv_listPreferredItemHeightSmall" >
+    <FrameLayout
+        android:id="@+id/uf_sdk_clientconfig_loaded"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fitsSystemWindows="true" >
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@android:color/background_light" >
+    
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@android:color/background_light"
+                android:orientation="vertical" >
+    
+                <Space
+                    android:layout_width="match_parent"
+                    android:layout_height="15dp" />
+    
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical" >
+    
+                   <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="vertical"
+                        android:paddingLeft="10dp"
+                        android:paddingRight="10dp" >
+    
+                        <EditText
+                            android:id="@+id/contact_text"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:ems="10"
+                            android:gravity="top"
+                            android:hint="@string/uv_contact_hint"
+                            android:inputType="textMultiLine|textCapSentences"
+                            android:minLines="3">
+                        </EditText>
+    
+                    </LinearLayout>
+                </LinearLayout>
+                <LinearLayout
+                    android:id="@+id/attachment_area"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp"
+                    android:visibility="gone">
+    
+                    <TextView
+                        android:id="@+id/attachment_total_size"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textIsSelectable="false"
+                        android:paddingLeft="8dip"
+                        android:paddingTop="12dip"
+                        android:paddingBottom="4dip" />
+                    
+    
+                    <HorizontalScrollView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:scrollbarAlwaysDrawHorizontalTrack="false" >
+    
+                        <LinearLayout
+                            android:id="@+id/attachment_list"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:animateLayoutChanges="true"
+                            android:isScrollContainer="true"
+                            android:orientation="horizontal" >
+                        </LinearLayout>
+                    </HorizontalScrollView>
+                </LinearLayout>
+    
+                <Space
+                    android:layout_width="match_parent"
+                    android:layout_height="15dp" />
+    
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical" >
+    
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:clickable="false"
+                        android:orientation="vertical"
+                        android:paddingLeft="10dp"
+                        android:paddingRight="10dp" >
+    
+                        <TextView
+                            style="@style/uv_ListSeparator"
+                            android:background="@null"
+                            android:text="@string/uv_your_email_address"
+                            android:textIsSelectable="false" />
+                    </LinearLayout>
+    
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="vertical"
+                        android:paddingLeft="10dp"
+                        android:paddingRight="10dp" >
+    
+                        <EditText
+                            android:id="@+id/email_address"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:maxLength="254"
+                            android:hint="@string/uv_email_address_hint"
+                            android:inputType="textEmailAddress" >
+                        </EditText>
+                    </LinearLayout>
+                </LinearLayout>
+    
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:visibility="gone" >
+    
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:clickable="false"
+                        android:orientation="vertical"
+                        android:paddingLeft="10dp"
+                        android:paddingRight="10dp" >
+    
+                        <TextView
+                            style="@style/uv_ListSeparator"
+                            android:text="@string/uv_your_name"
+                            android:textIsSelectable="false" />
+                    </LinearLayout>
+    
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="vertical"
+                        android:paddingLeft="10dp"
+                        android:paddingRight="10dp" >
+    
+                        <EditText
+                            android:id="@+id/name"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:ems="10"
+                            android:hint="@string/uv_name_hint"
+                            android:inputType="textPersonName" >
+                        </EditText>
+                    </LinearLayout>
+                </LinearLayout>
+    
+                <LinearLayout
+                    android:id="@+id/custom_feild_area"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical" >
+                </LinearLayout>
+    
+                <FrameLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" >
+    
+                    <Button
+                        android:id="@+id/submit_button"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_marginBottom="20dp"
+                        android:layout_marginLeft="40dp"
+                        android:layout_marginRight="40dp"
+                        android:layout_marginTop="20dp"
+                        android:text="@string/uv_send_message" />
+    
+                    <ProgressBar
+                        android:id="@+id/submit_progressBar"
+                        style="?android:attr/progressBarStyleLarge"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:visibility="gone" />
+                </FrameLayout>
+    
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:paddingBottom="10dip"
+                    android:paddingLeft="20dip"
+                    android:paddingRight="20dip"
+                    android:text="@string/uf_sdk_send_feedback_help"
+                    android:textColor="#7a7a7a"
+                    android:textSize="14sp" />
+            </LinearLayout>
+        </ScrollView>
+    </FrameLayout>
+    <include layout="@layout/uv_fragment_clientconfig_failed"/>
+    <include layout="@layout/uv_fragment_clientconfig_loading"/>
+</RelativeLayout>

@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="file_manager" description="Application Name shown on title" maxwidth="">Диспетчер файлів</string>
+    <string name="ok" description="Dialog Button: ok for dialog" maxwidth="">ОК</string>
+    <string name="no" description="Dialog Button: no for dialog" maxwidth="">Ні</string>
+    <string name="cancel" description="Dialog Button: cancel for dialog" maxwidth="">Скасувати</string>
+    <string name="select_all" description="Menu Option: select all checkbox" maxwidth="">Вибрати все</string>
+    <string name="clear_all" description="Menu Option: clear all checkbox" maxwidth="">Очистити все</string>
+    <string name="open_fail" description="Toast: open file fails" maxwidth="-1">Файл не відкрито.</string>
+    <string name="permission_deny" description="Toast: operation permission deny" maxwidth="-1">Відмова доступу.</string>
+    <string name="target_exist" description="Toast: target file exists" maxwidth="-1">Існує цільовий файл.</string>
+    <string name="target_folder_exist" description="Toast: target folder exists. %s is variable string." maxwidth="-1">"Папка \"%s\" вже існує."</string>
+    <string name="rename" description="Context Menu: options of context menu" maxwidth="">Перейменувати</string>
+    <string name="rename_dialog" description="Dialog Title: rename dialog title" maxwidth="">Перейменувати</string>
+    <string name="rename_fail" description="Toast: rename fails" maxwidth="-1">Файл не переіменовано.</string>
+    <string name="delete" description="Context Menu: options of context menu" maxwidth="">Видалити</string>
+    <string name="delete_dialog" description="Dialog Title: delete dialog title" maxwidth="">Видалення файлу</string>
+    <string name="delete_one_files" description="Dialog Content: text in dialog" maxwidth="">Бажаєте видалити файл?</string>
+    <string name="delete_more_files" description="Dialog Content: text in dialog. %d is variable number." maxwidth="">"Бажаєте видалити %d об'єктів?"</string>
+    <string name="delete_size" description="Dialog Content: text in dialog" maxwidth="">"Розмір: "</string>
+    <string name="delete_progress" description="Progress Content: text in progress dialog" maxwidth="">Видалення...</string>
+    <string name="delete_fail" description="Toast: delete fails" maxwidth="-1">Файл не видалено.</string>
+    <string name="delete_success_one" description="Toast: delete success. %s is variable string." maxwidth="-1">"\"%s\" видалено."</string>
+    <string name="delete_success_more" description="Toast: delete success" maxwidth="-1">Вибрані файли були видалені.</string>
+    <string name="new_folder_dialog" description="Dialog Title: create new folder" maxwidth="">Створити нову папку</string>
+    <string name="new_folder_fail" description="Toast: new folder fails" maxwidth="-1">Не створено нову папку.</string>
+    <string name="new_folder_success" description="Toast: new folder success. %s is variable string." maxwidth="-1">"Створено папку \"%s\"."</string>
+    <string name="copy" description="Context Menu: options of context menu" maxwidth="">Копія</string>
+    <string name="copy_ready_one" description="Toast: copy ready. %s is variable string." maxwidth="-1">"Копія \"%s\" готова для вставлення."</string>
+    <string name="copy_ready_more" description="Toast: copy ready" maxwidth="-1">Вибрані файли скопійовані і готові для вставлення.</string>
+    <string name="cut" description="Context Menu: options of context menu" maxwidth="">Вирізати</string>
+    <string name="cut_ready_one" description="Toast: cut ready. %s is variable string." maxwidth="-1">"\"%s\" вирізано і готове для вставлення."</string>
+    <string name="cut_ready_more" description="Toast: cut ready" maxwidth="-1">Вибрані файли вирізані та готові для вставлення.</string>
+    <string name="paste" description="Context Menu: options of context menu" maxwidth="">Вставити</string>
+    <string name="paste_exist_dialog" description="Dialog Title: paste exist dialog title" maxwidth="">Така само назва файла</string>
+    <string name="paste_exist_file" description="Dialog Content: text in dialog. %s is variable string." maxwidth="">"Файл \"%s\" вже існує."</string>
+    <string name="paste_exist_replace" description="Dialog Content: text in dialog" maxwidth="">Бажаєте замінити новим?</string>
+    <string name="paste_exist_to" description="Dialog Content: text in dialog" maxwidth="">У</string>
+    <string name="paste_exist_apply" description="Dialog Content: text in dialog" maxwidth="">Застосувати до всіх</string>
+    <string name="paste_progress" description="Progress Content: text in progress dialog" maxwidth="">Вставлення...</string>
+    <string name="paste_fail" description="Toast: paste fails" maxwidth="-1">Файли не вставлено.</string>
+    <string name="paste_success" description="Toast: paste success. %s is variable string." maxwidth="-1">"Файли додано до \"%s\"."</string>
+    <!-- Guoliang_Lin, 2011/04/01, UI required, new feature -->
+    <string name="no_space_fail" description="Toast: No space to copy file and left on device" maxwidth="-1">"Бракує пам'яті"</string>
+    <!-- Guoliang Lin, 2011/04/27, UI required, new feature -->
+    <string name="action_add_folder" description="cutstom action bar view title for add folder" maxwidth="-1">Додати папку</string>
+    <string name="action_hind_system_file" description="cutstom action bar view title for hinde system file" maxwidth="-1">Приховати файли системи</string>
+    <string name="deselect_all" description="cutstom action bar view title for deselect all checkbox" maxwidth="">Зняти вибір з усіх</string>
+    <!-- Guoliang Lin, 2011/05/11, UI required, new feature -->
+    <string name="file_info_dialog_title" description="Dialog Title: File information dialog title" maxwidth="-1">Інформація файла</string>
+    <string name="dir_info_dialog_title" description="Dialog Title: Directory information dialog title" maxwidth="-1">Інформація директорії</string>
+    <string name="info" description="Context Menu: options of context menu" maxwidth="-1">Інформація</string>
+    <string name="info_name" description="file info textview context" maxwidth="-1">"Ім'я: "</string>
+    <string name="info_file_num" description="file info textview context" maxwidth="-1">Кількість файлів: "</string>
+    <string name="info_permission" description="file info textview context" maxwidth="-1">Дозвіл: "</string>
+    <string name="info_modified" description="file info textview context" maxwidth="-1">Дату змінено: "</string>
+    <!-- Guoliang Lin, 2011/05/27, UI required, new feature -->
+    <string name="action_about" description="cutstom action bar view title for about" maxwidth="-1">Про</string>
+    <!-- Johnson Chen, 2011/08/05, UI required, new feature -->
+    <string name="select_folder" description="Title: select the folder" maxwidth="-1">Виберіть папку</string>
+    <string name="invalid_directory_path" description="Invalid directory path" maxwidth="-1">Недійсна доріжка директорії</string>
+    <string name="short_cuts_title" description="shortcit title" maxwidth="-1">Сполучення клавіш</string>
+    <string name="type" description="button text for sort file by type" maxwidth="-1">Тип</string>
+    <string name="name" description="button text for sort file by name" maxwidth="-1">Назва</string>
+    <string name="size" description="button text for sort file by size" maxwidth="-1">Розмір</string>
+    <string name="date" description="button text for sort file by date" maxwidth="-1">Дата</string>
+    <string name="name_ascending" description="button text for sort file by name ascending" maxwidth="-1">Назва (від z до a)</string>
+    <string name="name_descending" description="button text for sort file by name descending" maxwidth="-1">Назва (від а до z)</string>
+    <string name="size_ascending" description="button text for sort file by size ascending" maxwidth="-1">Розмір (від великого до малого)</string>
+    <string name="size_descending" description="button text for sort file by size descending" maxwidth="-1">Розмір (від малого до великого)</string>
+    <string name="date_ascending" description="button text for sort file by date ascending" maxwidth="-1">Дата (найдавніша - найновіша)</string>
+    <string name="date_descending" description="button text for sort file by date descending" maxwidth="-1">Дата (найновіша - найдавніша)</string>
+    <string name="my_storage_title" description="storage label" maxwidth="-1">"Моя пам'ять"</string>
+    <string name="internal_storage_title" description="storage label" maxwidth="-1">"Внутрішня пам'ять"</string>
+    <string name="my_picture_title" description="shortcut label" maxwidth="-1">Зображення</string>
+    <string name="my_camera_title" description="shortcut label" maxwidth="-1">Камера</string>
+    <string name="my_music_title" description="shortcut label" maxwidth="-1">Музика</string>
+    <string name="my_download_title" description="shortcut label" maxwidth="-1">Завантаження</string>
+    <string name="dialog_create_zip_title" description="compress dialog title" maxwidth="-1">Введіть назву архіву</string>
+    <string name="zip_progress_msg" description="compress dialog message" maxwidth="-1">У процесі...</string>
+    <string name="zip_fail" description="toast message: Compress files fail" maxwidth="-1">Файли не стиснено</string>
+    <string name="zip_success" description="toast message: Compress files successly" maxwidth="-1">Файли успішно стиснено</string>
+    <string name="search_label" description="cutstom action bar view title for search" maxwidth="-1">Пошук файлів</string>
+    <string name="search_progress" description="search dialog message" maxwidth="-1">Пошук...</string>
+    <string name="location" description="button text for sort file by date" maxwidth="-1">Розташування</string>
+    <plurals name="number_search_items">
+        <item quantity="one">"Знайдено %d файл"</item>
+        <item quantity="other">"Знайдено файлів: %d"</item>
+    </plurals>
+    <string name="search_result_title" description=" text for search result" formatted="false" maxwidth="-1">"Пошук %s у %s: "</string>
+    <string name="dialog_extract_zip_title" description="extract zip file dialog title. %s is a dynamic string. It is zip file name." maxwidth="-1">Вилучити %s в:</string>
+    <string name="unzip_progress_msg" description="extract file dialog message" maxwidth="-1">Вилучення...</string>
+    <string name="unzip_fail" description="toast message: extract files fail" maxwidth="-1">Не вилучено файли</string>
+    <string name="unzip_success" description="toast message: extract files successly" maxwidth="-1">Успішно вилучено файли</string>
+    <string name="action_clear_history" description="cutstom action bar view title for clear search history" maxwidth="">Очистити історію пошуку</string>
+    <plurals name="drag_items">
+        <item quantity="one">"Перетягти об'єкт"</item>
+        <item quantity="other">"Перетягти об'єкти"</item>
+    </plurals>
+    <string name="drag_items_one">"Перетягти об'єкт"</string>
+    <string name="drag_items_other">"Перетягти об'єкти"</string>
+    <string name="toast_drag_copied_items" description="Toast: The item(s) has been copied completely" maxwidth="-1">"Об'єкти цілком скопійовані"</string>
+    <string name="toast_warning_copy_folders" description="Toast: Sorry, copy folders has not been supported" maxwidth="-1">"На жаль, копіювання папок не підтримується"</string>
+    <string name="toast_warning_copy_comple_cut_fail" description="Toast: Sorry, copy files complete but cut fail" maxwidth="-1">"На жаль, видалити старі файли після копіювання не вдалося"</string>
+    <string name="toast_drag_moved_items" description="Toast: The item(s) has been moved completely" maxwidth="-1">"Об'єкти цілком переміщені"</string>
+    <string name="move" description="Hint: move the items" maxwidth="-1">Перемістити</string>
+    <string name="drop_target_to" description="Hint: the target folder which you want to do something" maxwidth="-1">Ціль:</string>
+    <string name="drop_incorrect_hint" description="Hint: the operation is incorrect" maxwidth="-1">Неправильна операція</string>
+    <!-- Willie Huang, 2012/01/20, UI required, new feature -->
+    <string name="dialog_unzip_preview_title" description="show zip info dialog title. %s is a dynamic string. Is is a zip file name" maxwidth="-1">Вилучити %s</string>
+    <string name="extract" description="Dialog Button: extract file for dialog" maxwidth="-1">Вилучити</string>
+    <plurals name="dialog_unzip_preview_size_text">
+        <item quantity="one">Всього: файл %1$d, %2$s</item>
+        <item quantity="other">Всього: файлів %1$d, %2$s</item>
+    </plurals>
+    <string name="encode" description="Dialog Button: click to open the encoding list dialog" maxwidth="-1">Кодування тексту</string>
+    <string name="dialog_text_encoding_title" description="text encoding dialog title" maxwidth="-1">Кодування тексту</string>
+    <string-array name="charset_array">
+        <item>"Латина-1 (ISO-8859-1)"</item>
+        <item>"Юнікод (UTF-8)"</item>
+        <item>"Китайська (GBK)"</item>
+        <item>"Китайська (Big5)"</item>
+        <item>"Японська (ISO-2022-JP)"</item>
+        <item>"Японська (SHIFT_JIS)"</item>
+        <item>"Японська (EUC-JP)"</item>
+        <item>"Корейська (EUC-KR)"</item>
+    </string-array>
+    <!-- Willie Huang, 2012/03/28, UI required, new feature -->
+    <string name="info_aperture" description="file info textview context" maxwidth="-1">Апертура: "</string>
+    <string name="info_datetime" description="file info textview context" maxwidth="-1">Дата знімку: "</string>
+    <string name="info_exposure_time" description="file info textview context" maxwidth="-1">Час витримки: "</string>
+    <string name="info_flash" description="file info textview context" maxwidth="-1">Спалах: "</string>
+    <string name="info_focal_length" description="file info textview context" maxwidth="-1">Відстань фокусу: "</string>
+    <string name="info_image_height" description="file info textview context" maxwidth="-1">Висота: "</string>
+    <string name="info_image_x" description="file info textview context" maxwidth="-1">" x "</string>
+    <string name="info_image_width" description="file info textview context" maxwidth="-1">Ширина"</string>
+    <string name="info_iso" description="file info textview context" maxwidth="-1">ISO: "</string>
+    <string name="info_location" description="file info textview context" maxwidth="-1">Розташування: "</string>
+    <string name="info_maker" description="file info textview context" maxwidth="-1">Автор: "</string>
+    <string name="info_model" description="file info textview context" maxwidth="-1">Модель: "</string>
+    <string name="info_orientation" description="file info textview context" maxwidth="-1">Орієнтація: "</string>
+    <string name="info_white_balance" description="file info textview context" maxwidth="-1">Баланс білого: "</string>
+    <string name="flash_on" description="string indicating camera flash is fired" maxwidth="-1">Спалах застосовано</string>
+    <string name="flash_off" description="string indicating camera flash is not used" maxwidth="-1">Без спалаху</string>
+    <string name="unit_mm" description="string indicating the length units in milli-meters" maxwidth="-1">мм</string>
+    <string name="manual" description="string indicating how camera shooting feature is used" maxwidth="-1">Вручну</string>
+    <string name="auto" description="string indicating how camera shooting feature is used" maxwidth="-1">Авто</string>
+    <!-- Guoliang_Lin, 2012/03/20, UI required, new feature -->
+    <string name="wait">Будь ласка, почекайте\u2026</string>
+    <!-- Johnson Chen, 2012/04/13, UI required, new feature -->
+    <string name="select_album">Виберіть альбом</string>
+    <string name="select_photo">Виберіть фото</string>
+    <string name="back_button_label" description="button text." maxwidth="-1">Назад</string>
+    <!-- Willie Huang, 2012/05/18, UI required, new feature -->
+    <string name="action_apply_selected_file" description="View title of custom action bar, apply to multiple selected files" maxwidth="-1">Застосувати</string>
+    <!-- Willie Huang, 2013/01/03, UI required, new feature -->
+    <string name="loading" description="text for progress bar" maxwidth="-1">Завантаження\u2026</string>
+    <string name="version" description="version" maxwidth="-1">Версія</string>
+    <string name="title" description="title" maxwidth="-1">Правова інформація:</string>
+    <string name="content" description="content" maxwidth="-1">Користування цим ПЗ підлягає умовам, поданим на веб-сайті ASUS: \nhttp://www.asus.com</string>
+    <string name="action_share" description="cutstom action bar view title for sharing" maxwidth="-1">Ділитися</string>
+    <!-- Johnson Chen, 2012/05/18, UI required, new feature-->
+    <string name="photo_selection_limit_number_toast" description="Toast: You may not select more than %s photos." maxwidth="-1">Виберіть максимум %s фото</string>
+    <!-- Alex6 Lin, -->
+    <string name="action_sort_by" description="String for asking for the rule of sorting" maxwidth="-1">Сортувати за</string>
+    <plurals name="number_selected_items">
+        <item quantity="one">вибрано пункт %d</item>
+        <item quantity="other">вибрано пунктів %d</item>
+    </plurals>
+    <string name="info_type" description="file info textview context" maxwidth="-1">Тип:</string>
+    <string name="type_document" description="document type" maxwidth="-1">"Документ"</string>
+    <string name="type_audio" description="document type" maxwidth="-1">"Аудіо"</string>
+    <string name="type_video" description="document type" maxwidth="-1">"Відео"</string>
+    <string name="type_playlist" description="document type" maxwidth="-1">"Список відтворення"</string>
+    <string name="type_image" description="document type" maxwidth="-1">"Зображення"</string>
+    <string name="type_book" description="document type" maxwidth="-1">"Електронна книга"</string>
+    <string name="type_zip" description="document type" maxwidth="-1">"Файл ZIP"</string>
+    <string name="type_apk" description="document type" maxwidth="-1">"Програма для Android"</string>
+    <string name="type_abu" description="document type" maxwidth="-1">"Asus App Backup"</string>
+    <string name="type_file" description="document type" maxwidth="-1">"Файл"</string>
+    <string name="type_directory" description="document type" maxwidth="-1">"Каталог"</string>
+    <string name="search_action">"Пошук"</string>
+    <string name="fileList_Nofiles">Нема файлів</string>
+    <!-- Johnson Chen, 2012/05/18, UI required, new feature-->
+    <string name="wifidirect_available_devices" description="Available devices" maxwidth="-1">"Доступні пристрої"</string>
+    <string name="wifidirect_connect_hint_title" description="Dialog title text: Invitation to connect" maxwidth="-1">"Запрошення підключитися"</string>
+    <string name="wifidirect_connect_hint" description="Do you want to connect to device" maxwidth="-1">"Ви бажаєте підключитичя до"</string>
+    <string name="wifidirect_connecting_hint_title" description="Dialog title text: Wi-Fi Direct connecting" maxwidth="-1">"Підключення через Wi-Fi Direct..."</string>
+    <string name="wifidirect_disconnect_hint" description=">Do you want to disconnect" maxwidth="-1">"Ви бажаєте відключитися від"</string>
+    <string name="shared_folder" description="Context Menu: options of context menu: share folder via Wi-Fi Direct" maxwidth="">"Доступ через Wi-Fi Direct"</string>
+    <string name="unshared_folder" description="Context Menu: options of context menu: unshare folder" maxwidth="-1">"Скасувати доступ"</string>
+    <string name="remote_storage_title" description="remote storage label" maxwidth="-1">"Віддалене сховище"</string>
+    <string name="remote_connected_error_hint" description="network is unavailable, please try again" maxwidth="-1">"Мережа недоступна, спробуйте знову"</string>
+    <string name="wifidirect_peer_device_title" description="peer devices title" maxwidth="-1">"Однорангові пристрої"</string>
+    <string name="wifidirect_scanning" description="searching" maxwidth="-1">"Пошук..."</string>
+    <string name="wifidirect_touch_to_connect" description="click to connect" maxwidth="-1">"Клацніть, щоб підключитися"</string>
+    <string name="wifidirect_connectted" description="connectted" maxwidth="-1">"Підключено"</string>
+    <string name="wifidirect_action_bar_scan" description="search" maxwidth="-1">"Пошук"</string>
+    <string name="wifidirect_storage_title" description="Search Wi-Fi Direct device" maxwidth="-1">"Пошук пристрою Wi-Fi Direct"</string>
+    <string name="wifidirect_peer_device_info" description="peer devices infomation" maxwidth="-1">"Щоб ви могли отримати запрошення на підключення через Wi-Fi Direct, пристрій, якій підключається, повинен залишатися на сторінці \"Однорангові пристрої\" у диспетчері файлів."</string>
+    <string name="wifidirect_disconnect_hint_title" description="Disconnect Wi-Fi Direct" maxwidth="-1">"Скасувати підключення через Wi-Fi Direct"</string>
+    <string name="wifi_p2p_turn_on_wifi_title" description="title for turn on WiFi dialog" width="-1">"Активувати Wi-Fi"</string>
+    <string name="wifi_p2p_turn_on_wifi_msg" description="message for request to turn on Wi-Fi" width="-1">"Активуйте Wi-Fi, щоб користуватися службами Wi-Fi Direct. Активувати Wi-Fi?"</string>
+    <!-- Johnson Chen, 2013/03/22, UI required, new feature-->
+    <string name="cloud_storage_title" description="Add more cloud storage" maxwidth="-1">"Додати більше хмарної пам'яті"</string>
+    <string name="add_cloud_storage_dialog_title" description="Dialog title: Add cloud storage" maxwidth="-1">"Додати хмарну пам'ять"</string>
+    <string name="cloud_storage_remove_hint" description=">Do you want to remove" maxwidth="-1">"Вийти з облікового запису \"%s\"?"</string>
+    <string name="cloud_storage_remove_hint_title" description="Dialog title: Remove cloud storage" maxwidth="-1">Вихід з системи</string>
+    <string name="add_progress" description="Progress Content: text in progress dialog" maxwidth="">Створення...</string>
+    <string name="logging_cloud_storage" description="Progress Content: text in progress dialog" maxwidth="">Вхід до системи...</string>
+    <string name="wifi_p2p_connection_msg" description="message for request to connect Network" width="-1">Будь ласка, встановіть мережне підключення для користування хмарною послугою.</string>
+    <string name="wifi_p2p_connection_title" description="title for request to connect Network" width="-1">Встановити мережне підключення</string>
+    <string name="logout_account" description="logout account" width="-1">Вихід з системи</string>
+    <string name="renaming_file" description="renaming file" width="-1">Перейменування</string>
+    <string name="rename_success" description="Toast: rename success" maxwidth="-1">Файл успішно переіменовано.</string>
+    <string name="login_fail" description="Toast: login account fail" width="-1">Не вдалося увійти в систему.</string>
+    <string name="starred" description="shortcut title: my favorite files" width="-1">"Із зірочкою"</string>
+    <string name="recently_used" description="shortcut title: recently used files" width="-1">Останні</string>
+    <string name="trash_can" description="shortcut title: trash can" width="-1">"Кошик"</string>
+    <!-- Settings Page -->
+    <string name="menu_general_preferences" description="The title of a menu for General Preferences.Pressing the menu item lets user to view and edit his general settings" maxwidth="30">"Загальні параметри"</string>
+    <string name="preferences_title" description="This is the title of the screen for setting user preferences." maxwidth="-1">"Налаштування"</string>
+    <string name="settings_space_used" description="This is the title of space used for setting user preferences." maxwidth="-1">"Використано місця"</string>
+    <string name="settings_clear_search_history" description="This is the title of clearing search history action for setting user preferences." maxwidth="-1">"Очистити історію пошуку"</string>
+    <string name="settings_hide_system_files" description="This is the title of hiding system files action for setting user preferences." maxwidth="-1">"Приховати системні файли"</string>
+    <string name="settings_trash_can" description="This is the title of trash can information for setting user preferences." maxwidth="-1">"Кошик"</string>
+    <string name="settings_moved_to_the_trash_can" description="This is the title of moving to the trash can." maxwidth="-1">"Переміщено до кошика"</string>
+    <string name="settings_user_name" description="This is the title of user name" maxwidth="-1">"Ім’я користувача"</string>
+    <string name="settings_documents_cache" description="This is the title of documents cache" maxwidth="-1">"Кеш документів"</string>
+    <string name="settings_cache_size_title" description="This is the title of cache size" maxwidth="-1">"Розмір кешу"</string>
+    <string name="settings_set_cache_size" description="Set the cache size to %s" maxwidth="-1">"Встановлено розмір кешу \"%s\""</string>
+    <string name="settings_clear_cache_title" description="Clear the cache" maxwidth="-1">"Очистити кеш"</string>
+    <string name="settings_clear_cache_info" description="Remove all cache documents" maxwidth="-1">"Видалити всі документи з кешу"</string>
+    <string name="settings_remove_account" description="Remove account" maxwidth="-1">"Видалити обліковий запис"</string>
+    <string name="drawer_open">"Відкрити навігаційну панель"</string>
+    <string name="drawer_close">"Закрити навігаційну панель"</string>
+    <!-- begin add new server -->
+    <string name="samba_storage_title">"SAMBA"</string>
+    <string name="samba_storage_add_title">"Мережеве розміщення"</string>
+    <string name="server_title">Сервер</string>
+    <string name="domain">"Домен:"</string>
+    <string name="domain_hint">"Може бути пустим"</string>
+    <string name="server">"Сервер:"</string>
+    <string name="server_hint">"172.0.0.1/ShareFolder"</string>
+    <string name="example">"Приклад:"</string>
+    <string name="user">"Ім'я користувача"</string>
+    <string name="user_hint">адміністратор</string>
+    <string name="password">Пароль</string>
+    <string name="display">"Відображення як"</string>
+    <string name="display_hint">"Мій комп’ютер, може бути пустим"</string>
+    <string name="samba_input_error">"Ім'я користувача або пароль не можуть бути порожніми!"</string>
+    <string name="samba_client_config_check" description="account config dialog remind message" maxwidth="-1">"Запам'ятайте імя користувача і пароль, наступного разу підключіть напряму "</string>
+    <string name="pullfreshlistview_header_hint_normal">Стягти</string>
+    <string name="pullfreshlistview_header_hint_ready">Відпустіть, щоб поновити</string>
+    <string name="pullfreshlistview_header_hint_loading">Поновлення...</string>
+    <string name="pullfreshlistview_header_last_time">Час останнього поновлення:</string>
+    <string name="pullfreshlistview_footer_hint_normal">Завантажити більше</string>
+    <string name="pullfreshlistview_footer_hint_ready">Відпустіть, щоб завантажити більше</string>
+    <string name="cloud_preview_action_fail" description="Toast: cloud preview action" maxwidth="-1">Не переглянуто файли хмари.</string>
+    <string name="cloud_share_action_fail" description="Toast: cloud share action" maxwidth="-1">Не вдалося поділитися файлами хмари.</string>
+    <string name="cloud_paste_backgroud" description="diaglog cloud background paste">Тло</string>
+    <string name="cloud_paste_uploading" description="diaglog cloud  paste uploading">Вивантаження файлів</string>
+    <string name="cloud_paste_downloading" description="diaglog cloud  paste">Завантаження файлів</string>
+    <string name="cloud_paste_total" description="diaglog cloud  total">Всього</string>
+    <string name="cloud_paste_current" description="diaglog cloud  current">Поточне</string>
+    <string name="cloud_paste_copying" description="diaglog cloud  now is copy files">Копіювання...</string>
+    <string name="cloud_paste_deleting" description="diaglog cloud  now is delete source files">Видалення файлів джерела...</string>
+    <string name="cloud_token_invalidate" description="diaglog cloud  token is invalidate">Маркер не підтверджено, будь ласка, увійдіть до системи знову!</string>
+    <string name="cloud_homebox_status_offline" description="home cloud device is offline">Пристрій оф-лайн</string>
+    <string name="cloud_homebox_status__info_offline" description="home cloud device is offline">Оф-лайн</string>
+    <string name="cloud_homebox_status__info_online" description="home cloud device is online">Он-лайн</string>
+    <string name="cloud_homebox_status__info_Sleep" description="home cloud device is sleep">Сон</string>
+    <string name="cloud_homebox_no_available_devices" description="home cloud has no available devices">Нема доступних пристроїв HomeCloud</string>
+    <string name="cloud_homebox_get_devices_fail" description="home cloud get available devices fail">Не скановано доступні пристрої HomeCloud</string>
+<!--  <string name="cloud_paste_string_format"  description="diaglog cloud  paste string format" maxwidth="-1">%d / %d</string>-->
+    <string name="storage_type_cloud">"Хмарна пам'ять"</string>
+    <string name="storage_type_local">"Локальна пам'ять"</string>
+    <string name="storagetype_add_account">Додати обліковий записДодати обліковий запис</string>
+    <string name="network_cta_hint">"Прийміть, щоб підключитися до мережі "</string>
+ <string name="action_refresh_cloudfile">"Оновити"</string>
+ <string name="baidu_storage_title">"百度云"</string>
+ <string name="dialog_load_stream_url_info">Отримання необхідної інформації з сервера</string>
+ <string name="paste_progress_title">Виконується інше копіювання...</string>
+ <string name="single_drm_file_forbidden_operation">Ця дія заборонена через захист DRM.</string>
+ <string name="multi_drm_file_forbidden_operation">Ця дія заборонена через захист DRM деяких вибраних файлів.</string>
+ <string name="samba_login_error">"Неправильно введено ім'я користувача або пароль."</string>
+     <string name="action_search" description="cutstom action bar view title for search" maxwidth="">Пошук</string>
+ <string name="cloud_upload_flie_limit_space" description="Toast: The size is over the limit and cannot be uploaded" maxwidth="-1">Розмір перевищує ліміт, неможливо вивантажити</string>
+ <string name="cloud_download_flie_limit_space" description="Toast: The size is over the limit and cannot be uploaded" maxwidth="-1">Розмір перевищує ліміт, неможливо вивантажити</string>
+ <string name="invalid_account" description="Toast: the account is invalid" maxwidth="-1">"Недійсний обліковий запис"</string>
+ <string name="homecloud_access_error" description="Can’t connect to HomeCloud." maxwidth="-1">Не підключено до HomeCloud. Будь ласка, переконайтеся, що послуга HomeCloud знаходиться он-лайн.</string>
+ <string name="cloud_flie_name_not_supported" description="Toast: The name of the file uploaded is not supported by cloud server" maxwidth="-1">"Не вдалося завершити операцію, тому що хмарний сервер не підтримує ім’я файлу."</string>
+ <string name="action_cancel" description="action cancel" maxwidth="-1">Скасувати</string>
+ <string name="action_add" description="action add files" maxwidth="-1">Додати</string>
+ <string name="no_share_folder">На цьому пристрої немає спільних файлів</string>
+ <string name="edit_toast_special_char">Неможливо включити спеціальний знак</string>
+ <string name="delete_one_directory" description="Dialog Content: text in dialog" maxwidth="">Бажаєте видалити директорію?</string>
+ <string name="type_dialog_title">Відкрити як</string>
+ <string name="type_dialog_text">Текст</string>
+ <string name="type_dialog_image">Зображення</string>
+ <string name="type_dialog_audio">Аудіо</string>
+ <string name="type_dialog_video">Відео</string>
+ <string name="target_directory_is_child_of_source">"Не вдалося завершити операцію, тому що цільовий каталог – дочірній об’єкт вихідного каталогу."</string>
+ <string name="edit_toast_name_too_long">Досягнуто максимальної кількості знаків</string>
+ <string name="settings_description">"Локальні папки та файли"</string>
+ <string name="clear_account_info">Забути всі облікові записи</string>
+ <string name="type_rar" description="document type" maxwidth="-1">"Файл RAR"</string>
+ <string name="set_ring">"Встановити як дзвінок"</string>
+    <string name="action_zip" description="cutstom action bar view title for zip" maxwidth="">Стиснути</string>
+    <string name="signout_account" description="signout account" width="-1">Відключити</string>
+    <string name="cloud_storage_sign_out" description=">Do you want to signout" maxwidth="-1">Ви впевнені, що бажаєте вийти?</string>
+    <string name="cloud_storage_sign_out_title" description="Dialog title: Signout cloud storage" maxwidth="-1">Відключити</string>
+    <string name="cloud_storage_sign_in" description=">Do you want to signin" maxwidth="-1">Підключіть за допомогою наступного облікового запису:</string>
+    <string name="cloud_storage_sign_in_title" description="Dialog title: Signin cloud storage" maxwidth="-1">Підключіть %s</string>
+    <!-- start add for CTA check  -->
+    <string name="cta_dialog_title">"Використання мережі"</string>
+    <string name="cta_dialog_content"><b>Диспетчер файлів</b> намагається використовувати мережу. Також може стягуватися оплата залежно від ваших передплат.</string>
+    <string name="cta_check_title">"Запам’ятати"</string>
+    <string name="cta_agree">"Дозволити"</string>
+    <string name="cta_disagree">"Відмовити"</string>
+    <string name="cta_show_menu">"Дозвіл на доступ до мережі"</string>
+    <!-- end add for CTA check  -->
+    <string name="move_to">Перемістити</string>
+    <string name="copy_to">Копіювати в</string>
+    <string name="category_title_category">Категорії</string>
+    <string name="category_title_local_storage">"Локальна пам'ять"</string>
+    <string name="category_image">Зображення</string>
+    <string name="category_music">Музика</string>
+    <string name="category_video">Відео</string>
+    <string name="category_apk">Програми</string>
+    <string name="category_download">Завантаження</string>
+    <string name="category_favorite">Улюблене</string>
+    <string name="category_count">"%s"</string>
+    <string name="open">Відкрити</string>
+    <string name="add_favorite">Додати до улюбленого</string>
+    <string name="remove_favorite">Забрати з улюбленого</string>
+    <string name="add_favorite_success">Зберегти в Улюбленому</string>
+    <string name="rename_favorite_folder">Перейменувати папку улюбленого</string>
+    <string name="rename_favorite_success">Успішно перейменовано і збережено в Улюблене</string>
+    <string name="rename_favorite_notice">У папці улюбленого вже є папка з такою назвою. Бажаєте перейменувати?</string>
+    <string name="remove_favorite_notice_one">"Точно видалити \"%s\" з папки улюбленого?"</string>
+    <string name="remove_favorite_notice_more">Точно видалити %d елементів з папки улюбленого?</string>
+    <string name="remove_favorite_success">Успішно видалено</string>
+    <string name="tutorial_skip">Пропустити</string>
+    <string name="tutorial_done">Виконано</string>
+    <string name="tutorial_page_one_title">"Диспетчера файлів ASUS"</string>
+    <string name="tutorial_page_one_content">"Диспетчера файлів ASUS надає можливість легко керувати файлами, збереженими у внутрішній, зовнішній, хмарній пам'яті та пам'яті локальної мережі."</string>
+    <string name="tutorial_page_two_title">Головна сторінка</string>
+    <string name="tutorial_page_two_content">"Зручні у використанні категорії, які надають доступ до файлів у місцевій пам'яті. "</string>
+    <string name="tutorial_page_three_title">Список дій проведення вправо</string>
+    <string name="tutorial_page_three_content">Проведіть елементом вправо, щоб показати дії, такі як Додати до Улюбленого, Перейменувати, Перемістити в, Копіювати в або виконати інші дії для керування файлами.</string>
+    <string name="tutorial_page_four_title">Улюблене</string>
+    <string name="tutorial_page_four_content">Встановіть часто використовувану папку як Улюблену, щоб швидко і легко входити до папок.</string>
+    <string name="saf_permission_tutorial_title">Запит про доступ, щоб працювати з картою SD</string>
+    <string name="saf_permission_tutorial_content">ASUS File Manager просить доступу, щоб працювати з вашою картою SD. Бажаєте надати доступ?</string>
+    <string name="saf_tutorial_step_one">Натисніть піктограму Меню, а потім - Показати карту SD.</string>
+    <string name="saf_tutorial_step_two">Проведіть лівим краєм екрана, щоб показати шухляду, а потім натисніть карту SD.</string>
+    <string name="saf_tutorial_step_three">Натисніть Вибрати карту SD, щоб надати доступ до Диспетчера файлів ASUS.</string>
+    <string name="device_root_path">корінь</string>
+    <string name="tap_to_exit">Натисніть знову, щоб вийти</string>
+    <string name="info_path" description="file info textview context" maxwidth="-1">"Доріжка: "</string>
+    <string name="recruit_beta_user" description="recruit beta user" maxwidth="-1">Отримати версію попереднього перегляду</string>
+    <string name="rate_us" description="rate us" maxwidth="-1">Оцініть</string>
+    <string name="scroll_up_toast" description="rate now" maxwidth="">Прокрутіть, щоб оцінити</string>
+    <string name="settings_encourage_us_detail" description="recommend text" maxwidth="">Якщо вам сподобалося користуватися програмою %s, оцініть її на 5 балів у Play Store. Так ви заохотите нас вдосконалювати наші продукти!</string>
+    <string name="yes">Так</string>
+    <string name="menu_tutorial" description="settings menu tutorial" maxwidth="-1">Посібник</string>
+    <string name="about">"Про програму"</string>
+    <string name="version_text">версія</string>
+    <string name="tell_friend" description="" maxwidth="">Розповісти другу</string>
+    <string name="toolbar_item_title_encourage_us" maxwidth="35">Заохотьте нас</string>
+    <string name="zenui_update">"Миттєві оновлення ZenUI"</string>
+    <string name="whats_new_label">Що нового</string>
+    <string name="next">Далі</string>
+    <string name="invite_friends" description="sticker detail page button name" maxwidth="-1">"Запросити друзів"</string>
+    <string name="news_mark1" maxwidth="">"★  "</string>
+</resources>

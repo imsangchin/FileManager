@@ -1,0 +1,6 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:state_enabled="false" android:color="@color/lockscreen_keyboard_text_disabled_color"></item>
+    <item android:color="@color/lockscreen_keyboard_text_enabled_color"></item>
+
+</selector>

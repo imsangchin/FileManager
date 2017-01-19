@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="httpserver_title" maxwidth="">"Безжично прехвърляне на файлове към компютъра"</string>
+    <string name="httpserver_start" maxwidth="">"Старт"</string>
+    <string name="httpserver_stop" maxwidth="">"Стоп"</string>
+    <string name="httpserver_need_saf" maxwidth="">"Ако искате да управлявате външната си памет от компютър, трябва да да дадете разрешение."</string>
+    <string name="httpserver_description" maxwidth="">"Стартирайте услугата, за да свържете мобилното си устройство към компютъра."</string>
+    <string name="httpserver_instruction" maxwidth="">"Въведете този адрес в браузъра на Вашия компютър:"</string>
+    <string name="httpserver_no_network" maxwidth="">"Свържете устройството си към същата Wi-Fi мрежа"</string>
+    <string name="httpserver_no_permission_title" maxwidth="">"Стартирайте безжично прехвърляне на файлове"</string>
+    <string name="httpserver_no_permission_message" maxwidth="">"Няма да можете да записвате във външната памет без правилно разрешение. Продължи?"</string>
+    <string name="httpserver_acquire_permission_message" maxwidth="">"HTTP файлов сървър ще бъде затворен и операциите могат да се прекъснати. Продължи?"</string>
+    <string name="category_title_tools">"Инструменти"</string>
+    <string name="tools_file_transfer">"Прехвърляне на файлове на компютър"</string>
+    <string name="tools_clean_master">"Изчистване на файлове в кошчето за боклук"</string>
+    <string name="retention_notification_large_file">"Добавили сте %1$s големи файла. Вижте ги сега."</string>
+    <string name="retention_notification_recent_file">"Вашите скорошни файлове консумират %1$s пространство. Вижте ги сега."</string>
+    <string name="recommend_clean_master_msg">"Най-надеждното приложение за Android оптимизиране, подобряване на скоростта, икономия на енергия и безплатна антивирусна защита. \nИзтегляне сега?"</string>
+    <string name="recommend_clean_master_title">"Препоръка за приложението"</string>
+    <string name="tools_tip_animation">"Издърпайте за инструменти!"</string>
+</resources>

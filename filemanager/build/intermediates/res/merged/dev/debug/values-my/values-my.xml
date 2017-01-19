@@ -1,0 +1,1268 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="alarm_set">
+        <item>ယခုအချိန်မှ ၁ မိနစ်အောက်အတွက် နှိုးစက် သတ်မှတ်ချက်။</item>
+        <item>ယခုအချိန်မှ <ns1:g example="2 days" id="DAYS">%1$s </ns1:g> ရက် အတွက် နှိုးစက် သတ်မှတ်ချက်။ </item>
+        <item>ယခုအချိန်မှ <ns1:g example="2 hours" id="HOURS">%2$s </ns1:g>နာရီ အတွက် နှိုးစက် သတ်မှတ်ချက်။</item>
+        <item>ယခုအချိန်မှ <ns1:g example="2 days" id="DAYS">%1$s </ns1:g>ရက် နှင့် <ns1:g example="2 hours" id="HOURS"> %2$s </ns1:g> နာရီ အတွက် နှိုးစက် သတ်မှတ်ချက်။</item>
+        <item>ယခုအချိန်မှ <ns1:g example="2 minutes" id="MINUTES">%3$s </ns1:g> မိနစ် အတွက် နှိုးစက် သတ်မှတ်ချက်။ </item>
+        <item>ယခုအချိန်မှ <ns1:g example="2 days" id="DAYS">%1$s</ns1:g> ရက် နှင့် <ns1:g example="2 minutes" id="MINUTES">%3$s</ns1:g> မိနစ်အတွက် နှိုးစက် သတ်မှတ်ချက်။ </item>
+        <item>ယခုအချိန်မှ <ns1:g example="2 hours" id="HOURS">%2$s</ns1:g> နာရီ နှင့်  <ns1:g example="2 minutes" id="MINUTES">%3$s </ns1:g> မိနစ် အတွက် နှိုးစက် သတ်မှတ်ချက်။ </item>
+        <item>ယခုအချိန်မှ <ns1:g example="2 days" id="DAYS">%1$s</ns1:g> ရက်၊<ns1:g example="2 hours" id="HOURS">%2$s</ns1:g> နာရီ နှင့် <ns1:g example="2 minutes" id="MINUTES">%3$s </ns1:g> မိနစ်အတွက် နှိုးစက် သတ်မှတ်ချက်။</item>
+    </string-array>
+    <string-array name="charset_array">
+        <item>"လက်တင်-၁ (ISO-8859-1)"</item>
+        <item>"ယူနီကုဒ် (UTF-8)"</item>
+        <item>"တရုတ် (GBK)"</item>
+        <item>" တရုတ် (Big5)"</item>
+        <item>"ဂျပန် (ISO-2022-JP)"</item>
+        <item>"ဂျပန် (SHIFT_JIS)"</item>
+        <item>"ဂျပန် (EUC-JP)"</item>
+        <item>"ကိုရီးယား (EUC-KR)"</item>
+    </string-array>
+    <string-array name="country_names">
+        <item>Aruba</item>
+        <item>Afghanistan(جمهوری اسلامی افغانستان)</item>
+        <item>Angola(República de Angola)</item>
+        <item>Anguilla</item>
+        <item>Albania(Shqipëri)</item>
+        <item>Andorra(Principat d\'Andorra)</item>
+        <item>Antilles Belanda</item>
+        <item>Emiriyyah Arab Bersatu (دولة الإمارات العربية المتحدة‎)</item>
+        <item>Argentina(República Argentina)</item>
+        <item>Armenia(Hayastan)</item>
+        <item>Samoa Amerika</item>
+        <item>Antartika</item>
+        <item>Wilayah Selatan Peranchis</item>
+        <item>Antigua dan Barbuda</item>
+        <item>Australia(Australia)</item>
+        <item>Austria(Österreich)</item>
+        <item>Azerbaijan</item>
+        <item>Burundi</item>
+        <item>Belgium(België)</item>
+        <item>Benin</item>
+        <item>Burkina Faso</item>
+        <item>Bangladesh(বাংলাদেশ)</item>
+        <item>Bulgaria(България / Balgariya)</item>
+        <item>Bahrain(مملكة البحرين)</item>
+        <item>Bahamas</item>
+        <item>Bosnia/Herzegowina(Bosna i Hercegovina)</item>
+        <item>Belarus(Беларусь)</item>
+        <item>Belize</item>
+        <item>Bermuda</item>
+        <item>Bolivia</item>
+        <item>Brazil</item>
+        <item>Barbados</item>
+        <item>Brunei Darussalam(بروني دارالسلام)</item>
+        <item>Bhutan</item>
+        <item>Pulau Bouvet</item>
+        <item>Botswana(Lefatshe la Botswana)</item>
+        <item>Republik Afrika Tengah (République centrafricaine)</item>
+        <item>Kanada</item>
+        <item>Kepulauan Cocos (Keeling)</item>
+        <item>Switzerland(Suisse)</item>
+        <item>Chile</item>
+        <item>China(中國)</item>
+        <item>Cote D\'Ivoire</item>
+        <item>Cameroon</item>
+        <item>Congo</item>
+        <item>Kepulauan Cook</item>
+        <item>Colombia</item>
+        <item>Comoros</item>
+        <item>Cape Verde</item>
+        <item>Costa Rica</item>
+        <item>Cuba</item>
+        <item>Pulau Krismas</item>
+        <item>Kepulauan Cayman</item>
+        <item>Cyprus(Euro)</item>
+        <item>Republik Czech (Česká republika)</item>
+        <item>Jerman (Deutschland)</item>
+        <item>Djibouti</item>
+        <item>Dominica</item>
+        <item>Denmark(Danmark)</item>
+        <item>Republik Dominica</item>
+        <item>Algeria</item>
+        <item>Ecuador</item>
+        <item>Mesir (مصر‎)</item>
+        <item>Eritrea</item>
+        <item>Sahara Barat</item>
+        <item>Sepanyol (España)</item>
+        <item>Estonia(Eesti)</item>
+        <item>Ethiopia</item>
+        <item>Finland(Suomi)</item>
+        <item>Fiji</item>
+        <item>Kepulauan Falkland</item>
+        <item>Peranchis (France)</item>
+        <item>Belgium(Belgique)</item>
+        <item>Kepulauan Faroe</item>
+        <item>Micronesia</item>
+        <item>Gabon</item>
+        <item>United Kingdom(United Kingdom)</item>
+        <item>Georgia(საქართველო)</item>
+        <item>Ghana</item>
+        <item>Gibraltar</item>
+        <item>Guinea</item>
+        <item>Guadeloupe</item>
+        <item>Gambia</item>
+        <item>Guinea-Bissau</item>
+        <item>Equatorial Guinea</item>
+        <item>Greece(Ελλάδα)</item>
+        <item>Grenada</item>
+        <item>Greenland</item>
+        <item>Guatemala</item>
+        <item>French Guiana</item>
+        <item>Guam</item>
+        <item>Guyana</item>
+        <item>Hong Kong(香港)</item>
+        <item>Kepulauan Heard dan Mc Donald</item>
+        <item>Honduras</item>
+        <item>Croatia(Hrvatska)</item>
+        <item>Haiti</item>
+        <item>Hungary(Magyarország)</item>
+        <item>Indonesia(Republik Indonesia)</item>
+        <item>India(भारत गणराज्य )</item>
+        <item>Wilayah Lautan Hindi British</item>
+        <item>Ireland(Ireland)</item>
+        <item>Iran(ایران)</item>
+        <item>Iraq(العراق)</item>
+        <item>Iceland(Ísland)</item>
+        <item>Israel(מְדִינַת יִשְׂרָאֵל  /  دَوْلَةُ إِسْرَائِيلَ)</item>
+        <item>Itali (Italia)</item>
+        <item>Jamaica</item>
+        <item>Jordan(L\'Ürdünn)</item>
+        <item>Jepun(日本国)</item>
+        <item>Kazakhstan</item>
+        <item>Kenya(Jamhuri ya Kenya)</item>
+        <item>Kyrgyzstan</item>
+        <item>Kemboja(कम्बोजदेश)</item>
+        <item>Kiribati</item>
+        <item>Saint Kitts dan Nevis</item>
+        <item>Republik Korea (대한민국)</item>
+        <item>Kuwait(دولة الكويت)</item>
+        <item>Republik Demokratik Rakyat Laos</item>
+        <item>Lubnan(اَلْجُمْهُورِيَّة اَللُّبْنَانِيَّة)</item>
+        <item>Liberia</item>
+        <item>Libyan Arab Jamahiriya</item>
+        <item>Saint Lucia</item>
+        <item>Liechtenstein(Liechtenstein)</item>
+        <item>Sri Lanka(இலங்கை ஜனநாயக சமத்துவ)</item>
+        <item>Lesotho</item>
+        <item>Lithuania(Lietuva)</item>
+        <item>Luxembourg(Lëtzebuerg)</item>
+        <item>Latvia(Latvija)</item>
+        <item>Macau</item>
+        <item>Morocco</item>
+        <item>Monaco(Monaco)</item>
+        <item>Moldova(Moldova)</item>
+        <item>Madagascar</item>
+        <item>Maldives</item>
+        <item>Mexico</item>
+        <item>Kepulauan Marshall</item>
+        <item>Macedonia</item>
+        <item>Mali</item>
+        <item>Malta(Malta)</item>
+        <item>Myanmar(Pyidaunzu Thanmăda Myăma Nainngandaw)</item>
+        <item>Mongolia</item>
+        <item>Kepulauan Mariana Utara</item>
+        <item>Mozambique</item>
+        <item>Mauritania</item>
+        <item>Montserrat</item>
+        <item>Martinique(Martinique)</item>
+        <item>Mauritius(Republik Moris)</item>
+        <item>Malawi</item>
+        <item>Malaysia(Persekutuan Malaysia)</item>
+        <item>Mayotte</item>
+        <item>Namibia</item>
+        <item>New Caledonia(Nouvelle-Calédonie)</item>
+        <item>Niger</item>
+        <item>Pulau Norfolk(Norfuk Ailen)</item>
+        <item>Nigeria(Republik Nijeriya)</item>
+        <item>Nicaragua</item>
+        <item>Niue</item>
+        <item>Belanda(Nederland)</item>
+        <item>Norway(Norge)</item>
+        <item>Nepal(सङ्घीय लोकतान्त्रिक गणतन्त्र नेपाल)</item>
+        <item>Nauru</item>
+        <item>New Zealand(New Zealand)</item>
+        <item>Oman(لطنة عمان)</item>
+        <item>Pakistan(پاکِستان)</item>
+        <item>Panama</item>
+        <item>Pitcairn</item>
+        <item>Peru</item>
+        <item>Filipina(Pilipinas)</item>
+        <item>Palau</item>
+        <item>Papua New Guinea</item>
+        <item>Poland(Polska)</item>
+        <item>Puerto Rico</item>
+        <item>Republik Rakyat Demokratik Korea</item>
+        <item>Portugal(Portugal)</item>
+        <item>Paraguay</item>
+        <item>French Polynesia</item>
+        <item>Qatar</item>
+        <item>Reunion</item>
+        <item>Romania(România)</item>
+        <item>Rusia(Россия)</item>
+        <item>Rwanda</item>
+        <item>Arab Saudi(المملكة العربية السعودية)</item>
+        <item>Serbia dan Montenegro</item>
+        <item>Sudan(جمهورية السودان)</item>
+        <item>Senegal</item>
+        <item>Singapura(Singapore)</item>
+        <item>Kepulauan Georgia Selatan dan Sandwich Selatan</item>
+        <item>St. Helena</item>
+        <item>Kepulauan Svalbard dan Jan Mayen</item>
+        <item>Kepulauan Solomon(Solomon Islands)</item>
+        <item>Sierra Leone</item>
+        <item>El Salvador</item>
+        <item>San Marino(San Marino)</item>
+        <item>Somalia</item>
+        <item>St. Pierre dan Miquelon(St. Pierre and Miquelon)</item>
+        <item>Sao Tome dan Principe</item>
+        <item>Surinam</item>
+        <item>Slovakia(Slovensko)</item>
+        <item>Slovenia(Slovenija)</item>
+        <item>Sweden(Sverige)</item>
+        <item>Swaziland(Swatini)</item>
+        <item>Seychelles</item>
+        <item>Republik Arab Syria(جمهورية العربية السورية)</item>
+        <item>Kepulauan Turks dna Caicos</item>
+        <item>Chad</item>
+        <item>Togo</item>
+        <item>Thailand(ราชอาณาจักรไทย)</item>
+        <item>Tajikistan</item>
+        <item>Tokelau</item>
+        <item>Turkmenistan</item>
+        <item>Timor Timur</item>
+        <item>Tonga</item>
+        <item>Trinidad dan Tobago</item>
+        <item>Tunisia</item>
+        <item>Turki(Türkiye)</item>
+        <item>Tuvalu</item>
+        <item>TAIWAN, R.O.C.(台灣)</item>
+        <item>Tanzania</item>
+        <item>Uganda(Jamhuri ya Uganda)</item>
+        <item>Ukraine(Україна)</item>
+        <item>Kepulauan Minor Outlying Amerika Syarikat </item>
+        <item>Uruguay</item>
+        <item>Amerika Syarikat</item>
+        <item>Uzbekistan</item>
+        <item>Holy See (Stato della Città del Vaticano)</item>
+        <item>Saint Vincent dan Grenadines</item>
+        <item>Venezuela</item>
+        <item>Kepulauan Virgin (British)</item>
+        <item>Kepulauan Virgin (A.S.)</item>
+        <item>Vietnam(Việt Nam)</item>
+        <item>Vanuatu</item>
+        <item>Kepulauan Wallis dan Futuna </item>
+        <item>Samoa</item>
+        <item>Yaman</item>
+        <item>Afrika Selatan(Republiek van Suid-Afrika)</item>
+        <item>Zaire</item>
+        <item>Zambia</item>
+        <item>Zimbabwe(Simudzai Mureza wedu WeZimbabwe)</item>
+    </string-array>
+    <plurals name="dialog_unzip_preview_size_text">
+        <item quantity="one">"စုစုပေါင်း- ဖိုင် %1$d ဖိုင်၊ %2$s"</item>
+        <item quantity="other">"စုစုပေါင်း- ဖိုင် %1$d ဖိုင်၊ %2$s"</item>
+    </plurals>
+    <plurals name="drag_items">
+        <item quantity="one">"အရာဝတ္ထုကို ဆွဲယူပါ"</item>
+        <item quantity="other">"အရာဝတ္ထုများကို ဆွဲယူပါ"</item>
+    </plurals>
+    <plurals name="number_search_items">
+        <item quantity="one">"ဖိုင် %d ဖိုင် တွေ့ပါသည်"</item>
+        <item quantity="other">"ဖိုင် %d ဖိုင် တွေ့ပါသည်"</item>
+    </plurals>
+    <plurals name="number_selected_items">
+        <item quantity="one">"%d ခု ရွေးပြီး"</item>
+        <item quantity="other">"%d ခု ရွေးပြီး"</item>
+    </plurals>
+    <plurals name="uf_sdk_number_of_subscribers_format">
+        <item quantity="one">%1$s သည် ဤအကြောင်းအရာကို နှစ်သက်သည်</item>
+        <item quantity="other">%1$s သည် ဤအကြောင်းအရာကို နှစ်သက်သည်</item>
+    </plurals>
+    <plurals name="uf_sdk_topics">
+        <item quantity="one">အကြောင်းအရာ</item>
+        <item quantity="other">အကြောင်းအရာများ</item>
+    </plurals>
+    <plurals name="uv_comments">
+        <item quantity="one">မှတ်ချက်</item>
+        <item quantity="other">မှတ်ချက်များ</item>
+    </plurals>
+    <plurals name="uv_number_of_subscribers_format">
+        <item quantity="one">%1$s က ဤစိတ်ကူးကို လိုချင်သည်</item>
+        <item quantity="other">%1$s က ဤစိတ်ကူးကို လိုချင်သည်</item>
+    </plurals>
+    <plurals name="uv_people">
+        <item quantity="one">လူ</item>
+        <item quantity="other">လူများ</item>
+    </plurals>
+    <plurals name="uv_subscribers">
+        <item quantity="one">စာရင်းသွင်းသူ</item>
+        <item quantity="other">စာရင်းသွင်းသူများ</item>
+    </plurals>
+    <string name="AsusWebstroage">AsusWebstorage</string>
+    <string name="AuCloud">AuCloud</string>
+    <string name="BaiDuPCS">BaiDuPCS</string>
+    <string name="Default">ပုံသေ</string>
+    <string name="Dropbox">Dropbox</string>
+    <string name="Google_Drive">Google Drive</string>
+    <string name="HomeCloud">HomeCloud</string>
+    <string name="OneDrive">OneDrive</string>
+    <string name="Yandex">Yandex</string>
+    <string name="about">"အကြောင်း"</string>
+    <string name="account_asus">ASUS</string>
+    <string name="action">"ဆိုင်းအင်ဝင်ပါ"</string>
+    <string description="cutstom action bar view title for about" maxwidth="-1" name="action_about">"အကြောင်း"</string>
+    <string description="action add files" maxwidth="-1" name="action_add">"ထပ်ထည့်ပါ"</string>
+    <string description="cutstom action bar view title for add folder" maxwidth="-1" name="action_add_folder">"ဖိုဒါ ထပ်ထည့်ပါ"</string>
+    <string description="View title of custom action bar, apply to multiple selected files" maxwidth="-1" name="action_apply_selected_file">"အသုံးချပါ"</string>
+    <string description="action cancel" maxwidth="-1" name="action_cancel">"ပယ်ဖျက်ပါ"</string>
+    <string maxwidth="-1" name="action_clean">"ရှင်းပါ"</string>
+    <string maxwidth="-1" name="action_clean_all">"အားလုံးကို ရှင်းပါ"</string>
+    <string description="cutstom action bar view title for clear search history" maxwidth="" name="action_clear_history">"ရှာဖွေမှုမှတ်တမ်းကို ရှင်းလင်းပါ"</string>
+    <string description="cutstom action bar view title for edit" maxwidth="" name="action_edit">"တည်းဖြတ်ပါ"</string>
+    <string maxwidth="" name="action_hidden_zone">"ဖျောက်ထားသောပုံးထဲသို့ ရွှေ့ပါ"</string>
+    <string description="cutstom action bar view title for hinde system file" maxwidth="-1" name="action_hind_system_file">"စနစ်ဖိုင်များကို ဝှက်ပါ"</string>
+    <string name="action_loading">"တင်နေသည်..."</string>
+    <string description="cutstom action bar view title for open with" maxwidth="" name="action_open_with">"ဖွင့်ပါ..."</string>
+    <string name="action_refresh_cloudfile">"ဖရက်ရှ် ပြန်လုပ်ပါ"</string>
+    <string maxwidth="-1" name="action_restore">"ပြန်ထားပါ"</string>
+    <string maxwidth="-1" name="action_restore_all">"အားလုံးကို မူလအတိုင်းပြန်ထားပါ"</string>
+    <string description="cutstom action bar view title for search" maxwidth="" name="action_search">"ရှာဖွေပါ"</string>
+    <string description="cutstom action bar view title for set as" maxwidth="" name="action_set_as">"ရုပ်ပုံကို အဖြစ်ပါ"</string>
+    <string description="menu title for setting" maxwidth="-1" name="action_settings">"ဆက်တင်များ"</string>
+    <string description="cutstom action bar view title for sharing" maxwidth="-1" name="action_share">"မျှဝေရန်"</string>
+    <string description="String for asking for the rule of sorting" maxwidth="-1" name="action_sort_by">"ဖြင့် စီပါ"</string>
+    <string description="cutstom action bar view title for zip" maxwidth="" name="action_zip">"ချုံ့ပါ"</string>
+    <string description="Dialog title: Add cloud storage" maxwidth="-1" name="add_cloud_storage_dialog_title">"ကလောက်ဒ်သိမ်းဆည်းနေရာ ထပ်ထည့်ပါ"</string>
+    <string name="add_favorite">"အနှစ်သက်ဆုံးသို့ ထည့်ပါ"</string>
+    <string name="add_favorite_folder">"နှစ်သက်သော ဖိုဒါထည့်ပါ"</string>
+    <string name="add_favorite_success">"အနှစ်သက်ဆုံးသို့ သိမ်းပါ"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="add_progress">"ဖန်တီးနေသည်…"</string>
+    <string description="Don&apos;t remind me again" maxwidth="-1" name="alert_cb_msg">ထပ္မံ သတိမေပးပါႏွင့္</string>
+    <string description="ASUS ZenUI Services is not support, need update ASUS ZenUI Services" maxwidth="-1" name="alert_msg_azs_update">%1$s ၏ ဗားရှင်းအသစ် ရနိုင်သည်၊ ကျေးဇူးပြု၍ ၎င်းကို ယခု အင်စတောလုပ်ပါ။</string>
+    <string description="Client app is not support, need update client app" maxwidth="-1" name="alert_msg_client_update">%1$s ၏ ဗားရှင်းအသစ် ရနိုင်သည်၊ ကျေးဇူးပြု၍ ၎င်းကို ယခု အင်စတောလုပ်ပါ။</string>
+    <string description="ASUS ZenUI Services is not found on device" maxwidth="-1" name="alert_msg_not_found">ASUS ZenUI ဝန္ေဆာင္မႈမ်ားကို အင္စေတာမလုပ္ရေသးပါ။\n\n ေဒါင္းလုဒ္သို႔သြား၍ အင္စေတာလုပ္မလား။</string>
+    <string description="Dialog title" maxwidth="-1" name="alert_title">မွတ္စု Note</string>
+    <string description="Dialog title" maxwidth="-1" name="alert_title_update">မွမ်းမံမှုကို အကြံပြုထားသည်</string>
+    <string name="app_cloudstorage_name">CloudStorage</string>
+    <string name="app_upload_complete">"%s အပ်လုဒ်လုပ်ခြင်း ပြီးစီး"</string>
+    <string description="" name="article_one">ကျွန်ုပ်သည် ASUS သို့ \"<u>အသုံးပြုမှု သတိပေးခြင်း စည်းကမ်းသတ်မှတ်ချက်များ</u>\"၊  ASUS \"<u>ပုဂ္ဂိုလ်ရေးရာ ကိုယ်ပိုင်မူဝါဒ</u>\"၊ ASUS WebStorage \"<u>အသုံးပြုမှု သတိပေးခြင်း စည်းကမ်းသတ်မှတ်ချက်များ</u>\"၊ ASUS WebStorage \"<u>ပုဂ္ဂိုလ်ရေးရာ ကိုယ်ပိုင်မူဝါဒ</u>\"ကို သဘောတူပါသည်။</string>
+    <string description="" name="article_two">eDMs ဖြင့် ကျွန်ုပ်အား ၏ နောက်ဆုံးသတင်းများ၊ ဆော့ဖ်ဝဲ အပ်ဒိတ်နှင့် ထုတ်ကုန်နှင့် ဝန်ဆောင်မှု သတင်းအချက်အလက်များကို အချိန်မီ အသိပေးပါ။</string>
+    <string description="Text for create asus account button." maxwidth="" name="asus_account_create_button">မှတ်ပုံတင်ပါ</string>
+    <string name="asus_account_integrate_dialog_content">ASUS ကလောက်ဒ် သိမ်းဆည်းနေရာ ဝန်ဆောင်မှုကို သင့် ASUS အကောင့်နှင့် ပေါင်းစည်းလိုပါသလား။ \n\n ဤပေါင်းစည်းခြင်းပြီးသောအခါ ASUS ဝန်ဆောင်မှုများအားလုံးကို အကောင့်တစ်ခုထဲမှ အသုံးပြုနိုင်သည်။</string>
+    <string name="asus_account_integrate_dialog_skip">ကျော်</string>
+    <string name="asus_account_integrate_dialog_title">ASUS ဝန်ဆောင်မှုများကို ပေါင်းစည်းပါ</string>
+    <string name="asus_account_integrate_dialog_yes">လုပ်မည်</string>
+    <string description="Text for asus account content 1st." maxwidth="" name="asus_account_msg_content_1">မှတ်ပုံတင်ထားသော ထုတ်ကုန်များအတွက် ကိုယ်ရေးကိုယ်တာ ASUS ထောက်ပံ့ခြင်း ဝန်ဆောင်မှုနှင့် အာမခံ သက်တမ်းတိုးခြင်း။</string>
+    <string description="Text for asus account content 2nd." maxwidth="" name="asus_account_msg_content_2">အခမဲ့ ကလောက်ဒ်သိမ်းဆည်းနေရာလွတ် ၅ GB </string>
+    <string description="Text for asus account content 3rd." maxwidth="" name="asus_account_msg_content_3">တွဲဖက်သုံးပစ္စည်းများနှင့် ပြင်ဆင်မွမ်းမံထားသော ထုတ်ကုန်များအတွက် နောက်ဆုံးသတင်းအချက်အလက်။</string>
+    <string description="Text for asus account content title." maxwidth="" name="asus_account_msg_title">ရယူရန် ASUS အကောင့်တစ်ခုကို ဖန်တီးပါ-</string>
+    <string name="asus_account_only_one_alert">"ASUS အကောင့် တစ်ခုတည်းကိုသာ ထည့်ရန် ခွင့်ပြုသည်။ အသစ်တစ်ခုနှင့် အစားမထိုးမီ သင့်လက်ရှိအကောင့်ကို ဖျက်ရမည်။"</string>
+    <string name="asus_account_prefc">"ဆက်တင်များ"</string>
+    <string name="asus_account_prefc_advc">"အဆင်မြင့်ဆက်တင်များ"</string>
+    <string name="asus_account_registe_country_error">ကျေးဇူးပြု၍ နိုင်ငံဒေသတစ်ခု ရွေးပါ။</string>
+    <string name="asus_account_registe_id_error">အီးမေးလ်ပုံစံ အမှား</string>
+    <string name="asus_account_registe_policy_error">ASUS အကောင့်တစ်ခုကို မှတ်ပုံတင်ရန် သင်သည် ASUS မူဝါဒကို သဘောတူရမည်။</string>
+    <string name="asus_account_registe_pw_error_1">စကားဝှက်ကို အလွတ်မထားနိုင်ပါ။</string>
+    <string name="asus_account_registe_pw_error_2">အတည်ပြု စကားဝှက်ကို အလွတ်မထားနိုင်ပါ။</string>
+    <string name="asus_account_registe_pw_error_3">စကားဝှက်နှင့် အတည်ပြုခြင်းသည် ထပ်တူဖြစ်ရမည်။</string>
+    <string name="asus_account_registe_pw_error_4">"စကားဝှက်သည် အက္ခရာ ၈ လုံးမှ ၂၅ လုံးထိ ရှိသင့်သည်။"</string>
+    <string name="asus_account_removeaccount_dialog_content">"အကောင့် ပေါင်းစည်းခြင်း အောင်မြင်သည်။ အကောင့်အသစ်သုံးပြီး လော့ဂ်အင် ထပ်ဝင်ပါ။"</string>
+    <string name="asus_account_removeaccount_dialog_title">"ASUS အကောင့် ပေါင်းစည်းခြင်း အောင်မြင်သည်"</string>
+    <string name="asus_commonui_activity_chooser_view_see_all">အားလုံးကို ကြည့်ပါ</string>
+    <string name="asus_commonui_activity_resolver_use_always">အမြဲတမ်း</string>
+    <string name="asus_commonui_activity_resolver_use_once">တစ်ခါတည်း</string>
+    <string name="asus_commonui_activitychooserview_choose_application">app တစ်ခု ရွေးပါ</string>
+    <string name="asus_commonui_activitychooserview_choose_application_error">အမှား</string>
+    <string name="asus_commonui_cancel_label">"ထားတော့"</string>
+    <string name="asus_commonui_chooseActivity">လုပ်ဆောင်မှုတစ်ခု ရွေးပါ</string>
+    <string name="asus_commonui_day_picker_description">ရက်စွဲအကွက်ဖြင့်လ</string>
+    <string name="asus_commonui_deleted_key"><ns1:g example="4" id="key">%1$s</ns1:g> ခု ဖျက်ပြီးပြီ</string>
+    <string name="asus_commonui_done_label">"ကောင်းပြီ"</string>
+    <string name="asus_commonui_hour_picker_description">နာရီစက်ဝိုင်းဆလိုက်ဒါ</string>
+    <string name="asus_commonui_item_is_selected"><ns1:g example="2013" id="item">%1$s</ns1:g> ရွေးထားသည်</string>
+    <string name="asus_commonui_minute_picker_description">မိနစ်စက်ဝိုင်းဆလိုက်ဒါ</string>
+    <string name="asus_commonui_noApplications">ဤလုပ်ဆောင်မှုကို လုပ်နိုင်သည့် app မရှိပါ။</string>
+    <string name="asus_commonui_no_url_handler">URL ဖွင့်ရန် app မတွေ့ပါ</string>
+    <string name="asus_commonui_privacy_policy">ကိုယ်ပိုင်ပေါ်လစီ</string>
+    <string name="asus_commonui_select_day">လ နှင့် ရက် ရွေးပါ</string>
+    <string name="asus_commonui_select_hours">နာရီ ရွေးပါ</string>
+    <string name="asus_commonui_select_minutes">မိနစ် ရွေးပါ</string>
+    <string name="asus_commonui_select_year">နှစ် ရွေးပါ</string>
+    <string name="asus_commonui_shareactionprovider_share_with">ဖြင့် မျှဝေပါ</string>
+    <string name="asus_commonui_shareactionprovider_share_with_application">ဖြင့် မျှဝေပါ</string>
+    <string name="asus_commonui_terms_of_use_notice">သုံးစွဲမှုစည်းကမ်းများ သတိပေးချက်</string>
+    <string name="asus_commonui_whichApplication">သုံး၍ လုပ်ဆောင်မှု ပြီးစီးသည်</string>
+    <string name="asus_commonui_whichHomeApplication">ဟုမ်း app တစ်ခု ရွေးပါ</string>
+    <string name="asus_commonui_year_picker_description">နှစ်စာရင်း</string>
+    <string name="asus_feedback_and_help">"တုံ့ပြန်မှု နှင့် အကူအညီ"</string>
+    <string name="asus_registe_success_title">"ASUS အကောင့် မှတ်ပုံတင်ခြင်း အောင်မြင်သည်"</string>
+    <string name="asus_response_resultdata">"ဤအကောင့်ကို မှတ်ပုံတင်ထားပြီး ဖြစ်သည်။"</string>
+    <string name="asusaccount_app_name">ASUS အကောင့်</string>
+    <string maxwidth="-1" name="attribution_notice">"အရည်အသွေး သတိပေးခြင်း"</string>
+    <string maxwidth="-1" name="attribution_notice_content">
+    "
+    \nဤထုတ်ကုန်ပစ္စည်းတွင် အောက်တွင် ဖော်ပြထားသော အခမဲ့သုံးရင်းမြစ်များ ပါဝင်သည်-
+\n\nApache လိုင်စင်ဗားရှင်း ၂.ဝ အောက်တွင် လိုင်စင်ရယူထားသော uservoice-android-sdk။ လိုင်စင်ကို http://www.apache.org/licenses/LICENSE-2.0.html တွင် ဒေါင်းလုဒ်လုပ်နိုင်သည်။
+        \n\nMIT အောက်တွင် လိုင်စင်ရယူထားသော angular-filemanager။ လိုင်စင်ကို https://github.com/joni2back/angular-filemanager/blob/master/LICENSE တွင်ဒေါင်းလုဒ်လုပ်နိုင်သည်။
+        \n\nMIT အောက်တွင် လိုင်စင်ရယူထားသော progressbar။ လိုင်စင်ကို https://github.com/kimmobrunfeldt/progressbar.js/blob/master/LICENSE တွင် ဒေါင်းလုဒ်လုပ်နိုင်သည်။
+        \n\ntoastr၊ မူပိုင်ခွင့် (c) 2012-2015 John Papa, Tim Ferrell, Hans Fjällemark\nမည်သည့်ကန့်သတ်ချက်မျှ မရှိဘဲ ဆော့ဖ်ဝဲကို အသုံးပြုရန် ဤဆော့ဖ်ဝဲနှင့် ဆက်စပ်စာရွက်စာတမ်းဖိုင်များ၏ ("ဆော့ဖ်ဝဲ") မူပွားကို ရယူသည့် မည်သူမဆိုထံ မည်သည့်အဖိုးအခမျှမရှိဘဲ ဤနေရာတွင့် ခွင့်ပြုပေးလိုက်သည်။ ကန့်သတ်ချက်များဟုဆိုရာတွင် အသုံးပြုခြင်း၊ ကူးယူခြင်း၊ ပြင်ဆင်မွမ်းမံခြင်း၊ ပေါင်းစည်းခြင်း၊ ထုတ်ပြန်ခြင်း၊ ဖြန့်ဝေခြင်း၊ ပူးတွဲလိုင်စင်ထုတ်ပေးခြင်း နှင့်/သို့မဟုတ် ဆော့ဖ်ဝဲ၏ မူပွားများကို ရောင်းချခြင်းတို့ပါဝင်ပြီး ကန့်သတ်မထားပါ။ အောက်ပါအခြေအနေများအောက်တွင် ဆော့ဖ်ဝဲရယူထားသူထံ ခွင့်ပြုချက်များ ပေးအပ်လိုက်သည်-
+        အထက်ပါ မူပိုင်ခွင့် သတိပေးချက်နှင့် ဤခွင့်ပြုချက်သတိပေးချက်တွင် ဆော့ဖ်ဝဲမူပွားအားလုံး (သို့) ဆော့ဖ်ဝဲ၏အဓိက အစိတ်အပိုင်းများအားလုံး ပါဝင်သည်။ ဆော့ဖ်ဝဲကို "မူလရှိရင်းစွဲအတိုင်း" ပံ့ပိုးပေးထားခြင်းဖြစ်ပြီး ရောင်းဝယ်နိုင်မှု၊ အထူးရည်ရွယ်ချက်အတွက် ကြံ့ခိုင်မှုနှင့် ချိုးဖောက်မှုမရှိခြင်းဟူသော အချက်များအပါအဝင် ကန့်သတ်မထားသည့်အချက်များအတွက် မည်သည့်အာမခံအမျိုးအစားကိုမျှ ဖော်ပြထားခြင်း၊ သက်ရောက်ထားစေခြင်းမရှိပါ။ မည်သည့်အခြေအနေမျိုးတွင်ဖြစ်စေ ဆော့ဖ်ဝဲ သို့မဟုတ် ဆော့ဖ်ဝဲထဲတွင် ပါဝင်သောအခြားအရာများနှင့် ဆက်နွယ်၍ဖြစ်စေ၊ ၎င်းတို့ကြောင့်ဖြစ်စေ၊ တရားမ နစ်နာမှုကြောင့်ဖြစ်စေ၊ စာချုပ်အရဖြစ်စေ တောင်းဆိုမှုများ၊ ပျက်စီးမှုများ သို့မဟုတ် အခြားတာဝန်များနှင့်ပတ်သက်၍ဖြစ်စေ ရေးသားသူ သို့မဟုတ် မူပိုင်ခွင့်ကိုင်ဆောင်ထားသူများသည် တာဝန်မရှိရပါ။"
+    </string>
+    <string name="aucloud_account_only_one_alert">"au Cloud အကောင့် တစ်ခုတည်းကိုသာ ထည့်ရန် ခွင့်ပြုသည်။ အသစ်တစ်ခုနှင့် အစားမထိုးမီ သင့်လက်ရှိအကောင့်ကို ဖျက်ရမည်။"</string>
+    <string description="string indicating how camera shooting feature is used" maxwidth="-1" name="auto">"အလိုအလျောက်"</string>
+    <string name="aws_install_contnet">"ASUS WebStorage မထည့်သွင်းထားပါ။ ပလေးစတိုးမှ ဒေါင်းလုဒ်လုပ်ပြီး ထည့်သွင်းလိုပါသလား။"</string>
+    <string name="aws_install_title">"ASUS WebStorage မထည့်သွင်းထားပါ။"</string>
+    <string description="button text." maxwidth="-1" name="back_button_label">"နောက်သို့"</string>
+    <string name="baidu_alert_info">"Baidu ပလက်ဖောင်းတွင် အခြေခံပြီး ဤကိရိယာသည် "ကျွန်ုပ်၏အက်ပလီကေးရှင်းဒေတာ\\asus\\" အောက်ရှိ ဒေတာကိုသာ အသုံးပြုနိုင်သည်။"</string>
+    <string name="baidu_alert_title">"Baidu ကလောက်ဒ် သိမ်းဆည်းမှု"</string>
+    <string name="baidu_storage_title">"百度云"</string>
+    <string name="baidupcs_account_only_one_alert">"ASUS အကောင့်အတွက် Baidu တစ်ခုတည်းကိုသာ ထည့်ရန် ခွင့်ပြုသည်။ အသစ်တစ်ခုနှင့် အစားမထိုးမီ သင့်လက်ရှိအကောင့်ကို ဖျက်ရမည်။"</string>
+    <string name="btn_OK">OK</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="calculate_progress">"လုပ်ဆောင်နေဆဲ..."</string>
+    <string description="Toast: can not open in hidden zone" maxwidth="-1" name="can_not_open_in_hidden_zone">"ဖျောက်ထားသောပုံးထဲတွင် ဖွင့်၍ မရနိုင်ပါ"</string>
+    <string description="Dialog Button: cancel for dialog" maxwidth="" name="cancel">"ပယ်ဖျက်ပါ"</string>
+    <string name="cancle">ပယ်ဖျက်သည်</string>
+    <string name="category_apk">"အက်ပ်များ"</string>
+    <string maxwidth="11" name="category_app1">"အက်ပ်များ"</string>
+    <string name="category_compress">"ချုံ့ထားမှု"</string>
+    <string maxwidth="11" name="category_compressed1">"ချုံ့ထားမှု"</string>
+    <string name="category_count">"%s"</string>
+    <string maxwidth="11" name="category_document1">"စာရွက်စာတမ်းများ"</string>
+    <string name="category_documents">"စာရွက်စာတမ်းများ"</string>
+    <string name="category_download">"ဒေါင်းလုဒ်များ"</string>
+    <string maxwidth="11" name="category_download1">"ဒေါင်းလုဒ်များ"</string>
+    <string name="category_favorite">"အနှစ်သက်ဆုံးများ"</string>
+    <string maxwidth="11" name="category_favorite1">"အနှစ်သက်ဆုံးများ"</string>
+    <string name="category_game">"ဂိမ်းများ"</string>
+    <string name="category_image">"ရုပ်ပုံများ"</string>
+    <string maxwidth="11" name="category_image1">"ရုပ်ပုံများ"</string>
+    <string maxwidth="11" name="category_large_file1">"ဖိုင်ကြီးများ"</string>
+    <string name="category_music">"တေးဂီတ"</string>
+    <string maxwidth="11" name="category_music1">"တေးဂီတ"</string>
+    <string name="category_name_app_wallpaper">သက်ဝင် ဝေါလ်ပေပါ</string>
+    <string name="category_name_app_widgets">ဝစ်ဂျက်များ</string>
+    <string name="category_name_books_and_reference">စာအုပ်များ နှင့် အကိုးအကားများ</string>
+    <string name="category_name_business">စီးပွားရေး</string>
+    <string name="category_name_comics">ရယ်စရာများ</string>
+    <string name="category_name_communication">ဆက်သွယ်ရေး</string>
+    <string name="category_name_education">"ပညာရေး"</string>
+    <string name="category_name_entertainment">ဖျော်ဖြေရေး</string>
+    <string name="category_name_finance">ဘဏ္ဍာရေး</string>
+    <string name="category_name_game">ဂိမ်းများ</string>
+    <string name="category_name_game_action">ဆောင်ရွက်ချက်</string>
+    <string name="category_name_game_adventure">စွန့်စားမှုများ</string>
+    <string name="category_name_game_arcade">"ဂိမ်းကစားရုံ"</string>
+    <string name="category_name_game_board">ဘုတ်</string>
+    <string name="category_name_game_card">ကဒ်</string>
+    <string name="category_name_game_casino">ကာဆီနို</string>
+    <string name="category_name_game_casual">အမှတ်မထင်</string>
+    <string name="category_name_game_educational">ပညာရေးဆိုင်ရာ</string>
+    <string name="category_name_game_family">"မိသားစု"</string>
+    <string name="category_name_game_music">တေးဂီတ</string>
+    <string name="category_name_game_puzzle">ဉာဏ်စမ်း</string>
+    <string name="category_name_game_racing">အပြေးပြိုင်ခြင်း</string>
+    <string name="category_name_game_role_playing">"ကဏ္ဍအလိုက် သရုပ်ဆောင်ခြင်း"</string>
+    <string name="category_name_game_simulation">အသေးစား ပုံစံတူ ပြုလုပ်ခြင်း</string>
+    <string name="category_name_game_sports">အားကစား</string>
+    <string name="category_name_game_strategy">နည်းပရိယာယ်</string>
+    <string name="category_name_game_trivia">အရေးမပါသော</string>
+    <string name="category_name_game_word">စာလုံး</string>
+    <string name="category_name_health_and_fitness">ကျန်းမာရေး နှင့် ကြံ့ခိုင်ရေး</string>
+    <string name="category_name_libraries_and_demo">လိုင်ဘရီများ နှင့် ဒီမိုများ</string>
+    <string name="category_name_lifestyle">လူနေမှုဘဝ</string>
+    <string name="category_name_media_and_video">မီဒီယာ နှင့် ဗီဒီယို</string>
+    <string name="category_name_medical">ဆေးပညာ</string>
+    <string name="category_name_music_and_audio">တေးဂီတ နှင့် တေးသီချင်း</string>
+    <string name="category_name_news_and_magazines">သတင်း နှင့် မဂ္ဂဇင်းများ</string>
+    <string name="category_name_personalization">စိတ်ကြိုက်ပြုလုပ်ခြင်း</string>
+    <string name="category_name_photography">ဓာတ်ပုံပညာ</string>
+    <string name="category_name_productivity">ထုတ်ကုန်စွမ်းအား</string>
+    <string name="category_name_shopping">ဈေးဝယ်ထွက်ခြင်း</string>
+    <string name="category_name_social">လူမှုရေး</string>
+    <string name="category_name_sports">အားကစား</string>
+    <string name="category_name_tools">တူးလ်များ</string>
+    <string name="category_name_transportation">ပို့ဆောင်ဆက်သွယ်ရေး</string>
+    <string name="category_name_travel_and_local">ခရီးသွားလာခြင်း နှင့် ဒေသ</string>
+    <string name="category_name_weather">မိုးလေဝသ</string>
+    <string name="category_others">"အခြား"</string>
+    <string maxwidth="11" name="category_recent1">"လတ်တလော"</string>
+    <string name="category_recent_files">"လတ်တလော ထည့်ထားမှု"</string>
+    <string name="category_sorting_summary">"အမျိုးအစားပန်နယ်တွင် ပြထားသည့် အရာများကို ရွေးပါ"</string>
+    <string name="category_title_category">"အမျိုးအစား"</string>
+    <string name="category_title_local_storage">"စက်တွင်းပါ သိမ်းဆည်းနေရာ"</string>
+    <string name="category_title_tools">"တူးလ်များ"</string>
+    <string name="category_toast_invalid_item_size_6_or_9">"ကျေးဇူးပြု၍ ၆ ခု သို့မဟုတ် ၉ ခု ရွေးပါ"</string>
+    <string name="category_toast_invalid_item_size_9">"ကျေးဇူးပြု၍ ၉ ခု ရွေးပါ"</string>
+    <string name="category_toast_invalid_remove">"ဤအရာများကို မဖယ်ရှားနိုင်ပါ"</string>
+    <string name="category_toast_max_item_size">"အများဆုံး ၉ ခု ရွေးပါ"</string>
+    <string name="category_video">"ဗီဒီယို"</string>
+    <string maxwidth="11" name="category_video1">"ဗီဒီယိုများ"</string>
+    <string name="clear_account_info">"အကောင့်များအားလုံးကို မေ့ပါ"</string>
+    <string description="Menu Option: clear all checkbox" maxwidth="" name="clear_all">"အားလုံးကို ရှင်းလင်းပါ"</string>
+    <string name="click_plus_to_add_favorite_folder">"နှစ်သက်သော ဖိုဒါထည့်ရန် + ကို နှိပ်ပါ"</string>
+    <string description="Toast: The size is over the limit and cannot be uploaded" maxwidth="-1" name="cloud_download_flie_limit_space">"ဖိုင် ဒေါင်းလုဒ် လုပ်ရန် မအောင်မြင်ပါ။ ဖိုင်အရွယ်အစားသည် အမြင့်ဆုံးကန့်သတ်ချက်ထက် ကျော်နေသည်။"</string>
+    <string description="Toast: The name of the file uploaded is not supported by cloud server" maxwidth="-1" name="cloud_flie_name_not_supported">"ဖိုင်အမည်ကို ကလောက်ဒ်ဆာဗာမှ မထောက်ပံ့သောကြောင့် လုပ်ဆောင်ချက် မပြီးစီးနိုင်ပါ။"</string>
+    <string description="home cloud get available devices fail" name="cloud_homebox_get_devices_fail">"ရနိုင်သော HomeCloud ကိရိယာများအတွက် စကင်န်လုပ်ရန် မအောင်မြင်ပါ"</string>
+    <string description="home cloud has no available devices" name="cloud_homebox_no_available_devices">"ရနိုင်သော HomeCloud ကိရိယာများ မရှိ"</string>
+    <string description="home cloud device is sleep" name="cloud_homebox_status__info_Sleep">"အိပ်ပါ"</string>
+    <string description="home cloud device is offline" name="cloud_homebox_status__info_offline">"အော့ဖ်လိုင်း"</string>
+    <string description="home cloud device is online" name="cloud_homebox_status__info_online">"အွန်လိုင်း"</string>
+    <string description="home cloud device is offline" name="cloud_homebox_status_offline">"ကိရိယာသည် အော့ဖ်လိ်ုင်း ဖြစ်သည်"</string>
+    <string description="diaglog cloud background paste" name="cloud_paste_backgroud">"နောက်ခံ"</string>
+    <string description="diaglog cloud  now is copy files" name="cloud_paste_copying">"ကူးယူနေသည်…"</string>
+    <string description="diaglog cloud  current" name="cloud_paste_current">"လက်ရှိ"</string>
+    <string description="diaglog cloud  now is delete source files" name="cloud_paste_deleting">"ရင်းမြစ်ဖိုင်များကို ဖျက်နေသည်..."</string>
+    <string description="diaglog cloud  paste" name="cloud_paste_downloading">"ဖိုင်များကို ဒေါင်းလုဒ် လုပ်နေသည်"</string>
+    <string description="diaglog cloud  total" name="cloud_paste_total">"စုစုပေါင်း"</string>
+    <string description="diaglog cloud  paste uploading" name="cloud_paste_uploading">"ဖိုင်များကို အပ်လုဒ် လုပ်နေသည်"</string>
+    <string description="Toast: cloud preview action" maxwidth="-1" name="cloud_preview_action_fail">"ကလောက်ဒ်ဖိုင်များကို ကြိုတင်ကြည့်ခြင်း မအောင်မြင်ပါ။"</string>
+    <string description="Toast: cloud share action" maxwidth="-1" name="cloud_share_action_fail">"ကလောက်ဒ်ဖိုင်များကို ဝေမျှခြင်း မအောင်မြင်ပါ။"</string>
+    <string description=">Do you want to remove" maxwidth="-1" name="cloud_storage_remove_hint">"\"%s\" အကောင့်မှ လော့အောက်ထွက်လိုပါသလာ?"</string>
+    <string description="Dialog title: Remove cloud storage" maxwidth="-1" name="cloud_storage_remove_hint_title">"လော့အောက်"</string>
+    <string description=">Do you want to signin" maxwidth="-1" name="cloud_storage_sign_in">"အောက်ပါအကောင့်ကိုအသုံးပြုပြီးဆက်သွယ်ပါ - "</string>
+    <string description="Dialog title: Signin cloud storage" maxwidth="-1" name="cloud_storage_sign_in_title">"%s ကိုဆက်သွယ်ပါ"</string>
+    <string description=">Do you want to signout" maxwidth="-1" name="cloud_storage_sign_out">"\"%s\" ကို ချိတ်ဆက်မှု ဖြုတ်လိုသည်မှာ သေချာပါသလာ?"</string>
+    <string description="Dialog title: Signout cloud storage" maxwidth="-1" name="cloud_storage_sign_out_title">"ဆက်သွယ်ဖြတ်ပါ"</string>
+    <string description="Add more cloud storage" maxwidth="-1" name="cloud_storage_title">"နောက်ထပ် ကလောက်ဒ်သိမ်းဆည်းနေရာ ထပ်ထည့်ပါ"</string>
+    <string description="diaglog cloud  token is invalidate" name="cloud_token_invalidate">"တိုကင်ကို သက်ဝင်မနေပါ၊ ကျေးဇူးပြ၍ ထပ်မံ လော့ဂ်အင်ဝင်ပါ။"</string>
+    <string description="Toast: The size is over the limit and cannot be uploaded" maxwidth="-1" name="cloud_upload_flie_limit_space">"ဖိုင် အပ်လုဒ် လုပ်ရန် မအောင်မြင်ပါ။ ဖိုင်အရွယ်အစားသည် အမြင့်ဆုံးကန့်သတ်ချက်ထက် ကျော်နေသည်။"</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"ဖွင့်ရန်"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"Google Play ဝန်ဆောင်မှုများကို မဖွင့်သ၍ <ns1:g id="APP_NAME">%1$s</ns1:g> သည်အလုပ်လုပ်မည်မဟုတ်ပါ။"</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Google Play ဝန်ဆောင်မှုများ ဖွင့်ရန်"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"ထည့်သွင်းပါ"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"သင့်တက်ဘလက်တွင် Google Play ဝန်ဆောင်မှုများမရှိသောကြောင့် <ns1:g id="APP_NAME">%1$s</ns1:g> ကိုဖွင့်၍မရပါ။"</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Google Play ဝန်ဆောင်မှုများရယူရန်"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Google Play ဝန်ဆောင်မှုများ အမှား"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> သည် Google Play ဝန်ဆောင်မှုများနှင့် ပြဿနာအနည်းငယ် ရှိနေပါသည်။ ထပ်လုပ်ကြည့်ပါ။"</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"Google Play ဝန်ဆောင်မှုများကို သင့်စက်ပစ္စည်းတွင် ပံ့ပိုးမထားသည့်အတွက် ၎င်းမရှိဘဲ <ns1:g id="APP_NAME">%1$s</ns1:g> ကို ဖွင့်၍မရပါ။"</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"အပ်ဒိတ်"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"Google Play ဝန်ဆောင်မှုများအား အပ်ဒိတ်မလုပ်ပါက <ns1:g id="APP_NAME">%1$s</ns1:g> အလုပ်လုပ်မည် မဟုတ်ပါ။"</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Google Play ဝန်ဆောင်မှုများကို အပ်ဒိတ်လုပ်ရန်"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"Google Play ဝန်ဆောင်မှုများကို လက်ရှိအပ်ဒိတ်လုပ်နေသောကြောင့် <ns1:g id="APP_NAME">%1$s</ns1:g> ကိုဖွင့်၍ရမည်မဟုတ်ပါ။"</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Google Play ဝန်ဆောင်မှုဗားရှင်းအသစ်များ လိုအပ်နေသည်။ အချိန်အနည်းငယ်အကြာတွင် ၎င်းကိုယ်တိုင်အပ်ဒိတ်လုပ်ပါ လိမ့်မည်။"</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"ဖုန်းပေါ်မှာ ဖွင့်ပါ"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"လက်မှတ်ထိုး ဝင်ရန်"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Google ဖြင့် လက်မှတ်ထိုးဝင်ရေ"</string>
+    <string name="confirm">"အတည်ပြုပါ"</string>
+    <string name="confirm_ok">"အိုကေ"</string>
+    <string description="confirm password textview title" name="confirm_password">အတည်ပြု စကားဝှက်</string>
+    <string description="ask user to enter password again to confirm" name="confirm_password_edit">စကားဝှက် ထပ်မံထည့်ပါ</string>
+    <string description="content" maxwidth="-1" name="content">"ဤဆော့ဖ်ဝဲကို ASUS ဝက်ဘ်ဆိုဒ်ရှိ စည်းမျဉ်းသတ်မှတ်ချက်များနှင့် အခြေအနေများနှင့်အညီ အသုံးပြုပါ- \nhttp://www.asus.com"</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="copy">"ကူးယူပါ"</string>
+    <string description="Toast: copy ready" maxwidth="-1" name="copy_ready_more">"ရွေးထားသောဖိုင်များကို ကူးယူပြီး၍ ကပ်ရန် အဆင်သင့်ဖြစ်သည်။"</string>
+    <string description="Toast: copy ready. %s is variable string." maxwidth="-1" name="copy_ready_one">"\"%s\" ကို ကူးယူပြီး၍ ကပ်ရန် အဆင်သင့်ဖြစ်သည်။"</string>
+    <string name="copy_to">"သို့ ကူးယူပါ"</string>
+    <string description="country region textview title" name="country_region">နိုင်ငံဒေသ</string>
+    <string description="ack user to select on country" name="country_region_select">သင့်အရပ်ဒေသကို ရွေးပါ</string>
+    <string name="create_shortcut">"ရှော့ကတ် ဖန်တီးပါ"</string>
+    <string name="create_shortcut_dialog">"လန်ချာတွင် ရှော့ကတ် ဖန်တီးပါ"</string>
+    <string name="create_shortcut_toast">"လန်ချာတွင် ရှော့ကတ် ဖန်တီးခြင်း ပြီးပြီ"</string>
+    <string name="cta_agree">"ခွင့်ပြုပါ"</string>
+    <string name="cta_check_title">"မှတ်ထားပါ"</string>
+    <string name="cta_dialog_content"><b>ဖိုင်မန်နေဂျာ</b> က ကွန်ယက်ကိုသုံးရန် ကြိုးစားသည်၊ သင့် စာရင်းသွင်းမှာယူမှုပေါ် မူတည်၍ အခြားကုန်ကျစရိတ်များ ကျသင့်နိုင်ပါသည်။</string>
+    <string name="cta_dialog_title">"ကွန်ရက် သုံးခြင်း"</string>
+    <string name="cta_disagree">"ငြင်းဆိုပါ"</string>
+    <string name="cta_show_menu">"ကွန်ရက် ခွင့်ပြုချက်"</string>
+    <string name="current_folder">"လက်ရှိ ဖိုဒါ"</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="cut">"ဖြတ်ပါ"</string>
+    <string description="Toast: cut ready" maxwidth="-1" name="cut_ready_more">"ရွေးထားသောဖိုင်များကို ဖြတ်ပြီး၍ ကပ်ရန် အဆင်သင့်ဖြစ်သည်။"</string>
+    <string description="Toast: cut ready. %s is variable string." maxwidth="-1" name="cut_ready_one">"\"%s\" ကို ဖြတ်ပြီး၍ ကပ်ရန် အဆင်သင့်ဖြစ်သည်။"</string>
+    <string description="button text for sort file by date" maxwidth="-1" name="date">"ရက်စွဲ"</string>
+    <string description="button text for sort file by date ascending" maxwidth="-1" name="date_ascending">"ရက်စွဲ (ရှေးအကျဆုံး-နောက်ဆုံး)"</string>
+    <string description="button text for sort file by date descending" maxwidth="-1" name="date_descending">"ရက်စွဲ (နောက်ဆုံး-ရှေးအကျဆုံး)"</string>
+    <string name="day">"၁ ရက်"</string>
+    <string name="days">"<ns1:g id="days">"%s "</ns1:g> "ရက်</string>
+    <string name="dbx_install_contnet">"Dropbox မထည့်သွင်းထားပါ။ ပလေးစတိုးမှ ဒေါင်းလုဒ်လုပ်ပြီး ထည့်သွင်းလိုပါသလား။"</string>
+    <string name="dbx_install_title">"Dropbox မထည့်သွင်းထားပါ။"</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="delete">"ဖျက်ပါ"</string>
+    <string description="Dialog Title: delete dialog title" maxwidth="" name="delete_dialog">"ဖိုင်ကို ဖျက်ပါ"</string>
+    <string description="Toast: delete fails" maxwidth="-1" name="delete_fail">"ဖိုင်ဖျက်ခြင်း မအောင်မြင်ပါ။"</string>
+    <string description="Dialog Content: text in dialog. %d is variable number." maxwidth="" name="delete_more_files">"%d အရာများကို ဖျက်လိုပါသလာ?"</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="delete_one_directory">"ဒိုင်ယာထရီကို ဖျက်လိုသလာ?"</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="delete_one_files">"ဖိုင်ကို ဖျက်လိုပါသလာ?"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="delete_progress">"ဖျက်နေသည်…"</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="delete_size">"အရွယ်အစား- "</string>
+    <string description="Toast: delete success" maxwidth="-1" name="delete_success_more">"ရွေးထားသောဖိုင်များကို ဖျက်ပြီးပြီ။"</string>
+    <string description="Toast: delete success. %s is variable string." maxwidth="-1" name="delete_success_one">"\"%s\" ကို ဖျက်ပြီးပြီ။"</string>
+    <string description="cutstom action bar view title for deselect all checkbox" maxwidth="" name="deselect_all">"အားလုံးကို ရွေးထားခြင်း ပြန်ဖြုတ်ပါ"</string>
+    <string name="device_root_path">"ရင်းမြစ်လမ်းအစ"</string>
+    <string description="compress dialog title" maxwidth="-1" name="dialog_create_zip_title">"မော်ကွန်းတင်မှတ်တမ်းအမည်ကို ထည့်ပါ"</string>
+    <string description="extract zip file dialog title. %s is a dynamic string. It is zip file name." maxwidth="-1" name="dialog_extract_zip_title">"သို့ %s ကို ဆွဲထုတ်ပါ-"</string>
+    <string name="dialog_load_stream_url_info">"ဆာဗာမှ လိုအပ်သော သတင်းအချက်အလက်များ ပြန်ထုတ်နေသည်"</string>
+    <string name="dialog_msg_market_login_account">"app ကို ဒေါင်းလုဒ်လုပ်ရန် ကျေးဇူးပြု၍ သင့် အကောင့်သို့ လော့ဂ်အင်ဝင်ပါ"</string>
+    <string description="text encoding dialog title" maxwidth="-1" name="dialog_text_encoding_title">"စာသား ရေးသိမ်းသည့်ပုံစံ"</string>
+    <string name="dialog_title_market_login_account">"အကောင့် ထည့်ပါ"</string>
+    <string description="show zip info dialog title. %s is a dynamic string. Is is a zip file name" maxwidth="-1" name="dialog_unzip_preview_title">"%s ကို ဆွဲထုတ်ပါ"</string>
+    <string description="Dialog Title: Directory information dialog title" maxwidth="-1" name="dir_info_dialog_title">"ဒါရိုက်ထရီ သတင်းအချက်အလက်"</string>
+    <string name="display">"အဖြစ် ဖော်ပြပါ"</string>
+    <string name="display_hint">"ကျွန်ုပ်၏ကွန်ပျူတာ၊ အလွတ် ထားနိုင်သည်"</string>
+    <string name="dm_openfile">"ဖိုင်ဖွင့်ပါ"</string>
+    <string name="do_not_show_again">"ထပ်မပြပါနှင့်"</string>
+    <string name="domain">"ဒိုမိန်း-"</string>
+    <string name="domain_hint">"အလွတ် ထားနိုင်သည်"</string>
+    <string name="download_fail">ဒေါင်းလုဒ် မအောင်မြင်ပါ!</string>
+    <string name="drag_items_one">"အရာဝတ္ထုကို ဆွဲယူပါ"</string>
+    <string name="drag_items_other">"အရာဝတ္ထုများကို ဆွဲယူပါ"</string>
+    <string name="drawer_close">"လမ်းညွှန်ပုံဆွဲပြသည့်အရာကို ပိတ်ပါ"</string>
+    <string name="drawer_home">"ဟုမ်း"</string>
+    <string name="drawer_open">"လမ်းညွှန်ပုံဆွဲပြသည့်အရာကို ဖွင့်ပါ"</string>
+    <string description="Hint: the operation is incorrect" maxwidth="-1" name="drop_incorrect_hint">"မမှန်သော လုပ်ဆောင်ချက်"</string>
+    <string description="Hint: the target folder which you want to do something" maxwidth="-1" name="drop_target_to">"ရည်ညွှန်းရာ-"</string>
+    <string name="dumdownloadfrom">မှ ဒေါင်းလုပ်ဒ်လုပ်ပါ</string>
+    <string name="dumuploadto">သို. Upload လုပ်ပါ</string>
+    <string name="duplicate_files">"နှစ်ခုထပ်နေသောဖိုင်များ"</string>
+    <string name="duplicate_files_content_hint">"နှစ်ခုထပ်နေသောဖိုင်များကို ရှာပြီး သင့်ခွင့်ပြုချက်ဖြင့် ၎င်းတို့ကို ဖျက်ပါ။"</string>
+    <string name="edit_toast_name_too_long">"အများဆုံးအက္ခရာအရေအတွက် ရောက်ပြီ"</string>
+    <string name="edit_toast_special_char">"အထူးအက္ခရာများ မပါဝင်နိုင်ပါ"</string>
+    <string name="editcategory_hint">"အမျိုးအစားပန်နယ်ကို စိတ်ကြိုက်ပြုလုပ်ရန် တည်းဖြတ်ခလုတ်ကို နှိပ်ပါ။"</string>
+    <string description="describe the empty folder" maxwidth="-1" name="empty_folder_title">"ဖိုင်မရှိပါ"</string>
+    <string description="Dialog Button: click to open the encoding list dialog" maxwidth="-1" name="encode">"စာသား ရေးသိမ်းသည့်ပုံစံ"</string>
+    <string description="ask user to enter password" maxwidth="-1" name="enter_password">"စကားဝှက်ထည့်ပါ"</string>
+    <string name="eula_content_description">
+        \nဤနောက်ဆုံးသုံးစွဲသူ လိုင်စင် သဘောတူညီချက် ("EULA") တွင် ASUSTeK Computer Inc. ("ASUS") နှင့် အောက်တွင် ရှေ့လျှောက် သတ်မှတ်ထားသည့် ASUS ဆော့ဖ်ဝဲ ("ဆော့ဖ်ဝဲ") သုံးစွဲမှုအတွက် သုံးစွဲသူ သင်တို့အကြား အကျုံးဝင်ပြီး ချည်နှောင်မှုရှိသော သဘောတူညီချက်တို့ ပါဝင်ပါသည်။ ဆော့ဖ်ဝဲကို ထည့်သွင်းပြီး ဆက်လက်အသုံးပြုခြင်းဖြင့် သင်သည် ဤ EULA ပါ စည်းကမ်းချက်များနှင့် နောင်တွင် ပြဌာန်းမည့် ဗားရှင်းအသစ်များအတိုင်း ဥပဒေအရ သက်ရောက်မှုရှိကြောင်းကို ဖတ်ရှု နားလည်ပြီး သဘောတူကြောင်း အတိအကျ အသိအမှတ်ပြုပါသည်။ 
+\n\n၁။ ဆော့ဖ်ဝဲ ဆိုသည်မှာ နောင်တွင် ပရိုဂရမ်ပိုင်းဆိုင်ရာ ပြုပြင်မှုများ၊ အပ်ဒိတ်လုပ်မှုများ၊ အဆင့်မြှင့်တင်မှုများနှင့် မွမ်းမံထားသော ဗားရှင်းများပါဝင်ပြီး ကန့်သတ်ထားခြင်းမရှိသည့် အရာများစွာဖြင့် အသုံးပြုနိုင်သော ASUS ထုတ်ကုန်ပစ္စည်းနှင့်အတူ သို့မဟုတ် ထုတ်ကုန်ပစ္စည်းတွင် ပါဝင်သော ASUS ဆော့ဖ်ဝဲကို ဆိုလိုပါသည်။
+\nဆော့ဖ်ဝဲသည် www.opensource.org/licenses အရ သတ်မှတ်ထားသော အခမဲ့ အသုံးပြုနိုင်သည့် ရင်းမြစ်ဆော့ဖ်ဝဲလိုင်စင်တစ်ခု သို့မဟုတ် တစ်ခုထက်ပိုသော လိုင်စင်များအောက်တွင် လိုင်စင်ရယူထားသည့် ကြားခံအဖွဲ့မှ ဖန်တီးထားသော ဆော့ဖ်ဝဲ သို့မဟုတ် အခြား ASUS နှင့်အတူ ပူးတွဲပါရှိသော ဆော့ဖ်ဝဲဖြစ်နိုင်ပါသည်။ ထိုသို့သော အခမဲ့အသုံးပြုနိုင်သည့် ရင်းမြစ်ဆော့ဖ်ဝဲကို သက်ဆိုင်ရာ လိုင်စင်သဘောတူညီချက် သို့မဟုတ် ၎င်းနှင့်အတူ တွဲဖက်ပါရှိသော မူပိုင်ခွင့်ဆိုင်ရာ သတိပေးချက် သို့မဟုတ် ဆော့ဖ်ဝဲနှင့်အတူ တွဲဖက်ပါရှိသော FOSS လိုင်စင်ဖိုင်ပါ စည်းကမ်းချက်များအရ သင့်အား အပြည့်အဝ အသုံးပြုပိုင်ခွင့် ပေးအပ်ထားပါသည်။ EULA ပါ စည်းကမ်းချက်များသည် ထိုသို့သော အခမဲ့ အသုံးပြုနိုင်သည့် ရင်းမြစ်ဆော့ဖ်ဝဲအတွက် အကျုံးဝင်ခြင်း မရှိပါ။
+\n\n၂။ လိုင်စင်  ဤ EULA ပါစည်းကမ်းချက်များအရ သက်ဆိုင်သော လိုင်စင်ကို ASUS သည် ASUS ထုတ်ကုန်ပစ္စည်းများတွင် မြှပ်ထားသည့်အတိုင်း ဆော့ဖ်ဝဲကို အပြည့်အဝ အသုံးပြုရန် သင့်အတွက် ကန့်သတ်ထားသော၊ ကိုယ်ပိုင်သုံး၊ စီးပွားဖြစ်သုံးရန်မဟုတ်သော၊ အထူးသီးသန့်မဟုတ်သော လိုင်စင်ကို ဤတွင် ခွင့်ပြုပေးပါသည်။ အရံထားရှိရန်အတွက်သာ စက်မှ ဖတ်ရှုနိုင်သော ပုံစံဖြင့် ဆော့ဖ်ဝဲ ကော်ပီကို သိမ်းထားနိုင်သည်၊ ထိုအရံသိမ်းထားသော ကော်ပီတွင် မူရင်းတွင် ပါရှိသော ပစ္စည်းဆိုင်ရာ သတိပေးချက်များနှင့် မူပိုင်ခွင့်ဆိုင်ရာ သတိပေးချက်များအားလုံး ပါဝင်ရမည်။ ဤလိုင်စင်ကို လိုင်စင်ခွဲ ပြန်ထုတ်ပေးခြင်း မပြုလုပ်ရ၊ ဆော့ဖ်ဝဲပါဝင်သော ASUS ထုတ်ကုန်ပစ္စည်း အပြည့်အစုံကို လွှဲပြောင်းရယူမည့် အဖွဲ့အစည်း သို့မဟုတ် ပုဂ္ဂိုလ်ထံမှလွဲ၍ အခြားသူများထံ လွှဲပြောင်းခြင်း မပြုလုပ်ရ။ ဤ EULA အရ လုပ်ပိုင်ခွင့်အားလုံးကို အပြီးအပိုင် လွှဲပြောင်းကြောင်း ရေးသားဖော်ပြပြီး ဆော့ဖ်ဝဲ ကော်ပီကို တစ်စိတ်တစ်ပိုင်းဖြစ်စေ၊ အပြည့်အဝဖြစ်စေ ထိန်းသိမ်းထားရှိခြင်း မပြုရ။ လက်ခံသူသည်လည်း ဤ EULA ပါ စည်းကမ်းချက်များကို သဘောတူရမည်။
+\n\n၃။ ကန့်သတ်ချက်များကို ပြောင်းပြန်လုပ်ဆောင်ခြင်း  ဆော့ဖ်ဝဲကို ဖြုတ်ခြင်း၊ ပရိုဂရမ်ကို ပုံစံပြောင်းခြင်း၊ စက်ပစ္စည်းကို ပြုပြင်ခြင်းများ မပြုလုပ်နိုင်ပေ၊ အထက်ပါ လုပ်ဆောင်ချက်ကို သက်ဆိုင်ရာ ဥပဒေမှ တားမြစ်ထားသည့်အခြေအနေမှလွဲ၍ ထိုသို့လုပ်ဆောင်ခြင်းကို ခွင့်ပြုခြင်း သို့မဟုတ် လုပ်ဆောင်ရန် လိုက်လျောခြင်းမပြုရပါ။
+\n\n၄။ လျှို့ဝှက်  လျှို့ဝှက်ချက်များ၊ မူပိုင်ခွင့် ရရှိထားသော ပစ္စည်းများကို မည်သည့် ပုံစံဖြင့်ဖြစ်စေ ကြားခံအဖွဲ့ထံ လွှဲပြောင်းခြင်း အပါအဝင် ဆော့ဖ်ဝဲ၏ လျှို့ဝှက် အချက်အလက်များကို တစ်စိတ်တစ်ပိုင်းဖြစ်စေ၊ အပြည့်အဝဖြစ်စေ ထုတ်ဖော်မှု ပြုစေခြင်း သို့မဟုတ် ထုတ်ဖော်ခြင်း မပြုလုပ်ရပါ၊ ကာကွယ်ထားရန်သည် သင့်တာဝန်ဖြစ်သည်။
+\n\n၅။ ဉာဏပစ္စည်းဆိုင်ရာ လုပ်ပိုင်ခွင့်များ ("IP လုပ်ပိုင်ခွင့်များ")  ဆော့ဖ်ဝဲနှင့် ပတ်သက်သော IP လုပ်ပိုင်ခွင့်များ၊ ရပိုင်ခွင့်များနှင့် အကျိုးအမြတ်များသည် ASUS သို့မဟုတ် ၎င်း၏ လိုင်စင်ထုတ်ပေးသူများ၏ အထူးသီးသန့် ပိုင်ဆိုင်ပစ္စည်းများဖြစ်ကြောင်း သင် အသိအမှတ်ပြု သဘောတူပါသည်။ ဤ EULA ထဲရှိ မည်သည့်အရာအတွက်ကိုမှ သင့်ထံ IP လုပ်ပိုင်ခွင့်များ လွှဲပြောင်းရန် မရည်ရွယ်ထားပါ။ IP လုပ်ပိုင်ခွင့်များကို ခွင့်ပြုချက်မရဘဲ အသုံးပြုခြင်းသည် ဤ EULA ကို ချိုးဖောက်ခြင်းဖြစ်ပြီး မူပိုင်ခွင့် ဥပဒေများနှင့် ကုန်ပစ္စည်းအမှတ်တံဆိပ် ဥပဒေများ အပါအဝင် ကန့်သတ်ထားခြင်းမရှိသည့် အခြား ဉာဏပစ္စည်းဆိုင်ရာ ဥပဒေများကို ချိုးဖောက်ခြင်းဖြစ်သည်။
+\nကိုယ်ရေးကိုယ်တာ အချက်အလက်များအတွက် အချက်အလက်၊ ပစ္စည်း၊ စိတ်ကူး၊ အယူအဆ၊ သို့မဟုတ် နည်းပညာများကို ဆော့ဖ်ဝဲ ("တုန့်ပြန်အကြံပြုချက်များ") မှတဆင့် ASUS ထံ ပေးပို့ခြင်းဖြင့် သင်သည် အောက်ပါတို့ကို အသိအမှတ်ပြု သဘောတူပါသည်- (၁) သင့်တုန့်ပြန်အကြံပြုချက်တွင် လျှို့ဝှက် သို့မဟုတ် ပိုင်ဆိုင်ပစ္စည်းဆိုင်ရာ အချက်အလက်များ မပါဝင်ရပါ- (၂) တုန့်ပြန်အကြံပြုချက်များနှင့် ပတ်သက်၍ ASUS သည် အချက်အလက်များကို လျှို့ဝှက်ထားခြင်း၊ ဖော်ပြခြင်း၊အသုံးပြုခြင်းတို့အတွက် မည်သည့်တာဝန်မှ ယူမည်မဟုတ်ပါ။ (၃) တုန့်ပြန်အကြံပြုချက်များကို မည်သည့် ရည်ရွယ်ချက်အတွက်ဖြစ်စေ ကမ္ဘာအနှံ့တွင် ASUS ၏ အပြည့်အဝ လုပ်ပိုင်ခွင့်ဖြင့် အသုံးပြုပိုင်ခွင့် သို့မဟုတ် ဖော်ထုတ်ပိုင်ခွင့် ASUS တွင် ရှိပါသည်။ (၄) သင်၏ တုန့်ပြန်အကြံပြုချက်များသည် ASUS ၏ ပိုင်ဆိုင်ပစ္စည်းများ ဖြစ်လာပြီး သင့်အတွက် ASUS မှ မည်သည့်တာဝန်မှ ယူမည်မဟုတ်ပါ။ (၅) သင့်အနေဖြင့် ကျွန်ုပ်တို့ထံမှ လျော်ကြေး သို့မဟုတ် ငွေပြန်ထုတ်ခြင်းတို့ကို လုပ်ပိုင်ခွင့် မရှိပါ။
+\n\n၆။ စည်းကမ်းချက်နှင့် ရပ်စဲခြင်း  ဤ EULA သည် ဆော့ဖ်ဝဲကို သင်စတင် ထည့်သွင်းသည့် နေ့မှစ၍ အကျုံးဝင်ပါသည်။ ဆော့ဖ်ဝဲအသုံးပြုခြင်းကို ရပ်ပစ်ပြီး ဆော့ဖ်ဝဲကို ASUS ထုတ်ကုန်ပစ္စည်းမှ ဖယ်ရှားလိုက်သည့်အချိန်တွင် ဤလိုင်စင်ကို သင် ရပ်စဲနိုင်ပါသည်။ ဤ EULA ပါ ပြဌာန်းချက်များကို လိုက်နာရန် သင့်အနေဖြင့် ပျက်ကွက်သည်ဟု ကျွန်ုပ်တို့ ယူဆပါက သင့်အား ASUS မှ ကြိုတင်အကြောင်းကြားခြင်းမရှိဘဲ သင့်လုပ်ပိုင်ခွင့်များကို ရပ်စဲပစ်ပါလိမ့်မည်။
+\n\n၇။ အာမခံနှင့် မသက်ဆိုင်ကြောင်း ငြင်းဆိုချက်နှင့် တာဝန်ယူမှုအပိုင်းအား ကန့်သတ်ခြင်း  ဆော့ဖ်ဝဲအား "ရှိရင်းစွဲ" အတိုင်းသာ ပေးထားခြင်းဖြစ်ကြောင်း သင် အသိအမှတ်ပြုပါသည်။ ဤဆော့ဖ်ဝဲ၏ အရည်အသွေးနှင့် လုပ်ဆောင်ချက်စွမ်းရည်တို့နှင့် ပတ်သက်သော ဖြစ်လာနိုင်သည့် ထိခိုက်မှုများသည် သင့်အပေါ်တွင် သက်ရောက်မည် ဖြစ်ပါသည်။ ဝန်ဆောင်မှုပြုလုပ်ရန်နှင့် ပြုပြင်ရန် လိုအပ်သော ကုန်ကျစရိတ်များအပါအဝင် အခြားကန့်သတ်မထားသည်များလည်း ပါဝင်ပါသည်။ ဥပဒေမှ ခွင့်ပြုထားသည့် အတိုင်းအတာအထိ ASUS သည် ဤဆော့ဖ်ဝဲနှင့် ပတ်သက်၍ သို့မဟုတ် ဤ EULA သို့မဟုတ် ဤ ဆော့ဖ်ဝဲအတွက် ဖော်ပြထားသော စရွက်စာတမ်းများနှင့် အခြား အချက်အလက်များနှင့် ပတ်သက်၍ မည်သည့် အာမခံခြင်းမျိုးမှ မရှိပါ၊ အာမခံကြောင်း ဖော်ပြခြင်း မရှိပါ၊ သွယ်ဝိုက်ညွှန်းဆိုခြင်း မရှိပါ။ အာမ မခံသည့်အချက်များတွင် ဤဆော့ဖ်ဝဲကို ရောင်းစွံမည်ဖြစ်ကြောင်း အာမခံချက်၊ သို့မဟုတ် အချို့သော ရည်ရွယ်ချက်များအတွက် ကြံ့ခိုင်မည်ဖြစ်ကြောင်း အာမခံချက် သို့မဟုတ် ချိုးဖောက်မှုအတွက် အာမခံချက် သို့မဟုတ် ဆော့ဖ်ဝဲကို အသုံးပြုခြင်းကြောင့် သို့မဟုတ် ဆော့ဖ်ဝဲစွမ်းဆောင်ရည်ကြောင့် ဖြစ်ပေါ်လာသော ပြဿနာများအတွက် အာမခံချက်တို့ ပါဝင်ပြီး အခြား ကန့်သတ်မထားသည်များလည်း ပါဝင်ပါသည်။ ဤဆော့ဖ်ဝဲကို အသုံးပြုခြင်းကြောင့် ဖြစ်ပေါ်လာမည့် ရလဒ်များ သို့မဟုတ် ဤဆော့ဖ်ဝဲမှတဆင့် ရရှိလာသော အချက်အလက်များ၏ စိတ်ချရမှု သို့မဟုတ် မှန်ကန်မှုတို့အပါ် မည်သည့် အာမခံချက်မျိုးကိုမှ ASUS က မပေးပါ။ အချို့သော တရားစီရင်ပိုင်ခွင့်များတွင် သတ်မှတ် အာမခံခြင်းမျိုးကို ဖယ်ထုတ်ခြင်း သို့မဟုတ် သတ်မှတ် ပျက်စီးမှုများအတွက် တာဝန်ယူမှုအား ဖယ်ထုတ်ခြင်း သို့မဟုတ် ကန့်သတ်ခြင်းတို့ကို ခွင့်မပြုပါ။ ထိုကိစ္စရပ်မျိုးတွင် အထက်ပါ တာဝန်ယူခြင်းနှင့်ပတ်သက်သော မသက်ဆိုင်ကြောင်း ငြင်းဆိုချက်များနှင့် ကန့်သတ်ချက်များသည် သင့်အပေါ် သက်ရောက်မည်မဟုတ်ပါ။
+\nဤဆော့ဖ်ဝဲ၏ အရည်အသွေးနှင့် လုပ်ဆောင်ချက်စွမ်းရည်တို့နှင့် ပတ်သက်သော ဖြစ်လာနိုင်သည့် ထိခိုက်မှုများသည် သင့်အပေါ်တွင် သက်ရောက်မည် ဖြစ်ပါသည်။ မည်သည့်ကိစ္စရပ်မျိုးတွင်ဖြစ်စေ ASUS၊ ၎င်း၏ လိုင်စင်ချထားပေးသူများ သို့မဟုတ် သက်ဆိုင်ရာ အရာရှိများ၊ ဒါရိုက်တာများ၊ ဝန်ထမ်းများ၊ အေးဂျင့်များ သို့မဟုတ် လက်တွဲလုပ်ကိုင်သူများသည် ပျက်စီးမှုများ ရှိနိုင်သည်ဟု ASUS မှ အကြံပြုထားပြီး ဖြစ်သော်လည်း ဤ EULA ကြောင့် ဖြစ်ပေါ်လာသော သို့မဟုတ် ၎င်းနှင့် ဆက်စပ်သော သို့မဟုတ် ဆော့ဖ်ဝဲ သို့မဟုတ် ၎င်း၏ အစိတ်အပိုင်းတစ်ချို့ကို အသုံးပြုခြင်း သို့မဟုတ် အသုံးမပြုနိုင်ခြင်း တို့ကြောင့် ဖြစ်ပေါ်လာသော (အကျိုးအမြတ် ဆုံးရှုံးမှု၊ နှောင့်ယှက်ခံရမှု၊ အချက်အလက်များ ဆုံးရှုံးမှု၊ သို့မဟုတ် အခြား ငွေကြေးအရ ဆုံးရှုံးမှုတို့ ပါဝင်ပြီး ကန့်သတ်မထားသောအရာများလည်း ပါဝင်သည်) အကျိုးဆက်များ၊ မတော်တဆများ၊ တိုက်ရိုက်ဖြစ်စေ၊ သွယ်ဝိုက်၍ ဖြစ်စေ ဖြစ်ပွားမှုများ၊ အထူးဖြစ်ပွားမှု၊ ဆိုးရွားမှု သို့မဟုတ် အခြား ပျက်စီးမှုများအတွက် တာဝန်မရှိပါ။ အချို့သော တရားစီရင်ပိုင်ခွင့်များတွင် သတ်မှတ် အာမခံခြင်းမျိုးကို ဖယ်ထုတ်ခြင်း သို့မဟုတ် သတ်မှတ် ပျက်စီးမှုများအတွက် တာဝန်ယူမှုအား ဖယ်ထုတ်ခြင်း သို့မဟုတ် ကန့်သတ်ခြင်းတို့ကို ခွင့်မပြုပါ။ ထိုကိစ္စရပ်မျိုးတွင် အထက်ပါ တာဝန်ယူခြင်းနှင့်ပတ်သက်သော မသက်ဆိုင်ကြောင်း ငြင်းဆိုချက်များနှင့် ကန့်သတ်ချက်များသည် သင့်အပေါ် သက်ရောက်မည်မဟုတ်ပါ။
+\n\n၈။ လျော်ကြေးငွေ  ဤ EULA ကို သင် ချိုးဖောက်မှု သို့မဟုတ် သက်ဆိုင်ရာ ဥပဒေ သို့မဟုတ် စည်းမျဉ်း သို့မဟုတ် ကြားခံအဖွဲ့၏ လုပ်ပိုင်ခွင့်များကို ချိုးဖောက်မှုကြောင့် ဖြစ်ပေါ်လာသော သို့မဟုတ် ၎င်းနှင့် ဆက်နွယ်ပြီး ဖြစ်ပေါ်လာသော အရေးဆိုမှု သို့မဟုတ် တောင်းဆိုမှု (သင့်တင့်လျောက်ပတ်သော တရားရုံးရှေ့နေစရိတ်နှင့် တရားရုံးစရိတ်တို့ အပါအဝင်) တို့ကြောင့် ဖြစ်ပေါ်လာသော ပျက်စီးမှု၊ ဆုံးရှုံးမှု၊ တာဝန်ယူမှုနှင့် ကုန်ကျစရိတ်များအတွက် ASUS နှင့် ၎င်း၏ လက်တွဲလုပ်ကိုင်သူများ၊ ဝန်ဆောင်မှုပေးသူများ၊ လုပ်ငန်းစုများ၊ ဖြန့်ချီသူများ၊ လိုင်စင်ချထားပေးခံရသူများ၊ အရာရှိများ၊ ဒါရိုက်တာများနှင့် ဝန်ထမ်းများအား ကာကွယ်ရန်၊ အာမခံရန်၊ အန္တရာယ်မပေးရန် သင် သဘောတူပါသည်။
+    </string>
+    <string name="eula_content_title">"နောက်ဆုံး သုံးစွဲသူ လိုင်စင် သဘောတူချက်"</string>
+    <string description="Do not translate ASUS" maxwidth="" name="eula_description">ASUS အပလီကေးရှင်းများနှင့် အသုံးပြုသူများအကြား တရားဝင်စာချုပ်တစ်ခု</string>
+    <string maxwidth="" name="eula_title">အသုံးပြုသူလိုင်စင် သဘောတူညီချက်</string>
+    <string name="example">"ဥပမာ-"</string>
+    <string description="Dialog Button: extract file for dialog" maxwidth="-1" name="extract">"ဆွဲထုတ်ပါ"</string>
+    <string name="facebook_app_invite">"Facebook အဆက်အသွယ်များ"</string>
+    <string name="fb_request_error_permissions">"ဤ app တွင် ဤအရာကို ပြုလုပ်ရန် ခွင့်ပြုချက်မရှိပါ။ app သို့ လော့ဂ်အင်ဝင်ရန် ထပ်မံကြိုးစားပါ။"</string>
+    <string name="fileList_Nofiles">"ဖိုင်များ မရှိ"</string>
+    <string description="Dialog Title: File information dialog title" maxwidth="-1" name="file_info_dialog_title">"ဖိုင် သတင်းအချက်အလက်"</string>
+    <string description="Application Name shown on title" maxwidth="" name="file_manager">"ဖိုင်မန်နေဂျာ"</string>
+    <string description="string indicating camera flash is not used" maxwidth="-1" name="flash_off">"ဖလက်ရှ် မပွင့်"</string>
+    <string description="string indicating camera flash is fired" maxwidth="-1" name="flash_on">"ဖလက်ရှ် ပွင့်ပြီး"</string>
+    <string description="click to retrieve password" maxwidth="-1" name="forget_password">"<u>စကားဝှက် မေ့နေသလား?</u>"</string>
+    <string name="fragment_analyzer_allfiles_used_hint">"အသုံးပြုပြီး-"</string>
+    <string name="fragment_analyzer_chart_free_hint">"အလွတ်-"</string>
+    <string name="fragment_analyzer_chart_total_hint">"စုစုပေါင်း-"</string>
+    <string name="fragment_analyzer_chart_used_hint">"အသုံးပြုပြီး"</string>
+    <string name="fragment_analyzer_more_hint">"နောက်ထပ်"</string>
+    <string name="google_app_invite">"Google အဆက်အသွယ်များ"</string>
+    <string name="group_title_installed">"ထည့်သွင်းပြီး"</string>
+    <string name="group_title_not_installed">"မထည့်သွင်းရသေးပါ"</string>
+    <string name="group_title_others">"အခြား"</string>
+    <string name="group_title_recommended">"အကြံပြုထားသည်"</string>
+    <string name="hidden_zone_change_password">"စကားဝှက်ပြောင်းပါ"</string>
+    <string name="hidden_zone_confirm_password">"PIN ကုဒ်ကို အတည်ပြုပါ"</string>
+    <string name="hidden_zone_enter_password">"သင့် PIN ကုဒ်ကို ထည့်ပါ"</string>
+    <string name="hidden_zone_fingerprint_to_unlock">"သော့ဖွင့်ရန် လက်ဗွေ"</string>
+    <string name="hidden_zone_forget_password">"စကားဝှက် မေ့သွားသည်"</string>
+    <string name="hidden_zone_introduction_description">"သင့် သီးသန့်ဖိုင်များကို ဖျောက်ထားသောပုံးထဲတွင် ဖျောက်ပါ။ ဖျောက်ထားသောပုံးကိုဖွင့်ရန် PIN ကုဒ် လိုအပ်သည်။"</string>
+    <string name="hidden_zone_password_mismatch">"PIN ကုဒ် မတူညီပါ"</string>
+    <string name="hidden_zone_set_password_success">"စကားဝှက်ကို အောင်မြင်စွာ သတ်မှတ်ပြီးပါပြီ"</string>
+    <string name="hidden_zone_setup_account">"အကောင့်သတ်မှတ်ပါ"</string>
+    <string name="hidden_zone_setup_password">"ဂဏန်း ၄-လုံး PIN ကုဒ်ကို ထည့်ပါ"</string>
+    <string name="hidden_zone_wrong_password">"PIN ကုဒ် မှားနေသည်"</string>
+    <string description="Can’t connect to HomeCloud." maxwidth="-1" name="homecloud_access_error">"HomeCloud ကို ချိတ်ဆက်ရန် မအောင်မြင်ပါ။ HomeCloud ဝန်ဆောင်မှုသည် အွန်လိုင်းဖြစ်နေကြောင်း သေချာပါစေ။"</string>
+    <string name="homecloud_notice_1">ASUS HomeCloudသည် ဝင်းဒိုးစနစ် လည်ပါတ်နေသည့် ဆာဗာဆော့ဖ်ဝဲ၏ အစိတ်အပိုင်းတစ်ခုဖြစ်သည်။ ၎င်းသည် ဒီဂျစ်တယ် ပါဝင်မှုများ၏ လိုင်ဘရီအဖြစ် ဒီဇိုင်းပြုလုပ်ထားပြီးယခုအခါတွင် cloud-storage ဝန်ဆောင်မှုနှင့် မာတီမီဒီယာပေါင်းစပ်ခြင်းဝန်ဆောင်မှုများကိုပံ့ပိုးပေးနေသည့်အပြင် အနာဂါတ်တွင် ဝန်ဆောင်မှုများပိုမိုတိုးချဲ.ရန်ရှိပါသည်။</string>
+    <string name="homecloud_notice_2">သင်ယခုပင် ဒေါင်းလုဒ်ချပြီးစမ်းသပ်ကြည့်လိုက်ပါ။ </string>
+    <string name="homecloud_notice_3">http://home.asuscloud.com/</string>
+    <string name="homecloud_toast_udp_unsupported">ကွန်ယက် ကန်.သတ်ထားသည်။ ကျေးဇူးပြုပြီးသင့် ကွန်ယက် စီမံခန်.ခွဲသူသို.မဟုတ် အခြားကွန်ယက် သို.ပြောင်းလိုက်ပါ။ </string>
+    <string name="hour">၁ နာရီ</string>
+    <string name="hours"><ns1:g id="hours">%s </ns1:g>နာရီ</string>
+    <string maxwidth="" name="httpserver_acquire_permission_message">"HTTP ဖိုင်ဆာဗာကို ပိတ်လိမ့်မည်ဖြစ်ပြီး လုပ်ဆောင်ချက်များ ကြားဖြတ်နှောင့်ယှက်ခံရလိမ့်မည်။ ဆက်လုပ်မလား။"</string>
+    <string maxwidth="" name="httpserver_connectwifiname">"ချိတ်ဆက်ထားသော Wi-Fi AP -"</string>
+    <string maxwidth="" name="httpserver_description">"သင့်မိုဘိုင်းကိရိယာကို PC သို့ ချိတ်ဆက်ရန် ဝန်ဆောင်မှု စတင်ပါ။"</string>
+    <string maxwidth="" name="httpserver_instruction">"ဤလိပ်စာကို သင့် PC ရှိ ဘရောက်ဇာတွင် ထည့်သွင်းပါ-"</string>
+    <string maxwidth="" name="httpserver_need_saf">"PC မှ သင့် ပြင်ပသိမ်းဆည်းနေရာကို စီမံလိုပါက သင် ခွင့်ပြုချက် ရရမည်။"</string>
+    <string maxwidth="" name="httpserver_no_network">"သင့်ကိရိယာကို တူသော Wi-Fi ကွန်ယက်သို့ ချိတ်ဆက်ပါ"</string>
+    <string maxwidth="" name="httpserver_no_permission_message">"သင့်လျော်သော ခွင့်ပြုချက် မရပဲ ပြင်ပသိမ်းဆည်းနေရာကို မရေးနိုင်ပါ။ ဆက်လုပ်မလား။"</string>
+    <string maxwidth="" name="httpserver_no_permission_title">"ကြိုးမဲ့ ဖိုင်ရွှေ့ပြောင်းမှု စတင်ပါ"</string>
+    <string maxwidth="" name="httpserver_start">"စတင်ပါ"</string>
+    <string maxwidth="" name="httpserver_stop">"ရပ်တန့်ပါ"</string>
+    <string maxwidth="" name="httpserver_title">"PC သို့ ကြိုးမဲ့ ဖိုင်ရွှေ့ပြောင်းမှု"</string>
+    <string description="Context Menu: options of context menu" maxwidth="-1" name="info">"သတင်းအချက်အလက်"</string>
+    <string description="file info textview context" maxwidth="-1" name="info_aperture">"အလင်းဝင်ပေါက်- "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_datetime">"ရိုက်ယူသည့် ရက်စွဲ- "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_exposure_time">"ထိတွေ့မှုအချိန်- "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_file_num">"ဖိုင်များ- "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_flash">"ဖလက်ရှ်- "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_focal_length">"ဆုံချက်အလျား- "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_image_height">"အမြင့်- "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_image_width">"အကျယ်"</string>
+    <string description="file info textview context" maxwidth="-1" name="info_image_x">" x "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_iso">" ISO - "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_location">"တည်နေရာ- "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_maker">"ပြုလုပ်သူ- "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_model">"မော်ဒယ်- "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_modified">"ပြောင်းလဲထားသော ရက်စွဲ- "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_name">"အမည်- "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_orientation">"အနေအထား- "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_path">"ရင်းမြစ်လမ်းကြောင်း-"</string>
+    <string description="file info textview context" maxwidth="-1" name="info_permission">"ခွင့်ပြုချက်- "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_type">"အမျိုးအစား- "</string>
+    <string description="file info textview context" maxwidth="-1" name="info_white_balance">"အဖြူရောင်မျှတမှု- "</string>
+    <string description="Do not translate ASUS" maxwidth="" name="inspire_asus_description">"ထုတ်ကုန်များနှင့် အသုံးပြုသူအတွေ့အကြုံများ ပိုမိုကောင်းမွန်စေရန် သုံးစွဲသည့်ဒေတာများကို ASUS သို့ စုဆောင်းပါ"</string>
+    <string name="inspire_asus_title">"ASUS လှုံ့ဆော်မှု"</string>
+    <string name="install">"ထည့်သွင်းရန်"</string>
+    <string description="storage label" maxwidth="-1" name="internal_storage_title">"အတွင်း သိမ်းဆည်းနေရာ"</string>
+    <string description="Toast: the account is invalid" maxwidth="-1" name="invalid_account">"မမှန်သော အကောင့်"</string>
+    <string description="Invalid directory path" maxwidth="-1" name="invalid_directory_path">"မမှန်သော ဒါရိုက်ထရီ လမ်းကြောင်း"</string>
+    <string name="invalid_server_id">"မမှန်သော ဆာဗာ အိုင်ဒီ"</string>
+    <string name="invalid_xml">"မမှန်သော xml"</string>
+    <string name="inviteContentTitle">"%1$s သည် ASUS ဖိုင်မန်နေဂျာကို ဒေါင်းလုဒ်လုပ်ရန်နှင့် အင်စတောလုပ်ရန် ဖိတ်ကြားသည်။"</string>
+    <string name="inviteContent_p1">"သင့်စမတ်ဖုန်းဖြင့် ဖိုင်များစီမံခန့်ခွဲရာတွင် ASUS ဖိုင်မန်နေဂျာသည် အတုမရှိသည့် နည်းလမ်းဖြစ်သည်။ ဤဖိုင်စီမံခန့်ခွဲမှု အက်ပ်သည် သင့်ဖုန်းမမ်မိုရီ၊ microSD ကဒ်၊ ဒေသတွင်းဧရိယာကွန်ရက်နှင့် ကလောက်တွင် သိမ်းဆည်းထားသော ဖိုင်အမျိုးမျိုးကို ကွပ်ကဲရန်နှင့် စီရန် ကူညီသည်။"</string>
+    <string name="inviteContent_p2">"ASUS ဖိုင်မန်နေဂျာဖြင့် သင့်ဖိုင်များကို ထိရောက်၍ လွယ်ကူစွာ စီမံခန့်ခွဲပါ။ ASUS ဖိုင်မန်နေဂျာသည် သင့်ဖုန်းမမ်မိုရီ၊ microSD ကဒ်၊ ဒေသတွင်းဧရိယာကွန်ရက်နှင့် ASUS HomeCloud အပါအဝင် Webstorage နှင့်  Dropbox၊ Google Drive သို့မဟုတ် Microsoft OneDrive ကဲ့သို့ အခြား ကလောက်ဝန်ဆောင်မှုများတွင် သိမ်းဆည်းထားသော "သင့်ဖိုင်များအားလုံးကိုကို ကွပ်ကဲရန်ကူညီသည်။"</string>
+    <string name="inviteContent_p3">"ကျွန်ုပ်တွင် ASUS ဖိုင်မန်နေဂျာဖြင့် ပျော်ရွှင်စရာများရှိသည်။ ယခုစမ်းကြည့်ပါ။ :D"</string>
+    <string description="sticker detail page button name" maxwidth="-1" name="invite_friends">"မိတ်ဆွေများကို ဖိတ်ကြားပါ"</string>
+    <string name="item">"ပစ္စည်း"</string>
+    <string name="items">"ပစ္စည်းများ"</string>
+    <string name="keep">"ထိန်းသိမ်းပါ"</string>
+    <string name="kk_sd_permission_warning">"Android ကန့်သတ်ချက်အရ Android ၄.၄ သည် သာ့ဒ်ပါတီ ပရိုဂရမ်များအား ပြင်ပ SD ကဒ်များကို ပြုပြင်မွမ်းမံခွင့်မပြုပါ။"</string>
+    <string name="large_files_content_hint">"ဖိုင်ကြီးများကိုရှာပြီး သင့်ခွင့်ပြုချက်နှင့်အတူ ၎င်းတို့ကို ဖျက်ပါ။"</string>
+    <string description="linked file is missing" maxwidth="-1" name="linked_file_missing">"ချိတ်ထားသော ဖိုင်ပျောက်နေသည်"</string>
+    <string description="text for progress bar" maxwidth="-1" name="loading">"တင်နေသည်\u2026"</string>
+    <string name="local">နေရာတွင်း</string>
+    <string description="button text for sort file by date" maxwidth="-1" name="location">"တည်နေရာ"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="logging_cloud_storage">"မှတ်တမ်းသိမ်းနေသည်…"</string>
+    <string name="login_account_miss">"Facebook app သည် Android အကောင့်မန်နေဂျာကို မှတ်ပုံတင်ရန် မအောင်မြင်ပါ။ ကျေးဇူးပြု၍ Facebook app မှ လော့ဂ်အောက်လုပ်ပြီးနောက် လော့ဂ်အင်ဝင်ရန် ထပ်မံကြိုးစားပါ။"</string>
+    <string name="login_again_later">"ဆာဗာကို ယခု မရနိုင်ပါ။ ကျေးဇူးပြု၍ နောက်မှ ထပ်မံကြိုးစားပါ။"</string>
+    <string description="dialog title, key in the asus ID and PW to Login account" maxwidth="-1" name="login_asus_id">"ASUS အကောင့်ဆိုင်းအင်"</string>
+    <string description="Toast: login account fail" name="login_fail" width="-1">"လော့ဂ်အင်ဝင်ခြင်း မအောင်မြင်ပါ"</string>
+    <string description="login account name" maxwidth="-1" name="login_id">"အကောင့်အမည်/ဝက်ဘ်သိမ်းဆည်းနေရာ အိုင်ဒီ"</string>
+    <string description="logout account" name="logout_account" width="-1">"လော့အောက်"</string>
+    <string name="low_storage_tutorial_description">"ဖိုင်များကို ရွေးရန် ဖိပြီး နှိပ်ထားပါ၊ ပြီးနောက် ဂူဂယ်လ်ဒရိုက်ဗ်သို့ \"ရွှေ့ရန်\"ကိုရွေးပါ"</string>
+    <string name="low_storage_tutorial_title">" ဖိုင်များကို Google Drive သို့ ရွှေ့ပါ"</string>
+    <string name="m_permission_dialog_message">"[အက်ပ်အချက်အလက်]  > [ခွင့်ပြုချက်များ] ထဲရှိ [ဆက်တင်များ] ကိုနှိပ်ပြီး [%2$s] ကိုဖွင့်ပါ။ ပြီးနောက် %1$s ကိုပိတ်ပြီးပြန်ဖွင့်ပါ။"</string>
+    <string name="m_permission_dialog_positive_button">"ဆက်တင်များ"</string>
+    <string name="m_permission_setting_subtitle_files">"စက်ထဲရှိ သင့်ဖိုင်များကို ဝင်သုံးခွင့်ရရန် %1$s က %2$s ခွင့်ပြုချက်ကို လိုအပ်သည်။"</string>
+    <string name="m_permission_setting_title_cloud_storage">"ကလောက်သိုလှောင်ခန်းကို ရယူသုံးစွဲ၍ မရနိုင်ပါ"</string>
+    <string name="m_permission_setting_title_files">"ဖိုင်များကို ရယူသုံးစွဲ၍ မရပါ"</string>
+    <string name="m_permission_setting_turn_on">"ဖွင့်ပါ"</string>
+    <string description="string indicating how camera shooting feature is used" maxwidth="-1" name="manual">"ကိုယ်တိုင်"</string>
+    <string name="market_app_error">"သင့်ကိရိယာတွင် ထည့်သွင်းထားသော ဈေးကွက် အပလီကေးရှင်း ပရိုဂရမ်တွင် အမှားရှိသည်!"</string>
+    <string description="ask user to enter email address as account name" maxwidth="-1" name="member_id_hint">"အီးမေးလ်လိပ်စာထည့်ပါ"</string>
+    <string description="The title of a menu for General Preferences.Pressing the menu item lets user to view and edit his general settings" maxwidth="30" name="menu_general_preferences">"ယေဘုယျ ဆက်တင်များ"</string>
+    <string description="settings menu tutorial" maxwidth="-1" name="menu_tutorial">"ကျူတိုရီရယ်"</string>
+    <string name="minute">"၁ မိနစ်"</string>
+    <string name="minutes">"<ns1:g id="minutes">%s</ns1:g> "မိနစ်</string>
+    <string description="Hint: move the items" maxwidth="-1" name="move">"ရွှေ့ပါ"</string>
+    <string name="move_or_delete_msg">"ဤအရာများကိုယာယီဖျက်ပြီး အမှိုက်ပုံးထဲသို့ ထည့်မလား?\n(အပြီးသတ်ဖျက်ရန် အောက်ပါအကွက်ကို အမှန်ခြစ်ပါ။)"</string>
+    <string name="move_to">"သို့ ရွှေ့ပါ"</string>
+    <string description="Toast: move to recycle bin fails" maxwidth="-1" name="move_to_hidden_zone_fail">"ဖျောက်ထားသောပုံးထဲသို့ ရွှေ့၍ မရခဲ့ပါ"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="move_to_hidden_zone_progress">"ဖျောက်ထားသောပုံးထဲသို့ ရွှေ့နေသည်..."</string>
+    <string description="Toast: move to recycle bin success" maxwidth="-1" name="move_to_hidden_zone_success_more">"ရွေးထားသည့်ဖိုင်များကို ဖျောက်ထားသောပုံးထဲသို့ ရွှေ့ပြီးပါပြီ။"</string>
+    <string description="Toast: move to recycle bin success. %s is variable string." maxwidth="-1" name="move_to_hidden_zone_success_one">"\"%s\" ကို ဖျောက်ထားသောပုံးထဲ ရွှေ့ပြီးပါပြီ။"</string>
+    <string description="Toast: move to recycle bin fails" maxwidth="-1" name="move_to_trash_fail">"အမှိုက်ပုံးထဲ ထည့်ခြင်းမအောင်မြင်ပါ"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="move_to_trash_progress">"အမှိုက်ပုံးထဲသို့ ရွှေ့နေသည်..."</string>
+    <string description="Toast: move to recycle bin success" maxwidth="-1" name="move_to_trash_success_more">"ရွေးထားသည့်ဖိုင်များကို အမှိုက်ပုံးထဲသို့ ရွှေ့ပြီးပါပြီ"</string>
+    <string description="Toast: move to recycle bin success. %s is variable string." maxwidth="-1" name="move_to_trash_success_one">"\"%s\" ကိုအမှိုက်ပုံးထဲသို့ ရွှေ့ပြီးပါပြီ"</string>
+    <string name="msg_too_big_to_recycle">"အမှိုက်ပုံးထဲထည့်ရန် ကြီးလွန်းနေသည်။\nအပြီးသတ်ဖျက်ပစ်လိုပါသလား?"</string>
+    <string name="multi_drm_file_forbidden_operation">"အချို့ ရွေးထားသောဖိုင်များကို DRM ကာကွယ်ထားခြင်းကြောင့် ၎င်းကို တားမြစ်ထားသည်။"</string>
+    <string description="shortcut label" maxwidth="-1" name="my_camera_title">"ကင်မရာ"</string>
+    <string description="shortcut label" maxwidth="-1" name="my_download_title">"ဒေါင်းလုဒ်"</string>
+    <string description="shortcut label" maxwidth="-1" name="my_music_title">"တေးဂီတ"</string>
+    <string description="shortcut label" maxwidth="-1" name="my_picture_title">"ရုပ်ပုံ"</string>
+    <string description="storage label" maxwidth="-1" name="my_storage_title">"ကျွန်ုပ်၏ သိမ်းဆည်းနေရာ"</string>
+    <string description="button text for sort file by name" maxwidth="-1" name="name">"အမည်"</string>
+    <string description="button text for sort file by name ascending" maxwidth="-1" name="name_ascending">"အမည် (z-a)"</string>
+    <string description="button text for sort file by name descending" maxwidth="-1" name="name_descending">"အမည် (a-z) "</string>
+    <string name="network_cta_hint">"ကျေးဇူးပြု၍ ကွန်ရက်ကို ချိတ်ဆက်ရန် လက်ခံပါ "</string>
+    <string name="network_invalid">"မမှန်သော ကွန်ယက် ချိတ်ဆက်မှု"</string>
+    <string name="network_invalid_info">"ချိတ်ဆက်မှု မမှန်ပါ။ ကျေးဇူးပြု၍ ၎င်းကို ထပ်စစ်ဆေးပါ။"</string>
+    <string name="network_not_available">"ကွန်ရက်ချိတ်ဆက်မှု မအောင်မြင်ပါ"</string>
+    <string description="Can’t connect to networkpalce" maxwidth="-1" name="networkplace_access_error">"ချိတ်ဆက်မှု မအောင်မြင်ပါ။ ကျေးဇူးပြု၍ ဆာဗာ အွန်လိုင်းဖြစ်နေကြောင်း သေချာပါစေ။"</string>
+    <string name="networkplace_storage_title">"ကွန်ရက်နေရာ"</string>
+    <string description="Dialog Title: create new folder" maxwidth="" name="new_folder_dialog">"ဖိုဒါအသစ် ဖန်တီးပါ"</string>
+    <string description="Toast: new folder fails" maxwidth="-1" name="new_folder_fail">"ဖိုဒါအသစ် ဖန်တီးခြင်း မအောင်မြင်ပါ။"</string>
+    <string description="Toast: new folder success. %s is variable string." maxwidth="-1" name="new_folder_success">"ဖိုဒါ \"%s\" ကို ဖန်တီးပြီးပြီ။"</string>
+    <string maxwidth="" name="news_1"><b>စိတ်ကြိုက် ဟုမ်းပန်နယ်</b>-ယခု သင့်ဟုမ်းပန်နယ်ကို အမျိုးအစား အမျိုးမျိုးနှင့် အစီအစဉ် အမျိုးမျိုးဖြင့် စိတ်ကြိုက်ပြုလုပ်နိုင်ပြီ။</string>
+    <string maxwidth="" name="news_2"><b>နှစ်သက်မှုများ ရွေးချယ်မှု</b>-နှစ်သက်သော အမျိုးအစားမှ နှစ်သက်သော ဖိုဒါကို တိုက်ရိုက်ထည့်သည်</string>
+    <string maxwidth="" name="news_3"><b>ဖိုင်မန်နေဂျာ ဝစ်ဂျက်</b>- လန်ချာမှ ရှော့ကတ်ဖြင့် ဖိုဒါတစ်ခု ဖန်တီးသည်</string>
+    <string maxwidth="" name="news_mark1">"★  "</string>
+    <string maxwidth="" name="news_subtitle">"အကြီးမားဆုံးသော မွမ်းမံမှုများက ဒီမှာနော်၊ လက်မလွတ်ပါစေနဲ့"</string>
+    <string maxwidth="" name="news_title">"အသစ်ဘာတွေရှိလဲ"</string>
+    <string maxwidth="" name="news_v21"><b>PC သို့/မှ ကြိုးမဲ့ ဖိုင်ရွှေ့ပြောင်းမှု</b> - ဖိုင်များကို PC သို့/မှ ရွှေ့ပြောင်းပါ/စီမံခန့်ခွဲပါ</string>
+    <string maxwidth="" name="news_v23">"စွမ်းဆောင်ရည် တိုးတက်မှုနှင့် အမှားဖယ်ရှားမှုများ"</string>
+    <string maxwidth="" name="news_v31">"သိုလှောင်နေရာ အကဲဖြတ်ဆန်းစစ်အက်ပ်က သိုလှောင်ခန်းနေရာလွတ်အားလုံးကို ရယူထားသော ဖိုင်အမျိုးအစားများကို သင့်အား သိစေပါသည်"</string>
+    <string maxwidth="" name="news_v32">"ပိုကောင်းအောင်-အသစ်လုပ်ထားသော အက်ပ် အမျိုးအစား"</string>
+    <string name="news_v41">"သင့်သီးသန့်ဖိုင်များကို ဖျောက်သည့်ပုံးထဲတွင် ဖျောက်ပါ"</string>
+    <string name="news_v42">"ဖျက်ထားသည့်ဖိုင်များကို အမှိုက်ပုံးထဲမှ ပြန်ရယူပါ"</string>
+    <string name="news_v43">"နှစ်ခုထပ်နေသည့်ဖိုင်များကို သိုလှောင်ခန်းအကဲဖြတ်ဆန်းစစ်သူထဲမှ ဖယ်ရှားပါ"</string>
+    <string name="news_v44">"ပြသမှု အင်္ဂါရပ်အသစ်- အမှောင် မုဒ်"</string>
+    <string name="news_v45">"စွမ်းဆောင်ရည်ကို တိုးမြှင့်ထားသည်"</string>
+    <string name="news_v46">"ချွတ်ယွင်းမှုများကို ပြင်ဆင်ထားသည်"</string>
+    <string name="newversion_description">"ဖိုင်မန်နေဂျာ နောက်ဆုံးထုတ် ဗားရှင်းရပြီ။ ယခု မွမ်းမံလိုသလား?"</string>
+    <string name="newversion_title">"ဗားရှင်းအသစ်"</string>
+    <string name="next">"ရှေ့သို့"</string>
+    <string description="Dialog Button: no for dialog" maxwidth="" name="no">"မလုပ်ပါ"</string>
+    <string name="no_device">"ကိရိယာ မရှိ"</string>
+    <string name="no_items">"ပစ္စည်းများမရှိ"</string>
+    <string name="no_network">"ကွန်ယက် ချိတ်ဆက်မှု မရှိ"</string>
+    <string description="The description to inform users when there is no internet access" maxwidth="-1" name="no_network_connection_message">"ကျေးဇူးပြု၍ သင့်ချိတ်ဆက်မှုကို စစ်ဆေးပြီး ထပ်ကြိုးစားပါ"</string>
+    <string name="no_network_info">"ဤအက်ပလီကေးရှင်းကို အသုံးပြုရန် အင်တာနက်ချိတ်ဆက်မှု လိုအပ်သည်။ ကျေးဇူးပြု၍ ဆက်တင်များတွင် မိုဘိုင်းကွန်ယက် သို့မဟုတ် WiFi ကို ဖွင့်ပါ။"</string>
+    <string name="no_password">"ကျေးဇူးပြု၍ သင့်စကားဝှက်ကို ထည့်ပါ"</string>
+    <string name="no_right">"သင့်အကောင့်တွင် လော့ဂ်အင်ဝင်ခွင့် မရှိပါ။"</string>
+    <string name="no_share_folder">"ဤကိရိယာတွင် ဝေမျှထားသောဖိုင် မရှိ"</string>
+    <string description="Toast: No space to copy file and left on device" maxwidth="-1" name="no_space_fail">"မလုံလောက်သော သိမ်းဆည်းနေရာ"</string>
+    <string name="no_user_exist">"အသုံးပြုသူအမည် မရှိနေပါ"</string>
+    <string name="no_username">"သင့်အသုံးပြုသူအမည်ကို ဦးစွာ ထည့်ပါ။"</string>
+    <string name="notification_gdrive_redeem_content">"Google Drive မှ ၎င်းကို ယခုရယူပါ။"</string>
+    <string name="notification_gdrive_redeem_title">"အခမဲ့ 100GB သိုလှောင်နေရာ!"</string>
+    <string name="occur_error_do_relogin">"%s သို့ လော့အင်ထပ်ဝင်ပါ"</string>
+    <string description="Dialog Button: ok for dialog" maxwidth="" name="ok">"အိုကေ"</string>
+    <string name="onedrive_account_only_one_alert">"ASUS အကောင့်အတွက် OneDrive တစ်ခုတည်းကိုသာ ထည့်ရန် ခွင့်ပြုသည်။ အသစ်တစ်ခုနှင့် အစားမထိုးမီ သင့်လက်ရှိအကောင့်ကို ဖျက်ရမည်။"</string>
+    <string name="open">"ဖွင့်"</string>
+    <string description="Toast: open file fails" maxwidth="-1" name="open_fail">"ဖိုင်ဖွင့်ခြင်း မအောင်မြင်ပါ။"</string>
+    <string maxwidth="" name="open_source_license_description">အိုးပင်းဆို့စ်ဆော့ဖ်ဝဲအတွက် လိုင်စင်သတိပေးချက်များ</string>
+    <string maxwidth="" name="open_source_license_title">အိုးပင်းဆို့စ် လိုင်စင်များ</string>
+    <string name="othersforum_site_url">http://www.asus.com/my/Terms_of_Use_Notice_Privacy_Policy/OthersForum_Site/</string>
+    <string name="password">"စကားဝှက်"</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="paste">"ကပ်ပါ"</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="paste_exist_apply">"အားလုံးသို့ အသုံးချပါ"</string>
+    <string description="Dialog Title: paste exist dialog title" maxwidth="" name="paste_exist_dialog">"ဖိုင်အမည်တူ"</string>
+    <string description="Dialog Content: text in dialog. %s is variable string." maxwidth="" name="paste_exist_file">"ဖိုင် \"%s\" သည် ရှိနှင့်ပြီးဖြစ်သည်။"</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="paste_exist_replace">"အသစ်တစ်ခုနှင့် အစားထိုးလိုပါသလာ?"</string>
+    <string description="Dialog Content: text in dialog" maxwidth="" name="paste_exist_to">"သို့"</string>
+    <string description="Toast: paste fails" maxwidth="-1" name="paste_fail">"ဖိုင်များကပ်ခြင်း မအောင်မြင်ပါ။"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="paste_progress">"ကပ်နေသည်…"</string>
+    <string name="paste_progress_title">"အခြားကူးယူခြင်းလုပ်ငန်းကို ပြုလုပ်နေသည်… "</string>
+    <string description="Toast: paste success. %s is variable string." maxwidth="-1" name="paste_success">"ဖိုင်များကို \"%s\" ထဲသို့ ထပ်ထည့်ပြီးပြီ။"</string>
+    <string name="permanently_delete">"အပြီးသတ် ဖျက်ပါ"</string>
+    <string description="Toast: operation permission deny" maxwidth="-1" name="permission_deny">"ခွင့်ပြုချက် ငြင်းဆိုထားသည်။"</string>
+    <string name="permission_dialog_title">"ပရိုဂရမ် ခွင့်ပြုချက်"</string>
+    <string name="permission_essential">"ခွင့်ပြုချက်များ လိုအပ်သည်။ ဆက်တင်များသို့သွား၍ ခွင့်ပြုချက်များကို ဖွင့်ပါ!"</string>
+    <string name="permission_reason_contact">"ကလောက်သိုလှောင်မှုသို့ လော့ဂ်အင်ဝင်ရန် ဖိုင်မန်နေဂျာသည် သင့်အကောင့်အချက်အလက်များကို ရယူသုံးစွဲခွင့်လိုအပ်သည်"</string>
+    <string name="permission_reason_storage">"ပုံမှန်လုပ်ဆောင်ရန် ဖိုင်မန်နေဂျာသည် သင့်ကိရိယာ၏ သိုလှောင်နေရာသို့ ရယူသုံးစွဲခွင့်လိုအပ်သည်"</string>
+    <string description="Toast: You may not select more than %s photos." maxwidth="-1" name="photo_selection_limit_number_toast">"%s ဓာတ်ပုံများ၏ အများဆုံးကို ရွေးပါ"</string>
+    <string description="This is the title of the screen for setting user preferences." maxwidth="-1" name="preferences_title">"ဆက်တင်များ"</string>
+    <string name="previous_folder">"ယခင် ဖိုဒါ"</string>
+    <string maxwidth="" name="privacy_policy">"အောစု သီးသန့် မူဝါဒ"</string>
+    <string name="privacy_policy_url">http://www.asus.com/us/Terms_of_Use_Notice_Privacy_Policy/Privacy_Policy/</string>
+    <string name="processing_picture">"ပုံကို လုပ်ဆောင်နေသည်"</string>
+    <string name="processing_video">"ဗီဒီယိုကို လုပ်ဆောင်နေသည်"</string>
+    <string name="progressactivity_title">ထုတ်လွှင့်မှုမန်နေဂျာ</string>
+    <string name="promote_darkmode_message">"%s ထဲတွင် သင်၏ ဦးစားပေးမှုကို ပြောင်းလဲပါ"</string>
+    <string name="promote_darkmode_title">"ပြသမှု အင်္ဂါရပ်အသစ်- အမှောင် မုဒ်"</string>
+    <string name="promotion_notification_content">"\"ကြိုးမဲ့ ဖိုင်ရွှေ့ပြောင်းမှု\"ကို သုံးကြည့်ရမည်။"</string>
+    <string name="promotion_notification_title">"ဖိုင်များ ရွှေ့ပြောင်းရန် USB ကြိုးကို ဆက်သုံးမလား။"</string>
+    <string name="publish">"အများသိစေရန်ဖော်ပြပါ"</string>
+    <string name="pullfreshlistview_footer_hint_normal">"နောက်ထပ် ထပ်တင်ပါ"</string>
+    <string name="pullfreshlistview_footer_hint_ready">"နောက်ထပ် ထပ်တင်ရန် လွှတ်ပါ"</string>
+    <string name="pullfreshlistview_header_hint_loading">"ဖရက်ရှ် ပြန်လုပ်နေသည်…"</string>
+    <string name="pullfreshlistview_header_hint_normal">"အောက်သို့ ဆွဲချပါ"</string>
+    <string name="pullfreshlistview_header_hint_ready">"ဖရက်ရှ် ပြန်လုပ်ရန် လွှတ်ပါ"</string>
+    <string name="pullfreshlistview_header_last_time">နောက်ဆုံး ဖရက်ရှ် ပြန်လုပ်သည့်အချိန်-</string>
+    <string name="rate_later">"နောက်မှ"</string>
+    <string name="rate_now">"ယခု အမှတ်ပေးပါ"</string>
+    <string description="rate us" maxwidth="-1" name="rate_us">"ကျွန်ုပ်တို့ကို အမှတ်ပေးပါ"</string>
+    <string name="rating_dialog_message_v3_1">"%s သုံးပြီး ချစ်ခင်နှစ်သက်မလား? ကျွန်ုပ်တို့ စိတ်ဓာတ် ဆက်လက်တက်ကြွစေရန် Google ပလေးတွင် ကျွန်ုပ်တို့အား နှုန်းသတ်မှတ်ပေးပါ!"</string>
+    <string name="rating_dialog_message_v3_2">"အကြံပြုချက်များနှင့် တုန့်ပြန်ချက်များအတွက် ကျွန်ုပ်တို့ထံ %s ဖြင့် စာရေးသားပါ။"</string>
+    <string name="recent_files_content_hint">"လတ်တလောသုံးထားသည့်ဖိုင်များကို ရှာပြီး သင့်ခွင့်ပြုချက်နှင့်အတူ ၎င်းတို့ကို ဖျက်ပါ။"</string>
+    <string description="shortcut title: recently used files" name="recently_used" width="-1">"လတ်တလော"</string>
+    <string name="recommend_clean_master_msg">"ကမ္ဘာ့စိတ်အချရဆုံး Android အကောင်းဆုံးပြုလုပ်သည့်အရာ၊ မြန်နှုန်းတိုးမြှင့်သည့်အရာ၊ ဘက်ထရီ ချွေတာသည့်အရာနှင့် အခမဲ့ ဗိုင်းရပ်ကာကွယ်သည့် ဆော့ဖ်ဝဲ။ \nယခု ဒေါင်းလုဒ်လုပ်မလား။"</string>
+    <string name="recommend_clean_master_title">"ပရိုဂရမ် အကြံပြုချက်"</string>
+    <string name="recommend_scan_qr_code">"သင့်မိတ်ဆွေများအား ဤ QR ကုဒ်ကို ရှာဖွေခြင်းဖြင့် ဤပရိုဂရမ်ကို \nဒေါင်းလုဒ်လုပ်ရန် ပြောပါ"</string>
+    <string description="recruit beta user" maxwidth="-1" name="recruit_beta_user">"နမူနာ ဗားရှင်းအား ရယူလိုက်ပါ"</string>
+    <string name="recycle_bin_content_hint">"ဖျက်ထားသည့် ဖိုင်များနှင့် ဖိုင်တွဲအားလုံး ပါဝင်သည်။"</string>
+    <string description="dialog title, key in the asus ID and PW to Login account" maxwidth="-1" name="regist_asus_id">"ASUS အကောင့် ဖန်တီးခြင်း"</string>
+    <string description="ask user to enter email address to registe New Account" name="registe_id">အကောင့် အမည်</string>
+    <string description="ask user to enter new password" name="registe_password">အက္ခရာ ၈ - ၂၅ လုံး ထည့်ပါ</string>
+    <string description="sign up registe action" name="registe_sign_up">ဆိုင်းအပ် လုပ်ပါ</string>
+    <string description="network is unavailable, please try again" maxwidth="-1" name="remote_connected_error_hint">"ကွန်ရက် မရနိုင်ပါ၊ ကျေးဇူးပြု၍ ထပ်မံ ကြိုးစားပါ။"</string>
+    <string description="remote storage label" maxwidth="-1" name="remote_storage_title">"အဝေး သိမ်းဆည်းနေရာ"</string>
+    <string name="remove_favorite">"အနှစ်သက်ဆုံးမှ ဖယ်ရှားပါ"</string>
+    <string name="remove_favorite_notice_more">" အနှစ်သက်ဆုံးဖိုဒါမှ အရာ %d ခုကို ဖယ်ရှားလိုသည်မှာ သေချာပါသလာ?"</string>
+    <string name="remove_favorite_notice_one">"အနှစ်သက်ဆုံးဖိုဒါမှ \"%s\" ကို ဖယ်ရှားလိုသည်မှာ သေချာပါသလာ?"</string>
+    <string name="remove_favorite_success">"အောင်မြင်စွာ ဖယ်ရှားပါ"</string>
+    <string description="Context Menu: options of context menu" maxwidth="" name="rename">"အမည်ပြောင်းပါ"</string>
+    <string description="Dialog Title: rename dialog title" maxwidth="" name="rename_dialog">"အမည်ပြောင်းပါ"</string>
+    <string description="Toast: rename fails" maxwidth="-1" name="rename_fail">"ဖိုင်အမည်ပြောင်းခြင်း မအောင်မြင်ပါ။"</string>
+    <string name="rename_favorite_folder">" အနှစ်သက်ဆုံးဖိုဒါကို အမည်ပြောင်းပါ"</string>
+    <string name="rename_favorite_notice">"အနှစ်သက်ဆုံးဖိုဒါတွင် အမည်တူဖိုဒါတစ်ခုရှိပြီးဖြစ်သည်၊ အမည်ပြောင်းလိုပါသလာ?"</string>
+    <string name="rename_favorite_success">"အောင်မြင်စွာ အမည်ပြောင်ပြီး အနှစ်သက်ဆုံးသို့ သိမ်းပါ"</string>
+    <string description="Toast: rename success" maxwidth="-1" name="rename_success">"ဖိုင် အမည်ပြောင်းခြင်း အောင်မြင်သည်။"</string>
+    <string description="renaming file" name="renaming_file" width="-1">"အမည်ပြောင်းနေသည်"</string>
+    <string name="replace">"အစားထိုးပါ"</string>
+    <string description="Toast: restore fails" maxwidth="-1" name="restore_fail">"ပြန်ထားခြင်း မအောင်မြင်ပါ"</string>
+    <string description="Progress Content: text in progress dialog" maxwidth="" name="restore_progress">"ပြန်ထားနေသည်..."</string>
+    <string description="Toast: restore success" maxwidth="-1" name="restore_success_more">"ရွေးထားသည့်ဖိုင်များကို ပြန်ထားပြီးပါပြီ"</string>
+    <string description="Toast: restore success. %s is variable string." maxwidth="-1" name="restore_success_one">"\"%s\" ကိုပြန်ထားပြီးပါပြီ"</string>
+    <string name="retention_notification_large_file">"ဖိုင်ကြီး %1$s ဖိုင်ကို ထည့်ထားပါသည်။ ၎င်းတို့ကို ယခုပဲ ကြည့်လိုက်ပါ။"</string>
+    <string name="retention_notification_recent_file">"သင့်လတ်တလော ဖိုင်များသည် %1$s နေရာကို သုံးစွဲထားသည်။ ၎င်းတို့ကို ယခု ကြည့်ပါ။"</string>
+    <string name="saf_permission_tutorial_content">"SD ကတ်ဝင်သုံးပိုင်ခွင့်များပေးရန် အောက်ပါ အဆင့်များအတိုင်း လုပ်ဆောင်ပါ။"</string>
+    <string name="saf_permission_tutorial_content_v2">"%s ဝင်သုံးခွင့်များကို ခွင့်ပြုရန် အဆင့်အချို့ကို လုပ်ဆောင်ရမည်။"</string>
+    <string name="saf_permission_tutorial_dialog">"SD ကဒ် အသုံးပြုခွင့်များပေးရန် အစီအစဉ်တစ်ခုကို လုပ်ဆောင်ရမည်။ ဆက်လုပ်လိုပါသလား?"</string>
+    <string name="saf_permission_tutorial_title">"SD ကဒ်ကို စီမံဆောင်ရွက်ရန် အသုံးပြုမှု တောင်းဆိုပါ"</string>
+    <string name="saf_tutorial_step_one">"မီနူးအိုင်ကွန်ကို အသာပုတ်ပြီးနောက် SD ကဒ် ပြပါ ကို နှိပ်ပါ။"</string>
+    <string name="saf_tutorial_step_three">"ASUS ဖိုင်မန်နေဂျာကို အသုံးပြုခွင့်ပြုရန် SD ကဒ် ရွေးပါကို နှိပ်ပါ။"</string>
+    <string name="saf_tutorial_step_three_v2">"ASUS ဖိုင်မန်နေဂျာကို ဝင်သုံးခွင့်ပေးရန် %s ကိုရွေးပါ ကိုနှိပ်ပါ။"</string>
+    <string name="saf_tutorial_step_two">"ဆွဲသည့်အရာကို ဖော်ပြရန် စခရင်ဘယ်ဖက်အနားစွန်းကို ပွတ်ပြီးနောက် SD ကဒ်ကို နှိပ်ပါ။"</string>
+    <string name="saf_tutorial_step_two_v2">"အံဆွဲကိုပြရန် စခရင်၏ ဘယ်ဘက်အခြမ်းမှ ပွတ်ဆွဲပါ၊ ပြီးနောက် %s ကိုနှိပ်ပါ။"</string>
+    <string name="saf_tutorial_title">"SD ကဒ်ကို လုပ်ဆောင်ရန် ခွင့်ပြုချက်"</string>
+    <string name="saf_tutorial_title_v2">"%s ကိုဖွင့်ရန် ခွင့်ပြုချက်"</string>
+    <string description="account config dialog remind message" maxwidth="-1" name="samba_client_config_check">"အသုံးပြုသူအမည်နှင့် စကားဝှက်ကို မှတ်ထားပါ၊ နောက်တစ်ကြိမ်တွင် တိုက်ရိုက်ချိတ်ဆက်ပါ။"</string>
+    <string name="samba_input_error">"အသုံးပြုသူအမည် သို့မဟုတ် စကားဝှက်ကို အလွတ် မထားနိုင်ပါ။"</string>
+    <string name="samba_login_error">"သင်ထည့်သည့် အသုံးပြုသူအမည် သို့မဟုတ် စကားဝှက် မမှန်ပါ။"</string>
+    <string name="samba_storage_add_title">"ကွန်ရက်နေရာ"</string>
+    <string name="samba_storage_title">"SAMBA"</string>
+    <string name="scan_qr_code">"QR ကုဒ်ကို ရှာဖွေပါ"</string>
+    <string description="rate now" maxwidth="" name="scroll_up_toast">"အဆင့်သတ်မှတ်ချက်အထိ စခရိုးကို အပေါ်သို့ဆွဲပါ"</string>
+    <string name="sd_label">"ASUS အတွက် OneDrive"</string>
+    <string name="search_action">"ရှာဖွေပါ"</string>
+    <string description="search hint message" maxwidth="-1" name="search_hint">"ဖိုင်အမည် ထည့်ပါ"</string>
+    <string description="cutstom action bar view title for search" maxwidth="-1" name="search_label">"ဖိုင်များကို ရှာဖွေပါ"</string>
+    <string description="search dialog message" maxwidth="-1" name="search_progress">"ရှာဖွေနေသည်…"</string>
+    <string description=" text for search result" formatted="false" maxwidth="-1" name="search_result_title">"%s တွင် %s ကို ရှာနေသည်- "</string>
+    <string name="select_album">"အယ်လ်ဘမ်ကို ရွေးပါ"</string>
+    <string description="Menu Option: select all checkbox" maxwidth="" name="select_all">"အားလုံးကို ရွေးပါ"</string>
+    <string description="Title: select the folder" maxwidth="-1" name="select_folder">"ဖိုဒါ ရွေးပါ"</string>
+    <string name="select_folder_by_ok_button">"ဤဖိုဒါကို ရွေးရန် %1$s ကို နှိပ်ပါ"</string>
+    <string name="select_photo">"ဓာတ်ပုံကို ရွေးပါ"</string>
+    <string name="server">"ဆာဗာ-"</string>
+    <string name="server_error">"ဆာဗာအမှား"</string>
+    <string name="server_hint">"172.0.0.1/ShareFolder"</string>
+    <string name="server_title">"ဆာဗာ"</string>
+    <string maxwidth="-1" name="service_not_available_in_your_country">"ဤအရာကို သင့်နိုင်ငံတွင် မရရှိနိုင်ပါ။"</string>
+    <string name="set_password_title">"PIN ကုဒ် ဖန်တီးပါ"</string>
+    <string name="set_ring">"ဖုန်းမြည်သံအဖြစ် သတ်မှတ်မည်"</string>
+    <string name="setting_display_group">"ပြသချက်"</string>
+    <string name="setting_notification_group">"အသိပေးချက်"</string>
+    <string name="setting_notification_large_files">"ဖိုင်ကြီးကြောင်း အသိပေးချက်"</string>
+    <string name="setting_notification_recent_files">"လတ်တလောသုံး ဖိုင်များ အသိပေးချက်"</string>
+    <string name="setting_notification_wireless_transfer">"ကြိုးမဲ့ လွှဲပြောင်းမှု အသိပေးချက်"</string>
+    <string name="setting_view_group">"ဆက်တင်ကိုကြည့်ရန်"</string>
+    <string name="setting_view_hide_files">"စနစ်ဖိုင်များကို ဖျောက်ရန်"</string>
+    <string name="settings">"ဆက်တင်များ"</string>
+    <string description="This is the title of cache size" maxwidth="-1" name="settings_cache_size_title">"ကက်ရှ် အရွယ်အစား"</string>
+    <string description="Remove all cache documents" maxwidth="-1" name="settings_clear_cache_info">"ကက်ရှ်စာရွက်စာတမ်းများအားလုံးကို ဖယ်ရှားပါ"</string>
+    <string description="Clear the cache" maxwidth="-1" name="settings_clear_cache_title">"ကက်ရှ်ကို ရှင်းလင်းပါ"</string>
+    <string description="This is the title of clearing search history action for setting user preferences." maxwidth="-1" name="settings_clear_search_history">"ရှာဖွေမှု မှတ်တမ်းကို ရှင်းလင်းပါ"</string>
+    <string name="settings_darkmode_message">"အမှောင် မုဒ်ကို အသုံးပြုပါ"</string>
+    <string name="settings_description">"စက်တွင်း ဖိုင်တွဲများနှင့် ဖိုင်များ"</string>
+    <string description="This is the title of documents cache" maxwidth="-1" name="settings_documents_cache">"စာရွက်စာတမ်းများ ယာယီမှတ်သားမှု"</string>
+    <string description="recommend text" maxwidth="" name="settings_encourage_us_detail">"%s အသုံးပြုခြင်း ကျေနပ်နှစ်သက်ပါက ကျေးဇူးပြု၍ ကျွန်ုပ်တို့အား Play Store ကြယ် ၅ ပွင့် အမှတ်ပေးပါ။ ၎င်းသည် ထုတ်ကုန် ပိုမိုကောင်းမွန်နေစေရန် ကျွန်ုပ်တို့အတွက် ကြီးမားသော အားပေးမှုတစ်ခု ဖြစ်လိမ့်မည်။"</string>
+    <string description="This is the title of hiding system files action for setting user preferences." maxwidth="-1" name="settings_hide_system_files">"စနစ်ဖိုင်များကို ဝှက်ပါ"</string>
+    <string description="This is the title of moving to the trash can." maxwidth="-1" name="settings_moved_to_the_trash_can">"အမိုက်ပုံးသို့ ရွှေ့ပြီး"</string>
+    <string description="Remove account" maxwidth="-1" name="settings_remove_account">"အကောင့်ကို ဖယ်ရှားပါ"</string>
+    <string description="Set the cache size to %s" maxwidth="-1" name="settings_set_cache_size">"ကက်ရှ် အရွယ်အစားကို \"%s\" သို့ သတ်မှတ်ထားသည်။"</string>
+    <string description="This is the title of space used for setting user preferences." maxwidth="-1" name="settings_space_used">"အသုံးပြုပြီး နေရာ"</string>
+    <string description="This is the title of trash can information for setting user preferences." maxwidth="-1" name="settings_trash_can">"အမိုက်ပုံး"</string>
+    <string description="This is the title of user name" maxwidth="-1" name="settings_user_name">"အသုံးပြုသူအမည်"</string>
+    <string name="setup">"သတ်မှတ်ပါ"</string>
+    <string name="setup_account_description">"သင့် PIN-ကုဒ်ကို ပြန်ဖော်ထုတ်ရန် အီးမေးလ်အကောင့်တစ်ခု သတ်မှတ်ပါ"</string>
+    <string name="setup_account_no_internet_connection">"အင်တာနက်ချိတ်ဆက်မှု မရှိပါ"</string>
+    <string name="setup_account_skip">"ကျော်ပါ"</string>
+    <string name="setup_account_title">"PIN ကုဒ်ကို ပြန်ဖော်ထုတ်ပါ"</string>
+    <string name="setup_fingerprint_message">"သော့ဖွင့်ရန် လက်ဗွေကို ဖွင့်မလား? ဖျောက်ထားသောပုံးက လက်ဗွေဖြင့် စစ်ဆေးအတည်ပြုခြင်းကို ပံ့ပိုးပေးသည်။ စတင်လုပ်ဆောင်ရန် ဆက်တင်များထဲတွင် သင့်လက်ဗွေကို စကန်ဖတ်ပါ။"</string>
+    <string name="setup_my_digital_code">"PIN ကုဒ် သတ်မှတ်ပါ"</string>
+    <string name="share_more">"အခြား"</string>
+    <string name="share_with_friend">"ဤပရိုဂရမ်ကို သင့်မိတ်ဆွေများနှင့် မျှဝေပါ"</string>
+    <string description="Context Menu: options of context menu: share folder via Wi-Fi Direct" maxwidth="" name="shared_folder">"Wi-Fi တိုက်ရိုက်မှတဆင့် ဝေမျှပါ"</string>
+    <string description="shortcit title" maxwidth="-1" name="short_cuts_title">"အတိုကောက်"</string>
+    <string name="shortcut_hint">"လောင်ချာတွင် ရှော့ကတ်တစ်ခု ဖန်တီးရန် အမျိုးအစား သို့မဟုတ် ဖိုဒါကို ဖိကိုင်ထားပါ။"</string>
+    <string description="check if user want to show password" name="show_passwd">စကားဝှက်ကို ပြပါ</string>
+    <string description="show when sign in failed" maxwidth="-1" name="signin_failed">"ဆိုင်းအင် မအောင်မြင်ပါ"</string>
+    <string description="signout account" name="signout_account" width="-1">"ဆက်သွယ်ဖြတ်ပါ"</string>
+    <string name="single_drm_file_forbidden_operation">"ဤလုပ်ဆောင်ချက်ကို DRM ကာကွယ်ထားခြင်းကြောင့် ၎င်းကို တားမြစ်ထားသည်။"</string>
+    <string description="button text for sort file by size" maxwidth="-1" name="size">"အရွယ်အစား"</string>
+    <string description="button text for sort file by size ascending" maxwidth="-1" name="size_ascending">"အရွယ်အစား (ကြီး-သေး)"</string>
+    <string description="button text for sort file by size descending" maxwidth="-1" name="size_descending">"အရွယ်အစား (သေး- ကြီး)"</string>
+    <string name="ssl_err_msg_info">"ဆာဗာသို့ လုံခြုံသော ချိတ်ဆက်မှုတစ်ခု မပြုလုပ်နိုင်ပါ။ ဆက်လက်လုပ်ဆောင်လိုပါသလား?"</string>
+    <string name="ssl_err_msg_title">"SSL ချိတ်ဆက်မှု အမှား"</string>
+    <string description="shortcut title: my favorite files" name="starred" width="-1">"ကြယ်ပြထားသော"</string>
+    <string name="storage_type_cloud">"ကလောက်ဒ် သိမ်းဆည်းနေရာ"</string>
+    <string name="storage_type_cloud_att">"ကွန်ရက်သိုလှောင်နေရာ"</string>
+    <string name="storage_type_local">"ကိရိယာအတွင်း သိမ်းဆည်းနေရာ"</string>
+    <string name="storage_type_shortcut">"အတိုကောက်"</string>
+    <string name="storagetype_add_account">"Google အကောင့် ထပ်ထည့်ပါ"</string>
+    <string name="tap_to_exit">"ထွက်ရန် ထပ်မံ နှိပ်ပါ"</string>
+    <string name="target_directory_is_child_of_source">"ရည်ညွှန်းရာ ဒါရိုက်ထရီသည် ရင်းမြစ်ဒါရိုက်ထရီ၏အခွဲဖြစ်သောကြောင့် လုပ်ဆောင်ချက် မပြီးစီးနိုင်ပါ။"</string>
+    <string description="Toast: target file exists" maxwidth="-1" name="target_exist">"ရည်ညွှန်းရာဖိုင် ရှိပြီးဖြစ်သည်။"</string>
+    <string description="Toast: target folder exists. %s is variable string." maxwidth="-1" name="target_folder_exist">"ဖိုဒါ \"%s\" ရှိနှင့်ပြီးဖြစ်သည်။"</string>
+    <string description="" maxwidth="" name="tell_friend">"မိတ်ဆွေတစ်ဦးကို ပြောပါ"</string>
+    <string maxwidth="" name="terms_of_service">"အသုံးပြုမှု စည်းကမ်းသတ်မှတ်ချက်များ သတိပေးချက်"</string>
+    <string maxwidth="" name="terms_of_service_url">http://www.asus.com/us/Terms_of_Use_Notice_Privacy_Policy/Official-Site/</string>
+    <string description="title" maxwidth="-1" name="title">"တရားဝင် သတင်းအချက်အလက်-"</string>
+    <string name="toast_auto_lock_notify_message">"စက်ကို သော့ခတ်ထားသည့်အခါ ဖျောက်ထားသောပုံးကို သော့ခတ်ပါ"</string>
+    <string description="Toast: The item(s) has been copied completely" maxwidth="-1" name="toast_drag_copied_items">"အရာဝတ္ထု(များ)ကို ကူးယူခြင်း ပြီးစီးပြီ"</string>
+    <string description="Toast: The item(s) has been moved completely" maxwidth="-1" name="toast_drag_moved_items">"အရာဝတ္ထု(များ)ကို ရွှေ့ခြင်း ပြီးစီးပြီ"</string>
+    <string description="Toast: Sorry, copy files complete but cut fail" maxwidth="-1" name="toast_warning_copy_comple_cut_fail">"ဝမ်းနည်းပါတယ်၊ ဖိုင်များ ကူးယူခြင်း ပြီးစီးသော်လည်း ဖိုင်အဟောင်းများ ဖျက်ခြင်း မအောင်မြင်ပါ"</string>
+    <string description="Toast: Sorry, copy folders has not been supported" maxwidth="-1" name="toast_warning_copy_folders">"ဝမ်းနည်းပါတယ်၊ ဖိုဒါများ ကူးယူခြင်းကို မထောက်ပံ့ထားပါ"</string>
+    <string maxwidth="35" name="toolbar_item_title_encourage_us">"ကျွန်ုပ်တို့ကို အားပေးပါ"</string>
+    <string name="tools_clean_master">"ရှင်းလင်းသည့် junk"</string>
+    <string name="tools_file_transfer">"PC ဖိုင် ရွှေ့ပြောင်းမှု"</string>
+    <string name="tools_hidden_zone">"ဖျောက်ထားသောပုံး"</string>
+    <string name="tools_recycle_bin">"အမှိုက်ပုံး"</string>
+    <string name="tools_storage_analyzer">"သိုလှောင်နေရာ အကဲဖြတ်ဆန်းစစ်အက်ပ်"</string>
+    <string name="tools_tip_animation">"တူးလ်များကို ဆွဲယူပါ"</string>
+    <string name="tools_zenui_instant_update">"Instant အပ်ဒိတ်"</string>
+    <string description="shortcut title: trash can" name="trash_can" width="-1">"အမိုက်ပုံး"</string>
+    <string maxwidth="-1" name="trash_info_deleted">"ဖျက်ခဲ့သည့်ရက်စွဲ- "</string>
+    <string maxwidth="-1" name="trash_info_path">"မူရင်းလမ်းကြောင်း- "</string>
+    <string description="label for trending searches" maxwidth="-1" name="trending_searches">"ရေပန်းစားနေသည်ကို ရှာဖွေမှုများ"</string>
+    <string name="tutorial_analyzer_content">"သိုလှောင်ခန်း စီစစ်ဆော့ဖ်ဝဲက သင့်ဒစ်ခ်နေရာလွတ်ထဲတွင် မည်သည့်ဖိုင်များဖြင့် ပြည့်နေသည်ကို သင့်အားအသိပေးပါသည်။"</string>
+    <string name="tutorial_category_content">"ASUS ဖိုင်မန်နေဂျာ၏ အမျိုးအစားမြင်ကွင်းဖြင့် ဖိုင်များကို ရှာဖွေခြင်းထက် လွယ်ကူသည့်နည်း မရှိတော့ပါ။"</string>
+    <string name="tutorial_category_title">"အမျိုးအစား မြင်ကွင်း"</string>
+    <string name="tutorial_cloud_content">"သင့်စမတ်ဖုန်း၊ PC နှင့် ကလောက်သိုလှောင်ခန်းများထဲမှ ဖိုင်များကို ရယူသုံးစွဲပါ။"</string>
+    <string name="tutorial_cloud_title">"ကလောက်သိုလှောင်ခန်း"</string>
+    <string name="tutorial_done">"ပြီးပြီ"</string>
+    <string name="tutorial_page_content_long_press">"ပစ္စည်းတစ်ခုကို ရွေးရန် ဖိနှိပ်ထားပါ၊ ပြီးနောက် အခြားလုပ်ဆောင်မှု ရွေးချယ်စရာများကို ဖော်ပြရန် \"မီနူး\" အိုင်ကွန်ကို နှိပ်ပါ။"</string>
+    <string name="tutorial_page_four_content">"ဖိုဒါများကို မြန်မြန်နှင့် အလွယ်တကူ အသုံးပြုရန် မကြာခဏ သုံးသောဖိုဒါတစ်ခုကို အနှစ်သက်ဆုံးအဖြစ် သတ်မှတ်ပါ။"</string>
+    <string name="tutorial_page_four_title">"အနှစ်သက်ဆုံးများ"</string>
+    <string name="tutorial_page_one_content">"ASUS ဖိုင်မန်နေဂျာက သင်၏ စက်တွင်း၊ စက်ပြင်၊ ဒေသတွင်းကွန်ရက် သို့မဟုတ် ကလောက်သိုလှောင်ခန်းများထဲတွင် သိမ်းဆည်းထားသော ဖိုင်များကို အလွယ်တကူ စီမံဆောင်ရွက်ခွင့်ပြုသည်။"</string>
+    <string name="tutorial_page_one_title">"ASUS ဖိုင်မန်နေဂျာ"</string>
+    <string name="tutorial_page_three_content">"အနှစ်သက်ဆုံးများသို့ ထည့်ပါ၊ အမည်ပြောင်းပါ၊ သို့ ရွှေ့ပါ၊ သို့ ကူးယူပါနှင့် အခြား ဖိုင် စီမံခန့်ခွဲသည့်ရွေးချယ်စရာများကဲ့သို့ လုပ်ဆောင်ချက်များ ဖော်ပြရန် အရာဝတ္ထုတစ်ခုကို ညာဘက်သို့ ပွတ်ဆွဲပါ။"</string>
+    <string name="tutorial_page_three_title">"လုပ်ဆောင်ချက်စာရင်းကို ညာဘက်သို့ ပွတ်ဆွဲပါ"</string>
+    <string name="tutorial_page_title_long_press">"လုပ်ဆောင်မှုမီနူးကို ဖော်ပြပါ"</string>
+    <string name="tutorial_page_two_content">"သင့်စက်တွင်းသိမ်းဆည်းနေရာရှိ ဖိုင်များကို မြန်မြန် အသုံးပြုခွင့်ပေးသော အလွယ်တကူ အသုံးပြုနိုင်သော အမျိုးအစားများ"</string>
+    <string name="tutorial_page_two_title">"ပင်မစာမျက်နှာ"</string>
+    <string name="tutorial_skip">"ကျော်ပါ"</string>
+    <string description="button text for sort file by type" maxwidth="-1" name="type">"အမျိုးအစား"</string>
+    <string description="document type" maxwidth="-1" name="type_abu">"Asus အက်ပ် ဘက်ခ်အပ်"</string>
+    <string description="document type" maxwidth="-1" name="type_apk">"Android အက်ပ်"</string>
+    <string description="document type" maxwidth="-1" name="type_audio">"အသံ"</string>
+    <string description="document type" maxwidth="-1" name="type_book">"EBook"</string>
+    <string name="type_dialog_audio">"အသံ"</string>
+    <string name="type_dialog_image">"ရုပ်ပုံ"</string>
+    <string name="type_dialog_text">"စာသား"</string>
+    <string name="type_dialog_title">"အဖြစ် ဖွင့်ပါ"</string>
+    <string name="type_dialog_video">"ဗီဒီယို"</string>
+    <string description="document type" maxwidth="-1" name="type_directory">"ဒါရိုက်ထရီ"</string>
+    <string description="document type" maxwidth="-1" name="type_document">"စာရွက်စာတမ်း"</string>
+    <string description="document type" maxwidth="-1" name="type_file">"ဖိုင်"</string>
+    <string description="document type" maxwidth="-1" name="type_image">"ရုပ်ပုံ"</string>
+    <string description="document type" maxwidth="-1" name="type_playlist">"ဖွင့်ရန်စာရင်း"</string>
+    <string description="document type" maxwidth="-1" name="type_rar">"RAR"</string>
+    <string description="document type" maxwidth="-1" name="type_video">"ဗီဒီယို"</string>
+    <string description="document type" maxwidth="-1" name="type_zip">"ချုံ့ပါ"</string>
+    <string name="ud_sdk_all_app_update">"အက်ပ်အားလုံးက ၎င်းတို့၏ လက်ရှိဗားရှင်းကို ဖွင့်ထားသည်။"</string>
+    <string name="ud_sdk_asus_app_slogan">"အသုံးဝင်သောအက်ပ်"</string>
+    <string name="ud_sdk_downloads">"ဒေါင်းလုဒ်များ"</string>
+    <string name="ud_sdk_free_download">"အခမဲ့ဒေါင်းလုဒ်"</string>
+    <string name="ud_sdk_important_remind_text">"အရေးကြီးသည်"</string>
+    <string name="ud_sdk_install">"ထည့်သွင်းပါ"</string>
+    <string name="ud_sdk_more_zen_family">"နောက်ထပ် ZenUI အက်ပ်များကို ရှာဖွေပါ"</string>
+    <string name="ud_sdk_no_network_connection_content">"ဒေတာကို အပ်ဒိတ်လုပ်၍ မရနိုင်ပါ။ ကွန်ရက်ဆက်တင်များကို စစ်ဆေးပါ။" </string>
+    <string name="ud_sdk_no_network_connection_title">"ကွန်ရက်ချိတ်ဆက်မှု မရှိပါ"</string>
+    <string name="ud_sdk_open">"ဖွင့်ပါ"</string>
+    <string name="ud_sdk_update">"အပ်ဒိတ်လုပ်ပါ"</string>
+    <string maxwidth="-1" name="ud_sdk_update_sdk">"ZenUI မိသားစု"</string>
+    <string maxwidth="-1" name="ud_sdk_update_sdk_asus">"ZenUI အသင့်သုံး အပ်ဒိတ်များ"</string>
+    <string name="ud_sdk_wifi_settings">"Wi-Fi ဆက်တင်များ"</string>
+    <string name="uf_sdk_already_give_5star">ကြယ် ၅ ပွင့်အဆင့် ပေးထားပြီးဖြစ်သည်</string>
+    <string description="%d is a number, don&apos;t translate" name="uf_sdk_article_read_count">"ကြည့်ရှုမှု %d ခု"</string>
+    <string name="uf_sdk_attachment_format_warning">Wrong file format. Only image file can be attached</string>
+    <string name="uf_sdk_attachment_total_size">"စုစုပေါင်း"</string>
+    <string name="uf_sdk_attachment_warning">"ပူးတွဲအရွယ်အစားသည် ခွင့်ပြုနိုင်သည့်ကန့်သတ်ချက်ထက် ကျော်နေသည်"</string>
+    <string maxwidth="-1" name="uf_sdk_cancel_btn_content">"ပယ်ဖျက်ပါ"</string>
+    <string name="uf_sdk_choosertitle_sharevia">မှ မျှဝေသည်</string>
+    <string name="uf_sdk_connection_error_msg">ကွန်နက်ရှင်ကို ဆာဗာမှ ရပ်ဆိုင်းထားပါသည်။ ကျေးဇူးပြုပြီး နောက်မှ ပြန်ကြိုးစားပါ။</string>
+    <string name="uf_sdk_connection_error_title">ကွန်နက်ရှင် မှားယွင်းမှု</string>
+    <string name="uf_sdk_discard">"ဖျက်ပစ်ပါ"</string>
+    <string name="uf_sdk_email_illigal">အီးမေးလ်လိပ်စာသည် အသုံးပြုပြီးသား ဖြစ်ပါသည်</string>
+    <string maxwidth="-1" name="uf_sdk_empty_notification">"ဘာမှ မရှိ :)"</string>
+    <string name="uf_sdk_faq">မကြာခဏမေးသောမေးခွန်း</string>
+    <string name="uf_sdk_feedback_and_help">တုံ့ပြန်မှု နှင့် အကူအညီ</string>
+    <string name="uf_sdk_forum_description">သင်၏ဖြေရှင်းချက်များကို ရှာရန်နှင့် ဝေမျှရန် ASUS အသုံးပြုသူများနှင့် အပြန်အလှန်ပြောဆိုခြင်းသို့ ဆက်သွယ်ပါ။</string>
+    <string maxwidth="-1" name="uf_sdk_grant_permission_title">"အတွက် ခွင့်ပြုပေးပါ"</string>
+    <string name="uf_sdk_help">အကူအညီ</string>
+    <string name="uf_sdk_instant_answer_question">ဤ FAQ သည် အကူအညီပေးပါသလား။</string>
+    <string name="uf_sdk_like">အကြိုက်</string>
+    <string maxwidth="-1" name="uf_sdk_message">"သတိပေးချက်များ"</string>
+    <string name="uf_sdk_msg_bad_email_format">အီးမေးလ်လိပ်စာမမှန်ပါ၊ ကျေးဇူးပြု၍ ထပ်ကြိုးစားပါ။</string>
+    <string name="uf_sdk_msg_confirm_discard_topic">သင်၏အကြမ်းကို သိမ်းလိမ့်မည် မဟုတ်ပါ။ ၎င်းကို မည်သို့ဖြစ်ဖြစ် ဖျက်လိုသလား။</string>
+    <string name="uf_sdk_msg_confirm_discard_topic_title">ပို့စ်ကို ဖျက်မလား။</string>
+    <string name="uf_sdk_msg_subscribe">မှာယူအသုံးပြုခြင်း အကြောင်းအရာ အခြေအနေ သတိပေးချက်ကို သင့်ထံသို့ အီးမေးလ်ဖြင့် ပေးပို့လိမ့်မည်။</string>
+    <string name="uf_sdk_msg_subscribe_success">မှာယူအသုံးပြုခြင်း အောင်မြင်သည်</string>
+    <string name="uf_sdk_msg_ticket_created">သင့်တုံ့ပြန်မှုကို ASUS သို့ အောင်မြင်စွာ ပို့ပြီးပြီ။</string>
+    <string name="uf_sdk_msg_topic_created">အောင်မြင်စွာ အများသိစေရန် ဖော်ပြပြီး</string>
+    <string name="uf_sdk_msg_unsubscribe">မှာယူအသုံးပြုခြင်း မအောင်မြင်ပါ</string>
+    <string name="uf_sdk_name_hint">သင့်အမည်ကို ထည့်ပါ</string>
+    <string name="uf_sdk_name_illigal">အသုံးပြုသူအမည်ကို အသုံးပြုပြီး ဖြစ်ပါသည်။</string>
+    <string name="uf_sdk_network_error">အင်တာနက် ချိတ်ဆက်မှု မရှိ၊ ကျေးဇူးပြု၍ သင့်ကွန်ရက်ဆက်တင်များကို စစ်ဆေးပါ။</string>
+    <string description="zenui news" maxwidth="" name="uf_sdk_news">သတင်း</string>
+    <string name="uf_sdk_no_network_connection_content">ဒေတာပြင်ဆင်ရန်မဖြစ်နိုင်ပါ ကျေးဇူးပြုပြီး သင့်ကွန်ရက်ဆက်တင်များကို စစ်ဆေးပါ။</string>
+    <string name="uf_sdk_no_network_connection_title">ကွန်ရက်ဆက်သွယ်ခြင်းမရှိပါ</string>
+    <string name="uf_sdk_nothing_found">ဘာမှ မတွေ့ပါ</string>
+    <string name="uf_sdk_notice">အသိပေးချက်</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category1">"ကြေငြာချက်များ"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category2">"ကျူတိုရီယယ်နှင့် အကြံပြုချက်များ"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category3">"မြှင့်တင်ရေးများ"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category4">"ဖြစ်ရပ်များ"</string>
+    <string name="uf_sdk_publish_an_topic">အကြောင်းအရာအသစ်ကို အများသိစေရန် ဖော်ပြပါ</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_rate_now">ယခု အမှတ်ပေးပါ</string>
+    <string description="%s is AP name, don&apos;t translate" maxWidth="" name="uf_sdk_rate_us_detail">"%s ကို သုံးစွဲ၍ သင်ပျော်ရွှင်ရပါက Play Store တွင် ကျွန်ုပ်တို့ကို ကြယ် ၅ ပွင့် နှုန်းသတ်မှတ်ပေးပါ။"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_detail_new">"ကြယ် ၅ ပွင့်နှင့် သင့်ပံ့ပိုးမှုသည် ကျွန်ုပ်တို့အလုပ်ကို ဆက်လက်လုပ်ဆောင်ရန် ကျွန်ုပ်တို့အား စိတ်ဓာတ်တက်ကြွစေမည်။"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_rating">"ကြယ် ၅ ပွင့် နှုန်းသတ်မှတ်ခြင်း"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title">"ကျွန်ုပ်တို့ကို နှုန်းသတ်မှတ်ပေးပါ"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title_new">"ကျွန်ုပ်တို့ကို အားပေးပါ"</string>
+    <string description="Menu item for userFeedback sdk" maxwidth="-1" name="uf_sdk_report_bug">"ချွတ်ယွင်းချက် တင်ပြ"</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_scroll_up_toast">"အမှတ်ပေးရန် အပေါ်သို့ ဆွဲယူပါ"</string>
+    <string name="uf_sdk_search_hint">ရှာဖွေခြင်း</string>
+    <string name="uf_sdk_select_common_bug">အများစုအမှားကိုရွေးပါ</string>
+    <string name="uf_sdk_send_feedback">တုံ့ပြန်မှု ပြန်ပို့ပါ</string>
+    <string name="uf_sdk_send_feedback_help">သင့်တုံ့ပြန်မှုနှင့် အီးမေးလ်လိပ်စာကို ASUS သို့ ပို့လိမ့်မည်။ ဝန်ဆောင်မှုအဖွဲ့သည် သင့်အား အီးမေးလ်ဖြင့် ဆက်သွယ်လိမ့်မည်။</string>
+    <string maxwidth="-1" name="uf_sdk_setting_btn_content">"ဆက်တင်များ"</string>
+    <string description="recommend title" maxwidth="" name="uf_sdk_settings_encourage_us_title">ကျွန်ုပ်တို့ကို အားပေးပါ</string>
+    <string maxwidth="-1" name="uf_sdk_storage_permission_description">"မာတီမီဒီယာဖိုင်များကို ရယူသုံးစွဲရန် ဤလုပ်ဆောင်ချက်က သိုလှောင်ခန်းခွင့်ပြုချက်ကို ရယူရန်လိုသည်။ \n\nဤလုပ်ဆောင်ချက်ကို ဖွင့်လိုလျှင် ၏ ဆက်တင်စာမျက်နှာသို့ သွားရန် ဆက်တင်ခလုတ်ကိုနှိပ်ပါ၊ ပြီးနောက် ခွင့်ပြုချက်ပေးရန် \"အက်ပ်အချက်အလက်\" > \"ခွင့်ပြုချက်များ\" ကို သတ်မှတ်ပါ။\n"</string>
+    <string name="uf_sdk_submit_topic">အများသိစေရန် ဖော်ပြပါ</string>
+    <string name="uf_sdk_subscribe_dialog_title">ဤအကြောင်းအရာသို့ မှာယူအသုံးပြုပါ</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_answered">"ဖြေပြီး"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_completed">"ပြီးစီး"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_declined">"မအောင်မြင်"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_implemented">"တည်ဆောက်ပြီး"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_planned">"စီစဉ်ထား"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_under_review">"စစ်ဆေးဆဲ"</string>
+    <string name="uf_sdk_thanks_for_your_feedback">သင့်တုံ့ပြန်မှုအတွက် ကျေးဇူးတင်ပါတယ်။</string>
+    <string description="%s is a application name, don&apos;t translate" name="uf_sdk_ticket_hint">%s အတွက် အဝင် တုံ့ပြန်မှုများ</string>
+    <string name="uf_sdk_title_topic">အကြောင်းအရာ</string>
+    <string name="uf_sdk_topic">အကြောင်းအရာ</string>
+    <string name="uf_sdk_topic_description_heading">ဖော်ပြချက်</string>
+    <string name="uf_sdk_topic_description_hint">သင့်အကြောင်းအရာ အသေးစိတ်ကို ဖော်ပြပါ</string>
+    <string name="uf_sdk_topic_filter">အကြောင်းအရာများ</string>
+    <string name="uf_sdk_topic_form_help">အသုံးပြုသူဖိုရမ်တွင် အကြောင်းအရာတစ်ခုကို အများသိစေရန် ဖော်ပြသောအခါ အခြားအသုံးပြုသူများသည် ၎င်းကို မှာယူအသုံးပြုပြီး ထင်မြင်ချက်ပေးနိုင်သည်။ ASUS ဖွံ့ဖြိုးတိုးတက်ရေးအဖွဲ့သည် အကြောင်းအရာကို တုံ့ပြန်သောအခါ သင့်အား အီးမေးလ်ဖြင့် အသိပေးလိမ့်မည်…</string>
+    <string name="uf_sdk_topic_form_title">အကြောင်းအရာအသစ်ကို အများသိစေရန် ဖော်ပြပါ</string>
+    <string name="uf_sdk_topic_text_heading">ဖိုရမ်</string>
+    <string name="uf_sdk_topic_text_hint">သင့်အကြောင်းအရာခေါင်းစဉ်ကို ရိုက်ထည့်ပါ</string>
+    <string name="uf_sdk_topic_title">ခေါင်းစဉ်</string>
+    <string name="uf_sdk_translation_10117605">"ဘာသာပြန် ထုတ်ပြန်မှု"</string>
+    <string name="uf_sdk_translation_117562">တုံ့ပြန်မှုအမျိုးအစား</string>
+    <string name="uf_sdk_translation_2529543">အမှားဖြစ်ပွားမှု အစီရင်ခံစာ</string>
+    <string name="uf_sdk_translation_2529544">အခြား</string>
+    <string name="uf_sdk_translation_2530478">အကြံပြုချက်</string>
+    <string name="uf_sdk_unhelpful_article_message_question">တုံ့ပြန်မှုကို ASUS ဖွံ့ဖြိုးတိုးတက်ရေးအဖွဲ့သို့ ပို့မလား။</string>
+    <string name="uf_sdk_user_forum">သုံးစွဲသူ ဖိုရမ်</string>
+    <string name="uf_sdk_warning">သတိပေးချက်</string>
+    <string name="uf_sdk_wifi_settings">Wi-Fi ဆက်တင်များ</string>
+    <string name="uf_sdk_wlan_settings">WLAN ဆက်တင်များ</string>
+    <string name="uf_sdk_write_your_feedback">အဝင် တုံ့ပြန်မှုများ ဒီမှာ</string>
+    <string name="uf_sdk_your_draft_will_be_discarded">သင်၏ စာကြမ်းကို ဖယ်ထုတ်ပစ်လိမ့်မည်။</string>
+    <string description="description for empty search result" maxwidth="-1" name="unable_to_find_artlcles">"\u0022%s\u0022 နှင့်ဆက်စပ်နေသော ဆောင်းပါးများကို ရှာမတွေ့ပါ"</string>
+    <string description="string indicating the length units in milli-meters" maxwidth="-1" name="unit_mm">"မီလီမီတာ"</string>
+    <string description="Context Menu: options of context menu: unshare folder" maxwidth="-1" name="unshared_folder">"ဝေမျှမှု ဖြုတ်ပါ"</string>
+    <string name="unsupported_area">"ဤဧရိယာကို မပံ့ပိုးပါ"</string>
+    <string description="toast message: extract files fail" maxwidth="-1" name="unzip_fail">"ဖိုင်များကို ဆွဲထုတ်ရန် မအောင်မြင်ပါ"</string>
+    <string description="extract file dialog message" maxwidth="-1" name="unzip_progress_msg">"ဆွဲထုတ်နေသည်…"</string>
+    <string description="toast message: extract files successly" maxwidth="-1" name="unzip_success">"ဖိုင်များကို ဆွဲထုတ်ခြင်း အောင်မြင်သည်"</string>
+    <string name="update">"အပ်ဒိတ်"</string>
+    <string name="update_fb_app">"Facebook မိုဘိုင်းအက်ပ်ဗားရှင်းသည် ခေတ်မမီတော့ပါ။  Google Play မှ နောက်ဆုံးထုတ်တစ်ခုကို ကျေးဇူးပြု၍ အင်စတောလုပ်ပါ။"</string>
+    <string name="upgrade_notification_content">"ကျွန်ုပ်၏ အသစ်စက်စက် ဟုမ်းစခရင်မှ ဖိုင်များကို အမျိုးအစားအလိုက်ကြည့်ပါ။"</string>
+    <string name="upgrade_notification_title">"ဖိုင်မန်နေဂျာ အသစ်ကို ယခုကြိုးစားကြည့်မလား။"</string>
+    <string name="upload_complete">"အပ်လုဒ်လုပ်ခြင်း ပြီးစီး"</string>
+    <string name="upload_complete_dialog_message">"ဗီဒီယိုကို အောင်မြင်စွာ အပ်လုဒ်လုပ်ပြီးပြီ။"</string>
+    <string name="upload_complete_dialog_title">"ပြီးမြောက်ပြီ"</string>
+    <string name="upload_fail">Upload အောင်မြင်ပါသည်!</string>
+    <string name="upload_failed">"Upload အောင်မြင်ပါသည်!"</string>
+    <string name="upload_picture_toast">"သင့်ပုံကို အပ်လုဒ် လုပ်လိမ့်မည်။ သတိပေးချက်များဝင်းဒိုးတွင် တိုးတက်မှုကို စစ်ဆေးပါ။"</string>
+    <string name="upload_toast">"သင်၏ဗီဒီယိုကို အပ်လုဒ်လုပ်လိမ့်မည်။  သတိပေးချက်များ ဝင်းဒိုးတွင် တိုးတက်မှုကို စစ်ဆေးပါ။"</string>
+    <string name="uploading_picture">"ပုံကို အပ်လုဒ်တင်နေသည်"</string>
+    <string name="uploading_video">"ဗီဒီယိုကို အပ်လုဒ်လုပ်နေသည်…"</string>
+    <string name="user">"အသုံးပြုသူအမည်"</string>
+    <string name="user_hint">"အက်ဒမင်"</string>
+    <string name="uv_admin_response_format">စီမံသူ တုန့်ပြန်ချက်- %1$s</string>
+    <string name="uv_all_articles">ဆောင်းပါးအားလုံး</string>
+    <string name="uv_all_results_filter">အားလုံး</string>
+    <string name="uv_android_sdk">Android SDK</string>
+    <string name="uv_article_browse_question">ဤဆောင်းပါးသည် အကူအညီဖြစ်ပါသလာ?</string>
+    <string name="uv_article_instant_answer_question">ဤ FAQ သည် အကူအညီပေးပါသလာ?</string>
+    <string name="uv_cancel">ပယ်ဖျက်ပါ</string>
+    <string name="uv_category">အမျိုးအစား</string>
+    <string name="uv_close">ပိတ်ပါ</string>
+    <string name="uv_comment_hint">သင့်မှတ်ချက်ကို ထည့်သွင်းပါ</string>
+    <string name="uv_confirm">အတည်ပြုပါ</string>
+    <string name="uv_contact_continue_button">မက်ဆေ့ချ်တစ်စောင် ပေးပို့လိုသေးသည်</string>
+    <string name="uv_contact_hint">"သင့်မေးခွန်း (သို့) တုန့်ပြန်အကြံပြုချက်ကို ထည့်သွင်းပါ"</string>
+    <string name="uv_contact_us">ကျွန်ုပ်တို့ကို ဆက်သွယ်ပါ</string>
+    <string name="uv_display_name">ပြသသော အမည်</string>
+    <string name="uv_email_address">အီးမေးလ်လိပ်စာ</string>
+    <string name="uv_email_address_hint">your@email.com (လိုအပ်သည်)</string>
+    <string name="uv_error">အမှား</string>
+    <string name="uv_failed_signin_error">အီးမေးလ် (သို့) စကားဝှက် မမှန်ကန်ပါ</string>
+    <string name="uv_forgot_password">စကားဝှက်မေ့သွားသည်</string>
+    <string name="uv_helpful_article_message_question">မက်ဆေ့ချ်ကို သင်ရွေးချယ်လိုပါသေးသလာ?</string>
+    <string name="uv_i_want_this">ဒါကို ကျွန်ုပ် လိုချင်တယ်။</string>
+    <string name="uv_idea_description_heading">သင့်စိတ်ကူးကို အသေးစိတ်ကျကျ ပုံဖော်ပါ</string>
+    <string name="uv_idea_description_hint">(ရွေးနိုင်)</string>
+    <string name="uv_idea_text_heading">သင့်အား အကြံပြုသည်မှာ...</string>
+    <string name="uv_loading">ဖွင့်နေသည်...</string>
+    <string name="uv_matching_articles">ကိုက်ညီသော ဆောင်းပါးများ</string>
+    <string name="uv_matching_articles_and_ideas">ကိုက်ညီသော ဆောင်းပါးများနှင့် စိတ်ကူးများ</string>
+    <string name="uv_menu_attach">ပူးတွဲပြီး</string>
+    <string name="uv_menu_search">"ရွာပါ"</string>
+    <string name="uv_msg_bad_email_format">မှန်ကန်သည့် အီးမေးလ်လိပ်စာ ထည့်သွင်းပါ။</string>
+    <string name="uv_msg_comment_posted">သင့်မှတ်ချက်ကို တင်ပြီးပါပြီ</string>
+    <string name="uv_msg_confirm_discard_message">မက်ဆေ့ချ်ကို ဖယ်ထုတ်လိုသည်မှာ သေချာပါသလာ?</string>
+    <string name="uv_msg_custom_fields_validation">လိုအပ်သည့် အကွက်အားလုံးကို ဖြည့်ပေးပါ။</string>
+    <string name="uv_msg_forgot_password">စကားဝှက် မေ့သွားကြောင်း အီးမေးလ်ပို့ပြီး</string>
+    <string name="uv_msg_idea_created">သင့်စိတ်ကူးကို ဖန်တီးပြီးပါပြီ</string>
+    <string name="uv_msg_ticket_created">သင့်မက်ဆေ့ချ်ကို ပို့ပြီးပါပြီ</string>
+    <string name="uv_msg_user_identity_validation">သင့်အီးမေးလ်လိပ်စာ ထည့်သွင်းပါ</string>
+    <string name="uv_name_hint">အမည်မဖေါ်လိုသူ</string>
+    <string name="uv_network_error">UserVoiceနှင့်ချိတ်ဆက်စဉ် မှားယွင်းမှုတစ်ခု ဖြစ်သွားသည်</string>
+    <string name="uv_nevermind">ကိစ္စမရှိပါဘူး</string>
+    <string name="uv_new_comment">မှတ်ချက်အသစ်</string>
+    <string name="uv_next">နောက်ထပ်</string>
+    <string name="uv_no">မဟုတ်</string>
+    <string name="uv_none_of_these_help">တစ်ခုမှ အကူအညီမဖြစ်ပါ</string>
+    <string name="uv_password">စကားဝှက်</string>
+    <string name="uv_password_dialog_title">သင့်စကားဝှက်ကို ထည့်သွင်းပါ</string>
+    <string name="uv_portal_title">အကူအညီ</string>
+    <string name="uv_post_a_comment">မှတ်ချက် တင်ပါ</string>
+    <string name="uv_post_comment">မှတ်ချက်ကို ပို့စ်တင်ရန်</string>
+    <string name="uv_posted_by_format">%1$s က %2$s တွင် တင်ထားသည်</string>
+    <string name="uv_powered_by_uservoice">UserVoice မှ ပံ့ပိုးပေးထားသည်</string>
+    <string name="uv_ranked">%1$s အဖြစ် အဆင့်ပေးထားသည်</string>
+    <string name="uv_remove_votes">ဆန္ဒမဲများကို ဖယ်ရှားပါ</string>
+    <string name="uv_select_none">(တစ်ခုမှမဟုတ်)</string>
+    <string name="uv_select_one">တစ်ခု ရွေးပါ</string>
+    <string name="uv_send_message">မက်ဆေ့ချ်ပို့ပါ</string>
+    <string name="uv_signin_dialog_ok">ဝင်ရောက်ရန်</string>
+    <string name="uv_signin_dialog_title">ဝင်ရောက်ရန်</string>
+    <string name="uv_status_format">အခြေအနေ- %1$s</string>
+    <string name="uv_submit_idea">စိတ်ကူးကို တင်ပြပါ</string>
+    <string name="uv_subscribe">စာရင်းသွင်းပါ</string>
+    <string name="uv_subscribe_dialog_title">ဤစိတ်ကူးတွင် စာရင်းသွင်းပါ</string>
+    <string name="uv_suggestion_instant_answer_question">ဤစိတ်ကူးသည် အကူအညီဖြစ်ပါသလာ?</string>
+    <string name="uv_thanks">ကျေးဇူးများစွာ တင်ပါသည်။</string>
+    <string name="uv_unhelpful_article_message_question">ကျွန်ုပ်တို့ကို မက်ဆေ့ချ် ပို့စေလိုပါသလာ?</string>
+    <string name="uv_value">တန်ဖိုး</string>
+    <string name="uv_very_yes">ဟုတ်!</string>
+    <string name="uv_yes">ဟုတ်</string>
+    <string name="uv_your_email_address">သင့် အီးမေးလ်လိပ်စာ</string>
+    <string name="uv_your_name">သင့်အမည်</string>
+    <string description="version" maxwidth="-1" name="version">"ဗားရှင်း"</string>
+    <string name="version_text">"ဗားရှင်း "</string>
+    <string name="wait">"ကျေးဇူးပြု၍ စောင့်ပါ\u2026"</string>
+    <string name="warning_stophttpserver">"သင့်မိုဘိုင်းကိရိယာနှင့်  PC အကြား ချိတ်ဆက်မှု ဆုံးရှုံးလိမ့်မည်။ ထွက်လိုပါသလား။"</string>
+    <string name="whats_new_label">"နောက်အသစ် ဘာဖြစ်မလဲ"</string>
+    <string description="message for request to connect Network" name="wifi_p2p_connection_msg" width="-1">"ကျေးဇူးပြု၍ ကလောက်ဒ်ဝန်ဆောင်မှုများကို အသုံးပြုရန် ကွန်ရက်ချိတ်ဆက်မှုတစ်ခုကို တည်ဆောက်ပါ "</string>
+    <string description="title for request to connect Network" name="wifi_p2p_connection_title" width="-1">"ကွန်ရက်ချိတ်ဆက်မှုတစ်ခုကို တည်ဆောက်ပါ"</string>
+    <string description="message for request to turn on Wi-Fi" name="wifi_p2p_turn_on_wifi_msg" width="-1">"Wi-Fi တိုက်ရိုက် ဝန်ဆောင်မှုများကို အသုံးပြုရန် Wi-Fi ကို ဖွင့်ပါ။ Wi-Fi ကို ယခု ဖွင့်မလာ?"</string>
+    <string description="title for turn on WiFi dialog" name="wifi_p2p_turn_on_wifi_title" width="-1">"Wi-Fi ကိုဖွင့်ပါ"</string>
+    <string description="search" maxwidth="-1" name="wifidirect_action_bar_scan">"ရှာဖွေပါ"</string>
+    <string description="Available devices" maxwidth="-1" name="wifidirect_available_devices">"ရနိုင်သော ကိရိယာများ"</string>
+    <string description="Do you want to connect to device" maxwidth="-1" name="wifidirect_connect_hint">"နှင့် ချိတ်ဆက်လိုပါသလား"</string>
+    <string description="Dialog title text: Invitation to connect" maxwidth="-1" name="wifidirect_connect_hint_title">"ချိတ်ဆက်ရန် ဖိတ်ခေါ်ခြင်း"</string>
+    <string description="Dialog title text: Wi-Fi Direct connecting" maxwidth="-1" name="wifidirect_connecting_hint_title">"Wi-Fi တိုက်ရိုက် ချိတ်ဆက်နေသည်…"</string>
+    <string description="connectted" maxwidth="-1" name="wifidirect_connectted">"ချိတ်ဆက်ပြီး"</string>
+    <string description=">Do you want to disconnect" maxwidth="-1" name="wifidirect_disconnect_hint">"နှင့် ချိတ်ဆက်မှု ဖြုတ်လိုပါသလား"</string>
+    <string description="Disconnect Wi-Fi Direct" maxwidth="-1" name="wifidirect_disconnect_hint_title">"Wi-Fi တိုက်ရိုက်ကို ချိတ်ဆက်မှု ဖြုတ်ပါ"</string>
+    <string description="peer devices infomation" maxwidth="-1" name="wifidirect_peer_device_info">"Wi-Fi တိုက်ရိုက် ဖိတ်ခေါ်ခြင်းတစ်ခု လက်ခံရန် သင့်ချိတ်ဆက်ထားသော ကိရိယာသည် ဖိုင်မန်နေဂျာရှိ \"အဆင့်တူ ကိရိယာများ\" စာမျက်နှာတွင် ရှိနေကြောင်း သေချာပါစေ။"</string>
+    <string description="peer devices title" maxwidth="-1" name="wifidirect_peer_device_title">"အဆင့်တူ ကိရိယာများ"</string>
+    <string description="searching" maxwidth="-1" name="wifidirect_scanning">"ရှာဖွေနေသည်…"</string>
+    <string description="Search Wi-Fi Direct device" maxwidth="-1" name="wifidirect_storage_title">"Wi-Fi တိုက်ရိုက် ကိရိယာကို ရှာဖွေပါ"</string>
+    <string description="click to connect" maxwidth="-1" name="wifidirect_touch_to_connect">"ချိတ်ဆက်ရန် နှိပ်ပါ"</string>
+    <string name="yandex_account_only_one_alert">"Yandex အကောင့် တစ်ခုတည်းကိုသာ ထည့်ရန် ခွင့်ပြုသည်။ အသစ်တစ်ခုနှင့် အစားမထိုးမီ သင့်လက်ရှိအကောင့်ကို ဖျက်ရမည်။"</string>
+    <string name="yes">"ဟုတ်ကဲ့"</string>
+    <string name="zenui_update">"ZenUI ချက်ချင်း အသစ်မွမ်းမံမှုများ"</string>
+    <string description="toast message: Compress files fail" maxwidth="-1" name="zip_fail">"ဖိုင်များကို ချုံ့ရန် မအောင်မြင်ပါ"</string>
+    <string description="compress dialog message" maxwidth="-1" name="zip_progress_msg">"ဆက်လက်လုပ်နေသည်…"</string>
+    <string description="toast message: Compress files successly" maxwidth="-1" name="zip_success">"ဖိုင်များကို ချုံ့ခြင်း အောင်မြင်သည်"</string>
+</resources>

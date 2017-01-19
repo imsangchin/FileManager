@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Sylvia Cheng, 2016/03/22, Setting page -->
+    <string name="action_settings" description="menu title for setting" maxwidth="-1">"Tetapan"</string>
+    <string name="setting_view_group">"Lihat tetapan"</string>
+    <string name="setting_view_hide_files">"Sembunyikan fail sistem"</string>
+    <string name="setting_notification_group">"Pemberitahuan"</string>
+    <string name="setting_notification_large_files">"Pemberitahuan fail besar"</string>
+    <string name="setting_notification_recent_files">"Pemberitahuan fail terkini"</string>
+    <string name="setting_notification_wireless_transfer">"Pemberitahuan pemindahan wayarles"</string>
+    <string name="setting_display_group">"Paparkan"</string>
+    <string name="tools_storage_analyzer">"Penganalisis storan"</string>
+    <string name="tools_zenui_instant_update">"Kemas kini segera"</string>
+    <string name="category_others">"Lain-lain"</string>
+    <string name="large_files_content_hint">"Cari fail besar dan padamkannya dengan keizinan anda."</string>
+    <string name="recent_files_content_hint">"Cari fail terkini dan padamkannya dengan keizinan anda."</string>
+    <string name="fragment_analyzer_more_hint">"lebih banyak"</string>
+    <string name="fragment_analyzer_chart_total_hint">"Jumlah:"</string>
+    <string name="fragment_analyzer_chart_free_hint">"Percuma:"</string>
+    <string name="fragment_analyzer_chart_used_hint">"DIGUNAKAN"</string>
+    <string name="fragment_analyzer_allfiles_used_hint">"Digunakan:"</string>
+    <string name="news_v31" maxwidth="">"Penganalisis storan membolehkan anda mengetahui jenis fail yang menggunakan ruang storan"</string>
+    <string name="news_v32" maxwidth="">"Kategori aplikasi yang baharu dipertingkat"</string>
+</resources>

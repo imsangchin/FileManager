@@ -1,0 +1,65 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white">
+	<RelativeLayout
+        android:id="@+id/post_video_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginLeft="@dimen/asus_fb_post_padding_left"
+        android:layout_marginRight="@dimen/asus_fb_post_padding_right"
+        android:layout_marginTop="@dimen/asus_fb_post_margin_top" >
+
+          <RelativeLayout
+                android:id="@+id/info_content"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                >
+                <EditText
+                    android:id="@+id/video_description"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/asus_text_height"
+                    android:text=""
+                    android:background="@drawable/asus_fb_textfield_default_light"
+                    android:textColor="@color/asus_post_message_color"
+                    android:textSize="@dimen/asus_fb_post_message_size"/>
+                <TextView
+                    android:id="@+id/video_post_tag"
+                    android:layout_below="@id/video_description"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/asus_tag_height"
+                    android:autoLink="web"
+                    android:text=""
+                    android:scrollbars="vertical"
+                    android:textColor="@color/asus_post_ad_string_color"
+                    android:textSize="@dimen/asus_fb_post_tag_size"/>
+
+            </RelativeLayout>
+
+           <RelativeLayout
+                android:id="@+id/video_content"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/info_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="@dimen/asus_fb_post_image_margin_top"
+                android:layout_marginBottom="@dimen/asus_fb_post_image_margin_bottom">
+			<ImageView
+                android:id="@+id/video_thumbnail"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_centerInParent="true"
+                android:scaleType="centerInside" />
+
+            <ImageButton
+                android:id="@+id/play_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:background="@drawable/asus_complete_and_share_play_button" />
+            </RelativeLayout>
+     </RelativeLayout>
+
+</RelativeLayout>

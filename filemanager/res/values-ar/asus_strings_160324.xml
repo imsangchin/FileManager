@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Sylvia Cheng, 2016/03/22, Setting page -->
+    <string name="action_settings" description="menu title for setting" maxwidth="-1">"إعدادات"</string>
+    <string name="setting_view_group">"إعداد العرض"</string>
+    <string name="setting_view_hide_files">"إخفاء ملفات النظام"</string>
+    <string name="setting_notification_group">"الإشعار"</string>
+    <string name="setting_notification_large_files">"إشعار الملف الكبير"</string>
+    <string name="setting_notification_recent_files">"إشعار الملفات الأخيرة"</string>
+    <string name="setting_notification_wireless_transfer">"إشعار النقل اللاسلكي"</string>
+    <string name="setting_display_group">"العرض"</string>
+    <string name="tools_storage_analyzer">"محلل التخزين"</string>
+    <string name="tools_zenui_instant_update">"تحديث فوري"</string>
+    <string name="category_others">"أخرى"</string>
+    <string name="large_files_content_hint">"اكتشاف الملفات الكبيرة وحذفها بإذنك."</string>
+    <string name="recent_files_content_hint">"اكتشاف الملفات الأخيرة وحذفها بإذنك."</string>
+    <string name="fragment_analyzer_more_hint">"المزيد"</string>
+    <string name="fragment_analyzer_chart_total_hint">"الإجمالي:"</string>
+    <string name="fragment_analyzer_chart_free_hint">"المتاح:"</string>
+    <string name="fragment_analyzer_chart_used_hint">"مستخدم"</string>
+    <string name="fragment_analyzer_allfiles_used_hint">"مستخدم:"</string>
+    <string name="news_v31" maxwidth="">"محلل التخزين يتيح لك معرفة نوع الملفات التي تستهلك كل مساحة التخزين."</string>
+    <string name="news_v32" maxwidth="">"فئة تطبيق محسنة جديدة"</string>
+</resources>

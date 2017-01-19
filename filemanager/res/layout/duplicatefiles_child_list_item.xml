@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/duplicatefiles_child_list_item_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/duplicatefiles_list_item_margin"
+        android:background="?card_bg" >
+
+        <CheckBox
+            android:id="@+id/duplicatefiles_child_list_item_checkbox"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginRight="@dimen/duplicatefiles_list_item_margin"
+            android:layout_marginEnd="@dimen/duplicatefiles_list_item_margin"
+            android:focusable="false"
+            style="?checkbox" />
+
+        <LinearLayout
+            android:id="@+id/duplicatefiles_child_list_item_path_base"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignTop="@+id/duplicatefiles_child_list_item_checkbox"
+            android:layout_toRightOf="@+id/duplicatefiles_child_list_item_checkbox"
+            >
+
+            <TextView
+                android:id="@+id/duplicatefiles_child_list_item_path"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:textSize="@dimen/duplicatefiles_child_list_item_path_text_sizes"
+                android:maxLines="2"
+                android:textColor="?analyzer_cardbase_title_color" />
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/duplicatefiles_child_list_item_path_base"
+            android:layout_alignStart="@+id/duplicatefiles_child_list_item_path_base"
+            android:layout_below="@+id/duplicatefiles_child_list_item_path_base" >
+
+            <TextView
+                android:id="@+id/duplicatefiles_child_list_item_datetime"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_toLeftOf="@+id/duplicatefiles_child_list_item_external"
+                android:layout_toStartOf="@+id/duplicatefiles_child_list_item_external"
+                android:singleLine="true"
+                android:textColor="@color/duplicatefiles_child_list_item_content_color"
+                android:textSize="@dimen/duplicatefiles_child_list_item_content_text_sizes" />
+
+            <ImageView
+                android:id="@+id/duplicatefiles_child_list_item_external"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@+id/duplicatefiles_child_list_item_time"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentTop="true"
+                android:src="@drawable/dialog_asus_ic_sd"
+                android:visibility="invisible" />
+        </RelativeLayout>
+
+</RelativeLayout>

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="uf_sdk_number_of_subscribers_format">
+        <item quantity="one">"%1$s menyukai topik ini"</item>
+        <item quantity="other">"%1$s menyukai topik ini"</item>
+    </plurals>
+    <plurals name="uf_sdk_topics">
+        <item quantity="one">"topik"</item>
+        <item quantity="other">"topik"</item>
+    </plurals>
+    <plurals name="uv_comments">
+        <item quantity="one">"komentar"</item>
+        <item quantity="other">"komentar"</item>
+    </plurals>
+    <plurals name="uv_number_of_subscribers_format">
+        <item quantity="one">"%1$s menginginkan ide ini"</item>
+        <item quantity="other">"%1$s menginginkan ide ini"</item>
+    </plurals>
+    <plurals name="uv_people">
+        <item quantity="one">"orang"</item>
+        <item quantity="other">"orang"</item>
+    </plurals>
+    <plurals name="uv_subscribers">
+        <item quantity="one">"pelanggan"</item>
+        <item quantity="other">"pelanggan"</item>
+    </plurals>
+    <string description="label for trending searches" maxwidth="-1" name="trending_searches">"Pencarian Tren"</string>
+    <string name="uf_sdk_already_give_5star">"Telah memberikan peringkat 5 bintang"</string>
+    <string description="%d is a number, don&apos;t translate" name="uf_sdk_article_read_count">"%d tampilan"</string>
+    <string name="uf_sdk_attachment_format_warning">"Format file salah. Hanya file gambar yang dapat dilampirkan"</string>
+    <string name="uf_sdk_attachment_total_size">"Total"</string>
+    <string name="uf_sdk_attachment_warning">"Ukuran lampiran melampaui batas yang dibolehkan"</string>
+    <string maxwidth="-1" name="uf_sdk_cancel_btn_content">"Batalkan"</string>
+    <string name="uf_sdk_choosertitle_sharevia">"Bagikan melalui"</string>
+    <string name="uf_sdk_connection_error_msg">"Sambungan digagalkan oleh server. Coba lagi nanti."</string>
+    <string name="uf_sdk_connection_error_title">"Kesalahan sambungan"</string>
+    <string name="uf_sdk_discard">"Buang"</string>
+    <string name="uf_sdk_email_illigal">"Alamat email sudah digunakan"</string>
+    <string maxwidth="-1" name="uf_sdk_empty_notification">"Kosong :)"</string>
+    <string name="uf_sdk_faq">"Tanya Jawab"</string>
+    <string name="uf_sdk_feedback_and_help">"Tanggapan &amp; Bantuan"</string>
+    <string name="uf_sdk_forum_description">"Ikuti percakapan antarpengguna ASUS untuk menemukan dan berbagi solusi"</string>
+    <string maxwidth="-1" name="uf_sdk_grant_permission_title">"Beri izin untuk"</string>
+    <string name="uf_sdk_help">"Bantuan"</string>
+    <string name="uf_sdk_instant_answer_question">"Apakah Tanya Jawab ini membantu?"</string>
+    <string name="uf_sdk_like">"Suka"</string>
+    <string maxwidth="-1" name="uf_sdk_message">"Notifikasi"</string>
+    <string name="uf_sdk_msg_bad_email_format">"Alamat email tidak valid, coba lagi."</string>
+    <string name="uf_sdk_msg_confirm_discard_topic">"Konsep Anda tidak akan disimpan. Anda ingin tetap menghapusnya?"</string>
+    <string name="uf_sdk_msg_confirm_discard_topic_title">"Hapus posting?"</string>
+    <string name="uf_sdk_msg_subscribe">"Langganan notifikasi status topik akan dikirim melalui email Anda."</string>
+    <string name="uf_sdk_msg_subscribe_success">"Berhasil berlangganan"</string>
+    <string name="uf_sdk_msg_ticket_created">"Tanggapan Anda ke ASUS berhasil dikirim"</string>
+    <string name="uf_sdk_msg_topic_created">"Berhasil dipublikasikan"</string>
+    <string name="uf_sdk_msg_unsubscribe">"Berhasil berhenti berlangganan"</string>
+    <string name="uf_sdk_name_hint">"Masukkan nama"</string>
+    <string name="uf_sdk_name_illigal">"Nama pengguna sudah digunakan"</string>
+    <string name="uf_sdk_network_error">"Tidak ada sambungan Internet, periksa pengaturan jaringan Anda."</string>
+    <string description="zenui news" maxwidth="" name="uf_sdk_news">"Berita"</string>
+    <string name="uf_sdk_no_network_connection_content">"Sambungan digagalkan oleh server. Coba lagi nanti."</string>
+    <string name="uf_sdk_no_network_connection_title">"Kesalahan sambungan"</string>
+    <string name="uf_sdk_nothing_found">"Tidak ditemukan"</string>
+    <string name="uf_sdk_notice">"Pemberitahuan"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category1">"Pengumuman"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category2">"Tutorial &amp; tip"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category3">"Promosi"</string>
+    <string maxwidth="-1" name="uf_sdk_notification_category4">"Aktivitas"</string>
+    <string name="uf_sdk_publish_an_topic">"Publikasikan topik baru"</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_rate_now">"Nilai sekarang"</string>
+    <string description="%s is AP name, don&apos;t translate" maxWidth="" name="uf_sdk_rate_us_detail">"Jika Anda menyukai %s, nilai kami 5 bintang di Play Store."</string>
+    <string maxWidth="" name="uf_sdk_rate_us_detail_new">"Dukungan 5 bintang Anda akan menginspirasi kami untuk terus berkarya!"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_rating">"Penilaian 5 bintang"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title">"Nilai kami!"</string>
+    <string maxWidth="" name="uf_sdk_rate_us_title_new">"Dukung kami!"</string>
+    <string description="rate now" maxwidth="" name="uf_sdk_scroll_up_toast">"Gulir ke atas untuk menilai"</string>
+    <string name="uf_sdk_search_hint">"Cari bantuan"</string>
+    <string name="uf_sdk_select_common_bug">"Pilih bug umum"</string>
+    <string name="uf_sdk_send_feedback">"Kirim tanggapan"</string>
+    <string name="uf_sdk_send_feedback_help">"Tanggapan dan alamat email Anda akan dikirim ke ASUS. Tim Layanan akan menghubungi Anda melalui email."</string>
+    <string maxwidth="-1" name="uf_sdk_setting_btn_content">"Setelan"</string>
+    <string description="recommend title" maxwidth="" name="uf_sdk_settings_encourage_us_title">"Dukung kami"</string>
+    <string maxwidth="-1" name="uf_sdk_storage_permission_description">"Fungsi ini perlu mendapatkan izin penyimpanan untuk mengakses file multimedia. \n\nJika Anda ingin mengaktifkan fungsi ini, ketuk tombol Setelan untuk membuka halaman Setelan, lalu setel \"Info aplikasi\" > \"Izin\" untuk memberikan izin.\n"</string>
+    <string name="uf_sdk_submit_topic">"Publikasikan"</string>
+    <string name="uf_sdk_subscribe_dialog_title">"Berlangganan topik ini"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_answered">"Jawaban"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_completed">"selesai"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_declined">"penolakan"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_implemented">"Penerapan"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_planned">"rencana"</string>
+    <string maxWidth="" name="uf_sdk_suggestion_status_under_review">"dalam pemeriksaan"</string>
+    <string name="uf_sdk_thanks_for_your_feedback">"Terima kasih atas tanggapan Anda!"</string>
+    <string description="%s is a application name, don&apos;t translate" name="uf_sdk_ticket_hint">"Tulis tanggapan untuk %s"</string>
+    <string name="uf_sdk_title_topic">"Topik"</string>
+    <string name="uf_sdk_topic">"Topik"</string>
+    <string name="uf_sdk_topic_description_heading">"Deskripsi"</string>
+    <string name="uf_sdk_topic_description_hint">"Deskripsikan topik Anda secara rinci"</string>
+    <string name="uf_sdk_topic_filter">"TOPIK"</string>
+    <string name="uf_sdk_topic_form_help">"Jika Anda mempublikasikan topik di forum, pengguna lain dapat berlangganan forum tersebut dan berkomentar. Bila tim pengembangan ASUS merespons topik, Anda akan diberi tahu melalui email."</string>
+    <string name="uf_sdk_topic_form_title">"Publikasikan topik baru"</string>
+    <string name="uf_sdk_topic_text_heading">"Forum"</string>
+    <string name="uf_sdk_topic_text_hint">"Ketik judul topik Anda"</string>
+    <string name="uf_sdk_topic_title">"Judul"</string>
+    <string name="uf_sdk_translation_10117605">"Masalah terjemahan"</string>
+    <string name="uf_sdk_translation_117562">"Jenis tanggapan"</string>
+    <string name="uf_sdk_translation_2529543">"Laporan gangguan"</string>
+    <string name="uf_sdk_translation_2529544">"Lainnya"</string>
+    <string name="uf_sdk_translation_2530478">"Saran"</string>
+    <string name="uf_sdk_unhelpful_article_message_question">"Apakah Anda ingin mengirim tanggapan ke tim pengembangan ASUS?"</string>
+    <string name="uf_sdk_user_forum">"Forum pengguna"</string>
+    <string name="uf_sdk_warning">"Peringatan"</string>
+    <string name="uf_sdk_wifi_settings">"Pengaturan Wi-Fi"</string>
+    <string name="uf_sdk_wlan_settings">"Pengaturan WLAN"</string>
+    <string name="uf_sdk_write_your_feedback">"Tulis tanggapan di sini"</string>
+    <string name="uf_sdk_your_draft_will_be_discarded">"Konsep Anda akan dibuang."</string>
+    <string description="description for empty search result" maxwidth="-1" name="unable_to_find_artlcles">"Tidak dapat menemukan \u0022%s\u0022 artikel terkait"</string>
+    <string name="uv_admin_response_format">"Respons admin: %1$s"</string>
+    <string name="uv_all_articles">"Semua Artikel"</string>
+    <string name="uv_all_results_filter">"SEMUA"</string>
+    <string name="uv_android_sdk">Android SDK</string>
+    <string name="uv_article_browse_question">"Apakah artikel ini membantu?"</string>
+    <string name="uv_article_instant_answer_question">"Apakah Tanya Jawab ini membantu?"</string>
+    <string name="uv_cancel">"Batal"</string>
+    <string name="uv_category">"Kategori"</string>
+    <string name="uv_close">"Tutup"</string>
+    <string name="uv_comment_hint">"Masukkan komentar Anda"</string>
+    <string name="uv_confirm">"Konfirmasi"</string>
+    <string name="uv_contact_continue_button">"Saya masih ingin mengirim pesan"</string>
+    <string name="uv_contact_hint">"Masukkan pertanyaan atau tanggapan Anda"</string>
+    <string name="uv_contact_us">"Hubungi kami"</string>
+    <string name="uv_display_name">"Nama tampilan"</string>
+    <string name="uv_email_address">"Alamat email"</string>
+    <string name="uv_email_address_hint">"email@Anda.com (wajib diisi)"</string>
+    <string name="uv_error">"Kesalahan"</string>
+    <string name="uv_failed_signin_error">"Email atau sandi salah"</string>
+    <string name="uv_forgot_password">"Lupa sandi"</string>
+    <string name="uv_helpful_article_message_question">"Anda masih ingin mengirim pesan?"</string>
+    <string name="uv_i_want_this">"Saya menginginkan ini!"</string>
+    <string name="uv_idea_description_heading">"Deskripsikan ide Anda secara lebih rinci"</string>
+    <string name="uv_idea_description_hint">"(opsional)"</string>
+    <string name="uv_idea_text_heading">"Saya menyarankan Anda…"</string>
+    <string name="uv_loading">"Memuat…"</string>
+    <string name="uv_matching_articles">"Artikel yang cocok"</string>
+    <string name="uv_matching_articles_and_ideas">"Artikel dan ide yang cocok"</string>
+    <string name="uv_menu_attach">"Lampirkan"</string>
+    <string name="uv_menu_search">"Cari"</string>
+    <string name="uv_msg_bad_email_format">"Masukkan alamat email yang valid."</string>
+    <string name="uv_msg_comment_posted">"Komentar Anda telah diposting"</string>
+    <string name="uv_msg_confirm_discard_message">"Anda yakin ingin membuang pesan Anda?"</string>
+    <string name="uv_msg_custom_fields_validation">"Isi semua bidang yang wajib diisi."</string>
+    <string name="uv_msg_forgot_password">"Email lupa sandi dikirim"</string>
+    <string name="uv_msg_idea_created">"Ide Anda telah dibuat"</string>
+    <string name="uv_msg_ticket_created">"Pesan Anda telah dikirim"</string>
+    <string name="uv_msg_user_identity_validation">"Masukkan alamat email Anda"</string>
+    <string name="uv_name_hint">"“Anonim”"</string>
+    <string name="uv_network_error">"Terjadi kesalahan dalam menyambungkan ke Suara Pengguna"</string>
+    <string name="uv_nevermind">"Tidak apa"</string>
+    <string name="uv_new_comment">"Komentar baru"</string>
+    <string name="uv_next">"Berikutnya"</string>
+    <string name="uv_no">"Tidak"</string>
+    <string name="uv_none_of_these_help">"Tak satu pun bantuan ini"</string>
+    <string name="uv_password">"Sandi"</string>
+    <string name="uv_password_dialog_title">"Masukkan sandi Anda"</string>
+    <string name="uv_portal_title">"Bantuan"</string>
+    <string name="uv_post_a_comment">"Posting komentar"</string>
+    <string name="uv_post_comment">"Posting Komentar"</string>
+    <string name="uv_posted_by_format">"Diposting oleh %1$s pada %2$s"</string>
+    <string name="uv_powered_by_uservoice">"Diberdayakan oleh Suara Pengguna"</string>
+    <string name="uv_ranked">"Peringkat %1$s"</string>
+    <string name="uv_remove_votes">"Hapus Voting"</string>
+    <string name="uv_select_none">"(tak ada)"</string>
+    <string name="uv_select_one">"Pilih satu"</string>
+    <string name="uv_send_message">"Kirim pesan"</string>
+    <string name="uv_signin_dialog_ok">"Masuk"</string>
+    <string name="uv_signin_dialog_title">"Masuk"</string>
+    <string name="uv_status_format">"Status: %1$s"</string>
+    <string name="uv_submit_idea">"Kirim ide"</string>
+    <string name="uv_subscribe">"Berlangganan"</string>
+    <string name="uv_subscribe_dialog_title">"Berlangganan ide ini"</string>
+    <string name="uv_suggestion_instant_answer_question">"Apakah ide ini membantu?"</string>
+    <string name="uv_thanks">"Terima kasih!"</string>
+    <string name="uv_unhelpful_article_message_question">"Anda ingin mengirimi kami pesan?"</string>
+    <string name="uv_value">"Nilai"</string>
+    <string name="uv_very_yes">"Ya!"</string>
+    <string name="uv_yes">"Ya"</string>
+    <string name="uv_your_email_address">"Alamat email Anda"</string>
+    <string name="uv_your_name">"Nama Anda"</string>
+</resources>
