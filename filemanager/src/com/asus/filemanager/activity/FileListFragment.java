@@ -1810,7 +1810,8 @@ public class FileListFragment extends FixedListFragment implements OnClickListen
         menu.findItem(R.id.add_folder_action).setVisible(false);
 
         // disallow sort function when we are category large file and category recent
-        menu.findItem(R.id.sort_item).setVisible((isCategoryLargeFile() || isCategoryRecent() || isCategoryGame()) ? false : true);
+        //menu.findItem(R.id.sort_item).setVisible((isCategoryLargeFile() || isCategoryRecent() || isCategoryGame()) ? false : true);
+        menu.findItem(R.id.sort_item).setVisible((isCategoryLargeFile() || isCategoryRecent() || isCategoryGame() || isCategoryMusic()) ? false : true);
 
         if(ItemOperationUtility.getInstance().enableCtaCheck() || !bEnableInsider || WrapEnvironment.IS_VERIZON) {
             ViewUtility.hideMenuItem(menu,R.id.action_invite_betauser);
@@ -3188,6 +3189,8 @@ public class FileListFragment extends FixedListFragment implements OnClickListen
                 Arrays.sort(files, SortUtility.getComparator(SortType.SORT_DATE_DOWN));
             } else if (isCategoryLargeFile()) {
                 Arrays.sort(files, SortUtility.getComparator(SortType.SORT_SIZE_UP));
+            } else if (isCategoryMusic()) {
+                Arrays.sort(files, SortUtility.getComparator(SortType.SORT_NAME_DOWN));
             } else if (isCategoryGame()) {
                 // DO NOT ADJUST SORTING
             } else {
@@ -5359,6 +5362,12 @@ public class FileListFragment extends FixedListFragment implements OnClickListen
         if (mViewSwitcher != null) {
             mViewSwitcher.setVisibility(visibility);
         }
+
+        if (isCategoryMusic()) {
+            mViewSwitcher.setVisibility(View.GONE);
+            ItemOperationUtility.getInstance().isListView = true;
+        }
+
         if (mViewBadge != null){
             if (visibility == View.GONE) {
                 mViewBadge.setVisibility(View.GONE);

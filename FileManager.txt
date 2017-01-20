@@ -134,7 +134,37 @@ home_page.xml
 FileListManager.java
 ArrayList<LocalVFile> albumFiles = MediaProviderAsyncHelper.getMusicAlbums(getActivity());
 ArrayList<LocalVFile> albumFiles = MediaProviderAsyncHelper.getMusicFiles(getActivity(), false);
+最后参数bShowHidden，应该是标记是否显示隐藏文件，一般来说不需要；
+
+整个文件管理器的文件排序方式都是最新-最旧，即最新的排在前面；
+可能需要调整为默认为a-z(不区分大小写)，且音乐这块需要添加字母导航功能；
+Arrays.sort(files, SortUtility.getComparator(SortType.SORT_NAME_UP));
+虽然这里加上了字母排序，但是由于其默认为时间，后面还是会有排序过程将之前的结果覆盖，所以这里需要添加区分机制；
+如，最近单独分到标签页后，那么分类的项均可以采用字母排序；
+private int mSortType = SortType.SORT_DATE_DOWN;
+//private int mSortType = SortType.SORT_NAME_UP;
+这样设置后还是允许用户改变排序方式，但是对Music会有影响？
+else if (isCategoryMusic()) {
+	Arrays.sort(files, SortUtility.getComparator(SortType.SORT_NAME_DOWN));
+}
+针对Music单独排序，代码中已经有判断类别的方法，需要参考最近和大型文档，固定排序方式，将排序选项隐藏；
+//menu.findItem(R.id.sort_item).setVisible((isCategoryLargeFile() || isCategoryRecent() || isCategoryGame()) ? false : true);
+menu.findItem(R.id.sort_item).setVisible((isCategoryLargeFile() || isCategoryRecent() || isCategoryGame() || isCategoryMusic() ? false : true);
 
 
-10、
+10、对应Music，不让其显示布局调整的按钮，而且始终以列表形式显示，
+FileListManager.java修改private void setViewSwitcherVisibility(int visibility) {
+	if (isCategoryMusic()) {
+		mViewSwitcher.setVisibility(View.GONE);
+		ItemOperationUtility.getInstance().isListView = true;
+	}
+FixedListFragment.java判断是否是Music，不能影响其他类别的显示风格：
+FileListFragment fileListFragment = (FileListFragment) getActivity().getFragmentManager().findFragmentById(R.id.filelist);
+if(!fileListFragment.isCategoryMusic()) {
+	if(ItemOperationUtility.getInstance().containsViewModeInPreferences(getActivity())) {
+		ItemOperationUtility.getInstance().loadViewModeFromPreferences(getActivity(), true);
+	}
+}
 
+	
+11、

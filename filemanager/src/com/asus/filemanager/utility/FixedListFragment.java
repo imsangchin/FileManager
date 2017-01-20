@@ -1,12 +1,5 @@
 package com.asus.filemanager.utility;
 
-import com.asus.filemanager.R;
-import com.asus.filemanager.adapter.DeviceListAdapter;
-import com.asus.filemanager.adapter.FileListAdapter;
-import com.asus.filemanager.adapter.SearchListAdapter;
-import com.asus.filemanager.samba.SambaFileUtility;
-import com.asus.remote.utility.RemoteFileUtility;
-
 import android.app.Fragment;
 import android.graphics.drawable.Drawable;
 import android.os.Bundle;
@@ -14,7 +7,6 @@ import android.os.Handler;
 import android.text.Spannable;
 import android.text.SpannableString;
 import android.text.style.ImageSpan;
-import android.util.TypedValue;
 import android.view.View;
 import android.view.animation.AnimationUtils;
 import android.widget.AbsListView;
@@ -22,6 +14,14 @@ import android.widget.GridView;
 import android.widget.ListAdapter;
 import android.widget.ListView;
 import android.widget.TextView;
+
+import com.asus.filemanager.R;
+import com.asus.filemanager.activity.FileListFragment;
+import com.asus.filemanager.adapter.DeviceListAdapter;
+import com.asus.filemanager.adapter.FileListAdapter;
+import com.asus.filemanager.adapter.SearchListAdapter;
+import com.asus.filemanager.samba.SambaFileUtility;
+import com.asus.remote.utility.RemoteFileUtility;
 
 public class FixedListFragment extends Fragment {
     /* this is used for SearchResultFragment, a derived class of FixedListFragment which only support list mode*/
@@ -311,6 +311,12 @@ public class FixedListFragment extends Fragment {
      * new state.
      */
     private void setListShown(boolean shown, boolean animate) {
+        FileListFragment fileListFragment = (FileListFragment) getActivity().getFragmentManager().findFragmentById(R.id.filelist);
+        if(!fileListFragment.isCategoryMusic()) {
+            if(ItemOperationUtility.getInstance().containsViewModeInPreferences(getActivity())) {
+                ItemOperationUtility.getInstance().loadViewModeFromPreferences(getActivity(), true);
+            }
+        }
         ensureList();
         if (mProgressContainer == null) {
             throw new IllegalStateException("Can't be used with a custom content view");
