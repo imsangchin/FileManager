@@ -17,7 +17,6 @@ import android.content.res.Resources;
 import android.content.res.Resources.NotFoundException;
 import android.graphics.Color;
 import android.graphics.Point;
-import android.graphics.PorterDuff;
 import android.graphics.drawable.Drawable;
 import android.os.Build;
 import android.os.Bundle;
@@ -38,7 +37,6 @@ import android.text.TextUtils;
 import android.text.format.Formatter;
 import android.util.Log;
 import android.view.ActionMode;
-import android.view.ContextThemeWrapper;
 import android.view.Display;
 import android.view.DragEvent;
 import android.view.LayoutInflater;
@@ -95,11 +93,11 @@ import com.asus.filemanager.editor.EditResult;
 import com.asus.filemanager.editor.EditorAsyncHelper.WorkerArgs;
 import com.asus.filemanager.editor.EditorUtility;
 import com.asus.filemanager.editor.EditorUtility.ExistPair;
+import com.asus.filemanager.functionaldirectory.hiddenzone.HiddenZoneUtility;
 import com.asus.filemanager.ga.GaAccessFile;
 import com.asus.filemanager.ga.GaCloudStorage;
 import com.asus.filemanager.ga.GaHiddenCabinet;
 import com.asus.filemanager.ga.GaMenuItem;
-import com.asus.filemanager.ga.GaMoveToDialog;
 import com.asus.filemanager.ga.GaSearchFile;
 import com.asus.filemanager.ga.GaShortcut;
 import com.asus.filemanager.ga.GaUserPreference;
@@ -117,19 +115,18 @@ import com.asus.filemanager.samba.SambaMessageHandle;
 import com.asus.filemanager.samba.SambaVFile;
 import com.asus.filemanager.samba.ScanLanNetworkPC;
 import com.asus.filemanager.samba.provider.PcInfoDbHelper;
-import com.asus.filemanager.functionaldirectory.hiddenzone.HiddenZoneUtility;
 import com.asus.filemanager.ui.ContextualActionBar;
 import com.asus.filemanager.ui.SlideListView;
 import com.asus.filemanager.utility.ColorfulLinearLayout;
 import com.asus.filemanager.utility.ConstantsUtil;
 import com.asus.filemanager.utility.CreateShortcutUtil;
 import com.asus.filemanager.utility.FileUtility;
-import com.asus.filemanager.utility.FileUtility.FileInfo;
 import com.asus.filemanager.utility.FixedListFragment;
 import com.asus.filemanager.utility.FolderElement.StorageType;
 import com.asus.filemanager.utility.ItemOperationUtility;
 import com.asus.filemanager.utility.LocalVFile;
 import com.asus.filemanager.utility.PathIndicator;
+import com.asus.filemanager.utility.PinyinComparator;
 import com.asus.filemanager.utility.RecentFileUtil;
 import com.asus.filemanager.utility.SortUtility;
 import com.asus.filemanager.utility.SortUtility.SortType;
@@ -162,6 +159,7 @@ import java.io.FileFilter;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Collections;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
@@ -599,7 +597,8 @@ public class FileListFragment extends FixedListFragment implements OnClickListen
     private EditPool mDeleteFilePool = new EditPool();
     private EditPool mShareFilePool = new EditPool();
 
-    private int mSortType = SortType.SORT_DATE_DOWN;
+    //private int mSortType = SortType.SORT_DATE_DOWN;
+    private int mSortType = SortType.SORT_NAME_DOWN;
     public boolean mIsComFromSearch = false;
     private VFile mOldIndicatorFile;
     /****add to save useful file path****/
@@ -629,7 +628,7 @@ public class FileListFragment extends FixedListFragment implements OnClickListen
     // ---
 
     // ++ Alex
-    public FileManagerActivity mActivity = null;
+    public static FileManagerActivity mActivity = null;
     private ImageView mPathHome;
     private ImageView mViewSwitcher;
     private ImageView mViewBadge;
@@ -3189,8 +3188,9 @@ public class FileListFragment extends FixedListFragment implements OnClickListen
                 Arrays.sort(files, SortUtility.getComparator(SortType.SORT_DATE_DOWN));
             } else if (isCategoryLargeFile()) {
                 Arrays.sort(files, SortUtility.getComparator(SortType.SORT_SIZE_UP));
-            } else if (isCategoryMusic()) {
-                Arrays.sort(files, SortUtility.getComparator(SortType.SORT_NAME_DOWN));
+//            } else if (isCategoryMusic()) {
+//                PinyinComparator pinyinComparator = new PinyinComparator(true);
+//                Arrays.sort(files, pinyinComparator);
             } else if (isCategoryGame()) {
                 // DO NOT ADJUST SORTING
             } else {
@@ -5722,8 +5722,8 @@ public class FileListFragment extends FixedListFragment implements OnClickListen
             public void run() {
                 // TODO Auto-generated method stub
                 //ArrayList<LocalVFile> albumFiles = MediaProviderAsyncHelper.getMusicAlbums(getActivity());
+                //ArrayList<LocalVFile> musicsFiles = MediaProviderAsyncHelper.getMusicFilesByBucketId(getActivity(), "", 0, false);
                 ArrayList<LocalVFile> musicsFiles = MediaProviderAsyncHelper.getMusicFiles(getActivity(), false);
-
                 LocalVFile[] files = musicsFiles.toArray(new LocalVFile[musicsFiles.size()]);
                 Message msg = mHandler.obtainMessage(MSG_LOAD_FINISHED_CATEGORY, files);
                 if (researchAfterComplete) {
@@ -6218,7 +6218,7 @@ public class FileListFragment extends FixedListFragment implements OnClickListen
         return currentFile.getAbsolutePath().startsWith(categoryFile.getAbsolutePath());
     }
 
-    private static boolean isCategory(VFile currentFile, VFile categoryFile) {
+    public static boolean isCategory(VFile currentFile, VFile categoryFile) {
         if (currentFile == null) {
             return false;
         }

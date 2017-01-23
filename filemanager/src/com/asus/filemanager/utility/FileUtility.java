@@ -1114,7 +1114,8 @@ public class FileUtility {
     }
     public static int getCurrentSortType(Context context){
         SharedPreferences sharedPrefences = context.getSharedPreferences(FileUtility.SCAN_FILE_ATTACHOP_INFO_NAME, Context.MODE_PRIVATE);
-        int type = sharedPrefences.getInt(FILE_SORTTYPE, SortType.SORT_DATE_DOWN);
+        //int type = sharedPrefences.getInt(FILE_SORTTYPE, SortType.SORT_DATE_DOWN);
+        int type = sharedPrefences.getInt(FILE_SORTTYPE, SortType.SORT_NAME_DOWN);
         MediaProviderAsyncHelper.setSortType(type);
         return type;
     }

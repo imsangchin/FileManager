@@ -20,6 +20,7 @@ import android.util.Log;
 import android.webkit.MimeTypeMap;
 
 import com.asus.filemanager.functionaldirectory.FunctionalDirectoryUtility;
+import com.asus.filemanager.utility.CharacterParser;
 import com.asus.filemanager.utility.ConstantsUtil;
 import com.asus.filemanager.utility.FileUtility;
 import com.asus.filemanager.utility.ItemOperationUtility;
@@ -28,6 +29,8 @@ import com.asus.filemanager.utility.MediaScannerHelper;
 import com.asus.filemanager.utility.SortUtility;
 import com.asus.filemanager.utility.VFile;
 import com.asus.filemanager.utility.reflectionApis;
+
+import net.sourceforge.pinyin4j.PinyinHelper;
 
 import java.io.File;
 import java.io.IOException;
@@ -682,7 +685,8 @@ public class MediaProviderAsyncHelper {
     public static ArrayList<LocalVFile> queryFiles(Context context, Uri uri, String[] projection,
                   String selection, String[] selectionArgs, String sortOrder, boolean bShowHidden, boolean ignoreFileExistCheck){
         ArrayList<LocalVFile> files = new ArrayList<LocalVFile>();
-
+//实例化汉字转拼音类
+        CharacterParser characterParser = CharacterParser.getInstance();
         ContentResolver mCr = context.getContentResolver();
         Cursor cursor = mCr.query(uri, projection, selection, selectionArgs, sortOrder);
         if(cursor != null) {
@@ -702,6 +706,27 @@ public class MediaProviderAsyncHelper {
                             columnIndex = cursor.getColumnIndex(MediaStore.Audio.Media.DURATION);
                             if (columnIndex != -1) {
                                 file.setChildCount((int)(cursor.getLong(columnIndex)/1000));
+                            }
+                            StringBuilder stringBuilder = new StringBuilder();
+                            stringBuilder.setLength(0);
+                            for( char c : file.getName().toCharArray()) {
+                                String[] pinyinArray = PinyinHelper.toHanyuPinyinStringArray(c);
+                                if (pinyinArray != null) {
+                                    for (String str : pinyinArray) {
+                                        stringBuilder.append(str);
+                                    }
+                                } else {
+                                    stringBuilder.append(c);
+                                }
+                            }
+                            String pinyin = stringBuilder.toString().toUpperCase();
+                            file.setPinyin(pinyin);
+                            Log.i("FileManager", pinyin);
+                            String sortString = pinyin.substring(0, 1);
+                            if (sortString.matches("[A-Z]")) {
+                                file.setSortLetters(sortString);
+                            } else {
+                                file.setSortLetters("#");
                             }
                             if (!bShowHidden) {
                                 if (!file.isHidden())
@@ -939,7 +964,15 @@ public class MediaProviderAsyncHelper {
     }
 
     public static ArrayList<LocalVFile> getMusicFiles(Context context, boolean isShowHidden){
-        return queryFiles(context, mAudioUri, FILE_projection, isAudioSelection(), null, null, isShowHidden, false);
+        String[] Music_projection = new String[] {
+                MediaStore.Files.FileColumns.DATA,
+                MediaStore.Files.FileColumns.DISPLAY_NAME,
+                MediaStore.Files.FileColumns.TITLE,
+                MediaStore.Audio.Media.DURATION,
+                MediaStore.Audio.Media.TITLE,
+        };
+        //return queryFiles(context, mAudioUri, FILE_projection, isAudioSelection(), null, null, isShowHidden, false);
+        return queryFiles(context, mAudioUri, Music_projection, isAudioSelection(), null, null, isShowHidden, false);
     }
 
     public static int getMusicFilesCount(Context context, boolean isShowHidden){
@@ -999,7 +1032,6 @@ public class MediaProviderAsyncHelper {
              }
             cursor.close();
         }
-        Log.i("FileManager", ""+albums.size());
         return albums;
     }
 
@@ -1015,7 +1047,8 @@ public class MediaProviderAsyncHelper {
 
         if (limit != 0)
             sortOrder += (" LIMIT " + limit);
-        return queryFiles(context, mUri, Audio_bucket_projection, selection, new String[] { bucket_id }, sortOrder, false, ignoreFileExitCheck);
+        //return queryFiles(context, mUri, Audio_bucket_projection, selection, new String[] { bucket_id }, sortOrder, false, ignoreFileExitCheck);
+        return queryFiles(context, mUri, Audio_bucket_projection, isAudioSelection(), null, null, false, ignoreFileExitCheck);
     }
 
     public static LocalVFile getFirstMusicFileByBucketId(Context context, String bucket_id){
@@ -1103,6 +1136,27 @@ public class MediaProviderAsyncHelper {
                 LocalVFile file = new LocalVFile(cursor.getString(cursor.getColumnIndex(MediaStore.Images.Media.DATA)));
 
                 LocalVFile albumFile = (LocalVFile) file.getParentFile();
+                StringBuilder stringBuilder = new StringBuilder();
+                stringBuilder.setLength(0);
+                for( char c : albumFile.getName().toCharArray()) {
+                    String[] pinyinArray = PinyinHelper.toHanyuPinyinStringArray(c);
+                    if (pinyinArray != null) {
+                        for (String str : pinyinArray) {
+                            stringBuilder.append(str);
+                        }
+                    } else {
+                        stringBuilder.append(c);
+                    }
+                }
+                String pinyin = stringBuilder.toString().toUpperCase();
+                albumFile.setPinyin(pinyin);
+                Log.i("FileManager", pinyin);
+                String sortString = pinyin.substring(0, 1);
+                if (sortString.matches("[A-Z]")) {
+                    albumFile.setSortLetters(sortString);
+                } else {
+                    albumFile.setSortLetters("#");
+                }
                 if(null != albumFile && albumFile.exists() && !FunctionalDirectoryUtility.getInstance().inFunctionalDirectory(albumFile)){
                     albumFile.setBucketId(cursor.getInt(cursor.getColumnIndex(MediaStore.Images.Media.BUCKET_ID)));
                     if (mVideoUri.equals(uri)) {

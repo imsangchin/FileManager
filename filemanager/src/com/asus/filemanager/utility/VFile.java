@@ -1,18 +1,31 @@
 package com.asus.filemanager.utility;
 
+import android.os.Parcel;
+import android.os.Parcelable;
+
+import com.asus.filemanager.samba.SambaVFile;
+import com.asus.remote.utility.RemoteVFile;
+
 import java.io.File;
 import java.net.URI;
 import java.util.ArrayList;
 import java.util.List;
 
-import android.os.Parcel;
-import android.os.Parcelable;
-import android.util.Log;
-
-import com.asus.filemanager.samba.SambaVFile;
-import com.asus.remote.utility.RemoteVFile;
-
 public class VFile extends File implements Parcelable{
+    private String sortLetters;  //显示数据拼音的首字母
+    public String getSortLetters() {
+        return sortLetters;
+    }
+    public void setSortLetters(String sortLetters) {
+        this.sortLetters = sortLetters;
+    }
+    private String pinyin;
+    public String getPinyin() {
+        return pinyin;
+    }
+    public void setPinyin(String pinyin) {
+        this.pinyin = pinyin;
+    }
 
     protected boolean mChecked = false;
     protected boolean mHasDRM = false;

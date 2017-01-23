@@ -199,24 +199,32 @@ public class SortUtility {
             Collator chinaCollator = Collator.getInstance(locale);
             AlphanumComparator alphanumComparator = new AlphanumComparator(chinaCollator);
             if (mAscending) {
-                if (file1.isDirectory() && file2.isDirectory()) {
-                    result = alphanumComparator.compare(s1, s2);
-                } else if (!file1.isDirectory() && file2.isDirectory()) {
+                if (!file1.isDirectory() && file2.isDirectory()) {
                     result = 1;
                 } else if (file1.isDirectory() && !file2.isDirectory()) {
                     result = -1;
                 } else {
-                    result = alphanumComparator.compare(s1, s2);
+                    if (file2.getSortLetters().equals("#")) {
+                        result = 1;
+                    } else if (file1.getSortLetters().equals("#")) {
+                        result = -1;
+                    } else {
+                        result = file1.getPinyin().compareTo(file2.getPinyin());
+                    }
                 }
             } else {
-                if (file1.isDirectory() && file2.isDirectory()) {
-                    result = alphanumComparator.compare(s2, s1);
-                } else if (!file1.isDirectory() && file2.isDirectory()) {
+                if (!file1.isDirectory() && file2.isDirectory()) {
                     result = 1;
                 } else if (file1.isDirectory() && !file2.isDirectory()) {
                     result = -1;
                 } else {
-                    result = alphanumComparator.compare(s2, s1);
+                    if (file2.getSortLetters().equals("#")) {
+                        result = 1;
+                    } else if (file1.getSortLetters().equals("#")) {
+                        result = -1;
+                    } else {
+                        result = file2.getPinyin().compareTo(file1.getPinyin());
+                    }
                 }
             }
             return result;

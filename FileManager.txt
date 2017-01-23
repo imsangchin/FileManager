@@ -7,27 +7,33 @@ Log.i("FileManager", ""+metrics.widthPixels+" "+metrics.heightPixels+" "+metrics
 
 FileManager
 
-
-前三项可改可不改，先保留
-1、Project_FileManager
-删除根目录下的AndroidManifest.xml
-
-
-2、filemanager nodule
-主配置文件AndroidManifest.xml修改android:uses-permission为uses-permission
-
-
-3、build.gradle
-filemanager将apply plugin 'android'改为apply plugin 'com.android.application'
-other modules将apply plugin 'android-library'改为apply plugin 'com.android.library'
-
-
 FileManager.java
 NORMAL_SEARCH(R.id.searchlist),
 HOME_PAGE(R.id.homepage),  //引导完成后进入的首页面
 FILE_LIST(R.id.filelist),
 RECYCLE_BIN("RecycleBinFragment"),
 HIDDEN_ZONE("HiddenZoneFragment");
+
+
+代码中对某些属性因不同设备进行了不同的处理，如猎豹垃圾清理、右上角菜单项等，
+主要参考是是否安装了对应的app，或者是否是Verison机型，后续根据需求将这一块确定下来，行为和CN一致；
+
+
+前三项可改可不改，先保留
+
+1、AndroidManifest.xml
+对于工程目录Project_FileManager，
+删除根目录下的AndroidManifest.xml，因为和filemanager模块中重复了；
+
+
+2、AndroidManifest.xml
+对于模块filemanager中的主配置文件AndroidManifest.xml，修改android:uses-permission为uses-permission
+
+
+3、build.gradle
+filemanager将apply plugin 'android'改为apply plugin 'com.android.application'
+other modules将apply plugin 'android-library'改为apply plugin 'com.android.library'
+
 
 HomePageFragment.java
 原先的代码结构是以home为主页面，点击其页面上的项时跳转到子页面，然后返回都会回到home页面，
@@ -37,26 +43,87 @@ home包括三个大的部分：分类、存储空间、内存分析与回收站等；
 那么对于现在要生成三个类别来说，整体布局可能需要调整；
 
 
-4、存储空间显示位置
+4、**** HomePageFragment.java
+存储空间显示位置
 如果有SD卡，那么采用默认布局：内存组件在左，外存组件在右；
 否则，将内存显示在布局中间；
 相关文件：HomePageFragment.java、home_page.xml；
 自定义组件ExpandableHeightGridView.java，id为local_storage_list；
-HomePageFragment.java--private void updateLocalStorageList(){}，
-在该方法中判断存储空间情况，动态调整布局；
-if(storageVolume.size() == 1) {
-	mLocalStorageListView.setNumColumns(1);
-} else {
-	mLocalStorageListView.setNumColumns(2);
-}
+在该方法中判断存储空间情况，动态调整布局：
+HomePageFragment.java--private void updateLocalStorageList(){
+	if(storageVolume.size() == 1) {
+		mLocalStorageListView.setNumColumns(1);
+	} else {
+		mLocalStorageListView.setNumColumns(2);
+	}
 测试了几台Asus手机和平板是可以自适应的，
 但是在OPPO R9m上不行，只有内存卡的时候不能组件不会自动居中布局；
 
 
+5、**** ToolPreference.java
+在实现类别的添加时，不管是第一部分的分类项，还是第三部分的额外工具项，都有特定的管理类，
+如分类是上面的CategoryPreference，工具是ToolPreference；
+工具类别暂时去除回收站这一项，以后可能添加或者替换成垃圾清理（接口调用）：
+public static List<ToolItem> createDefaultTools(Context context) {
+	ArrayList<ToolItem> toolItems = new ArrayList<ToolItem>();
+	toolItems.add(new ToolItem(context,ToolItem.STORAGE_ANALYZER));
+	//toolItems.add(new ToolItem(context, ToolItem.RECYCLE_BIN));
+	toolItems.add(new ToolItem(context,ToolItem.HTTP_FILE_TRANSFER));
+	//addCMTool(context, toolItems);
+	toolItems.add(new ToolItem(context,ToolItem.CLEAN_MASTER));
+	//addZenUITool(context,toolItems);
+	toolItems.add(new ToolItem(context, ToolItem.HIDDEN_ZONE));
+	return toolItems;
+}
+
+
+6、**** HomePageFragment.java
+注意，addCMTool方法从代码来看是判断当前设备是否是asus & preload com.cleanmaster.mguard，
+如果是则在tool栏添加clean master项，否则不加；这一点在布局等情况下需要考虑；
+CN版的将这一条去除即可，即都使用Asus CN版手机管家的垃圾回收接口；
+其实使用call该入口时，替换成新的接口即可，原先的代码结构进行细微的调整；
+目前点击HomePageFragment中的项时弹出提示：
+Toast.makeText(mActivity, "接垃圾清理接口", Toast.LENGTH_SHORT).show();
+
+
+7、**** home_page.xml
+去除分类选择与排序的选择菜单（原先在分类标签的右边）
+将id为category_edit的组件隐藏，android:visibility="gone"；
+在建立全局分页标签后，还需要将原先的分类标题category_title隐藏，
+即将两者的所属容器category_title_container隐藏即可；
+
+8、**** FileListManager.java
+音乐不分文件夹，全部以列表的形式展示
+private void loadMusicFiles(final boolean researchAfterComplete) {
+	//ArrayList<LocalVFile> albumFiles = MediaProviderAsyncHelper.getMusicAlbums(getActivity());
+	1> ArrayList<LocalVFile> musicsFiles = MediaProviderAsyncHelper.getMusicFiles(getActivity(), false);
+	//但是getMusicFiles方法是按照FILE_projection来查找文件，没有包含音乐的时长duration，需要另外处理，调用两个方法都可以，但是分别需做下面的修改；
+	2> ArrayList<LocalVFile> musicsFiles = MediaProviderAsyncHelper.getMusicFilesByBucketId(getActivity(), "", 0, false);
+	LocalVFile[] files = musicsFiles.toArray(new LocalVFile[musicsFiles.size()]);
+最后参数bShowHidden，应该是标记是否显示隐藏文件，一般来说不需要；
+MediaProviderAsyncHelper.java
+1> public static ArrayList<LocalVFile> getMusicFiles(Context context, boolean isShowHidden){
+	String[] Music_projection = new String[] {
+			MediaStore.Files.FileColumns.DATA,
+			MediaStore.Files.FileColumns.DISPLAY_NAME,
+			MediaStore.Files.FileColumns.TITLE,
+			MediaStore.Audio.Media.DURATION,
+	};
+	//return queryFiles(context, mAudioUri, FILE_projection, isAudioSelection(), null, null, isShowHidden, false);
+	return queryFiles(context, mAudioUri, Music_projection, isAudioSelection(), null, null, isShowHidden, false);
+}
+2> public static ArrayList<LocalVFile> getMusicFilesByBucketId(Context context, String bucket_id, int limit, boolean ignoreFileExitCheck){
+	//return queryFiles(context, mUri, Audio_bucket_projection, selection, new String[] { bucket_id }, sortOrder, false, ignoreFileExitCheck);
+	return queryFiles(context, mUri, Audio_bucket_projection, isAudioSelection(), null, null, false, ignoreFileExitCheck);
+
+
+将秒（毫秒）转化为hh:mm:ss方式显示，在类FileListAdapter的方法convertSecondsToHMmSs中；
+
+	
 三大类标签：分类、本地、最近；
 
 分类
-5、分类涉及的类有HomePageFragment.java、CategoryPreference.java、CategoryItem.java；
+ashen添加 CategoryPreference.java
 如果确定只留九个子类别的话，需要在类CategoryPreference.java中修改以下函数，去除五个不需要的类别；
 public static List<CategoryItem> createDefaultCategorys(Resources res) {
 	// create the asus default category sorting
@@ -73,32 +140,13 @@ public static List<CategoryItem> createDefaultCategorys(Resources res) {
 	//categorys.add(CategoryItem.create(res, CategoryItem.LARGE_FILE, false));
 	//categorys.add(CategoryItem.create(res, CategoryItem.PDF, false));
 	//categorys.add(CategoryItem.create(res, CategoryItem.GAME, false));
+	categorys.add(CategoryItem.create(res, CategoryItem.QQ, true));
+	categorys.add(CategoryItem.create(res, CategoryItem.WECHAT, true));
 	return categorys;
 }
 
-在实现类别的添加时，不管是第一部分的分类项，还是第三部分的额外工具项，都有特定的管理类，
-如分类是上面的CategoryPreference，工具是ToolPreference；
-工具类别暂时去除回收站这一项，以后可能添加或者替换成垃圾清理（接口调用）：
-public static List<ToolItem> createDefaultTools(Context context) {
-	ArrayList<ToolItem> toolItems = new ArrayList<ToolItem>();
-	toolItems.add(new ToolItem(context,ToolItem.STORAGE_ANALYZER));
-	//toolItems.add(new ToolItem(context, ToolItem.RECYCLE_BIN));
-	toolItems.add(new ToolItem(context,ToolItem.HTTP_FILE_TRANSFER));
-	//addCMTool(context, toolItems);
-	toolItems.add(new ToolItem(context,ToolItem.CLEAN_MASTER));
-	//addZenUITool(context,toolItems);
-	toolItems.add(new ToolItem(context, ToolItem.HIDDEN_ZONE));
-	return toolItems;
-}
-注意，addCMTool方法从代码来看是判断当前设备是否是asus & preload com.cleanmaster.mguard，
-如果是则在tool栏添加clean master项，否则不加；这一点在布局等情况下需要考虑；
-CN版的将这一条去除即可，即都使用Asus CN版手机管家的垃圾回收接口；
-其实使用call该入口时，替换成新的接口即可，原先的代码结构进行细微的调整；
-目前点击HomePageFragment中的项时弹出提示：
-Toast.makeText(mActivity, "接垃圾清理接口", Toast.LENGTH_SHORT).show();
 
-
-6、添加两个类别，QQ和WeChat，包括图片、字串等，不过这些资源需要UI等team另外提供；
+添加两个类别，QQ和WeChat，包括图片、字串等，不过这些资源需要UI等team另外提供；
 colors.xml
 <color name="dark_theme_category_qq">#272280</color>
 <color name="dark_theme_category_wechat">#e6543e</color>
@@ -115,13 +163,7 @@ case WECHAT:
 同理还有很多地方需要添加这两个分类对应的选择项；
 
 
-7、去除分类选择与排序的选择菜单（原先在分类标签的右边）
-home_page.xml
-将id为category_edit的组件隐藏，android:visibility="gone"；
-在建立全局分页标签后，还需要将原先的分类标题category_title隐藏，即将两者的所属容器隐藏即可；
-
-
-8、设置分类图标的大小，到时候UI调整需要参考这里的尺寸；
+设置分类图标的大小，到时候UI调整需要参考这里的尺寸；
 一般需要调整的是手机，CN版本也应该手机为主，将76改为50会变小很多；
 <dimen name="category_image_height">50dp</dimen>
 <dimen name="category_image_count_width">36dp</dimen>
@@ -130,11 +172,9 @@ home_page.xml
 目前修改了SW为360和320两种设备尺寸。
 
 
-9、音乐不分文件夹，全部以列表的形式展示
-FileListManager.java
-ArrayList<LocalVFile> albumFiles = MediaProviderAsyncHelper.getMusicAlbums(getActivity());
-ArrayList<LocalVFile> albumFiles = MediaProviderAsyncHelper.getMusicFiles(getActivity(), false);
-最后参数bShowHidden，应该是标记是否显示隐藏文件，一般来说不需要；
+listContainer布局组件，包含了三部分：列表，扩展列表，表格，
+分别对应文档文件，音乐等文件列表形式（SlideListView），音乐等文件表格形式；
+
 
 整个文件管理器的文件排序方式都是最新-最旧，即最新的排在前面；
 可能需要调整为默认为a-z(不区分大小写)，且音乐这块需要添加字母导航功能；
@@ -152,19 +192,96 @@ else if (isCategoryMusic()) {
 menu.findItem(R.id.sort_item).setVisible((isCategoryLargeFile() || isCategoryRecent() || isCategoryGame() || isCategoryMusic() ? false : true);
 
 
-10、对应Music，不让其显示布局调整的按钮，而且始终以列表形式显示，
-FileListManager.java修改private void setViewSwitcherVisibility(int visibility) {
+对应Music，不让其显示布局调整的按钮，而且始终以列表形式显示，
+FileListManager.java
+private void setViewSwitcherVisibility(int visibility) {
 	if (isCategoryMusic()) {
 		mViewSwitcher.setVisibility(View.GONE);
 		ItemOperationUtility.getInstance().isListView = true;
 	}
-FixedListFragment.java判断是否是Music，不能影响其他类别的显示风格：
+FixedListFragment.java
+判断是否是Music，不能影响其他类别的显示风格你如果不是则从属性中读取上一次设置的显示标记值：
 FileListFragment fileListFragment = (FileListFragment) getActivity().getFragmentManager().findFragmentById(R.id.filelist);
 if(!fileListFragment.isCategoryMusic()) {
 	if(ItemOperationUtility.getInstance().containsViewModeInPreferences(getActivity())) {
 		ItemOperationUtility.getInstance().loadViewModeFromPreferences(getActivity(), true);
 	}
 }
+可以结合类别、显示及排序形式判断当前是否处于music类别+列表显示+字母排序，然后再进行字母排序时的索引处理；
+FileUtility.java
+public static void saveCurrentSortType(Activity mActivity,int sortType){
+		SharedPreferences fileInfo =    mActivity.getSharedPreferences(FileUtility.SCAN_FILE_ATTACHOP_INFO_NAME, Context.MODE_PRIVATE);
+		Editor editor = fileInfo.edit();
+		editor.putInt(FILE_SORTTYPE, sortType);
+		editor.commit();
+	MediaProviderAsyncHelper.setSortType(sortType);
+}
+public static int getCurrentSortType(Context context){
+	SharedPreferences sharedPrefences = context.getSharedPreferences(FileUtility.SCAN_FILE_ATTACHOP_INFO_NAME, Context.MODE_PRIVATE);
+	int type = sharedPrefences.getInt(FILE_SORTTYPE, SortType.SORT_DATE_DOWN);
+	MediaProviderAsyncHelper.setSortType(type);
+	return type;
+}
 
 	
-11、
+整体默认排序为名称a-z，
+FileListFragmnet.java
+//private int mSortType = SortType.SORT_DATE_DOWN;
+private int mSortType = SortType.SORT_NAME_DOWN;
+FileUtility.java
+//int type = sharedPrefences.getInt(FILE_SORTTYPE, SortType.SORT_DATE_DOWN);
+int type = sharedPrefences.getInt(FILE_SORTTYPE, SortType.SORT_NAME_DOWN);
+
+
+MediaProviderAsyncHelper.java
+String pinyin = characterParser.getSelling(file.getName());
+String sortString = pinyin.substring(0, 1).toUpperCase();
+if (sortString.matches("[A-Z]")) {
+	file.setSortLetters(sortString.toUpperCase());
+} else {
+	file.setSortLetters("#");
+}
+
+
+利用开源库/jar包处理拼音，防止自己写入的字符没办法处理一些特殊字符，因为汉字分一级和二级等，对应的可能为拼音和笔画等；
+pinyin = "";
+String[] strArray;
+char[] nameChar = file.getName().toCharArray();
+HanyuPinyinOutputFormat defaultFormat = new HanyuPinyinOutputFormat();
+defaultFormat.setCaseType(HanyuPinyinCaseType.LOWERCASE);
+defaultFormat.setToneType(HanyuPinyinToneType.WITHOUT_TONE);
+for (int i = 0, len = nameChar.length; i < len; i++) {
+	strArray = null;
+	if (nameChar[i] > 128) {
+		try {
+			strArray = PinyinHelper.toHanyuPinyinStringArray(nameChar[i], defaultFormat);
+			if (strArray != null) {
+				pinyin += strArray[0].charAt(0);
+			}
+		} catch (BadHanyuPinyinOutputFormatCombination e) {
+			e.printStackTrace();
+		}
+	} else {
+		pinyin += nameChar[i];
+	}
+}
+
+
+FileListFragment.java
+PinyinComparator pinyinComparator = new PinyinComparator(true);
+Arrays.sort(files, pinyinComparator);
+
+
+VFile.java
+private String sortLetters;  //显示数据拼音的首字母
+public String getSortLetters() {
+	return sortLetters;
+}
+public void setSortLetters(String sortLetters) {
+	this.sortLetters = sortLetters;
+}
+
+
+PinyinComparator.java
+String name1 = characterParser.getSelling(o1.getName()).toUpperCase();
+String name1 = characterParser.getSelling(o1.getName()).substring(0, 1).toUpperCase();
