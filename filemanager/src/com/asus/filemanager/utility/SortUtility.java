@@ -1,9 +1,7 @@
 
 package com.asus.filemanager.utility;
 
-import java.text.Collator;
 import java.util.Comparator;
-import java.util.Locale;
 
 public class SortUtility {
     public static class SortType {
@@ -192,39 +190,43 @@ public class SortUtility {
 
         @Override
         public int compare(VFile file1, VFile file2) {
+//            int result = 0;
+//            String s1 = file1.getName();
+//            String s2 = file2.getName();
+//            Locale locale = Locale.getDefault();
+//            Collator chinaCollator = Collator.getInstance(locale);
+//            AlphanumComparator alphanumComparator = new AlphanumComparator(chinaCollator);
+//            if (mAscending) {
+//                if (file1.isDirectory() && file2.isDirectory()) {
+//                    result = alphanumComparator.compare(s1, s2);
+//                } else if (!file1.isDirectory() && file2.isDirectory()) {
+//                    result = 1;
+//                } else if (file1.isDirectory() && !file2.isDirectory()) {
+//                    result = -1;
+//                } else {
+//                    result = alphanumComparator.compare(s1, s2);
+//                }
+//            } else {
+//                if (file1.isDirectory() && file2.isDirectory()) {
+//                    result = alphanumComparator.compare(s2, s1);
+//                } else if (!file1.isDirectory() && file2.isDirectory()) {
+//                    result = 1;
+//                } else if (file1.isDirectory() && !file2.isDirectory()) {
+//                    result = -1;
+//                } else {
+//                    result = alphanumComparator.compare(s2, s1);
+//                }
+//            }
+//            return result;
             int result = 0;
-            String s1 = file1.getName();
-            String s2 = file2.getName();
-            Locale locale = Locale.getDefault();
-            Collator chinaCollator = Collator.getInstance(locale);
-            AlphanumComparator alphanumComparator = new AlphanumComparator(chinaCollator);
-            if (mAscending) {
-                if (!file1.isDirectory() && file2.isDirectory()) {
-                    result = 1;
-                } else if (file1.isDirectory() && !file2.isDirectory()) {
-                    result = -1;
-                } else {
-                    if (file2.getSortLetters().equals("#")) {
-                        result = 1;
-                    } else if (file1.getSortLetters().equals("#")) {
-                        result = -1;
-                    } else {
-                        result = file1.getPinyin().compareTo(file2.getPinyin());
-                    }
-                }
+            if (!file1.isDirectory() && file2.isDirectory()) {
+                result = 1;
+            } else if (file1.isDirectory() && !file2.isDirectory()) {
+                result = -1;
             } else {
-                if (!file1.isDirectory() && file2.isDirectory()) {
-                    result = 1;
-                } else if (file1.isDirectory() && !file2.isDirectory()) {
-                    result = -1;
-                } else {
-                    if (file2.getSortLetters().equals("#")) {
-                        result = 1;
-                    } else if (file1.getSortLetters().equals("#")) {
-                        result = -1;
-                    } else {
-                        result = file2.getPinyin().compareTo(file1.getPinyin());
-                    }
+                result = PinyinUtility.getCompareResult(file1.getName(), file2.getName());
+                if (!mAscending) {
+                    result *= -1;
                 }
             }
             return result;
@@ -242,23 +244,37 @@ public class SortUtility {
 
         @Override
         public int compare(FolderElement folderElement1, FolderElement folderElement2) {
+//            int result = 0;
+//            VFile file1 = folderElement1.getFile();
+//            VFile file2 = folderElement2.getFile();
+//
+//            String s1 = file1.getAbsolutePath() + "/";
+//            String s2 = file2.getAbsolutePath() + "/";
+//
+//            if (!file1.isDirectory() && file2.isDirectory()) {
+//                result = 1;
+//            } else if (file1.isDirectory() && !file2.isDirectory()) {
+//                result = -1;
+//            } else {
+//                result = s1.compareToIgnoreCase(s2);
+//            }
+//
+//            if (!mAscending) {
+//                result = -result;
+//            }
+//            return result;
             int result = 0;
             VFile file1 = folderElement1.getFile();
             VFile file2 = folderElement2.getFile();
-
-            String s1 = file1.getAbsolutePath() + "/";
-            String s2 = file2.getAbsolutePath() + "/";
-
             if (!file1.isDirectory() && file2.isDirectory()) {
                 result = 1;
             } else if (file1.isDirectory() && !file2.isDirectory()) {
                 result = -1;
             } else {
-                result = s1.compareToIgnoreCase(s2);
-            }
-
-            if (!mAscending) {
-                result = -result;
+                result = PinyinUtility.getCompareResult(file1.getAbsolutePath() + "/", file2.getAbsolutePath() + "/");
+                if (!mAscending) {
+                    result *= -1;
+                }
             }
             return result;
         }
@@ -275,20 +291,32 @@ public class SortUtility {
 
         @Override
         public int compare(UnZipPreviewData data1, UnZipPreviewData data2) {
+//            int result = 0;
+//            String s1 = data1.getPath();
+//            String s2 = data2.getPath();
+//
+//            if (!data1.isFolder() && data2.isFolder()) {
+//                result = 1;
+//            } else if (data1.isFolder() && !data2.isFolder()) {
+//                result = -1;
+//            } else {
+//                result = s1.compareToIgnoreCase(s2);
+//            }
+//
+//            if(!mAscending) {
+//                result = -result;
+//            }
+//            return result;
             int result = 0;
-            String s1 = data1.getPath();
-            String s2 = data2.getPath();
-
             if (!data1.isFolder() && data2.isFolder()) {
                 result = 1;
             } else if (data1.isFolder() && !data2.isFolder()) {
                 result = -1;
             } else {
-                result = s1.compareToIgnoreCase(s2);
-            }
-
-            if(!mAscending) {
-                result = -result;
+                result = PinyinUtility.getCompareResult(data1.getPath(), data2.getPath());
+                if (!mAscending) {
+                    result *= -1;
+                }
             }
             return result;
         }
